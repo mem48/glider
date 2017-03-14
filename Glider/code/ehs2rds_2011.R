@@ -5,33 +5,33 @@ library(lazyeval, lib.loc = "M:/R/R-3.3.1/library")
 current_year <- 2013
 
 
-infld <- "C:/Users/earmmor/OneDrive/OD/Glider - Private/WP2/Data/EHS/EHS-2013-SPSS/UKDA-7802-spss/spss/spss19/"
+infld <- "C:/Users/earmmor/OneDrive/OD/Glider - Private/WP2/Data/EHS/EHS-2011-SPSS/UKDA-7386-spss/spss/spss19/"
 ###############################################################################
-#Physical Table
+#Physical Table - only partical match
 ##############################################################################
-physical <- read.spss(paste0(infld,"derived/physical_12and13.sav"),to.data.frame=TRUE)
-physical <- physical[,c("aacode","dwtypenx","dwage9x","floorx","floor5x","storeyx","typerstr",
+physical2 <- read.spss(paste0(infld,"derived/physical_10plus11.sav"),to.data.frame=TRUE)
+physical2 <- physical2[,c("aacode","dwtypenx","dwage9x","floorx","floor5x","storeyx","typerstr",
                         "typewstr2","constx","typewfin","typewin","dblglaz4","arnatx","attic",
                         "basement","heat7x","heatsec","sysage","mainfuel","watersys","boiler",
                         "wallinsy","wallcavy","sap12")]
 #############################################################################
-#General Table
+#General Table - match when fixing names
 ###########################################################################
-general <- read.spss(paste0(infld,"derived/general_12and13.sav"),to.data.frame=TRUE)
-general <- general[,c("aacode","tenure4x","vacantx","GorEHCS","rumorph","imd1010")]
-names(general) <- c("aacode","tenure4x","vacantx","GorEHCS","rumorph","imd")
+general2 <- read.spss(paste0(infld,"derived/general_10plus11.sav"),to.data.frame=TRUE)
+general2 <- general2[,c("aacode","tenure4x","vacantx","gorEHCS","rumorph","Imd1010")]
+names(general2) <- c("aacode","tenure4x","vacantx","GorEHCS","rumorph","imd")
 
 ##########################################################################
-#elevate Table
+#elevate Table - match
 ####################################################################
-elevate <- read.spss(paste0(infld,"physical/elevate.sav"),to.data.frame=TRUE)
-elevate <- elevate[,c( "aacode","Felsolff","Felpvff","Felcavff","Felextff",
+elevate2 <- read.spss(paste0(infld,"physical/elevate.sav"),to.data.frame=TRUE)
+elevate2 <- elevate2[,c( "aacode","Felsolff","Felpvff","Felcavff","Felextff",
                                 "Felsollf","Felpvlf","Felcavlf","Felextlf",
                                 "Felsolrf","Felpvrf","Felcavrf","Felextrf",
                                 "Felsolbf","Felpvbf","Felcavbf","Felextbf", 
                                 "felroofp","Fvwpvbf","Fvwpvlf","Fvwpvrf","Fvwpvff")]
 ############################################################################
-#Services Table
+#Services Table - match
 ############################################################################
 services <- read.spss(paste0(infld,"physical/services.sav"),to.data.frame=TRUE)
 services <- services[,c("aacode","Finchtyp","Finmhfue","Finmhboi","Finchbag",
@@ -121,11 +121,6 @@ roof <- roof[,c("aacode","typerstr","Flitypes","Fliinsul","Finintyp","Flithick",
 #Walls Table
 ###########################################################################
 walls <- combined[,c("aacode","typewstr2","constx","typewfin","wallinsy","wallcavy")]
-
-"Felcavff","Felextff",
-"Felsollf","Felpvlf","Felcavlf","Felextlf",
-"Felsolrf","Felpvrf","Felcavrf","Felextrf",
-"Felsolbf","Felpvbf","Felcavbf","Felextbf",
 
 #Plot
 counts <- table(walls$wallinsy)
