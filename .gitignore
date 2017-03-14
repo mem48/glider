@@ -1,2 +1,4 @@
 *.pper
 Glider/.Rhistory
+*.Rprofile
+Glider/.Rproj.user/14C5CF49/saved_source_markers
