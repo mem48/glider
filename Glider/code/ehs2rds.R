@@ -12,24 +12,24 @@ infld <- "C:/Users/earmmor/OneDrive/OD/Glider - Private/WP2/Data/EHS/EHS-2013-SP
 physical <- read.spss(paste0(infld,"derived/physical_12and13.sav"),to.data.frame=TRUE)
 physical <- physical[,c("aacode","dwtypenx","dwage9x","floorx","floor5x","storeyx","typerstr",
                         "typewstr2","constx","typewfin","typewin","dblglaz4","arnatx","attic",
-                        "basement","heat7x","heatsec","sysage","mainfuel","watersys","boiler",
+                        "basement","heat7x","sysage","mainfuel","watersys","boiler",
                         "wallinsy","wallcavy","sap12")]
 #############################################################################
 #General Table
 ###########################################################################
 general <- read.spss(paste0(infld,"derived/general_12and13.sav"),to.data.frame=TRUE)
-general <- general[,c("aacode","tenure4x","vacantx","GorEHCS","rumorph","imd1010")]
-names(general) <- c("aacode","tenure4x","vacantx","GorEHCS","rumorph","imd")
+general <- general[,c("aacode","aagpd1213","tenure4x","vacantx","GorEHCS","rumorph","imd1010")]
+names(general) <- c("aacode","aagpd1213","tenure4x","vacantx","GorEHCS","imd")
 
 ##########################################################################
 #elevate Table
 ####################################################################
 elevate <- read.spss(paste0(infld,"physical/elevate.sav"),to.data.frame=TRUE)
-elevate <- elevate[,c( "aacode","Felsolff","Felpvff","Felcavff","Felextff",
-                                "Felsollf","Felpvlf","Felcavlf","Felextlf",
-                                "Felsolrf","Felpvrf","Felcavrf","Felextrf",
-                                "Felsolbf","Felpvbf","Felcavbf","Felextbf", 
-                                "felroofp","Fvwpvbf","Fvwpvlf","Fvwpvrf","Fvwpvff")]
+elevate <- elevate[,c( "aacode","Felsolff","Felpvff",
+                                "Felsollf","Felpvlf",
+                                "Felsolrf","Felpvrf",
+                                "Felsolbf","Felpvbf",
+                                "felroofp","Fvwpvbf","Fvwpvlf","Fvwpvrf","Fvwpvff","felcwiab")]
 ############################################################################
 #Services Table
 ############################################################################
@@ -37,20 +37,34 @@ services <- read.spss(paste0(infld,"physical/services.sav"),to.data.frame=TRUE)
 services <- services[,c("aacode","Finchtyp","Finmhfue","Finmhboi","Finchbag",
                         "Finchoff","Finchthe","Finchtim","Finchove","Finchrom","Finchcon","Finchtrv","Finchtzc","Finchdst",
                         "Finoheat","Finohphs","Finohtyp",
-                        "Finwheat", "Finwhoty","Finwhoac","Finwhoag","Finwhxpr","Finwhxty","Finwhxag",
+                        "Finwheat","Finwhoty","Finwhoac","Finwhoag","Finwhxpr","Finwhxty","Finwhxag",
                         "Finwsipr","Finwsiag","Finwdipr","Finwdiag",
                         "Finwsppr","Finwspty","Finwspag",
                         "Finwmppr","Finwmpty","Finwmpag",
                         "Finwhlpr","Finwhlty","Finwhlag",
-                        "Finwhcyl","Finwhsiz","Finwhins","Finwhmms",
+                        "Finwhcyl","Finwhins","Finwhmms",
                         "Finwhcen","Finwhthe","Finlopos","Flitypes","Fliinsul","Finintyp","Flithick")]
+
+###########################################################################
+#Around Table
+###########################################################################
+around <- read.spss(paste0(infld,"physical/around.sav"),to.data.frame=TRUE)
+around <- around[,c("aacode","fcwipres")]
+
+
+
+
+
+
+
 #########################################################################
 #Combine
 ########################################################################
 combined <- left_join(physical,general, by = "aacode")
 combined <- left_join(combined,services, by = "aacode")
 combined <- left_join(combined,elevate, by = "aacode")
-remove(physical,general,services,elevate)
+combined <- left_join(combined,around, by = "aacode")
+#remove(physical,general,services,elevate)
 
 #######################################################################
 #roof table
@@ -120,12 +134,53 @@ roof <- roof[,c("aacode","typerstr","Flitypes","Fliinsul","Finintyp","Flithick",
 ##########################################################################
 #Walls Table
 ###########################################################################
-walls <- combined[,c("aacode","typewstr2","constx","typewfin","wallinsy","wallcavy")]
+walls <- combined[,c("aacode","typewstr2","wallcavy","Felextff","Felextlf","Felextrf","Felextbf","Felcavff","Felcavlf","Felcavrf","Felcavbf","felcwiab","fcwipres","wallinsy")]
 
-"Felcavff","Felextff",
-"Felsollf","Felpvlf","Felcavlf","Felextlf",
-"Felsolrf","Felpvrf","Felcavrf","Felextrf",
-"Felsolbf","Felpvbf","Felcavbf","Felextbf",
+#Cavity Walls
+walls$cavity <- NA
+for(a in 1:nrow(walls)){
+  if((walls$Felcavff[a] == "Yes" | is.na(walls$Felcavff[a])) &
+     (walls$Felcavbf[a] == "Yes" | is.na(walls$Felcavbf[a])) &
+     (walls$Felcavlf[a] == "Yes" | is.na(walls$Felcavlf[a])) &
+     (walls$Felcavrf[a] == "Yes" | is.na(walls$Felcavrf[a])) &
+     (walls$fcwipres[a] == "Yes" | is.na(walls$fcwipres[a]))
+     ){
+    walls$cavity[a] <- "Yes"
+  }else if((walls$Felcavff[a] == "No" | is.na(walls$Felcavff[a])) &
+           (walls$Felcavbf[a] == "No" | is.na(walls$Felcavbf[a])) &
+           (walls$Felcavlf[a] == "No" | is.na(walls$Felcavlf[a])) &
+           (walls$Felcavrf[a] == "No" | is.na(walls$Felcavrf[a])) &
+           (walls$fcwipres[a] == "No" | is.na(walls$fcwipres[a]))
+           ){
+    walls$cavity[a] <- "No"
+  }else{
+    walls$cavity[a] <- "Part"
+  }
+}
+walls$cavity <- as.factor(walls$cavity)
+
+summary(walls$fcwipres)
+summary(walls$wallinsy)
+summary(walls$cavity)
+test <- walls[walls$wallinsy == "cavity with insulation",]
+test2 <- test[,c("wallinsy","cavity","fcwipres")]
+uni <- unique(test2)
+uni$count <- NA
+for(p in 1:nrow(uni)){
+  uni$count[p] <- nrow(test2[test2$wallinsy == uni$wallinsy[p] & 
+                             test2$cavity == uni$cavity[p] &
+                             test2$fcwipres == uni$fcwipres[p]
+                             
+                             ,])
+}
+sum(uni$count)
+nrow(test2)
+
+
+test <- walls[,c("Felcavff","Felcavbf","Felcavlf","Felcavrf","cavity","wallcavy","wallinsy")]
+test <- walls[,c("typewstr2","cavity","wallinsy")]
+uni <- unique(test)
+
 
 #Plot
 counts <- table(walls$wallinsy)
@@ -176,14 +231,14 @@ shape <- shape[,rems]
 ############################################################################
 #Context Table
 ###########################################################################
-context <- combined[c("aacode","tenure4x","vacantx","GorEHCS","rumorph","rucombin","imd1010","arnatx")]
+context <- combined[c("aacode","tenure4x","vacantx","GorEHCS","rumorph","imd","arnatx")]
 
 
 
 #########################################################################
 #Energy Table
 ##########################################################################
-energy <- combined[c("aacode","Finchtyp","Findisty","mainfuel","Finmhboi","Finchbag","heatsec","sysage","watersys",
+energy <- combined[c("aacode","Finchtyp","mainfuel","Finmhboi","Finchbag","sysage","watersys",
                      "Finchoff","Finchthe","Finchtim","Finchove","Finchrom","Finchcon","Finchtrv","Finchtzc","Finchdst",
                      "Finohphs",
                      "Finwheat", "Finwhoty","Finwhoag",
@@ -420,39 +475,12 @@ windows <- windows[,c("aacode","dblglaze","dblglazeage","sngglaze","sngglazeage"
 
 remove(combined)
 
-combined <- left_join(context,shape, by = "aacode")
-combined <- left_join(combined,walls, by = "aacode")
-combined <- left_join(combined,roof, by = "aacode")
-combined <- left_join(combined,windows, by = "aacode")
-combined <- left_join(combined,doors, by = "aacode")
-combined <- left_join(combined,energy, by = "aacode")
+combined_2013 <- left_join(context,shape, by = "aacode")
+combined_2013 <- left_join(combined_2013,walls, by = "aacode")
+combined_2013 <- left_join(combined_2013,roof, by = "aacode")
+combined_2013 <- left_join(combined_2013,windows, by = "aacode")
+combined_2013 <- left_join(combined_2013,doors, by = "aacode")
+combined_2013 <- left_join(combined_2013,energy, by = "aacode")
 
-
-
-test <- combined[,c("GorEHCS","rumorph","rucombin",    
-"arnatx","floor5x",     "storeyx",     "basement",    "type",        "age",         "typewstr2",  
-"constx","typewfin",    "wallinsy",    "wallcavy",    "typerstr",    "Flitypes",    "Fliinsul",   
-"Finintyp",    "Flithick",    "felroofp",    "attic",       "PV",          "Solar",       "SolarSuit",  
-"dblglaze",    "dblglazeage", "sngglaze",    "sngglazeage", "doornumb",    "doorage",     "Finchtyp",   
-"Findisty",    "mainfuel",    "Finmhboi",    "Finchbag",    "heatsec",     "sysage",      "watersys",   
-"Finohphs",    "Finwheat",    "Finwhoty",    "Finwhoag",    "Finwhlty",    "Finwhsiz",    "Finwhins",   
-"Finwhmms",    "control",     "radcontrol",  "tank",        "immersage",   "instant"  )]
-#uni <- unique(test)
-#Count the uniqes
-#uni <- as.data.frame(table(test))
-uni <- dplyr::count(test, vars = c("GorEHCS","rumorph","rucombin",    
-                                   "arnatx","floor5x",     "storeyx",     "basement",    "type",        "age",         "typewstr2",  
-                                   "constx","typewfin",    "wallinsy",    "wallcavy",    "typerstr",    "Flitypes",    "Fliinsul",   
-                                   "Finintyp",    "Flithick",    "felroofp",    "attic",       "PV",          "Solar",       "SolarSuit",  
-                                   "dblglaze",    "dblglazeage", "sngglaze",    "sngglazeage", "doornumb",    "doorage",     "Finchtyp",   
-                                   "Findisty",    "mainfuel",    "Finmhboi",    "Finchbag",    "heatsec",     "sysage",      "watersys",   
-                                   "Finohphs",    "Finwheat",    "Finwhoty",    "Finwhoag",    "Finwhlty",    "Finwhsiz",    "Finwhins",   
-                                   "Finwhmms",    "control",     "radcontrol",  "tank",        "immersage",   "instant"  ))
-
-
-uni$count <- NA
-for(p in 1:nrow(uni)){
-  uni$count[p] <- nrow(test[test$Finchtyp == uni$Finchtyp[p] & 
-                             test$watersys == uni$watersys[p],])
-}
-sum(uni$count)
+remove(around,context,doors,elevate,general,physical,roof,services,shape,test,uni,test2, walls, windows)
+write.csv(combined_2013,"combined_2013.csv")

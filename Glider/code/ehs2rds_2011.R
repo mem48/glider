@@ -2,30 +2,30 @@
 library(foreign)
 library(dplyr, lib.loc = "M:/R/R-3.3.1/library")
 library(lazyeval, lib.loc = "M:/R/R-3.3.1/library")
-current_year <- 2013
+current_year <- 2011
 
 
 infld <- "C:/Users/earmmor/OneDrive/OD/Glider - Private/WP2/Data/EHS/EHS-2011-SPSS/UKDA-7386-spss/spss/spss19/"
 ###############################################################################
 #Physical Table - only partical match
 ##############################################################################
-physical2 <- read.spss(paste0(infld,"derived/physical_10plus11.sav"),to.data.frame=TRUE)
-physical2 <- physical2[,c("aacode","dwtypenx","dwage9x","floorx","floor5x","storeyx","typerstr",
-                        "typewstr2","constx","typewfin","typewin","dblglaz4","arnatx","attic",
-                        "basement","heat7x","heatsec","sysage","mainfuel","watersys","boiler",
-                        "wallinsy","wallcavy","sap12")]
+physical <- read.spss(paste0(infld,"derived/physical_10plus11.sav"),to.data.frame=TRUE)
+physical <- physical[,c("aacode","dwtypenx","dwage9x","floorx","floor5x","storeyx","typerstr",
+                        "typewstr2","typewin","dblglaz4","arnatx","attic",
+                        "basement","heat7x","sysage","mainfuel","watersys","boiler",
+                        "wallinsx","wallcavx","sap12")]
 #############################################################################
 #General Table - match when fixing names
 ###########################################################################
-general2 <- read.spss(paste0(infld,"derived/general_10plus11.sav"),to.data.frame=TRUE)
-general2 <- general2[,c("aacode","tenure4x","vacantx","gorEHCS","rumorph","Imd1010")]
-names(general2) <- c("aacode","tenure4x","vacantx","GorEHCS","rumorph","imd")
+general <- read.spss(paste0(infld,"derived/general_10plus11.sav"),to.data.frame=TRUE)
+general <- general[,c("aacode","aagpd1011","tenure4x","vacantx","gorEHCS","rumorph","Imd1010")]
+names(general) <- c("aacode","aagpd1011","tenure4x","vacantx","GorEHCS","rumorph","imd")
 
 ##########################################################################
 #elevate Table - match
 ####################################################################
-elevate2 <- read.spss(paste0(infld,"physical/elevate.sav"),to.data.frame=TRUE)
-elevate2 <- elevate2[,c( "aacode","Felsolff","Felpvff","Felcavff","Felextff",
+elevate <- read.spss(paste0(infld,"physical/elevate.sav"),to.data.frame=TRUE)
+elevate <- elevate[,c( "aacode","Felsolff","Felpvff","Felcavff","Felextff",
                                 "Felsollf","Felpvlf","Felcavlf","Felextlf",
                                 "Felsolrf","Felpvrf","Felcavrf","Felextrf",
                                 "Felsolbf","Felpvbf","Felcavbf","Felextbf", 
@@ -120,10 +120,10 @@ roof <- roof[,c("aacode","typerstr","Flitypes","Fliinsul","Finintyp","Flithick",
 ##########################################################################
 #Walls Table
 ###########################################################################
-walls <- combined[,c("aacode","typewstr2","constx","typewfin","wallinsy","wallcavy")]
+walls <- combined[,c("aacode","typewstr2","wallinsx","wallcavx")]
 
 #Plot
-counts <- table(walls$wallinsy)
+counts <- table(walls$wallinsx)
 barplot(counts, main="External Wall Insualtion", ylab="Number of Dwellings")
 
 ############################################################################################
@@ -171,14 +171,14 @@ shape <- shape[,rems]
 ############################################################################
 #Context Table
 ###########################################################################
-context <- combined[c("aacode","tenure4x","vacantx","GorEHCS","rumorph","rucombin","imd1010","arnatx")]
+context <- combined[c("aacode","tenure4x","vacantx","GorEHCS","rumorph","imd","arnatx")]
 
 
 
 #########################################################################
 #Energy Table
 ##########################################################################
-energy <- combined[c("aacode","Finchtyp","Findisty","mainfuel","Finmhboi","Finchbag","heatsec","sysage","watersys",
+energy <- combined[c("aacode","Finchtyp","mainfuel","Finmhboi","Finchbag","sysage","watersys",
                      "Finchoff","Finchthe","Finchtim","Finchove","Finchrom","Finchcon","Finchtrv","Finchtzc","Finchdst",
                      "Finohphs",
                      "Finwheat", "Finwhoty","Finwhoag",
@@ -415,39 +415,12 @@ windows <- windows[,c("aacode","dblglaze","dblglazeage","sngglaze","sngglazeage"
 
 remove(combined)
 
-combined <- left_join(context,shape, by = "aacode")
-combined <- left_join(combined,walls, by = "aacode")
-combined <- left_join(combined,roof, by = "aacode")
-combined <- left_join(combined,windows, by = "aacode")
-combined <- left_join(combined,doors, by = "aacode")
-combined <- left_join(combined,energy, by = "aacode")
+combined_2011 <- left_join(context,shape, by = "aacode")
+combined_2011 <- left_join(combined_2011,walls, by = "aacode")
+combined_2011 <- left_join(combined_2011,roof, by = "aacode")
+combined_2011 <- left_join(combined_2011,windows, by = "aacode")
+combined_2011 <- left_join(combined_2011,doors, by = "aacode")
+combined_2011 <- left_join(combined_2011,energy, by = "aacode")
 
+remove(around,context,doors,elevate,general,physical,roof,services,shape,test,uni,test2, walls, windows)
 
-
-test <- combined[,c("GorEHCS","rumorph","rucombin",    
-"arnatx","floor5x",     "storeyx",     "basement",    "type",        "age",         "typewstr2",  
-"constx","typewfin",    "wallinsy",    "wallcavy",    "typerstr",    "Flitypes",    "Fliinsul",   
-"Finintyp",    "Flithick",    "felroofp",    "attic",       "PV",          "Solar",       "SolarSuit",  
-"dblglaze",    "dblglazeage", "sngglaze",    "sngglazeage", "doornumb",    "doorage",     "Finchtyp",   
-"Findisty",    "mainfuel",    "Finmhboi",    "Finchbag",    "heatsec",     "sysage",      "watersys",   
-"Finohphs",    "Finwheat",    "Finwhoty",    "Finwhoag",    "Finwhlty",    "Finwhsiz",    "Finwhins",   
-"Finwhmms",    "control",     "radcontrol",  "tank",        "immersage",   "instant"  )]
-#uni <- unique(test)
-#Count the uniqes
-#uni <- as.data.frame(table(test))
-uni <- dplyr::count(test, vars = c("GorEHCS","rumorph","rucombin",    
-                                   "arnatx","floor5x",     "storeyx",     "basement",    "type",        "age",         "typewstr2",  
-                                   "constx","typewfin",    "wallinsy",    "wallcavy",    "typerstr",    "Flitypes",    "Fliinsul",   
-                                   "Finintyp",    "Flithick",    "felroofp",    "attic",       "PV",          "Solar",       "SolarSuit",  
-                                   "dblglaze",    "dblglazeage", "sngglaze",    "sngglazeage", "doornumb",    "doorage",     "Finchtyp",   
-                                   "Findisty",    "mainfuel",    "Finmhboi",    "Finchbag",    "heatsec",     "sysage",      "watersys",   
-                                   "Finohphs",    "Finwheat",    "Finwhoty",    "Finwhoag",    "Finwhlty",    "Finwhsiz",    "Finwhins",   
-                                   "Finwhmms",    "control",     "radcontrol",  "tank",        "immersage",   "instant"  ))
-
-
-uni$count <- NA
-for(p in 1:nrow(uni)){
-  uni$count[p] <- nrow(test[test$Finchtyp == uni$Finchtyp[p] & 
-                             test$watersys == uni$watersys[p],])
-}
-sum(uni$count)
