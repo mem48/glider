@@ -439,10 +439,16 @@ for(g in 1:nrow(energy)){
   if(energy$mainfuel[g] == "bulk LPG" | energy$mainfuel[g] == "bottled gas - propane"){
     energy$mainfuel[g] <- "gas (other)"
   }else if(energy$mainfuel[g] == "house coal" | energy$mainfuel[g] == "smokeless fuel" | energy$mainfuel[g] == "anthracite nuts" | energy$mainfuel[g] == "anthracite grains"){
-    energy$mainfuel[g] <- "solid fossil fuel"
+    energy$mainfuel[g] <- "coal"
+  }else if(energy$mainfuel[g] =="electricity (7 hr. on peak)" | energy$mainfuel[g] == "electricity (7 hr. off peak)" | energy$mainfuel[g] ==  "electricity (standard tariff)" | energy$mainfuel[g] ==  "electricity (10 hr. on peak)" | energy$mainfuel[g] == "electricity (10 hr. off peak)" | energy$mainfuel[g] == "electricity (24 hr heating tariff)"){
+    energy$mainfuel[g] <- "electricity"
   }
 }
+energy$mainfuel <- as.factor(energy$mainfuel)
 
+#Plot
+counts <- table(energy$mainfuel)
+barplot(counts, main="Heater Fuel", ylab="Number of Dwellings")
 
 #Mulit-row per dwelling tables
 ######################################################################
