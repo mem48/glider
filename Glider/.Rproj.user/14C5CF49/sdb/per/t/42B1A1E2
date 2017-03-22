@@ -1,0 +1,25 @@
+{
+    "contents" : "",
+    "created" : 1489511721147.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "42B1A1E2",
+    "lastKnownWriteTime" : 7011605692497750387,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "2nj20i8dhg",
+        "caption" : "services",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=services&cache_key=2nj20i8dhg",
+        "displayedObservations" : 12498,
+        "environment" : "",
+        "object" : "services",
+        "totalObservations" : 12498,
+        "variables" : 49
+    },
+    "relative_order" : 9,
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}

@@ -1,0 +1,25 @@
+{
+    "contents" : "",
+    "created" : 1489513941462.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "E8F9ACED",
+    "lastKnownWriteTime" : 7011605692497750387,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "tc6mkv61w1",
+        "caption" : "uni",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=uni&cache_key=tc6mkv61w1",
+        "displayedObservations" : "55",
+        "environment" : "",
+        "object" : "uni",
+        "totalObservations" : "55",
+        "variables" : "3"
+    },
+    "relative_order" : 8,
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}

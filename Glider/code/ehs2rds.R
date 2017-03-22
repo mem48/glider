@@ -554,7 +554,20 @@ combined_2013$LoftIns <- as.factor(combined_2013$LoftIns)
 #remove(around,context,doors,elevate,general,physical,roof,services,shape,test,uni,test2, walls, windows)
 write.csv(combined_2013,"combined_2013.csv")
 
-test <- combined_2013[,c("type","dwage9x","floor5x","basement","typewstr2","wallinsy","typerstr","attic","PV","Solar","SolarSuit","LoftIns","dblglazeage",
-                         "Finchtyp","mainfuel","Finmhboi","Finchbag","sysage","watersys","control","radcontrol","tank","tankins","instant")]
+#test <- combined_2013[,c("type","dwage9x","floor5x","basement","typewstr2","wallinsy","typerstr","attic","PV","Solar","SolarSuit","LoftIns","dblglazeage",
+#                         "Finchtyp","mainfuel","Finmhboi","Finchbag","sysage","watersys","control","radcontrol","tank","tankins","instant")]
 
-uni <- unique(test)
+#uni <- unique(test)
+
+test <- combined_2013[,c("aacode","aagpd1213","Finchtyp","mainfuel","watersys","tank")]
+test <- test[with(test, order(Finchtyp,mainfuel,watersys,tank)),]
+uni <- unique(test[,c("Finchtyp","mainfuel","watersys","tank")])
+
+uni$count <- NA
+uni$countsamp <- NA
+uni$conf <- NA
+for (f in 1:nrow(uni)){
+  uni$count[f] <- sum(test$aagpd1213[test$Finchtyp == uni$Finchtyp[f] & test$mainfuel == uni$mainfuel[f] & test$watersys == uni$watersys[f] & test$tank == uni$tank[f] ])
+  uni$countsamp[f] <- nrow(test[test$Finchtyp == uni$Finchtyp[f] & test$mainfuel == uni$mainfuel[f] & test$watersys == uni$watersys[f] & test$tank == uni$tank[f], ])
+  uni$conf[f] <- uni$count[f] / uni$countsamp[f]
+}

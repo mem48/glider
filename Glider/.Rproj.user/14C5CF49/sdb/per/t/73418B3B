@@ -1,0 +1,25 @@
+{
+    "contents" : "",
+    "created" : 1489511764386.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "73418B3B",
+    "lastKnownWriteTime" : 7011605692497750387,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "5d86b12ppd",
+        "caption" : "services3",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=services3&cache_key=5d86b12ppd",
+        "displayedObservations" : 16150,
+        "environment" : "",
+        "object" : "services3",
+        "totalObservations" : 16150,
+        "variables" : 101
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}

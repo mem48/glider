@@ -1,0 +1,25 @@
+{
+    "contents" : "",
+    "created" : 1489512980354.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "FF03ED57",
+    "lastKnownWriteTime" : 7011605692497750387,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "h34cabsvrs",
+        "caption" : "walls",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=walls&cache_key=h34cabsvrs",
+        "displayedObservations" : 12498,
+        "environment" : "",
+        "object" : "walls",
+        "totalObservations" : 12498,
+        "variables" : 14
+    },
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}
