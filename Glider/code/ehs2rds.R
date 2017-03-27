@@ -14,14 +14,14 @@ physical <- physical[,c("aacode","dwtypenx","dwage9x","floorx","floor5x","storey
                         "typewstr2","constx","typewfin","typewin","dblglaz4","arnatx","attic",
                         "basement","heat7x","sysage","mainfuel","watersys","boiler",
                         "wallinsy","sap12")]
-
+physical$aacode <- as.character(physical$aacode)
 #############################################################################
 #General Table
 ###########################################################################
 general <- read.spss(paste0(infld,"derived/general_12and13.sav"),to.data.frame=TRUE)
 general <- general[,c("aacode","aagpd1213","tenure4x","GorEHCS","imd1010")]
 names(general) <- c("aacode","aagpd1213","tenure4x","GorEHCS","imd")
-
+general$aacode <- as.character(general$aacode)
 ##########################################################################
 #elevate Table
 ####################################################################
@@ -31,7 +31,7 @@ elevate <- elevate[,c( "aacode","Felsolff","Felpvff",
                                 "Felsolrf","Felpvrf",
                                 "Felsolbf","Felpvbf",
                                 "felroofp","Fvwpvbf","Fvwpvlf","Fvwpvrf","Fvwpvff")]
-
+elevate$aacode <- as.character(elevate$aacode)
 ############################################################################
 #Services Table
 ############################################################################
@@ -46,7 +46,7 @@ services <- services[,c("aacode","Finchtyp","Finmhfue","Finmhboi","Finchbag",
                         "Finwhlpr","Finwhlag",
                         "Finwhcyl","Finwhins","Finwhmms",
                         "Finwhcen","Finwhthe","Finlopos","Flitypes","Fliinsul","Finintyp","Flithick")]
-
+services$aacode <- as.character(services$aacode)
 #########################################################################
 #Combine
 ########################################################################
@@ -215,7 +215,9 @@ for (c in 1:nrow(shape)){
     shape$type[c] <- paste0("Top Floor ",shape$dwtypenx[c])
   }else if(shape$Finlopos[c] == "Ground floor flat"){
     shape$type[c] <- paste0("Ground floor ",shape$dwtypenx[c])
-  }else if(shape$Finlopos[c] == "House/Bungalow"){
+  }else if(shape$Finlopos[c] == "House/Bungalow" & shape$dwtypenx[c] == "bungalow"){
+    shape$type[c] <- paste0(shape$dwtypenx[c])
+  }else if(shape$Finlopos[c] == "House/Bungalow" & shape$dwtypenx[c] != "bungalow"){
     shape$type[c] <- paste0(shape$dwtypenx[c]," ",shape$storeyx[c]," floors")
   }
 }
@@ -537,9 +539,6 @@ windows <- windows[,c("aacode","dblglaze","dblglazeage","sngglaze","sngglazeage"
 #####################################################################
 #Join back into a master table
 ###################################################################
-
-
-
 combined_2013 <- left_join(context,shape, by = "aacode")
 combined_2013 <- left_join(combined_2013,walls, by = "aacode")
 combined_2013 <- left_join(combined_2013,roof, by = "aacode")
@@ -549,25 +548,63 @@ combined_2013 <- left_join(combined_2013,energy, by = "aacode")
 
 combined_2013$LoftIns <- as.factor(combined_2013$LoftIns)
 
+remove(context,doors,elevate,general,physical,roof,services,shape, walls, windows)
+
+#Asign Energy Architype
+energy_arch <- read.csv("data/energy_archetypes_11-13.csv", stringsAsFactors = FALSE)
+
+combined_2013$energytyp <- NA
+combined_2013$Finchtyp <- as.character(combined_2013$Finchtyp)
+combined_2013$mainfuel <- as.character(combined_2013$mainfuel)
+combined_2013$watersys <- as.character(combined_2013$watersys)
+combined_2013$tank <- as.character(combined_2013$tank)
+
+for(h in 1:nrow(combined_2013)){
+  combined_2013$energytyp[h] <- energy_arch$EnergyType[energy_arch$Finchtyp == combined_2013$Finchtyp[h] & energy_arch$mainfuel == combined_2013$mainfuel[h] & energy_arch$watersys == combined_2013$watersys[h] & energy_arch$tank == combined_2013$tank[h] ]
+}
+
+combined_2013$energytyp <- as.factor(combined_2013$energytyp)
+summary(combined_2013$energytyp)
 
 
-#remove(around,context,doors,elevate,general,physical,roof,services,shape,test,uni,test2, walls, windows)
+
 write.csv(combined_2013,"combined_2013.csv")
 
-#test <- combined_2013[,c("type","dwage9x","floor5x","basement","typewstr2","wallinsy","typerstr","attic","PV","Solar","SolarSuit","LoftIns","dblglazeage",
-#                         "Finchtyp","mainfuel","Finmhboi","Finchbag","sysage","watersys","control","radcontrol","tank","tankins","instant")]
 
-#uni <- unique(test)
 
-test <- combined_2013[,c("aacode","aagpd1213","Finchtyp","mainfuel","watersys","tank")]
-test <- test[with(test, order(Finchtyp,mainfuel,watersys,tank)),]
-uni <- unique(test[,c("Finchtyp","mainfuel","watersys","tank")])
+###########################################################################
+#Construct Energy Architypes
+############################################################################
+
+#test <- combined_2013[,c("aacode","aagpd1213","Finchtyp","mainfuel","watersys","tank")]
+#test <- test[with(test, order(Finchtyp,mainfuel,watersys,tank)),]
+#uni <- unique(test[,c("Finchtyp","mainfuel","watersys","tank")])
+
+#uni$count <- NA
+#uni$countsamp <- NA
+#$conf <- NA
+#for (f in 1:nrow(uni)){
+#  uni$count[f] <- sum(test$aagpd1213[test$Finchtyp == uni$Finchtyp[f] & test$mainfuel == uni$mainfuel[f] & test$watersys == uni$watersys[f] & test$tank == uni$tank[f] ])
+#  uni$countsamp[f] <- nrow(test[test$Finchtyp == uni$Finchtyp[f] & test$mainfuel == uni$mainfuel[f] & test$watersys == uni$watersys[f] & test$tank == uni$tank[f], ])
+#  uni$conf[f] <- uni$count[f] / uni$countsamp[f]
+#}
+
+
+###########################################################################
+#Construct General Architypes
+############################################################################
+
+test <- combined_2013[,c("aacode","aagpd1213","type","floor5x","dwage9x")]
+test <- test[with(test, order(type,dwage9x,floor5x)),]
+uni <- unique(test[,c("type","floor5x","dwage9x")])
 
 uni$count <- NA
 uni$countsamp <- NA
 uni$conf <- NA
 for (f in 1:nrow(uni)){
-  uni$count[f] <- sum(test$aagpd1213[test$Finchtyp == uni$Finchtyp[f] & test$mainfuel == uni$mainfuel[f] & test$watersys == uni$watersys[f] & test$tank == uni$tank[f] ])
-  uni$countsamp[f] <- nrow(test[test$Finchtyp == uni$Finchtyp[f] & test$mainfuel == uni$mainfuel[f] & test$watersys == uni$watersys[f] & test$tank == uni$tank[f], ])
+  uni$count[f] <- sum(test$aagpd1213[test$type == uni$type[f] & test$floor5x == uni$floor5x[f] & test$dwage9x == uni$dwage9x[f] ])
+  uni$countsamp[f] <- nrow(test[test$type == uni$type[f] & test$floor5x == uni$floor5x[f] & test$dwage9x == uni$dwage9x[f] , ])
   uni$conf[f] <- uni$count[f] / uni$countsamp[f]
 }
+
+write.csv(uni,"data/general_architype_2013.csv")

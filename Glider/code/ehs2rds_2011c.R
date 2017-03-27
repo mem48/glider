@@ -50,6 +50,7 @@ services <- services[,c("aacode","Finchtyp","Finmhfue","Finmhboi","Finchbag",
                         "Finwhcyl","Finwhins","Finwhmms",
                         "Finwhcen","Finwhthe","Finlopos","Flitypes","Fliinsul","Finintyp","Flithick")]
 services$aacode <- as.character(services$aacode)
+services$aacode <- substr(services$aacode, 1, 8)
 #########################################################################
 #Combine
 ########################################################################
@@ -449,6 +450,15 @@ for(g in 1:nrow(energy)){
 }
 energy$mainfuel <- as.factor(energy$mainfuel)
 
+#Rename water system levels
+levels(energy$watersys)[levels(energy$watersys)=="With central heating"] <- "with central heating"
+levels(energy$watersys)[levels(energy$watersys)=="Dedicated boiler"] <- "dedicated boiler"
+levels(energy$watersys)[levels(energy$watersys)=="Electric immersion heater"] <- "electric immersion heater"
+levels(energy$watersys)[levels(energy$watersys)=="Instantaneous"] <- "instantaneous"
+levels(energy$watersys)[levels(energy$watersys)=="Other"] <- "other"
+
+
+
 #Plot
 counts <- table(energy$mainfuel)
 barplot(counts, main="Heater Fuel", ylab="Number of Dwellings")
@@ -552,10 +562,32 @@ combined_2011 <- left_join(combined_2011,energy, by = "aacode")
 
 combined_2011$LoftIns <- as.factor(combined_2011$LoftIns)
 
+remove(context,doors,elevate,general,physical,roof,services,shape, walls, windows)
+
+#Asign Energy Architype
+energy_arch <- read.csv("data/energy_archetypes_2013.csv", stringsAsFactors = FALSE)
+
+combined_2011$energytyp <- NA
+combined_2011$Finchtyp <- as.character(combined_2011$Finchtyp)
+combined_2011$mainfuel <- as.character(combined_2011$mainfuel)
+combined_2011$watersys <- as.character(combined_2011$watersys)
+combined_2011$tank <- as.character(combined_2011$tank)
+
+for(h in 1:nrow(combined_2011)){
+  if(energy_arch$Finchtyp == combined_2011$Finchtyp[h] & energy_arch$mainfuel == combined_2011$mainfuel[h] & energy_arch$watersys == combined_2011$watersys[h] & energy_arch$tank == combined_2011$tank[h]){
+    combined_2011$energytyp[h] <- energy_arch$EnergyType[energy_arch$Finchtyp == combined_2011$Finchtyp[h] & energy_arch$mainfuel == combined_2011$mainfuel[h] & energy_arch$watersys == combined_2011$watersys[h] & energy_arch$tank == combined_2011$tank[h] ]
+  }
+}
+
+combined_2011$energytyp <- as.factor(combined_2011$energytyp)
+summary(combined_2011$energytyp)
+
+
+
 
 
 #remove(around,context,doors,elevate,general,physical,roof,services,shape,test,uni,test2, walls, windows)
-write.csv(combined_2011,"combined_2011.csv")
+#write.csv(combined_2011,"combined_2011.csv")
 
 #test <- combined_2011[,c("type","dwage9x","floor5x","basement","typewstr2","wallinsx","typerstr","attic","PV","Solar","SolarSuit","LoftIns","dblglazeage",
 #                         "Finchtyp","mainfuel","Finmhboi","Finchbag","sysage","watersys","control","radcontrol","tank","tankins","instant")]
@@ -572,5 +604,19 @@ uni$conf <- NA
 for (f in 1:nrow(uni)){
   uni$count[f] <- sum(test$aagpd1011[test$Finchtyp == uni$Finchtyp[f] & test$mainfuel == uni$mainfuel[f] & test$watersys == uni$watersys[f] & test$tank == uni$tank[f] ])
   uni$countsamp[f] <- nrow(test[test$Finchtyp == uni$Finchtyp[f] & test$mainfuel == uni$mainfuel[f] & test$watersys == uni$watersys[f] & test$tank == uni$tank[f], ])
-  uni$conf[f] <- uni$count[f] / uni$countsamp[f]
+uni$conf[f] <- uni$count[f] / uni$countsamp[f]
+ }
+
+#Add in arch codes
+h = 1
+uni$type <- NA
+for(h in 1:nrow(uni)){
+  x <- energy_arch$EnergyType[energy_arch$Finchtyp == uni$Finchtyp[h] & energy_arch$mainfuel == uni$mainfuel[h] & energy_arch$watersys == uni$watersys[h] & energy_arch$tank == uni$tank[h] ] 
+  if(length(x) == 0){
+    uni$type[h] <- "No match"
+  } else {
+    uni$type[h] <- x
+  }  
 }
+
+

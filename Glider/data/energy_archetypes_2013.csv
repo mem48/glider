@@ -1,0 +1,86 @@
+EnergyType,Finchtyp,mainfuel,watersys,tank
+A,Central heating (wet with rads),gas (mains),with central heating,No Tank
+B,Central heating (wet with rads),gas (mains),with central heating,Tank with Immersion Heater
+C,Central heating (wet with rads),gas (mains),with central heating,Tank without Immersion Heater
+D,Storage heaters,electricity,electric immersion heater,Tank with Immersion Heater
+E,Central heating (wet with rads),heating oil ,with central heating,Tank with Immersion Heater
+F,Room heaters,electricity,electric immersion heater,Tank with Immersion Heater
+G,Communal/CHP,community heating from boilers,with central heating,No Tank
+H,Central heating (wet with rads),gas (mains),electric immersion heater,Tank with Immersion Heater
+I,Central heating (wet with rads),heating oil ,with central heating,No Tank
+J,Central heating (wet with rads),heating oil ,with central heating,Tank without Immersion Heater
+K,No Answer,electricity,electric immersion heater,Tank with Immersion Heater
+L,Room heaters,gas (mains),instantaneous,No Tank
+M,Electric ceiling/underfloor,electricity,electric immersion heater,Tank with Immersion Heater
+N,Central heating (wet with rads),gas (other),with central heating,No Tank
+O,Communal/CHP,community heating from boilers,with central heating,Tank without Immersion Heater
+P,Communal/CHP,community heating from boilers,with central heating,Tank with Immersion Heater
+Q,Room heaters,gas (mains),electric immersion heater,Tank with Immersion Heater
+R,Central heating (wet with rads),coal,with central heating,Tank with Immersion Heater
+S,Central heating (wet with rads),gas (other),with central heating,Tank with Immersion Heater
+T,Central heating (wet with rads),gas (mains),instantaneous,No Tank
+U,No Answer,electricity,electric immersion heater,No Tank
+V,Storage heaters,electricity,instantaneous,No Tank
+W,Room heaters,electricity,instantaneous,No Tank
+X,Communal/CHP,community heating from boilers,electric immersion heater,Tank with Immersion Heater
+Y,Warm air,gas (mains),with central heating,Tank with Immersion Heater
+Z,Central heating (wet with rads),electricity,with central heating,Tank with Immersion Heater
+AA,No Answer,electricity,instantaneous,No Tank
+AB,Warm air,gas (mains),instantaneous,No Tank
+AC,Warm air,gas (mains),electric immersion heater,Tank with Immersion Heater
+AD,Central heating (wet with rads),electricity,with central heating,Tank without Immersion Heater
+AE,Central heating (wet with rads),coal,with central heating,Tank without Immersion Heater
+AF,Warm air,gas (mains),with central heating,Tank without Immersion Heater
+AG,Room heaters,coal,dedicated boiler,Tank with Immersion Heater
+AH,Central heating (wet with rads),gas (other),with central heating,Tank without Immersion Heater
+AI,Communal/CHP,community heating from CHP/waste heat,with central heating,No Tank
+AJ,Central heating (wet with rads),electricity,electric immersion heater,Tank with Immersion Heater
+AK,Electric ceiling/underfloor,electricity,instantaneous,No Tank
+AL,Central heating (wet with rads),wood,with central heating,Tank with Immersion Heater
+AM,Storage heaters,electricity,dedicated boiler,No Tank
+AN,Room heaters,electricity,dedicated boiler,No Tank
+AO,Central heating (wet with rads),wood,with central heating,Tank without Immersion Heater
+AP,No Answer,electricity,dedicated boiler,Tank with Immersion Heater
+AQ,Central heating (wet with rads),heating oil ,electric immersion heater,Tank with Immersion Heater
+AR,Room heaters,coal,electric immersion heater,Tank with Immersion Heater
+AS,Storage heaters,electricity,dedicated boiler,Tank with Immersion Heater
+AT,Central heating (wet with rads),gas (mains),instantaneous,Tank without Immersion Heater
+AU,Warm air,electricity,electric immersion heater,Tank with Immersion Heater
+AV,Storage heaters,electricity,instantaneous,Tank without Immersion Heater
+AW,Room heaters,coal,electric immersion heater,No Tank
+AX,Central heating (wet with rads),gas (mains),dedicated boiler,No Tank
+AY,Central heating (wet with rads),heating oil ,dedicated boiler,Tank with Immersion Heater
+AZ,Communal/CHP,community heating from boilers,instantaneous,No Tank
+BA,Central heating (wet with rads),gas (mains),electric immersion heater,No Tank
+BB,Communal/CHP,community heating from CHP/waste heat,with central heating,Tank without Immersion Heater
+BC,No Answer,coal,electric immersion heater,Tank with Immersion Heater
+BD,Room heaters,gas (other),electric immersion heater,No Tank
+BE,Central heating (wet with rads),gas (mains),dedicated boiler,Tank with Immersion Heater
+BF,Storage heaters,electricity,electric immersion heater,No Tank
+BG,Central heating (wet with rads),gas (mains),dedicated boiler,Tank without Immersion Heater
+BH,No Answer,gas (mains),electric immersion heater,Tank with Immersion Heater
+BI,No Answer,gas (mains),instantaneous,No Tank
+BJ,No Answer,coal,dedicated boiler,Tank with Immersion Heater
+BK,Communal/CHP,community heating from CHP/waste heat,with central heating,Tank with Immersion Heater
+BL,Central heating (wet with rads),gas (other),electric immersion heater,Tank with Immersion Heater
+BM,Room heaters,wood,electric immersion heater,Tank with Immersion Heater
+BN,Room heaters,electricity,electric immersion heater,No Tank
+BO,Warm air,gas (mains),dedicated boiler,Tank with Immersion Heater
+BP,Room heaters,gas (mains),dedicated boiler,Tank with Immersion Heater
+BQ,No Answer,gas (other),electric immersion heater,Tank with Immersion Heater
+BR,Central heating (wet with rads),heating oil ,instantaneous,No Tank
+BS,Room heaters,coal,instantaneous,No Tank
+BT,Warm air,electricity,electric immersion heater,Tank without Immersion Heater
+BU,Communal/CHP,community heating from CHP/waste heat,electric immersion heater,Tank with Immersion Heater
+BV,Central heating (wet with rads),wood,electric immersion heater,Tank with Immersion Heater
+BW,Central heating (wet with rads),electricity,with central heating,No Tank
+BX,Room heaters,gas (mains),dedicated boiler,Tank without Immersion Heater
+BY,Room heaters,heating oil ,instantaneous,No Tank
+BZ,Storage heaters,electricity,dedicated boiler,Tank without Immersion Heater
+CA,Central heating (wet with rads),electricity,instantaneous,Tank without Immersion Heater
+CB,Room heaters,electricity,instantaneous,Tank without Immersion Heater
+CC,Room heaters,wood,dedicated boiler,Tank with Immersion Heater
+CD,Communal/CHP,community heating from boilers,instantaneous,Tank without Immersion Heater
+CE,No Answer,gas (mains),electric immersion heater,No Tank
+CF,Warm air,electricity,with central heating,No Tank
+CG,Warm air,electricity,with central heating,Tank with Immersion Heater
