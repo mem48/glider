@@ -1,0 +1,21 @@
+typerstr,attic,SolarSuit,count,countsamp,conf,RoofType
+mansard,yes,Yes,618,1,618,Z
+mansard,yes,No,3657,1,3657,Z
+mixed types,no,No,4215,6,702.5,Z
+chalet,no,No,5732,2,2866,Z
+flat,yes,No,11056,5,2211.2,P
+flat,yes,Yes,12058,6,2009.666667,O
+mixed types,yes,No,13734,4,3433.5,N
+chalet,yes,No,34543,8,4317.875,M
+mansard,no,No,35697,17,2099.823529,L
+chalet,no,Yes,46578,21,2218,K
+mixed types,yes,Yes,72878,26,2803,J
+pitched,no,No,87483,48,1822.5625,I
+pitched,yes,No,104076,46,2262.521739,H
+mansard,no,Yes,108720,83,1309.879518,G
+mixed types,no,Yes,111141,51,2179.235294,F
+flat,no,Yes,195320,135,1446.814815,E
+chalet,yes,Yes,250416,81,3091.555556,D
+flat,no,No,1025993,646,1588.224458,C
+pitched,yes,Yes,1871032,703,2661.496444,B
+pitched,no,Yes,19258834,10608,1815.500943,A
