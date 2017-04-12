@@ -1,0 +1,580 @@
+type,dwage9x,floor5x,count,countsamp,GeneralType
+Basement converted flat,1850 to 1899,110 sqm or more,2020,1,XA
+Basement converted flat,1850 to 1899,50 to 69 sqm,12390,7,XA
+Basement converted flat,1850 to 1899,70 to 89 sqm,10989,4,XA
+Basement converted flat,1850 to 1899,90 to 109 sqm,8127,3,XA
+Basement converted flat,1850 to 1899,less than 50 sqm,17318,6,XA
+Basement converted flat,1900 to 1918,90 to 109 sqm,5826,1,XA
+Basement converted flat,1900 to 1918,less than 50 sqm,1168,1,XA
+Basement converted flat,1919 to 1944,110 sqm or more,1639,1,XA
+Basement converted flat,1919 to 1944,50 to 69 sqm,1102,1,XA
+Basement converted flat,pre 1850,50 to 69 sqm,3796,1,XA
+Basement converted flat,pre 1850,70 to 89 sqm,1656,1,XA
+Basement converted flat,pre 1850,less than 50 sqm,4643,2,XA
+"Basement purpose built flat, low rise",1850 to 1899,50 to 69 sqm,1591,1,XE
+"Basement purpose built flat, low rise",1850 to 1899,less than 50 sqm,4815,3,XE
+"Basement purpose built flat, low rise",1965 to 1974,less than 50 sqm,668,1,XE
+"Basement purpose built flat, low rise",post 1990,50 to 69 sqm,2604,2,XE
+"Basement purpose built flat, low rise",post 1990,70 to 89 sqm,1772,1,XE
+bungalow,1850 to 1899,110 sqm or more,10435,3,XF
+bungalow,1850 to 1899,50 to 69 sqm,930,1,XF
+bungalow,1850 to 1899,70 to 89 sqm,956,1,XF
+bungalow,1850 to 1899,90 to 109 sqm,6786,1,XF
+bungalow,1900 to 1918,110 sqm or more,4749,2,XG
+bungalow,1900 to 1918,50 to 69 sqm,5112,3,XG
+bungalow,1900 to 1918,70 to 89 sqm,1693,1,XG
+bungalow,1900 to 1918,90 to 109 sqm,2179,1,XG
+bungalow,1900 to 1918,less than 50 sqm,2090,3,XG
+bungalow,1919 to 1944,110 sqm or more,14705,5,KM
+bungalow,1919 to 1944,50 to 69 sqm,98763,37,CG
+bungalow,1919 to 1944,70 to 89 sqm,50579,20,EQ
+bungalow,1919 to 1944,90 to 109 sqm,33225,14,GD
+bungalow,1919 to 1944,less than 50 sqm,43938,34,CQ
+bungalow,1945 to 1964,110 sqm or more,67543,19,EX
+bungalow,1945 to 1964,50 to 69 sqm,234783,132,M
+bungalow,1945 to 1964,70 to 89 sqm,128542,51,BQ
+bungalow,1945 to 1964,90 to 109 sqm,49160,19,EY
+bungalow,1945 to 1964,less than 50 sqm,153681,178,G
+bungalow,1965 to 1974,110 sqm or more,75909,28,DK
+bungalow,1965 to 1974,50 to 69 sqm,216807,125,R
+bungalow,1965 to 1974,70 to 89 sqm,134046,55,BL
+bungalow,1965 to 1974,90 to 109 sqm,58189,17,FJ
+bungalow,1965 to 1974,less than 50 sqm,65736,68,BA
+bungalow,1975 to 1980,110 sqm or more,30209,9,IC
+bungalow,1975 to 1980,50 to 69 sqm,58746,40,CC
+bungalow,1975 to 1980,70 to 89 sqm,51471,20,ER
+bungalow,1975 to 1980,90 to 109 sqm,27402,11,HD
+bungalow,1975 to 1980,less than 50 sqm,30133,30,DD
+bungalow,1981 to 1990,110 sqm or more,20583,9,ID
+bungalow,1981 to 1990,50 to 69 sqm,108093,62,BH
+bungalow,1981 to 1990,70 to 89 sqm,37293,14,GE
+bungalow,1981 to 1990,90 to 109 sqm,29025,10,HJ
+bungalow,1981 to 1990,less than 50 sqm,64608,51,BR
+bungalow,post 1990,110 sqm or more,18858,7,JI
+bungalow,post 1990,50 to 69 sqm,62253,47,BT
+bungalow,post 1990,70 to 89 sqm,55493,21,EM
+bungalow,post 1990,90 to 109 sqm,24189,9,IE
+bungalow,post 1990,less than 50 sqm,31647,17,FK
+bungalow,pre 1850,110 sqm or more,2020,1,XF
+bungalow,pre 1850,50 to 69 sqm,2408,1,XF
+bungalow,pre 1850,90 to 109 sqm,1802,1,XF
+bungalow,pre 1850,less than 50 sqm,870,1,XF
+converted flat 2 floors,pre 1850,70 to 89 sqm,1102,1,Other
+detached 2 floors,1850 to 1899,110 sqm or more,80125,33,CU
+detached 2 floors,1850 to 1899,50 to 69 sqm,3562,2,OM
+detached 2 floors,1850 to 1899,70 to 89 sqm,17515,6,JU
+detached 2 floors,1850 to 1899,90 to 109 sqm,43614,14,GF
+detached 2 floors,1850 to 1899,less than 50 sqm,3075,2,ON
+detached 2 floors,1900 to 1918,110 sqm or more,74048,26,DP
+detached 2 floors,1900 to 1918,50 to 69 sqm,2975,1,YU
+detached 2 floors,1900 to 1918,70 to 89 sqm,7391,4,LN
+detached 2 floors,1900 to 1918,90 to 109 sqm,12254,5,KN
+detached 2 floors,1900 to 1918,less than 50 sqm,470,1,YU
+detached 2 floors,1919 to 1944,110 sqm or more,352564,113,Y
+detached 2 floors,1919 to 1944,50 to 69 sqm,7786,3,MT
+detached 2 floors,1919 to 1944,70 to 89 sqm,37872,19,EZ
+detached 2 floors,1919 to 1944,90 to 109 sqm,53929,20,ES
+detached 2 floors,1945 to 1964,110 sqm or more,359699,121,U
+detached 2 floors,1945 to 1964,50 to 69 sqm,7584,3,YV
+detached 2 floors,1945 to 1964,70 to 89 sqm,20904,9,IF
+detached 2 floors,1945 to 1964,90 to 109 sqm,74388,25,DS
+detached 2 floors,1945 to 1964,less than 50 sqm,2776,1,YV
+detached 2 floors,1965 to 1974,110 sqm or more,402573,145,K
+detached 2 floors,1965 to 1974,50 to 69 sqm,1918,1,RO
+detached 2 floors,1965 to 1974,70 to 89 sqm,79408,29,DI
+detached 2 floors,1965 to 1974,90 to 109 sqm,79313,35,CO
+detached 2 floors,1975 to 1980,110 sqm or more,238433,75,AV
+detached 2 floors,1975 to 1980,50 to 69 sqm,24986,8,IT
+detached 2 floors,1975 to 1980,70 to 89 sqm,55480,24,DX
+detached 2 floors,1975 to 1980,90 to 109 sqm,82132,34,CR
+detached 2 floors,1981 to 1990,110 sqm or more,271553,99,AD
+detached 2 floors,1981 to 1990,50 to 69 sqm,34042,13,GL
+detached 2 floors,1981 to 1990,70 to 89 sqm,77083,30,DE
+detached 2 floors,1981 to 1990,90 to 109 sqm,116813,35,CP
+detached 2 floors,1981 to 1990,less than 50 sqm,1541,1,RP
+detached 2 floors,post 1990,110 sqm or more,592553,192,F
+detached 2 floors,post 1990,50 to 69 sqm,35098,12,GT
+detached 2 floors,post 1990,70 to 89 sqm,88239,37,CH
+detached 2 floors,post 1990,90 to 109 sqm,218479,80,AR
+detached 2 floors,post 1990,less than 50 sqm,1412,1,RQ
+detached 2 floors,pre 1850,110 sqm or more,183191,69,AZ
+detached 2 floors,pre 1850,50 to 69 sqm,940,1,YW
+detached 2 floors,pre 1850,70 to 89 sqm,17751,4,LO
+detached 2 floors,pre 1850,90 to 109 sqm,24827,10,HK
+detached 2 floors,pre 1850,less than 50 sqm,1890,1,YW
+detached 3 floors,1850 to 1899,110 sqm or more,38327,10,HL
+detached 3 floors,1850 to 1899,70 to 89 sqm,1204,1,YX
+detached 3 floors,1850 to 1899,90 to 109 sqm,1988,1,YX
+detached 3 floors,1900 to 1918,110 sqm or more,21980,10,HM
+detached 3 floors,1900 to 1918,70 to 89 sqm,2193,1,RV
+detached 3 floors,1919 to 1944,110 sqm or more,26302,10,HN
+detached 3 floors,1945 to 1964,110 sqm or more,18899,8,IU
+detached 3 floors,1965 to 1974,110 sqm or more,17747,3,MV
+detached 3 floors,1975 to 1980,110 sqm or more,2219,1,YY
+detached 3 floors,1975 to 1980,90 to 109 sqm,2706,1,YY
+detached 3 floors,1981 to 1990,110 sqm or more,17866,5,KO
+detached 3 floors,post 1990,110 sqm or more,89282,30,DF
+detached 3 floors,post 1990,70 to 89 sqm,1536,1,RY
+detached 3 floors,post 1990,90 to 109 sqm,5769,3,MW
+detached 3 floors,pre 1850,110 sqm or more,28102,13,GM
+detached 3 floors,pre 1850,90 to 109 sqm,1249,1,RZ
+end terrace 2 floors,1850 to 1899,110 sqm or more,41499,12,GU
+end terrace 2 floors,1850 to 1899,50 to 69 sqm,43534,25,DT
+end terrace 2 floors,1850 to 1899,70 to 89 sqm,70534,30,DG
+end terrace 2 floors,1850 to 1899,90 to 109 sqm,48457,18,FE
+end terrace 2 floors,1850 to 1899,less than 50 sqm,2751,3,MX
+end terrace 2 floors,1900 to 1918,110 sqm or more,40332,15,GA
+end terrace 2 floors,1900 to 1918,50 to 69 sqm,65065,25,DU
+end terrace 2 floors,1900 to 1918,70 to 89 sqm,66427,32,CX
+end terrace 2 floors,1900 to 1918,90 to 109 sqm,26442,11,HE
+end terrace 2 floors,1900 to 1918,less than 50 sqm,5132,3,MY
+end terrace 2 floors,1919 to 1944,110 sqm or more,24493,9,IG
+end terrace 2 floors,1919 to 1944,50 to 69 sqm,130322,97,AF
+end terrace 2 floors,1919 to 1944,70 to 89 sqm,168170,83,AP
+end terrace 2 floors,1919 to 1944,90 to 109 sqm,69684,21,EN
+end terrace 2 floors,1919 to 1944,less than 50 sqm,4426,4,LP
+end terrace 2 floors,1945 to 1964,110 sqm or more,23442,9,IH
+end terrace 2 floors,1945 to 1964,50 to 69 sqm,119019,116,W
+end terrace 2 floors,1945 to 1964,70 to 89 sqm,166042,140,L
+end terrace 2 floors,1945 to 1964,90 to 109 sqm,35194,23,EE
+end terrace 2 floors,1945 to 1964,less than 50 sqm,2106,2,OO
+end terrace 2 floors,1965 to 1974,110 sqm or more,9657,7,JJ
+end terrace 2 floors,1965 to 1974,50 to 69 sqm,49707,37,CI
+end terrace 2 floors,1965 to 1974,70 to 89 sqm,109190,89,AL
+end terrace 2 floors,1965 to 1974,90 to 109 sqm,40503,22,EH
+end terrace 2 floors,1975 to 1980,110 sqm or more,2360,2,OP
+end terrace 2 floors,1975 to 1980,50 to 69 sqm,27563,19,FA
+end terrace 2 floors,1975 to 1980,70 to 89 sqm,49426,43,BX
+end terrace 2 floors,1975 to 1980,90 to 109 sqm,8410,5,KP
+end terrace 2 floors,1975 to 1980,less than 50 sqm,4498,5,KQ
+end terrace 2 floors,1981 to 1990,110 sqm or more,2976,1,SA
+end terrace 2 floors,1981 to 1990,50 to 69 sqm,64530,43,BY
+end terrace 2 floors,1981 to 1990,70 to 89 sqm,40977,22,EI
+end terrace 2 floors,1981 to 1990,90 to 109 sqm,11820,7,JK
+end terrace 2 floors,1981 to 1990,less than 50 sqm,33221,13,GN
+end terrace 2 floors,post 1990,110 sqm or more,11594,5,KR
+end terrace 2 floors,post 1990,50 to 69 sqm,137213,76,AU
+end terrace 2 floors,post 1990,70 to 89 sqm,94001,67,BC
+end terrace 2 floors,post 1990,90 to 109 sqm,11836,13,GO
+end terrace 2 floors,post 1990,less than 50 sqm,15520,11,HF
+end terrace 2 floors,pre 1850,110 sqm or more,18567,9,ZN
+end terrace 2 floors,pre 1850,50 to 69 sqm,6541,4,ZN
+end terrace 2 floors,pre 1850,70 to 89 sqm,7959,3,ZN
+end terrace 2 floors,pre 1850,90 to 109 sqm,6274,1,ZN
+end terrace 2 floors,pre 1850,less than 50 sqm,2917,2,ZN
+end terrace 3 floors,1850 to 1899,110 sqm or more,30361,12,GV
+end terrace 3 floors,1850 to 1899,50 to 69 sqm,3657,1,YE
+end terrace 3 floors,1850 to 1899,70 to 89 sqm,9149,5,YE
+end terrace 3 floors,1850 to 1899,90 to 109 sqm,15807,7,YE
+end terrace 3 floors,1850 to 1899,less than 50 sqm,3074,1,YE
+end terrace 3 floors,1900 to 1918,110 sqm or more,25105,12,GW
+end terrace 3 floors,1900 to 1918,50 to 69 sqm,728,1,ZO
+end terrace 3 floors,1900 to 1918,70 to 89 sqm,23701,8,ZO
+end terrace 3 floors,1900 to 1918,90 to 109 sqm,8936,3,ZO
+end terrace 3 floors,1900 to 1918,less than 50 sqm,10198,3,ZO
+end terrace 3 floors,1919 to 1944,110 sqm or more,4710,2,YF
+end terrace 3 floors,1919 to 1944,50 to 69 sqm,2426,1,YF
+end terrace 3 floors,1919 to 1944,70 to 89 sqm,1267,1,YF
+end terrace 3 floors,1919 to 1944,90 to 109 sqm,13369,5,YF
+end terrace 3 floors,1919 to 1944,less than 50 sqm,5204,2,YF
+end terrace 3 floors,1945 to 1964,110 sqm or more,3509,2,YH
+end terrace 3 floors,1945 to 1964,50 to 69 sqm,1905,1,YH
+end terrace 3 floors,1945 to 1964,90 to 109 sqm,8799,3,YH
+end terrace 3 floors,1965 to 1974,110 sqm or more,9188,3,YI
+end terrace 3 floors,1965 to 1974,70 to 89 sqm,5163,3,YI
+end terrace 3 floors,1965 to 1974,90 to 109 sqm,14723,4,YI
+end terrace 3 floors,1975 to 1980,110 sqm or more,2209,1,YJ
+end terrace 3 floors,1975 to 1980,70 to 89 sqm,398,1,YJ
+end terrace 3 floors,1975 to 1980,90 to 109 sqm,6102,5,YJ
+end terrace 3 floors,1981 to 1990,110 sqm or more,5297,4,YJ
+end terrace 3 floors,1981 to 1990,70 to 89 sqm,1958,1,YJ
+end terrace 3 floors,1981 to 1990,90 to 109 sqm,1463,2,YJ
+end terrace 3 floors,post 1990,110 sqm or more,43740,20,ET
+end terrace 3 floors,post 1990,50 to 69 sqm,3138,2,OV
+end terrace 3 floors,post 1990,70 to 89 sqm,20669,12,GX
+end terrace 3 floors,post 1990,90 to 109 sqm,28907,11,HG
+end terrace 3 floors,pre 1850,110 sqm or more,22110,7,YD
+end terrace 3 floors,pre 1850,50 to 69 sqm,2841,1,YD
+end terrace 4 floors,post 1990,110 sqm or more,822,1,YM
+Ground floor converted flat,1850 to 1899,110 sqm or more,5119,3,NF
+Ground floor converted flat,1850 to 1899,50 to 69 sqm,49471,20,EU
+Ground floor converted flat,1850 to 1899,70 to 89 sqm,16052,6,JV
+Ground floor converted flat,1850 to 1899,90 to 109 sqm,27204,7,JN
+Ground floor converted flat,1850 to 1899,less than 50 sqm,50540,25,DV
+Ground floor converted flat,1900 to 1918,110 sqm or more,7261,2,OW
+Ground floor converted flat,1900 to 1918,50 to 69 sqm,34250,15,GB
+Ground floor converted flat,1900 to 1918,70 to 89 sqm,3941,4,LT
+Ground floor converted flat,1900 to 1918,90 to 109 sqm,11680,4,LU
+Ground floor converted flat,1900 to 1918,less than 50 sqm,34814,17,FL
+Ground floor converted flat,1919 to 1944,110 sqm or more,976,1,ZA
+Ground floor converted flat,1919 to 1944,50 to 69 sqm,15355,10,HO
+Ground floor converted flat,1919 to 1944,70 to 89 sqm,4979,3,ZA
+Ground floor converted flat,1919 to 1944,less than 50 sqm,24108,12,GY
+Ground floor converted flat,1945 to 1964,50 to 69 sqm,1082,1,ZB
+Ground floor converted flat,1945 to 1964,less than 50 sqm,8659,4,ZB
+Ground floor converted flat,1965 to 1974,50 to 69 sqm,856,1,ZB
+Ground floor converted flat,pre 1850,110 sqm or more,1511,1,YZ
+Ground floor converted flat,pre 1850,70 to 89 sqm,1148,1,YZ
+Ground floor converted flat,pre 1850,90 to 109 sqm,4256,2,YZ
+Ground floor converted flat,pre 1850,less than 50 sqm,13226,6,YZ
+"Ground floor purpose built flat, high rise",1850 to 1899,90 to 109 sqm,4370,1,XJ
+"Ground floor purpose built flat, high rise",1900 to 1918,50 to 69 sqm,385,1,XJ
+"Ground floor purpose built flat, high rise",1919 to 1944,50 to 69 sqm,4623,1,XJ
+"Ground floor purpose built flat, high rise",1945 to 1964,50 to 69 sqm,6242,6,XI
+"Ground floor purpose built flat, high rise",1945 to 1964,70 to 89 sqm,12184,1,XI
+"Ground floor purpose built flat, high rise",1945 to 1964,less than 50 sqm,2411,4,XI
+"Ground floor purpose built flat, high rise",1965 to 1974,50 to 69 sqm,6550,4,XH
+"Ground floor purpose built flat, high rise",1965 to 1974,70 to 89 sqm,4226,5,XH
+"Ground floor purpose built flat, high rise",1965 to 1974,90 to 109 sqm,7887,1,XH
+"Ground floor purpose built flat, high rise",1965 to 1974,less than 50 sqm,3986,3,XH
+"Ground floor purpose built flat, high rise",post 1990,50 to 69 sqm,4421,1,XK
+"Ground floor purpose built flat, high rise",post 1990,70 to 89 sqm,7038,3,XK
+"Ground floor purpose built flat, low rise",1850 to 1899,110 sqm or more,5933,1,XR
+"Ground floor purpose built flat, low rise",1850 to 1899,50 to 69 sqm,16228,9,XR
+"Ground floor purpose built flat, low rise",1850 to 1899,70 to 89 sqm,2466,1,XR
+"Ground floor purpose built flat, low rise",1850 to 1899,less than 50 sqm,3427,2,XR
+"Ground floor purpose built flat, low rise",1900 to 1918,50 to 69 sqm,15661,8,ZP
+"Ground floor purpose built flat, low rise",1900 to 1918,70 to 89 sqm,3854,1,ZP
+"Ground floor purpose built flat, low rise",1900 to 1918,less than 50 sqm,3941,3,ZP
+"Ground floor purpose built flat, low rise",1919 to 1944,110 sqm or more,750,1,XR
+"Ground floor purpose built flat, low rise",1919 to 1944,50 to 69 sqm,43843,29,DJ
+"Ground floor purpose built flat, low rise",1919 to 1944,70 to 89 sqm,4543,3,XR
+"Ground floor purpose built flat, low rise",1919 to 1944,90 to 109 sqm,5401,2,XR
+"Ground floor purpose built flat, low rise",1919 to 1944,less than 50 sqm,18160,14,GG
+"Ground floor purpose built flat, low rise",1945 to 1964,50 to 69 sqm,121357,130,P
+"Ground floor purpose built flat, low rise",1945 to 1964,70 to 89 sqm,44527,31,CZ
+"Ground floor purpose built flat, low rise",1945 to 1964,90 to 109 sqm,5146,4,LY
+"Ground floor purpose built flat, low rise",1945 to 1964,less than 50 sqm,97020,109,Z
+"Ground floor purpose built flat, low rise",1965 to 1974,110 sqm or more,2657,2,KW
+"Ground floor purpose built flat, low rise",1965 to 1974,50 to 69 sqm,89396,87,AM
+"Ground floor purpose built flat, low rise",1965 to 1974,70 to 89 sqm,36382,34,CS
+"Ground floor purpose built flat, low rise",1965 to 1974,90 to 109 sqm,3629,5,KW
+"Ground floor purpose built flat, low rise",1965 to 1974,less than 50 sqm,98539,97,AG
+"Ground floor purpose built flat, low rise",1975 to 1980,110 sqm or more,536,1,TC
+"Ground floor purpose built flat, low rise",1975 to 1980,50 to 69 sqm,34779,36,CL
+"Ground floor purpose built flat, low rise",1975 to 1980,70 to 89 sqm,8012,9,IK
+"Ground floor purpose built flat, low rise",1975 to 1980,less than 50 sqm,70337,63,BG
+"Ground floor purpose built flat, low rise",1981 to 1990,110 sqm or more,2397,1,XS
+"Ground floor purpose built flat, low rise",1981 to 1990,50 to 69 sqm,64861,47,BU
+"Ground floor purpose built flat, low rise",1981 to 1990,70 to 89 sqm,3555,3,XS
+"Ground floor purpose built flat, low rise",1981 to 1990,90 to 109 sqm,5062,3,XS
+"Ground floor purpose built flat, low rise",1981 to 1990,less than 50 sqm,129171,98,AE
+"Ground floor purpose built flat, low rise",post 1990,110 sqm or more,5939,2,XT
+"Ground floor purpose built flat, low rise",post 1990,50 to 69 sqm,143683,77,AT
+"Ground floor purpose built flat, low rise",post 1990,70 to 89 sqm,37236,17,FM
+"Ground floor purpose built flat, low rise",post 1990,90 to 109 sqm,1474,2,XT
+"Ground floor purpose built flat, low rise",post 1990,less than 50 sqm,101300,67,BD
+Mid Floor converted flat,1850 to 1899,110 sqm or more,7476,3,IX
+Mid Floor converted flat,1850 to 1899,50 to 69 sqm,43579,13,GP
+Mid Floor converted flat,1850 to 1899,70 to 89 sqm,10186,8,IX
+Mid Floor converted flat,1850 to 1899,90 to 109 sqm,7418,1,IX
+Mid Floor converted flat,1850 to 1899,less than 50 sqm,41587,26,DQ
+Mid Floor converted flat,1900 to 1918,110 sqm or more,8933,2,ZE
+Mid Floor converted flat,1900 to 1918,50 to 69 sqm,10002,7,ZE
+Mid Floor converted flat,1900 to 1918,70 to 89 sqm,2378,2,ZE
+Mid Floor converted flat,1900 to 1918,90 to 109 sqm,2970,1,ZE
+Mid Floor converted flat,1900 to 1918,less than 50 sqm,16338,12,GZ
+Mid Floor converted flat,1919 to 1944,50 to 69 sqm,4262,3,ZF
+Mid Floor converted flat,1919 to 1944,less than 50 sqm,1660,1,ZF
+Mid Floor converted flat,1945 to 1964,less than 50 sqm,7255,2,ZF
+Mid Floor converted flat,1965 to 1974,50 to 69 sqm,1378,1,ZF
+Mid Floor converted flat,pre 1850,110 sqm or more,5151,1,ZD
+Mid Floor converted flat,pre 1850,50 to 69 sqm,2851,2,ZD
+Mid Floor converted flat,pre 1850,70 to 89 sqm,1720,1,ZD
+Mid Floor converted flat,pre 1850,90 to 109 sqm,1170,1,ZD
+Mid Floor converted flat,pre 1850,less than 50 sqm,9637,6,ZD
+"Mid Floor purpose built flat, high rise",1900 to 1918,50 to 69 sqm,1255,1,XL
+"Mid Floor purpose built flat, high rise",1900 to 1918,70 to 89 sqm,731,1,XL
+"Mid Floor purpose built flat, high rise",1919 to 1944,50 to 69 sqm,6744,3,XL
+"Mid Floor purpose built flat, high rise",1919 to 1944,70 to 89 sqm,6718,4,XL
+"Mid Floor purpose built flat, high rise",1919 to 1944,less than 50 sqm,15233,5,XL
+"Mid Floor purpose built flat, high rise",1945 to 1964,50 to 69 sqm,32217,31,DA
+"Mid Floor purpose built flat, high rise",1945 to 1964,70 to 89 sqm,7216,10,HP
+"Mid Floor purpose built flat, high rise",1945 to 1964,90 to 109 sqm,1932,2,PH
+"Mid Floor purpose built flat, high rise",1945 to 1964,less than 50 sqm,23648,22,EJ
+"Mid Floor purpose built flat, high rise",1965 to 1974,110 sqm or more,2532,1,PI
+"Mid Floor purpose built flat, high rise",1965 to 1974,50 to 69 sqm,76402,71,AY
+"Mid Floor purpose built flat, high rise",1965 to 1974,70 to 89 sqm,17115,13,GQ
+"Mid Floor purpose built flat, high rise",1965 to 1974,90 to 109 sqm,3601,2,PI
+"Mid Floor purpose built flat, high rise",1965 to 1974,less than 50 sqm,32166,37,CJ
+"Mid Floor purpose built flat, high rise",1975 to 1980,50 to 69 sqm,3531,6,XM
+"Mid Floor purpose built flat, high rise",1975 to 1980,70 to 89 sqm,9446,1,XM
+"Mid Floor purpose built flat, high rise",1975 to 1980,less than 50 sqm,3691,4,XM
+"Mid Floor purpose built flat, high rise",1981 to 1990,50 to 69 sqm,7254,4,XM
+"Mid Floor purpose built flat, high rise",1981 to 1990,70 to 89 sqm,1033,1,XM
+"Mid Floor purpose built flat, high rise",1981 to 1990,less than 50 sqm,795,1,XM
+"Mid Floor purpose built flat, high rise",post 1990,110 sqm or more,1931,1,XM
+"Mid Floor purpose built flat, high rise",post 1990,50 to 69 sqm,46993,19,XM
+"Mid Floor purpose built flat, high rise",post 1990,70 to 89 sqm,27957,14,XM
+"Mid Floor purpose built flat, high rise",post 1990,90 to 109 sqm,10159,4,XM
+"Mid Floor purpose built flat, high rise",post 1990,less than 50 sqm,30294,14,XM
+"Mid Floor purpose built flat, high rise",pre 1850,50 to 69 sqm,1877,1,XL
+"Mid Floor purpose built flat, low rise",1850 to 1899,50 to 69 sqm,1648,2,XU
+"Mid Floor purpose built flat, low rise",1850 to 1899,less than 50 sqm,944,1,XU
+"Mid Floor purpose built flat, low rise",1900 to 1918,50 to 69 sqm,5026,4,MD
+"Mid Floor purpose built flat, low rise",1900 to 1918,90 to 109 sqm,4278,2,MD
+"Mid Floor purpose built flat, low rise",1900 to 1918,less than 50 sqm,6527,4,MD
+"Mid Floor purpose built flat, low rise",1919 to 1944,50 to 69 sqm,40717,22,EK
+"Mid Floor purpose built flat, low rise",1919 to 1944,70 to 89 sqm,7605,5,KY
+"Mid Floor purpose built flat, low rise",1919 to 1944,90 to 109 sqm,4046,3,KY
+"Mid Floor purpose built flat, low rise",1919 to 1944,less than 50 sqm,9358,10,HQ
+"Mid Floor purpose built flat, low rise",1945 to 1964,50 to 69 sqm,86224,66,BE
+"Mid Floor purpose built flat, low rise",1945 to 1964,70 to 89 sqm,24822,15,GC
+"Mid Floor purpose built flat, low rise",1945 to 1964,less than 50 sqm,35122,24,DY
+"Mid Floor purpose built flat, low rise",1965 to 1974,50 to 69 sqm,49870,33,CV
+"Mid Floor purpose built flat, low rise",1965 to 1974,70 to 89 sqm,19365,19,FC
+"Mid Floor purpose built flat, low rise",1965 to 1974,90 to 109 sqm,405,1,TU
+"Mid Floor purpose built flat, low rise",1965 to 1974,less than 50 sqm,53439,38,CF
+"Mid Floor purpose built flat, low rise",1975 to 1980,110 sqm or more,1460,1,XW
+"Mid Floor purpose built flat, low rise",1975 to 1980,50 to 69 sqm,41854,16,FU
+"Mid Floor purpose built flat, low rise",1975 to 1980,70 to 89 sqm,11119,6,XW
+"Mid Floor purpose built flat, low rise",1975 to 1980,90 to 109 sqm,861,1,XW
+"Mid Floor purpose built flat, low rise",1975 to 1980,less than 50 sqm,47292,31,DB
+"Mid Floor purpose built flat, low rise",1981 to 1990,50 to 69 sqm,31336,16,FV
+"Mid Floor purpose built flat, low rise",1981 to 1990,70 to 89 sqm,1988,1,TX
+"Mid Floor purpose built flat, low rise",1981 to 1990,less than 50 sqm,32824,25,DW
+"Mid Floor purpose built flat, low rise",post 1990,110 sqm or more,5043,1,XX
+"Mid Floor purpose built flat, low rise",post 1990,50 to 69 sqm,112016,50,BS
+"Mid Floor purpose built flat, low rise",post 1990,70 to 89 sqm,25785,10,HR
+"Mid Floor purpose built flat, low rise",post 1990,90 to 109 sqm,3041,3,XX
+"Mid Floor purpose built flat, low rise",post 1990,less than 50 sqm,74680,41,CA
+"Mid Floor purpose built flat, low rise",pre 1850,50 to 69 sqm,1255,1,XU
+mid terrace 2 floors,1850 to 1899,110 sqm or more,57531,21,EO
+mid terrace 2 floors,1850 to 1899,50 to 69 sqm,195085,95,AK
+mid terrace 2 floors,1850 to 1899,70 to 89 sqm,192981,97,AH
+mid terrace 2 floors,1850 to 1899,90 to 109 sqm,77689,36,CM
+mid terrace 2 floors,1850 to 1899,less than 50 sqm,41869,20,EV
+mid terrace 2 floors,1900 to 1918,110 sqm or more,54957,18,FF
+mid terrace 2 floors,1900 to 1918,50 to 69 sqm,237347,117,V
+mid terrace 2 floors,1900 to 1918,70 to 89 sqm,230576,103,AB
+mid terrace 2 floors,1900 to 1918,90 to 109 sqm,104334,45,BW
+mid terrace 2 floors,1900 to 1918,less than 50 sqm,28152,18,FG
+mid terrace 2 floors,1919 to 1944,110 sqm or more,13478,5,KZ
+mid terrace 2 floors,1919 to 1944,50 to 69 sqm,228679,153,I
+mid terrace 2 floors,1919 to 1944,70 to 89 sqm,241105,125,S
+mid terrace 2 floors,1919 to 1944,90 to 109 sqm,82180,31,DC
+mid terrace 2 floors,1919 to 1944,less than 50 sqm,18334,10,HS
+mid terrace 2 floors,1945 to 1964,110 sqm or more,8775,3,NS
+mid terrace 2 floors,1945 to 1964,50 to 69 sqm,125376,132,N
+mid terrace 2 floors,1945 to 1964,70 to 89 sqm,250919,217,D
+mid terrace 2 floors,1945 to 1964,90 to 109 sqm,65676,41,CB
+mid terrace 2 floors,1945 to 1964,less than 50 sqm,1973,3,NT
+mid terrace 2 floors,1965 to 1974,110 sqm or more,9387,8,IY
+mid terrace 2 floors,1965 to 1974,50 to 69 sqm,81387,56,BK
+mid terrace 2 floors,1965 to 1974,70 to 89 sqm,231315,170,H
+mid terrace 2 floors,1965 to 1974,90 to 109 sqm,33083,24,DZ
+mid terrace 2 floors,1965 to 1974,less than 50 sqm,9034,6,KB
+mid terrace 2 floors,1975 to 1980,110 sqm or more,902,2,PL
+mid terrace 2 floors,1975 to 1980,50 to 69 sqm,67867,37,CK
+mid terrace 2 floors,1975 to 1980,70 to 89 sqm,91494,72,AW
+mid terrace 2 floors,1975 to 1980,90 to 109 sqm,12934,12,HA
+mid terrace 2 floors,1975 to 1980,less than 50 sqm,13739,8,IZ
+mid terrace 2 floors,1981 to 1990,110 sqm or more,3939,2,PM
+mid terrace 2 floors,1981 to 1990,50 to 69 sqm,78275,40,CD
+mid terrace 2 floors,1981 to 1990,70 to 89 sqm,44813,52,BO
+mid terrace 2 floors,1981 to 1990,90 to 109 sqm,12357,9,IL
+mid terrace 2 floors,1981 to 1990,less than 50 sqm,68371,33,CW
+mid terrace 2 floors,post 1990,110 sqm or more,5259,3,NU
+mid terrace 2 floors,post 1990,50 to 69 sqm,184226,104,AA
+mid terrace 2 floors,post 1990,70 to 89 sqm,72011,53,BN
+mid terrace 2 floors,post 1990,90 to 109 sqm,15314,7,JP
+mid terrace 2 floors,post 1990,less than 50 sqm,33732,17,FN
+mid terrace 2 floors,pre 1850,110 sqm or more,26652,11,HH
+mid terrace 2 floors,pre 1850,50 to 69 sqm,19562,10,HT
+mid terrace 2 floors,pre 1850,70 to 89 sqm,26342,9,IM
+mid terrace 2 floors,pre 1850,90 to 109 sqm,8771,3,NV
+mid terrace 2 floors,pre 1850,less than 50 sqm,17697,5,LA
+mid terrace 3 floors,1850 to 1899,110 sqm or more,90448,34,CT
+mid terrace 3 floors,1850 to 1899,50 to 69 sqm,19144,8,JA
+mid terrace 3 floors,1850 to 1899,70 to 89 sqm,19971,14,GJ
+mid terrace 3 floors,1850 to 1899,90 to 109 sqm,23079,12,HB
+mid terrace 3 floors,1850 to 1899,less than 50 sqm,10247,6,KC
+mid terrace 3 floors,1900 to 1918,110 sqm or more,91975,27,DL
+mid terrace 3 floors,1900 to 1918,50 to 69 sqm,18045,10,HU
+mid terrace 3 floors,1900 to 1918,70 to 89 sqm,38652,16,FW
+mid terrace 3 floors,1900 to 1918,90 to 109 sqm,61827,24,EA
+mid terrace 3 floors,1900 to 1918,less than 50 sqm,11314,4,MF
+mid terrace 3 floors,1919 to 1944,110 sqm or more,35080,10,HV
+mid terrace 3 floors,1919 to 1944,50 to 69 sqm,14138,6,KD
+mid terrace 3 floors,1919 to 1944,70 to 89 sqm,35170,11,HI
+mid terrace 3 floors,1919 to 1944,90 to 109 sqm,26766,10,HW
+mid terrace 3 floors,1945 to 1964,110 sqm or more,2601,3,LB
+mid terrace 3 floors,1945 to 1964,70 to 89 sqm,7867,5,LB
+mid terrace 3 floors,1945 to 1964,90 to 109 sqm,3061,3,LB
+mid terrace 3 floors,1965 to 1974,110 sqm or more,9299,6,KE
+mid terrace 3 floors,1965 to 1974,50 to 69 sqm,1957,1,UA
+mid terrace 3 floors,1965 to 1974,70 to 89 sqm,8984,6,KF
+mid terrace 3 floors,1965 to 1974,90 to 109 sqm,13736,9,IN
+mid terrace 3 floors,1975 to 1980,110 sqm or more,3463,5,LC
+mid terrace 3 floors,1975 to 1980,70 to 89 sqm,1920,2,LC
+mid terrace 3 floors,1975 to 1980,90 to 109 sqm,6645,5,LC
+mid terrace 3 floors,1981 to 1990,110 sqm or more,9053,4,LE
+mid terrace 3 floors,1981 to 1990,50 to 69 sqm,2491,2,LE
+mid terrace 3 floors,1981 to 1990,70 to 89 sqm,8946,5,LE
+mid terrace 3 floors,1981 to 1990,90 to 109 sqm,8732,8,LE
+mid terrace 3 floors,post 1990,110 sqm or more,39813,18,FH
+mid terrace 3 floors,post 1990,50 to 69 sqm,6049,3,NY
+mid terrace 3 floors,post 1990,70 to 89 sqm,32569,18,FI
+mid terrace 3 floors,post 1990,90 to 109 sqm,50605,26,DR
+mid terrace 3 floors,pre 1850,110 sqm or more,34755,12,HC
+mid terrace 3 floors,pre 1850,50 to 69 sqm,8438,2,YL
+mid terrace 3 floors,pre 1850,70 to 89 sqm,656,1,YL
+mid terrace 3 floors,pre 1850,90 to 109 sqm,7574,2,YL
+mid terrace 3 floors,pre 1850,less than 50 sqm,3291,2,YL
+mid terrace 4 floors,1850 to 1899,110 sqm or more,1596,1,YN
+mid terrace 4 floors,1900 to 1918,90 to 109 sqm,1641,1,YN
+mid terrace 4 floors,post 1990,110 sqm or more,3896,2,YN
+mid terrace 4 floors,pre 1850,110 sqm or more,8288,3,YN
+"purpose built flat, low rise 1 floors",1965 to 1974,less than 50 sqm,766,1,Other
+semi detached 2 floors,1850 to 1899,110 sqm or more,67108,24,EB
+semi detached 2 floors,1850 to 1899,50 to 69 sqm,20298,8,JC
+semi detached 2 floors,1850 to 1899,70 to 89 sqm,34816,17,FO
+semi detached 2 floors,1850 to 1899,90 to 109 sqm,48644,22,EL
+semi detached 2 floors,1850 to 1899,less than 50 sqm,2896,2,JC
+semi detached 2 floors,1900 to 1918,110 sqm or more,79474,27,DM
+semi detached 2 floors,1900 to 1918,50 to 69 sqm,36307,17,FP
+semi detached 2 floors,1900 to 1918,70 to 89 sqm,47245,24,EC
+semi detached 2 floors,1900 to 1918,90 to 109 sqm,33947,17,FQ
+semi detached 2 floors,1900 to 1918,less than 50 sqm,4056,2,PU
+semi detached 2 floors,1919 to 1944,110 sqm or more,288904,103,AC
+semi detached 2 floors,1919 to 1944,50 to 69 sqm,303487,201,E
+semi detached 2 floors,1919 to 1944,70 to 89 sqm,704839,356,B
+semi detached 2 floors,1919 to 1944,90 to 109 sqm,300426,125,T
+semi detached 2 floors,1919 to 1944,less than 50 sqm,14080,6,KG
+semi detached 2 floors,1945 to 1964,110 sqm or more,180494,68,BB
+semi detached 2 floors,1945 to 1964,50 to 69 sqm,250345,229,C
+semi detached 2 floors,1945 to 1964,70 to 89 sqm,926081,572,A
+semi detached 2 floors,1945 to 1964,90 to 109 sqm,299532,152,J
+semi detached 2 floors,1945 to 1964,less than 50 sqm,8248,7,JQ
+semi detached 2 floors,1965 to 1974,110 sqm or more,98447,40,CE
+semi detached 2 floors,1965 to 1974,50 to 69 sqm,149267,58,BJ
+semi detached 2 floors,1965 to 1974,70 to 89 sqm,276275,131,O
+semi detached 2 floors,1965 to 1974,90 to 109 sqm,148936,52,BP
+semi detached 2 floors,1965 to 1974,less than 50 sqm,8784,3,OA
+semi detached 2 floors,1975 to 1980,110 sqm or more,24697,9,IO
+semi detached 2 floors,1975 to 1980,50 to 69 sqm,55164,21,EP
+semi detached 2 floors,1975 to 1980,70 to 89 sqm,99534,43,BZ
+semi detached 2 floors,1975 to 1980,90 to 109 sqm,24897,9,IO
+semi detached 2 floors,1975 to 1980,less than 50 sqm,4755,2,PV
+semi detached 2 floors,1981 to 1990,110 sqm or more,9391,3,OB
+semi detached 2 floors,1981 to 1990,50 to 69 sqm,148445,60,BI
+semi detached 2 floors,1981 to 1990,70 to 89 sqm,87728,47,BV
+semi detached 2 floors,1981 to 1990,90 to 109 sqm,26670,10,HX
+semi detached 2 floors,1981 to 1990,less than 50 sqm,15203,9,IQ
+semi detached 2 floors,post 1990,110 sqm or more,15782,10,HY
+semi detached 2 floors,post 1990,50 to 69 sqm,158720,86,AN
+semi detached 2 floors,post 1990,70 to 89 sqm,180682,116,X
+semi detached 2 floors,post 1990,90 to 109 sqm,32732,16,FX
+semi detached 2 floors,post 1990,less than 50 sqm,25941,13,GR
+semi detached 2 floors,pre 1850,110 sqm or more,51052,20,EW
+semi detached 2 floors,pre 1850,50 to 69 sqm,11181,3,JD
+semi detached 2 floors,pre 1850,70 to 89 sqm,11824,5,JD
+semi detached 2 floors,pre 1850,90 to 109 sqm,21761,8,JD
+semi detached 3 floors,1850 to 1899,110 sqm or more,76607,23,EF
+semi detached 3 floors,1850 to 1899,50 to 69 sqm,6617,2,PW
+semi detached 3 floors,1850 to 1899,90 to 109 sqm,3488,2,PX
+semi detached 3 floors,1900 to 1918,110 sqm or more,76819,23,EG
+semi detached 3 floors,1900 to 1918,50 to 69 sqm,1242,1,ZI
+semi detached 3 floors,1900 to 1918,70 to 89 sqm,8849,3,ZI
+semi detached 3 floors,1900 to 1918,90 to 109 sqm,19461,5,LG
+semi detached 3 floors,1919 to 1944,110 sqm or more,90761,27,DN
+semi detached 3 floors,1919 to 1944,70 to 89 sqm,1765,1,KH
+semi detached 3 floors,1919 to 1944,90 to 109 sqm,13692,6,KH
+semi detached 3 floors,1945 to 1964,110 sqm or more,38315,13,GS
+semi detached 3 floors,1945 to 1964,50 to 69 sqm,1270,1,ZJ
+semi detached 3 floors,1945 to 1964,70 to 89 sqm,4343,2,ZJ
+semi detached 3 floors,1945 to 1964,90 to 109 sqm,24215,10,HZ
+semi detached 3 floors,1965 to 1974,110 sqm or more,9600,4,ZK
+semi detached 3 floors,1965 to 1974,90 to 109 sqm,4569,2,ZK
+semi detached 3 floors,1975 to 1980,110 sqm or more,5923,2,ZK
+semi detached 3 floors,1975 to 1980,70 to 89 sqm,2427,1,ZK
+semi detached 3 floors,1981 to 1990,110 sqm or more,2252,1,ZK
+semi detached 3 floors,1981 to 1990,90 to 109 sqm,4939,2,ZK
+semi detached 3 floors,post 1990,110 sqm or more,15932,8,JE
+semi detached 3 floors,post 1990,50 to 69 sqm,1444,2,JR
+semi detached 3 floors,post 1990,70 to 89 sqm,14150,7,JR
+semi detached 3 floors,post 1990,90 to 109 sqm,11867,6,KI
+semi detached 3 floors,pre 1850,110 sqm or more,21355,8,JF
+Top Floor converted flat,1850 to 1899,110 sqm or more,19939,5,LH
+Top Floor converted flat,1850 to 1899,50 to 69 sqm,57459,24,ED
+Top Floor converted flat,1850 to 1899,70 to 89 sqm,35576,17,FR
+Top Floor converted flat,1850 to 1899,90 to 109 sqm,4065,2,LH
+Top Floor converted flat,1850 to 1899,less than 50 sqm,36432,19,FD
+Top Floor converted flat,1900 to 1918,110 sqm or more,18381,8,JG
+Top Floor converted flat,1900 to 1918,50 to 69 sqm,32245,16,FY
+Top Floor converted flat,1900 to 1918,70 to 89 sqm,19925,10,IA
+Top Floor converted flat,1900 to 1918,90 to 109 sqm,7841,5,JG
+Top Floor converted flat,1900 to 1918,less than 50 sqm,41112,16,FZ
+Top Floor converted flat,1919 to 1944,50 to 69 sqm,26811,10,IB
+Top Floor converted flat,1919 to 1944,70 to 89 sqm,4631,3,YO
+Top Floor converted flat,1919 to 1944,90 to 109 sqm,1425,1,YO
+Top Floor converted flat,1919 to 1944,less than 50 sqm,4804,4,MI
+Top Floor converted flat,1945 to 1964,110 sqm or more,1563,1,KJ
+Top Floor converted flat,1945 to 1964,50 to 69 sqm,4518,1,KJ
+Top Floor converted flat,1945 to 1964,70 to 89 sqm,1362,1,KJ
+Top Floor converted flat,1945 to 1964,less than 50 sqm,4622,6,KJ
+Top Floor converted flat,1965 to 1974,50 to 69 sqm,4466,2,KJ
+Top Floor converted flat,1975 to 1980,50 to 69 sqm,331,1,KJ
+Top Floor converted flat,1975 to 1980,less than 50 sqm,1196,1,KJ
+Top Floor converted flat,1981 to 1990,50 to 69 sqm,1690,1,KJ
+Top Floor converted flat,1981 to 1990,less than 50 sqm,1534,1,KJ
+Top Floor converted flat,post 1990,50 to 69 sqm,4502,1,KJ
+Top Floor converted flat,pre 1850,110 sqm or more,3520,2,KK
+Top Floor converted flat,pre 1850,50 to 69 sqm,5516,4,KK
+Top Floor converted flat,pre 1850,70 to 89 sqm,15391,6,KK
+Top Floor converted flat,pre 1850,90 to 109 sqm,3368,2,KK
+Top Floor converted flat,pre 1850,less than 50 sqm,7326,3,KK
+"Top Floor purpose built flat, high rise",1850 to 1899,70 to 89 sqm,920,1,XN
+"Top Floor purpose built flat, high rise",1919 to 1944,70 to 89 sqm,2022,1,XN
+"Top Floor purpose built flat, high rise",1945 to 1964,50 to 69 sqm,6351,9,XO
+"Top Floor purpose built flat, high rise",1945 to 1964,less than 50 sqm,418,1,XO
+"Top Floor purpose built flat, high rise",1965 to 1974,50 to 69 sqm,1101,2,XO
+"Top Floor purpose built flat, high rise",1965 to 1974,70 to 89 sqm,500,1,XO
+"Top Floor purpose built flat, high rise",1965 to 1974,less than 50 sqm,2982,3,XO
+"Top Floor purpose built flat, high rise",1975 to 1980,110 sqm or more,1538,1,XQ
+"Top Floor purpose built flat, high rise",1975 to 1980,50 to 69 sqm,1876,2,XQ
+"Top Floor purpose built flat, high rise",1975 to 1980,less than 50 sqm,1162,1,XQ
+"Top Floor purpose built flat, high rise",1981 to 1990,50 to 69 sqm,5224,1,XQ
+"Top Floor purpose built flat, high rise",1981 to 1990,70 to 89 sqm,869,1,XQ
+"Top Floor purpose built flat, high rise",post 1990,50 to 69 sqm,1927,2,XQ
+"Top Floor purpose built flat, high rise",post 1990,70 to 89 sqm,6645,4,XQ
+"Top Floor purpose built flat, high rise",post 1990,90 to 109 sqm,9948,2,XQ
+"Top Floor purpose built flat, low rise",1850 to 1899,50 to 69 sqm,10027,5,LK
+"Top Floor purpose built flat, low rise",1850 to 1899,70 to 89 sqm,8064,5,LK
+"Top Floor purpose built flat, low rise",1850 to 1899,90 to 109 sqm,630,1,LK
+"Top Floor purpose built flat, low rise",1850 to 1899,less than 50 sqm,1915,2,LK
+"Top Floor purpose built flat, low rise",1900 to 1918,110 sqm or more,2999,2,KL
+"Top Floor purpose built flat, low rise",1900 to 1918,50 to 69 sqm,22860,6,KL
+"Top Floor purpose built flat, low rise",1900 to 1918,70 to 89 sqm,12675,4,KL
+"Top Floor purpose built flat, low rise",1900 to 1918,less than 50 sqm,13881,7,KL
+"Top Floor purpose built flat, low rise",1919 to 1944,110 sqm or more,3198,2,XZ
+"Top Floor purpose built flat, low rise",1919 to 1944,50 to 69 sqm,53577,30,DH
+"Top Floor purpose built flat, low rise",1919 to 1944,70 to 89 sqm,21480,14,GK
+"Top Floor purpose built flat, low rise",1919 to 1944,90 to 109 sqm,1703,1,XZ
+"Top Floor purpose built flat, low rise",1919 to 1944,less than 50 sqm,32053,17,FS
+"Top Floor purpose built flat, low rise",1945 to 1964,110 sqm or more,901,1,YA
+"Top Floor purpose built flat, low rise",1945 to 1964,50 to 69 sqm,124826,127,Q
+"Top Floor purpose built flat, low rise",1945 to 1964,70 to 89 sqm,41638,32,CY
+"Top Floor purpose built flat, low rise",1945 to 1964,90 to 109 sqm,4101,4,YA
+"Top Floor purpose built flat, low rise",1945 to 1964,less than 50 sqm,118047,84,AO
+"Top Floor purpose built flat, low rise",1965 to 1974,110 sqm or more,1186,3,MN
+"Top Floor purpose built flat, low rise",1965 to 1974,50 to 69 sqm,128277,97,AI
+"Top Floor purpose built flat, low rise",1965 to 1974,70 to 89 sqm,38459,27,DO
+"Top Floor purpose built flat, low rise",1965 to 1974,90 to 109 sqm,4695,4,MN
+"Top Floor purpose built flat, low rise",1965 to 1974,less than 50 sqm,87049,72,AX
+"Top Floor purpose built flat, low rise",1975 to 1980,50 to 69 sqm,57633,54,BM
+"Top Floor purpose built flat, low rise",1975 to 1980,70 to 89 sqm,3982,5,LL
+"Top Floor purpose built flat, low rise",1975 to 1980,less than 50 sqm,91133,81,AQ
+"Top Floor purpose built flat, low rise",1981 to 1990,110 sqm or more,2611,2,VE
+"Top Floor purpose built flat, low rise",1981 to 1990,50 to 69 sqm,40754,36,CN
+"Top Floor purpose built flat, low rise",1981 to 1990,70 to 89 sqm,22628,9,IS
+"Top Floor purpose built flat, low rise",1981 to 1990,90 to 109 sqm,1135,1,VE
+"Top Floor purpose built flat, low rise",1981 to 1990,less than 50 sqm,123909,97,AJ
+"Top Floor purpose built flat, low rise",post 1990,110 sqm or more,15140,2,YC
+"Top Floor purpose built flat, low rise",post 1990,50 to 69 sqm,117526,64,BF
+"Top Floor purpose built flat, low rise",post 1990,70 to 89 sqm,30395,17,FT
+"Top Floor purpose built flat, low rise",post 1990,90 to 109 sqm,7123,3,YC
+"Top Floor purpose built flat, low rise",post 1990,less than 50 sqm,130167,80,AS
+"Top Floor purpose built flat, low rise",pre 1850,90 to 109 sqm,1947,1,XY
+"Top Floor purpose built flat, low rise",pre 1850,less than 50 sqm,2629,2,XY
+Top Floor semi detached,1945 to 1964,50 to 69 sqm,3001,1,Other

@@ -1,0 +1,86 @@
+Finchtyp,mainfuel,watersys,tank,count,countsamp,conf,EnergyType
+Central heating (wet with rads),gas (mains),with central heating,No Tank,11187420,6412,1744.762944,A
+Central heating (wet with rads),gas (other),with central heating,Tank without Immersion Heater,16481,7,2354.428571,U
+Communal/CHP,community heating from CHP/waste heat,with central heating,No Tank,15892,11,1444.727273,V
+Central heating (wet with rads),wood,with central heating,Tank with Immersion Heater,14313,8,1789.125,W
+Central heating (wet with rads),wood,with central heating,Tank without Immersion Heater,11238,3,3746,X
+Central heating (wet with rads),gas (mains),instantaneous,Tank without Immersion Heater,7822,3,2607.333333,Y
+Central heating (wet with rads),gas (mains),dedicated boiler,No Tank,6870,2,3435,Z
+Central heating (wet with rads),heating oil ,dedicated boiler,Tank with Immersion Heater,6642,2,3321,AA
+Central heating (wet with rads),heating oil ,electric immersion heater,Tank with Immersion Heater,9317,5,1863.4,AA
+Central heating (wet with rads),heating oil ,instantaneous,No Tank,2256,1,2256,AA
+Communal/CHP,community heating from boilers,instantaneous,No Tank,6612,4,1653,AB
+Central heating (wet with rads),gas (mains),with central heating,Tank with Immersion Heater,5813689,2817,2063.787362,B
+Communal/CHP,community heating from CHP/waste heat,with central heating,Tank without Immersion Heater,6196,5,1239.2,AC
+Central heating (wet with rads),gas (mains),dedicated boiler,Tank with Immersion Heater,5014,3,1671.333333,AD
+Central heating (wet with rads),gas (mains),dedicated boiler,Tank without Immersion Heater,4479,3,1493,AE
+Communal/CHP,community heating from CHP/waste heat,with central heating,Tank with Immersion Heater,3855,2,1927.5,AF
+Central heating (wet with rads),gas (other),electric immersion heater,Tank with Immersion Heater,3481,1,3481,AG
+Communal/CHP,community heating from CHP/waste heat,electric immersion heater,Tank with Immersion Heater,1958,3,652.6666667,AH
+Central heating (wet with rads),wood,electric immersion heater,Tank with Immersion Heater,1846,1,1846,AI
+Central heating (wet with rads),gas (mains),with central heating,Tank without Immersion Heater,2139186,1077,1986.245125,C
+Communal/CHP,community heating from boilers,instantaneous,Tank without Immersion Heater,936,2,468,AJ
+Storage heaters,electricity,dedicated boiler,No Tank,14027,8,1753.375,D
+Storage heaters,electricity,dedicated boiler,Tank with Immersion Heater,8387,3,2795.666667,D
+Storage heaters,electricity,dedicated boiler,Tank without Immersion Heater,1526,1,1526,D
+Storage heaters,electricity,electric immersion heater,No Tank,4692,4,1173,D
+Storage heaters,electricity,electric immersion heater,Tank with Immersion Heater,1260385,763,1651.880734,D
+Storage heaters,electricity,instantaneous,No Tank,43261,23,1880.913043,D
+Storage heaters,electricity,instantaneous,Tank without Immersion Heater,7358,4,1839.5,D
+Central heating (wet with rads),heating oil ,with central heating,Tank with Immersion Heater,521933,208,2509.293269,E
+Room heaters,coal,dedicated boiler,Tank with Immersion Heater,17110,7,2444.285714,F
+Room heaters,coal,electric immersion heater,No Tank,7188,2,3594,F
+Room heaters,coal,electric immersion heater,Tank with Immersion Heater,8942,4,2235.5,F
+Room heaters,coal,instantaneous,No Tank,2153,1,2153,F
+Room heaters,electricity,dedicated boiler,No Tank,12054,4,3013.5,F
+Room heaters,electricity,electric immersion heater,No Tank,3022,1,3022,F
+Room heaters,electricity,electric immersion heater,Tank with Immersion Heater,245856,105,2341.485714,F
+Room heaters,electricity,instantaneous,No Tank,39450,14,2817.857143,F
+Room heaters,electricity,instantaneous,Tank without Immersion Heater,1217,1,1217,F
+Room heaters,gas (mains),dedicated boiler,Tank with Immersion Heater,2478,2,1239,F
+Room heaters,gas (mains),dedicated boiler,Tank without Immersion Heater,1643,1,1643,F
+Room heaters,gas (mains),electric immersion heater,Tank with Immersion Heater,62835,25,2513.4,F
+Room heaters,gas (mains),instantaneous,No Tank,73668,27,2728.444444,F
+Room heaters,gas (other),electric immersion heater,No Tank,5863,1,5863,F
+Room heaters,heating oil ,instantaneous,No Tank,1579,1,1579,F
+Room heaters,wood,dedicated boiler,Tank with Immersion Heater,1071,1,1071,F
+Room heaters,wood,electric immersion heater,Tank with Immersion Heater,3201,2,1600.5,F
+Communal/CHP,community heating from boilers,with central heating,No Tank,236252,173,1365.618497,G
+Central heating (wet with rads),gas (mains),electric immersion heater,Tank with Immersion Heater,186033,93,2000.354839,H
+Central heating (wet with rads),heating oil ,with central heating,No Tank,161260,74,2179.189189,I
+Central heating (wet with rads),heating oil ,with central heating,Tank without Immersion Heater,136856,55,2488.290909,J
+Electric ceiling/underfloor,electricity,electric immersion heater,Tank with Immersion Heater,71769,32,2242.78125,K
+Electric ceiling/underfloor,electricity,instantaneous,No Tank,14797,3,4932.333333,K
+Central heating (wet with rads),gas (other),with central heating,No Tank,67334,26,2589.769231,L
+Warm air,electricity,electric immersion heater,Tank with Immersion Heater,7673,7,1096.142857,M
+Warm air,electricity,electric immersion heater,Tank without Immersion Heater,2142,1,2142,M
+Warm air,electricity,with central heating,No Tank,678,1,678,M
+Warm air,electricity,with central heating,Tank with Immersion Heater,384,1,384,M
+Warm air,gas (mains),dedicated boiler,Tank with Immersion Heater,2531,2,1265.5,M
+Warm air,gas (mains),electric immersion heater,Tank with Immersion Heater,22062,20,1103.1,M
+Warm air,gas (mains),instantaneous,No Tank,23044,11,2094.909091,M
+Warm air,gas (mains),with central heating,Tank with Immersion Heater,35640,15,2376,M
+Warm air,gas (mains),with central heating,Tank without Immersion Heater,18506,9,2056.222222,M
+Central heating (wet with rads),electricity,electric immersion heater,Tank with Immersion Heater,15058,13,1158.307692,N
+Central heating (wet with rads),electricity,instantaneous,Tank without Immersion Heater,1340,1,1340,N
+Central heating (wet with rads),electricity,with central heating,No Tank,1699,2,849.5,N
+Central heating (wet with rads),electricity,with central heating,Tank with Immersion Heater,28237,22,1283.5,N
+Central heating (wet with rads),electricity,with central heating,Tank without Immersion Heater,19981,15,1332.066667,N
+Communal/CHP,community heating from boilers,with central heating,Tank without Immersion Heater,63818,68,938.5,O
+Communal/CHP,community heating from boilers,with central heating,Tank with Immersion Heater,62976,49,1285.22449,P
+Central heating (wet with rads),coal,with central heating,Tank with Immersion Heater,62617,35,1789.057143,R
+Central heating (wet with rads),coal,with central heating,Tank without Immersion Heater,19017,10,1901.7,R
+Central heating (wet with rads),gas (other),with central heating,Tank with Immersion Heater,61463,24,2560.958333,S
+Central heating (wet with rads),gas (mains),instantaneous,No Tank,60259,27,2231.814815,T
+Communal/CHP,community heating from boilers,electric immersion heater,Tank with Immersion Heater,35747,38,940.7105263,Q
+Central heating (wet with rads),gas (mains),electric immersion heater,No Tank,6441,3,2147,ZZ
+No Answer,coal,dedicated boiler,Tank with Immersion Heater,4038,2,2019,ZZ
+No Answer,coal,electric immersion heater,Tank with Immersion Heater,6035,3,2011.666667,ZZ
+No Answer,electricity,dedicated boiler,Tank with Immersion Heater,10018,6,1669.666667,ZZ
+No Answer,electricity,electric immersion heater,No Tank,49288,14,3520.571429,ZZ
+No Answer,electricity,electric immersion heater,Tank with Immersion Heater,103368,43,2403.906977,ZZ
+No Answer,electricity,instantaneous,No Tank,27163,10,2716.3,ZZ
+No Answer,gas (mains),electric immersion heater,No Tank,727,1,727,ZZ
+No Answer,gas (mains),electric immersion heater,Tank with Immersion Heater,4402,2,2201,ZZ
+No Answer,gas (mains),instantaneous,No Tank,4318,1,4318,ZZ
+No Answer,gas (other),electric immersion heater,Tank with Immersion Heater,2408,1,2408,ZZ

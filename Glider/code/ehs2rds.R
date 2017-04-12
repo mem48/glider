@@ -550,180 +550,24 @@ combined_2013$LoftIns <- as.factor(combined_2013$LoftIns)
 
 remove(context,doors,elevate,general,physical,roof,services,shape, walls, windows)
 
-#Asign Energy Architype
-energy_arch <- read.csv("data/energy_archetypes_11-13.csv", stringsAsFactors = FALSE)
+#Gas Available
 
-combined_2013$energytyp <- NA
-combined_2013$Finchtyp <- as.character(combined_2013$Finchtyp)
-combined_2013$mainfuel <- as.character(combined_2013$mainfuel)
-combined_2013$watersys <- as.character(combined_2013$watersys)
-combined_2013$tank <- as.character(combined_2013$tank)
+combined_2013$gasgrid <- NA
 
-for(h in 1:nrow(combined_2013)){
-  combined_2013$energytyp[h] <- energy_arch$EnergyType[energy_arch$Finchtyp == combined_2013$Finchtyp[h] & energy_arch$mainfuel == combined_2013$mainfuel[h] & energy_arch$watersys == combined_2013$watersys[h] & energy_arch$tank == combined_2013$tank[h] ]
+for (f in 1:nrow(combined_2013)){
+  if(combined_2013$mainfuel == "gas (mains)"){
+    combined_2013$gasgrid <- "yes"
+  }else if(combined_2013$arnatx == "city centre" | combined_2013$arnatx == "other urban centre"| combined_2013$arnatx == "suburban residential"){
+    combined_2013$gasgrid <- "yes"
+  }else{
+    combined_2013$gasgrid <- "no"
+  }
 }
 
-combined_2013$energytyp <- as.factor(combined_2013$energytyp)
-summary(combined_2013$energytyp)
 
-#General Architype
-general_arch <- read.csv("data/general_archetypes_13.csv", stringsAsFactors = FALSE)
+#Save Out
 
-combined_2013$generaltyp <- NA
-combined_2013$type <- as.character(combined_2013$type)
-combined_2013$dwage9x <- as.character(combined_2013$dwage9x)
-combined_2013$floor5x <- as.character(combined_2013$floor5x)
-
-for(i in 1:nrow(combined_2013)){
-  combined_2013$generaltyp[i] <- general_arch$GeneralType[general_arch$type == combined_2013$type[i] & general_arch$dwage9x == combined_2013$dwage9x[i] & general_arch$floor5x == combined_2013$floor5x[i] ]
-}
-
-combined_2013$generaltyp <- as.factor(combined_2013$generaltyp)
-summary(combined_2013$generaltyp)
-
-#Roof Architype
-roof_arch <- read.csv("data/roof_archetypes_13.csv", stringsAsFactors = FALSE)
-
-combined_2013$rooftyp <- NA
-combined_2013$typerstr <- as.character(combined_2013$typerstr)
-combined_2013$attic <- as.character(combined_2013$attic)
-combined_2013$SolarSuit <- as.character(combined_2013$SolarSuit)
-
-for(i in 1:nrow(combined_2013)){
-  combined_2013$rooftyp[i] <- roof_arch$RoofType[roof_arch$typerstr == combined_2013$typerstr[i] & roof_arch$attic == combined_2013$attic[i] & roof_arch$SolarSuit == combined_2013$SolarSuit[i] ]
-}
-
-combined_2013$rooftyp <- as.factor(combined_2013$rooftyp)
-summary(combined_2013$rooftyp)
-
-#Wall Architype
-wall_arch <- read.csv("data/wall_archetypes_13.csv", stringsAsFactors = FALSE)
-
-combined_2013$walltyp <- NA
-combined_2013$typewstr2 <- as.character(combined_2013$typewstr2)
-
-
-for(i in 1:nrow(combined_2013)){
-  combined_2013$walltyp[i] <- wall_arch$WallType[wall_arch$typewstr2 == combined_2013$typewstr2[i]  ]
-}
-
-combined_2013$walltyp <- as.factor(combined_2013$walltyp)
-summary(combined_2013$walltyp)
-
-
-
-
-#Combine togther archetypes
-combined_2013$archcode <- paste0(combined_2013$generaltyp,"-",combined_2013$rooftyp,"-",combined_2013$walltyp,"-",combined_2013$energytyp)
-test <- combined_2013[,c("aacode","aagpd1213","archcode")]
-test <- test[with(test, order(archcode)),]
-uni <- as.data.frame(unique(test[,c("archcode")]))
-names(uni) <- "archcode"
-
-uni$count <- NA
-uni$countsamp <- NA
-uni$conf <- NA
-for (f in 1:nrow(uni)){
-  uni$count[f] <- sum(test$aagpd1213[test$archcode == uni$archcode[f] ])
-  uni$countsamp[f] <- nrow(test[test$archcode == uni$archcode[f]  , ])
-  uni$conf[f] <- uni$count[f] / uni$countsamp[f]
-}
-nrow(uni)
-#Count of arch with only one sample
-sum(uni$count[uni$countsamp == 1])
-length(uni$count[uni$countsamp == 1])
-#Coutn of arch with many samples
-sum(uni$count[uni$countsamp >= 10])
-length(uni$count[uni$countsamp >= 10])
-plot(uni$count[order(-uni$count)])
-
-test <- uni[uni$countsamp >= 10,]
-test <- test[test$count >= 10000,]
-plot(test$count[order(-test$count)])
-sum(test$count)
-
-
-write.csv(combined_2013,"combined_2013.csv")
-
-
-
-###########################################################################
-#Construct Energy Architypes
-############################################################################
-
-#test <- combined_2013[,c("aacode","aagpd1213","Finchtyp","mainfuel","watersys","tank")]
-#test <- test[with(test, order(Finchtyp,mainfuel,watersys,tank)),]
-#uni <- unique(test[,c("Finchtyp","mainfuel","watersys","tank")])
-
-#uni$count <- NA
-#uni$countsamp <- NA
-#$conf <- NA
-#for (f in 1:nrow(uni)){
-#  uni$count[f] <- sum(test$aagpd1213[test$Finchtyp == uni$Finchtyp[f] & test$mainfuel == uni$mainfuel[f] & test$watersys == uni$watersys[f] & test$tank == uni$tank[f] ])
-#  uni$countsamp[f] <- nrow(test[test$Finchtyp == uni$Finchtyp[f] & test$mainfuel == uni$mainfuel[f] & test$watersys == uni$watersys[f] & test$tank == uni$tank[f], ])
-#  uni$conf[f] <- uni$count[f] / uni$countsamp[f]
-#}
-
-
-###########################################################################
-#Construct General Architypes
-############################################################################
-
-#test <- combined_2013[,c("aacode","aagpd1213","type","floor5x","dwage9x")]
-#test <- test[with(test, order(type,dwage9x,floor5x)),]
-#uni <- unique(test[,c("type","floor5x","dwage9x")])
-
-#uni$count <- NA
-#uni$countsamp <- NA
-#uni$conf <- NA
-#for (f in 1:nrow(uni)){
-#  uni$count[f] <- sum(test$aagpd1213[test$type == uni$type[f] & test$floor5x == uni$floor5x[f] & test$dwage9x == uni$dwage9x[f] ])
-#  uni$countsamp[f] <- nrow(test[test$type == uni$type[f] & test$floor5x == uni$floor5x[f] & test$dwage9x == uni$dwage9x[f] , ])
-#  uni$conf[f] <- uni$count[f] / uni$countsamp[f]
-#}
-
-#write.csv(uni,"data/general_architype_2013.csv")
-
-
-###########################################################################
-#Construct Roof Architypes
-############################################################################
-
-#test <- combined_2013[,c("aacode","aagpd1213","typerstr","attic","SolarSuit")]
-#test <- test[with(test, order(typerstr,attic,SolarSuit)),]
-#uni <- unique(test[,c("typerstr","attic","SolarSuit")])
-
-#uni$count <- NA
-#uni$countsamp <- NA
-#uni$conf <- NA
-#for (f in 1:nrow(uni)){
-#  uni$count[f] <- sum(test$aagpd1213[test$typerstr == uni$typerstr[f] & test$attic == uni$attic[f] & test$SolarSuit == uni$SolarSuit[f] ])
-#  uni$countsamp[f] <- nrow(test[test$typerstr == uni$typerstr[f] & test$attic == uni$attic[f] & test$SolarSuit == uni$SolarSuit[f] , ])
-#  uni$conf[f] <- uni$count[f] / uni$countsamp[f]
-#}
-
-#write.csv(uni,"data/roof_archetype_2013.csv")
-
-
-###########################################################################
-#Construct Wall Architypes
-############################################################################
-
-#test <- combined_2013[,c("aacode","aagpd1213","typewstr2")]
-#test <- test[with(test, order(typewstr2)),]
-#uni <- as.data.frame(unique(test[,c("typewstr2")]))
-#names(uni) <- "typewstr2"
-
-#uni$count <- NA
-#uni$countsamp <- NA
-#uni$conf <- NA
-#for (f in 1:nrow(uni)){
-#  uni$count[f] <- sum(test$aagpd1213[test$typewstr2 == uni$typewstr2[f] ])
-#  uni$countsamp[f] <- nrow(test[test$typewstr2 == uni$typewstr2[f]  , ])
-#  uni$conf[f] <- uni$count[f] / uni$countsamp[f]
-#}
-
-#write.csv(uni,"data/wall_archetypes_13.csv")
+saveRDS(combined_2013,"data/combined_2013_base.Rds")
 
 
 

@@ -1,9 +1,32 @@
-typewstr2,count,countsamp,conf,WallType
-masonry cavity,16258818,9088,1789.042474,A
-9 inch solid,4359046,1896,2299.074895,B
-greater than 9 inch solid,1426086,663,2150.959276,C
-mixed types,429354,211,2034.853081,D
-timber/metal/plastic panels,322933,187,1726.914439,E
-in situ concrete,222147,210,1057.842857,F
-concrete panels,198660,216,919.7222222,G
-masonry single leaf,36737,27,1360.62963,H
+typewstr2,wallinsy,count,countsamp,conf,WallType
+9 inch solid,cavity uninsulated,21679,9,2408.777778,B0
+9 inch solid,solid with insulation,114977,82,1402.158537,B2
+9 inch solid,solid uninsulated,4211119,1799,2340.811006,B1
+9 inch solid,other,11271,6,1878.5,B0
+concrete panels,solid with insulation,76745,93,825.2150538,C2
+concrete panels,solid uninsulated,121915,123,991.1788618,C1
+greater than 9 inch solid,cavity with insulation,1366,1,1366,B0
+greater than 9 inch solid,cavity uninsulated,12261,6,2043.5,B0
+greater than 9 inch solid,solid with insulation,54770,39,1404.358974,B2
+greater than 9 inch solid,solid uninsulated,1351611,614,2201.320847,B1
+greater than 9 inch solid,other,6078,3,2026,B0
+in situ concrete,cavity with insulation,3800,1,3800,C0
+in situ concrete,solid with insulation,81241,88,923.1931818,C2
+in situ concrete,solid uninsulated,137106,121,1133.107438,C1
+masonry cavity,cavity with insulation,9534126,5462,1745.537532,A2
+masonry cavity,cavity uninsulated,6230399,3355,1857.048882,A1
+masonry cavity,solid with insulation,6669,4,1667.25,A0
+masonry cavity,solid uninsulated,40266,18,2237,A0
+masonry cavity,other,447358,249,1796.618474,A0
+masonry single leaf,solid with insulation,6400,8,800,C2
+masonry single leaf,solid uninsulated,30337,19,1596.684211,C1
+mixed types,cavity with insulation,39047,23,1697.695652,D2
+mixed types,cavity uninsulated,95883,57,1682.157895,D1
+mixed types,solid with insulation,15462,13,1189.384615,D4
+mixed types,solid uninsulated,277212,117,2369.333333,D3
+mixed types,other,1750,1,1750,D0
+timber/metal/plastic panels,cavity with insulation,2020,1,2020,C0
+timber/metal/plastic panels,cavity uninsulated,5184,4,1296,C0
+timber/metal/plastic panels,solid with insulation,92754,52,1783.730769,C2
+timber/metal/plastic panels,solid uninsulated,218888,128,1710.0625,C1
+timber/metal/plastic panels,other,4087,2,2043.5,C0

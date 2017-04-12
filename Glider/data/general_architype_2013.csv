@@ -1,0 +1,165 @@
+type,dwage9x,count,countsamp,conf,GeneralType
+semi detached 2 floors,1850 to 1899,173762,73,2380.30137,AB
+semi detached 2 floors,1900 to 1918,201029,87,2310.678161,AC
+semi detached 2 floors,1919 to 1944,1611736,791,2037.59292,AD
+semi detached 2 floors,1945 to 1964,1664700,1028,1619.357977,AE
+semi detached 2 floors,1965 to 1974,681709,284,2400.383803,AF
+semi detached 2 floors,1975 to 1980,209047,84,2488.654762,AG
+semi detached 2 floors,1981 to 1990,287437,129,2228.193798,AH
+semi detached 2 floors,post 1990,413857,241,1717.248963,AI
+semi detached 2 floors,pre 1850,95818,36,2661.611111,AA
+detached 2 floors,1850 to 1899,147891,57,2594.578947,BB
+detached 2 floors,1900 to 1918,97138,37,2625.351351,BC
+detached 2 floors,1919 to 1944,452151,155,2917.103226,BD
+detached 2 floors,1945 to 1964,465351,159,2926.735849,BE
+detached 2 floors,1965 to 1974,563212,210,2681.961905,BF
+detached 2 floors,1975 to 1980,401031,141,2844.191489,BG
+detached 2 floors,1981 to 1990,501032,178,2814.786517,BH
+detached 2 floors,post 1990,935781,322,2906.152174,BI
+detached 2 floors,pre 1850,228599,85,2689.4,BA
+mid terrace 2 floors,1850 to 1899,565155,269,2100.947955,CB
+mid terrace 2 floors,1900 to 1918,655366,301,2177.295681,CC
+mid terrace 2 floors,1919 to 1944,583776,324,1801.777778,CD
+mid terrace 2 floors,1945 to 1964,452719,396,1143.229798,CE
+mid terrace 2 floors,1965 to 1974,364206,264,1379.568182,CF
+mid terrace 2 floors,1975 to 1980,186936,131,1426.992366,CG
+mid terrace 2 floors,1981 to 1990,207755,136,1527.610294,CH
+mid terrace 2 floors,post 1990,310542,184,1687.728261,CI
+mid terrace 2 floors,pre 1850,99024,38,2605.894737,CA
+bungalow,1850 to 1899,19107,6,3184.5,DA
+bungalow,1900 to 1918,15823,10,1582.3,DA
+bungalow,1919 to 1944,241210,110,2192.818182,DD
+bungalow,1945 to 1964,633709,399,1588.243108,DE
+bungalow,1965 to 1974,550687,293,1879.477816,DF
+bungalow,1975 to 1980,197961,110,1799.645455,DG
+bungalow,1981 to 1990,259602,146,1778.09589,DH
+bungalow,post 1990,192440,101,1905.346535,DI
+bungalow,pre 1850,7100,4,1775,DA
+end terrace 2 floors,1850 to 1899,206775,88,2349.715909,EB
+end terrace 2 floors,1900 to 1918,203398,86,2365.093023,EC
+end terrace 2 floors,1919 to 1944,397095,214,1855.584112,ED
+end terrace 2 floors,1945 to 1964,345803,290,1192.424138,EE
+end terrace 2 floors,1965 to 1974,209057,155,1348.754839,EF
+end terrace 2 floors,1975 to 1980,92257,74,1246.716216,EG
+end terrace 2 floors,1981 to 1990,153524,86,1785.162791,EH
+end terrace 2 floors,post 1990,270164,172,1570.72093,EI
+end terrace 2 floors,pre 1850,42258,19,2224.105263,EA
+"Ground floor purpose built flat, low rise",1850 to 1899,28054,13,2158,FB
+"Ground floor purpose built flat, low rise",1900 to 1918,23456,12,1954.666667,FB
+"Ground floor purpose built flat, low rise",1919 to 1944,72697,49,1483.612245,FD
+"Ground floor purpose built flat, low rise",1945 to 1964,268050,274,978.2846715,FE
+"Ground floor purpose built flat, low rise",1965 to 1974,230603,225,1024.902222,FF
+"Ground floor purpose built flat, low rise",1975 to 1980,113664,109,1042.788991,FG
+"Ground floor purpose built flat, low rise",1981 to 1990,205046,152,1348.986842,FH
+"Ground floor purpose built flat, low rise",post 1990,289632,165,1755.345455,FI
+"Top Floor purpose built flat, low rise",1850 to 1899,20636,13,1587.384615,GA
+"Top Floor purpose built flat, low rise",1900 to 1918,52415,19,2758.684211,GA
+"Top Floor purpose built flat, low rise",1919 to 1944,112011,64,1750.171875,GD
+"Top Floor purpose built flat, low rise",1945 to 1964,289513,248,1167.391129,GE
+"Top Floor purpose built flat, low rise",1965 to 1974,259666,203,1279.142857,GF
+"Top Floor purpose built flat, low rise",1975 to 1980,152748,140,1091.057143,GG
+"Top Floor purpose built flat, low rise",1981 to 1990,191037,145,1317.496552,GH
+"Top Floor purpose built flat, low rise",post 1990,300351,166,1809.343373,GI
+"Top Floor purpose built flat, low rise",pre 1850,4576,3,1525.333333,GA
+mid terrace 3 floors,1850 to 1899,162889,74,2201.202703,HB
+mid terrace 3 floors,1900 to 1918,221813,81,2738.432099,HC
+mid terrace 3 floors,1919 to 1944,111154,37,3004.162162,HD
+mid terrace 3 floors,1945 to 1964,13529,11,1229.909091,HE
+mid terrace 3 floors,1965 to 1974,33976,22,1544.363636,HE
+mid terrace 3 floors,1975 to 1980,12028,12,1002.333333,HF
+mid terrace 3 floors,1981 to 1990,29222,19,1538,HF
+mid terrace 3 floors,post 1990,129036,65,1985.169231,HI
+mid terrace 3 floors,pre 1850,54714,19,2879.684211,HA
+"Mid Floor purpose built flat, low rise",1850 to 1899,2592,3,864,IA
+"Mid Floor purpose built flat, low rise",1900 to 1918,15831,10,1583.1,IA
+"Mid Floor purpose built flat, low rise",1919 to 1944,61726,40,1543.15,ID
+"Mid Floor purpose built flat, low rise",1945 to 1964,146168,105,1392.07619,IE
+"Mid Floor purpose built flat, low rise",1965 to 1974,123079,91,1352.516484,IF
+"Mid Floor purpose built flat, low rise",1975 to 1980,102586,55,1865.2,IG
+"Mid Floor purpose built flat, low rise",1981 to 1990,66148,42,1574.952381,IH
+"Mid Floor purpose built flat, low rise",post 1990,220565,105,2100.619048,II
+"Mid Floor purpose built flat, low rise",pre 1850,1255,1,1255,IA
+Top Floor converted flat,1850 to 1899,153471,67,2290.61194,JB
+Top Floor converted flat,1900 to 1918,119504,55,2172.8,JC
+Top Floor converted flat,1919 to 1944,37671,18,2092.833333,JD
+Top Floor converted flat,1945 to 1964,12065,9,1340.555556,JD
+Top Floor converted flat,1965 to 1974,4466,2,2233,JD
+Top Floor converted flat,1975 to 1980,1527,2,763.5,JD
+Top Floor converted flat,1981 to 1990,3224,2,1612,JD
+Top Floor converted flat,post 1990,4502,1,4502,JD
+Top Floor converted flat,pre 1850,35121,17,2065.941176,JA
+Ground floor converted flat,1850 to 1899,148386,61,2432.557377,KA
+Ground floor converted flat,1900 to 1918,91946,42,2189.190476,KC
+Ground floor converted flat,1919 to 1944,45418,26,1746.846154,KD
+Ground floor converted flat,1945 to 1964,9741,5,1948.2,KD
+Ground floor converted flat,1965 to 1974,856,1,856,KD
+Ground floor converted flat,pre 1850,20141,10,2014.1,KA
+"Mid Floor purpose built flat, high rise",1900 to 1918,1986,2,993,LA
+"Mid Floor purpose built flat, high rise",1919 to 1944,28695,12,2391.25,LA
+"Mid Floor purpose built flat, high rise",1945 to 1964,65013,65,1000.2,LE
+"Mid Floor purpose built flat, high rise",1965 to 1974,131816,124,1063.032258,LF
+"Mid Floor purpose built flat, high rise",1975 to 1980,16668,11,1515.272727,LG
+"Mid Floor purpose built flat, high rise",1981 to 1990,9082,6,1513.666667,LG
+"Mid Floor purpose built flat, high rise",post 1990,117334,52,2256.423077,LI
+"Mid Floor purpose built flat, high rise",pre 1850,1877,1,1877,LA
+detached 3 floors,1850 to 1899,41519,12,3459.916667,MA
+detached 3 floors,1900 to 1918,24173,11,2197.545455,MA
+detached 3 floors,1919 to 1944,26302,10,2630.2,MA
+detached 3 floors,1945 to 1964,18899,8,2362.375,MA
+detached 3 floors,1965 to 1974,17747,3,5915.666667,MA
+detached 3 floors,1975 to 1980,4925,2,2462.5,MA
+detached 3 floors,1981 to 1990,17866,5,3573.2,MA
+detached 3 floors,post 1990,96587,34,2840.794118,MI
+detached 3 floors,pre 1850,29351,14,2096.5,MA
+end terrace 3 floors,1850 to 1899,62048,26,2386.461538,NA
+end terrace 3 floors,1900 to 1918,68668,27,2543.259259,NC
+end terrace 3 floors,1919 to 1944,26976,11,2452.363636,ND
+end terrace 3 floors,1945 to 1964,14213,6,2368.833333,ND
+end terrace 3 floors,1965 to 1974,29074,10,2907.4,ND
+end terrace 3 floors,1975 to 1980,8709,7,1244.142857,ND
+end terrace 3 floors,1981 to 1990,8718,7,1245.428571,ND
+end terrace 3 floors,post 1990,96454,45,2143.422222,NI
+end terrace 3 floors,pre 1850,24951,8,3118.875,NA
+"Ground floor purpose built flat, high rise",1850 to 1899,4370,1,4370,O
+"Ground floor purpose built flat, high rise",1900 to 1918,385,1,385,O
+"Ground floor purpose built flat, high rise",1919 to 1944,4623,1,4623,O
+"Ground floor purpose built flat, high rise",1945 to 1964,20837,11,1894.272727,O
+"Ground floor purpose built flat, high rise",1965 to 1974,22649,13,1742.230769,O
+"Ground floor purpose built flat, high rise",post 1990,11459,4,2864.75,O
+Mid Floor converted flat,1850 to 1899,110246,51,2161.686275,PA
+Mid Floor converted flat,1900 to 1918,40621,24,1692.541667,PC
+Mid Floor converted flat,1919 to 1944,5922,4,1480.5,PC
+Mid Floor converted flat,1945 to 1964,7255,2,3627.5,PC
+Mid Floor converted flat,1965 to 1974,1378,1,1378,PC
+Mid Floor converted flat,pre 1850,20529,11,1866.272727,PA
+semi detached 3 floors,1850 to 1899,86712,27,3211.555556,QA
+semi detached 3 floors,1900 to 1918,106371,32,3324.09375,QC
+semi detached 3 floors,1919 to 1944,106218,34,3124.058824,QD
+semi detached 3 floors,1945 to 1964,68143,26,2620.884615,QE
+semi detached 3 floors,1965 to 1974,14169,6,2361.5,QE
+semi detached 3 floors,1975 to 1980,8350,3,2783.333333,QE
+semi detached 3 floors,1981 to 1990,7191,3,2397,QE
+semi detached 3 floors,post 1990,43393,23,1886.652174,QI
+semi detached 3 floors,pre 1850,21355,8,2669.375,QA
+"Top Floor purpose built flat, high rise",1850 to 1899,920,1,920,R
+"Top Floor purpose built flat, high rise",1919 to 1944,2022,1,2022,R
+"Top Floor purpose built flat, high rise",1945 to 1964,6769,10,676.9,R
+"Top Floor purpose built flat, high rise",1965 to 1974,4583,6,763.8333333,R
+"Top Floor purpose built flat, high rise",1975 to 1980,4576,4,1144,R
+"Top Floor purpose built flat, high rise",1981 to 1990,6093,2,3046.5,R
+"Top Floor purpose built flat, high rise",post 1990,18520,8,2315,R
+mid terrace 4 floors,1850 to 1899,1596,1,1596,S
+mid terrace 4 floors,1900 to 1918,1641,1,1641,S
+mid terrace 4 floors,post 1990,3896,2,1948,S
+mid terrace 4 floors,pre 1850,8288,3,2762.666667,S
+Basement converted flat,1850 to 1899,50844,21,2421.142857,T
+Basement converted flat,1900 to 1918,6994,2,3497,T
+Basement converted flat,1919 to 1944,2741,2,1370.5,T
+Basement converted flat,pre 1850,10095,4,2523.75,T
+"Basement purpose built flat, low rise",1850 to 1899,6406,4,1601.5,U
+"Basement purpose built flat, low rise",1965 to 1974,668,1,668,U
+"Basement purpose built flat, low rise",post 1990,4376,3,1458.666667,U
+Top Floor semi detached,1945 to 1964,3001,1,3001,ZZ
+"purpose built flat, low rise 1 floors",1965 to 1974,766,1,766,ZZ
+end terrace 4 floors,post 1990,822,1,822,ZZ
+converted flat 2 floors,pre 1850,1102,1,1102,ZZ
