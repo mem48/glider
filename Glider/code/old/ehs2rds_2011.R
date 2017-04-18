@@ -7,55 +7,50 @@ current_year <- 2011
 
 infld <- "C:/Users/earmmor/OneDrive/OD/Glider - Private/WP2/Data/EHS/EHS-2011-SPSS/UKDA-7386-spss/spss/spss19/"
 ###############################################################################
-#Physical Table
+#Physical Table - only partical match
 ##############################################################################
 physical <- read.spss(paste0(infld,"derived/physical_10plus11.sav"),to.data.frame=TRUE)
 physical <- physical[,c("aacode","dwtypenx","dwage9x","floorx","floor5x","storeyx","typerstr",
-                        "typewstr2","constx","typewin","dblglaz4","arnatx","attic",
+                        "typewstr2","typewin","dblglaz4","arnatx","attic",
                         "basement","heat7x","sysage","mainfuel","watersys","boiler",
-                        "wallinsx","sap12")]
-physical$aacode <- as.character(physical$aacode)
-physical$aacode <- substr(physical$aacode, 1, 8)
+                        "wallinsx","wallcavx","sap12")]
 #############################################################################
-#General Table
+#General Table - match when fixing names
 ###########################################################################
 general <- read.spss(paste0(infld,"derived/general_10plus11.sav"),to.data.frame=TRUE)
-general <- general[,c("aacode","aagpd1011","tenure4x","gorEHCS","Imd1010")]
-names(general) <- c("aacode","aagpd1213","tenure4x","GorEHCS","imd")
-general$aacode <- as.character(general$aacode)
+general <- general[,c("aacode","aagpd1011","tenure4x","vacantx","gorEHCS","rumorph","Imd1010")]
+names(general) <- c("aacode","aagpd1011","tenure4x","vacantx","GorEHCS","rumorph","imd")
+
 ##########################################################################
-#elevate Table
+#elevate Table - match
 ####################################################################
 elevate <- read.spss(paste0(infld,"physical/elevate.sav"),to.data.frame=TRUE)
-elevate <- elevate[,c( "aacode","Felsolff","Felpvff",
-                                "Felsollf","Felpvlf",
-                                "Felsolrf","Felpvrf",
-                                "Felsolbf","Felpvbf",
+elevate <- elevate[,c( "aacode","Felsolff","Felpvff","Felcavff","Felextff",
+                                "Felsollf","Felpvlf","Felcavlf","Felextlf",
+                                "Felsolrf","Felpvrf","Felcavrf","Felextrf",
+                                "Felsolbf","Felpvbf","Felcavbf","Felextbf", 
                                 "felroofp","Fvwpvbf","Fvwpvlf","Fvwpvrf","Fvwpvff")]
-elevate$aacode <- as.character(elevate$aacode)
 ############################################################################
-#Services Table
+#Services Table - match
 ############################################################################
 services <- read.spss(paste0(infld,"physical/services.sav"),to.data.frame=TRUE)
 services <- services[,c("aacode","Finchtyp","Finmhfue","Finmhboi","Finchbag",
                         "Finchoff","Finchthe","Finchtim","Finchove","Finchrom","Finchcon","Finchtrv","Finchtzc","Finchdst",
-                        "Finoheat","Finohtyp",
-                        "Finwhoac","Finwhxpr","Finwhxty","Finwhxag",
+                        "Finoheat","Finohphs","Finohtyp",
+                        "Finwheat", "Finwhoty","Finwhoac","Finwhoag","Finwhxpr","Finwhxty","Finwhxag",
                         "Finwsipr","Finwsiag","Finwdipr","Finwdiag",
                         "Finwsppr","Finwspty","Finwspag",
                         "Finwmppr","Finwmpty","Finwmpag",
-                        "Finwhlpr","Finwhlag",
-                        "Finwhcyl","Finwhins","Finwhmms",
+                        "Finwhlpr","Finwhlty","Finwhlag",
+                        "Finwhcyl","Finwhsiz","Finwhins","Finwhmms",
                         "Finwhcen","Finwhthe","Finlopos","Flitypes","Fliinsul","Finintyp","Flithick")]
-services$aacode <- as.character(services$aacode)
-services$aacode <- substr(services$aacode, 1, 8)
 #########################################################################
 #Combine
 ########################################################################
 combined <- left_join(physical,general, by = "aacode")
 combined <- left_join(combined,services, by = "aacode")
 combined <- left_join(combined,elevate, by = "aacode")
-#remove(physical,general,services,elevate)
+remove(physical,general,services,elevate)
 
 #######################################################################
 #roof table
@@ -65,8 +60,7 @@ roof <- combined[,c("aacode","typerstr","Flitypes","Fliinsul","Finintyp","Flithi
                     "Felsollf","Felpvlf",
                     "Felsolrf","Felpvrf",
                     "Felsolbf","Felpvbf",
-                    "felroofp","Fvwpvbf","Fvwpvlf","Fvwpvrf","Fvwpvff",
-                    "floorx","storeyx","dwtypenx")]
+                    "felroofp","Fvwpvbf","Fvwpvlf","Fvwpvrf","Fvwpvff")]
 
 #Remove NAs
 rem_na <- function(col){
@@ -91,14 +85,13 @@ roof$Fvwpvbf <- rem_na(roof$Fvwpvbf)
 roof$Fvwpvlf <- rem_na(roof$Fvwpvlf)
 roof$Fvwpvrf <- rem_na(roof$Fvwpvrf)
 
-
 #Summarise PV
 roof$PV <- NA
 for(i in 1:nrow(roof)){
   if((roof$Felpvff[i] == "Yes") || (roof$Felpvbf[i] == "Yes") || (roof$Felpvlf[i] == "Yes") || (roof$Felpvrf[i] == "Yes")){
-    roof$PV[i] <- "Yes"
+    roof$PV[i] <- TRUE
   }else{
-    roof$PV[i] <- "No"
+    roof$PV[i] <- FALSE
     }
 }
 
@@ -106,9 +99,9 @@ for(i in 1:nrow(roof)){
 roof$Solar <- NA
 for(j in 1:nrow(roof)){
   if((roof$Felsolff[j] == "Yes") || (roof$Felsolbf[j] == "Yes") || (roof$Felsollf[j] == "Yes") || (roof$Felsolrf[j] == "Yes")){
-    roof$Solar[j] <- "Yes"
+    roof$Solar[j] <- TRUE
   }else{
-    roof$Solar[j] <- "No"
+    roof$Solar[j] <- FALSE
   }
 }
 
@@ -116,86 +109,18 @@ for(j in 1:nrow(roof)){
 roof$SolarSuit <- NA
 for(k in 1:nrow(roof)){
   if((roof$Fvwpvff[k] == "Yes") || (roof$Fvwpvbf[k] == "Yes") || (roof$Fvwpvlf[k] == "Yes") || (roof$Fvwpvrf[k] == "Yes")){
-    roof$SolarSuit [k] <- "Yes"
+    roof$SolarSuit [k] <- TRUE
   }else{
-    roof$SolarSuit [k] <- "No"
+    roof$SolarSuit [k] <- FALSE
   }
 }
 
-#Summaries Loft Insulation
-#Standerside Thickenss and Materials 
-roof$LoftIns <-NA
-roof$Flithick <- as.character(roof$Flithick)
-roof$Flithick <- rem_na(roof$Flithick)
-
-for(b in 1:nrow(roof)){
-  if(roof$Flithick[b] == "300mm" | roof$Flithick[b] == ">300mm" | roof$Flithick[b] == "250mm"){
-    roof$LoftIns[b] <-"Well Insulated"
-  } else if (roof$Flithick[b] == "25mm" | roof$Flithick[b] == "50mm" | roof$Flithick[b] == "75mm" | roof$Flithick[b] == "100mm" | roof$Flithick[b] == "125mm" | roof$Flithick[b] == "150mm" | roof$Flithick[b] == "200mm"){
-    roof$LoftIns[b] <-"Poorly Insulated"
-  } else {
-    roof$LoftIns[b] <-"No Insulation"
-  }
-}
-
-
-
-#Plot
-counts <- table(roof$LoftIns)
-barplot(counts, main="Loft Insualtion", ylab="Number of Dwellings")
-
-#Calcualte Roof Area
-roof$roofarea <- NA
-for(e in 1:nrow(roof)){
-  if(roof$dwtypenx[e] == "end terrace" | roof$dwtypenx[e] == "mid terrace"|roof$dwtypenx[e] == "semi detached"|roof$dwtypenx[e] == "detached"|roof$dwtypenx[e] == "bungalow"){
-    roof$roofarea[e] <- roof$floorx[e] / roof$storeyx[e]
-  } else {
-    roof$roofarea[e] <- roof$floorx[e]
-  }
-}
-
-hist(roof$roofarea, c(0,30,50,80,100,115,450))
-solfacts <- read.csv("data/solarrooffactors.csv", row.names = c("end terrace","mid terrace","semi detached","detached","bungalow","converted flat","purpose built flat, low rise","purpose built flat, high rise"), col.names = c("mixed types","pitched",	"mansard",	"flat",	"chalet"), header = F)
-
-#Calcualte Useable Area for solar
-roof$solfactor <- NA
-for(f in 1:nrow(roof)){
-  roof$solfactor[f] <- solfacts[roof$dwtypenx[f],roof$typerstr[f]]
-}
-roof$solarea <- NA
-for(e in 1:nrow(roof)){
-  x <- roof$roofarea[e] * roof$solfactor[e]
-  if(x < 10){
-    roof$solarea[e] <- "<10 sqm"
-  }else if(x >= 10 & x < 15){
-    roof$solarea[e] <- "10 to 15 sqm"
-  }else if(x >= 15 & x < 20){
-    roof$solarea[e] <- "15 to 20 sqm"
-  }else if(x >= 20 & x < 25){
-    roof$solarea[e] <- "20 to 25 sqm"
-  }else if(x >= 25 & x < 30){
-    roof$solarea[e] <- "25 to 30 sqm"
-  }else if(x >= 30 & x <= 35){
-    roof$solarea[e] <- "30 to 35 sqm"
-  }else{
-    roof$solarea[e] <- ">35 sqm"
-  }
-}
-roof$solarea <- as.factor(roof$solarea)
-#Plot
-counts <- table(roof$solarea)
-barplot(counts, main="Roof area for solar pannels", ylab="Number of Dwellings")
-
-
-
-roof <- roof[,c("aacode","typerstr","attic","PV","Solar","SolarSuit","LoftIns","solarea")]
+roof <- roof[,c("aacode","typerstr","Flitypes","Fliinsul","Finintyp","Flithick","felroofp","attic","PV","Solar","SolarSuit")]
 
 ##########################################################################
 #Walls Table
 ###########################################################################
-walls <- combined[,c("aacode","typewstr2","wallinsx")]
-
-
+walls <- combined[,c("aacode","typewstr2","wallinsx","wallcavx")]
 
 #Plot
 counts <- table(walls$wallinsx)
@@ -205,26 +130,8 @@ barplot(counts, main="External Wall Insualtion", ylab="Number of Dwellings")
 #Shape Table
 ###########################################################################################
 shape <- combined[,c("aacode","dwtypenx","dwage9x","floorx","floor5x","storeyx","basement","Finlopos")]
-#shape$type <- as.factor(paste0(shape$Finlopos," ",shape$dwtypenx))
-#summary(shape$type)
-shape$type <- NA
-for (c in 1:nrow(shape)){
-  if(shape$Finlopos[c] == "Basement Flat"){
-    shape$type[c] <- paste0("Basement ",shape$dwtypenx[c])
-  }else if(shape$Finlopos[c] == "Mid Floor Flat"){
-    shape$type[c] <- paste0("Mid Floor ",shape$dwtypenx[c])
-  }else if(shape$Finlopos[c] == "Top Floor Flat"){
-    shape$type[c] <- paste0("Top Floor ",shape$dwtypenx[c])
-  }else if(shape$Finlopos[c] == "Ground floor flat"){
-    shape$type[c] <- paste0("Ground floor ",shape$dwtypenx[c])
-  }else if(shape$Finlopos[c] == "House/Bungalow" & shape$dwtypenx[c] == "bungalow"){
-    shape$type[c] <- paste0(shape$dwtypenx[c])
-  }else if(shape$Finlopos[c] == "House/Bungalow" & shape$dwtypenx[c] != "bungalow"){
-    shape$type[c] <- paste0(shape$dwtypenx[c])
-  }
-}
-shape$type <- as.factor(shape$type)
-
+shape$type <- as.factor(paste0(shape$Finlopos," ",shape$dwtypenx))
+summary(shape$type)
 
 #Plot
 counts <- table(shape$type)
@@ -251,20 +158,20 @@ for(r in 1:nrow(shape)){
   }else if (shape$dwage9x[r] == "1981 to 1990"){
     shape$age[r] <- sample(1981:1990, 1)
   }else if (shape$dwage9x[r] == "post 1990"){
-    shape$age[r] <- sample(1990:2011, 1)
+    shape$age[r] <- sample(1990:2013, 1)
   }else {
     shape$age[r] <- 0
   }
 }
 
 #Remove Unneeded Columns
-rems <- !names(shape) %in% c("Finlopos","floorx","storeyx")
+rems <- !names(shape) %in% c("Finlopos","dwtypenx","floorx","dwage9x")
 shape <- shape[,rems]
 
 ############################################################################
 #Context Table
 ###########################################################################
-context <- combined[c("aacode","aagpd1213","tenure4x","GorEHCS","imd","arnatx")]
+context <- combined[c("aacode","tenure4x","vacantx","GorEHCS","rumorph","imd","arnatx")]
 
 
 
@@ -273,10 +180,13 @@ context <- combined[c("aacode","aagpd1213","tenure4x","GorEHCS","imd","arnatx")]
 ##########################################################################
 energy <- combined[c("aacode","Finchtyp","mainfuel","Finmhboi","Finchbag","sysage","watersys",
                      "Finchoff","Finchthe","Finchtim","Finchove","Finchrom","Finchcon","Finchtrv","Finchtzc","Finchdst",
+                     "Finohphs",
+                     "Finwheat", "Finwhoty","Finwhoag",
                      "Finwsipr","Finwsiag","Finwdipr","Finwdiag",
                      "Finwsppr",
                      "Finwmppr",
-                     "Finwhcyl","Finwhins","Finwhmms"
+                     "Finwhlty",
+                     "Finwhcyl","Finwhsiz","Finwhins","Finwhmms"
                      )]
 
 #Remove Nulls from Controls
@@ -375,29 +285,6 @@ energy <- energy[,rems]
 counts <- table(energy$tank)
 barplot(counts, main="Water Tank Type", ylab="Number of Dwellings")
 
-#Simplify Tank insualtion
-energy$tankins <- NA
-energy$Finwhmms <- as.character(energy$Finwhmms)
-energy$Finwhmms <- rem_na(energy$Finwhmms)
-for(c in 1:nrow(energy)){
-  if(energy$Finwhmms[c] == "150 mm" | energy$Finwhmms[c] == "100 mm" | energy$Finwhmms[c] == "80 mm"){
-    energy$tankins[c] <-"Well Insulated"
-  } else if (energy$Finwhmms[c] == "12.5mm" | energy$Finwhmms[c] == "25 mm" | energy$Finwhmms[c] == "38 mm" | energy$Finwhmms[c] == "50 mm"){
-    energy$tankins[c] <-"Poorly Insulated"
-  } else {
-    energy$tankins[c] <-"No Insulation"
-  }
-}
-
-#Plot
-counts <- table(energy$tankins)
-barplot(counts, main="Water Tank Type", ylab="Number of Dwellings")
-
-#Remove Unneeded Columns
-rems <- !names(energy) %in% c("Finwhmms","Finwhins")
-energy <- energy[,rems]
-
-
 #Simplify Instaneous Heater
 energy$Finwmppr <- rem_na(energy$Finwmppr) #Mulitpoint
 energy$Finwsppr <- rem_na(energy$Finwsppr) #Single Point
@@ -437,22 +324,6 @@ for(q in 1:nrow(energy)){
   
 }
 
-#Clean Fuels
-energy$mainfuel <- as.character(energy$mainfuel)
-for(g in 1:nrow(energy)){
-  if(energy$mainfuel[g] == "bulk LPG" | energy$mainfuel[g] == "bottled gas - propane"){
-    energy$mainfuel[g] <- "gas (other)"
-  }else if(energy$mainfuel[g] == "house coal" | energy$mainfuel[g] == "smokeless fuel" | energy$mainfuel[g] == "anthracite nuts" | energy$mainfuel[g] == "anthracite grains"){
-    energy$mainfuel[g] <- "coal"
-  }else if(energy$mainfuel[g] =="electricity (7 hr. on peak)" | energy$mainfuel[g] == "electricity (7 hr. off peak)" | energy$mainfuel[g] ==  "electricity (standard tariff)" | energy$mainfuel[g] ==  "electricity (10 hr. on peak)" | energy$mainfuel[g] == "electricity (10 hr. off peak)" | energy$mainfuel[g] == "electricity (24 hr heating tariff)"){
-    energy$mainfuel[g] <- "electricity"
-  }
-}
-energy$mainfuel <- as.factor(energy$mainfuel)
-
-#Plot
-counts <- table(energy$mainfuel)
-barplot(counts, main="Heater Fuel", ylab="Number of Dwellings")
 
 #Mulit-row per dwelling tables
 ######################################################################
@@ -541,6 +412,9 @@ windows <- windows[,c("aacode","dblglaze","dblglazeage","sngglaze","sngglazeage"
 #####################################################################
 #Join back into a master table
 ###################################################################
+
+remove(combined)
+
 combined_2011 <- left_join(context,shape, by = "aacode")
 combined_2011 <- left_join(combined_2011,walls, by = "aacode")
 combined_2011 <- left_join(combined_2011,roof, by = "aacode")
@@ -548,29 +422,5 @@ combined_2011 <- left_join(combined_2011,windows, by = "aacode")
 combined_2011 <- left_join(combined_2011,doors, by = "aacode")
 combined_2011 <- left_join(combined_2011,energy, by = "aacode")
 
-combined_2011$LoftIns <- as.factor(combined_2011$LoftIns)
-
-remove(context,doors,elevate,general,physical,roof,services,shape, walls, windows)
-
-#Gas Available
-
-combined_2011$gasgrid <- NA
-
-for (f in 1:nrow(combined_2011)){
-  if(combined_2011$mainfuel[f] == "gas (mains)"){
-    combined_2011$gasgrid[f] <- "yes"
-  }else if(combined_2011$arnatx[f] == "city centre" | combined_2011$arnatx[f] == "other urban centre"| combined_2011$arnatx[f] == "suburban residential"){
-    combined_2011$gasgrid[f] <- "yes"
-  }else{
-    combined_2011$gasgrid[f] <- "no"
-  }
-}
-
-
-#Save Out
-
-saveRDS(combined_2011,"data/combined_2011_base.Rds")
-
-
-
+remove(around,context,doors,elevate,general,physical,roof,services,shape,test,uni,test2, walls, windows)
 

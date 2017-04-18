@@ -1,0 +1,25 @@
+{
+    "contents" : "",
+    "created" : 1492529409314.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "4AD07453",
+    "lastKnownWriteTime" : 7011605692497750387,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "3olq74w72c",
+        "caption" : "energy_13",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=energy_13&cache_key=3olq74w72c",
+        "displayedObservations" : 160,
+        "environment" : "",
+        "object" : "energy_13",
+        "totalObservations" : 160,
+        "variables" : 10
+    },
+    "relative_order" : 7,
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}

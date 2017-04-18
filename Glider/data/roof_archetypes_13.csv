@@ -1,29 +1,29 @@
-typerstr,attic,LoftIns,count,countsamp,conf,RoofType
-chalet,no,No Insulation,10185,7,1455,A1
-flat,no,No Insulation,1189926,767,1551.402868,C1
-mansard,no,No Insulation,90591,55,1647.109091,A1
-mixed types,no,No Insulation,50581,27,1873.37037,A1
-pitched,no,No Insulation,3251352,2087,1557.907044,A1
-chalet,no,Poorly Insulated,31982,12,2665.166667,A2
-flat,no,Poorly Insulated,25272,10,2527.2,C2
-mansard,no,Poorly Insulated,32353,29,1115.62069,A2
-mixed types,no,Poorly Insulated,49943,24,2080.958333,A2
-pitched,no,Poorly Insulated,11296991,5847,1932.100393,A2
-chalet,no,Well Insulated,10143,4,2535.75,A3
-flat,no,Well Insulated,6115,4,1528.75,C3
-mansard,no,Well Insulated,21473,16,1342.0625,A3
-mixed types,no,Well Insulated,14832,6,2472,A3
-pitched,no,Well Insulated,4797974,2722,1762.664952,A3
-chalet,yes,No Insulation,28578,12,2381.5,B1
-flat,yes,No Insulation,9240,5,1848,C1
-mixed types,yes,No Insulation,25266,8,3158.25,B1
-pitched,yes,No Insulation,588965,235,2506.234043,B1
-chalet,yes,Poorly Insulated,210698,62,3398.354839,B2
-flat,yes,Poorly Insulated,12461,5,2492.2,C2
-mansard,yes,Poorly Insulated,4275,2,2137.5,B2
-mixed types,yes,Poorly Insulated,52778,19,2777.789474,B2
-pitched,yes,Poorly Insulated,1077538,396,2721.055556,B2
-chalet,yes,Well Insulated,45683,15,3045.533333,B3
-flat,yes,Well Insulated,1413,1,1413,C3
-mixed types,yes,Well Insulated,8568,3,2856,B3
-pitched,yes,Well Insulated,308605,118,2615.29661,B3
+typerstr,attic,LoftIns,count,countsamp,conf,RoofType_Lvl,RoofType
+chalet,no,No Insulation,10185,7,1455,A1,A
+flat,no,No Insulation,1189926,767,1551.402868,C1,C
+mansard,no,No Insulation,90591,55,1647.109091,A1,A
+mixed types,no,No Insulation,50581,27,1873.37037,A1,A
+pitched,no,No Insulation,3251352,2087,1557.907044,A1,A
+chalet,no,Poorly Insulated,31982,12,2665.166667,A2,A
+flat,no,Poorly Insulated,25272,10,2527.2,C2,C
+mansard,no,Poorly Insulated,32353,29,1115.62069,A2,A
+mixed types,no,Poorly Insulated,49943,24,2080.958333,A2,A
+pitched,no,Poorly Insulated,11296991,5847,1932.100393,A2,A
+chalet,no,Well Insulated,10143,4,2535.75,A3,A
+flat,no,Well Insulated,6115,4,1528.75,C3,C
+mansard,no,Well Insulated,21473,16,1342.0625,A3,A
+mixed types,no,Well Insulated,14832,6,2472,A3,A
+pitched,no,Well Insulated,4797974,2722,1762.664952,A3,A
+chalet,yes,No Insulation,28578,12,2381.5,B1,B
+flat,yes,No Insulation,9240,5,1848,C1,C
+mixed types,yes,No Insulation,25266,8,3158.25,B1,B
+pitched,yes,No Insulation,588965,235,2506.234043,B1,B
+chalet,yes,Poorly Insulated,210698,62,3398.354839,B2,B
+flat,yes,Poorly Insulated,12461,5,2492.2,C2,C
+mansard,yes,Poorly Insulated,4275,2,2137.5,B2,B
+mixed types,yes,Poorly Insulated,52778,19,2777.789474,B2,B
+pitched,yes,Poorly Insulated,1077538,396,2721.055556,B2,B
+chalet,yes,Well Insulated,45683,15,3045.533333,B3,B
+flat,yes,Well Insulated,1413,1,1413,C3,C
+mixed types,yes,Well Insulated,8568,3,2856,B3,B
+pitched,yes,Well Insulated,308605,118,2615.29661,B3,B

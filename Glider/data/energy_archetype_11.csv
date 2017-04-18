@@ -1,0 +1,200 @@
+"","Finchtyp","mainfuel","watersys","tank","Finmhboi","count","countsamp","conf"
+"3085","Central heating (wet with rads)","coal","Electric immersion heater","Tank with Immersion Heater","Back boiler",3152,3,1050.66666666667
+"7571","Central heating (wet with rads)","coal","Electric immersion heater","Tank with Immersion Heater","No boiler",8064,3,2688
+"5172","Central heating (wet with rads)","coal","With central heating","Tank with Immersion Heater","Standard",14062,9,1562.44444444444
+"2","Central heating (wet with rads)","coal","With central heating","Tank with Immersion Heater","Back boiler",56534,41,1378.87804878049
+"8496","Central heating (wet with rads)","coal","With central heating","Tank without Immersion Heater","Standard",5044,2,2522
+"4715","Central heating (wet with rads)","coal","With central heating","Tank without Immersion Heater","Back boiler",10578,8,1322.25
+"8965","Central heating (wet with rads)","community heating from boilers","Electric immersion heater","Tank with Immersion Heater","Unknown",1203,1,1203
+"10310","Central heating (wet with rads)","electricity","Electric immersion heater","Tank with Immersion Heater","Standard",4172,4,1043
+"11784","Central heating (wet with rads)","electricity","Electric immersion heater","Tank with Immersion Heater","Combined primary storage unit",643,1,643
+"340","Central heating (wet with rads)","electricity","Electric immersion heater","Tank with Immersion Heater","No boiler",17027,13,1309.76923076923
+"10956","Central heating (wet with rads)","electricity","Electric immersion heater","Tank without Immersion Heater","No boiler",3243,2,1621.5
+"3210","Central heating (wet with rads)","electricity","Instantaneous","No Tank","No boiler",2141,1,2141
+"1776","Central heating (wet with rads)","electricity","With central heating","No Tank","Combination",765,1,765
+"9388","Central heating (wet with rads)","electricity","With central heating","No Tank","Combined primary storage unit",6978,3,2326
+"1005","Central heating (wet with rads)","electricity","With central heating","No Tank","No boiler",1816,1,1816
+"470","Central heating (wet with rads)","electricity","With central heating","Tank with Immersion Heater","Standard",9622,10,962.2
+"412","Central heating (wet with rads)","electricity","With central heating","Tank with Immersion Heater","Combined primary storage unit",4694,2,2347
+"4146","Central heating (wet with rads)","electricity","With central heating","Tank with Immersion Heater","No boiler",5853,2,2926.5
+"42","Central heating (wet with rads)","electricity","With central heating","Tank without Immersion Heater","Standard",8512,7,1216
+"2503","Central heating (wet with rads)","electricity","With central heating","Tank without Immersion Heater","Combined primary storage unit",3933,3,1311
+"4647","Central heating (wet with rads)","electricity","With central heating","Tank without Immersion Heater","No boiler",3852,3,1284
+"1837","Central heating (wet with rads)","gas (mains)","Dedicated boiler","No Tank","Standard",21609,12,1800.75
+"268","Central heating (wet with rads)","gas (mains)","Dedicated boiler","No Tank","Back boiler",1735,1,1735
+"1075","Central heating (wet with rads)","gas (mains)","Dedicated boiler","No Tank","Condensing",1582,2,791
+"7022","Central heating (wet with rads)","gas (mains)","Dedicated boiler","Tank with Immersion Heater","Standard",7196,3,2398.66666666667
+"1398","Central heating (wet with rads)","gas (mains)","Dedicated boiler","Tank with Immersion Heater","Back boiler",7777,6,1296.16666666667
+"5598","Central heating (wet with rads)","gas (mains)","Dedicated boiler","Tank with Immersion Heater","Condensing",1413,1,1413
+"1382","Central heating (wet with rads)","gas (mains)","Dedicated boiler","Tank without Immersion Heater","Standard",6863,5,1372.6
+"359","Central heating (wet with rads)","gas (mains)","Electric immersion heater","Tank with Immersion Heater","Standard",90292,59,1530.37288135593
+"1559","Central heating (wet with rads)","gas (mains)","Electric immersion heater","Tank with Immersion Heater","Back boiler",25016,15,1667.73333333333
+"2189","Central heating (wet with rads)","gas (mains)","Electric immersion heater","Tank with Immersion Heater","Combination",5365,4,1341.25
+"841","Central heating (wet with rads)","gas (mains)","Electric immersion heater","Tank with Immersion Heater","Condensing",25658,16,1603.625
+"631","Central heating (wet with rads)","gas (mains)","Electric immersion heater","Tank with Immersion Heater","Condensing combi",14231,7,2033
+"2387","Central heating (wet with rads)","gas (mains)","Instantaneous","No Tank","Standard",28352,14,2025.14285714286
+"9520","Central heating (wet with rads)","gas (mains)","Instantaneous","No Tank","Back boiler",3679,2,1839.5
+"4772","Central heating (wet with rads)","gas (mains)","Instantaneous","No Tank","Combination",12111,9,1345.66666666667
+"7128","Central heating (wet with rads)","gas (mains)","Instantaneous","No Tank","Condensing",3741,2,1870.5
+"981","Central heating (wet with rads)","gas (mains)","Instantaneous","No Tank","Condensing combi",24833,14,1773.78571428571
+"3483","Central heating (wet with rads)","gas (mains)","Instantaneous","No Tank","No boiler",1784,1,1784
+"2647","Central heating (wet with rads)","gas (mains)","Instantaneous","Tank without Immersion Heater","Standard",2625,2,1312.5
+"14194","Central heating (wet with rads)","gas (mains)","Instantaneous","Tank without Immersion Heater","Back boiler",472,1,472
+"6188","Central heating (wet with rads)","gas (mains)","Instantaneous","Tank without Immersion Heater","Condensing",6594,2,3297
+"1471","Central heating (wet with rads)","gas (mains)","With central heating","No Tank","Standard",22630,13,1740.76923076923
+"9501","Central heating (wet with rads)","gas (mains)","With central heating","No Tank","Back boiler",6976,3,2325.33333333333
+"13","Central heating (wet with rads)","gas (mains)","With central heating","No Tank","Combination",4072028,2619,1554.80259641084
+"669","Central heating (wet with rads)","gas (mains)","With central heating","No Tank","Condensing",11304,9,1256
+"1","Central heating (wet with rads)","gas (mains)","With central heating","No Tank","Condensing combi",6089284,4190,1453.28973747017
+"2663","Central heating (wet with rads)","gas (mains)","With central heating","No Tank","Combined primary storage unit",16268,10,1626.8
+"648","Central heating (wet with rads)","gas (mains)","With central heating","No Tank","No boiler",8058,4,2014.5
+"8","Central heating (wet with rads)","gas (mains)","With central heating","Tank with Immersion Heater","Standard",3754508,2318,1619.7187230371
+"9","Central heating (wet with rads)","gas (mains)","With central heating","Tank with Immersion Heater","Back boiler",672241,460,1461.39347826087
+"162","Central heating (wet with rads)","gas (mains)","With central heating","Tank with Immersion Heater","Combination",125934,79,1594.10126582278
+"68","Central heating (wet with rads)","gas (mains)","With central heating","Tank with Immersion Heater","Condensing",1458784,889,1640.92688413948
+"238","Central heating (wet with rads)","gas (mains)","With central heating","Tank with Immersion Heater","Condensing combi",127052,74,1716.91891891892
+"5295","Central heating (wet with rads)","gas (mains)","With central heating","Tank with Immersion Heater","Combined primary storage unit",2562,1,2562
+"766","Central heating (wet with rads)","gas (mains)","With central heating","Tank with Immersion Heater","No boiler",1728,2,864
+"110","Central heating (wet with rads)","gas (mains)","With central heating","Tank without Immersion Heater","Standard",1137488,714,1593.12044817927
+"135","Central heating (wet with rads)","gas (mains)","With central heating","Tank without Immersion Heater","Back boiler",321036,241,1332.09958506224
+"588","Central heating (wet with rads)","gas (mains)","With central heating","Tank without Immersion Heater","Combination",58630,33,1776.66666666667
+"222","Central heating (wet with rads)","gas (mains)","With central heating","Tank without Immersion Heater","Condensing",432074,268,1612.21641791045
+"374","Central heating (wet with rads)","gas (mains)","With central heating","Tank without Immersion Heater","Condensing combi",46431,33,1407
+"177","Central heating (wet with rads)","gas (mains)","With central heating","Tank without Immersion Heater","Combined primary storage unit",5524,5,1104.8
+"2289","Central heating (wet with rads)","gas (mains)","With central heating","Tank without Immersion Heater","No boiler",2280,2,1140
+"2893","Central heating (wet with rads)","gas (other)","Electric immersion heater","Tank with Immersion Heater","Condensing combi",1648,1,1648
+"14202","Central heating (wet with rads)","gas (other)","With central heating","No Tank","Back boiler",4433,1,4433
+"716","Central heating (wet with rads)","gas (other)","With central heating","No Tank","Combination",42248,24,1760.33333333333
+"12","Central heating (wet with rads)","gas (other)","With central heating","No Tank","Condensing combi",48834,30,1627.8
+"59","Central heating (wet with rads)","gas (other)","With central heating","Tank with Immersion Heater","Standard",30690,17,1805.29411764706
+"3425","Central heating (wet with rads)","gas (other)","With central heating","Tank with Immersion Heater","Back boiler",11347,8,1418.375
+"12388","Central heating (wet with rads)","gas (other)","With central heating","Tank with Immersion Heater","Combination",4397,2,2198.5
+"304","Central heating (wet with rads)","gas (other)","With central heating","Tank with Immersion Heater","Condensing",8582,6,1430.33333333333
+"1390","Central heating (wet with rads)","gas (other)","With central heating","Tank without Immersion Heater","Standard",5642,3,1880.66666666667
+"760","Central heating (wet with rads)","gas (other)","With central heating","Tank without Immersion Heater","Condensing",2695,2,1347.5
+"5434","Central heating (wet with rads)","gas (other)","With central heating","Tank without Immersion Heater","Condensing combi",1746,1,1746
+"302","Central heating (wet with rads)","heating oil ","Dedicated boiler","Tank with Immersion Heater","Standard",4332,3,1444
+"2973","Central heating (wet with rads)","heating oil ","Electric immersion heater","Tank with Immersion Heater","Standard",17349,10,1734.9
+"3794","Central heating (wet with rads)","heating oil ","Electric immersion heater","Tank with Immersion Heater","Condensing",3143,2,1571.5
+"8767","Central heating (wet with rads)","heating oil ","Electric immersion heater","Tank with Immersion Heater","No boiler",2723,1,2723
+"4376","Central heating (wet with rads)","heating oil ","Instantaneous","Tank without Immersion Heater","Standard",1468,1,1468
+"1302","Central heating (wet with rads)","heating oil ","With central heating","No Tank","Standard",4587,2,2293.5
+"34","Central heating (wet with rads)","heating oil ","With central heating","No Tank","Combination",117544,73,1610.19178082192
+"1086","Central heating (wet with rads)","heating oil ","With central heating","No Tank","Condensing",1476,1,1476
+"52","Central heating (wet with rads)","heating oil ","With central heating","No Tank","Condensing combi",38859,25,1554.36
+"4491","Central heating (wet with rads)","heating oil ","With central heating","No Tank","No boiler",943,1,943
+"3","Central heating (wet with rads)","heating oil ","With central heating","Tank with Immersion Heater","Standard",515283,291,1770.73195876289
+"242","Central heating (wet with rads)","heating oil ","With central heating","Tank with Immersion Heater","Back boiler",9579,7,1368.42857142857
+"1182","Central heating (wet with rads)","heating oil ","With central heating","Tank with Immersion Heater","Combination",1589,1,1589
+"70","Central heating (wet with rads)","heating oil ","With central heating","Tank with Immersion Heater","Condensing",66262,43,1540.97674418605
+"1064","Central heating (wet with rads)","heating oil ","With central heating","Tank with Immersion Heater","Condensing combi",1197,1,1197
+"12435","Central heating (wet with rads)","heating oil ","With central heating","Tank with Immersion Heater","No boiler",4711,2,2355.5
+"17","Central heating (wet with rads)","heating oil ","With central heating","Tank without Immersion Heater","Standard",80813,48,1683.60416666667
+"7576","Central heating (wet with rads)","heating oil ","With central heating","Tank without Immersion Heater","Combination",6015,2,3007.5
+"7215","Central heating (wet with rads)","heating oil ","With central heating","Tank without Immersion Heater","Condensing",7034,4,1758.5
+"13828","Central heating (wet with rads)","wood","Electric immersion heater","Tank with Immersion Heater","Back boiler",1920,1,1920
+"8612","Central heating (wet with rads)","wood","Electric immersion heater","Tank with Immersion Heater","No boiler",2477,1,2477
+"13898","Central heating (wet with rads)","wood","Instantaneous","No Tank","Back boiler",2571,1,2571
+"3575","Central heating (wet with rads)","wood","With central heating","No Tank","Back boiler",1682,1,1682
+"758","Central heating (wet with rads)","wood","With central heating","Tank with Immersion Heater","Standard",14894,8,1861.75
+"306","Central heating (wet with rads)","wood","With central heating","Tank with Immersion Heater","Back boiler",25589,13,1968.38461538462
+"9355","Central heating (wet with rads)","wood","With central heating","Tank with Immersion Heater","Condensing",1908,1,1908
+"5166","Central heating (wet with rads)","wood","With central heating","Tank without Immersion Heater","Standard",1063,1,1063
+"14337","Central heating (wet with rads)","wood","With central heating","Tank without Immersion Heater","Back boiler",3413,2,1706.5
+"9581","Communal/CHP","community heating from boilers","Electric immersion heater","Tank with Immersion Heater","Standard",7571,6,1261.83333333333
+"11576","Communal/CHP","community heating from boilers","Electric immersion heater","Tank with Immersion Heater","Condensing",1653,1,1653
+"9008","Communal/CHP","community heating from boilers","Electric immersion heater","Tank with Immersion Heater","Combined primary storage unit",740,1,740
+"9625","Communal/CHP","community heating from boilers","Electric immersion heater","Tank with Immersion Heater","No boiler",22119,27,819.222222222222
+"9557","Communal/CHP","community heating from boilers","Instantaneous","No Tank","Standard",6594,7,942
+"10179","Communal/CHP","community heating from boilers","Instantaneous","No Tank","Condensing combi",1109,1,1109
+"8610","Communal/CHP","community heating from boilers","Instantaneous","No Tank","No boiler",8255,9,917.222222222222
+"9765","Communal/CHP","community heating from boilers","Instantaneous","Tank without Immersion Heater","No boiler",4657,6,776.166666666667
+"9002","Communal/CHP","community heating from boilers","With central heating","No Tank","Standard",25012,22,1136.90909090909
+"10946","Communal/CHP","community heating from boilers","With central heating","No Tank","Combination",4412,4,1103
+"8850","Communal/CHP","community heating from boilers","With central heating","No Tank","Condensing",6941,7,991.571428571429
+"9899","Communal/CHP","community heating from boilers","With central heating","No Tank","Condensing combi",1821,3,607
+"9190","Communal/CHP","community heating from boilers","With central heating","No Tank","No boiler",73608,66,1115.27272727273
+"10994","Communal/CHP","community heating from boilers","With central heating","Tank with Immersion Heater","Standard",545,1,545
+"10799","Communal/CHP","community heating from boilers","With central heating","Tank with Immersion Heater","Combination",2135,2,1067.5
+"9391","Communal/CHP","community heating from boilers","With central heating","Tank with Immersion Heater","No boiler",3250,4,812.5
+"9814","Communal/CHP","community heating from boilers","With central heating","Tank without Immersion Heater","Standard",5819,7,831.285714285714
+"10270","Communal/CHP","community heating from boilers","With central heating","Tank without Immersion Heater","Condensing",3819,4,954.75
+"8527","Communal/CHP","community heating from boilers","With central heating","Tank without Immersion Heater","No boiler",15493,20,774.65
+"1554","Communal/CHP","community heating from CHP/waste heat","Electric immersion heater","Tank with Immersion Heater","Standard",5310,7,758.571428571429
+"3174","Communal/CHP","community heating from CHP/waste heat","Electric immersion heater","Tank with Immersion Heater","Combination",1351,1,1351
+"26","Communal/CHP","community heating from CHP/waste heat","Electric immersion heater","Tank with Immersion Heater","No boiler",33226,29,1145.72413793103
+"118","Communal/CHP","community heating from CHP/waste heat","Instantaneous","No Tank","Standard",9626,9,1069.55555555556
+"2320","Communal/CHP","community heating from CHP/waste heat","Instantaneous","No Tank","Condensing",1016,1,1016
+"227","Communal/CHP","community heating from CHP/waste heat","Instantaneous","No Tank","No boiler",12356,11,1123.27272727273
+"7020","Communal/CHP","community heating from CHP/waste heat","Instantaneous","Tank without Immersion Heater","Standard",771,1,771
+"6903","Communal/CHP","community heating from CHP/waste heat","Instantaneous","Tank without Immersion Heater","No boiler",2641,3,880.333333333333
+"1498","Communal/CHP","community heating from CHP/waste heat","With central heating","No Tank","Standard",18897,20,944.85
+"1964","Communal/CHP","community heating from CHP/waste heat","With central heating","No Tank","Combination",2811,2,1405.5
+"3703","Communal/CHP","community heating from CHP/waste heat","With central heating","No Tank","Condensing",1733,2,866.5
+"3814","Communal/CHP","community heating from CHP/waste heat","With central heating","No Tank","Condensing combi",2366,2,1183
+"228","Communal/CHP","community heating from CHP/waste heat","With central heating","No Tank","No boiler",60201,61,986.901639344262
+"3145","Communal/CHP","community heating from CHP/waste heat","With central heating","Tank with Immersion Heater","Standard",2532,3,844
+"198","Communal/CHP","community heating from CHP/waste heat","With central heating","Tank with Immersion Heater","No boiler",5071,5,1014.2
+"657","Communal/CHP","community heating from CHP/waste heat","With central heating","Tank without Immersion Heater","Standard",13626,14,973.285714285714
+"2250","Communal/CHP","community heating from CHP/waste heat","With central heating","Tank without Immersion Heater","Combination",824,1,824
+"430","Communal/CHP","community heating from CHP/waste heat","With central heating","Tank without Immersion Heater","Condensing",6547,7,935.285714285714
+"732","Communal/CHP","community heating from CHP/waste heat","With central heating","Tank without Immersion Heater","No boiler",24385,28,870.892857142857
+"8753","Electric ceiling/underfloor","electricity","Dedicated boiler","Tank without Immersion Heater","No boiler",3302,1,3302
+"717","Electric ceiling/underfloor","electricity","Electric immersion heater","Tank with Immersion Heater","No boiler",53249,33,1613.60606060606
+"822","Electric ceiling/underfloor","electricity","Electric immersion heater","Tank without Immersion Heater","No boiler",6827,2,3413.5
+"1712","No Answer","electricity","Dedicated boiler","No Tank","No boiler",16490,7,2355.71428571429
+"4678","No Answer","electricity","Dedicated boiler","Tank with Immersion Heater","No boiler",15622,7,2231.71428571429
+"8478","No Answer","electricity","Dedicated boiler","Tank without Immersion Heater","No boiler",1405,1,1405
+"4884","No Answer","electricity","Electric immersion heater","No Tank","No boiler",1797,2,898.5
+"79","No Answer","electricity","Electric immersion heater","Tank with Immersion Heater","No boiler",145472,90,1616.35555555556
+"335","No Answer","electricity","Electric immersion heater","Tank without Immersion Heater","No boiler",4827,2,2413.5
+"1198","No Answer","electricity","Instantaneous","No Tank","No boiler",68549,34,2016.14705882353
+"3917","No Answer","gas (mains)","Dedicated boiler","No Tank","Condensing combi",726,1,726
+"4467","No Answer","gas (mains)","With central heating","No Tank","No boiler",1304,1,1304
+"4031","Room heaters","coal","Dedicated boiler","Tank with Immersion Heater","Back boiler",747,1,747
+"997","Room heaters","coal","Dedicated boiler","Tank with Immersion Heater","No boiler",8712,6,1452
+"4","Room heaters","coal","Electric immersion heater","Tank with Immersion Heater","No boiler",18422,14,1315.85714285714
+"2378","Room heaters","coal","Instantaneous","No Tank","No boiler",2386,2,1193
+"1512","Room heaters","electricity","Dedicated boiler","No Tank","No boiler",18008,12,1500.66666666667
+"159","Room heaters","electricity","Dedicated boiler","Tank with Immersion Heater","No boiler",1082,1,1082
+"1504","Room heaters","electricity","Electric immersion heater","No Tank","No boiler",5369,4,1342.25
+"9227","Room heaters","electricity","Electric immersion heater","Tank with Immersion Heater","Back boiler",1377,1,1377
+"6","Room heaters","electricity","Electric immersion heater","Tank with Immersion Heater","No boiler",244185,147,1661.12244897959
+"202","Room heaters","electricity","Instantaneous","No Tank","No boiler",30438,19,1602
+"9894","Room heaters","gas (mains)","Dedicated boiler","No Tank","Combination",859,1,859
+"2744","Room heaters","gas (mains)","Dedicated boiler","No Tank","No boiler",8626,6,1437.66666666667
+"6578","Room heaters","gas (mains)","Dedicated boiler","Tank with Immersion Heater","Back boiler",1150,1,1150
+"7893","Room heaters","gas (mains)","Dedicated boiler","Tank with Immersion Heater","No boiler",920,1,920
+"93","Room heaters","gas (mains)","Dedicated boiler","Tank without Immersion Heater","No boiler",7379,4,1844.75
+"230","Room heaters","gas (mains)","Electric immersion heater","Tank with Immersion Heater","No boiler",77655,51,1522.64705882353
+"659","Room heaters","gas (mains)","Instantaneous","No Tank","No boiler",47038,23,2045.13043478261
+"8539","Room heaters","gas (other)","Electric immersion heater","Tank with Immersion Heater","No boiler",885,1,885
+"8499","Room heaters","gas (other)","Instantaneous","No Tank","No boiler",2154,1,2154
+"573","Room heaters","wood","Dedicated boiler","Tank with Immersion Heater","No boiler",8569,5,1713.8
+"8990","Room heaters","wood","Electric immersion heater","Tank with Immersion Heater","No boiler",2785,1,2785
+"4320","Room heaters","wood","Instantaneous","No Tank","No boiler",7287,3,2429
+"213","Storage heaters","electricity","Dedicated boiler","No Tank","No boiler",21927,14,1566.21428571429
+"422","Storage heaters","electricity","Dedicated boiler","Tank with Immersion Heater","No boiler",14318,12,1193.16666666667
+"8389","Storage heaters","electricity","Dedicated boiler","Tank without Immersion Heater","No boiler",4454,1,4454
+"1982","Storage heaters","electricity","Electric immersion heater","No Tank","No boiler",10195,5,2039
+"5","Storage heaters","electricity","Electric immersion heater","Tank with Immersion Heater","No boiler",1336637,977,1368.1033776868
+"36","Storage heaters","electricity","Instantaneous","No Tank","No boiler",41915,28,1496.96428571429
+"6435","Storage heaters","electricity","Instantaneous","Tank without Immersion Heater","No boiler",10024,10,1002.4
+"5534","Warm air","electricity","Electric immersion heater","Tank with Immersion Heater","Standard",638,1,638
+"987","Warm air","electricity","Electric immersion heater","Tank with Immersion Heater","No boiler",12621,10,1262.1
+"4349","Warm air","gas (mains)","Dedicated boiler","No Tank","Standard",8605,5,1721
+"6066","Warm air","gas (mains)","Dedicated boiler","Tank with Immersion Heater","Standard",1283,1,1283
+"3120","Warm air","gas (mains)","Dedicated boiler","Tank without Immersion Heater","Standard",2851,2,1425.5
+"1016","Warm air","gas (mains)","Dedicated boiler","Tank without Immersion Heater","No boiler",1511,1,1511
+"408","Warm air","gas (mains)","Electric immersion heater","Tank with Immersion Heater","Standard",21878,15,1458.53333333333
+"2172","Warm air","gas (mains)","Electric immersion heater","Tank with Immersion Heater","No boiler",15081,12,1256.75
+"3673","Warm air","gas (mains)","Instantaneous","No Tank","Standard",5860,6,976.666666666667
+"7699","Warm air","gas (mains)","Instantaneous","No Tank","No boiler",8225,3,2741.66666666667
+"14703","Warm air","gas (mains)","Instantaneous","Tank without Immersion Heater","No boiler",2319,1,2319
+"10815","Warm air","gas (mains)","With central heating","No Tank","Condensing combi",2330,1,2330
+"13380","Warm air","gas (mains)","With central heating","No Tank","No boiler",3308,1,3308
+"283","Warm air","gas (mains)","With central heating","Tank with Immersion Heater","Standard",43619,26,1677.65384615385
+"8293","Warm air","gas (mains)","With central heating","Tank with Immersion Heater","No boiler",2749,2,1374.5
+"2917","Warm air","gas (mains)","With central heating","Tank without Immersion Heater","Standard",21968,17,1292.23529411765
+"3227","Warm air","gas (mains)","With central heating","Tank without Immersion Heater","Combination",1628,1,1628
+"7640","Warm air","heating oil ","With central heating","Tank with Immersion Heater","Standard",1428,1,1428

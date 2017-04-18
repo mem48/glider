@@ -19,7 +19,7 @@ physical$aacode <- as.character(physical$aacode)
 #General Table
 ###########################################################################
 general <- read.spss(paste0(infld,"derived/general_12and13.sav"),to.data.frame=TRUE)
-general <- general[,c("aacode","aagpd1213","tenure4x","GorEHCS","imd1010")]
+general <- general[,c("aacode","aagpd1011","tenure4x","GorEHCS","imd1010")]
 names(general) <- c("aacode","aagpd1213","tenure4x","GorEHCS","imd")
 general$aacode <- as.character(general$aacode)
 ##########################################################################
@@ -218,7 +218,7 @@ for (c in 1:nrow(shape)){
   }else if(shape$Finlopos[c] == "House/Bungalow" & shape$dwtypenx[c] == "bungalow"){
     shape$type[c] <- paste0(shape$dwtypenx[c])
   }else if(shape$Finlopos[c] == "House/Bungalow" & shape$dwtypenx[c] != "bungalow"){
-    shape$type[c] <- paste0(shape$dwtypenx[c]," ",shape$storeyx[c]," floors")
+    shape$type[c] <- paste0(shape$dwtypenx[c])
   }
 }
 shape$type <- as.factor(shape$type)
@@ -256,7 +256,7 @@ for(r in 1:nrow(shape)){
 }
 
 #Remove Unneeded Columns
-rems <- !names(shape) %in% c("Finlopos","dwtypenx","floorx","storeyx")
+rems <- !names(shape) %in% c("Finlopos","floorx","storeyx")
 shape <- shape[,rems]
 
 ############################################################################
@@ -555,12 +555,12 @@ remove(context,doors,elevate,general,physical,roof,services,shape, walls, window
 combined_2013$gasgrid <- NA
 
 for (f in 1:nrow(combined_2013)){
-  if(combined_2013$mainfuel == "gas (mains)"){
-    combined_2013$gasgrid <- "yes"
-  }else if(combined_2013$arnatx == "city centre" | combined_2013$arnatx == "other urban centre"| combined_2013$arnatx == "suburban residential"){
-    combined_2013$gasgrid <- "yes"
+  if(combined_2013$mainfuel[f] == "gas (mains)"){
+    combined_2013$gasgrid[f] <- "yes"
+  }else if(combined_2013$arnatx[f] == "city centre" | combined_2013$arnatx[f] == "other urban centre"| combined_2013$arnatx[f] == "suburban residential"){
+    combined_2013$gasgrid[f] <- "yes"
   }else{
-    combined_2013$gasgrid <- "no"
+    combined_2013$gasgrid[f] <- "no"
   }
 }
 
