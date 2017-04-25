@@ -122,7 +122,24 @@ combined_2013 <- readRDS("data/combined_2013_base.Rds")
 
 #write.csv(uni,"data/wall_archetypes_13.csv")
 
+######################################################################
+#Construct Windows and Doors Architypes
+#####################################################################
 
+#sel <- combined_2013[,c("aacode","aagpd1213","winage", "dblglaz4")]
+#sel <- sel[with(sel, order(winage,dblglaz4)),]
+#uni <- as.data.frame(unique(sel[,c("winage","dblglaz4")]))
+
+#uni$count <- NA
+#uni$countsamp <- NA
+#uni$conf <- NA
+#for (f in 1:nrow(uni)){
+#  uni$count[f] <- sum(sel$aagpd1213[sel$winage == uni$winage[f] &  sel$dblglaz4 == uni$dblglaz4[f] ])
+#  uni$countsamp[f] <- nrow(sel[sel$winage == uni$winage[f] &  sel$dblglaz4 == uni$dblglaz4[f] , ])
+#  uni$conf[f] <- uni$count[f] / uni$countsamp[f]
+#}
+
+#write.csv(uni,"data/window_archetypes_13.csv")
 
 #Asign Energy Architype
 energy_arch <- read.csv("data/energy_archetype_13.csv", stringsAsFactors = FALSE)
@@ -204,9 +221,25 @@ for(i in 1:nrow(combined_2013)){
 combined_2013$walltyp <- as.factor(combined_2013$walltyp)
 summary(combined_2013$walltyp)
 
+#Window Architype
+win_arch <- read.csv("data/window_archetypes_13.csv", stringsAsFactors = FALSE)
+
+combined_2013$wintyp <- NA
+combined_2013$dblglaz4 <- as.character(combined_2013$dblglaz4)
+combined_2013$winage <- as.character(combined_2013$winage)
+
+
+for(i in 1:nrow(combined_2013)){
+  combined_2013$wintyp[i] <- win_arch$WindowType[win_arch$winage == combined_2013$winage[i] & win_arch$dblglaz4 == combined_2013$dblglaz4[i] ]
+}
+
+combined_2013$wintyp <- as.factor(combined_2013$wintyp)
+summary(combined_2013$wintyp)
+
+
 #Combine togther archetypes
 #General-Energy-Wall-Roof-Solar
-combined_2013$archcode <- paste0(combined_2013$generaltyp,"-",combined_2013$rooftyp,"-",combined_2013$walltyp,"-",combined_2013$energytyp,"-",combined_2013$solartyp)
+combined_2013$archcode <- paste0(combined_2013$generaltyp,"-",combined_2013$rooftyp,"-",combined_2013$walltyp,"-",combined_2013$energytyp,"-",combined_2013$wintyp,"-",combined_2013$solartyp)
 #combined_2013$archcode <- paste0(combined_2013$energytyp,"-",combined_2013$walltyp,"-",combined_2013$rooftyp,"-",combined_2013$solartyp)
 sel <- combined_2013[,c("aacode","aagpd1213","archcode")]
 sel <- sel[with(sel, order(archcode)),]

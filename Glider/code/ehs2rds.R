@@ -19,7 +19,7 @@ physical$aacode <- as.character(physical$aacode)
 #General Table
 ###########################################################################
 general <- read.spss(paste0(infld,"derived/general_12and13.sav"),to.data.frame=TRUE)
-general <- general[,c("aacode","aagpd1011","tenure4x","GorEHCS","imd1010")]
+general <- general[,c("aacode","aagpd1213","tenure4x","GorEHCS","imd1010")]
 names(general) <- c("aacode","aagpd1213","tenure4x","GorEHCS","imd")
 general$aacode <- as.character(general$aacode)
 ##########################################################################
@@ -536,6 +536,14 @@ windows$sngglazeage <- pmax(windows$`age.Single-glazed- UPVC`,windows$`age.Singl
 #Remove Unneeded Columns
 windows <- windows[,c("aacode","dblglaze","dblglazeage","sngglaze","sngglazeage")]
 
+
+################################################################
+# Windows part 2
+##################################################################
+
+windows2 <- physical[,c("aacode","dblglaz4")]
+
+
 #####################################################################
 #Join back into a master table
 ###################################################################
@@ -543,6 +551,7 @@ combined_2013 <- left_join(context,shape, by = "aacode")
 combined_2013 <- left_join(combined_2013,walls, by = "aacode")
 combined_2013 <- left_join(combined_2013,roof, by = "aacode")
 combined_2013 <- left_join(combined_2013,windows, by = "aacode")
+combined_2013 <- left_join(combined_2013,windows2, by = "aacode")
 combined_2013 <- left_join(combined_2013,doors, by = "aacode")
 combined_2013 <- left_join(combined_2013,energy, by = "aacode")
 
@@ -564,6 +573,25 @@ for (f in 1:nrow(combined_2013)){
   }
 }
 
+
+#Windows Age
+
+combined_2013$winage <- NA
+
+for(i in 1:nrow(combined_2013)){
+  if(combined_2013$dblglazeage[i] >= 40){
+    combined_2013$winage[i] <- "40 plus years"
+  }else if(combined_2013$dblglazeage[i] >= 30 & combined_2013$dblglazeage[i] < 40){
+    combined_2013$winage[i] <- "30 - 40 years"
+  }else if(combined_2013$dblglazeage[i] >= 20 & combined_2013$dblglazeage[i] < 30){
+    combined_2013$winage[i] <- "20 - 30 years"
+  }else if(combined_2013$dblglazeage[i] >= 10 & combined_2013$dblglazeage[i] < 20){
+    combined_2013$winage[i] <- "10 - 20 years"
+  }else if(combined_2013$dblglazeage[i] >= 0 & combined_2013$dblglazeage[i] < 10){
+    combined_2013$winage[i] <- "0 -10 years"
+  }
+}
+combined_2013$winage <- as.factor(combined_2013$winage)
 
 #Save Out
 
