@@ -54,14 +54,14 @@ Central heating (wet with rads),gas (mains),instantaneous,No Tank,Condensing,442
 Central heating (wet with rads),gas (mains),instantaneous,No Tank,Condensing combi,12528,7,1789.714286,H,H
 Central heating (wet with rads),gas (mains),instantaneous,No Tank,No boiler,1158,1,1158,H,H
 Central heating (wet with rads),gas (mains),instantaneous,Tank without Immersion Heater,Standard,7822,3,2607.333333,H,H
-Central heating (wet with rads),gas (other),with central heating,No Tank,Combination,20430,10,2043,L,L
-Central heating (wet with rads),gas (other),with central heating,No Tank,Condensing combi,46904,16,2931.5,L,L
-Central heating (wet with rads),gas (other),with central heating,Tank with Immersion Heater,Standard,12653,5,2530.6,L,L
-Central heating (wet with rads),gas (other),with central heating,Tank with Immersion Heater,Back boiler,15393,6,2565.5,L,L
-Central heating (wet with rads),gas (other),with central heating,Tank with Immersion Heater,Condensing,33417,13,2570.538462,L,L
-Central heating (wet with rads),gas (other),with central heating,Tank without Immersion Heater,Back boiler,1101,1,1101,L,L
-Central heating (wet with rads),gas (other),with central heating,Tank without Immersion Heater,Condensing,15380,6,2563.333333,L,L
-Central heating (wet with rads),gas (other),electric immersion heater,Tank with Immersion Heater,Standard,3481,1,3481,L,L
+Central heating (wet with rads),gas (other),with central heating,No Tank,Combination,20430,10,2043,E,E
+Central heating (wet with rads),gas (other),with central heating,No Tank,Condensing combi,46904,16,2931.5,E,E
+Central heating (wet with rads),gas (other),with central heating,Tank with Immersion Heater,Standard,12653,5,2530.6,E,E
+Central heating (wet with rads),gas (other),with central heating,Tank with Immersion Heater,Back boiler,15393,6,2565.5,E,E
+Central heating (wet with rads),gas (other),with central heating,Tank with Immersion Heater,Condensing,33417,13,2570.538462,E,E
+Central heating (wet with rads),gas (other),with central heating,Tank without Immersion Heater,Back boiler,1101,1,1101,E,E
+Central heating (wet with rads),gas (other),with central heating,Tank without Immersion Heater,Condensing,15380,6,2563.333333,E,E
+Central heating (wet with rads),gas (other),electric immersion heater,Tank with Immersion Heater,Standard,3481,1,3481,E,E
 Central heating (wet with rads),heating oil ,with central heating,No Tank,Combination,106460,47,2265.106383,E,E
 Central heating (wet with rads),heating oil ,with central heating,No Tank,Condensing combi,53768,26,2068,E,E
 Central heating (wet with rads),heating oil ,with central heating,No Tank,No boiler,1032,1,1032,E,E

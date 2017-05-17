@@ -593,6 +593,27 @@ for(i in 1:nrow(combined_2013)){
 }
 combined_2013$winage <- as.factor(combined_2013$winage)
 
+#Floor Types
+#https://fet.uwe.ac.uk/conweb/house_ages/elements/section3.htm
+combined_2013$floorcons <- NA
+for(i in 1:nrow(combined_2013)){
+  if(combined_2013$dwage9x[i] == "pre 1850"){
+    combined_2013$floorcons[i] <- "Historic"
+  }else if(combined_2013$dwage9x[i] == "1850 to 1899" | combined_2013$dwage9x[i] == "1900 to 1918" | combined_2013$dwage9x[i] == "1919 to 1944"){
+    combined_2013$floorcons[i] <- "Suspended Timber Floor - Uninsulated"
+  }else if(combined_2013$dwage9x[i] == "1945 to 1964" | combined_2013$dwage9x[i] == "1965 to 1974" | combined_2013$dwage9x[i] == "1975 to 1980" | combined_2013$dwage9x[i] == "1981 to 1990"){
+    combined_2013$floorcons[i] <- "Concrete Floors - Uninsulated"
+  }else if(combined_2013$dwage9x[i] == "post 1990"){
+    combined_2013$floorcons[i] <- "Concrete Floors - Insulated"
+  }else{
+    combined_2013$floorcons[i] <- "Unknown"
+  }
+}
+
+
+
+
+
 #Save Out
 
 saveRDS(combined_2013,"data/combined_2013_base.Rds")
