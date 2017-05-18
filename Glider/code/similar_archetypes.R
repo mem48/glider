@@ -27,3 +27,6 @@ for(i in 1:ncell){
   comp[x,y] <- sum(xval$energytyp == yval$energytyp, xval$generaltyp == yval$generaltyp, xval$rooftyp == yval$rooftyp, xval$solartyp == yval$solartyp, xval$walltyp == yval$walltyp, xval$wintyp == yval$wintyp, xval$floortyp == yval$floortyp)
   y_last <- y
 }
+
+
+saveRDS(comp,"data/archetypes_comparion.Rds")
