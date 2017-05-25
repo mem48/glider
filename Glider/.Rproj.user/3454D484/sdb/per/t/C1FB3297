@@ -1,0 +1,25 @@
+{
+    "contents" : "",
+    "created" : 1495469485327.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "C1FB3297",
+    "lastKnownWriteTime" : 7011605692497750387,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "8eac49fkdj",
+        "caption" : "groupsums",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=groupsums&cache_key=8eac49fkdj",
+        "displayedObservations" : "407",
+        "environment" : "",
+        "object" : "groupsums",
+        "totalObservations" : "407",
+        "variables" : "3"
+    },
+    "relative_order" : 7,
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}
