@@ -1,0 +1,25 @@
+{
+    "contents" : "",
+    "created" : 1497348191775.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "DA99D18E",
+    "lastKnownWriteTime" : 7011605692497750387,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "z5e0m5i11d",
+        "caption" : "grp",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=grp&cache_key=z5e0m5i11d",
+        "displayedObservations" : "456",
+        "environment" : "",
+        "object" : "grp",
+        "totalObservations" : "456",
+        "variables" : "2"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}

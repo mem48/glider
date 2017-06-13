@@ -1,0 +1,25 @@
+{
+    "contents" : "",
+    "created" : 1497352570608.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "CD766BE7",
+    "lastKnownWriteTime" : 7011605692497750387,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "xy7dxw3uqb",
+        "caption" : "compare",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=compare&cache_key=xy7dxw3uqb",
+        "displayedObservations" : "73",
+        "environment" : "",
+        "object" : "compare",
+        "totalObservations" : "73",
+        "variables" : "9"
+    },
+    "relative_order" : 7,
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}
