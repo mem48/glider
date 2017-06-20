@@ -116,7 +116,7 @@ summary(combined_2013$floortyp)
 
 #Combine togther archetypes
 #General-Energy-Wall-Roof-Solar
-combined_2013$archcode <- paste0(combined_2013$generaltyp,"-",combined_2013$rooftyp,"-",combined_2013$walltyp,"-",combined_2013$energytyp,"-",combined_2013$wintyp,"-",combined_2013$solartyp,"-",combined_2013$floortyp)
+combined_2013$archcode <- paste0(combined_2013$generaltyp,"-",combined_2013$walltyp,"-",combined_2013$floortyp,"-",combined_2013$rooftyp,"-",combined_2013$solartyp,"-",combined_2013$wintyp,"-",combined_2013$energytyp)
 #combined_2013$archcode <- paste0(combined_2013$energytyp,"-",combined_2013$walltyp,"-",combined_2013$rooftyp,"-",combined_2013$solartyp)
 sel <- combined_2013[,c("aacode","aagpd1213","archcode")]
 sel <- sel[with(sel, order(archcode)),]

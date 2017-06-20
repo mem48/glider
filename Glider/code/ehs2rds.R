@@ -2,10 +2,12 @@
 library(foreign)
 library(dplyr, lib.loc = "M:/R/R-3.3.1/library")
 library(lazyeval, lib.loc = "M:/R/R-3.3.1/library")
+library(dplyr)
+library(lazyeval)
 current_year <- 2013
 
-
-infld <- "C:/Users/earmmor/OneDrive/OD/Glider - Private/WP2/Data/EHS/EHS-2013-SPSS/UKDA-7802-spss/spss/spss19/"
+infld <- "E:/OneDrive - University of Leeds/Glider - Private/WP2/Data/EHS/EHS-2013-SPSS/UKDA-7802-spss/spss/spss19/"
+#infld <- "C:/Users/earmmor/OneDrive/OD/Glider - Private/WP2/Data/EHS/EHS-2013-SPSS/UKDA-7802-spss/spss/spss19/"
 ###############################################################################
 #Physical Table
 ##############################################################################
@@ -13,7 +15,7 @@ physical <- read.spss(paste0(infld,"derived/physical_12and13.sav"),to.data.frame
 physical <- physical[,c("aacode","dwtypenx","dwage9x","floorx","floor5x","storeyx","typerstr",
                         "typewstr2","constx","typewfin","typewin","dblglaz4","arnatx","attic",
                         "basement","heat7x","sysage","mainfuel","watersys","boiler",
-                        "wallinsy","sap12")]
+                        "wallinsy","sap12","cstactcx")]
 physical$aacode <- as.character(physical$aacode)
 #############################################################################
 #General Table
@@ -262,7 +264,7 @@ shape <- shape[,rems]
 ############################################################################
 #Context Table
 ###########################################################################
-context <- combined[c("aacode","aagpd1213","tenure4x","GorEHCS","imd","arnatx")]
+context <- combined[c("aacode","aagpd1213","tenure4x","GorEHCS","imd","arnatx","sap12")]
 
 
 
@@ -378,7 +380,9 @@ energy$tankins <- NA
 energy$Finwhmms <- as.character(energy$Finwhmms)
 energy$Finwhmms <- rem_na(energy$Finwhmms)
 for(c in 1:nrow(energy)){
-  if(energy$Finwhmms[c] == "150 mm" | energy$Finwhmms[c] == "100 mm" | energy$Finwhmms[c] == "80 mm"){
+  if(energy$tank[c] == "No Tank"){
+    energy$tankins[c] <-"No Tank"
+  } else if (energy$Finwhmms[c] == "150 mm" | energy$Finwhmms[c] == "100 mm" | energy$Finwhmms[c] == "80 mm"){
     energy$tankins[c] <-"Well Insulated"
   } else if (energy$Finwhmms[c] == "12.5mm" | energy$Finwhmms[c] == "25 mm" | energy$Finwhmms[c] == "38 mm" | energy$Finwhmms[c] == "50 mm"){
     energy$tankins[c] <-"Poorly Insulated"
