@@ -75,8 +75,10 @@ rownames(compare) <- row
 sum(compare) 
 
 compare$total <- rowSums(compare)
+compare <- compare[order(-compare$tota),]
 
-
+csum3 <- cumsum(compare$total)
+points(csum3, col = "Green")
 
 stop()
 
