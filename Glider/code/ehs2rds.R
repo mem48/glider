@@ -1,7 +1,7 @@
 #Read in EHS and convert to RDS
 library(foreign)
-library(dplyr, lib.loc = "M:/R/R-3.3.1/library")
-library(lazyeval, lib.loc = "M:/R/R-3.3.1/library")
+#library(dplyr, lib.loc = "M:/R/R-3.3.1/library")
+#library(lazyeval, lib.loc = "M:/R/R-3.3.1/library")
 library(dplyr)
 library(lazyeval)
 current_year <- 2013
@@ -162,33 +162,34 @@ roof$solfactor <- NA
 for(f in 1:nrow(roof)){
   roof$solfactor[f] <- solfacts[roof$dwtypenx[f],roof$typerstr[f]]
 }
-roof$solarea <- NA
+roof$solarea5 <- NA
+roof$solarea <- roof$roofarea * roof$solfactor
 for(e in 1:nrow(roof)){
-  x <- roof$roofarea[e] * roof$solfactor[e]
+  x <- roof$solarea[e]
   if(x < 10){
-    roof$solarea[e] <- "<10 sqm"
+    roof$solarea5[e] <- "<10 sqm"
   }else if(x >= 10 & x < 15){
-    roof$solarea[e] <- "10 to 15 sqm"
+    roof$solarea5[e] <- "10 to 15 sqm"
   }else if(x >= 15 & x < 20){
-    roof$solarea[e] <- "15 to 20 sqm"
+    roof$solarea5[e] <- "15 to 20 sqm"
   }else if(x >= 20 & x < 25){
-    roof$solarea[e] <- "20 to 25 sqm"
+    roof$solarea5[e] <- "20 to 25 sqm"
   }else if(x >= 25 & x < 30){
-    roof$solarea[e] <- "25 to 30 sqm"
+    roof$solarea5[e] <- "25 to 30 sqm"
   }else if(x >= 30 & x <= 35){
-    roof$solarea[e] <- "30 to 35 sqm"
+    roof$solarea5[e] <- "30 to 35 sqm"
   }else{
-    roof$solarea[e] <- ">35 sqm"
+    roof$solarea5[e] <- ">35 sqm"
   }
 }
-roof$solarea <- as.factor(roof$solarea)
+roof$solarea5 <- as.factor(roof$solarea5)
 #Plot
-counts <- table(roof$solarea)
+counts <- table(roof$solarea5)
 barplot(counts, main="Roof area for solar pannels", ylab="Number of Dwellings")
 
 
 
-roof <- roof[,c("aacode","typerstr","attic","PV","Solar","SolarSuit","LoftIns","solarea")]
+roof <- roof[,c("aacode","typerstr","attic","PV","Solar","SolarSuit","LoftIns","solarea","solarea5")]
 
 ##########################################################################
 #Walls Table
@@ -258,7 +259,7 @@ for(r in 1:nrow(shape)){
 }
 
 #Remove Unneeded Columns
-rems <- !names(shape) %in% c("Finlopos","floorx","storeyx")
+rems <- !names(shape) %in% c("Finlopos","storeyx")
 shape <- shape[,rems]
 
 ############################################################################
@@ -494,7 +495,6 @@ doors$age.Metal <- rem_na_0(doors$age.Metal)
 
 doors$doornumb <- doors$number.Wood + doors$number.UPVC + doors$number.Metal
 doors$doorage <- pmax(doors$age.Wood, doors$age.UPVC, doors$age.Metal)
-
 doors <- doors[,c("aacode","doornumb","doorage")]
 
 ################################################################################
@@ -614,6 +614,9 @@ for(i in 1:nrow(combined_2013)){
   }
 }
 
+#Fix missing doors
+
+combined_2013$doornumb[is.na(combined_2013$doornumb)] <- 0
 
 
 
