@@ -1,13 +1,13 @@
 #Read in EHS and convert to RDS
 library(foreign)
-#library(dplyr, lib.loc = "M:/R/R-3.3.1/library")
-#library(lazyeval, lib.loc = "M:/R/R-3.3.1/library")
-library(dplyr)
-library(lazyeval)
+library(dplyr, lib.loc = "M:/R/R-3.3.1/library")
+library(lazyeval, lib.loc = "M:/R/R-3.3.1/library")
+#library(dplyr)
+#library(lazyeval)
 current_year <- 2013
 
-infld <- "E:/OneDrive - University of Leeds/Glider - Private/WP2/Data/EHS/EHS-2013-SPSS/UKDA-7802-spss/spss/spss19/"
-#infld <- "C:/Users/earmmor/OneDrive/OD/Glider - Private/WP2/Data/EHS/EHS-2013-SPSS/UKDA-7802-spss/spss/spss19/"
+#infld <- "E:/OneDrive - University of Leeds/Glider - Private/WP2/Data/EHS/EHS-2013-SPSS/UKDA-7802-spss/spss/spss19/"
+infld <- "C:/Users/earmmor/OneDrive/OD/Glider - Private/WP2/Data/EHS/EHS-2013-SPSS/UKDA-7802-spss/spss/spss19/"
 ###############################################################################
 #Physical Table
 ##############################################################################
@@ -259,7 +259,7 @@ for(r in 1:nrow(shape)){
 }
 
 #Remove Unneeded Columns
-rems <- !names(shape) %in% c("Finlopos","storeyx")
+rems <- !names(shape) %in% c("Finlopos")
 shape <- shape[,rems]
 
 ############################################################################
@@ -546,6 +546,29 @@ windows <- windows[,c("aacode","dblglaze","dblglazeage","sngglaze","sngglazeage"
 ##################################################################
 
 windows2 <- physical[,c("aacode","dblglaz4")]
+
+
+###############################################################
+# Rooms Table
+##############################################################
+rooms <- read.spss(paste0(infld,"interview/rooms.sav"),to.data.frame=TRUE)
+rooms <- rooms[,c("aacode","NRmsEHS","NRms4","NRms5")]
+names(rooms) <- c("aacode","NBedrooms","NLivingRooms","NBathrooms")
+
+
+
+test <-  read.spss(paste0(infld,"derived/physical_12and13.sav"),to.data.frame=TRUE)
+
+
+
+
+
+
+
+
+
+
+
 
 
 #####################################################################
