@@ -1,11 +1,42 @@
 library(Hmisc)
-
+#library(Hmisc, lib.loc = "M:/R/R-3.3.1/library")
 # Summaries Architypes othe characteristcs
 
 comb <- readRDS("data/combined_2013_arch.Rds")
 comb$archcode <- as.character(comb$archcode)
 
+arsum_type <- data.frame(id = c("A","B","C","F","G","H","I"), desc = c("Semi Detached/End Terrace",
+                                                                       "Detached","Mid terrace",
+                                                                       "Bungalow",
+                                                                       "converted flat",
+                                                                       "Low rise flat",
+                                                                       "High rise flat"), stringsAsFactors = F)
+arsum_wall <- data.frame(id = c("A","B","C","D"), desc = c("Masonry Cavity","Soild Masonry","Concrete / Other","Mixed"), stringsAsFactors = F)
+arsum_window <- data.frame(id = c("A","B","C","D"), desc = c("Entire house","More than half","Less than half","No double glazing"), stringsAsFactors = F)
+arsum_energy <- data.frame(id = c("L","A","B","C","H","E","W","D","K","G","F"), desc = c("Other central heating e.g. coal / electric",
+                                                                                         "Gas central heating & Water, without Tank",
+                                                                                         "Gas central heating & Water, with Immersion Heater",
+                                                                                         "Gas central heating & Water, with hot water tank",
+                                                                                         "Gas central heating with separate hot water system",
+                                                                                         "Oil central heating",
+                                                                                         "Wood fueled central heating",
+                                                                                         "Storage Heaters",
+                                                                                         "Other heating e.g. Warm Air/ Electric Underfloor",
+                                                                                         "Communal Heating System",
+                                                                                         "Room Heaters"), stringsAsFactors = F)
+arsum_roof <- data.frame(id = c("A","B","C"), desc = c("Pitched no attic","Pitched with attic","Flat"), stringsAsFactors = F)
+arsum_solar <- data.frame(id = c("A","B"), desc = c("Yes","No"), stringsAsFactors = F)
+arsum_floor <- data.frame(id = c("A","B","C"), desc = c("Concrete Floors","Suspended Timber Floor","Historic"), stringsAsFactors = F)
+
+
+
 arch <- data.frame(archcode = unique(comb$archcode), 
+                   arch_type = "",
+                   arch_wall = "",
+                   arch_floor = "",
+                   arch_roof = "",
+                   arch_solar = "",
+                   arch_window = "", 
                    ndwel = 0,
                    nsample = 0,
                    age.Q1 = 0,
@@ -25,9 +56,26 @@ arch <- data.frame(archcode = unique(comb$archcode),
                    solararea.Q1 = 0,
                    solararea.Q3 = 0,
                    floorarea.Q1 = 0,
-                   floorarea.Q3 = 0)
+                   floorarea.Q3 = 0, stringsAsFactors = F)
 
 arch$archcode <- as.character(arch$archcode)
+
+
+
+
+#Get artchetype text
+for(z in 1:1000){
+  code <- arch$archcode[z]
+  #print(arsum_type$desc[arsum_type$id == substr(code,1,1)])
+  arch$arch_type[z] <- arsum_type$desc[arsum_type$id == substr(code,1,1)]
+  arch$arch_wall[z] <- arsum_wall$desc[arsum_wall$id == substr(code,3,3)]
+  arch$arch_floor[z] <- arsum_floor$desc[arsum_floor$id == substr(code,5,5)]
+  arch$arch_roof[z] <- arsum_roof$desc[arsum_roof$id == substr(code,7,7)]
+  arch$arch_solar[z] <- arsum_solar$desc[arsum_solar$id == substr(code,9,9)]
+  arch$arch_window[z] <- arsum_window$desc[arsum_window$id == substr(code,11,11)]
+  arch$arch_energy[z] <- arsum_energy$desc[arsum_energy$id == substr(code,13,13)]
+}
+
 
 #Count Dwellings
 for (a in 1:nrow(arch)){

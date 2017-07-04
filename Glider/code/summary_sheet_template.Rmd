@@ -1,0 +1,72 @@
+---
+  output: word_document
+---
+  
+```{r echo=FALSE}
+# See https://stackoverflow.com/questions/28331343/knitting-to-pdf-in-r for info
+i <- 1
+arch <- read.csv("C:/Users/earmmor/Git/glider/Glider/data/archetype_summary.csv" , stringsAsFactors = FALSE)
+name <- arch$archcode[i]
+number <- arch$ndwel[i]
+type <- arch$arch_type[i]
+wall <- arch$arch_wall[i]
+floor <- arch$arch_floor[i]
+roof <- arch$arch_roof[i]
+solar <- arch$arch_solar[i]
+glazing <- arch$arch_window[i]
+energy <- arch$arch_energy[i]
+nsample <- arch$nsample[i]       
+age.Q1 <- arch$age.Q1[i]        
+age.Q3 <- arch$age.Q3[i]       
+sap.Q1 <- arch$sap.Q1[i]        
+sap.Q3 <- arch$sap.Q3[i]        
+windows.Q1 <- arch$windows.Q1[i]    
+windows.Q3 <- arch$windows.Q3[i]    
+gasgrid.yes <- arch$gasgrid.yes[i]   
+tank.wellins <- arch$tank.wellins[i] 
+doors.Q1 <- arch$doors.Q1[i]      
+doors.Q3 <- arch$doors.Q3[i]      
+control.Q1 <- arch$control.Q1[i]    
+control.Q3 <- arch$control.Q3[i]    
+radcontrol.Q1 <- arch$radcontrol.Q1[i] 
+radcontrol.Q3 <- arch$radcontrol.Q3[i]
+solararea.Q1 <- arch$solararea.Q1[i]  
+solararea.Q3 <- arch$solararea.Q3[i]  
+floorarea.Q1 <- arch$floorarea.Q1[i]  
+floorarea.Q3 <- arch$floorarea.Q3[i]
+```
+
+**Architype Code:** `r name`		    **Number of Dwellings like this in England:** `r number`
+
+**Building Type:** 
+
+**Wall Construction:** `r wall`  			**Floor Construction:** `r floor`
+
+**Roof Type:** `r roof`               **Roof Suitable for Solar Panels:**  `r solar` 
+
+**Double Glazing:**  `r glazing`
+
+**Energy System:**  `r energy`
+
+**Dwellings like this are typically:**
+
+Built between: `r age.Q1` - `r age.Q3`
+
+Usable Floor area (m2): `r floorarea.Q1` - `r floorarea.Q3`
+
+SAP Energy Rating: `r sap.Q1` - `r sap.Q3`
+
+Number of Windows: `r windows.Q1` - `r windows.Q3`
+
+Number of external Doors: `r doors.Q1` - `r doors.Q3`
+
+Percentage with access to mains gas: `r gasgrid.yes` %
+
+Maximum roof area that could be used for solar panels (m2):  
+
+Percentage with well insulated hot water tank: `r tank.wellins`
+
+Typical Heating Controls: `r control.Q1` - `r control.Q3` 
+
+Typical Radiator Controls: `r radcontrol.Q1` - `r radcontrol.Q3`  
+
