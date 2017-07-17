@@ -1,5 +1,5 @@
 ---
-  output: word_document
+  output: html_document
 ---
   
 ```{r echo=FALSE}
@@ -15,58 +15,95 @@ roof <- arch$arch_roof[i]
 solar <- arch$arch_solar[i]
 glazing <- arch$arch_window[i]
 energy <- arch$arch_energy[i]
-nsample <- arch$nsample[i]       
-age.Q1 <- arch$age.Q1[i]        
-age.Q3 <- arch$age.Q3[i]       
-sap.Q1 <- arch$sap.Q1[i]        
-sap.Q3 <- arch$sap.Q3[i]        
-windows.Q1 <- arch$windows.Q1[i]    
-windows.Q3 <- arch$windows.Q3[i]    
-gasgrid.yes <- arch$gasgrid.yes[i]   
-tank.wellins <- arch$tank.wellins[i] 
-doors.Q1 <- arch$doors.Q1[i]      
-doors.Q3 <- arch$doors.Q3[i]      
-control.Q1 <- arch$control.Q1[i]    
-control.Q3 <- arch$control.Q3[i]    
-radcontrol.Q1 <- arch$radcontrol.Q1[i] 
-radcontrol.Q3 <- arch$radcontrol.Q3[i]
-solararea.Q1 <- arch$solararea.Q1[i]  
-solararea.Q3 <- arch$solararea.Q3[i]  
-floorarea.Q1 <- arch$floorarea.Q1[i]  
-floorarea.Q3 <- arch$floorarea.Q3[i]
+nsample <- arch$nsample[i]
+wallins <- arch$wallins[i]
+
+locations <- data.frame(locations = c("city centre","other urban centre","suburban residential","rural residential","village centre","rural"), val = c(arch$citycentre[i], arch$otherurban[i], arch$suburban[i], arch$ruralres[i], arch$villagecentre[i], arch$rural[i]))
+locations <- locations[locations$val >0,]
+locations <- locations[order(-locations$val),]
+locations$percent <- round(locations$val / sum(locations$val) * 100, 0)
+locations$val <- NULL
+locations <- locations[1:2,]
+
+
+
+
+
+summary <- data.frame(Desciption = c("Built between",
+                                     "SAP Energy Rating",
+                                     "Number of Windows",
+                                     "Heating Controls",
+                                     "% with insualted tank"
+                                     ),
+                      Value = c(paste0(arch$age.Q1[i]," - ",arch$age.Q3[i]),
+                                paste0(arch$sap.Q1[i]," - ",arch$sap.Q3[i]),
+                                paste0(arch$windows.Q1[i]," - ",arch$windows.Q3[i]),
+                                paste0(arch$control.Q1[i]," - ",arch$control.Q3[i]),
+                                arch$tank.wellins[i]
+                                ),
+                      Desciptions = c("Usable Floor area (m2)",
+                                      "Max Solar Area",
+                                      "Number of external Doors",
+                                      "Radiator Controls",
+                                      "% with access to mains gas"
+                                      ),
+                      Values = c(paste0(arch$floorarea.Q1[i]," - ",arch$floorarea.Q3[i]),
+                                 paste0(arch$solararea.Q1[i]," - ",arch$solararea.Q3[i]),
+                                 paste0(arch$doors.Q1[i]," - ",arch$doors.Q3[i]),
+                                 paste0(arch$radcontrol.Q1[i]," - ",arch$radcontrol.Q3[i]),
+                                 arch$gasgrid.yes[i]
+                                 )
+                      
+                      
+                      )
+
+
+
 ```
 
-**Architype Code:** `r name`		    **Number of Dwellings like this in England:** `r number`
+<style>
+  .col2 {
+    columns: 2 200px;         /* number of columns and width in pixels*/
+    -webkit-columns: 2 200px; /* chrome, safari */
+    -moz-columns: 2 200px;    /* firefox */
+  }
+  .col3 {
+    columns: 3 100px;
+    -webkit-columns: 3 100px;
+    -moz-columns: 3 100px;
+  }
+</style>
 
-**Building Type:** 
+
+
+
+**Architype Code:** `r name`		      **Number of Dwellings like this in England:** `r number`
+
+**Building Type:** `r type`           **Double Glazing:**  `r glazing`
 
 **Wall Construction:** `r wall`  			**Floor Construction:** `r floor`
 
 **Roof Type:** `r roof`               **Roof Suitable for Solar Panels:**  `r solar` 
 
-**Double Glazing:**  `r glazing`
-
 **Energy System:**  `r energy`
 
-**Dwellings like this are typically:**
+**Dwellings like this are typically**
 
-Built between: `r age.Q1` - `r age.Q3`
+```{r echo=FALSE}
+library(knitr)
+kable(summary, row.names = FALSE)
+```
 
-Usable Floor area (m2): `r floorarea.Q1` - `r floorarea.Q3`
 
-SAP Energy Rating: `r sap.Q1` - `r sap.Q3`
+**Most Common Locations**
+```{r echo=FALSE}
+kable(locations, row.names = FALSE)
+```
 
-Number of Windows: `r windows.Q1` - `r windows.Q3`
+**Retrofit Progress Infromation**
 
-Number of external Doors: `r doors.Q1` - `r doors.Q3`
+Dwellings with insualted walls: `r wallins` %
 
-Percentage with access to mains gas: `r gasgrid.yes` %
 
-Maximum roof area that could be used for solar panels (m2):  
 
-Percentage with well insulated hot water tank: `r tank.wellins`
-
-Typical Heating Controls: `r control.Q1` - `r control.Q3` 
-
-Typical Radiator Controls: `r radcontrol.Q1` - `r radcontrol.Q3`  
 

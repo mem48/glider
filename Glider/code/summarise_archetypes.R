@@ -56,7 +56,10 @@ arch <- data.frame(archcode = unique(comb$archcode),
                    solararea.Q1 = 0,
                    solararea.Q3 = 0,
                    floorarea.Q1 = 0,
-                   floorarea.Q3 = 0, stringsAsFactors = F)
+                   floorarea.Q3 = 0, 
+                   wallins = 0,
+                   
+                   stringsAsFactors = F)
 
 arch$archcode <- as.character(arch$archcode)
 
@@ -218,7 +221,40 @@ for(a in 1:nrow(arch)){
   arch$tank.wellins[a] <- round(foo$ndwel[foo$val == "Well Insulated"]/sum(foo$ndwel[foo$val == "Well Insulated"],foo$ndwel[foo$val == "Poorly Insulated"],foo$ndwel[foo$val == "No Insulation"],0.000000000001)*100)
 }
 
+#Location
 
-write.csv(arch,"data/archetype_summary.csv")
+arch$citycentre <- 0
+arch$otherurban <- 0
+arch$suburban <- 0
+arch$ruralres <- 0
+arch$villagecentre <- 0
+arch$rural <- 0
+
+for(a in 1:nrow(arch)){
+  code <- arch$archcode[a]
+  foo <- data.frame(val = c("city centre","other urban centre","suburban residential","rural residential","village centre","rural"), ndwel = 0)
+  for(c in 1:nrow(foo)){
+    foo$ndwel[c] <- sum(comb$aagpd1213[comb$archcode == code & comb$arnatx == foo$val[c]])
+  }
+  arch$citycentre[a] <- foo$ndwel[foo$val == "city centre"]
+  arch$otherurban[a] <- foo$ndwel[foo$val == "other urban centre"]
+  arch$suburban[a] <- foo$ndwel[foo$val == "suburban residential"]
+  arch$ruralres[a] <- foo$ndwel[foo$val == "rural residential"]
+  arch$villagecentre[a] <- foo$ndwel[foo$val == "village centre"]
+  arch$rural[a] <- foo$ndwel[foo$val == "rural"]
+}
+
+for(a in 1:nrow(arch)){
+  code <- arch$archcode[a]
+  foo <- data.frame(val = c("cavity uninsulated","cavity with insulation","other","solid uninsulated","solid with insulation"), ndwel = 0)
+  for(c in 1:nrow(foo)){
+    foo$ndwel[c] <- sum(comb$aagpd1213[comb$archcode == code & comb$wallinsy == foo$val[c]])
+  }
+  arch$wallins[a] <- round(sum(foo$ndwel[foo$val %in% c("cavity with insulation","solid with insulation")]) / sum(foo$ndwel) * 100, 2)
+}
+
+
+
+write.csv(arch,"data/archetype_summary.csv", row.names = FALSE)
 
 
