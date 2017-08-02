@@ -29,6 +29,36 @@ for(a in 2:length(accounts)){
 saveRDS(tweets,paste0("twitter/Tweets-",Sys.Date(),".Rds"))
 write.csv(tweets,paste0("twitter/Tweets-",Sys.Date(),".csv"))
 
+#Get rate limits
+getCurRateLimitInfo()
+
+#Get Followers
+
+#acc <- getUser(accounts[1])
+#follow <- acc$getFollowers()
+#followid <- test$getFollowerIDs()
+
+user <- getUser(accounts[1])
+user$toDataFrame()
+friends <- user$getFriends() # who this user follows
+followers <- user$getFollowers() # this user's followers
+followers2 <- followers[[1]]$getFollowers() # a follower's followers
+
+
+#Summarise accounts
+getaccsum <- function(b){
+  usr <- getUser(accounts[b])
+  usr <- usr$toDataFrame()
+  return(usr)
+}
+
+accsum <- lapply(1:length(accounts),getaccsum)
+accsum2 <- rbind(accsum)
+
+
+
+
+
 
 test <- getUser("TheBRETrust")
 
@@ -37,6 +67,4 @@ us <- userFactory$new(screenName="test", name="Joe Smith")
 us$getScreenName()
 us$getName()
 
-follow <- test$getFollowers()
-followid <- test$getFollowerIDs()
 
