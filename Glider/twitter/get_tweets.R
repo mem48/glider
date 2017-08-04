@@ -1,4 +1,4 @@
-accounts <- read.csv("twitter/accounts.csv", stringsAsFactors = F)
+accounts <- read.csv("twitter/accounts_cores.csv", stringsAsFactors = F)
 accounts <- accounts$Twitter[!is.na(accounts$Twitter)]
 accounts <- accounts[nchar(accounts) > 0]
 
@@ -34,7 +34,7 @@ write.csv(tweets,paste0("twitter/Tweets-",Sys.Date(),".csv"))
 
 #Get rate limits
 limits <- getCurRateLimitInfo()
-
+limits <- limits[limits$remaining < limits$limit,]
 
 
 
@@ -67,74 +67,13 @@ getnames <- function(n, list){
   return(val2)
 }
 
-user <- getUser(accsum$screenName[1])
-friends <- user$getFriends() # who this user follows
-followers <- user$getFollowers() # this user's followers
 
-#Get followers
-connections <- data.frame(account.name = user$screenName,follower.name = NA, follower.id = names(follower))
-connections$follower.name <- sapply(1:length(followers), getnames, list = followers)
-
-#get following
-connections2 <- data.frame(account.name = NA,follower.name = user$screenName, account.id = names(friends))
-connections2$account.name <- sapply(1:length(friends), getnames, list = friends)
-
-#put togther
-connections <- connections[,c("account.name","follower.name")]
-connections2 <- connections2[,c("account.name","follower.name")]
-
-rm(user,connections2,connections,followers,friends)
-
-connect.all <- rbind(connections,connections2)
-
-for(d in 2:nrow(accsum)){
-  user <- getUser(accsum$screenName[d])
-  friends <- user$getFriends() # who this user follows
-  followers <- user$getFollowers() # this user's followers
-  
-  #Get followers
-  connections <- data.frame(account.name = user$screenName,follower.name = NA, follower.id = names(followers))
-  connections$follower.name <- sapply(1:length(followers), getnames, list = followers)
-  
-  #get following
-  connections2 <- data.frame(account.name = NA,follower.name = user$screenName, account.id = names(friends))
-  connections2$account.name <- sapply(1:length(friends), getnames, list = friends)
-  
-  #put togther
-  connections <- connections[,c("account.name","follower.name")]
-  connections2 <- connections2[,c("account.name","follower.name")]
-  
-  connect.all <- rbind(connect.all,connections,connections2)
-  print(paste0("Done ",accsum$screenName[d]," with ",nrow(connections)," followers, and ",nrow(connections2)," friends at ",Sys.time()))
-  rm(user,friends,followers, connections, connections2)
-}
-
-saveRDS(connect.all,paste0("twitter/Connections-",Sys.Date(),".Rds"))
-write.csv(connect.all,paste0("twitter/Connections-",Sys.Date(),".csv"))
-
-connect.all <- connect.all[,c("follower.name","account.name")]
-test <- connect.all[1:1000,]
-graph <- graph_from_data_frame(connect.all, directed = T)
-plot(graph)
-
-foo <- degree(graph, mode = "all")
-nodes <- unique(connect.all$follower.name)
-nodes2 <- unique(connect.all$account.name)
-nodes3 <- unique(c(nodes,nodes2))
-
-graph2 <- delete.vertices(graph, which(degree(graph)<6))
-plot(graph2)
+write.csv(connect.all,paste0("twitter/Connections-Big-",Sys.Date(),".csv"))
 
 
-followers2 <- followers[[1]]$getFollowers() # a follower's followers
+lim <- getCurRateLimitInfo()
+user <- getUser(accsum$screenName[d])
+lim2 <- getCurRateLimitInfo()
 
-
-
-test <- getUser("TheBRETrust")
-
-
-us <- userFactory$new(screenName="test", name="Joe Smith")
-us$getScreenName()
-us$getName()
-
+res <- lim[lim$remaining != lim2$remaining,]
 
