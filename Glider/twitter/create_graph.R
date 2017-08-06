@@ -23,6 +23,8 @@ connections$friendof <- as.character(connections$friendof)
 connections$from <- NA
 connections$to <- NA
 
+
+#takes ages
 for(a in 1:nrow(connections)){
   if(is.na(connections$friendof[a])){
     connections$from[a] <- connections$screenName[a]
@@ -33,7 +35,30 @@ for(a in 1:nrow(connections)){
   }
 }
 
+getfrom <- function(d){
+  if(is.na(connections$friendof[d])){
+    return(connections$screenName[d])
+  }else{
+    return(connections$friendof[d])
+  }
+}
+
+getto <- function(d){
+  if(is.na(connections$friendof[d])){
+    return(connections$followerof[d])
+  }else{
+    return(connections$screenName[d])
+  }
+}
+
+connections$from <- lapply(1:nrow(connections),getfrom)
+connections$to <- lapply(1:nrow(connections),getto)
+
+
 connections <- connections[,c("from","to")]
+
+saveRDS(connections,paste0("twitter/data/connectionslist-dump-",Sys.Date(),".RDs"))
+
 summary(!is.na(connections$from)) #should all be true
 summary(!is.na(connections$to))#should all be true
 connections$weight <- 1
@@ -52,6 +77,12 @@ gorder(graph)
 graph <- delete.vertices(graph, which(degree(graph)<=1))
 gorder(graph)
 
+graph.top <- delete.vertices(graph, which(degree(graph)<=40))
+gorder(graph.top)
+acc.top <- as.data.frame(V(graph.top)$name)
+
+
+plot(graph.top, layout=layout.fruchterman.reingold, vertex.size = 3)
 
 V(graph)$color <- ifelse(V(graph)$core == 1, "red", "lightblue")
 
