@@ -32,4 +32,15 @@ nrow(connect.all)
 connect.all <- connect.all[!(connect.all$screenName %in% remove),]
 nrow(connect.all)
 
+#take out forign accounts
+nrow(connect.all)
+connect.all <- connect.all[(connect.all$lang %in% c("en","en-gb","en-GB")) | is.na(connect.all$lang),]
+nrow(connect.all)
+unique(connect.all$lang)
+locs <- data.frame(id = unique(connect.all$location), count = 0)
 
+getlocs <- function(loc){
+  n <- length(connect.all$location[connect.all$location == loc])
+}
+
+locs$count <- lapply(1:nrow(locs), )

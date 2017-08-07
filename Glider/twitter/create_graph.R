@@ -77,7 +77,7 @@ gorder(graph)
 graph <- delete.vertices(graph, which(degree(graph)<=1))
 gorder(graph)
 
-graph.top <- delete.vertices(graph, which(degree(graph)<=40))
+graph.top <- delete.vertices(graph, which(degree(graph)<=50000))
 gorder(graph.top)
 acc.top <- as.data.frame(V(graph.top)$name)
 
@@ -120,10 +120,10 @@ plot(graph2, vertex.size = 3,vertex.label = NA)
 
 
 
-comm <- walktrap.community(graph2)
+comm <- walktrap.community(graph.top)
 
 #Collapse the graph by communities.  This insight is due to this post http://stackoverflow.com/questions/35000554/collapsing-graph-by-clusters-in-igraph/35000823#35000823
-graph.comm <- simplify(contract(graph2, membership(comm))) 
+graph.comm <- simplify(contract(graph.top, membership(comm))) 
 gorder(graph.comm)
 plot(graph.comm, vertex.size = 3, vertex.label = NA)
 
