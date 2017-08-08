@@ -18,7 +18,7 @@ options(warn = 1) #debug
 
 friends <- get.friends(accounts[1])
 
-for(i in 30:length(accounts)){
+for(i in 144:length(accounts)){
   res <- get.friends(accounts[i])
   if(!is.null(res)){ #for cases when protected accounts result in a null result
     friends <- rbind(friends,res)
