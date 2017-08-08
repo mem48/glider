@@ -18,12 +18,14 @@ options(warn = 1) #debug
 
 friends <- get.friends(accounts[1])
 
-for(i in 2:length(accounts)){
+for(i in 30:length(accounts)){
   res <- get.friends(accounts[i])
-  friends <- rbind(friends,res)
-  rm(res) #added later
-  saveRDS(friends,paste0("twitter/data/friends-livedump-",Sys.Date(),".Rds"))
-  print(paste0("Total number of records ",nrow(friends)))
+  if(!is.null(res)){ #for cases when protected accounts result in a null result
+    friends <- rbind(friends,res)
+    saveRDS(friends,paste0("twitter/data/friends-livedump-",Sys.Date(),".Rds"))
+    print(paste0("Total number of records ",nrow(friends)))
+  }
+  rm(res)
 }
 
 saveRDS(connect.all,paste0("twitter/data/friends-fin-",Sys.Date(),".Rds"))
