@@ -15,21 +15,28 @@ acc.summary <- acc.summary[!duplicated(acc.summary$screenName),]
 
 #Get the friends of the core accounts
 #accounts withe large numbers of followers exapnd the network too much
-acc.sub.friend <- acc.summary[acc.summary$friendsCount < 10000, ] #Filter out the really large accounts
-friends <- get.friends(acc.sub.friend$screenName[1])
+friends <- get.friends(acc.summary$screenName[1])
+friends.list <- list()
+friends.list[[1]] <- friends 
 
-for(b in 2:nrow(acc.sub.friend)){
-  res <- get.friends(acc.sub.friend$screenName[b])
-  if(!is.null(res)){ #for cases when protected accounts result in a null result
-    friends <- rbind(friends,res)
-    saveRDS(friends,paste0("twitter/data/broad-friends-livedump-",Sys.Date(),".Rds"))
-    print(paste0("Total number of records ",nrow(friends)))
+for(b in 924:nrow(acc.summary)){
+  acc.name <- acc.summary$screenName[b]
+  res <- try(get.friends(acc.name), silent = T) #for cases when the account can't be found
+  if(class(res) == "try-error"){
+    res <- NULL
   }
-  rm(res)
+  if(!is.null(res)){ #for cases when protected accounts result in a null result
+    friends.list[[b]] <- res
+    #friends <- rbind(friends,res)
+    saveRDS(friends.list,paste0("C:/Users/earmmor/twitter/broad-friends-livedump-",Sys.Date(),".Rds")) #temp dump to SSD
+    #print(paste0("Total number of records ",nrow(friends)))
+  }
+  rm(res,acc.name)
 }
 
-message(paste0("Got ",nrow(friends)," from ",nrow(acc.sub.friend),"/",nrow(acc.summary)," accounts"))
 saveRDS(friends,paste0("twitter/data/broad-friends-",Sys.Date(),".Rds"))
 
-#
 
+res <- try(get.friends(acc.name), silent = T)
+res.old <- res
+res <- tryCatch(get.friends(acc.name), finally = res <- NULL)
