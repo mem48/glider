@@ -1,4 +1,5 @@
 get.friends <- function(id){
+  start.time <- Sys.time()
   #Get a list of friends
   #Get user object
   user <- getUser(id)
@@ -52,7 +53,8 @@ get.friends <- function(id){
       friends.df$followerof <- NA
       
       #Return Results
-      message(paste0("Got ",nrow(friends.df)," out of ",user$friendsCount, " friends for ",id," at ",Sys.time()))
+      end.time <- Sys.time()
+      message(paste0("Got ",nrow(friends.df)," out of ",user$friendsCount, " friends for ",id," at a rate of ",round(nrow(friends.df)/as.numeric(difftime(end.time,start.time,units = "secs")),2)," users/second ",Sys.time()))
       return(friends.df)
     }
   }
@@ -61,8 +63,8 @@ get.friends <- function(id){
 get.followers <- function(id){
   #Get a list of friends
   #Get user object
+  start.time <- Sys.time()
   user <- getUser(id)
-  
   if(user$protected){
     message(paste0("User ",id," as a protected account, so skipping"))
   }else{
@@ -111,7 +113,8 @@ get.followers <- function(id){
       follower.df$followerof <- id
       
       #Return Results
-      message(paste0("Got ",nrow(follower.df)," out of ",user$followersCount, " followers for ",id," at ",Sys.time()))
+      end.time <- Sys.time()
+      message(paste0("Got ",nrow(follower.df)," out of ",user$followersCount, " followers for ",id," at a rate of ",round(nrow(follower.df)/as.numeric(difftime(end.time,start.time,units = "secs")),2) ," users/second at ",Sys.time()))
       return(follower.df)
     }
   }

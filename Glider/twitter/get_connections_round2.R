@@ -19,7 +19,7 @@ friends <- get.friends(acc.summary$screenName[1])
 friends.list <- list()
 friends.list[[1]] <- friends 
 
-for(b in 924:nrow(acc.summary)){
+for(b in 1846:nrow(acc.summary)){
   acc.name <- acc.summary$screenName[b]
   res <- try(get.friends(acc.name), silent = T) #for cases when the account can't be found
   if(class(res) == "try-error"){
@@ -27,9 +27,10 @@ for(b in 924:nrow(acc.summary)){
   }
   if(!is.null(res)){ #for cases when protected accounts result in a null result
     friends.list[[b]] <- res
-    #friends <- rbind(friends,res)
-    saveRDS(friends.list,paste0("C:/Users/earmmor/twitter/broad-friends-livedump-",Sys.Date(),".Rds")) #temp dump to SSD
-    #print(paste0("Total number of records ",nrow(friends)))
+    if(b %% 10 == 0){ #Save every 10th time, saving takes time for large files so reduced idel
+      saveRDS(friends.list,paste0("C:/Users/earmmor/twitter/broad-friends-livedump-",Sys.Date(),".Rds")) #temp dump to SSD
+      message(paste0("Saved a copy of the results so far at ",Sys.time()))
+    }
   }
   rm(res,acc.name)
 }

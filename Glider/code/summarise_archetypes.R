@@ -56,9 +56,29 @@ arch <- data.frame(archcode = unique(comb$archcode),
                    solararea.Q1 = 0,
                    solararea.Q3 = 0,
                    floorarea.Q1 = 0,
-                   floorarea.Q3 = 0, 
+                   floorarea.Q3 = 0,
+                   intwallarea.Q1 = 0,
+                   intwallarea.Q3 = 0,
+                   extwallarea.Q1 = 0,
+                   extwallarea.Q3 = 0,
+                   extwindowarea.Q1 = 0,
+                   extwindowarea.Q3 = 0,
+                   dpcperim.Q1 = 0,
+                   dpcperim.Q3 = 0,
+                   nfloors.Q1 = 0,
+                   nfloors.Q3 = 0,
                    wallins = 0,
-                   
+                   loftins = 0,
+                   roofareaplan.Q1 = 0,
+                   roofareaplan.Q3 = 0,
+                   roofareaslope.Q1 = 0,
+                   roofareaslope.Q3 = 0,
+                   ceilingground.Q1 = 0,
+                   ceilingground.Q3 = 0,
+                   ceilingfirst.Q1 = 0,
+                   ceilingfirst.Q3 = 0,
+                   imd.Q1 = 0,
+                   imd.Q3 = 0,
                    stringsAsFactors = F)
 
 arch$archcode <- as.character(arch$archcode)
@@ -244,6 +264,8 @@ for(a in 1:nrow(arch)){
   arch$rural[a] <- foo$ndwel[foo$val == "rural"]
 }
 
+
+#Get wall insualtion rates
 for(a in 1:nrow(arch)){
   code <- arch$archcode[a]
   foo <- data.frame(val = c("cavity uninsulated","cavity with insulation","other","solid uninsulated","solid with insulation"), ndwel = 0)
@@ -253,8 +275,169 @@ for(a in 1:nrow(arch)){
   arch$wallins[a] <- round(sum(foo$ndwel[foo$val %in% c("cavity with insulation","solid with insulation")]) / sum(foo$ndwel) * 100, 2)
 }
 
+#Get loft insualtion rates
+for(a in 1:nrow(arch)){
+  code <- arch$archcode[a]
+  foo <- data.frame(val = c("Poorly Insulated","Well Insulated","No Insulation"), ndwel = 0)
+  for(c in 1:nrow(foo)){
+    foo$ndwel[c] <- sum(comb$aagpd1213[comb$archcode == code & comb$LoftIns == foo$val[c]])
+  }
+  arch$loftins[a] <- round(sum(foo$ndwel[foo$val == c("Well Insulated")]) / sum(foo$ndwel) * 100, 2)
+}
 
 
+#Get Internal Wall area
+for(a in 1:nrow(arch)){
+  code <- arch$archcode[a]
+  foo <- data.frame(val = unique(comb$IntWalAr[comb$archcode == code]), ndwel = 0)
+  for(c in 1:nrow(foo)){
+    foo$ndwel[c] <- sum(comb$aagpd1213[comb$archcode == code & comb$IntWalAr == foo$val[c]])
+  }
+  arch$intwallarea.Q1[a] <- round(wtd.quantile(x = foo$val, weights = foo$ndwel, probs = 0.25))
+  arch$intwallarea.Q3[a] <- round(wtd.quantile(x = foo$val, weights = foo$ndwel, probs = 0.75))
+}
+
+#Get ExternalWall area
+for(a in 1:nrow(arch)){
+  code <- arch$archcode[a]
+  foo <- data.frame(val = unique(comb$wall.area.ext[comb$archcode == code]), ndwel = 0)
+  for(c in 1:nrow(foo)){
+    foo$ndwel[c] <- sum(comb$aagpd1213[comb$archcode == code & comb$wall.area.ext == foo$val[c]])
+  }
+  arch$extwallarea.Q1[a] <- round(wtd.quantile(x = foo$val, weights = foo$ndwel, probs = 0.25))
+  arch$extwallarea.Q3[a] <- round(wtd.quantile(x = foo$val, weights = foo$ndwel, probs = 0.75))
+}
+
+#Get exernal Window Area
+for(a in 1:nrow(arch)){
+  code <- arch$archcode[a]
+  foo <- data.frame(val = unique(comb$window.area.ext[comb$archcode == code]), ndwel = 0)
+  for(c in 1:nrow(foo)){
+    foo$ndwel[c] <- sum(comb$aagpd1213[comb$archcode == code & comb$window.area.ext == foo$val[c]])
+  }
+  arch$extwindowarea.Q1[a] <- round(wtd.quantile(x = foo$val, weights = foo$ndwel, probs = 0.25))
+  arch$extwindowarea.Q3[a] <- round(wtd.quantile(x = foo$val, weights = foo$ndwel, probs = 0.75))
+}
+
+
+#Get exernal DPC perimiter
+for(a in 1:nrow(arch)){
+  code <- arch$archcode[a]
+  foo <- data.frame(val = unique(comb$dpc.perim[comb$archcode == code]), ndwel = 0)
+  for(c in 1:nrow(foo)){
+    foo$ndwel[c] <- sum(comb$aagpd1213[comb$archcode == code & comb$dpc.perim == foo$val[c]])
+  }
+  arch$dpcperim.Q1[a] <- round(wtd.quantile(x = foo$val, weights = foo$ndwel, probs = 0.25))
+  arch$dpcperim.Q3[a] <- round(wtd.quantile(x = foo$val, weights = foo$ndwel, probs = 0.75))
+}
+
+#Get number of floors
+for(a in 1:nrow(arch)){
+  code <- arch$archcode[a]
+  foo <- data.frame(val = unique(comb$NFlorm[comb$archcode == code]), ndwel = 0)
+  for(c in 1:nrow(foo)){
+    foo$ndwel[c] <- sum(comb$aagpd1213[comb$archcode == code & comb$NFlorm == foo$val[c]])
+  }
+  arch$nfloors.Q1[a] <- round(wtd.quantile(x = foo$val, weights = foo$ndwel, probs = 0.25))
+  arch$nfloors.Q3[a] <- round(wtd.quantile(x = foo$val, weights = foo$ndwel, probs = 0.75))
+}
+
+
+#Get roof plan area
+for(a in 1:nrow(arch)){
+  code <- arch$archcode[a]
+  foo <- data.frame(val = unique(comb$roof.area.plan[comb$archcode == code]), ndwel = 0)
+  for(c in 1:nrow(foo)){
+    foo$ndwel[c] <- sum(comb$aagpd1213[comb$archcode == code & comb$roof.area.plan == foo$val[c]])
+  }
+  arch$roofareaplan.Q1[a] <- round(wtd.quantile(x = foo$val, weights = foo$ndwel, probs = 0.25))
+  arch$roofareaplan.Q3[a] <- round(wtd.quantile(x = foo$val, weights = foo$ndwel, probs = 0.75))
+}
+
+#Get roof slope area
+for(a in 1:nrow(arch)){
+  code <- arch$archcode[a]
+  foo <- data.frame(val = unique(comb$roof.area.slope[comb$archcode == code]), ndwel = 0)
+  for(c in 1:nrow(foo)){
+    foo$ndwel[c] <- sum(comb$aagpd1213[comb$archcode == code & comb$roof.area.slope == foo$val[c]])
+  }
+  arch$roofareaslope.Q1[a] <- round(wtd.quantile(x = foo$val, weights = foo$ndwel, probs = 0.25))
+  arch$roofareaslope.Q3[a] <- round(wtd.quantile(x = foo$val, weights = foo$ndwel, probs = 0.75))
+}
+
+#Get ground floor ceiling height
+#special version to deal with NAS
+for(a in 1:nrow(arch)){
+  code <- arch$archcode[a]
+  foo <- data.frame(val = unique(comb$cheight0[comb$archcode == code]), ndwel = 0)
+  for(c in 1:nrow(foo)){
+    foo$ndwel[c] <- sum(comb$aagpd1213[comb$archcode == code & comb$cheight0 == foo$val[c]], na.rm = T)
+  }
+  #Special if to deal with all NAs
+  if(nrow(foo) == 1 & is.na(foo[1,1])){
+    arch$ceilingground.Q1[a] <- NA
+    arch$ceilingground.Q1[a] <- NA
+  }else{
+    arch$ceilingground.Q1[a] <- round(wtd.quantile(x = foo$val, weights = foo$ndwel, probs = 0.25, na.rm = T), 2)
+    arch$ceilingground.Q3[a] <- round(wtd.quantile(x = foo$val, weights = foo$ndwel, probs = 0.75, na.rm = T), 2)
+  }
+}
+
+#Get first floor ceiling height
+#special version to deal with NAS
+for(a in 1:nrow(arch)){
+  code <- arch$archcode[a]
+  foo <- data.frame(val = unique(comb$cheight1[comb$archcode == code]), ndwel = 0)
+  for(c in 1:nrow(foo)){
+    foo$ndwel[c] <- sum(comb$aagpd1213[comb$archcode == code & comb$cheight1 == foo$val[c]], na.rm = T)
+  }
+  #Special if to deal with all NAs
+  if(nrow(foo) == 1 & is.na(foo[1,1])){
+    arch$ceilingfirst.Q1[a] <- NA
+    arch$ceilingfirst.Q3[a] <- NA
+  }else{
+    arch$ceilingfirst.Q1[a] <- round(wtd.quantile(x = foo$val, weights = foo$ndwel, probs = 0.25, na.rm = T),2)
+    arch$ceilingfirst.Q3[a] <- round(wtd.quantile(x = foo$val, weights = foo$ndwel, probs = 0.75, na.rm = T),2)
+  }
+}
+
+#Get IMD ratings
+for(a in 1:nrow(arch)){
+  code <- arch$archcode[a]
+  foo <- data.frame(val = unique(comb$imd[comb$archcode == code]), ndwel = 0)
+  for(c in 1:nrow(foo)){
+    foo$ndwel[c] <- sum(comb$aagpd1213[comb$archcode == code & comb$imd == foo$val[c]])
+  }
+  arch$imd.Q1[a] <- round(wtd.quantile(x = foo$val, weights = foo$ndwel, probs = 0.25))
+  arch$imd.Q3[a] <- round(wtd.quantile(x = foo$val, weights = foo$ndwel, probs = 0.75))
+}
+
+#Get Tenure
+comb$tenure4x <- as.character(comb$tenure4x)
+
+arch$own <- 0
+arch$rent.private <- 0
+arch$rent.la <- 0
+arch$rent.rsl <- 0
+
+for(a in 1:nrow(arch)){
+  code <- arch$archcode[a]
+  foo <- data.frame(val = c("private rented","local authority","owner occupied","RSL"), ndwel = 0)
+  for(c in 1:nrow(foo)){
+    foo$ndwel[c] <- sum(comb$aagpd1213[comb$archcode == code & comb$tenure4x == foo$val[c]])
+  }
+  arch$own[a] <- foo$ndwel[foo$val == "owner occupied"]
+  arch$rent.private[a] <- foo$ndwel[foo$val == "private rented"]
+  arch$rent.la[a] <- foo$ndwel[foo$val == "local authority"]
+  arch$rent.rsl[a] <- foo$ndwel[foo$val == "RSL"]
+}
+
+
+
+
+#Sort Retults
+arch <- arch[order(-arch$ndwel),]
+
+#Save Results
 write.csv(arch,"data/archetype_summary.csv", row.names = FALSE)
-
 

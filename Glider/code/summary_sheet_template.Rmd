@@ -1,23 +1,69 @@
 ---
-  output: word_document
+  output: 
+    word_document:
+      reference_docx: mystyles.docx
 ---
   
 ```{r echo=FALSE}
+library(knitr) 
 # See https://stackoverflow.com/questions/28331343/knitting-to-pdf-in-r for info
 
-#arch <- read.csv("C:/Users/earmmor/Git/glider/Glider/data/archetype_summary.csv" , stringsAsFactors = FALSE)
-name <- arch$archcode[i]
-number <- arch$ndwel[i]
-type <- arch$arch_type[i]
-wall <- arch$arch_wall[i]
-floor <- arch$arch_floor[i]
-roof <- arch$arch_roof[i]
-solar <- arch$arch_solar[i]
-glazing <- arch$arch_window[i]
-energy <- arch$arch_energy[i]
-nsample <- arch$nsample[i]
-wallins <- arch$wallins[i]
+#arch <- read.csv("../data/archetype_summary.csv" , stringsAsFactors = FALSE)
+#i = 1
 
+#Make the Archetype Table
+
+archtable <- data.frame(Description = c("Building Type",
+                                   "Wall Construction",
+                                   "Roof Type",
+                                   "Energy System"), 
+                         Value = c(arch$arch_type[i],
+                                  arch$arch_wall[i],
+                                  arch$arch_roof[i],
+                                  arch$arch_energy[i]),
+                         Descriptions = c("Double Glazing", 
+                                   "Floor Construction", 
+                                   "Solar Suitable", 
+                                   ""), 
+                         Values = c(arch$arch_window[i],
+                                  arch$arch_floor[i],
+                                  arch$arch_solar[i],
+                                  ""))
+
+
+#Make the Dimensions Summary Table
+dimensions <- data.frame(Description = c("Number of Floors",
+                                   "Floor Area (m2)",
+                                   "Plan Roof Area (m2)",
+                                   "Slope Roof Area (m2)",
+                                   "Ground Floor Ceiling Height (m)"), 
+                         Value = c(paste0(arch$nfloors.Q1[i]," - ",arch$nfloors.Q3[i]),
+                                  paste0(arch$floorarea.Q1[i]," - ",arch$floorarea.Q3[i]),
+                                  paste0(arch$roofareaplan.Q1[i]," - ",arch$roofareaplan.Q3[i]),
+                                  paste0(arch$roofareaslope.Q1[i]," - ",arch$roofareaslope.Q3[i]),
+                                  paste0(arch$ceilingground.Q1[i]," - ",arch$ceilingground.Q3[i])),
+                         Descriptions = c("External Wall Area (m2)", 
+                                   "Internal Wall Area (m2)", 
+                                   "DPC Perimeter (m)", 
+                                   "Estimated Useful Solar Area (m2)",
+                                   "First Floor Ceiling Height (m)"), 
+                         Values = c(paste0(arch$extwallarea.Q1[i]," - ",arch$extwallarea.Q3[i]),
+                                  paste0(arch$intwallarea.Q1[i]," - ",arch$intwallarea.Q3[i]),
+                                  paste0(arch$dpcperim.Q1[i]," - ",arch$dpcperim.Q3[i]),
+                                  paste0(arch$solararea.Q1[i]," - ",arch$solararea.Q3[i]),
+                                  paste0(arch$ceilingfirst.Q1[i]," - ",arch$ceilingfirst.Q3[i])) )
+
+#Make doors and windows table
+windows <- data.frame(Description = c("Number of Windows", "Number of External Doors"), 
+                         Value = c(paste0(arch$windows.Q1[i]," - ",arch$windows.Q3[i]),
+                                   paste0(arch$doors.Q1[i]," - ",arch$doors.Q3[i])),
+                         Descriptions = c("Window Area (m2)", 
+                                   ""), 
+                         Values = c(paste0(arch$extwindowarea.Q1[i]," - ",arch$extwindowarea.Q3[i]),
+                                  ""))
+
+
+#Make the Locations Summary Table
 locations <- data.frame(locations = c("city centre","other urban centre","suburban residential","rural residential","village centre","rural"), val = c(arch$citycentre[i], arch$otherurban[i], arch$suburban[i], arch$ruralres[i], arch$villagecentre[i], arch$rural[i]))
 locations <- locations[locations$val >0,]
 locations <- locations[order(-locations$val),]
@@ -27,29 +73,29 @@ locations <- locations[1:2,]
 
 
 
+#Make Tennacy table
+Tenancy <- data.frame(Tenancy = c("Owner Occupy","Private Rent","LA Rent","RSL Rent"), 
+                      val = c(arch$own[i],arch$rent.private[i],arch$rent.la[i],arch$rent.rsl[i]))
+Tenancy <- Tenancy[Tenancy$val >0,]
+Tenancy <- Tenancy[order(-Tenancy$val),]
+Tenancy$percent <- round(Tenancy$val / sum(Tenancy$val) * 100, 0)
+Tenancy$val <- NULL
+Tenancy <- Tenancy[1:2,]
 
-
-summary <- data.frame(Desciption = c("Built between",
+#Make the Genral Summary Table
+summary <- data.frame(Description = c("Built between",
                                      "SAP Energy Rating",
-                                     "Number of Windows",
-                                     "Heating Controls",
-                                     "% with insualted tank"
+                                     ""
                                      ),
                       Value = c(paste0(arch$age.Q1[i]," - ",arch$age.Q3[i]),
                                 paste0(arch$sap.Q1[i]," - ",arch$sap.Q3[i]),
-                                paste0(arch$windows.Q1[i]," - ",arch$windows.Q3[i]),
-                                paste0(arch$control.Q1[i]," - ",arch$control.Q3[i]),
-                                arch$tank.wellins[i]
+                                ""
                                 ),
-                      Desciptions = c("Usable Floor area (m2)",
-                                      "Max Solar Area",
-                                      "Number of external Doors",
-                                      "Radiator Controls",
+                      Descriptions = c("Heating Controls",
+                                       "Radiator Controls",
                                       "% with access to mains gas"
                                       ),
-                      Values = c(paste0(arch$floorarea.Q1[i]," - ",arch$floorarea.Q3[i]),
-                                 paste0(arch$solararea.Q1[i]," - ",arch$solararea.Q3[i]),
-                                 paste0(arch$doors.Q1[i]," - ",arch$doors.Q3[i]),
+                      Values = c(paste0(arch$control.Q1[i]," - ",arch$control.Q3[i]),
                                  paste0(arch$radcontrol.Q1[i]," - ",arch$radcontrol.Q3[i]),
                                  arch$gasgrid.yes[i]
                                  )
@@ -61,49 +107,45 @@ summary <- data.frame(Desciption = c("Built between",
 
 ```
 
-<style>
-  .col2 {
-    columns: 2 200px;         /* number of columns and width in pixels*/
-    -webkit-columns: 2 200px; /* chrome, safari */
-    -moz-columns: 2 200px;    /* firefox */
-  }
-  .col3 {
-    columns: 3 100px;
-    -webkit-columns: 3 100px;
-    -moz-columns: 3 100px;
-  }
-</style>
 
+# `r arch$archcode[i]`
 
+`r formatC(arch$ndwel[i], format = "d", big.mark = ",")` dwellings based on `r formatC(arch$nsample[i], format = "d", big.mark = ",")` samples from the English Housing Survey 2013
 
-
-**Architype Code:** `r name`		      **Number of Dwellings like this in England:** `r number`
-
-**Building Type:** `r type`           **Double Glazing:**  `r glazing`
-
-**Wall Construction:** `r wall`  			**Floor Construction:** `r floor`
-
-**Roof Type:** `r roof`               **Roof Suitable for Solar Panels:**  `r solar` 
-
-**Energy System:**  `r energy`
-
-**Dwellings like this are typically**
+This archetype is characterised by:
 
 ```{r echo=FALSE}
-library(knitr)
+kable(archtable, row.names = FALSE)
+```
+
+Dwellings of this archetype have the following typical existing characteristics. Values show the inter quartile range i.e. 50% of dwellings are between the two values shown.
+
+## Summary
+```{r echo=FALSE}
 kable(summary, row.names = FALSE)
 ```
 
-
-**Most Common Locations**
+## Dimensions
 ```{r echo=FALSE}
-kable(locations, row.names = FALSE)
+kable(dimensions, row.names = FALSE)
 ```
 
-**Retrofit Progress Infromation**
+## Windows
+```{r echo=FALSE}
+kable(windows, row.names = FALSE)
+```
 
-Dwellings with insualted walls: `r wallins` %
 
+##Most Common Tenancies & Most Common Locations
+```{r echo=FALSE}
+kable(cbind(Tenancy,locations), row.names = FALSE)
+```
 
+##Retrofit Progress Information
 
+Dwellings with insulated  walls: `r arch$wallins[i]` %
+
+Dwellings with well insulated lofts: `r arch$loftins[i] ` %
+
+Dwellings with well inuslated hot water tanks: `r arch$tank.wellins[i]` %
 

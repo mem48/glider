@@ -13,6 +13,6 @@ arch <- arch[order(-arch$ndwel),]
 for (i in 1:nrow(arch)){
   rmarkdown::render(input = "code/summary_sheet_template.Rmd",
                     output_format = "word_document",
-                    output_file = paste("handout_", i, ".doc", sep=''),
+                    output_file = paste("archetype-",arch$archcode[i], ".doc", sep=''),
                     output_dir = "handouts/")
 }
