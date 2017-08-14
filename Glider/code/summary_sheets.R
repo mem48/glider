@@ -1,19 +1,18 @@
 #Make Archtype Summary Sheets
 
-arch <- read.csv("data/archetype_summary.csv")
-
-
 ## Packages
 library(knitr)
 library(rmarkdown)
 
 ## Data
-personalized_info <- read.csv(file = "meeting_times.csv")
+arch <- read.csv("data/archetype_summary.csv", stringsAsFactors = FALSE)
+arch <- arch[order(-arch$ndwel),]
+
 
 ## Loop
-for (i in 1:nrow(personalized_info)){
-  rmarkdown::render(input = "mail_merge_handout.Rmd",
-                    output_format = "pdf_document",
-                    output_file = paste("handout_", i, ".pdf", sep=''),
+for (i in 1:nrow(arch)){
+  rmarkdown::render(input = "code/summary_sheet_template.Rmd",
+                    output_format = "word_document",
+                    output_file = paste("handout_", i, ".doc", sep=''),
                     output_dir = "handouts/")
 }

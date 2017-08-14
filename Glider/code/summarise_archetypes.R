@@ -19,7 +19,7 @@ arsum_energy <- data.frame(id = c("L","A","B","C","H","E","W","D","K","G","F"), 
                                                                                          "Gas central heating & Water, with hot water tank",
                                                                                          "Gas central heating with separate hot water system",
                                                                                          "Oil central heating",
-                                                                                         "Wood fueled central heating",
+                                                                                         "Wood fuelled central heating",
                                                                                          "Storage Heaters",
                                                                                          "Other heating e.g. Warm Air/ Electric Underfloor",
                                                                                          "Communal Heating System",
@@ -67,7 +67,7 @@ arch$archcode <- as.character(arch$archcode)
 
 
 #Get artchetype text
-for(z in 1:1000){
+for(z in 1:nrow(arch)){
   code <- arch$archcode[z]
   #print(arsum_type$desc[arsum_type$id == substr(code,1,1)])
   arch$arch_type[z] <- arsum_type$desc[arsum_type$id == substr(code,1,1)]

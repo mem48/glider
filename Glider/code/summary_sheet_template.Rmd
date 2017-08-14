@@ -1,11 +1,11 @@
 ---
-  output: html_document
+  output: word_document
 ---
   
 ```{r echo=FALSE}
 # See https://stackoverflow.com/questions/28331343/knitting-to-pdf-in-r for info
-i <- 1
-arch <- read.csv("C:/Users/earmmor/Git/glider/Glider/data/archetype_summary.csv" , stringsAsFactors = FALSE)
+
+#arch <- read.csv("C:/Users/earmmor/Git/glider/Glider/data/archetype_summary.csv" , stringsAsFactors = FALSE)
 name <- arch$archcode[i]
 number <- arch$ndwel[i]
 type <- arch$arch_type[i]

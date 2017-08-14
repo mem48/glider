@@ -49,12 +49,27 @@ services <- services[,c("aacode","Finchtyp","Finmhfue","Finmhboi","Finchbag",
                         "Finwhcyl","Finwhins","Finwhmms",
                         "Finwhcen","Finwhthe","Finlopos","Flitypes","Fliinsul","Finintyp","Flithick")]
 services$aacode <- as.character(services$aacode)
+
+##########################################################################
+#dimensions table
+#######################################################################
+
+dimensions <- read.spss(paste0(infld,"derived/detailed/dimensions_12and13.sav"),to.data.frame=TRUE)
+dimensions$wall.area.ext <- round(dimensions$efwalar +  dimensions$ebwalar, 2)
+dimensions$window.area.ext <- round(dimensions$efwinar +  dimensions$ebwinar, 2)
+dimensions$dpc.perim <- round(dimensions$efdpcpe +  dimensions$ebdpcpe, 2)
+dimensions$roof.area.plan <- round(dimensions$efrfpar +  dimensions$ebrfpar, 2)
+dimensions$roof.area.slope <- round(dimensions$efrfsar +  dimensions$ebrfsar, 2)
+dimensions <- dimensions[,c("Aacode","IntWalAr","wall.area.ext","window.area.ext","dpc.perim","NFlorm","roof.area.plan","roof.area.slope","cheight0","cheight1","cheight2","AvWallThick")]
+names(dimensions) <- c("aacode","IntWalAr","wall.area.ext","window.area.ext","dpc.perim","NFlorm","roof.area.plan","roof.area.slope","cheight0","cheight1","cheight2","AvWallThick")
+
 #########################################################################
 #Combine
 ########################################################################
 combined <- left_join(physical,general, by = "aacode")
 combined <- left_join(combined,services, by = "aacode")
 combined <- left_join(combined,elevate, by = "aacode")
+
 #remove(physical,general,services,elevate)
 
 #######################################################################
@@ -557,20 +572,6 @@ names(rooms) <- c("aacode","NBedrooms","NLivingRooms","NBathrooms")
 
 
 
-test <-  read.spss(paste0(infld,"derived/physical_12and13.sav"),to.data.frame=TRUE)
-
-
-
-
-
-
-
-
-
-
-
-
-
 #####################################################################
 #Join back into a master table
 ###################################################################
@@ -581,6 +582,8 @@ combined_2013 <- left_join(combined_2013,windows, by = "aacode")
 combined_2013 <- left_join(combined_2013,windows2, by = "aacode")
 combined_2013 <- left_join(combined_2013,doors, by = "aacode")
 combined_2013 <- left_join(combined_2013,energy, by = "aacode")
+combined_2013 <- left_join(combined_2013,dimensions, by = "aacode")
+
 
 combined_2013$LoftIns <- as.factor(combined_2013$LoftIns)
 
@@ -642,6 +645,20 @@ for(i in 1:nrow(combined_2013)){
 combined_2013$doornumb[is.na(combined_2013$doornumb)] <- 0
 
 
+#turn imd into numbers
+combined_2013$imd <- as.character(combined_2013$imd)
+combined_2013$imd[combined_2013$imd == "most deprived 10% of areas"] <- 1
+combined_2013$imd[combined_2013$imd == "2nd"] <- 2
+combined_2013$imd[combined_2013$imd == "3rd"] <- 3
+combined_2013$imd[combined_2013$imd == "4th"] <- 4
+combined_2013$imd[combined_2013$imd == "5th"] <- 5
+combined_2013$imd[combined_2013$imd == "6th"] <- 6
+combined_2013$imd[combined_2013$imd == "7th"] <- 7
+combined_2013$imd[combined_2013$imd == "8th"] <- 8
+combined_2013$imd[combined_2013$imd == "9th"] <- 9
+combined_2013$imd[combined_2013$imd == "least deprived 10% of areas"] <- 10
+
+combined_2013$imd <- as.integer(combined_2013$imd)
 
 
 #Save Out

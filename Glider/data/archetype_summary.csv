@@ -66,7 +66,7 @@
 "C-B-B-A-A-A-L","Mid terrace","Soild Masonry","Suspended Timber Floor","Pitched no attic","Yes","Entire house",2380,2,1862,1927,21,63,11,14,56,0,2,5,1,7,0,1,19,22,86,112,43.7,"Other central heating e.g. coal / electric",0,1340,0,1040,0,0
 "A-B-B-B-A-A-A","Semi Detached/End Terrace","Soild Masonry","Suspended Timber Floor","Pitched with attic","Yes","Entire house",151019,53,1893,1925,47,60,9,18,100,0,2,3,5,5,2,2,12,18,84,158,3.81,"Gas central heating & Water, without Tank",0,38083,93833,19103,0,0
 "C-A-B-A-A-A-C","Mid terrace","Masonry Cavity","Suspended Timber Floor","Pitched no attic","Yes","Entire house",13224,14,1925,1940,54,62,7,7,100,0,2,2,4,5,1,2,17,19,68,78,88.63,"Gas central heating & Water, with hot water tank",0,6082,6518,624,0,0
-"B-B-B-A-A-D-W","Detached","Soild Masonry","Suspended Timber Floor","Pitched no attic","Yes","No double glazing",3215,2,1865,1870,19,19,8,12,0,0,2,3,0,1,1,2,13,20,108,158,0,"Wood fueled central heating",0,0,0,0,0,3215
+"B-B-B-A-A-D-W","Detached","Soild Masonry","Suspended Timber Floor","Pitched no attic","Yes","No double glazing",3215,2,1865,1870,19,19,8,12,0,0,2,3,0,1,1,2,13,20,108,158,0,"Wood fuelled central heating",0,0,0,0,0,3215
 "G-B-B-A-A-D-B","converted flat","Soild Masonry","Suspended Timber Floor","Pitched no attic","Yes","No double glazing",16703,7,1866,1912,51,64,9,10,100,0,1,2,5,5,1,2,23,34,94,137,0,"Gas central heating & Water, with Immersion Heater",0,1262,14643,0,798,0
 "F-A-A-A-A-A-D","Bungalow","Masonry Cavity","Concrete Floors","Pitched no attic","Yes","Entire house",86946,62,1958,1976,47,57,6,8,50,0,2,2,0,0,0,0,12,16,48,63,68.19,"Storage Heaters",0,11070,32334,26987,13339,3216
 "H-A-A-C-B-A-A","Low rise flat","Masonry Cavity","Concrete Floors","Flat","No","Entire house",138138,84,1965,1986,65,77,5,8,100,0,1,2,5,5,2,2,54,70,54,70,49.02,"Gas central heating & Water, without Tank",18215,50111,64545,5267,0,0
@@ -235,7 +235,7 @@
 "H-A-B-C-B-A-D","Low rise flat","Masonry Cavity","Suspended Timber Floor","Flat","No","Entire house",2231,2,1924,1943,33,73,3,7,100,0,1,2,0,0,0,0,46,84,46,84,39.67,"Storage Heaters",1346,0,885,0,0,0
 "C-A-A-A-A-A-E","Mid terrace","Masonry Cavity","Concrete Floors","Pitched no attic","Yes","Entire house",4220,3,1962,2002,59,61,8,10,11,0,2,4,5,5,2,2,17,19,69,76,100,"Oil central heating",0,0,476,0,1610,2134
 "H-A-B-A-A-A-B","Low rise flat","Masonry Cavity","Suspended Timber Floor","Pitched no attic","Yes","Entire house",2641,3,1930,1937,69,70,5,5,100,0,1,1,5,5,2,2,15,19,62,75,80.27,"Gas central heating & Water, with Immersion Heater",0,0,2641,0,0,0
-"F-B-B-A-A-A-W","Bungalow","Soild Masonry","Suspended Timber Floor","Pitched no attic","Yes","Entire house",719,1,1861,1861,23,23,8,8,0,0,2,2,4,4,1,1,32,32,129,129,0,"Wood fueled central heating",0,0,0,0,0,719
+"F-B-B-A-A-A-W","Bungalow","Soild Masonry","Suspended Timber Floor","Pitched no attic","Yes","Entire house",719,1,1861,1861,23,23,8,8,0,0,2,2,4,4,1,1,32,32,129,129,0,"Wood fuelled central heating",0,0,0,0,0,719
 "B-B-C-B-A-A-E","Detached","Soild Masonry","Historic","Pitched with attic","Yes","Entire house",13444,5,1849,1849,26,47,15,17,0,0,2,4,5,5,2,2,14,23,115,220,0,"Oil central heating",0,0,0,2277,4784,6383
 "A-A-B-A-A-B-C","Semi Detached/End Terrace","Masonry Cavity","Suspended Timber Floor","Pitched no attic","Yes","More than half",31265,14,1922,1936,50,59,12,19,100,0,2,4,5,5,1,2,15,20,86,101,55.17,"Gas central heating & Water, with hot water tank",0,0,24716,5652,0,897
 "H-D-B-A-A-A-A","Low rise flat","Mixed","Suspended Timber Floor","Pitched no attic","Yes","Entire house",662,1,1908,1908,68,68,5,5,100,0,2,2,5,5,2,2,11,11,46,46,0,"Gas central heating & Water, without Tank",0,662,0,0,0,0
@@ -410,7 +410,7 @@
 "B-A-A-A-A-C-C","Detached","Masonry Cavity","Concrete Floors","Pitched no attic","Yes","Less than half",4141,2,1962,2008,44,45,13,15,100,0,2,2,1,5,1,2,12,16,99,125,40.3,"Gas central heating & Water, with hot water tank",0,2472,1669,0,0,0
 "A-D-A-A-A-A-A","Semi Detached/End Terrace","Mixed","Concrete Floors","Pitched no attic","Yes","Entire house",15074,7,1951,1977,51,64,8,13,100,0,1,2,4,5,2,2,14,30,74,119,20.66,"Gas central heating & Water, without Tank",0,0,14546,528,0,0
 "B-A-A-B-B-B-E","Detached","Masonry Cavity","Concrete Floors","Pitched with attic","No","More than half",1620,1,1996,1996,59,59,15,15,0,0,3,3,5,5,2,2,12,12,94,94,0,"Oil central heating",0,0,0,0,0,1620
-"F-A-A-A-A-A-W","Bungalow","Masonry Cavity","Concrete Floors","Pitched no attic","Yes","Entire house",8095,2,1945,1965,54,58,12,14,0,0,1,2,1,5,2,2,26,39,105,157,100,"Wood fueled central heating",0,0,0,5352,0,2743
+"F-A-A-A-A-A-W","Bungalow","Masonry Cavity","Concrete Floors","Pitched no attic","Yes","Entire house",8095,2,1945,1965,54,58,12,14,0,0,1,2,1,5,2,2,26,39,105,157,100,"Wood fuelled central heating",0,0,0,5352,0,2743
 "B-B-B-B-A-C-A","Detached","Soild Masonry","Suspended Timber Floor","Pitched with attic","Yes","Less than half",8027,2,1881,1899,47,52,21,22,100,0,5,6,5,5,2,2,19,21,167,227,0,"Gas central heating & Water, without Tank",0,5659,2368,0,0,0
 "G-A-A-C-A-C-A","converted flat","Masonry Cavity","Concrete Floors","Flat","Yes","Less than half",4518,1,1958,1958,39,39,17,17,100,0,1,1,5,5,2,2,67,67,67,67,0,"Gas central heating & Water, without Tank",4518,0,0,0,0,0
 "B-A-A-A-A-B-D","Detached","Masonry Cavity","Concrete Floors","Pitched no attic","Yes","More than half",4087,1,1977,1977,39,39,14,14,0,0,2,2,0,0,0,0,20,20,162,162,100,"Storage Heaters",0,0,0,4087,0,0
@@ -552,7 +552,7 @@
 "H-B-A-C-B-A-B","Low rise flat","Soild Masonry","Concrete Floors","Flat","No","Entire house",8153,4,1946,1959,52,64,4,8,100,0,1,2,4,5,1,2,41,71,41,71,32.74,"Gas central heating & Water, with Immersion Heater",0,5484,2669,0,0,0
 "B-A-A-A-A-D-K","Detached","Masonry Cavity","Concrete Floors","Pitched no attic","Yes","No double glazing",3809,2,1964,1979,40,42,16,25,100,0,4,5,3,5,0,0,22,24,179,195,0,"Other heating e.g. Warm Air/ Electric Underfloor",0,0,3809,0,0,0
 "B-A-A-B-A-A-K","Detached","Masonry Cavity","Concrete Floors","Pitched with attic","Yes","Entire house",5205,2,1945,1955,26,57,16,20,100,0,3,4,0,5,0,0,19,22,149,262,70.03,"Other heating e.g. Warm Air/ Electric Underfloor",0,0,5205,0,0,0
-"A-B-A-A-A-D-W","Semi Detached/End Terrace","Soild Masonry","Concrete Floors","Pitched no attic","Yes","No double glazing",1840,1,1949,1949,23,23,13,13,100,0,4,4,4,4,1,1,11,11,66,66,0,"Wood fueled central heating",0,0,1840,0,0,0
+"A-B-A-A-A-D-W","Semi Detached/End Terrace","Soild Masonry","Concrete Floors","Pitched no attic","Yes","No double glazing",1840,1,1949,1949,23,23,13,13,100,0,4,4,4,4,1,1,11,11,66,66,0,"Wood fuelled central heating",0,0,1840,0,0,0
 "B-D-C-A-A-A-B","Detached","Mixed","Historic","Pitched no attic","Yes","Entire house",6230,2,1849,1849,50,50,19,19,100,0,3,3,5,5,1,1,23,23,185,185,0,"Gas central heating & Water, with Immersion Heater",0,0,0,1349,0,4881
 "B-A-A-A-A-B-C","Detached","Masonry Cavity","Concrete Floors","Pitched no attic","Yes","More than half",26116,8,1959,1973,59,63,15,23,100,0,2,3,5,5,2,2,12,25,98,199,76.24,"Gas central heating & Water, with hot water tank",0,5005,10345,5655,5111,0
 "G-B-B-A-A-A-L","converted flat","Soild Masonry","Suspended Timber Floor","Pitched no attic","Yes","Entire house",1496,2,1881,1909,18,51,5,5,100,0,1,1,4,5,1,2,11,15,42,61,45.86,"Other central heating e.g. coal / electric",810,0,686,0,0,0
@@ -754,7 +754,7 @@
 "C-C-A-A-A-B-B","Mid terrace","Concrete / Other","Concrete Floors","Pitched no attic","Yes","More than half",3761,2,1967,1967,54,54,11,11,100,0,2,2,5,5,2,2,20,20,80,80,21.7,"Gas central heating & Water, with Immersion Heater",0,0,3761,0,0,0
 "C-C-A-C-A-A-A","Mid terrace","Concrete / Other","Concrete Floors","Flat","Yes","Entire house",1626,1,1966,1966,56,56,11,11,100,0,3,3,5,5,1,1,38,38,77,77,0,"Gas central heating & Water, without Tank",0,0,1626,0,0,0
 "C-C-A-A-A-A-C","Mid terrace","Concrete / Other","Concrete Floors","Pitched no attic","Yes","Entire house",14691,10,1965,1972,58,67,8,8,100,0,2,2,5,5,1,2,18,21,73,82,25.97,"Gas central heating & Water, with hot water tank",0,0,14691,0,0,0
-"A-A-B-A-A-A-W","Semi Detached/End Terrace","Masonry Cavity","Suspended Timber Floor","Pitched no attic","Yes","Entire house",2285,1,1934,1934,49,49,10,10,100,0,2,2,0,0,1,1,11,11,68,68,100,"Wood fueled central heating",0,0,2285,0,0,0
+"A-A-B-A-A-A-W","Semi Detached/End Terrace","Masonry Cavity","Suspended Timber Floor","Pitched no attic","Yes","Entire house",2285,1,1934,1934,49,49,10,10,100,0,2,2,0,0,1,1,11,11,68,68,100,"Wood fuelled central heating",0,0,2285,0,0,0
 "B-C-C-B-A-B-C","Detached","Concrete / Other","Historic","Pitched with attic","Yes","More than half",1886,1,1849,1849,66,66,16,16,100,0,6,6,5,5,2,2,18,18,148,148,100,"Gas central heating & Water, with hot water tank",0,0,0,0,1886,0
 "F-A-A-A-A-C-K","Bungalow","Masonry Cavity","Concrete Floors","Pitched no attic","Yes","Less than half",6592,2,1964,1968,24,48,6,6,100,0,2,2,0,5,0,0,13,18,53,74,100,"Other heating e.g. Warm Air/ Electric Underfloor",0,4365,2227,0,0,0
 "B-B-C-B-A-C-B","Detached","Soild Masonry","Historic","Pitched with attic","Yes","Less than half",4786,2,1849,1849,33,42,12,30,100,0,5,5,5,5,1,2,12,31,146,372,0,"Gas central heating & Water, with Immersion Heater",0,0,3024,0,0,1762
@@ -999,150 +999,150 @@
 "B-A-B-B-B-A-B","Detached","Masonry Cavity","Suspended Timber Floor","Pitched with attic","No","Entire house",5165,2,1874,1943,57,68,11,31,100,0,2,4,4,5,2,2,12,21,98,252,52.24,"Gas central heating & Water, with Immersion Heater",0,0,2467,0,2698,0
 "C-B-B-A-A-D-H","Mid terrace","Soild Masonry","Suspended Timber Floor","Pitched no attic","Yes","No double glazing",892,1,1907,1907,53,53,7,7,100,0,2,2,5,5,2,2,17,17,68,68,0,"Gas central heating with separate hot water system",892,0,0,0,0,0
 "C-A-A-B-B-A-B","Mid terrace","Masonry Cavity","Concrete Floors","Pitched with attic","No","Entire house",2419,1,1991,1991,78,78,13,13,100,0,3,3,5,5,2,2,13,13,77,77,100,"Gas central heating & Water, with Immersion Heater",0,0,2419,0,0,0
-"C-A-B-A-A-A-L","","","","","","",1138,1,1933,1933,60,60,8,8,0,0,2,2,5,5,1,1,17,17,67,67,100,"Gas central heating & Water, with hot water tank",0,0,0,1138,0,0
-"B-A-B-A-A-C-E","","","","","","",6675,2,1872,1930,55,59,13,24,0,0,2,6,5,5,2,2,11,43,91,348,55.67,"Gas central heating & Water, with hot water tank",0,0,0,3716,0,2959
-"B-B-C-A-A-C-K","","","","","","",2967,1,1849,1849,1,1,12,12,0,0,2,2,0,0,0,0,16,16,131,131,0,"Gas central heating & Water, with hot water tank",0,0,0,0,0,2967
-"G-D-C-A-A-D-K","","","","","","",4237,1,1849,1849,34,34,7,7,100,0,2,2,0,0,0,0,19,19,75,75,0,"Gas central heating & Water, with hot water tank",4237,0,0,0,0,0
-"A-B-B-A-A-B-K","","","","","","",3881,2,1921,1921,19,19,21,21,79,0,3,3,0,0,0,0,11,11,69,69,0,"Gas central heating & Water, with hot water tank",0,0,3070,0,0,811
-"C-D-B-B-A-C-D","","","","","","",2064,1,1934,1934,27,27,13,13,0,0,2,2,0,0,0,0,15,15,91,91,0,"Gas central heating & Water, with hot water tank",0,0,0,2064,0,0
-"F-D-C-A-A-D-W","","","","","","",2408,1,1849,1849,29,29,8,8,0,0,2,2,0,0,1,1,17,17,69,69,0,"Gas central heating & Water, with hot water tank",0,0,0,0,0,2408
-"A-D-C-A-A-A-E","","","","","","",3512,1,1849,1849,31,31,12,12,0,100,2,2,5,5,2,2,15,15,94,94,0,"Gas central heating & Water, with hot water tank",0,0,0,0,3512,0
-"H-A-A-C-A-C-A","","","","","","",1095,2,1965,1971,61,74,3,7,100,0,1,2,5,5,2,2,47,73,47,73,67.12,"Gas central heating & Water, with hot water tank",0,0,1095,0,0,0
-"I-A-A-C-A-A-B","","","","","","",429,1,1968,1968,71,71,4,4,100,0,1,1,5,5,2,2,66,66,66,66,0,"Gas central heating & Water, with hot water tank",0,0,429,0,0,0
-"H-B-B-A-B-D-A","","","","","","",394,1,1876,1876,63,63,9,9,100,0,1,1,5,5,2,2,11,11,43,43,0,"Gas central heating & Water, with hot water tank",0,394,0,0,0,0
-"I-B-B-A-A-A-B","","","","","","",561,1,1942,1942,68,68,8,8,100,0,1,1,5,5,2,2,16,16,65,65,0,"Gas central heating & Water, with hot water tank",0,561,0,0,0,0
-"H-D-A-C-A-A-F","","","","","","",1981,1,1958,1958,40,40,5,5,100,0,1,1,0,0,0,0,66,66,66,66,0,"Gas central heating & Water, with hot water tank",1981,0,0,0,0,0
-"C-A-A-A-A-B-G","","","","","","",552,1,1983,1983,70,70,6,6,100,0,3,3,9,9,2,2,21,21,84,84,0,"Gas central heating & Water, with hot water tank",0,552,0,0,0,0
-"I-B-B-A-A-A-G","","","","","","",920,1,1863,1863,64,64,1,1,100,0,5,5,0,0,2,2,22,22,88,88,0,"Gas central heating & Water, with hot water tank",0,920,0,0,0,0
-"C-D-C-A-A-D-A","","","","","","",2453,1,1849,1849,58,58,5,5,100,0,2,2,5,5,1,1,17,17,67,67,0,"Gas central heating & Water, with hot water tank",0,0,2453,0,0,0
-"H-A-A-A-A-C-C","","","","","","",1619,1,1965,1965,54,54,6,6,100,0,1,1,5,5,2,2,19,19,74,74,0,"Gas central heating & Water, with hot water tank",0,0,1619,0,0,0
-"A-A-A-C-B-A-B","","","","","","",1888,2,1972,1998,51,69,7,8,100,0,2,5,3,5,2,2,28,35,69,85,28.02,"Gas central heating & Water, with hot water tank",0,529,1359,0,0,0
-"A-B-B-A-A-A-W","","","","","","",1813,1,1852,1852,34,34,13,13,0,0,2,2,1,1,1,1,14,14,55,55,0,"Gas central heating & Water, with hot water tank",0,0,0,0,1813,0
-"C-B-A-A-A-C-A","","","","","","",649,1,1952,1952,61,61,4,4,100,0,1,1,5,5,2,2,10,10,42,42,0,"Gas central heating & Water, with hot water tank",0,649,0,0,0,0
-"G-A-B-A-A-A-K","","","","","","",1272,1,1902,1902,12,12,6,6,100,0,2,2,0,0,0,0,23,23,93,93,0,"Gas central heating & Water, with hot water tank",0,1272,0,0,0,0
-"C-A-A-A-B-A-A","","","","","","",988,1,1953,1953,70,70,9,9,100,0,1,1,4,4,2,2,7,7,81,81,100,"Gas central heating & Water, with hot water tank",0,0,988,0,0,0
-"C-B-C-A-A-D-K","","","","","","",5876,2,1849,1849,1,1,21,21,100,0,2,2,0,0,0,0,16,16,94,94,0,"Gas central heating & Water, with hot water tank",1396,0,4480,0,0,0
-"G-B-C-A-A-C-B","","","","","","",2970,1,1849,1849,42,42,5,5,100,0,1,1,5,5,2,2,20,20,80,80,0,"Gas central heating & Water, with hot water tank",0,0,0,0,2970,0
-"A-C-A-A-A-A-L","","","","","","",2284,1,1958,1958,42,42,10,10,0,0,2,2,0,0,1,1,15,15,88,88,0,"Gas central heating & Water, with hot water tank",0,0,0,2284,0,0
-"G-B-C-A-A-B-K","","","","","","",1511,1,1849,1849,1,1,16,16,100,0,1,1,0,0,0,0,57,57,226,226,0,"Gas central heating & Water, with hot water tank",0,1511,0,0,0,0
-"C-B-C-A-A-A-F","","","","","","",6812,1,1849,1849,27,27,8,8,0,0,2,2,1,1,0,0,11,11,87,87,0,"Gas central heating & Water, with hot water tank",0,0,0,6812,0,0
-"A-A-B-A-A-C-W","","","","","","",1994,1,1921,1921,46,46,10,10,0,0,4,4,0,0,2,2,18,18,107,107,0,"Gas central heating & Water, with hot water tank",0,0,0,0,1994,0
-"B-A-A-B-A-C-E","","","","","","",4275,1,1948,1948,46,46,12,12,0,0,1,1,4,4,2,2,16,16,129,129,100,"Gas central heating & Water, with hot water tank",0,0,0,0,0,4275
-"G-A-B-A-A-C-D","","","","","","",1130,1,1939,1939,59,59,8,8,100,0,2,2,0,0,0,0,15,15,61,61,100,"Gas central heating & Water, with hot water tank",0,0,1130,0,0,0
-"H-A-A-A-B-B-A","","","","","","",856,1,1979,1979,72,72,6,6,100,0,1,1,5,5,1,1,16,16,65,65,0,"Gas central heating & Water, with hot water tank",0,0,856,0,0,0
-"H-B-A-A-A-A-C","","","","","","",1425,2,1956,1986,60,66,5,7,100,0,1,2,5,5,1,2,8,15,33,59,0,"Gas central heating & Water, with hot water tank",0,697,0,728,0,0
-"A-A-A-A-A-A-W","","","","","","",511,1,1955,1955,45,45,11,11,0,0,3,3,9,9,2,2,22,22,89,89,100,"Gas central heating & Water, with hot water tank",0,0,0,0,511,0
-"A-D-A-A-A-D-A","","","","","","",1329,1,1951,1951,57,57,8,8,100,0,2,2,5,5,2,2,21,21,84,84,0,"Gas central heating & Water, with hot water tank",0,0,0,1329,0,0
-"C-A-A-C-A-D-C","","","","","","",414,1,1965,1965,51,51,11,11,100,0,2,2,3,3,1,1,50,50,99,99,100,"Gas central heating & Water, with hot water tank",0,0,414,0,0,0
-"A-C-C-A-A-D-E","","","","","","",5473,1,1849,1849,32,32,11,11,0,0,2,2,5,5,2,2,18,18,108,108,0,"Gas central heating & Water, with hot water tank",0,0,0,0,0,5473
-"I-C-A-C-B-A-H","","","","","","",601,1,1965,1965,66,66,8,8,100,0,2,2,5,5,2,2,44,44,44,44,0,"Gas central heating & Water, with hot water tank",0,601,0,0,0,0
-"I-B-B-A-A-A-A","","","","","","",4425,2,1938,1938,59,59,5,5,100,0,1,1,5,5,1,1,9,9,38,38,0,"Gas central heating & Water, with hot water tank",731,3694,0,0,0,0
-"I-B-B-C-B-C-G","","","","","","",1521,1,1930,1930,64,64,10,10,100,0,1,1,9,9,2,2,73,73,73,73,0,"Gas central heating & Water, with hot water tank",1521,0,0,0,0,0
-"A-C-A-C-B-A-G","","","","","","",841,1,2000,2000,71,71,7,7,100,0,4,4,9,9,2,2,55,55,109,109,0,"Gas central heating & Water, with hot water tank",0,841,0,0,0,0
-"F-A-B-A-A-B-B","","","","","","",9404,2,1928,1932,47,51,15,16,100,0,3,5,5,5,1,1,21,38,85,154,35.84,"Gas central heating & Water, with hot water tank",0,0,3370,0,0,6034
-"A-B-C-A-A-D-B","","","","","","",5219,2,1849,1849,40,43,8,14,100,0,2,2,5,5,2,2,23,24,139,145,0,"Gas central heating & Water, with hot water tank",0,2247,0,0,2972,0
-"H-C-A-A-A-D-F","","","","","","",1710,1,1983,1983,39,39,5,5,100,0,1,1,1,1,2,2,15,15,62,62,0,"Gas central heating & Water, with hot water tank",1710,0,0,0,0,0
-"B-C-B-B-A-C-A","","","","","","",2309,1,1920,1920,47,47,16,16,100,0,6,6,5,5,2,2,14,14,110,110,0,"Gas central heating & Water, with hot water tank",0,0,0,2309,0,0
-"A-B-B-B-B-A-B","","","","","","",2198,1,1866,1866,27,27,16,16,100,0,3,3,5,5,2,2,20,20,119,119,0,"Gas central heating & Water, with hot water tank",0,0,0,0,0,2198
-"C-A-C-A-B-D-A","","","","","","",2424,1,1849,1849,51,51,15,15,100,0,4,4,5,5,2,2,28,28,113,113,0,"Gas central heating & Water, with hot water tank",0,0,0,0,0,2424
-"B-A-B-B-B-B-A","","","","","","",3089,1,1909,1909,55,55,30,30,100,0,3,3,5,5,2,2,20,20,242,242,0,"Gas central heating & Water, with hot water tank",0,0,3089,0,0,0
-"C-A-B-A-A-A-E","","","","","","",299,1,1936,1936,44,44,6,6,100,0,2,2,5,5,2,2,14,14,56,56,0,"Gas central heating & Water, with hot water tank",0,0,299,0,0,0
-"A-C-A-A-A-C-L","","","","","","",2484,1,1952,1952,53,53,10,10,100,0,2,2,5,5,1,1,13,13,80,80,100,"Gas central heating & Water, with hot water tank",0,0,2484,0,0,0
-"C-B-B-A-A-D-L","","","","","","",3118,1,1915,1915,14,14,15,15,100,0,2,2,2,2,1,1,35,35,141,141,0,"Gas central heating & Water, with hot water tank",0,0,3118,0,0,0
-"H-A-B-A-B-A-C","","","","","","",1550,1,1926,1926,71,71,12,12,100,0,2,2,5,5,2,2,28,28,113,113,0,"Gas central heating & Water, with hot water tank",0,0,1550,0,0,0
-"B-B-C-B-A-B-E","","","","","","",1230,1,1849,1849,40,40,29,29,0,0,2,2,5,5,2,2,21,21,252,252,0,"Gas central heating & Water, with hot water tank",0,0,0,0,0,1230
-"A-B-B-B-A-A-D","","","","","","",7749,1,1905,1905,19,19,6,6,100,0,2,2,0,0,0,0,7,7,40,40,0,"Gas central heating & Water, with hot water tank",0,7749,0,0,0,0
-"C-B-B-B-B-A-L","","","","","","",2102,1,1897,1897,21,21,7,7,100,0,2,2,0,0,1,1,11,11,64,64,0,"Gas central heating & Water, with hot water tank",0,0,2102,0,0,0
-"C-B-B-C-A-A-A","","","","","","",3005,1,1864,1864,55,55,6,6,100,0,2,2,4,4,2,2,31,31,63,63,0,"Gas central heating & Water, with hot water tank",0,0,3005,0,0,0
-"B-A-A-C-A-B-B","","","","","","",3271,1,1972,1972,69,69,17,17,100,0,4,4,5,5,2,2,109,109,217,217,100,"Gas central heating & Water, with hot water tank",0,0,0,3271,0,0
-"G-A-A-C-A-A-D","","","","","","",1378,1,1974,1974,56,56,3,3,100,0,1,1,0,0,0,0,59,59,59,59,0,"Gas central heating & Water, with hot water tank",1378,0,0,0,0,0
-"A-B-C-B-A-B-C","","","","","","",3525,1,1849,1849,50,50,19,19,100,0,3,3,5,5,2,2,44,44,403,403,0,"Gas central heating & Water, with hot water tank",0,3525,0,0,0,0
-"C-D-B-A-A-B-C","","","","","","",2607,1,1875,1875,64,64,9,9,100,0,2,2,5,5,2,2,24,24,96,96,0,"Gas central heating & Water, with hot water tank",0,2607,0,0,0,0
-"A-C-B-A-A-A-D","","","","","","",2187,1,1922,1922,31,31,12,12,0,0,2,2,0,0,0,0,11,11,69,69,0,"Gas central heating & Water, with hot water tank",0,0,0,0,2187,0
-"B-A-C-B-A-B-E","","","","","","",4833,1,1849,1849,54,54,24,24,0,0,2,2,5,5,2,2,17,17,137,137,100,"Gas central heating & Water, with hot water tank",0,0,0,0,0,4833
-"F-B-B-A-A-D-B","","","","","","",485,1,1935,1935,58,58,4,4,100,0,2,2,5,5,2,2,11,11,45,45,100,"Gas central heating & Water, with hot water tank",0,0,485,0,0,0
-"H-B-C-A-A-D-G","","","","","","",617,1,1849,1849,40,40,8,8,100,0,1,1,0,0,2,2,11,11,44,44,0,"Gas central heating & Water, with hot water tank",0,617,0,0,0,0
-"A-B-C-A-A-C-D","","","","","","",1750,1,1849,1849,20,20,8,8,0,0,2,2,0,0,0,0,14,14,82,82,0,"Gas central heating & Water, with hot water tank",0,0,0,0,0,1750
-"H-A-A-C-A-B-K","","","","","","",5653,1,1977,1977,71,71,6,6,100,0,2,2,3,3,0,0,80,80,80,80,100,"Gas central heating & Water, with hot water tank",0,0,5653,0,0,0
-"C-A-B-A-A-B-F","","","","","","",6695,1,1934,1934,55,55,15,15,100,0,4,4,1,1,0,0,24,24,96,96,0,"Gas central heating & Water, with hot water tank",0,6695,0,0,0,0
-"B-B-C-B-B-D-B","","","","","","",2712,1,1849,1849,61,61,30,30,100,0,5,5,7,7,2,2,36,36,434,434,0,"Gas central heating & Water, with hot water tank",0,0,0,2712,0,0
-"C-A-B-B-A-C-A","","","","","","",3166,1,1902,1902,50,50,22,22,100,0,4,4,4,4,2,2,19,19,112,112,0,"Gas central heating & Water, with hot water tank",0,0,3166,0,0,0
-"B-B-B-A-A-A-L","","","","","","",5784,1,1940,1940,39,39,15,15,100,0,3,3,5,5,1,1,19,19,149,149,0,"Gas central heating & Water, with hot water tank",0,0,5784,0,0,0
-"A-B-A-A-A-A-E","","","","","","",1056,1,1956,1956,62,62,7,7,0,0,2,2,5,5,2,2,9,9,56,56,100,"Gas central heating & Water, with hot water tank",0,0,0,0,0,1056
-"G-B-B-C-A-D-D","","","","","","",2254,1,1894,1894,73,73,4,4,100,0,1,1,0,0,0,0,51,51,51,51,0,"Gas central heating & Water, with hot water tank",0,0,2254,0,0,0
-"G-B-A-C-B-A-B","","","","","","",4502,1,2005,2005,79,79,7,7,100,0,1,1,5,5,2,2,69,69,69,69,100,"Gas central heating & Water, with hot water tank",0,4502,0,0,0,0
-"H-B-A-A-A-D-G","","","","","","",1054,1,1985,1985,67,67,8,8,100,0,2,2,0,0,1,1,18,18,72,72,0,"Gas central heating & Water, with hot water tank",0,1054,0,0,0,0
-"H-B-B-A-A-B-B","","","","","","",750,1,1927,1927,64,64,18,18,100,0,2,2,5,5,2,2,29,29,115,115,0,"Gas central heating & Water, with hot water tank",750,0,0,0,0,0
-"G-A-A-A-A-B-A","","","","","","",6263,1,1952,1952,60,60,6,6,100,0,1,1,4,4,2,2,9,9,35,35,0,"Gas central heating & Water, with hot water tank",6263,0,0,0,0,0
-"C-B-A-A-A-D-B","","","","","","",673,1,1957,1957,61,61,6,6,100,0,2,2,5,5,2,2,19,19,74,74,0,"Gas central heating & Water, with hot water tank",0,673,0,0,0,0
-"H-B-B-C-B-C-G","","","","","","",6789,1,1939,1939,62,62,9,9,100,0,1,1,0,0,1,1,65,65,65,65,0,"Gas central heating & Water, with hot water tank",0,6789,0,0,0,0
-"H-A-B-A-A-D-A","","","","","","",1753,1,1943,1943,49,49,9,9,100,0,2,2,5,5,2,2,17,17,68,68,100,"Gas central heating & Water, with hot water tank",0,1753,0,0,0,0
-"C-C-A-C-B-B-B","","","","","","",664,1,1979,1979,70,70,8,8,100,0,3,3,5,5,1,1,38,38,113,113,0,"Gas central heating & Water, with hot water tank",0,0,664,0,0,0
-"I-A-A-C-A-A-K","","","","","","",366,1,1959,1959,34,34,4,4,100,0,2,2,9,9,0,0,68,68,68,68,0,"Gas central heating & Water, with hot water tank",0,366,0,0,0,0
-"F-B-A-A-A-B-B","","","","","","",669,1,1957,1957,56,56,9,9,100,0,2,2,5,5,2,2,15,15,59,59,0,"Gas central heating & Water, with hot water tank",0,0,0,669,0,0
-"G-A-C-C-A-D-F","","","","","","",1575,1,1849,1849,54,54,2,2,100,0,1,1,1,1,0,0,29,29,29,29,0,"Gas central heating & Water, with hot water tank",0,1575,0,0,0,0
-"G-A-B-C-B-A-A","","","","","","",1404,2,1922,1933,64,67,4,11,100,0,2,3,4,5,2,2,56,125,56,125,69.52,"Gas central heating & Water, with hot water tank",0,0,1404,0,0,0
-"H-A-B-A-A-B-B","","","","","","",3902,1,1929,1929,50,50,6,6,100,0,2,2,4,4,2,2,15,15,62,62,100,"Gas central heating & Water, with hot water tank",0,3902,0,0,0,0
-"F-C-A-C-B-A-A","","","","","","",1766,1,1979,1979,54,54,7,7,100,0,1,1,4,4,1,1,30,30,30,30,100,"Gas central heating & Water, with hot water tank",0,0,0,1766,0,0
-"A-A-A-B-B-A-K","","","","","","",2811,1,1979,1979,63,63,11,11,100,0,2,2,5,5,1,1,13,13,106,106,100,"Gas central heating & Water, with hot water tank",0,0,0,2811,0,0
-"A-A-C-A-A-B-E","","","","","","",2697,1,1849,1849,49,49,19,19,0,0,4,4,4,4,2,2,15,15,91,91,0,"Gas central heating & Water, with hot water tank",0,0,0,0,2697,0
-"C-B-B-B-A-B-D","","","","","","",2787,1,1875,1875,36,36,6,6,100,0,2,2,0,0,0,0,11,11,64,64,0,"Gas central heating & Water, with hot water tank",0,0,2787,0,0,0
-"C-B-B-C-A-B-A","","","","","","",1132,1,1874,1874,52,52,13,13,100,0,3,3,5,5,2,2,38,38,115,115,0,"Gas central heating & Water, with hot water tank",0,0,1132,0,0,0
-"H-D-A-C-A-A-D","","","","","","",378,1,1970,1970,66,66,10,10,100,0,2,2,0,0,0,0,69,69,69,69,0,"Gas central heating & Water, with hot water tank",0,0,378,0,0,0
-"I-C-A-A-A-A-D","","","","","","",1208,1,1965,1965,77,77,5,5,100,0,1,1,0,0,0,0,14,14,55,55,100,"Gas central heating & Water, with hot water tank",0,0,1208,0,0,0
-"B-B-B-A-B-A-B","","","","","","",1394,1,1904,1904,36,36,11,11,100,0,2,2,5,5,2,2,11,11,85,85,0,"Gas central heating & Water, with hot water tank",0,1394,0,0,0,0
-"C-B-C-A-A-D-B","","","","","","",1109,1,1849,1849,30,30,8,8,100,0,2,2,5,5,1,1,21,21,84,84,0,"Gas central heating & Water, with hot water tank",0,0,0,0,1109,0
-"A-B-C-B-B-D-B","","","","","","",1881,1,1849,1849,29,29,16,16,100,0,2,2,5,5,2,2,33,33,133,133,0,"Gas central heating & Water, with hot water tank",0,0,0,1881,0,0
-"A-B-B-A-A-C-D","","","","","","",5105,2,1869,1879,20,23,6,10,0,0,2,2,0,0,0,0,16,17,63,102,0,"Gas central heating & Water, with hot water tank",0,0,0,2540,2565,0
-"H-A-A-A-B-B-D","","","","","","",548,1,1948,1948,70,70,7,7,100,0,1,1,0,0,0,0,16,16,65,65,100,"Gas central heating & Water, with hot water tank",0,548,0,0,0,0
-"B-A-A-A-B-A-B","","","","","","",1715,1,2003,2003,73,73,17,17,100,0,8,8,5,5,2,2,20,20,162,162,100,"Gas central heating & Water, with hot water tank",0,0,0,1715,0,0
-"B-A-B-B-A-D-B","","","","","","",1217,1,1914,1914,46,46,31,31,100,0,6,6,5,5,2,2,14,14,164,164,0,"Gas central heating & Water, with hot water tank",1217,0,0,0,0,0
-"A-A-B-A-A-B-L","","","","","","",3907,1,1931,1931,36,36,14,14,0,0,2,2,5,5,1,1,13,13,78,78,0,"Gas central heating & Water, with hot water tank",0,0,0,0,3907,0
-"B-A-A-C-A-A-B","","","","","","",2027,1,1948,1948,68,68,21,21,100,0,3,3,5,5,2,2,75,75,150,150,100,"Gas central heating & Water, with hot water tank",0,0,2027,0,0,0
-"F-B-B-A-A-B-E","","","","","","",2413,1,1929,1929,43,43,17,17,0,0,2,2,5,5,2,2,27,27,106,106,0,"Gas central heating & Water, with hot water tank",0,0,0,2413,0,0
-"F-C-B-C-A-A-F","","","","","","",6309,1,1921,1921,6,6,10,10,0,0,2,2,1,1,0,0,69,69,69,69,100,"Gas central heating & Water, with hot water tank",0,0,0,6309,0,0
-"F-C-B-C-A-A-L","","","","","","",943,1,1929,1929,57,57,5,5,0,0,2,2,5,5,2,2,40,40,40,40,100,"Gas central heating & Water, with hot water tank",0,0,0,943,0,0
-"F-C-B-A-A-A-D","","","","","","",2807,1,1923,1923,44,44,17,17,0,0,1,1,0,0,0,0,7,7,29,29,100,"Gas central heating & Water, with hot water tank",0,0,0,2807,0,0
-"I-B-A-C-B-D-B","","","","","","",390,1,1973,1973,56,56,6,6,100,0,2,2,5,5,1,1,51,51,51,51,0,"Gas central heating & Water, with hot water tank",0,390,0,0,0,0
-"H-B-A-C-B-A-F","","","","","","",3475,1,1947,1947,29,29,4,4,100,0,3,3,0,0,0,0,67,67,67,67,0,"Gas central heating & Water, with hot water tank",0,3475,0,0,0,0
-"H-D-A-A-A-A-B","","","","","","",420,1,1962,1962,63,63,5,5,100,0,1,1,5,5,1,1,15,15,59,59,0,"Gas central heating & Water, with hot water tank",0,0,420,0,0,0
-"H-D-B-A-A-B-G","","","","","","",3608,1,1940,1940,63,63,10,10,100,0,1,1,0,0,1,1,22,22,86,86,0,"Gas central heating & Water, with hot water tank",0,3608,0,0,0,0
-"H-B-A-A-A-D-B","","","","","","",326,1,1949,1949,66,66,4,4,100,0,2,2,4,4,2,2,10,10,39,39,100,"Gas central heating & Water, with hot water tank",0,326,0,0,0,0
-"I-B-A-A-A-A-D","","","","","","",1581,1,2011,2011,84,84,3,3,100,0,1,1,0,0,0,0,17,17,69,69,100,"Gas central heating & Water, with hot water tank",0,1581,0,0,0,0
-"H-B-B-A-A-D-F","","","","","","",1962,1,1867,1867,5,5,8,8,100,0,2,2,0,0,1,1,17,17,66,66,0,"Gas central heating & Water, with hot water tank",1962,0,0,0,0,0
-"A-B-B-C-B-B-A","","","","","","",2228,1,1898,1898,40,40,13,13,100,0,5,5,5,5,2,2,70,70,140,140,0,"Gas central heating & Water, with hot water tank",0,2228,0,0,0,0
-"H-D-B-A-A-D-A","","","","","","",3062,1,1903,1903,59,59,15,15,100,0,1,1,4,4,2,2,27,27,110,110,0,"Gas central heating & Water, with hot water tank",3062,0,0,0,0,0
-"A-B-A-C-B-B-B","","","","","","",1781,1,1959,1959,57,57,11,11,100,0,2,2,5,5,2,2,55,55,165,165,0,"Gas central heating & Water, with hot water tank",0,0,1781,0,0,0
-"H-B-B-C-B-D-A","","","","","","",695,1,1922,1922,48,48,5,5,100,0,1,1,4,4,2,2,47,47,47,47,0,"Gas central heating & Water, with hot water tank",0,695,0,0,0,0
-"C-B-C-C-A-D-A","","","","","","",1271,1,1849,1849,33,33,14,14,100,0,2,2,0,0,0,0,45,45,135,135,0,"Gas central heating & Water, with hot water tank",0,1271,0,0,0,0
-"I-A-B-C-B-A-F","","","","","","",3829,1,1920,1920,48,48,3,3,100,0,1,1,1,1,0,0,37,37,37,37,0,"Gas central heating & Water, with hot water tank",0,3829,0,0,0,0
-"C-B-C-B-A-C-A","","","","","","",2347,1,1849,1849,64,64,5,5,100,0,1,1,5,5,2,2,8,8,49,49,0,"Gas central heating & Water, with hot water tank",0,0,0,0,2347,0
-"A-D-B-A-A-B-E","","","","","","",2074,1,1864,1864,46,46,15,15,0,0,4,4,5,5,1,1,18,18,111,111,0,"Gas central heating & Water, with hot water tank",0,0,0,2074,0,0
-"A-C-A-B-A-A-C","","","","","","",1435,1,1949,1949,44,44,12,12,100,0,3,3,3,3,2,2,14,14,132,132,0,"Gas central heating & Water, with hot water tank",0,0,0,1435,0,0
-"C-D-B-A-A-B-L","","","","","","",2832,1,1924,1924,27,27,8,8,0,0,2,2,0,0,1,1,19,19,75,75,0,"Gas central heating & Water, with hot water tank",0,0,0,2832,0,0
-"C-D-B-B-A-A-C","","","","","","",4381,1,1914,1914,36,36,9,9,100,0,2,2,4,4,2,2,16,16,95,95,0,"Gas central heating & Water, with hot water tank",0,0,4381,0,0,0
-"C-D-C-A-A-A-E","","","","","","",4455,1,1849,1849,44,44,5,5,0,0,2,2,4,4,2,2,19,19,77,77,0,"Gas central heating & Water, with hot water tank",0,0,0,0,4455,0
-"A-A-A-B-B-C-A","","","","","","",3352,1,1973,1973,64,64,11,11,100,0,3,3,5,5,1,1,15,15,60,60,100,"Gas central heating & Water, with hot water tank",0,0,3352,0,0,0
-"C-C-A-A-A-D-B","","","","","","",774,1,1967,1967,67,67,8,8,100,0,2,2,5,5,1,1,19,19,74,74,0,"Gas central heating & Water, with hot water tank",0,774,0,0,0,0
-"F-A-A-B-A-A-A","","","","","","",3886,1,1962,1962,74,74,17,17,100,0,3,3,5,5,2,2,57,57,229,229,100,"Gas central heating & Water, with hot water tank",0,0,0,3886,0,0
-"A-D-B-B-A-D-F","","","","","","",1710,1,1871,1871,1,1,9,9,100,0,1,1,0,0,0,0,6,6,55,55,0,"Gas central heating & Water, with hot water tank",0,1710,0,0,0,0
-"C-B-B-B-B-A-C","","","","","","",2259,1,1900,1900,61,61,7,7,100,0,2,2,5,5,1,1,10,10,60,60,0,"Gas central heating & Water, with hot water tank",0,0,0,0,0,2259
-"B-B-C-A-A-C-C","","","","","","",4419,1,1849,1849,27,27,11,11,100,0,2,2,5,5,1,1,13,13,104,104,0,"Gas central heating & Water, with hot water tank",0,0,0,0,4419,0
-"I-C-A-C-B-D-C","","","","","","",1497,1,1962,1962,51,51,9,9,100,0,2,2,4,4,2,2,59,59,59,59,100,"Gas central heating & Water, with hot water tank",0,0,1497,0,0,0
-"B-B-B-A-A-B-W","","","","","","",4517,1,1911,1911,23,23,13,13,0,0,2,2,2,2,1,1,14,14,109,109,0,"Gas central heating & Water, with hot water tank",0,0,0,0,0,4517
-"A-C-A-A-A-A-D","","","","","","",818,1,1962,1962,58,58,8,8,0,0,2,2,0,0,0,0,13,13,77,77,100,"Gas central heating & Water, with hot water tank",0,0,0,818,0,0
-"G-D-C-A-A-D-D","","","","","","",1857,1,1849,1849,22,22,7,7,100,0,1,1,0,0,0,0,21,21,82,82,0,"Gas central heating & Water, with hot water tank",1857,0,0,0,0,0
-"C-D-A-A-A-A-E","","","","","","",1032,1,2003,2003,67,67,10,10,100,0,2,2,2,2,2,2,24,24,98,98,0,"Gas central heating & Water, with hot water tank",0,0,1032,0,0,0
-"B-D-B-A-A-A-D","","","","","","",470,1,1917,1917,51,51,4,4,100,0,1,1,0,0,0,0,3,3,28,28,100,"Gas central heating & Water, with hot water tank",0,0,470,0,0,0
-"C-B-B-B-B-C-B","","","","","","",8134,1,1902,1902,69,69,22,22,100,0,2,2,5,5,2,2,11,11,130,130,0,"Gas central heating & Water, with hot water tank",0,0,8134,0,0,0
-"H-B-A-A-A-B-A","","","","","","",490,1,1955,1955,66,66,7,7,100,0,2,2,5,5,2,2,16,16,63,63,0,"Gas central heating & Water, with hot water tank",0,490,0,0,0,0
-"I-B-B-A-A-D-B","","","","","","",385,1,1913,1913,57,57,8,8,100,0,1,1,5,5,2,2,15,15,61,61,0,"Gas central heating & Water, with hot water tank",385,0,0,0,0,0
-"F-B-B-A-A-B-C","","","","","","",3330,1,1933,1933,38,38,9,9,100,0,2,2,3,3,1,1,26,26,104,104,0,"Gas central heating & Water, with hot water tank",0,3330,0,0,0,0
-"I-B-B-A-B-D-G","","","","","","",1255,1,1918,1918,69,69,7,7,100,0,1,1,0,0,1,1,17,17,68,68,0,"Gas central heating & Water, with hot water tank",0,1255,0,0,0,0
-"H-A-A-A-B-B-G","","","","","","",861,1,1978,1978,77,77,12,12,100,0,3,3,0,0,2,2,23,23,92,92,100,"Gas central heating & Water, with hot water tank",0,861,0,0,0,0
-"I-A-A-C-A-A-A","","","","","","",538,1,1955,1955,75,75,4,4,100,0,1,1,5,5,2,2,58,58,58,58,100,"Gas central heating & Water, with hot water tank",0,538,0,0,0,0
-"H-A-A-C-A-D-B","","","","","","",842,1,1969,1969,70,70,7,7,100,0,2,2,5,5,1,1,79,79,79,79,0,"Gas central heating & Water, with hot water tank",0,0,842,0,0,0
-"H-C-C-A-A-D-F","","","","","","",1947,1,1849,1849,1,1,9,9,0,0,2,2,3,3,0,0,23,23,92,92,0,"Gas central heating & Water, with hot water tank",0,0,0,0,1947,0
-"H-A-A-A-B-A-C","","","","","","",1341,1,1984,1984,76,76,5,5,100,0,1,1,5,5,1,1,12,12,48,48,0,"Gas central heating & Water, with hot water tank",1341,0,0,0,0,0
-"H-C-A-C-A-C-D","","","","","","",2248,1,1961,1961,82,82,4,4,100,0,1,1,0,0,0,0,41,41,41,41,0,"Gas central heating & Water, with hot water tank",2248,0,0,0,0,0
-"A-C-A-A-A-D-B","","","","","","",1406,1,1958,1958,47,47,8,8,100,0,2,2,5,5,1,1,13,13,79,79,0,"Gas central heating & Water, with hot water tank",0,0,1406,0,0,0
+"C-A-B-A-A-A-L","Mid terrace","Masonry Cavity","Suspended Timber Floor","Pitched no attic","Yes","Entire house",1138,1,1933,1933,60,60,8,8,0,0,2,2,5,5,1,1,17,17,67,67,100,"Other central heating e.g. coal / electric",0,0,0,1138,0,0
+"B-A-B-A-A-C-E","Detached","Masonry Cavity","Suspended Timber Floor","Pitched no attic","Yes","Less than half",6675,2,1872,1930,55,59,13,24,0,0,2,6,5,5,2,2,11,43,91,348,55.67,"Oil central heating",0,0,0,3716,0,2959
+"B-B-C-A-A-C-K","Detached","Soild Masonry","Historic","Pitched no attic","Yes","Less than half",2967,1,1849,1849,1,1,12,12,0,0,2,2,0,0,0,0,16,16,131,131,0,"Other heating e.g. Warm Air/ Electric Underfloor",0,0,0,0,0,2967
+"G-D-C-A-A-D-K","converted flat","Mixed","Historic","Pitched no attic","Yes","No double glazing",4237,1,1849,1849,34,34,7,7,100,0,2,2,0,0,0,0,19,19,75,75,0,"Other heating e.g. Warm Air/ Electric Underfloor",4237,0,0,0,0,0
+"A-B-B-A-A-B-K","Semi Detached/End Terrace","Soild Masonry","Suspended Timber Floor","Pitched no attic","Yes","More than half",3881,2,1921,1921,19,19,21,21,79,0,3,3,0,0,0,0,11,11,69,69,0,"Other heating e.g. Warm Air/ Electric Underfloor",0,0,3070,0,0,811
+"C-D-B-B-A-C-D","Mid terrace","Mixed","Suspended Timber Floor","Pitched with attic","Yes","Less than half",2064,1,1934,1934,27,27,13,13,0,0,2,2,0,0,0,0,15,15,91,91,0,"Storage Heaters",0,0,0,2064,0,0
+"F-D-C-A-A-D-W","Bungalow","Mixed","Historic","Pitched no attic","Yes","No double glazing",2408,1,1849,1849,29,29,8,8,0,0,2,2,0,0,1,1,17,17,69,69,0,"Wood fuelled central heating",0,0,0,0,0,2408
+"A-D-C-A-A-A-E","Semi Detached/End Terrace","Mixed","Historic","Pitched no attic","Yes","Entire house",3512,1,1849,1849,31,31,12,12,0,100,2,2,5,5,2,2,15,15,94,94,0,"Oil central heating",0,0,0,0,3512,0
+"H-A-A-C-A-C-A","Low rise flat","Masonry Cavity","Concrete Floors","Flat","Yes","Less than half",1095,2,1965,1971,61,74,3,7,100,0,1,2,5,5,2,2,47,73,47,73,67.12,"Gas central heating & Water, without Tank",0,0,1095,0,0,0
+"I-A-A-C-A-A-B","High rise flat","Masonry Cavity","Concrete Floors","Flat","Yes","Entire house",429,1,1968,1968,71,71,4,4,100,0,1,1,5,5,2,2,66,66,66,66,0,"Gas central heating & Water, with Immersion Heater",0,0,429,0,0,0
+"H-B-B-A-B-D-A","Low rise flat","Soild Masonry","Suspended Timber Floor","Pitched no attic","No","No double glazing",394,1,1876,1876,63,63,9,9,100,0,1,1,5,5,2,2,11,11,43,43,0,"Gas central heating & Water, without Tank",0,394,0,0,0,0
+"I-B-B-A-A-A-B","High rise flat","Soild Masonry","Suspended Timber Floor","Pitched no attic","Yes","Entire house",561,1,1942,1942,68,68,8,8,100,0,1,1,5,5,2,2,16,16,65,65,0,"Gas central heating & Water, with Immersion Heater",0,561,0,0,0,0
+"H-D-A-C-A-A-F","Low rise flat","Mixed","Concrete Floors","Flat","Yes","Entire house",1981,1,1958,1958,40,40,5,5,100,0,1,1,0,0,0,0,66,66,66,66,0,"Room Heaters",1981,0,0,0,0,0
+"C-A-A-A-A-B-G","Mid terrace","Masonry Cavity","Concrete Floors","Pitched no attic","Yes","More than half",552,1,1983,1983,70,70,6,6,100,0,3,3,9,9,2,2,21,21,84,84,0,"Communal Heating System",0,552,0,0,0,0
+"I-B-B-A-A-A-G","High rise flat","Soild Masonry","Suspended Timber Floor","Pitched no attic","Yes","Entire house",920,1,1863,1863,64,64,1,1,100,0,5,5,0,0,2,2,22,22,88,88,0,"Communal Heating System",0,920,0,0,0,0
+"C-D-C-A-A-D-A","Mid terrace","Mixed","Historic","Pitched no attic","Yes","No double glazing",2453,1,1849,1849,58,58,5,5,100,0,2,2,5,5,1,1,17,17,67,67,0,"Gas central heating & Water, without Tank",0,0,2453,0,0,0
+"H-A-A-A-A-C-C","Low rise flat","Masonry Cavity","Concrete Floors","Pitched no attic","Yes","Less than half",1619,1,1965,1965,54,54,6,6,100,0,1,1,5,5,2,2,19,19,74,74,0,"Gas central heating & Water, with hot water tank",0,0,1619,0,0,0
+"A-A-A-C-B-A-B","Semi Detached/End Terrace","Masonry Cavity","Concrete Floors","Flat","No","Entire house",1888,2,1972,1998,51,69,7,8,100,0,2,5,3,5,2,2,28,35,69,85,28.02,"Gas central heating & Water, with Immersion Heater",0,529,1359,0,0,0
+"A-B-B-A-A-A-W","Semi Detached/End Terrace","Soild Masonry","Suspended Timber Floor","Pitched no attic","Yes","Entire house",1813,1,1852,1852,34,34,13,13,0,0,2,2,1,1,1,1,14,14,55,55,0,"Wood fuelled central heating",0,0,0,0,1813,0
+"C-B-A-A-A-C-A","Mid terrace","Soild Masonry","Concrete Floors","Pitched no attic","Yes","Less than half",649,1,1952,1952,61,61,4,4,100,0,1,1,5,5,2,2,10,10,42,42,0,"Gas central heating & Water, without Tank",0,649,0,0,0,0
+"G-A-B-A-A-A-K","converted flat","Masonry Cavity","Suspended Timber Floor","Pitched no attic","Yes","Entire house",1272,1,1902,1902,12,12,6,6,100,0,2,2,0,0,0,0,23,23,93,93,0,"Other heating e.g. Warm Air/ Electric Underfloor",0,1272,0,0,0,0
+"C-A-A-A-B-A-A","Mid terrace","Masonry Cavity","Concrete Floors","Pitched no attic","No","Entire house",988,1,1953,1953,70,70,9,9,100,0,1,1,4,4,2,2,7,7,81,81,100,"Gas central heating & Water, without Tank",0,0,988,0,0,0
+"C-B-C-A-A-D-K","Mid terrace","Soild Masonry","Historic","Pitched no attic","Yes","No double glazing",5876,2,1849,1849,1,1,21,21,100,0,2,2,0,0,0,0,16,16,94,94,0,"Other heating e.g. Warm Air/ Electric Underfloor",1396,0,4480,0,0,0
+"G-B-C-A-A-C-B","converted flat","Soild Masonry","Historic","Pitched no attic","Yes","Less than half",2970,1,1849,1849,42,42,5,5,100,0,1,1,5,5,2,2,20,20,80,80,0,"Gas central heating & Water, with Immersion Heater",0,0,0,0,2970,0
+"A-C-A-A-A-A-L","Semi Detached/End Terrace","Concrete / Other","Concrete Floors","Pitched no attic","Yes","Entire house",2284,1,1958,1958,42,42,10,10,0,0,2,2,0,0,1,1,15,15,88,88,0,"Other central heating e.g. coal / electric",0,0,0,2284,0,0
+"G-B-C-A-A-B-K","converted flat","Soild Masonry","Historic","Pitched no attic","Yes","More than half",1511,1,1849,1849,1,1,16,16,100,0,1,1,0,0,0,0,57,57,226,226,0,"Other heating e.g. Warm Air/ Electric Underfloor",0,1511,0,0,0,0
+"C-B-C-A-A-A-F","Mid terrace","Soild Masonry","Historic","Pitched no attic","Yes","Entire house",6812,1,1849,1849,27,27,8,8,0,0,2,2,1,1,0,0,11,11,87,87,0,"Room Heaters",0,0,0,6812,0,0
+"A-A-B-A-A-C-W","Semi Detached/End Terrace","Masonry Cavity","Suspended Timber Floor","Pitched no attic","Yes","Less than half",1994,1,1921,1921,46,46,10,10,0,0,4,4,0,0,2,2,18,18,107,107,0,"Wood fuelled central heating",0,0,0,0,1994,0
+"B-A-A-B-A-C-E","Detached","Masonry Cavity","Concrete Floors","Pitched with attic","Yes","Less than half",4275,1,1948,1948,46,46,12,12,0,0,1,1,4,4,2,2,16,16,129,129,100,"Oil central heating",0,0,0,0,0,4275
+"G-A-B-A-A-C-D","converted flat","Masonry Cavity","Suspended Timber Floor","Pitched no attic","Yes","Less than half",1130,1,1939,1939,59,59,8,8,100,0,2,2,0,0,0,0,15,15,61,61,100,"Storage Heaters",0,0,1130,0,0,0
+"H-A-A-A-B-B-A","Low rise flat","Masonry Cavity","Concrete Floors","Pitched no attic","No","More than half",856,1,1979,1979,72,72,6,6,100,0,1,1,5,5,1,1,16,16,65,65,0,"Gas central heating & Water, without Tank",0,0,856,0,0,0
+"H-B-A-A-A-A-C","Low rise flat","Soild Masonry","Concrete Floors","Pitched no attic","Yes","Entire house",1425,2,1956,1986,60,66,5,7,100,0,1,2,5,5,1,2,8,15,33,59,0,"Gas central heating & Water, with hot water tank",0,697,0,728,0,0
+"A-A-A-A-A-A-W","Semi Detached/End Terrace","Masonry Cavity","Concrete Floors","Pitched no attic","Yes","Entire house",511,1,1955,1955,45,45,11,11,0,0,3,3,9,9,2,2,22,22,89,89,100,"Wood fuelled central heating",0,0,0,0,511,0
+"A-D-A-A-A-D-A","Semi Detached/End Terrace","Mixed","Concrete Floors","Pitched no attic","Yes","No double glazing",1329,1,1951,1951,57,57,8,8,100,0,2,2,5,5,2,2,21,21,84,84,0,"Gas central heating & Water, without Tank",0,0,0,1329,0,0
+"C-A-A-C-A-D-C","Mid terrace","Masonry Cavity","Concrete Floors","Flat","Yes","No double glazing",414,1,1965,1965,51,51,11,11,100,0,2,2,3,3,1,1,50,50,99,99,100,"Gas central heating & Water, with hot water tank",0,0,414,0,0,0
+"A-C-C-A-A-D-E","Semi Detached/End Terrace","Concrete / Other","Historic","Pitched no attic","Yes","No double glazing",5473,1,1849,1849,32,32,11,11,0,0,2,2,5,5,2,2,18,18,108,108,0,"Oil central heating",0,0,0,0,0,5473
+"I-C-A-C-B-A-H","High rise flat","Concrete / Other","Concrete Floors","Flat","No","Entire house",601,1,1965,1965,66,66,8,8,100,0,2,2,5,5,2,2,44,44,44,44,0,"Gas central heating with separate hot water system",0,601,0,0,0,0
+"I-B-B-A-A-A-A","High rise flat","Soild Masonry","Suspended Timber Floor","Pitched no attic","Yes","Entire house",4425,2,1938,1938,59,59,5,5,100,0,1,1,5,5,1,1,9,9,38,38,0,"Gas central heating & Water, without Tank",731,3694,0,0,0,0
+"I-B-B-C-B-C-G","High rise flat","Soild Masonry","Suspended Timber Floor","Flat","No","Less than half",1521,1,1930,1930,64,64,10,10,100,0,1,1,9,9,2,2,73,73,73,73,0,"Communal Heating System",1521,0,0,0,0,0
+"A-C-A-C-B-A-G","Semi Detached/End Terrace","Concrete / Other","Concrete Floors","Flat","No","Entire house",841,1,2000,2000,71,71,7,7,100,0,4,4,9,9,2,2,55,55,109,109,0,"Communal Heating System",0,841,0,0,0,0
+"F-A-B-A-A-B-B","Bungalow","Masonry Cavity","Suspended Timber Floor","Pitched no attic","Yes","More than half",9404,2,1928,1932,47,51,15,16,100,0,3,5,5,5,1,1,21,38,85,154,35.84,"Gas central heating & Water, with Immersion Heater",0,0,3370,0,0,6034
+"A-B-C-A-A-D-B","Semi Detached/End Terrace","Soild Masonry","Historic","Pitched no attic","Yes","No double glazing",5219,2,1849,1849,40,43,8,14,100,0,2,2,5,5,2,2,23,24,139,145,0,"Gas central heating & Water, with Immersion Heater",0,2247,0,0,2972,0
+"H-C-A-A-A-D-F","Low rise flat","Concrete / Other","Concrete Floors","Pitched no attic","Yes","No double glazing",1710,1,1983,1983,39,39,5,5,100,0,1,1,1,1,2,2,15,15,62,62,0,"Room Heaters",1710,0,0,0,0,0
+"B-C-B-B-A-C-A","Detached","Concrete / Other","Suspended Timber Floor","Pitched with attic","Yes","Less than half",2309,1,1920,1920,47,47,16,16,100,0,6,6,5,5,2,2,14,14,110,110,0,"Gas central heating & Water, without Tank",0,0,0,2309,0,0
+"A-B-B-B-B-A-B","Semi Detached/End Terrace","Soild Masonry","Suspended Timber Floor","Pitched with attic","No","Entire house",2198,1,1866,1866,27,27,16,16,100,0,3,3,5,5,2,2,20,20,119,119,0,"Gas central heating & Water, with Immersion Heater",0,0,0,0,0,2198
+"C-A-C-A-B-D-A","Mid terrace","Masonry Cavity","Historic","Pitched no attic","No","No double glazing",2424,1,1849,1849,51,51,15,15,100,0,4,4,5,5,2,2,28,28,113,113,0,"Gas central heating & Water, without Tank",0,0,0,0,0,2424
+"B-A-B-B-B-B-A","Detached","Masonry Cavity","Suspended Timber Floor","Pitched with attic","No","More than half",3089,1,1909,1909,55,55,30,30,100,0,3,3,5,5,2,2,20,20,242,242,0,"Gas central heating & Water, without Tank",0,0,3089,0,0,0
+"C-A-B-A-A-A-E","Mid terrace","Masonry Cavity","Suspended Timber Floor","Pitched no attic","Yes","Entire house",299,1,1936,1936,44,44,6,6,100,0,2,2,5,5,2,2,14,14,56,56,0,"Oil central heating",0,0,299,0,0,0
+"A-C-A-A-A-C-L","Semi Detached/End Terrace","Concrete / Other","Concrete Floors","Pitched no attic","Yes","Less than half",2484,1,1952,1952,53,53,10,10,100,0,2,2,5,5,1,1,13,13,80,80,100,"Other central heating e.g. coal / electric",0,0,2484,0,0,0
+"C-B-B-A-A-D-L","Mid terrace","Soild Masonry","Suspended Timber Floor","Pitched no attic","Yes","No double glazing",3118,1,1915,1915,14,14,15,15,100,0,2,2,2,2,1,1,35,35,141,141,0,"Other central heating e.g. coal / electric",0,0,3118,0,0,0
+"H-A-B-A-B-A-C","Low rise flat","Masonry Cavity","Suspended Timber Floor","Pitched no attic","No","Entire house",1550,1,1926,1926,71,71,12,12,100,0,2,2,5,5,2,2,28,28,113,113,0,"Gas central heating & Water, with hot water tank",0,0,1550,0,0,0
+"B-B-C-B-A-B-E","Detached","Soild Masonry","Historic","Pitched with attic","Yes","More than half",1230,1,1849,1849,40,40,29,29,0,0,2,2,5,5,2,2,21,21,252,252,0,"Oil central heating",0,0,0,0,0,1230
+"A-B-B-B-A-A-D","Semi Detached/End Terrace","Soild Masonry","Suspended Timber Floor","Pitched with attic","Yes","Entire house",7749,1,1905,1905,19,19,6,6,100,0,2,2,0,0,0,0,7,7,40,40,0,"Storage Heaters",0,7749,0,0,0,0
+"C-B-B-B-B-A-L","Mid terrace","Soild Masonry","Suspended Timber Floor","Pitched with attic","No","Entire house",2102,1,1897,1897,21,21,7,7,100,0,2,2,0,0,1,1,11,11,64,64,0,"Other central heating e.g. coal / electric",0,0,2102,0,0,0
+"C-B-B-C-A-A-A","Mid terrace","Soild Masonry","Suspended Timber Floor","Flat","Yes","Entire house",3005,1,1864,1864,55,55,6,6,100,0,2,2,4,4,2,2,31,31,63,63,0,"Gas central heating & Water, without Tank",0,0,3005,0,0,0
+"B-A-A-C-A-B-B","Detached","Masonry Cavity","Concrete Floors","Flat","Yes","More than half",3271,1,1972,1972,69,69,17,17,100,0,4,4,5,5,2,2,109,109,217,217,100,"Gas central heating & Water, with Immersion Heater",0,0,0,3271,0,0
+"G-A-A-C-A-A-D","converted flat","Masonry Cavity","Concrete Floors","Flat","Yes","Entire house",1378,1,1974,1974,56,56,3,3,100,0,1,1,0,0,0,0,59,59,59,59,0,"Storage Heaters",1378,0,0,0,0,0
+"A-B-C-B-A-B-C","Semi Detached/End Terrace","Soild Masonry","Historic","Pitched with attic","Yes","More than half",3525,1,1849,1849,50,50,19,19,100,0,3,3,5,5,2,2,44,44,403,403,0,"Gas central heating & Water, with hot water tank",0,3525,0,0,0,0
+"C-D-B-A-A-B-C","Mid terrace","Mixed","Suspended Timber Floor","Pitched no attic","Yes","More than half",2607,1,1875,1875,64,64,9,9,100,0,2,2,5,5,2,2,24,24,96,96,0,"Gas central heating & Water, with hot water tank",0,2607,0,0,0,0
+"A-C-B-A-A-A-D","Semi Detached/End Terrace","Concrete / Other","Suspended Timber Floor","Pitched no attic","Yes","Entire house",2187,1,1922,1922,31,31,12,12,0,0,2,2,0,0,0,0,11,11,69,69,0,"Storage Heaters",0,0,0,0,2187,0
+"B-A-C-B-A-B-E","Detached","Masonry Cavity","Historic","Pitched with attic","Yes","More than half",4833,1,1849,1849,54,54,24,24,0,0,2,2,5,5,2,2,17,17,137,137,100,"Oil central heating",0,0,0,0,0,4833
+"F-B-B-A-A-D-B","Bungalow","Soild Masonry","Suspended Timber Floor","Pitched no attic","Yes","No double glazing",485,1,1935,1935,58,58,4,4,100,0,2,2,5,5,2,2,11,11,45,45,100,"Gas central heating & Water, with Immersion Heater",0,0,485,0,0,0
+"H-B-C-A-A-D-G","Low rise flat","Soild Masonry","Historic","Pitched no attic","Yes","No double glazing",617,1,1849,1849,40,40,8,8,100,0,1,1,0,0,2,2,11,11,44,44,0,"Communal Heating System",0,617,0,0,0,0
+"A-B-C-A-A-C-D","Semi Detached/End Terrace","Soild Masonry","Historic","Pitched no attic","Yes","Less than half",1750,1,1849,1849,20,20,8,8,0,0,2,2,0,0,0,0,14,14,82,82,0,"Storage Heaters",0,0,0,0,0,1750
+"H-A-A-C-A-B-K","Low rise flat","Masonry Cavity","Concrete Floors","Flat","Yes","More than half",5653,1,1977,1977,71,71,6,6,100,0,2,2,3,3,0,0,80,80,80,80,100,"Other heating e.g. Warm Air/ Electric Underfloor",0,0,5653,0,0,0
+"C-A-B-A-A-B-F","Mid terrace","Masonry Cavity","Suspended Timber Floor","Pitched no attic","Yes","More than half",6695,1,1934,1934,55,55,15,15,100,0,4,4,1,1,0,0,24,24,96,96,0,"Room Heaters",0,6695,0,0,0,0
+"B-B-C-B-B-D-B","Detached","Soild Masonry","Historic","Pitched with attic","No","No double glazing",2712,1,1849,1849,61,61,30,30,100,0,5,5,7,7,2,2,36,36,434,434,0,"Gas central heating & Water, with Immersion Heater",0,0,0,2712,0,0
+"C-A-B-B-A-C-A","Mid terrace","Masonry Cavity","Suspended Timber Floor","Pitched with attic","Yes","Less than half",3166,1,1902,1902,50,50,22,22,100,0,4,4,4,4,2,2,19,19,112,112,0,"Gas central heating & Water, without Tank",0,0,3166,0,0,0
+"B-B-B-A-A-A-L","Detached","Soild Masonry","Suspended Timber Floor","Pitched no attic","Yes","Entire house",5784,1,1940,1940,39,39,15,15,100,0,3,3,5,5,1,1,19,19,149,149,0,"Other central heating e.g. coal / electric",0,0,5784,0,0,0
+"A-B-A-A-A-A-E","Semi Detached/End Terrace","Soild Masonry","Concrete Floors","Pitched no attic","Yes","Entire house",1056,1,1956,1956,62,62,7,7,0,0,2,2,5,5,2,2,9,9,56,56,100,"Oil central heating",0,0,0,0,0,1056
+"G-B-B-C-A-D-D","converted flat","Soild Masonry","Suspended Timber Floor","Flat","Yes","No double glazing",2254,1,1894,1894,73,73,4,4,100,0,1,1,0,0,0,0,51,51,51,51,0,"Storage Heaters",0,0,2254,0,0,0
+"G-B-A-C-B-A-B","converted flat","Soild Masonry","Concrete Floors","Flat","No","Entire house",4502,1,2005,2005,79,79,7,7,100,0,1,1,5,5,2,2,69,69,69,69,100,"Gas central heating & Water, with Immersion Heater",0,4502,0,0,0,0
+"H-B-A-A-A-D-G","Low rise flat","Soild Masonry","Concrete Floors","Pitched no attic","Yes","No double glazing",1054,1,1985,1985,67,67,8,8,100,0,2,2,0,0,1,1,18,18,72,72,0,"Communal Heating System",0,1054,0,0,0,0
+"H-B-B-A-A-B-B","Low rise flat","Soild Masonry","Suspended Timber Floor","Pitched no attic","Yes","More than half",750,1,1927,1927,64,64,18,18,100,0,2,2,5,5,2,2,29,29,115,115,0,"Gas central heating & Water, with Immersion Heater",750,0,0,0,0,0
+"G-A-A-A-A-B-A","converted flat","Masonry Cavity","Concrete Floors","Pitched no attic","Yes","More than half",6263,1,1952,1952,60,60,6,6,100,0,1,1,4,4,2,2,9,9,35,35,0,"Gas central heating & Water, without Tank",6263,0,0,0,0,0
+"C-B-A-A-A-D-B","Mid terrace","Soild Masonry","Concrete Floors","Pitched no attic","Yes","No double glazing",673,1,1957,1957,61,61,6,6,100,0,2,2,5,5,2,2,19,19,74,74,0,"Gas central heating & Water, with Immersion Heater",0,673,0,0,0,0
+"H-B-B-C-B-C-G","Low rise flat","Soild Masonry","Suspended Timber Floor","Flat","No","Less than half",6789,1,1939,1939,62,62,9,9,100,0,1,1,0,0,1,1,65,65,65,65,0,"Communal Heating System",0,6789,0,0,0,0
+"H-A-B-A-A-D-A","Low rise flat","Masonry Cavity","Suspended Timber Floor","Pitched no attic","Yes","No double glazing",1753,1,1943,1943,49,49,9,9,100,0,2,2,5,5,2,2,17,17,68,68,100,"Gas central heating & Water, without Tank",0,1753,0,0,0,0
+"C-C-A-C-B-B-B","Mid terrace","Concrete / Other","Concrete Floors","Flat","No","More than half",664,1,1979,1979,70,70,8,8,100,0,3,3,5,5,1,1,38,38,113,113,0,"Gas central heating & Water, with Immersion Heater",0,0,664,0,0,0
+"I-A-A-C-A-A-K","High rise flat","Masonry Cavity","Concrete Floors","Flat","Yes","Entire house",366,1,1959,1959,34,34,4,4,100,0,2,2,9,9,0,0,68,68,68,68,0,"Other heating e.g. Warm Air/ Electric Underfloor",0,366,0,0,0,0
+"F-B-A-A-A-B-B","Bungalow","Soild Masonry","Concrete Floors","Pitched no attic","Yes","More than half",669,1,1957,1957,56,56,9,9,100,0,2,2,5,5,2,2,15,15,59,59,0,"Gas central heating & Water, with Immersion Heater",0,0,0,669,0,0
+"G-A-C-C-A-D-F","converted flat","Masonry Cavity","Historic","Flat","Yes","No double glazing",1575,1,1849,1849,54,54,2,2,100,0,1,1,1,1,0,0,29,29,29,29,0,"Room Heaters",0,1575,0,0,0,0
+"G-A-B-C-B-A-A","converted flat","Masonry Cavity","Suspended Timber Floor","Flat","No","Entire house",1404,2,1922,1933,64,67,4,11,100,0,2,3,4,5,2,2,56,125,56,125,69.52,"Gas central heating & Water, without Tank",0,0,1404,0,0,0
+"H-A-B-A-A-B-B","Low rise flat","Masonry Cavity","Suspended Timber Floor","Pitched no attic","Yes","More than half",3902,1,1929,1929,50,50,6,6,100,0,2,2,4,4,2,2,15,15,62,62,100,"Gas central heating & Water, with Immersion Heater",0,3902,0,0,0,0
+"F-C-A-C-B-A-A","Bungalow","Concrete / Other","Concrete Floors","Flat","No","Entire house",1766,1,1979,1979,54,54,7,7,100,0,1,1,4,4,1,1,30,30,30,30,100,"Gas central heating & Water, without Tank",0,0,0,1766,0,0
+"A-A-A-B-B-A-K","Semi Detached/End Terrace","Masonry Cavity","Concrete Floors","Pitched with attic","No","Entire house",2811,1,1979,1979,63,63,11,11,100,0,2,2,5,5,1,1,13,13,106,106,100,"Other heating e.g. Warm Air/ Electric Underfloor",0,0,0,2811,0,0
+"A-A-C-A-A-B-E","Semi Detached/End Terrace","Masonry Cavity","Historic","Pitched no attic","Yes","More than half",2697,1,1849,1849,49,49,19,19,0,0,4,4,4,4,2,2,15,15,91,91,0,"Oil central heating",0,0,0,0,2697,0
+"C-B-B-B-A-B-D","Mid terrace","Soild Masonry","Suspended Timber Floor","Pitched with attic","Yes","More than half",2787,1,1875,1875,36,36,6,6,100,0,2,2,0,0,0,0,11,11,64,64,0,"Storage Heaters",0,0,2787,0,0,0
+"C-B-B-C-A-B-A","Mid terrace","Soild Masonry","Suspended Timber Floor","Flat","Yes","More than half",1132,1,1874,1874,52,52,13,13,100,0,3,3,5,5,2,2,38,38,115,115,0,"Gas central heating & Water, without Tank",0,0,1132,0,0,0
+"H-D-A-C-A-A-D","Low rise flat","Mixed","Concrete Floors","Flat","Yes","Entire house",378,1,1970,1970,66,66,10,10,100,0,2,2,0,0,0,0,69,69,69,69,0,"Storage Heaters",0,0,378,0,0,0
+"I-C-A-A-A-A-D","High rise flat","Concrete / Other","Concrete Floors","Pitched no attic","Yes","Entire house",1208,1,1965,1965,77,77,5,5,100,0,1,1,0,0,0,0,14,14,55,55,100,"Storage Heaters",0,0,1208,0,0,0
+"B-B-B-A-B-A-B","Detached","Soild Masonry","Suspended Timber Floor","Pitched no attic","No","Entire house",1394,1,1904,1904,36,36,11,11,100,0,2,2,5,5,2,2,11,11,85,85,0,"Gas central heating & Water, with Immersion Heater",0,1394,0,0,0,0
+"C-B-C-A-A-D-B","Mid terrace","Soild Masonry","Historic","Pitched no attic","Yes","No double glazing",1109,1,1849,1849,30,30,8,8,100,0,2,2,5,5,1,1,21,21,84,84,0,"Gas central heating & Water, with Immersion Heater",0,0,0,0,1109,0
+"A-B-C-B-B-D-B","Semi Detached/End Terrace","Soild Masonry","Historic","Pitched with attic","No","No double glazing",1881,1,1849,1849,29,29,16,16,100,0,2,2,5,5,2,2,33,33,133,133,0,"Gas central heating & Water, with Immersion Heater",0,0,0,1881,0,0
+"A-B-B-A-A-C-D","Semi Detached/End Terrace","Soild Masonry","Suspended Timber Floor","Pitched no attic","Yes","Less than half",5105,2,1869,1879,20,23,6,10,0,0,2,2,0,0,0,0,16,17,63,102,0,"Storage Heaters",0,0,0,2540,2565,0
+"H-A-A-A-B-B-D","Low rise flat","Masonry Cavity","Concrete Floors","Pitched no attic","No","More than half",548,1,1948,1948,70,70,7,7,100,0,1,1,0,0,0,0,16,16,65,65,100,"Storage Heaters",0,548,0,0,0,0
+"B-A-A-A-B-A-B","Detached","Masonry Cavity","Concrete Floors","Pitched no attic","No","Entire house",1715,1,2003,2003,73,73,17,17,100,0,8,8,5,5,2,2,20,20,162,162,100,"Gas central heating & Water, with Immersion Heater",0,0,0,1715,0,0
+"B-A-B-B-A-D-B","Detached","Masonry Cavity","Suspended Timber Floor","Pitched with attic","Yes","No double glazing",1217,1,1914,1914,46,46,31,31,100,0,6,6,5,5,2,2,14,14,164,164,0,"Gas central heating & Water, with Immersion Heater",1217,0,0,0,0,0
+"A-A-B-A-A-B-L","Semi Detached/End Terrace","Masonry Cavity","Suspended Timber Floor","Pitched no attic","Yes","More than half",3907,1,1931,1931,36,36,14,14,0,0,2,2,5,5,1,1,13,13,78,78,0,"Other central heating e.g. coal / electric",0,0,0,0,3907,0
+"B-A-A-C-A-A-B","Detached","Masonry Cavity","Concrete Floors","Flat","Yes","Entire house",2027,1,1948,1948,68,68,21,21,100,0,3,3,5,5,2,2,75,75,150,150,100,"Gas central heating & Water, with Immersion Heater",0,0,2027,0,0,0
+"F-B-B-A-A-B-E","Bungalow","Soild Masonry","Suspended Timber Floor","Pitched no attic","Yes","More than half",2413,1,1929,1929,43,43,17,17,0,0,2,2,5,5,2,2,27,27,106,106,0,"Oil central heating",0,0,0,2413,0,0
+"F-C-B-C-A-A-F","Bungalow","Concrete / Other","Suspended Timber Floor","Flat","Yes","Entire house",6309,1,1921,1921,6,6,10,10,0,0,2,2,1,1,0,0,69,69,69,69,100,"Room Heaters",0,0,0,6309,0,0
+"F-C-B-C-A-A-L","Bungalow","Concrete / Other","Suspended Timber Floor","Flat","Yes","Entire house",943,1,1929,1929,57,57,5,5,0,0,2,2,5,5,2,2,40,40,40,40,100,"Other central heating e.g. coal / electric",0,0,0,943,0,0
+"F-C-B-A-A-A-D","Bungalow","Concrete / Other","Suspended Timber Floor","Pitched no attic","Yes","Entire house",2807,1,1923,1923,44,44,17,17,0,0,1,1,0,0,0,0,7,7,29,29,100,"Storage Heaters",0,0,0,2807,0,0
+"I-B-A-C-B-D-B","High rise flat","Soild Masonry","Concrete Floors","Flat","No","No double glazing",390,1,1973,1973,56,56,6,6,100,0,2,2,5,5,1,1,51,51,51,51,0,"Gas central heating & Water, with Immersion Heater",0,390,0,0,0,0
+"H-B-A-C-B-A-F","Low rise flat","Soild Masonry","Concrete Floors","Flat","No","Entire house",3475,1,1947,1947,29,29,4,4,100,0,3,3,0,0,0,0,67,67,67,67,0,"Room Heaters",0,3475,0,0,0,0
+"H-D-A-A-A-A-B","Low rise flat","Mixed","Concrete Floors","Pitched no attic","Yes","Entire house",420,1,1962,1962,63,63,5,5,100,0,1,1,5,5,1,1,15,15,59,59,0,"Gas central heating & Water, with Immersion Heater",0,0,420,0,0,0
+"H-D-B-A-A-B-G","Low rise flat","Mixed","Suspended Timber Floor","Pitched no attic","Yes","More than half",3608,1,1940,1940,63,63,10,10,100,0,1,1,0,0,1,1,22,22,86,86,0,"Communal Heating System",0,3608,0,0,0,0
+"H-B-A-A-A-D-B","Low rise flat","Soild Masonry","Concrete Floors","Pitched no attic","Yes","No double glazing",326,1,1949,1949,66,66,4,4,100,0,2,2,4,4,2,2,10,10,39,39,100,"Gas central heating & Water, with Immersion Heater",0,326,0,0,0,0
+"I-B-A-A-A-A-D","High rise flat","Soild Masonry","Concrete Floors","Pitched no attic","Yes","Entire house",1581,1,2011,2011,84,84,3,3,100,0,1,1,0,0,0,0,17,17,69,69,100,"Storage Heaters",0,1581,0,0,0,0
+"H-B-B-A-A-D-F","Low rise flat","Soild Masonry","Suspended Timber Floor","Pitched no attic","Yes","No double glazing",1962,1,1867,1867,5,5,8,8,100,0,2,2,0,0,1,1,17,17,66,66,0,"Room Heaters",1962,0,0,0,0,0
+"A-B-B-C-B-B-A","Semi Detached/End Terrace","Soild Masonry","Suspended Timber Floor","Flat","No","More than half",2228,1,1898,1898,40,40,13,13,100,0,5,5,5,5,2,2,70,70,140,140,0,"Gas central heating & Water, without Tank",0,2228,0,0,0,0
+"H-D-B-A-A-D-A","Low rise flat","Mixed","Suspended Timber Floor","Pitched no attic","Yes","No double glazing",3062,1,1903,1903,59,59,15,15,100,0,1,1,4,4,2,2,27,27,110,110,0,"Gas central heating & Water, without Tank",3062,0,0,0,0,0
+"A-B-A-C-B-B-B","Semi Detached/End Terrace","Soild Masonry","Concrete Floors","Flat","No","More than half",1781,1,1959,1959,57,57,11,11,100,0,2,2,5,5,2,2,55,55,165,165,0,"Gas central heating & Water, with Immersion Heater",0,0,1781,0,0,0
+"H-B-B-C-B-D-A","Low rise flat","Soild Masonry","Suspended Timber Floor","Flat","No","No double glazing",695,1,1922,1922,48,48,5,5,100,0,1,1,4,4,2,2,47,47,47,47,0,"Gas central heating & Water, without Tank",0,695,0,0,0,0
+"C-B-C-C-A-D-A","Mid terrace","Soild Masonry","Historic","Flat","Yes","No double glazing",1271,1,1849,1849,33,33,14,14,100,0,2,2,0,0,0,0,45,45,135,135,0,"Gas central heating & Water, without Tank",0,1271,0,0,0,0
+"I-A-B-C-B-A-F","High rise flat","Masonry Cavity","Suspended Timber Floor","Flat","No","Entire house",3829,1,1920,1920,48,48,3,3,100,0,1,1,1,1,0,0,37,37,37,37,0,"Room Heaters",0,3829,0,0,0,0
+"C-B-C-B-A-C-A","Mid terrace","Soild Masonry","Historic","Pitched with attic","Yes","Less than half",2347,1,1849,1849,64,64,5,5,100,0,1,1,5,5,2,2,8,8,49,49,0,"Gas central heating & Water, without Tank",0,0,0,0,2347,0
+"A-D-B-A-A-B-E","Semi Detached/End Terrace","Mixed","Suspended Timber Floor","Pitched no attic","Yes","More than half",2074,1,1864,1864,46,46,15,15,0,0,4,4,5,5,1,1,18,18,111,111,0,"Oil central heating",0,0,0,2074,0,0
+"A-C-A-B-A-A-C","Semi Detached/End Terrace","Concrete / Other","Concrete Floors","Pitched with attic","Yes","Entire house",1435,1,1949,1949,44,44,12,12,100,0,3,3,3,3,2,2,14,14,132,132,0,"Gas central heating & Water, with hot water tank",0,0,0,1435,0,0
+"C-D-B-A-A-B-L","Mid terrace","Mixed","Suspended Timber Floor","Pitched no attic","Yes","More than half",2832,1,1924,1924,27,27,8,8,0,0,2,2,0,0,1,1,19,19,75,75,0,"Other central heating e.g. coal / electric",0,0,0,2832,0,0
+"C-D-B-B-A-A-C","Mid terrace","Mixed","Suspended Timber Floor","Pitched with attic","Yes","Entire house",4381,1,1914,1914,36,36,9,9,100,0,2,2,4,4,2,2,16,16,95,95,0,"Gas central heating & Water, with hot water tank",0,0,4381,0,0,0
+"C-D-C-A-A-A-E","Mid terrace","Mixed","Historic","Pitched no attic","Yes","Entire house",4455,1,1849,1849,44,44,5,5,0,0,2,2,4,4,2,2,19,19,77,77,0,"Oil central heating",0,0,0,0,4455,0
+"A-A-A-B-B-C-A","Semi Detached/End Terrace","Masonry Cavity","Concrete Floors","Pitched with attic","No","Less than half",3352,1,1973,1973,64,64,11,11,100,0,3,3,5,5,1,1,15,15,60,60,100,"Gas central heating & Water, without Tank",0,0,3352,0,0,0
+"C-C-A-A-A-D-B","Mid terrace","Concrete / Other","Concrete Floors","Pitched no attic","Yes","No double glazing",774,1,1967,1967,67,67,8,8,100,0,2,2,5,5,1,1,19,19,74,74,0,"Gas central heating & Water, with Immersion Heater",0,774,0,0,0,0
+"F-A-A-B-A-A-A","Bungalow","Masonry Cavity","Concrete Floors","Pitched with attic","Yes","Entire house",3886,1,1962,1962,74,74,17,17,100,0,3,3,5,5,2,2,57,57,229,229,100,"Gas central heating & Water, without Tank",0,0,0,3886,0,0
+"A-D-B-B-A-D-F","Semi Detached/End Terrace","Mixed","Suspended Timber Floor","Pitched with attic","Yes","No double glazing",1710,1,1871,1871,1,1,9,9,100,0,1,1,0,0,0,0,6,6,55,55,0,"Room Heaters",0,1710,0,0,0,0
+"C-B-B-B-B-A-C","Mid terrace","Soild Masonry","Suspended Timber Floor","Pitched with attic","No","Entire house",2259,1,1900,1900,61,61,7,7,100,0,2,2,5,5,1,1,10,10,60,60,0,"Gas central heating & Water, with hot water tank",0,0,0,0,0,2259
+"B-B-C-A-A-C-C","Detached","Soild Masonry","Historic","Pitched no attic","Yes","Less than half",4419,1,1849,1849,27,27,11,11,100,0,2,2,5,5,1,1,13,13,104,104,0,"Gas central heating & Water, with hot water tank",0,0,0,0,4419,0
+"I-C-A-C-B-D-C","High rise flat","Concrete / Other","Concrete Floors","Flat","No","No double glazing",1497,1,1962,1962,51,51,9,9,100,0,2,2,4,4,2,2,59,59,59,59,100,"Gas central heating & Water, with hot water tank",0,0,1497,0,0,0
+"B-B-B-A-A-B-W","Detached","Soild Masonry","Suspended Timber Floor","Pitched no attic","Yes","More than half",4517,1,1911,1911,23,23,13,13,0,0,2,2,2,2,1,1,14,14,109,109,0,"Wood fuelled central heating",0,0,0,0,0,4517
+"A-C-A-A-A-A-D","Semi Detached/End Terrace","Concrete / Other","Concrete Floors","Pitched no attic","Yes","Entire house",818,1,1962,1962,58,58,8,8,0,0,2,2,0,0,0,0,13,13,77,77,100,"Storage Heaters",0,0,0,818,0,0
+"G-D-C-A-A-D-D","converted flat","Mixed","Historic","Pitched no attic","Yes","No double glazing",1857,1,1849,1849,22,22,7,7,100,0,1,1,0,0,0,0,21,21,82,82,0,"Storage Heaters",1857,0,0,0,0,0
+"C-D-A-A-A-A-E","Mid terrace","Mixed","Concrete Floors","Pitched no attic","Yes","Entire house",1032,1,2003,2003,67,67,10,10,100,0,2,2,2,2,2,2,24,24,98,98,0,"Oil central heating",0,0,1032,0,0,0
+"B-D-B-A-A-A-D","Detached","Mixed","Suspended Timber Floor","Pitched no attic","Yes","Entire house",470,1,1917,1917,51,51,4,4,100,0,1,1,0,0,0,0,3,3,28,28,100,"Storage Heaters",0,0,470,0,0,0
+"C-B-B-B-B-C-B","Mid terrace","Soild Masonry","Suspended Timber Floor","Pitched with attic","No","Less than half",8134,1,1902,1902,69,69,22,22,100,0,2,2,5,5,2,2,11,11,130,130,0,"Gas central heating & Water, with Immersion Heater",0,0,8134,0,0,0
+"H-B-A-A-A-B-A","Low rise flat","Soild Masonry","Concrete Floors","Pitched no attic","Yes","More than half",490,1,1955,1955,66,66,7,7,100,0,2,2,5,5,2,2,16,16,63,63,0,"Gas central heating & Water, without Tank",0,490,0,0,0,0
+"I-B-B-A-A-D-B","High rise flat","Soild Masonry","Suspended Timber Floor","Pitched no attic","Yes","No double glazing",385,1,1913,1913,57,57,8,8,100,0,1,1,5,5,2,2,15,15,61,61,0,"Gas central heating & Water, with Immersion Heater",385,0,0,0,0,0
+"F-B-B-A-A-B-C","Bungalow","Soild Masonry","Suspended Timber Floor","Pitched no attic","Yes","More than half",3330,1,1933,1933,38,38,9,9,100,0,2,2,3,3,1,1,26,26,104,104,0,"Gas central heating & Water, with hot water tank",0,3330,0,0,0,0
+"I-B-B-A-B-D-G","High rise flat","Soild Masonry","Suspended Timber Floor","Pitched no attic","No","No double glazing",1255,1,1918,1918,69,69,7,7,100,0,1,1,0,0,1,1,17,17,68,68,0,"Communal Heating System",0,1255,0,0,0,0
+"H-A-A-A-B-B-G","Low rise flat","Masonry Cavity","Concrete Floors","Pitched no attic","No","More than half",861,1,1978,1978,77,77,12,12,100,0,3,3,0,0,2,2,23,23,92,92,100,"Communal Heating System",0,861,0,0,0,0
+"I-A-A-C-A-A-A","High rise flat","Masonry Cavity","Concrete Floors","Flat","Yes","Entire house",538,1,1955,1955,75,75,4,4,100,0,1,1,5,5,2,2,58,58,58,58,100,"Gas central heating & Water, without Tank",0,538,0,0,0,0
+"H-A-A-C-A-D-B","Low rise flat","Masonry Cavity","Concrete Floors","Flat","Yes","No double glazing",842,1,1969,1969,70,70,7,7,100,0,2,2,5,5,1,1,79,79,79,79,0,"Gas central heating & Water, with Immersion Heater",0,0,842,0,0,0
+"H-C-C-A-A-D-F","Low rise flat","Concrete / Other","Historic","Pitched no attic","Yes","No double glazing",1947,1,1849,1849,1,1,9,9,0,0,2,2,3,3,0,0,23,23,92,92,0,"Room Heaters",0,0,0,0,1947,0
+"H-A-A-A-B-A-C","Low rise flat","Masonry Cavity","Concrete Floors","Pitched no attic","No","Entire house",1341,1,1984,1984,76,76,5,5,100,0,1,1,5,5,1,1,12,12,48,48,0,"Gas central heating & Water, with hot water tank",1341,0,0,0,0,0
+"H-C-A-C-A-C-D","Low rise flat","Concrete / Other","Concrete Floors","Flat","Yes","Less than half",2248,1,1961,1961,82,82,4,4,100,0,1,1,0,0,0,0,41,41,41,41,0,"Storage Heaters",2248,0,0,0,0,0
+"A-C-A-A-A-D-B","Semi Detached/End Terrace","Concrete / Other","Concrete Floors","Pitched no attic","Yes","No double glazing",1406,1,1958,1958,47,47,8,8,100,0,2,2,5,5,1,1,13,13,79,79,0,"Gas central heating & Water, with Immersion Heater",0,0,1406,0,0,0
