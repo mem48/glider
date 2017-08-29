@@ -149,3 +149,9 @@ Dwellings with well insulated lofts: `r arch$loftins[i] ` %
 
 Dwellings with well inuslated hot water tanks: `r arch$tank.wellins[i]` %
 
+##Retrofit Options
+```{r echo=FALSE}
+retroID <- unlist(arch$ropt[i])
+retros.sub <- retros$Measure[retros$id %in% retroID]
+retros.sub
+```
