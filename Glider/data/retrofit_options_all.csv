@@ -1,0 +1,41 @@
+id,Measure,Sections,Measure Type,PAS Reference,wall,floor,roof,solar,window,energy,type
+1,Internal Solid Wall Insulation,Wall,As Measure,BFM.8,"B, C, D",All,All,All,All,All,All
+2,External Solid Wall Insulation,Wall,Site rendered external wall insulation systems,BFM.4.1,"B, C, D",All,All,All,All,All,All
+3,External Solid Wall Insulation,Wall,Pre-finished external wall insulation systems ,BFM.4.2,"B, C, D",All,All,All,All,All,All
+4,Cavity Wall Insulation,Wall,As measure,BFM.1,A,All,All,All,All,All,All
+5,Party cavity wall insulation,Wall,As measure,BFM.1,A,All,All,All,All,All,"A,C,F,G,H,I"
+6,Draft proofing and air tightness,Wall,As Measure,BFM.2,"A, B, C, D",All,All,All,All,All,All
+7,Loft Insulation (between and over ceiling joists),Roof,Roll insulation ,BFM9.1,All,All,A,All,All,All,"A,B,C,F"
+8,Loft Insulation (between and over ceiling joists),Roof,Blown insulation,BFM.9.2,All,All,A,All,All,All,"A,B,C,F"
+9,Loft Insulation (between and under/over rafters),Roof,As Measure,BFM.10,All,All,A,All,All,All,"A,B,C,F"
+10,Room in roof insulation,Roof,As Measure,BFM.12,All,All,B,All,All,All,"A,B,C,F"
+11,Flat roof insulation,Roof,As Measure,BFM.5,All,All,C,All,All,All,"A,B,C,F"
+12,Floor Insulation Solid,Floor,As Measure,BFM.6,All,A,All,All,All,All,"A,B,C,F"
+13,Floor Insulation Suspended,Floor,As Measure,BFM.6,All,B,All,All,All,All,"A,B,C,F"
+14,new or replacement windows,Windows,As Measure,BFM.3,All,All,All,All,"A, B, C, D",All,All
+15,New or replacement external doors,Windows,As Measure,BFM.3,All,All,All,All,"A, B, C, D",All,All
+16,solar photovoltaics,Solar,,,All,All,All,A,All,All,"A,B,C,F"
+17,solar water heating,Solar,,,All,All,All,A,All,"B, C, E","A,B,C,F"
+18,Boiler replacements,Energy,"Condensing boilers, natural gas-fired and liquefied petroleum gas-fired",BSM.2,All,All,All,All,All,"A, B, C, H",All
+19,New boiler / heating,Energy,"Condensing boilers, natural gas-fired and liquefied petroleum gas-fired",BSM.2,All,All,All,All,All,"D, E, F",All
+20,Electric storage heater replacement,Energy,Domestic electric storage heaters,BSE.1.1 ,All,All,All,All,All,D,All
+21,heating controls,Energy,Domesitc,BSM.6.1,All,All,All,All,All,All,All
+22,air source heat pump,Energy,,,All,All,All,All,All,"A, B, C, D, E, F, H, K, L",All
+23,ground source heat pump,Energy,,,All,All,All,All,All,"A, B, C, D, E, F, H, K, L","A,B,F"
+24,biomass boiler,Energy,,,All,All,All,All,All,"A, B, C, D, E, F, H, K, L","A,B,F"
+25,energy efficient lighting,Energy,Domestic,BSE.2.1,All,All,All,All,All,All,All
+26,energy efficient appliances,Energy,,,All,All,All,All,All,All,All
+27,radiator panels,Energy,,,All,All,All,All,All,All,All
+28,district heating connection,Energy,,,All,All,All,All,All,"A, B, C, D, E, F, H, K, L",All
+29,district heating heat meters,Energy,,,All,All,All,All,All,"A, B, C, D, E, F, H, K, L",All
+30,Hot water cylinder insulation,Energy,,,All,All,All,All,All,"B, C",All
+31,Primary pipework insulation,Energy,,,All,All,All,All,All,"A, B, C, E, G, H, K, L, W",All
+32,Underfloor heating,Energy,Wet systmes,BSM.10,All,All,All,All,All,"A, B, C, D, E, F, H, K, L","A,B,C,F"
+33,intermittent extract ventilation,Energy,,,All,All,All,All,All,,
+34,passive stack ventilation,Energy,,,All,All,All,All,All,,
+35,heat recovery room ventilators,Energy,,,All,All,All,All,All,,
+36,decentralised mechanical extract ventilation,Energy,,,All,All,All,All,All,,
+37,centralised mechanical extract ventilation,Energy,,,All,All,All,All,All,,
+38,Boiler replacements,Energy,"Condensing boilers, oil-fired ",BSM.3,All,All,All,All,All,,
+39,flue gas heat recovery,Energy,Devices for use with gas-fired condensing boilers (domestic scale),BSM.4,All,All,All,All,All,,
+40,mechanical ventilation with heat recovery,Energy,Domestic ventilation systems with heat recovery,BSM.8.1,All,All,All,All,All,,

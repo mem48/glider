@@ -8,6 +8,13 @@ library(rmarkdown)
 arch <- read.csv("data/archetype_summary.csv", stringsAsFactors = FALSE)
 arch <- arch[order(-arch$ndwel),]
 
+#Trim to top 80%
+
+plot(cumsum(arch$ndwel))
+arch <- arch[cumsum(arch$ndwel) < 0.8 * sum(arch$ndwel),]
+points(cumsum(arch.trim$ndwel), col = "Red")
+
+
 
 ## Loop
 for (i in 1:nrow(arch)){
@@ -16,3 +23,5 @@ for (i in 1:nrow(arch)){
                     output_file = paste("archetype-",arch$archcode[i], ".doc", sep=''),
                     output_dir = "handouts/")
 }
+
+plot(cumsum(arch$ndwel))
