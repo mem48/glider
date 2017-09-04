@@ -1,30 +1,30 @@
-id,Measure,Sections,Measure Type,PAS Reference,wall,floor,roof,solar,window,energy,type
-1,Internal Solid Wall Insulation,Wall,As Measure,BFM.8,"B, C, D",All,All,All,All,All,All
-2,External Solid Wall Insulation,Wall,Site rendered external wall insulation systems,BFM.4.1,"B, C, D",All,All,All,All,All,All
-3,Cavity Wall Insulation,Wall,As measure,BFM.1,A,All,All,All,All,All,All
-4,Party cavity wall insulation,Wall,As measure,BFM.1,A,All,All,All,All,All,"A,C,F,G,H,I"
-5,Draft proofing and air tightness,Wall,As Measure,BFM.2,All,All,All,All,All,All,All
-6,Loft Insulation,Roof,Roll insulation ,BFM9.1,All,All,A,All,All,All,"A,B,C,F"
-7,Room in roof insulation,Roof,As Measure,BFM.12,All,All,B,All,All,All,"A,B,C,F"
-8,Flat roof insulation,Roof,As Measure,BFM.5,All,All,C,All,All,All,"A,B,C,F"
-9,Floor Insulation Solid,Floor,As Measure,BFM.6,All,A,All,All,All,All,"A,B,C,F"
-10,Floor Insulation Suspended,Floor,As Measure,BFM.6,All,B,All,All,All,All,"A,B,C,F"
-11,new or replacement windows,Windows,As Measure,BFM.3,All,All,All,All,"A, B, C, D",All,All
-12,New or replacement external doors,Windows,As Measure,BFM.3,All,All,All,All,"A, B, C, D",All,All
-13,solar photovoltaics,Solar,,,All,All,All,A,All,All,"A,B,C,F"
-14,solar water heating,Solar,,,All,All,All,A,All,"B, C, E","A,B,C,F"
-15,Boiler replacements,Energy,"Condensing boilers, natural gas-fired and liquefied petroleum gas-fired",BSM.2,All,All,All,All,All,"A, B, C, H",All
-16,New boiler / heating,Energy,"Condensing boilers, natural gas-fired and liquefied petroleum gas-fired",BSM.2,All,All,All,All,All,"D, E, F",All
-17,Electric storage heater replacement,Energy,Domestic electric storage heaters,BSE.1.1 ,All,All,All,All,All,D,All
-18,heating controls,Energy,Domesitc,BSM.6.1,All,All,All,All,All,All,All
-19,air source heat pump,Energy,,,All,All,All,All,All,"A, B, C, D, E, F, H, K, L",All
-20,ground source heat pump,Energy,,,All,All,All,All,All,"A, B, C, D, E, F, H, K, L","A,B,F"
-21,biomass boiler,Energy,,,All,All,All,All,All,"A, B, C, D, E, F, H, K, L","A,B,F"
-22,energy efficient lighting,Energy,Domestic,BSE.2.1,All,All,All,All,All,All,All
-23,energy efficient appliances,Energy,,,All,All,All,All,All,All,All
-24,radiator panels,Energy,,,All,All,All,All,All,"D, F, K, L",All
-25,district heating connection,Energy,,,All,All,All,All,All,"A, B, C, D, E, F, H, K, L",All
-26,Hot water cylinder insulation,Energy,,,All,All,All,All,All,"B, C",All
-27,Primary pipework insulation,Energy,,,All,All,All,All,All,"A, B, C, E, G, H, K, L, W",All
-28,Underfloor heating,Energy,Wet systmes,BSM.10,All,All,All,All,All,"A, B, C, D, E, F, H, K, L","A,B,C,F"
-29,mechanical ventilation with heat recovery,Energy,Domestic ventilation systems with heat recovery,BSM.8.1,All,All,All,All,All,All,All
+id,Measure,Sections,Measure Type,PAS Reference,wall,floor,roof,solar,window,energy,type,Comments,Model
+1,Internal Solid Wall Insulation,Wall,As Measure,BFM.8,"B, C, D",All,All,All,All,All,All,Prefer on larger dwellings,scurve
+2,External Solid Wall Insulation,Wall,Site rendered external wall insulation systems,BFM.4.1,"B, C, D",All,All,All,All,All,All,prefer on smaller dwellings,scurve
+3,Cavity Wall Insulation,Wall,As measure,BFM.1,A,All,All,All,All,All,All,,scurve
+4,Party cavity wall insulation,Wall,As measure,BFM.1,A,All,All,All,All,All,"A,C,F,G,H,I",,scurve
+5,Draft proofing and air tightness,Wall,As Measure,BFM.2,All,All,All,All,All,All,All,,scurve
+6,Loft Insulation,Roof,Roll insulation ,BFM9.1,All,All,A,All,All,All,"A,B,C,F",,scurve
+7,Room in roof insulation,Roof,As Measure,BFM.12,All,All,B,All,All,All,"A,B,C,F",,scurve
+8,Flat roof insulation,Roof,As Measure,BFM.5,All,All,C,All,All,All,"A,B,C,F",,scurve
+9,Floor Insulation Solid,Floor,As Measure,BFM.6,All,A,All,All,All,All,"A,B,C,F",,scurve
+10,Floor Insulation Suspended,Floor,As Measure,BFM.6,All,B,All,All,All,All,"A,B,C,F",,scurve
+11,new or replacement windows,Windows,As Measure,BFM.3,All,All,All,All,"A, B, C, D",All,All,,linear
+12,New or replacement external doors,Windows,As Measure,BFM.3,All,All,All,All,"A, B, C, D",All,All,,linear
+13,solar photovoltaics,Solar,,,All,All,All,A,All,All,"A,B,C,F",,scurve
+14,solar water heating,Solar,,,All,All,All,A,All,"B, C, E","A,B,C,F",,scurve
+15,Boiler replacements,Energy,"Condensing boilers, natural gas-fired and liquefied petroleum gas-fired",BSM.2,All,All,All,All,All,"A, B, C, H",All,,scurve
+16,New boiler / heating,Energy,"Condensing boilers, natural gas-fired and liquefied petroleum gas-fired",BSM.2,All,All,All,All,All,"D, E, F",All,,scurve
+17,Electric storage heater replacement,Energy,Domestic electric storage heaters,BSE.1.1 ,All,All,All,All,All,D,All,,scurve
+18,heating controls,Energy,Domesitc,BSM.6.1,All,All,All,All,All,All,All,,scurve
+19,air source heat pump,Energy,,,All,All,All,All,All,"A, B, C, D, E, F, H, K, L",All,urban areas,scurve
+20,ground source heat pump,Energy,,,All,All,All,All,All,"A, B, C, D, E, F, H, K, L","A,B,F",rural areas,scurve
+21,biomass boiler,Energy,,,All,All,All,All,All,"A, B, C, D, E, F, H, K, L","A,B,F",rural areas,scurve
+22,energy efficient lighting,Energy,Domestic,BSE.2.1,All,All,All,All,All,All,All,,scurve
+23,energy efficient appliances,Energy,,,All,All,All,All,All,All,All,,scurve
+24,radiator panels,Energy,,,All,All,All,All,All,"D, F, K, L",All,,scurve
+25,district heating connection,Energy,,,All,All,All,All,All,"A, B, C, D, E, F, H, K, L",All,urban areas,scurve
+26,Hot water cylinder insulation,Energy,,,All,All,All,All,All,"B, C",All,,scurve
+27,Primary pipework insulation,Energy,,,All,All,All,All,All,"A, B, C, E, G, H, K, L, W",All,,scurve
+28,Underfloor heating,Energy,Wet systmes,BSM.10,All,All,All,All,All,"A, B, C, D, E, F, H, K, L","A,B,C,F",required for GSHP,scurve
+29,mechanical ventilation with heat recovery,Energy,Domestic ventilation systems with heat recovery,BSM.8.1,All,All,All,All,All,All,All,,scurve

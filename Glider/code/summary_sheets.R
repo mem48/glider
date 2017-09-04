@@ -18,7 +18,7 @@ arch <- arch[cumsum(arch$ndwel) < 0.8 * sum(arch$ndwel),]
 points(cumsum(arch$ndwel), col = "Red")
 
 m <- 1
-n <- 3 #nrow(arch)
+n <- nrow(arch)
 
 ## Loop
 for (i in m:n){
