@@ -40,44 +40,62 @@ arch <- data.frame(archcode = unique(comb$archcode),
                    ndwel = 0,
                    nsample = 0,
                    age.Q1 = 0,
+                   age.Q2 = 0,
                    age.Q3 = 0,
                    sap.Q1 = 0,
+                   sap.Q2 = 0,
                    sap.Q3 = 0,
                    windows.Q1 = 0,
+                   windows.Q2 = 0,
                    windows.Q3 = 0,
                    gasgrid.yes = 0,
                    tank.wellins = 0,
                    doors.Q1 = 0,
+                   doors.Q2 = 0,
                    doors.Q3 = 0,
                    control.Q1 = 0,
+                   control.Q2 = 0,
                    control.Q3 = 0,
                    radcontrol.Q1 = 0,
+                   radcontrol.Q2 = 0,
                    radcontrol.Q3 = 0,
                    solararea.Q1 = 0,
+                   solararea.Q2 = 0,
                    solararea.Q3 = 0,
                    floorarea.Q1 = 0,
+                   floorarea.Q2 = 0,
                    floorarea.Q3 = 0,
                    intwallarea.Q1 = 0,
+                   intwallarea.Q2 = 0,
                    intwallarea.Q3 = 0,
                    extwallarea.Q1 = 0,
+                   extwallarea.Q2 = 0,
                    extwallarea.Q3 = 0,
                    extwindowarea.Q1 = 0,
+                   extwindowarea.Q2 = 0,
                    extwindowarea.Q3 = 0,
                    dpcperim.Q1 = 0,
+                   dpcperim.Q2 = 0,
                    dpcperim.Q3 = 0,
                    nfloors.Q1 = 0,
+                   nfloors.Q2 = 0,
                    nfloors.Q3 = 0,
                    wallins = 0,
                    loftins = 0,
                    roofareaplan.Q1 = 0,
+                   roofareaplan.Q2 = 0,
                    roofareaplan.Q3 = 0,
                    roofareaslope.Q1 = 0,
+                   roofareaslope.Q2 = 0,
                    roofareaslope.Q3 = 0,
                    ceilingground.Q1 = 0,
+                   ceilingground.Q2 = 0,
                    ceilingground.Q3 = 0,
                    ceilingfirst.Q1 = 0,
+                   ceilingfirst.Q2 = 0,
                    ceilingfirst.Q3 = 0,
                    imd.Q1 = 0,
+                   imd.Q2 = 0,
                    imd.Q3 = 0,
                    stringsAsFactors = F)
 
@@ -121,6 +139,7 @@ for(a in 1:nrow(arch)){
     age$ndwel[c] <- sum(comb$aagpd1213[comb$archcode == code & comb$age == age$age[c]])
   }
   arch$age.Q1[a] <- wtd.quantile(x = age$age, weights = age$ndwel, probs = 0.25)
+  arch$age.Q2[a] <- wtd.quantile(x = age$age, weights = age$ndwel, probs = 0.5)
   arch$age.Q3[a] <- wtd.quantile(x = age$age, weights = age$ndwel, probs = 0.75)
 }
 
@@ -133,6 +152,7 @@ for(a in 1:nrow(arch)){
     foo$ndwel[c] <- sum(comb$aagpd1213[comb$archcode == code & comb$sap == foo$val[c]])
   }
   arch$sap.Q1[a] <- round(wtd.quantile(x = foo$val, weights = foo$ndwel, probs = 0.25))
+  arch$sap.Q2[a] <- round(wtd.quantile(x = foo$val, weights = foo$ndwel, probs = 0.5))
   arch$sap.Q3[a] <- round(wtd.quantile(x = foo$val, weights = foo$ndwel, probs = 0.75))
 }
 
@@ -146,6 +166,7 @@ for(a in 1:nrow(arch)){
     foo$ndwel[c] <- sum(comb$aagpd1213[comb$archcode == code & comb$wintot == foo$val[c]])
   }
   arch$windows.Q1[a] <- round(wtd.quantile(x = foo$val, weights = foo$ndwel, probs = 0.25))
+  arch$windows.Q2[a] <- round(wtd.quantile(x = foo$val, weights = foo$ndwel, probs = 0.5))
   arch$windows.Q3[a] <- round(wtd.quantile(x = foo$val, weights = foo$ndwel, probs = 0.75))
 }
 
@@ -157,6 +178,7 @@ for(a in 1:nrow(arch)){
     foo$ndwel[c] <- sum(comb$aagpd1213[comb$archcode == code & comb$doornumb == foo$val[c]])
   }
   arch$doors.Q1[a] <- round(wtd.quantile(x = foo$val, weights = foo$ndwel, probs = 0.25))
+  arch$doors.Q2[a] <- round(wtd.quantile(x = foo$val, weights = foo$ndwel, probs = 0.5))
   arch$doors.Q3[a] <- round(wtd.quantile(x = foo$val, weights = foo$ndwel, probs = 0.75))
 }
 
@@ -168,6 +190,7 @@ for(a in 1:nrow(arch)){
     foo$ndwel[c] <- sum(comb$aagpd1213[comb$archcode == code & comb$floorx == foo$val[c]])
   }
   arch$floorarea.Q1[a] <- round(wtd.quantile(x = foo$val, weights = foo$ndwel, probs = 0.25))
+  arch$floorarea.Q2[a] <- round(wtd.quantile(x = foo$val, weights = foo$ndwel, probs = 0.5))
   arch$floorarea.Q3[a] <- round(wtd.quantile(x = foo$val, weights = foo$ndwel, probs = 0.75))
 }
 
@@ -180,6 +203,7 @@ for(a in 1:nrow(arch)){
     foo$ndwel[c] <- sum(comb$aagpd1213[comb$archcode == code & comb$control == foo$val[c]])
   }
   arch$control.Q1[a] <- round(wtd.quantile(x = foo$val, weights = foo$ndwel, probs = 0.25))
+  arch$control.Q2[a] <- round(wtd.quantile(x = foo$val, weights = foo$ndwel, probs = 0.5))
   arch$control.Q3[a] <- round(wtd.quantile(x = foo$val, weights = foo$ndwel, probs = 0.75))
 }
 
@@ -192,6 +216,7 @@ for(a in 1:nrow(arch)){
     foo$ndwel[c] <- sum(comb$aagpd1213[comb$archcode == code & comb$radcontrol == foo$val[c]])
   }
   arch$radcontrol.Q1[a] <- round(wtd.quantile(x = foo$val, weights = foo$ndwel, probs = 0.25))
+  arch$radcontrol.Q2[a] <- round(wtd.quantile(x = foo$val, weights = foo$ndwel, probs = 0.5))
   arch$radcontrol.Q3[a] <- round(wtd.quantile(x = foo$val, weights = foo$ndwel, probs = 0.75))
 }
 
@@ -204,6 +229,7 @@ for(a in 1:nrow(arch)){
     foo$ndwel[c] <- sum(comb$aagpd1213[comb$archcode == code & comb$floorx == foo$val[c]])
   }
   arch$floorarea.Q1[a] <- round(wtd.quantile(x = foo$val, weights = foo$ndwel, probs = 0.25))
+  arch$floorarea.Q2[a] <- round(wtd.quantile(x = foo$val, weights = foo$ndwel, probs = 0.5))
   arch$floorarea.Q3[a] <- round(wtd.quantile(x = foo$val, weights = foo$ndwel, probs = 0.75))
 }
 
@@ -216,6 +242,7 @@ for(a in 1:nrow(arch)){
     foo$ndwel[c] <- sum(comb$aagpd1213[comb$archcode == code & comb$solarea == foo$val[c]])
   }
   arch$solararea.Q1[a] <- round(wtd.quantile(x = foo$val, weights = foo$ndwel, probs = 0.25))
+  arch$solararea.Q2[a] <- round(wtd.quantile(x = foo$val, weights = foo$ndwel, probs = 0.5))
   arch$solararea.Q3[a] <- round(wtd.quantile(x = foo$val, weights = foo$ndwel, probs = 0.75))
 }
 
@@ -294,6 +321,7 @@ for(a in 1:nrow(arch)){
     foo$ndwel[c] <- sum(comb$aagpd1213[comb$archcode == code & comb$IntWalAr == foo$val[c]])
   }
   arch$intwallarea.Q1[a] <- round(wtd.quantile(x = foo$val, weights = foo$ndwel, probs = 0.25))
+  arch$intwallarea.Q2[a] <- round(wtd.quantile(x = foo$val, weights = foo$ndwel, probs = 0.5))
   arch$intwallarea.Q3[a] <- round(wtd.quantile(x = foo$val, weights = foo$ndwel, probs = 0.75))
 }
 
@@ -305,6 +333,7 @@ for(a in 1:nrow(arch)){
     foo$ndwel[c] <- sum(comb$aagpd1213[comb$archcode == code & comb$wall.area.ext == foo$val[c]])
   }
   arch$extwallarea.Q1[a] <- round(wtd.quantile(x = foo$val, weights = foo$ndwel, probs = 0.25))
+  arch$extwallarea.Q2[a] <- round(wtd.quantile(x = foo$val, weights = foo$ndwel, probs = 0.5))
   arch$extwallarea.Q3[a] <- round(wtd.quantile(x = foo$val, weights = foo$ndwel, probs = 0.75))
 }
 
@@ -316,6 +345,7 @@ for(a in 1:nrow(arch)){
     foo$ndwel[c] <- sum(comb$aagpd1213[comb$archcode == code & comb$window.area.ext == foo$val[c]])
   }
   arch$extwindowarea.Q1[a] <- round(wtd.quantile(x = foo$val, weights = foo$ndwel, probs = 0.25))
+  arch$extwindowarea.Q2[a] <- round(wtd.quantile(x = foo$val, weights = foo$ndwel, probs = 0.5))
   arch$extwindowarea.Q3[a] <- round(wtd.quantile(x = foo$val, weights = foo$ndwel, probs = 0.75))
 }
 
@@ -328,6 +358,7 @@ for(a in 1:nrow(arch)){
     foo$ndwel[c] <- sum(comb$aagpd1213[comb$archcode == code & comb$dpc.perim == foo$val[c]])
   }
   arch$dpcperim.Q1[a] <- round(wtd.quantile(x = foo$val, weights = foo$ndwel, probs = 0.25))
+  arch$dpcperim.Q2[a] <- round(wtd.quantile(x = foo$val, weights = foo$ndwel, probs = 0.5))
   arch$dpcperim.Q3[a] <- round(wtd.quantile(x = foo$val, weights = foo$ndwel, probs = 0.75))
 }
 
@@ -339,6 +370,7 @@ for(a in 1:nrow(arch)){
     foo$ndwel[c] <- sum(comb$aagpd1213[comb$archcode == code & comb$NFlorm == foo$val[c]])
   }
   arch$nfloors.Q1[a] <- round(wtd.quantile(x = foo$val, weights = foo$ndwel, probs = 0.25))
+  arch$nfloors.Q2[a] <- round(wtd.quantile(x = foo$val, weights = foo$ndwel, probs = 0.5))
   arch$nfloors.Q3[a] <- round(wtd.quantile(x = foo$val, weights = foo$ndwel, probs = 0.75))
 }
 
@@ -351,6 +383,7 @@ for(a in 1:nrow(arch)){
     foo$ndwel[c] <- sum(comb$aagpd1213[comb$archcode == code & comb$roof.area.plan == foo$val[c]])
   }
   arch$roofareaplan.Q1[a] <- round(wtd.quantile(x = foo$val, weights = foo$ndwel, probs = 0.25))
+  arch$roofareaplan.Q2[a] <- round(wtd.quantile(x = foo$val, weights = foo$ndwel, probs = 0.5))
   arch$roofareaplan.Q3[a] <- round(wtd.quantile(x = foo$val, weights = foo$ndwel, probs = 0.75))
 }
 
@@ -362,6 +395,7 @@ for(a in 1:nrow(arch)){
     foo$ndwel[c] <- sum(comb$aagpd1213[comb$archcode == code & comb$roof.area.slope == foo$val[c]])
   }
   arch$roofareaslope.Q1[a] <- round(wtd.quantile(x = foo$val, weights = foo$ndwel, probs = 0.25))
+  arch$roofareaslope.Q2[a] <- round(wtd.quantile(x = foo$val, weights = foo$ndwel, probs = 0.5))
   arch$roofareaslope.Q3[a] <- round(wtd.quantile(x = foo$val, weights = foo$ndwel, probs = 0.75))
 }
 
@@ -379,6 +413,7 @@ for(a in 1:nrow(arch)){
     arch$ceilingground.Q1[a] <- NA
   }else{
     arch$ceilingground.Q1[a] <- round(wtd.quantile(x = foo$val, weights = foo$ndwel, probs = 0.25, na.rm = T), 2)
+    arch$ceilingground.Q2[a] <- round(wtd.quantile(x = foo$val, weights = foo$ndwel, probs = 0.5, na.rm = T), 2)
     arch$ceilingground.Q3[a] <- round(wtd.quantile(x = foo$val, weights = foo$ndwel, probs = 0.75, na.rm = T), 2)
   }
 }
@@ -397,6 +432,7 @@ for(a in 1:nrow(arch)){
     arch$ceilingfirst.Q3[a] <- NA
   }else{
     arch$ceilingfirst.Q1[a] <- round(wtd.quantile(x = foo$val, weights = foo$ndwel, probs = 0.25, na.rm = T),2)
+    arch$ceilingfirst.Q2[a] <- round(wtd.quantile(x = foo$val, weights = foo$ndwel, probs = 0.5, na.rm = T),2)
     arch$ceilingfirst.Q3[a] <- round(wtd.quantile(x = foo$val, weights = foo$ndwel, probs = 0.75, na.rm = T),2)
   }
 }
@@ -409,6 +445,7 @@ for(a in 1:nrow(arch)){
     foo$ndwel[c] <- sum(comb$aagpd1213[comb$archcode == code & comb$imd == foo$val[c]])
   }
   arch$imd.Q1[a] <- round(wtd.quantile(x = foo$val, weights = foo$ndwel, probs = 0.25))
+  arch$imd.Q2[a] <- round(wtd.quantile(x = foo$val, weights = foo$ndwel, probs = 0.5))
   arch$imd.Q3[a] <- round(wtd.quantile(x = foo$val, weights = foo$ndwel, probs = 0.75))
 }
 

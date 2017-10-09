@@ -74,25 +74,49 @@ retro.ops$'2050'[retro.ops$Measure == "solar water heating"] <- sum(comb$aagpd12
                                                                                      comb$energytyp %in% c("B","C","E") & 
                                                                                      comb$generaltyp %in% c("A","B","C","F")])
 
-#Boiler replacements
-
-
-#New boiler / heating
-
-
-#Electric storage heater replacement
-
 
 #heating controls
+retro.ops$'2013'[retro.ops$Measure == "heating controls"] <- sum(comb$aagpd1213[comb$control == 7])
+retro.ops$'2050'[retro.ops$Measure == "heating controls"] <- sum(comb$aagpd1213) # All dwellings need some from of heating controls
 
+
+
+
+#Future heating mix
+#based on Green Building Council WRAP 2050
+#Secnario 3: to deliver 80% carbon reductions
+#gas boiler 46%
+#resistive heating 6%
+#ASHP 30%
+#GSHP 10%
+#Geotherm 1%
+#District 7%
 
 #air source heat pump
+retro.ops$'2013'[retro.ops$Measure == "air source heat pump"] <- 1000 # no data so assume 1000
+retro.ops$'2050'[retro.ops$Measure == "air source heat pump"] <- sum(comb$aagpd1213) * 0.3
 
 
 #ground source heat pump
-
+retro.ops$'2013'[retro.ops$Measure == "ground source heat pump"] <- 1000 # no data so assume 1000
+retro.ops$'2050'[retro.ops$Measure == "ground source heat pump"] <- sum(comb$aagpd1213) * 0.1
 
 #biomass boiler
+
+
+#district heating connection
+retro.ops$'2013'[retro.ops$Measure == "district heating connection"] <- sum(comb$aagpd1213[comb$energytyp == "G"]) # communal heating not quite the same a distric heating
+retro.ops$'2050'[retro.ops$Measure == "district heating connection"] <- sum(comb$aagpd1213) * 0.07
+
+#Boiler replacements
+retro.ops$'2013'[retro.ops$Measure == "Boiler replacements"] <- sum(comb$aagpd1213[comb$energytyp %in% c("A","B","C","H")]) 
+retro.ops$'2050'[retro.ops$Measure == "Boiler replacements"] <- sum(comb$aagpd1213) * 0.46
+
+#Electric storage heater replacement
+retro.ops$'2013'[retro.ops$Measure == "Electric storage heater replacement"] <- sum(comb$aagpd1213[comb$energytyp == "D"]) #storage heater not quite the same as resistive
+retro.ops$'2050'[retro.ops$Measure == "Electric storage heater replacement"] <- sum(comb$aagpd1213) * 0.07
+
+
 
 
 #energy efficient lighting
@@ -104,10 +128,12 @@ retro.ops$'2050'[retro.ops$Measure == "solar water heating"] <- sum(comb$aagpd12
 #radiator panels
 
 
-#district heating connection
+#New boiler / heating
 
 
 #Hot water cylinder insulation
+retro.ops$'2013'[retro.ops$Measure == "Hot water cylinder insulation"] <- sum(comb$aagpd1213[comb$tankins == "Well Insulated" ])
+retro.ops$'2050'[retro.ops$Measure == "Hot water cylinder insulation"] <- sum(comb$aagpd1213[comb$tankins %in% c("Poorly Insulated","No Insulation","Well Insulated") ])
 
 
 #Primary pipework insulation
@@ -127,6 +153,12 @@ retro.ops$'2050'[retro.ops$Measure == "solar water heating"] <- sum(comb$aagpd12
 #Calcualte existing uptake of measures
 cal.uptake <- function(L,k,x,x0){
   res <- L / (1 + (exp(1) ** (-k * (x - x0) )))
+  return(res)
+}
+
+#Inverse for decling uptake
+cal.downtake <- function(L,k,x,x0){
+  res <- L / (1 + (exp(1) ** (k * (x - x0) )))
   return(res)
 }
 
@@ -152,7 +184,7 @@ get.uptake <- function(measure){
   return(res)
 }
 
-linear.uptake <- function(measure,life){
+linear.uptake <- function(measure){
   rownumb <- which(retro.ops$Measure == measure)
   L <- retro.ops[rownumb,"2050"]
   y2013 <- retro.ops[rownumb,"2013"]
@@ -176,13 +208,37 @@ linear.uptake <- function(measure,life){
   return(res)
 }
 
+neg.scurve <- function(measure){
+  #http://www.clear-lines.com/blog/post/S-shaped-market-adoption-curve.aspx
+  rownumb <- which(retro.ops$Measure == measure)
+  L <- retro.ops[rownumb,"2013"]
+  y2013 <- retro.ops[rownumb,"2050"]
+  k <- (log(L/y2013 - 1) - log(L/(0.99*L) - 1))/(2050 - 2013)
+  x0 <- log(L/y2013 - 1)/k + 2050
+  message(measure," ",round(x0,2)," ",round(k,2))
+  
+  for(i in 2014:2049){
+    sub <- round(cal.downtake(L,k,x = i,x0),0)
+    if(i == 2014){
+      res <- sub
+    }else{
+      res <- c(res,sub)
+    }
+  }
+  #Bind 2050, k , x0 on to the end
+  res <- c(res,y2013,k,x0)
+  return(res)
+}
+
 for(i in 1:nrow(retro.ops)){
   measure <- retro.ops$Measure[i]
   method <- retro.ops$Model[i]
   if(method == "scurve"){
     retro.ops[retro.ops$Measure == measure, c(years[2:38],"k","x0") ] <- get.uptake(measure)
-  }else{
+  }else if(method == "linear"){
     retro.ops[retro.ops$Measure == measure, c(years[2:38],"k","x0") ] <- linear.uptake(measure)
+  }else if(method == "negcurve"){
+    retro.ops[retro.ops$Measure == measure, c(years[2:38],"k","x0") ] <- neg.scurve(measure)
   }
   
 }

@@ -100,7 +100,7 @@ get.weights <- function(a){
 get.weights.presel <- function(a){
   id.from <- conn.simple$from[a]
   id.to <- conn.simple$to[a]
-  res.sub <- conn.all.sort[conn.all.sort$from == id.from,]
+  res.sub <- conn.all[conn.all$from == id.from,]
   res.sub <- res.sub[res.sub$to == id.to,]
   res <- length(res.sub$from)
   return(res)
@@ -121,7 +121,9 @@ end <- Sys.time()
 message(paste0("Did ",nrow(conn.simple)," lines in ",round(difftime(end,start,units = "secs"),2)," seconds, in parallel mode at ",Sys.time()))
 rm(cl,start,end)
 ##########################################################
-weights <- unlist(weights)
+weights <- unlist(res)
 
 #weights <- sapply(1:nrow(conn.simple),get.weights)
 conn.simple$weight <- weights
+
+saveRDS(conn.simple,"twitter/conn-simple-summyprogress2.Rds")
