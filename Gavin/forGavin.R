@@ -29,12 +29,12 @@ V(graph.trim)$strength.in <- strength(graph.trim, mode = "in") # Strength in
 V(graph.trim)$strength.out <- strength(graph.trim, mode = "out") # strength out
 V(graph.trim)$between <- betweenness(graph.trim) # betweeness centrality
 V(graph.trim)$closeness <- closeness(graph.trim) # closeness centrality
-V(graph.trim)$eigenvector <- eigen_centrality(graph.trim, directed = T, scale = F, weights = E(graph.trim)$weight)$vector #eigenvector centrality
+V(graph.trim)$eigenvector <- eigen_centrality(graph.trim, directed = TRUE, scale = FALSE, weights = E(graph.trim)$weight)$vector #eigenvector centrality
 V(graph.trim)$PageRank <- page_rank(graph.trim, directed = TRUE, damping = 0.85, weights = E(graph.trim)$weight)$vector #page rank centrality
 
 # Step 6: Let’s export those results as a table so we can see them
 
-vert <- as_data_frame(graph.trim, what="vertices")
+vert = as_data_frame(graph.trim, what="vertices")
 # Now click on the table icon next to vertices in the environment tab
 # on the right side of the screen to view the table
 # Notice that you can sort using the arrows on each column
@@ -66,7 +66,7 @@ plot(graph.toDraw)
 #Step 7c: Let colour the vertices based on one of the variables we have calculated
 # to do this we define a colour scale and the add a new colour variable to the graph
 
-c_scale <- colorRamp(c('blue','cyan','yellow','red')) #Define a colour scale from blue to red
+c_scale = colorRamp(c('blue','cyan','yellow','red')) #Define a colour scale from blue to red
 # Now for each vertex assing a colour 
 V(graph.toDraw)$color = apply(c_scale(V(graph.toDraw)$between / max(V(graph.toDraw)$between, na.rm = T)), 1, function(x) rgb(x[1]/255,x[2]/255,x[3]/255) )
 # Not that we have normaised the betweeness centralisty score on a 0-1 scale by dividing by the max(imum) value
