@@ -2,7 +2,7 @@
 
 # Step 1: Get R set up correctly
 
-library(igraph) # Load in the igraph library if it is not aiviaible use install.packages("igraph")
+library(igraph) # Load in the igraph library if it is not available use install.packages("igraph")
 
 # Step 2: Read in the data
 
@@ -12,7 +12,6 @@ graph = readRDS("twitterNetwork.Rds") #Read the file called twitterNetwork and m
 
 gorder(graph) # How many verticies does it have?
 ecount(graph) # How many edges does it have?
-degree(graph)
 
 # Step 4: Make a smaller graph by removing some of the low degree vertices
 
@@ -23,7 +22,7 @@ gorder(graph.trim) # Reduced the oerde by about a factor of 10
 # Step 5: Calculate some statistics for each vertex, this will take a minute or two
 
 V(graph.trim)$degree.total <- degree(graph.trim, mode = "total") # Total Degree
-V(graph.trim)$degree.in <- degree(graph.trim, mode = "in") # Degree IN
+V(graph.trim)$degree.in <- degree(graph.trim, mode = "in") # Degree In
 V(graph.trim)$degree.out <- degree(graph.trim, mode = "out") # Degree Out
 V(graph.trim)$strength.total <- strength(graph.trim, mode = "total") # Total Strength
 V(graph.trim)$strength.in <- strength(graph.trim, mode = "in") # Strength in
