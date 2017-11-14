@@ -1,0 +1,23 @@
+"","Finchtyp","watersys","count"
+"1","Central heating (wet with rads)","with central heating",10795
+"16","No Answer","electric immersion heater",64
+"22","Communal/CHP","with central heating",308
+"38","Storage heaters","electric immersion heater",767
+"49","Warm air","with central heating",26
+"111","Central heating (wet with rads)","instantaneous",32
+"126","Room heaters","dedicated boiler",15
+"170","Electric ceiling/underfloor","electric immersion heater",32
+"188","Central heating (wet with rads)","electric immersion heater",116
+"282","Storage heaters","instantaneous",27
+"343","Room heaters","electric immersion heater",140
+"442","Warm air","instantaneous",11
+"517","Communal/CHP","electric immersion heater",41
+"562","Warm air","electric immersion heater",28
+"912","Communal/CHP","instantaneous",6
+"1070","Room heaters","instantaneous",44
+"1221","Central heating (wet with rads)","dedicated boiler",10
+"1222","No Answer","instantaneous",11
+"1411","Electric ceiling/underfloor","instantaneous",3
+"2420","No Answer","dedicated boiler",8
+"2587","Storage heaters","dedicated boiler",12
+"2794","Warm air","dedicated boiler",2
