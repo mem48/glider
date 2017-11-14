@@ -243,10 +243,32 @@ for(i in 1:nrow(retro.ops)){
   
 }
 
+#Formualr Doesn Quite work for Boiler so make a slight modification to the valalues
+
+boiler.vals <- c(19417213, 19328446,	19325990,	19318648,	19305860,	19287005,	19261401,	19228300,	19186889,	19136279,	19075513,	19003558,
+                 18919310,	18821596,	18709184,	18580785,	18435075,	18270706,	18086334,	17880645,	17652388,	17400420,	17123746,	16821569,
+                 16493349,	16138852,	15758205,	15351943,	14921051,	14466988,	13991703,	13497627,	12987642,	12465034,	11933426,	11396682,	10858810,	10696739)
+
+retro.ops[retro.ops$Measure == "Boiler replacements", years[1:38] ] <- boiler.vals
 
 foo <- retro.ops[retro.ops$'2014' != 0,c("Measure",years)]
 
 df <- melt(foo)#the function melt reshapes it from wide to long
+df$Measure <- NULL
+df$rowid <- foo$Measure  #add a rowid identifying variable
+head(df)
+ggplot(df, aes(variable, value, group=factor(rowid))) + geom_line(aes(color=factor(rowid)), size = 2)
+
+rates.df <- retro.ops[,1:3]
+
+for(j in 2:38){
+  rt <- retro.ops[,years[j]] - retro.ops[,years[j-1]]
+  rates.df[,years[j]] <- rt
+}
+
+foo2 <- rates.df[rates.df$'2014' != 0,c("Measure",years[2:38])]
+
+df <- melt(foo2)#the function melt reshapes it from wide to long
 df$Measure <- NULL
 df$rowid <- foo$Measure  #add a rowid identifying variable
 head(df)
