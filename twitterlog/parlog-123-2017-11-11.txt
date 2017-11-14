@@ -1,0 +1,173 @@
+starting worker pid=11592 on localhost:11045 at 19:46:55.031
+starting worker pid=10280 on localhost:11045 at 19:46:55.183
+starting worker pid=20824 on localhost:11045 at 19:46:55.356
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-11 19:48:21 Friends  : 99.6% at 34/sec for Joanclos
+2017-11-11 19:49:10 Friends  : 99.1% at 37/sec for julietbidgood
+2017-11-11 19:49:45 Friends  : 99.3% at 39/sec for katiekendesign
+2017-11-11 19:49:53 Friends  : 98.4% at 30/sec for katrina_talbot_
+2017-11-11 19:50:02 Favorites: 50.9% at 30/sec for Joanclos
+2017-11-11 19:50:20 Favorites: 53.6% at 39/sec for julietbidgood
+2017-11-11 19:50:32 Friends  : 98.3% at 35/sec for kerstinsailer
+2017-11-11 19:50:36 Favorites: 50.3% at 37/sec for katiekendesign
+2017-11-11 19:50:41 Favorites: 74.3% at 40/sec for katrina_talbot_
+2017-11-11 19:50:52 Friends  : 99.2% at 36/sec for KSRArchitects
+2017-11-11 19:50:58 Favorites: 50.4% at 36/sec for kerstinsailer
+2017-11-11 19:51:05 Favorites: 52.2% at 39/sec for KSRArchitects
+2017-11-11 19:51:47 Favorites: 52.5% at 36/sec for LaufenBathrooms
+2017-11-11 19:51:48 Favorites: 100% at 19/sec for LBME_Network
+2017-11-11 19:52:00 Tweets   : 99.7% at 34/sec for Joanclos
+2017-11-11 19:52:19 Favorites: Waiting for 6 minutes due to : Used up allowance in a loop
+2017-11-11 19:52:22 Friends  : 99.7% at 36/sec for LaufenBathrooms
+2017-11-11 19:52:37 Tweets   : 99.8% at 35/sec for julietbidgood
+2017-11-11 19:52:37 Friends  : 93.6% at 37/sec for LBME_Network
+2017-11-11 19:53:49 Friends  : 97.9% at 36/sec for LoveCamden
+Error in twInterfaceObj$doAPICall(paste("users", "show", sep = "/"), params = params,  : 
+  Not Found (HTTP 404).
+In addition: Warning message:
+package 'twitteR' was built under R version 3.4.1 
+2017-11-11 19:53:49 Friends: Unable to find account LYArchitects moving to next
+2017-11-11 19:53:49 Friends  : % at /sec for LYArchitects
+2017-11-11 19:53:55 Tweets   : 91.5% at 41/sec for katiekendesign
+2017-11-11 19:54:11 Tweets   : 100% at 10/sec for katrina_talbot_
+2017-11-11 19:54:12 Friends  : 96.5% at 34/sec for m_holms_coats
+2017-11-11 19:54:12 Friends  : Waiting for 2.7 minutes
+2017-11-11 19:55:23 Tweets   : 34% at 45/sec for kerstinsailer
+2017-11-11 19:55:48 Tweets   : 99.9% at 36/sec for KSRArchitects
+2017-11-11 19:57:03 Tweets   : 46% at 43/sec for LaufenBathrooms
+2017-11-11 19:58:32 Tweets   : 32.4% at 36/sec for LBME_Network
+2017-11-11 19:58:32 Favorites: 51.4% at 4/sec for LoveCamden
+2017-11-11 19:58:33 Friends  : 99.1% at 12/sec for ManascIsaac
+2017-11-11 19:58:35 Favorites: 79.4% at 34/sec for LYArchitects
+2017-11-11 19:59:33 Friends  : 99.2% at 32/sec for marcgcairns
+2017-11-11 20:00:01 Favorites: 45.3% at 37/sec for m_holms_coats
+2017-11-11 20:00:01 Friends  : 99.7% at 36/sec for MarksBarfield
+2017-11-11 20:00:06 Friends  : 99.3% at 29/sec for MarkWrayArch
+2017-11-11 20:00:11 Tweets   : 21.8% at 32/sec for LoveCamden
+2017-11-11 20:00:26 Tweets   : 100% at 19/sec for LYArchitects
+2017-11-11 20:00:38 Favorites: 51.7% at 37/sec for ManascIsaac
+2017-11-11 20:00:45 Friends  : 98.4% at 32/sec for matthewquinton
+2017-11-11 20:01:13 Tweets   : 100% at 32/sec for m_holms_coats
+2017-11-11 20:01:19 Favorites: 50% at 36/sec for marcgcairns
+2017-11-11 20:01:38 Favorites: 54.2% at 36/sec for MarksBarfield
+2017-11-11 20:01:40 Friends  : 99.4% at 36/sec for MerseyMaritime
+2017-11-11 20:01:40 Favorites: 55.9% at 70/sec for MarkWrayArch
+2017-11-11 20:01:43 Favorites: Waiting for 11.7 minutes due to : Used up allowance in a loop
+2017-11-11 20:01:54 Friends  : 99% at 37/sec for MikhailRiches
+2017-11-11 20:02:05 Friends  : 98% at 34/sec for MilliganKnight
+2017-11-11 20:02:36 Friends  : 97.9% at 35/sec for Miranda19c
+2017-11-11 20:02:37 Tweets   : 75.6% at 38/sec for ManascIsaac
+2017-11-11 20:02:51 Friends  : 99.3% at 37/sec for morleyvon
+2017-11-11 20:03:05 Friends  : 99.4% at 37/sec for MorrowLorraine
+2017-11-11 20:03:24 Friends  : 97.4% at 33/sec for Mr_MichaelLewis
+2017-11-11 20:03:41 Friends  : 98.6% at 33/sec for Muneni_
+2017-11-11 20:03:45 Friends  : 99.2% at 29/sec for NJ_Architects
+2017-11-11 20:03:50 Friends  : 96.4% at 39/sec for nortonmayfield
+2017-11-11 20:03:50 Friends  : Waiting for 8.2 minutes
+2017-11-11 20:03:59 Tweets   : 20.4% at 39/sec for marcgcairns
+2017-11-11 20:04:49 Tweets   : 99.9% at 35/sec for MarksBarfield
+2017-11-11 20:05:03 Tweets   : 100% at 20/sec for MarkWrayArch
+2017-11-11 20:06:32 Tweets   : 32.7% at 36/sec for matthewquinton
+2017-11-11 20:07:49 Tweets   : 66.8% at 41/sec for MerseyMaritime
+2017-11-11 20:08:04 Tweets   : 99.7% at 27/sec for MikhailRiches
+2017-11-11 20:08:19 Tweets   : 100% at 24/sec for MilliganKnight
+2017-11-11 20:09:34 Tweets   : 62.9% at 43/sec for Miranda19c
+2017-11-11 20:10:17 Tweets   : 98.9% at 37/sec for morleyvon
+2017-11-11 20:10:51 Tweets   : 99.9% at 34/sec for MorrowLorraine
+2017-11-11 20:11:10 Tweets   : 99.8% at 30/sec for Mr_MichaelLewis
+2017-11-11 20:12:30 Tweets   : 61.9% at 39/sec for Muneni_
+2017-11-11 20:12:48 Friends  : 99.5% at 3/sec for NPPhotographer
+2017-11-11 20:12:54 Tweets   : 100% at 27/sec for NJ_Architects
+2017-11-11 20:13:05 Tweets   : 100% at 16/sec for nortonmayfield
+2017-11-11 20:13:06 Friends  : 100% at 37/sec for NudgeGroup
+2017-11-11 20:13:44 Favorites: 61.2% at 1/sec for matthewquinton
+2017-11-11 20:13:50 Friends  : 99.9% at 36/sec for ObsNewReview
+2017-11-11 20:14:06 Favorites: 55.5% at 36/sec for MerseyMaritime
+2017-11-11 20:14:10 Friends  : 99.4% at 34/sec for ONE17notes
+2017-11-11 20:14:11 Favorites: 64.1% at 40/sec for MikhailRiches
+2017-11-11 20:14:14 Favorites: 97.1% at 33/sec for MilliganKnight
+2017-11-11 20:14:30 Friends  : 99% at 30/sec for oneriverpoint
+2017-11-11 20:14:33 Tweets   : 8.1% at 37/sec for NPPhotographer
+2017-11-11 20:14:50 Favorites: 50.3% at 37/sec for Miranda19c
+2017-11-11 20:14:55 Friends  : 97.9% at 32/sec for padlynch
+2017-11-11 20:14:59 Tweets   : 99.9% at 30/sec for NudgeGroup
+2017-11-11 20:15:08 Favorites: 55% at 40/sec for morleyvon
+2017-11-11 20:15:13 Friends  : 99.2% at 36/sec for patricialondon
+2017-11-11 20:15:15 Favorites: 60.4% at 39/sec for MorrowLorraine
+2017-11-11 20:15:22 Friends  : 98.8% at 28/sec for paulscrowe
+2017-11-11 20:15:42 Favorites: 54% at 38/sec for Mr_MichaelLewis
+2017-11-11 20:15:42 Friends  : 99.2% at 30/sec for PPANthebrief
+2017-11-11 20:15:59 Friends  : 98% at 30/sec for prescotthi
+2017-11-11 20:16:19 Friends  : 99.3% at 29/sec for PriceandMyers
+2017-11-11 20:16:20 Friends  : 100% at 17/sec for projectsfromNL
+2017-11-11 20:16:23 Tweets   : 27.3% at 38/sec for ObsNewReview
+2017-11-11 20:16:25 Favorites: 47.7% at 36/sec for Muneni_
+2017-11-11 20:16:27 Favorites: 100% at 17/sec for NJ_Architects
+2017-11-11 20:16:28 Favorites: 100% at 36/sec for nortonmayfield
+2017-11-11 20:16:37 Friends  : 96.8% at 32/sec for raisearchitects
+2017-11-11 20:16:38 Friends  : 90.3% at 37/sec for RIBA_Suffolk
+2017-11-11 20:16:42 Friends  : 93.7% at 22/sec for RIBA_YAPF
+2017-11-11 20:16:42 Friends  : Waiting for 10.5 minutes
+2017-11-11 20:16:48 Favorites: Waiting for 11.8 minutes due to : Used up allowance in a loop
+2017-11-11 20:17:07 Tweets   : 99.9% at 37/sec for ONE17notes
+2017-11-11 20:17:33 Tweets   : 100% at 33/sec for oneriverpoint
+2017-11-11 20:18:54 Tweets   : 43.6% at 39/sec for padlynch
+2017-11-11 20:20:20 Tweets   : 77% at 38/sec for patricialondon
+2017-11-11 20:21:01 Tweets   : 99.6% at 30/sec for paulscrowe
+2017-11-11 20:22:13 Tweets   : 20.5% at 44/sec for PPANthebrief
+2017-11-11 20:23:03 Tweets   : 99.9% at 39/sec for prescotthi
+2017-11-11 20:23:30 Tweets   : 99.8% at 35/sec for PriceandMyers
+2017-11-11 20:24:47 Tweets   : 57.4% at 42/sec for projectsfromNL
+2017-11-11 20:25:15 Tweets   : 99.8% at 34/sec for raisearchitects
+2017-11-11 20:25:23 Tweets   : 100% at 9/sec for RIBA_Suffolk
+2017-11-11 20:25:33 Tweets   : 99.4% at 17/sec for RIBA_YAPF
+2017-11-11 20:26:53 Tweets   : 22.4% at 40/sec for RIBAarchitect
+2017-11-11 20:27:48 Tweets   : 100% at 34/sec for RIBACambridge
+2017-11-11 20:29:09 Favorites: 48.9% at 2/sec for NPPhotographer
+2017-11-11 20:29:10 Favorites: 100% at 38/sec for NudgeGroup
+2017-11-11 20:29:15 Friends  : 97.6% at 6/sec for RIBAarchitect
+2017-11-11 20:29:19 Tweets   : 7.4% at 35/sec for RichardBlyth7
+2017-11-11 20:29:21 Favorites: 63.3% at 34/sec for ObsNewReview
+2017-11-11 20:29:25 Friends  : 96.5% at 41/sec for RIBACambridge
+2017-11-11 20:29:37 Favorites: 51.9% at 37/sec for ONE17notes
+2017-11-11 20:29:39 Favorites: 69.4% at 62/sec for oneriverpoint
+2017-11-11 20:29:47 Friends  : 98.2% at 43/sec for RichardBlyth7
+2017-11-11 20:30:11 Friends  : 98.4% at 41/sec for richmcpartland
+2017-11-11 20:30:19 Tweets   : 99.7% at 35/sec for richmcpartland
+2017-11-11 20:30:25 Favorites: 49.6% at 36/sec for padlynch
+2017-11-11 20:30:26 Favorites: 95.6% at 54/sec for patricialondon
+2017-11-11 20:30:42 Favorites: 57% at 37/sec for paulscrowe
+2017-11-11 20:30:47 Favorites: 87.9% at 39/sec for PPANthebrief
+2017-11-11 20:30:55 Favorites: 71.4% at 36/sec for prescotthi
+2017-11-11 20:31:02 Favorites: 66.6% at 30/sec for PriceandMyers
+2017-11-11 20:31:02 Favorites: User projectsfromNL has a protected account or no Favoritess to collect so skipping
+2017-11-11 20:31:03 Friends  : 99.5% at 41/sec for RMGreenwich
+2017-11-11 20:31:10 Favorites: 64.4% at 37/sec for raisearchitects
+2017-11-11 20:31:11 Favorites: 100% at 55/sec for RIBA_Suffolk
+2017-11-11 20:31:15 Favorites: 65.6% at 29/sec for RIBA_YAPF
+2017-11-11 20:31:21 Friends  : 97.9% at 41/sec for rubenssalgado
+2017-11-11 20:31:27 Friends  : 98.7% at 38/sec for ruthreed01
+2017-11-11 20:31:43 Friends  : 99.7% at 38/sec for salman3180
+2017-11-11 20:31:47 Tweets   : 20.1% at 36/sec for RMGreenwich
+2017-11-11 20:32:06 Favorites: Waiting for 11.7 minutes due to : Used up allowance in a loop
+2017-11-11 20:32:12 Tweets   : 100% at 29/sec for rubenssalgado
+2017-11-11 20:32:49 Tweets   : 99.4% at 32/sec for ruthreed01
+2017-11-11 20:32:55 Friends  : 99% at 41/sec for Satchers
+2017-11-11 20:33:34 Tweets   : 99.9% at 33/sec for salman3180
+2017-11-11 20:35:00 Tweets   : 19.2% at 37/sec for Satchers
+2017-11-11 20:44:36 Favorites: 48.8% at 4/sec for RIBAarchitect
+2017-11-11 20:44:55 Favorites: 54.3% at 46/sec for RIBACambridge
+2017-11-11 20:46:14 Favorites: 47.7% at 40/sec for RichardBlyth7
+2017-11-11 20:46:43 Favorites: 50.5% at 43/sec for richmcpartland
+2017-11-11 20:46:58 Favorites: Waiting for 12.1 minutes due to : Used up allowance in a loop
+2017-11-11 20:59:45 Favorites: 49.7% at 2/sec for RMGreenwich
+2017-11-11 21:00:04 Favorites: 50% at 43/sec for rubenssalgado
+2017-11-11 21:00:09 Favorites: 59.1% at 37/sec for ruthreed01
+2017-11-11 21:00:30 Favorites: 49.9% at 43/sec for salman3180
+2017-11-11 21:01:49 Favorites: 35.5% at 40/sec for Satchers
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+Warning message:
+package 'twitteR' was built under R version 3.4.1 

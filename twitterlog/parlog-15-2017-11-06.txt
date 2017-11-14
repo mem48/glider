@@ -1,0 +1,160 @@
+starting worker pid=13400 on localhost:11045 at 12:45:39.849
+starting worker pid=9468 on localhost:11045 at 12:45:40.012
+starting worker pid=6112 on localhost:11045 at 12:45:40.176
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-06 12:46:26 Favorites: 64.1% at 33/sec for theJRHT
+2017-11-06 12:46:28 Favorites: 62.9% at 43/sec for Civicance
+2017-11-06 12:46:37 Favorites: 53.6% at 47/sec for DevonContractor
+2017-11-06 12:46:45 Favorites: 55.5% at 47/sec for FDSafetyWeek
+2017-11-06 12:47:16 Friends  : 99.9% at 42/sec for theJRHT
+2017-11-06 12:47:26 Favorites: 51.3% at 45/sec for Jewson
+2017-11-06 12:47:27 Favorites: 100% at 43/sec for PowysLABC
+2017-11-06 12:47:31 Friends  : 99.5% at 42/sec for Civicance
+2017-11-06 12:47:36 Favorites: 52.2% at 45/sec for AccentHousing
+2017-11-06 12:47:40 Friends  : 99.5% at 43/sec for DevonContractor
+2017-11-06 12:47:48 Tweets   : 54.7% at 48/sec for theJRHT
+2017-11-06 12:47:55 Favorites: 52% at 45/sec for HarryWBooty
+2017-11-06 12:48:01 Tweets   : 100% at 29/sec for Civicance
+2017-11-06 12:48:02 Favorites: 73.6% at 45/sec for ArdenConstruct
+2017-11-06 12:48:06 Favorites: 90.8% at 52/sec for DollardTom
+2017-11-06 12:48:08 Friends  : 99.2% at 46/sec for FDSafetyWeek
+2017-11-06 12:48:08 Favorites: 76.9% at 49/sec for galeandsnowden
+2017-11-06 12:48:16 Favorites: 64.8% at 50/sec for PassiveHouseCal
+2017-11-06 12:48:18 Tweets   : 100% at 35/sec for DevonContractor
+2017-11-06 12:48:28 Favorites: Waiting for 10.7 minutes due to : Used up allowance in a loop
+2017-11-06 12:48:59 Friends  : 99.4% at 41/sec for Jewson
+2017-11-06 12:49:08 Tweets   : 99.8% at 49/sec for FDSafetyWeek
+2017-11-06 12:49:15 Friends  : 99.3% at 35/sec for PowysLABC
+2017-11-06 12:49:27 Friends  : 94.4% at 40/sec for AccentHousing
+2017-11-06 12:49:52 Friends  : 98.3% at 44/sec for HarryWBooty
+2017-11-06 12:50:09 Friends  : 98.3% at 41/sec for ArdenConstruct
+2017-11-06 12:50:20 Tweets   : 28.2% at 44/sec for Jewson
+2017-11-06 12:50:30 Tweets   : 100% at 21/sec for PowysLABC
+2017-11-06 12:50:32 Friends  : 99.1% at 43/sec for DollardTom
+2017-11-06 12:50:35 Friends  : 97.9% at 36/sec for galeandsnowden
+2017-11-06 12:51:39 Tweets   : 87% at 46/sec for AccentHousing
+2017-11-06 12:52:19 Tweets   : 99.4% at 38/sec for HarryWBooty
+2017-11-06 12:52:27 Friends  : 97.1% at 40/sec for PassiveHouseCal
+2017-11-06 12:52:33 Tweets   : 100% at 29/sec for ArdenConstruct
+2017-11-06 12:52:34 Friends  : 97.6% at 33/sec for PassiveLogical
+2017-11-06 12:52:38 Friends  : 99.2% at 38/sec for AlbenaAt
+2017-11-06 12:52:45 Friends  : 98.7% at 42/sec for eeeaaaggg
+2017-11-06 12:52:45 Friends  : Waiting for 8.3 minutes
+2017-11-06 12:53:12 Tweets   : 99.8% at 45/sec for DollardTom
+2017-11-06 12:53:28 Tweets   : 100% at 23/sec for galeandsnowden
+2017-11-06 12:54:37 Tweets   : 100% at 33/sec for PassiveHouseCal
+2017-11-06 12:55:59 Tweets   : 59.9% at 39/sec for PassiveLogical
+2017-11-06 12:56:15 Tweets   : 100% at 24/sec for AlbenaAt
+2017-11-06 12:56:34 Tweets   : 100% at 25/sec for eeeaaaggg
+2017-11-06 12:58:02 Tweets   : 22% at 36/sec for ollywainwright
+2017-11-06 12:59:34 Favorites: 50.7% at 2/sec for PassiveLogical
+2017-11-06 12:59:38 Tweets   : 13.1% at 33/sec for PippaGoldfinger
+2017-11-06 12:59:41 Favorites: 55.5% at 38/sec for AlbenaAt
+2017-11-06 12:59:47 Favorites: 50.6% at 38/sec for eeeaaaggg
+2017-11-06 13:00:51 Tweets   : 99.8% at 43/sec for RIBANorthEast
+2017-11-06 13:00:59 Favorites: 50.7% at 36/sec for ollywainwright
+2017-11-06 13:01:34 Tweets   : 99.9% at 36/sec for CEOCIOB
+2017-11-06 13:01:38 Friends  : 99.4% at 2/sec for ollywainwright
+2017-11-06 13:01:47 Tweets   : 100% at 24/sec for J_Balian
+2017-11-06 13:02:30 Favorites: 19.5% at 35/sec for PippaGoldfinger
+2017-11-06 13:02:32 Friends  : 99% at 32/sec for PippaGoldfinger
+2017-11-06 13:02:38 Favorites: Waiting for 11.6 minutes due to : Used up allowance in a loop
+2017-11-06 13:03:07 Tweets   : 99.1% at 37/sec for rebeccatym
+2017-11-06 13:03:27 Friends  : 99.3% at 28/sec for RIBANorthEast
+2017-11-06 13:03:28 Tweets   : 100% at 28/sec for BauderLtd
+2017-11-06 13:03:28 Friends  : 100% at 2/sec for CEOCIOB
+2017-11-06 13:03:31 Friends  : 95.3% at 29/sec for J_Balian
+2017-11-06 13:03:37 Tweets   : 100% at 17/sec for chynesroofing
+2017-11-06 13:03:52 Friends  : 99.1% at 37/sec for rebeccatym
+2017-11-06 13:04:23 Tweets   : 99.4% at 44/sec for LHCprocurement
+2017-11-06 13:05:30 Tweets   : 99.8% at 40/sec for proctorgroup
+2017-11-06 13:05:43 Friends  : 97.3% at 33/sec for BauderLtd
+2017-11-06 13:05:44 Tweets   : 99.7% at 24/sec for YIRTG
+2017-11-06 13:05:46 Friends  : 99% at 32/sec for chynesroofing
+2017-11-06 13:06:57 Friends  : 99.1% at 39/sec for LHCprocurement
+2017-11-06 13:07:00 Tweets   : 12.4% at 42/sec for BusinessGreen
+2017-11-06 13:08:15 Tweets   : 28% at 43/sec for johnqbarber
+2017-11-06 13:09:07 Friends  : 97.3% at 35/sec for proctorgroup
+2017-11-06 13:09:23 Friends  : 99.3% at 28/sec for YIRTG
+2017-11-06 13:09:30 Tweets   : 67.9% at 42/sec for Lovell_Jon
+2017-11-06 13:10:46 Friends  : 100% at 38/sec for BusinessGreen
+2017-11-06 13:10:54 Tweets   : 24.5% at 38/sec for FeeHorne
+2017-11-06 13:12:06 Friends  : 99.1% at 35/sec for johnqbarber
+2017-11-06 13:12:11 Tweets   : 41.4% at 42/sec for MarkOliver_
+2017-11-06 13:12:56 Friends  : 99.3% at 34/sec for Lovell_Jon
+2017-11-06 13:13:07 Friends  : 99.1% at 39/sec for FeeHorne
+2017-11-06 13:13:07 Friends  : Waiting for 3 minutes
+2017-11-06 13:13:26 Tweets   : 25.5% at 43/sec for BuildingFree
+2017-11-06 13:14:15 Favorites: 65% at 1/sec for RIBANorthEast
+2017-11-06 13:14:18 Favorites: 100% at 36/sec for CEOCIOB
+2017-11-06 13:14:19 Favorites: 100% at 35/sec for J_Balian
+2017-11-06 13:14:49 Tweets   : 59.6% at 38/sec for shahnidhik
+2017-11-06 13:15:17 Favorites: 51.1% at 37/sec for rebeccatym
+2017-11-06 13:15:25 Favorites: 67.6% at 40/sec for BauderLtd
+2017-11-06 13:15:26 Favorites: 92.3% at 10/sec for chynesroofing
+2017-11-06 13:15:34 Favorites: 49.7% at 37/sec for LHCprocurement
+2017-11-06 13:15:57 Tweets   : 99.7% at 41/sec for OnTapTweets
+2017-11-06 13:16:01 Favorites: 54.2% at 36/sec for proctorgroup
+2017-11-06 13:16:08 Favorites: 72.9% at 39/sec for YIRTG
+2017-11-06 13:16:16 Favorites: 71.9% at 39/sec for BusinessGreen
+2017-11-06 13:16:44 Friends  : 99.7% at 6/sec for MarkOliver_
+2017-11-06 13:16:44 Friends  : User BuildingFree has a protected account or no Friendss to collect so skipping
+2017-11-06 13:17:07 Friends  : 99.4% at 34/sec for shahnidhik
+2017-11-06 13:17:12 Favorites: 50.2% at 34/sec for johnqbarber
+2017-11-06 13:17:28 Friends  : 95.1% at 34/sec for OnTapTweets
+2017-11-06 13:17:30 Tweets   : 18.9% at 34/sec for BrianUkulele
+2017-11-06 13:17:34 Favorites: Waiting for 11.7 minutes due to : Used up allowance in a loop
+2017-11-06 13:18:37 Tweets   : 14.2% at 47/sec for projectmgmt
+2017-11-06 13:19:58 Tweets   : 100% at 38/sec for CirrusAssess
+2017-11-06 13:20:52 Tweets   : 100% at 34/sec for Nigel_Shadbolt
+2017-11-06 13:21:11 Tweets   : 99.7% at 35/sec for IBCbuyingpower
+2017-11-06 13:21:18 Tweets   : 100% at 7/sec for jamesencon
+2017-11-06 13:21:51 Friends  : 99.7% at 35/sec for BrianUkulele
+2017-11-06 13:22:32 Tweets   : 70.6% at 43/sec for WillbondWorld
+2017-11-06 13:22:46 Friends  : 99.7% at 34/sec for projectmgmt
+2017-11-06 13:22:54 Tweets   : 100% at 33/sec for CIBSEYENLondon
+2017-11-06 13:23:49 Friends  : 99.6% at 36/sec for CirrusAssess
+2017-11-06 13:23:53 Friends  : 100% at 31/sec for Nigel_Shadbolt
+2017-11-06 13:23:56 Friends  : 100% at 38/sec for IBCbuyingpower
+2017-11-06 13:24:01 Friends  : 95.3% at 34/sec for jamesencon
+2017-11-06 13:24:15 Tweets   : 52.8% at 39/sec for IESVE
+2017-11-06 13:24:29 Friends  : 99% at 38/sec for WillbondWorld
+2017-11-06 13:24:34 Friends  : 98.9% at 33/sec for CIBSEYENLondon
+2017-11-06 13:25:16 Tweets   : 100% at 41/sec for apstalk
+2017-11-06 13:25:17 Friends  : 99.7% at 38/sec for IESVE
+2017-11-06 13:25:30 Friends  : 99.4% at 38/sec for apstalk
+2017-11-06 13:26:16 Friends  : 98.7% at 37/sec for BorisJWorrall
+2017-11-06 13:26:16 Friends  : Waiting for 5 minutes
+2017-11-06 13:26:16 Tweets   : 30.5% at 44/sec for BorisJWorrall
+2017-11-06 13:27:35 Tweets   : 71.7% at 40/sec for JulieW_ongo
+2017-11-06 13:28:56 Tweets   : 17.9% at 40/sec for strangparkhead
+2017-11-06 13:29:16 Favorites: 54.8% at 1/sec for Lovell_Jon
+2017-11-06 13:29:18 Favorites: 56.4% at 46/sec for FeeHorne
+2017-11-06 13:29:28 Favorites: 57.9% at 40/sec for MarkOliver_
+2017-11-06 13:29:28 Favorites: User BuildingFree has a protected account or no Favoritess to collect so skipping
+2017-11-06 13:29:38 Favorites: 63.2% at 41/sec for shahnidhik
+2017-11-06 13:29:55 Favorites: 54.1% at 40/sec for OnTapTweets
+2017-11-06 13:30:22 Favorites: 48.7% at 39/sec for BrianUkulele
+2017-11-06 13:30:27 Favorites: 72.9% at 42/sec for projectmgmt
+2017-11-06 13:30:37 Favorites: 63.4% at 39/sec for CirrusAssess
+2017-11-06 13:30:40 Favorites: 54.9% at 37/sec for Nigel_Shadbolt
+2017-11-06 13:30:42 Favorites: 100% at 37/sec for IBCbuyingpower
+2017-11-06 13:30:45 Favorites: 56.1% at 34/sec for jamesencon
+2017-11-06 13:31:01 Favorites: 56.1% at 37/sec for WillbondWorld
+2017-11-06 13:31:03 Favorites: 65.8% at 40/sec for CIBSEYENLondon
+2017-11-06 13:31:08 Favorites: 83.7% at 38/sec for IESVE
+2017-11-06 13:31:21 Favorites: 54.7% at 40/sec for apstalk
+2017-11-06 13:31:37 Favorites: 56% at 37/sec for BorisJWorrall
+2017-11-06 13:32:08 Friends  : 98.2% at 5/sec for JulieW_ongo
+2017-11-06 13:32:20 Friends  : 97.3% at 36/sec for strangparkhead
+2017-11-06 13:32:24 Favorites: Waiting for 11.8 minutes due to : Used up allowance in a loop
+2017-11-06 13:44:51 Favorites: 33.8% at 4/sec for JulieW_ongo
+2017-11-06 13:44:56 Favorites: 84.3% at 39/sec for strangparkhead
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+Warning message:
+package 'twitteR' was built under R version 3.4.1 

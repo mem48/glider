@@ -1,0 +1,164 @@
+starting worker pid=12672 on localhost:11045 at 06:56:19.787
+starting worker pid=10768 on localhost:11045 at 06:56:19.962
+starting worker pid=6116 on localhost:11045 at 06:56:20.121
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-06 06:56:56 Favorites: 71.6% at 37/sec for DesignArmstrong
+2017-11-06 06:57:08 Favorites: 56.1% at 44/sec for MattTuckerPM
+2017-11-06 06:57:10 Favorites: 61.9% at 48/sec for Trainingbytesiz
+2017-11-06 06:57:12 Friends  : 99.5% at 49/sec for DesignArmstrong
+2017-11-06 06:57:17 Friends  : 95.5% at 40/sec for MattTuckerPM
+2017-11-06 06:58:01 Tweets   : 99.9% at 53/sec for DesignArmstrong
+2017-11-06 06:58:04 Favorites: 50% at 42/sec for Freeman_George
+2017-11-06 06:58:04 Favorites: Waiting for 11.1 minutes due to : Used up allowance in a loop
+2017-11-06 06:58:16 Tweets   : 100% at 36/sec for MattTuckerPM
+2017-11-06 06:58:18 Friends  : 98% at 43/sec for Trainingbytesiz
+2017-11-06 06:58:50 Tweets   : 99.9% at 57/sec for Trainingbytesiz
+2017-11-06 06:59:56 Tweets   : 12.7% at 48/sec for Freeman_George
+2017-11-06 07:00:06 Friends  : 100.1% at 48/sec for Freeman_George
+2017-11-06 07:00:11 Friends  : 99.5% at 43/sec for rczmconsulting
+Error in twInterfaceObj$doAPICall(paste("users", "show", sep = "/"), params = params,  : 
+  Not Found (HTTP 404).
+In addition: Warning message:
+package 'twitteR' was built under R version 3.4.1 
+2017-11-06 07:00:11 Friends: Unable to find account FisSkills moving to next
+2017-11-06 07:00:11 Friends  : % at /sec for FisSkills
+2017-11-06 07:00:12 Tweets   : 100% at 34/sec for rczmconsulting
+2017-11-06 07:00:23 Friends  : 97.9% at 48/sec for claire_spendley
+2017-11-06 07:00:29 Friends  : 92.7% at 41/sec for citbwest
+2017-11-06 07:01:00 Tweets   : 100% at 51/sec for FisSkills
+2017-11-06 07:01:26 Tweets   : 100% at 42/sec for claire_spendley
+2017-11-06 07:01:38 Friends  : 99.2% at 46/sec for ClassofYourOwn
+2017-11-06 07:01:41 Friends  : 96.1% at 47/sec for irenelangcitb
+2017-11-06 07:01:42 Tweets   : 99.8% at 35/sec for citbwest
+2017-11-06 07:01:49 Friends  : 99.1% at 45/sec for JonathanABloom
+2017-11-06 07:01:50 Friends  : 100% at 30/sec for CousinsGB
+2017-11-06 07:02:49 Tweets   : 20% at 48/sec for ClassofYourOwn
+2017-11-06 07:03:02 Tweets   : 98.7% at 29/sec for irenelangcitb
+2017-11-06 07:03:22 Tweets   : 99.9% at 38/sec for JonathanABloom
+2017-11-06 07:03:33 Tweets   : 100% at 30/sec for CousinsGB
+2017-11-06 07:04:28 Friends  : 100% at 49/sec for GoodEnergy
+2017-11-06 07:04:36 Tweets   : 23.4% at 51/sec for GoodEnergy
+2017-11-06 07:04:51 Friends  : 99.6% at 52/sec for TheOrwellPrize
+2017-11-06 07:04:51 Friends  : Waiting for 6.8 minutes
+2017-11-06 07:05:42 Tweets   : 33.2% at 48/sec for TheOrwellPrize
+2017-11-06 07:05:52 Tweets   : 100% at 26/sec for BuildingABC
+2017-11-06 07:06:01 Tweets   : 100% at 25/sec for RuthButlerRIBA
+2017-11-06 07:07:07 Tweets   : 81.3% at 48/sec for PeelLivWaters
+2017-11-06 07:08:07 Tweets   : 49.9% at 54/sec for kathf48
+2017-11-06 07:09:00 Tweets   : 99.8% at 47/sec for LionHeartRICS
+2017-11-06 07:09:30 Favorites: 57.1% at 0/sec for rczmconsulting
+2017-11-06 07:10:06 Tweets   : 84% at 48/sec for LynnJaneR
+2017-11-06 07:10:10 Favorites: 51.8% at 45/sec for FisSkills
+2017-11-06 07:10:15 Favorites: 95.7% at 44/sec for claire_spendley
+2017-11-06 07:10:21 Favorites: 65.5% at 44/sec for citbwest
+2017-11-06 07:10:28 Tweets   : 99.5% at 36/sec for rooftecscotland
+2017-11-06 07:10:30 Favorites: 51.2% at 45/sec for ClassofYourOwn
+2017-11-06 07:10:34 Favorites: 86.2% at 46/sec for irenelangcitb
+2017-11-06 07:10:38 Favorites: 96.1% at 50/sec for JonathanABloom
+2017-11-06 07:10:39 Favorites: 100% at 2/sec for CousinsGB
+2017-11-06 07:10:53 Favorites: 51.5% at 41/sec for GoodEnergy
+2017-11-06 07:10:53 Tweets   : 100% at 39/sec for henrytcpa
+2017-11-06 07:11:03 Favorites: 56.7% at 47/sec for TheOrwellPrize
+2017-11-06 07:11:08 Favorites: 68.4% at 48/sec for BuildingABC
+2017-11-06 07:11:10 Favorites: 100% at 45/sec for RuthButlerRIBA
+2017-11-06 07:11:32 Favorites: 50.4% at 44/sec for PeelLivWaters
+2017-11-06 07:11:54 Tweets   : 23.1% at 53/sec for Logic4training
+2017-11-06 07:12:02 Friends  : 95.5% at 2/sec for BuildingABC
+2017-11-06 07:12:02 Favorites: 48.6% at 43/sec for kathf48
+2017-11-06 07:12:07 Friends  : 97.2% at 45/sec for RuthButlerRIBA
+2017-11-06 07:12:11 Favorites: 55.1% at 45/sec for LionHeartRICS
+2017-11-06 07:12:11 Favorites: Waiting for 12.3 minutes due to : Used up allowance in a loop
+2017-11-06 07:12:27 Friends  : 98.1% at 44/sec for PeelLivWaters
+2017-11-06 07:12:36 Tweets   : 100% at 47/sec for PolypipeWMS
+2017-11-06 07:12:45 Friends  : 99% at 48/sec for kathf48
+2017-11-06 07:12:57 Tweets   : 99.6% at 47/sec for RPCUK
+2017-11-06 07:13:04 Friends  : 98.4% at 55/sec for LionHeartRICS
+2017-11-06 07:13:17 Friends  : 99% at 58/sec for LynnJaneR
+2017-11-06 07:13:25 Friends  : 99.3% at 51/sec for rooftecscotland
+2017-11-06 07:13:34 Friends  : 97.4% at 53/sec for henrytcpa
+2017-11-06 07:14:01 Tweets   : 14.2% at 50/sec for educationgovuk
+2017-11-06 07:14:02 Friends  : 93.6% at 55/sec for Logic4training
+2017-11-06 07:14:20 Friends  : 93.4% at 54/sec for PolypipeWMS
+2017-11-06 07:14:37 Friends  : 99.6% at 51/sec for RPCUK
+2017-11-06 07:14:59 Tweets   : 15.5% at 55/sec for lizpeck10
+2017-11-06 07:15:23 Friends  : 99.8% at 53/sec for educationgovuk
+2017-11-06 07:15:32 Friends  : 100% at 47/sec for lizpeck10
+2017-11-06 07:16:07 Tweets   : 32.2% at 47/sec for fisorg
+2017-11-06 07:16:10 Friends  : 99.3% at 48/sec for fisorg
+2017-11-06 07:16:44 Friends  : 95.7% at 52/sec for adclarkie
+2017-11-06 07:16:44 Friends  : Waiting for 10.2 minutes
+2017-11-06 07:17:15 Tweets   : 70.3% at 47/sec for adclarkie
+2017-11-06 07:18:15 Tweets   : 99.8% at 51/sec for CIHNW
+2017-11-06 07:18:53 Tweets   : 99.9% at 49/sec for MelanieReesCIH
+2017-11-06 07:19:03 Tweets   : 100% at 23/sec for DebbieAOCITB
+2017-11-06 07:20:05 Tweets   : 44.1% at 52/sec for EHWLC
+2017-11-06 07:21:04 Tweets   : 52.5% at 54/sec for DRossiter87
+2017-11-06 07:22:14 Tweets   : 24.5% at 46/sec for profjacquiglass
+2017-11-06 07:23:22 Tweets   : 19.1% at 47/sec for TonyStacey
+2017-11-06 07:23:43 Tweets   : 99.9% at 44/sec for vickmagu
+2017-11-06 07:24:51 Tweets   : 43.8% at 47/sec for JimMcCormick16
+2017-11-06 07:24:53 Favorites: 52.1% at 0/sec for LynnJaneR
+2017-11-06 07:25:02 Tweets   : 93.1% at 30/sec for Eve_McMahon
+2017-11-06 07:25:07 Favorites: 58.8% at 43/sec for rooftecscotland
+2017-11-06 07:25:19 Favorites: 52% at 47/sec for henrytcpa
+2017-11-06 07:25:35 Favorites: 54.6% at 44/sec for Logic4training
+2017-11-06 07:25:39 Favorites: 96.1% at 45/sec for PolypipeWMS
+2017-11-06 07:25:43 Favorites: 64.4% at 46/sec for RPCUK
+2017-11-06 07:25:59 Favorites: 54% at 44/sec for educationgovuk
+2017-11-06 07:26:01 Tweets   : 51.7% at 54/sec for homegroup
+2017-11-06 07:26:04 Favorites: 64.6% at 42/sec for lizpeck10
+2017-11-06 07:26:20 Favorites: 56.2% at 44/sec for fisorg
+2017-11-06 07:26:22 Tweets   : 99.8% at 40/sec for Lynnc_BaH
+2017-11-06 07:27:29 Tweets   : 32.1% at 48/sec for AshdenAwards
+2017-11-06 07:27:33 Favorites: 38.1% at 44/sec for adclarkie
+2017-11-06 07:27:33 Favorites: Waiting for 12.2 minutes due to : Used up allowance in a loop
+2017-11-06 07:27:40 Tweets   : 100% at 25/sec for EmmaOsmun
+2017-11-06 07:27:44 Friends  : 99.5% at 3/sec for CIHNW
+2017-11-06 07:27:51 Friends  : 96.4% at 52/sec for MelanieReesCIH
+2017-11-06 07:27:54 Friends  : 97.7% at 40/sec for DebbieAOCITB
+2017-11-06 07:28:15 Friends  : 98.5% at 51/sec for EHWLC
+2017-11-06 07:28:27 Friends  : 97.5% at 47/sec for DRossiter87
+2017-11-06 07:28:47 Tweets   : 45.2% at 48/sec for WolfgangFeist
+2017-11-06 07:29:49 Tweets   : 77.3% at 51/sec for sdpscotland
+2017-11-06 07:29:50 Friends  : 98.1% at 50/sec for profjacquiglass
+2017-11-06 07:30:01 Tweets   : 100% at 27/sec for PhotonEnergyUK
+2017-11-06 07:30:26 Tweets   : 100% at 42/sec for AnnaSurgenor
+2017-11-06 07:30:36 Friends  : 98.3% at 50/sec for TonyStacey
+2017-11-06 07:31:06 Friends  : 95.9% at 56/sec for vickmagu
+2017-11-06 07:31:52 Friends  : 99.3% at 54/sec for JimMcCormick16
+2017-11-06 07:31:58 Friends  : 100% at 43/sec for Eve_McMahon
+2017-11-06 07:32:30 Friends  : 99.1% at 48/sec for homegroup
+2017-11-06 07:32:40 Friends  : 100% at 45/sec for Lynnc_BaH
+2017-11-06 07:33:43 Friends  : 99% at 53/sec for AshdenAwards
+2017-11-06 07:33:52 Friends  : 97.6% at 51/sec for EmmaOsmun
+2017-11-06 07:34:03 Friends  : 99.5% at 53/sec for WolfgangFeist
+2017-11-06 07:34:03 Friends  : Waiting for 8.2 minutes
+2017-11-06 07:40:26 Favorites: 54.8% at 1/sec for CIHNW
+2017-11-06 07:40:53 Favorites: 50.4% at 44/sec for MelanieReesCIH
+2017-11-06 07:40:54 Favorites: 100% at 34/sec for DebbieAOCITB
+2017-11-06 07:41:13 Favorites: 52.9% at 47/sec for EHWLC
+2017-11-06 07:41:36 Favorites: 51.6% at 46/sec for DRossiter87
+2017-11-06 07:42:30 Friends  : 99.7% at 1/sec for sdpscotland
+2017-11-06 07:42:49 Favorites: Waiting for 12.3 minutes due to : Used up allowance in a loop
+2017-11-06 07:42:53 Friends  : 92.8% at 55/sec for PhotonEnergyUK
+2017-11-06 07:43:02 Friends  : 100% at 49/sec for AnnaSurgenor
+2017-11-06 07:55:21 Favorites: 28.6% at 4/sec for profjacquiglass
+2017-11-06 07:56:36 Favorites: 47.6% at 42/sec for TonyStacey
+2017-11-06 07:56:58 Favorites: 53.4% at 45/sec for vickmagu
+2017-11-06 07:57:53 Favorites: 51.3% at 42/sec for JimMcCormick16
+2017-11-06 07:57:56 Favorites: 69.6% at 41/sec for Eve_McMahon
+2017-11-06 07:58:03 Favorites: 50.5% at 44/sec for homegroup
+2017-11-06 07:58:05 Favorites: 51.3% at 44/sec for Lynnc_BaH
+2017-11-06 07:58:10 Favorites: Waiting for 12.2 minutes due to : Used up allowance in a loop
+2017-11-06 08:10:56 Favorites: 52.8% at 1/sec for AshdenAwards
+2017-11-06 08:10:59 Favorites: 55.9% at 43/sec for EmmaOsmun
+2017-11-06 08:11:01 Favorites: 86.2% at 45/sec for WolfgangFeist
+2017-11-06 08:11:13 Favorites: 59.5% at 41/sec for sdpscotland
+2017-11-06 08:11:15 Favorites: 96.2% at 51/sec for PhotonEnergyUK
+2017-11-06 08:11:17 Favorites: 85.5% at 45/sec for AnnaSurgenor
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+Warning message:
+package 'twitteR' was built under R version 3.4.1 

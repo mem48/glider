@@ -1,0 +1,177 @@
+starting worker pid=21188 on localhost:11045 at 14:09:33.880
+starting worker pid=14296 on localhost:11045 at 14:09:34.036
+starting worker pid=17812 on localhost:11045 at 14:09:34.196
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-12 14:12:23 Friends  : 100% at 35/sec for netnatives
+2017-11-12 14:12:43 Friends  : 99.7% at 37/sec for NULC
+2017-11-12 14:12:59 Favorites: 35.1% at 37/sec for netnatives
+2017-11-12 14:13:14 Favorites: 72.4% at 19/sec for NULC
+2017-11-12 14:13:33 Friends  : 98.9% at 31/sec for OnnMel
+2017-11-12 14:13:45 Favorites: 51.7% at 35/sec for OnnMel
+2017-11-12 14:13:45 Favorites: 96.2% at 36/sec for PaulBlomfieldMP
+2017-11-12 14:13:50 Favorites: 85.4% at 40/sec for peterthompson78
+2017-11-12 14:13:51 Favorites: Waiting for 4.8 minutes due to : Used up allowance in a loop
+2017-11-12 14:14:52 Friends  : 99.4% at 35/sec for PaulBlomfieldMP
+2017-11-12 14:15:07 Friends  : 100% at 37/sec for peterthompson78
+2017-11-12 14:15:52 Tweets   : 56.3% at 41/sec for netnatives
+2017-11-12 14:17:08 Tweets   : 46.6% at 42/sec for NULC
+2017-11-12 14:17:10 Friends  : 96.3% at 35/sec for PetrocOfficial
+2017-11-12 14:17:35 Friends  : 99% at 38/sec for PlumptonCollege
+2017-11-12 14:18:12 Tweets   : 20.8% at 50/sec for OnnMel
+2017-11-12 14:18:25 Friends  : 99.9% at 34/sec for RCU_Limited
+2017-11-12 14:18:41 Friends  : 99.6% at 31/sec for REGYATES
+2017-11-12 14:19:04 Favorites: 57% at 2/sec for PetrocOfficial
+2017-11-12 14:19:09 Favorites: 51.8% at 34/sec for PlumptonCollege
+2017-11-12 14:19:10 Favorites: 100% at 43/sec for RCU_Limited
+2017-11-12 14:19:12 Friends  : 99.3% at 31/sec for sarahwollaston
+2017-11-12 14:19:17 Tweets   : 65.2% at 49/sec for PaulBlomfieldMP
+2017-11-12 14:19:22 Favorites: 53% at 33/sec for REGYATES
+2017-11-12 14:19:25 Friends  : 99.8% at 30/sec for SOT6FC
+2017-11-12 14:19:27 Favorites: 53.8% at 39/sec for sarahwollaston
+2017-11-12 14:19:30 Tweets   : 99.8% at 34/sec for peterthompson78
+2017-11-12 14:19:32 Favorites: 51.3% at 41/sec for SOT6FC
+[1] "Server error: (500) Internal Server Error"
+[1] "This error is likely transient, retrying up to 5 more times ..."
+2017-11-12 14:19:56 Favorites: 52.3% at 36/sec for SouthEssexColl
+2017-11-12 14:19:58 Friends  : 98.6% at 30/sec for SouthEssexColl
+2017-11-12 14:20:09 Favorites: 52.5% at 32/sec for SouthThamesColl
+2017-11-12 14:20:10 Favorites: 87.6% at 62/sec for StCharlesSFC
+2017-11-12 14:20:11 Favorites: 100% at 11/sec for Sue_STC
+2017-11-12 14:20:20 Favorites: 65.7% at 32/sec for TamesideCollege
+2017-11-12 14:20:31 Favorites: 61.7% at 36/sec for TreshamCollege
+2017-11-12 14:20:39 Tweets   : 57% at 46/sec for PetrocOfficial
+2017-11-12 14:20:41 Favorites: 55.1% at 38/sec for tynemet
+2017-11-12 14:20:57 Friends  : 99.8% at 29/sec for SouthThamesColl
+2017-11-12 14:21:01 Friends  : 98.7% at 18/sec for StCharlesSFC
+2017-11-12 14:21:03 Friends  : 100% at 30/sec for Sue_STC
+2017-11-12 14:21:03 Friends  : Waiting for 5.2 minutes
+2017-11-12 14:21:06 Favorites: 50.1% at 32/sec for ukEdge
+2017-11-12 14:21:27 Tweets   : 100% at 46/sec for PlumptonCollege
+2017-11-12 14:21:34 Favorites: 50.4% at 37/sec for WarwickshireCol
+2017-11-12 14:21:47 Tweets   : 99.6% at 35/sec for RCU_Limited
+2017-11-12 14:21:58 Favorites: 53.6% at 37/sec for Westking
+2017-11-12 14:22:08 Favorites: Waiting for 11.7 minutes due to : Used up allowance in a loop
+2017-11-12 14:22:51 Tweets   : 42.4% at 50/sec for REGYATES
+2017-11-12 14:23:52 Tweets   : 26% at 52/sec for sarahwollaston
+2017-11-12 14:24:59 Tweets   : 84.5% at 47/sec for SOT6FC
+2017-11-12 14:26:06 Tweets   : 24.6% at 48/sec for SouthEssexColl
+2017-11-12 14:26:37 Friends  : 100% at 1/sec for TamesideCollege
+2017-11-12 14:26:54 Friends  : 100% at 36/sec for TreshamCollege
+2017-11-12 14:27:08 Friends  : 99% at 36/sec for tynemet
+2017-11-12 14:27:18 Tweets   : 80.5% at 45/sec for SouthThamesColl
+2017-11-12 14:27:43 Tweets   : 99.6% at 37/sec for StCharlesSFC
+2017-11-12 14:27:48 Friends  : 99.7% at 39/sec for ukEdge
+2017-11-12 14:27:50 Tweets   : 100% at 10/sec for Sue_STC
+2017-11-12 14:28:10 Friends  : 99% at 40/sec for WarwickshireCol
+2017-11-12 14:28:41 Friends  : 99.2% at 35/sec for Westking
+2017-11-12 14:28:52 Friends  : 99.1% at 32/sec for WestNotts
+2017-11-12 14:29:01 Tweets   : 57.9% at 45/sec for TamesideCollege
+2017-11-12 14:30:08 Tweets   : 48.6% at 48/sec for TreshamCollege
+2017-11-12 14:30:41 Friends  : 99.9% at 34/sec for westoncollege
+2017-11-12 14:31:02 Tweets   : 98.6% at 46/sec for tynemet
+2017-11-12 14:31:07 Friends  : 98.8% at 35/sec for winstanleycoll
+2017-11-12 14:31:59 Friends  : 98.9% at 33/sec for xtophercook
+2017-11-12 14:32:09 Tweets   : 43.7% at 47/sec for ukEdge
+2017-11-12 14:32:26 Friends  : 100% at 33/sec for AKWinstallers
+2017-11-12 14:33:22 Tweets   : 28.2% at 44/sec for WarwickshireCol
+2017-11-12 14:34:14 Favorites: 48.7% at 1/sec for WestNotts
+2017-11-12 14:34:19 Friends  : 93.6% at 32/sec for alpha_wholesale
+2017-11-12 14:34:27 Friends  : 99.3% at 19/sec for ascentuk
+Error in twInterfaceObj$doAPICall(paste("users", "show", sep = "/"), params = params,  : 
+  Not Found (HTTP 404).
+In addition: Warning message:
+package 'twitteR' was built under R version 3.4.1 
+2017-11-12 14:34:27 Friends: Unable to find account Courtprice_Ins moving to next
+2017-11-12 14:34:27 Friends  : % at /sec for Courtprice_Ins
+2017-11-12 14:34:33 Favorites: 56.2% at 35/sec for westoncollege
+2017-11-12 14:34:33 Tweets   : 30.4% at 45/sec for Westking
+2017-11-12 14:34:47 Favorites: 53.4% at 41/sec for winstanleycoll
+2017-11-12 14:34:54 Favorites: 65% at 27/sec for xtophercook
+2017-11-12 14:34:55 Favorites: 100% at 59/sec for AKWinstallers
+2017-11-12 14:35:03 Favorites: 51.3% at 39/sec for alpha_wholesale
+2017-11-12 14:35:06 Favorites: 100% at 7/sec for ascentuk
+2017-11-12 14:35:06 Favorites: 100% at 39/sec for Courtprice_Ins
+2017-11-12 14:35:44 Friends  : 99.4% at 29/sec for djliamh
+2017-11-12 14:35:48 Tweets   : 36.8% at 43/sec for WestNotts
+2017-11-12 14:36:08 Favorites: 49.7% at 37/sec for djliamh
+2017-11-12 14:36:38 Favorites: 49.8% at 33/sec for DR_Plumbing
+2017-11-12 14:36:43 Friends  : 94.6% at 33/sec for DR_Plumbing
+2017-11-12 14:36:43 Friends  : Waiting for 4.8 minutes
+2017-11-12 14:37:03 Tweets   : 62.7% at 42/sec for westoncollege
+2017-11-12 14:37:21 Favorites: Waiting for 11.8 minutes due to : Used up allowance in a loop
+2017-11-12 14:38:11 Tweets   : 96.6% at 47/sec for winstanleycoll
+2017-11-12 14:39:17 Tweets   : 5.5% at 48/sec for xtophercook
+2017-11-12 14:39:31 Tweets   : 100% at 24/sec for AKWinstallers
+2017-11-12 14:40:09 Tweets   : 100% at 36/sec for alpha_wholesale
+2017-11-12 14:40:25 Tweets   : 100% at 37/sec for ascentuk
+2017-11-12 14:40:35 Tweets   : 100% at 22/sec for Courtprice_Ins
+2017-11-12 14:41:32 Tweets   : 36.6% at 56/sec for djliamh
+2017-11-12 14:41:45 Friends  : 93% at 1/sec for ExpertTradesmen
+2017-11-12 14:41:55 Tweets   : 99.7% at 45/sec for DR_Plumbing
+2017-11-12 14:42:42 Friends  : 96.9% at 34/sec for FerroliUK
+2017-11-12 14:42:59 Tweets   : 48.4% at 50/sec for ExpertTradesmen
+2017-11-12 14:44:04 Tweets   : 82.7% at 49/sec for FerroliUK
+2017-11-12 14:45:10 Tweets   : 6.9% at 49/sec for fuelcardpeople
+2017-11-12 14:45:13 Friends  : 92.4% at 33/sec for fuelcardpeople
+2017-11-12 14:46:19 Tweets   : 39.9% at 46/sec for GreenwoodAirvac
+2017-11-12 14:46:48 Tweets   : 99.8% at 42/sec for heatingbrighton
+2017-11-12 14:46:50 Friends  : 98.7% at 36/sec for GreenwoodAirvac
+2017-11-12 14:47:02 Friends  : 96.3% at 41/sec for heatingbrighton
+2017-11-12 14:47:04 Friends  : 98.5% at 37/sec for HeatingYourHome
+2017-11-12 14:47:14 Tweets   : 100% at 40/sec for HeatingYourHome
+2017-11-12 14:48:10 Friends  : 97.5% at 42/sec for ideal_heating
+2017-11-12 14:48:21 Tweets   : 20.3% at 48/sec for ideal_heating
+2017-11-12 14:48:46 Friends  : 99.8% at 38/sec for IMNcontent
+2017-11-12 14:49:18 Tweets   : 99.8% at 46/sec for IMNcontent
+2017-11-12 14:49:35 Favorites: 50.3% at 2/sec for ExpertTradesmen
+2017-11-12 14:49:39 Favorites: 56.5% at 26/sec for FerroliUK
+2017-11-12 14:49:44 Favorites: 52.9% at 39/sec for fuelcardpeople
+2017-11-12 14:49:50 Friends  : 99.1% at 39/sec for ImpraGasLtd
+Error in twInterfaceObj$doAPICall(paste("users", "show", sep = "/"), params = params,  : 
+  Not Found (HTTP 404).
+2017-11-12 14:49:50 Friends: Unable to find account juhearn1 moving to next
+2017-11-12 14:49:50 Friends  : % at /sec for juhearn1
+2017-11-12 14:49:53 Tweets   : 99.9% at 37/sec for ImpraGasLtd
+2017-11-12 14:49:59 Favorites: 56.3% at 38/sec for GreenwoodAirvac
+2017-11-12 14:50:10 Favorites: 56.5% at 38/sec for heatingbrighton
+2017-11-12 14:50:13 Tweets   : 100% at 31/sec for juhearn1
+2017-11-12 14:50:15 Favorites: 50.3% at 39/sec for HeatingYourHome
+2017-11-12 14:51:18 Tweets   : 99.7% at 42/sec for Kenton475
+2017-11-12 14:51:26 Friends  : 95.6% at 41/sec for Kenton475
+2017-11-12 14:51:34 Favorites: 49.9% at 36/sec for ideal_heating
+2017-11-12 14:51:41 Favorites: 52.6% at 46/sec for IMNcontent
+2017-11-12 14:51:48 Favorites: 95.1% at 26/sec for ImpraGasLtd
+2017-11-12 14:51:58 Favorites: 53.3% at 39/sec for juhearn1
+2017-11-12 14:52:14 Favorites: 53.7% at 37/sec for Kenton475
+2017-11-12 14:52:18 Friends  : 98.9% at 39/sec for KinedobySaniflo
+2017-11-12 14:52:38 Friends  : 86.8% at 35/sec for lukeperry1986
+2017-11-12 14:52:39 Tweets   : 34% at 40/sec for KinedobySaniflo
+2017-11-12 14:52:52 Favorites: 52.2% at 37/sec for KinedobySaniflo
+2017-11-12 14:52:52 Favorites: Waiting for 11.6 minutes due to : Used up allowance in a loop
+2017-11-12 14:53:15 Tweets   : 99.5% at 53/sec for lukeperry1986
+2017-11-12 14:54:24 Tweets   : 23.9% at 46/sec for MarkMooseOwen
+2017-11-12 14:54:42 Tweets   : 100% at 39/sec for megaflo
+2017-11-12 14:54:46 Friends  : 97.9% at 40/sec for MarkMooseOwen
+2017-11-12 14:54:46 Friends  : Waiting for 1.9 minutes
+2017-11-12 14:54:53 Tweets   : 100% at 11/sec for MycroftHeating
+2017-11-12 14:55:06 Tweets   : 100% at 27/sec for NatashaMaycock
+2017-11-12 14:56:05 Tweets   : 76.8% at 54/sec for natters4
+2017-11-12 14:56:35 Tweets   : 99.8% at 43/sec for NGSMark
+2017-11-12 14:56:53 Friends  : 100% at 2/sec for megaflo
+2017-11-12 14:56:55 Friends  : 100% at 27/sec for MycroftHeating
+2017-11-12 14:57:04 Friends  : 98.6% at 33/sec for NatashaMaycock
+2017-11-12 14:57:37 Friends  : 99.8% at 36/sec for natters4
+2017-11-12 14:57:52 Friends  : 87% at 42/sec for NGSMark
+2017-11-12 15:05:53 Favorites: 50% at 3/sec for lukeperry1986
+2017-11-12 15:06:32 Favorites: 52.8% at 35/sec for MarkMooseOwen
+2017-11-12 15:06:33 Favorites: 68.5% at 74/sec for megaflo
+2017-11-12 15:06:34 Favorites: 100% at 25/sec for MycroftHeating
+2017-11-12 15:06:37 Favorites: 100% at 22/sec for NatashaMaycock
+2017-11-12 15:06:46 Favorites: 64% at 43/sec for natters4
+2017-11-12 15:07:23 Favorites: 51.5% at 40/sec for NGSMark
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+Warning message:
+package 'twitteR' was built under R version 3.4.1 

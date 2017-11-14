@@ -1,0 +1,174 @@
+starting worker pid=20444 on localhost:11045 at 06:38:22.131
+starting worker pid=19916 on localhost:11045 at 06:38:22.293
+starting worker pid=5812 on localhost:11045 at 06:38:22.450
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-09 06:38:45 Friends  : 96.3% at 38/sec for BreathingBuild
+2017-11-09 06:38:57 Favorites: 87.7% at 39/sec for BreathingBuild
+2017-11-09 06:38:59 Friends  : 98% at 45/sec for buildingphysics
+2017-11-09 06:39:13 Favorites: 50.7% at 45/sec for buildingphysics
+2017-11-09 06:39:38 Favorites: 52.1% at 43/sec for Carrie_Behar
+2017-11-09 06:39:40 Tweets   : 99.4% at 43/sec for BreathingBuild
+2017-11-09 06:39:50 Friends  : 99.9% at 43/sec for Carrie_Behar
+2017-11-09 06:40:08 Friends  : 95.5% at 47/sec for CathNoakes
+Error in twInterfaceObj$doAPICall(paste("users", "show", sep = "/"), params = params,  : 
+  Not Found (HTTP 404).
+In addition: Warning message:
+package 'twitteR' was built under R version 3.4.1 
+2017-11-09 06:40:09 Friends: Unable to find account CIBSEScot moving to next
+2017-11-09 06:40:09 Friends  : % at /sec for CIBSEScot
+2017-11-09 06:40:10 Tweets   : 100% at 41/sec for buildingphysics
+2017-11-09 06:40:24 Favorites: 50.7% at 44/sec for CathNoakes
+2017-11-09 06:40:26 Favorites: 89.3% at 49/sec for CIBSEScot
+2017-11-09 06:40:27 Favorites: Waiting for 11.1 minutes due to : Used up allowance in a loop
+2017-11-09 06:40:27 Friends  : 99.6% at 42/sec for ClimavenetaHVAC
+2017-11-09 06:41:08 Friends  : 99.6% at 43/sec for crimsontidempro
+2017-11-09 06:41:11 Friends  : 95.8% at 29/sec for Danny_J0hnson
+2017-11-09 06:41:25 Tweets   : 14.9% at 42/sec for Carrie_Behar
+2017-11-09 06:42:26 Tweets   : 84.7% at 52/sec for CathNoakes
+2017-11-09 06:42:29 Friends  : 94.5% at 49/sec for DWElectricalUK
+2017-11-09 06:42:31 Friends  : 100% at 27/sec for emiliamisia
+2017-11-09 06:42:33 Friends  : 100% at 35/sec for EnerGJones
+2017-11-09 06:42:35 Tweets   : 100% at 23/sec for CIBSEScot
+2017-11-09 06:43:38 Tweets   : 79% at 51/sec for ClimavenetaHVAC
+2017-11-09 06:43:41 Friends  : 98.2% at 46/sec for FagerhultUK
+2017-11-09 06:43:51 Friends  : 99.6% at 47/sec for FairHeat
+2017-11-09 06:43:58 Friends  : 100% at 44/sec for Fiona_Cousins
+2017-11-09 06:44:15 Tweets   : 99.7% at 53/sec for crimsontidempro
+2017-11-09 06:44:21 Tweets   : 100% at 13/sec for Danny_J0hnson
+2017-11-09 06:44:43 Friends  : 99.7% at 45/sec for geocracoe
+2017-11-09 06:44:52 Friends  : 99.4% at 39/sec for hpf_group
+2017-11-09 06:44:52 Friends  : Waiting for 8.8 minutes
+2017-11-09 06:45:10 Tweets   : 100% at 54/sec for DWElectricalUK
+2017-11-09 06:45:16 Tweets   : 100% at 3/sec for emiliamisia
+2017-11-09 06:45:24 Tweets   : 100% at 20/sec for EnerGJones
+2017-11-09 06:46:26 Tweets   : 87% at 51/sec for FagerhultUK
+2017-11-09 06:46:34 Tweets   : 100% at 23/sec for FairHeat
+2017-11-09 06:46:59 Tweets   : 100% at 50/sec for Fiona_Cousins
+2017-11-09 06:47:22 Tweets   : 99.9% at 46/sec for geocracoe
+2017-11-09 06:47:34 Tweets   : 99.7% at 32/sec for hpf_group
+2017-11-09 06:47:47 Tweets   : 100% at 35/sec for HydesKevin
+2017-11-09 06:48:51 Tweets   : 55.5% at 50/sec for iamChermac
+2017-11-09 06:49:48 Tweets   : 31.2% at 56/sec for IChemE
+2017-11-09 06:50:40 Tweets   : 99.8% at 51/sec for IHEEM
+2017-11-09 06:51:34 Tweets   : 37% at 59/sec for LampShopOnline
+2017-11-09 06:51:48 Tweets   : 99.8% at 39/sec for LateralTec
+2017-11-09 06:51:59 Favorites: 73.4% at 0/sec for ClimavenetaHVAC
+2017-11-09 06:52:01 Favorites: 100% at 42/sec for crimsontidempro
+2017-11-09 06:52:04 Favorites: 73.9% at 43/sec for Danny_J0hnson
+2017-11-09 06:52:06 Favorites: 74.6% at 45/sec for DWElectricalUK
+2017-11-09 06:52:06 Favorites: 100% at 31/sec for emiliamisia
+2017-11-09 06:52:08 Favorites: 100% at 39/sec for EnerGJones
+2017-11-09 06:52:19 Tweets   : 99.8% at 50/sec for LochinvarLtd
+2017-11-09 06:52:25 Favorites: 49.7% at 47/sec for FagerhultUK
+2017-11-09 06:52:26 Tweets   : 100% at 15/sec for m1tch4
+2017-11-09 06:52:26 Favorites: 97.7% at 47/sec for FairHeat
+2017-11-09 06:52:28 Favorites: 93.4% at 49/sec for Fiona_Cousins
+2017-11-09 06:52:31 Favorites: 53.8% at 42/sec for geocracoe
+2017-11-09 06:52:35 Favorites: 62.5% at 52/sec for hpf_group
+2017-11-09 06:52:37 Favorites: 59.5% at 52/sec for HydesKevin
+2017-11-09 06:52:54 Tweets   : 99.9% at 48/sec for melaniejane25
+2017-11-09 06:53:05 Tweets   : 100% at 25/sec for OneEightyLight
+2017-11-09 06:53:11 Favorites: 49.3% at 46/sec for iamChermac
+2017-11-09 06:53:22 Favorites: 49.7% at 43/sec for IChemE
+2017-11-09 06:53:27 Tweets   : 100% at 44/sec for purrmetrix
+2017-11-09 06:53:28 Favorites: 61.8% at 48/sec for IHEEM
+2017-11-09 06:53:41 Favorites: 55.1% at 46/sec for LampShopOnline
+2017-11-09 06:53:43 Tweets   : 100% at 38/sec for stephenhowe76
+2017-11-09 06:53:43 Favorites: 86% at 48/sec for LateralTec
+2017-11-09 06:53:44 Favorites: 95% at 34/sec for LochinvarLtd
+2017-11-09 06:53:45 Favorites: 100% at 42/sec for m1tch4
+2017-11-09 06:53:47 Favorites: 59.9% at 47/sec for melaniejane25
+2017-11-09 06:53:49 Favorites: 75% at 47/sec for OneEightyLight
+2017-11-09 06:53:50 Tweets   : 70.5% at 57/sec for stevehuntassoc
+2017-11-09 06:53:50 Favorites: 100% at 19/sec for purrmetrix
+2017-11-09 06:53:50 Tweets   : Waiting for 0.4 minutes
+2017-11-09 06:53:51 Favorites: 100% at 54/sec for stephenhowe76
+2017-11-09 06:53:56 Favorites: 56.1% at 45/sec for stevehuntassoc
+2017-11-09 06:54:00 Favorites: 74.6% at 50/sec for SutcliffeCons
+2017-11-09 06:54:08 Friends  : 96.8% at 1/sec for HydesKevin
+2017-11-09 06:54:10 Friends  : 100% at 17/sec for iamChermac
+2017-11-09 06:54:14 Favorites: 52.2% at 48/sec for thinkBIM
+2017-11-09 06:54:23 Friends  : 97.7% at 44/sec for IChemE
+2017-11-09 06:54:25 Favorites: 50.4% at 44/sec for ukbuilding
+2017-11-09 06:54:26 Favorites: Waiting for 12.4 minutes due to : Used up allowance in a loop
+2017-11-09 06:54:42 Friends  : 99.2% at 50/sec for IHEEM
+2017-11-09 06:54:45 Tweets   : 99.9% at 28/sec for SutcliffeCons
+2017-11-09 06:55:49 Tweets   : 45.9% at 50/sec for thinkBIM
+2017-11-09 06:56:01 Tweets   : 100% at 28/sec for ukbuilding
+2017-11-09 06:56:31 Friends  : 97.6% at 43/sec for LampShopOnline
+2017-11-09 06:56:41 Friends  : 100% at 43/sec for LateralTec
+2017-11-09 06:57:01 Tweets   : 43.1% at 53/sec for vaillantuk
+2017-11-09 06:57:02 Friends  : 98.8% at 43/sec for LochinvarLtd
+2017-11-09 06:57:08 Friends  : 99.1% at 40/sec for m1tch4
+2017-11-09 06:57:12 Friends  : 99.5% at 44/sec for melaniejane25
+2017-11-09 06:57:37 Friends  : 99.8% at 43/sec for OneEightyLight
+2017-11-09 06:57:54 Tweets   : 99.5% at 47/sec for WiP_SW
+2017-11-09 06:57:57 Friends  : 99.9% at 39/sec for purrmetrix
+2017-11-09 06:58:01 Friends  : 97.1% at 33/sec for stephenhowe76
+2017-11-09 06:58:13 Tweets   : 97.6% at 41/sec for nboothandford
+2017-11-09 06:58:28 Friends  : 98% at 44/sec for stevehuntassoc
+2017-11-09 06:58:48 Friends  : 99% at 49/sec for SutcliffeCons
+2017-11-09 06:59:07 Friends  : 96.9% at 47/sec for thinkBIM
+2017-11-09 06:59:08 Friends  : Waiting for 9.9 minutes
+2017-11-09 06:59:13 Tweets   : 20% at 53/sec for bcs
+2017-11-09 06:59:57 Tweets   : 99.9% at 48/sec for Beard_Construct
+2017-11-09 07:01:03 Tweets   : 48.4% at 48/sec for CAE_info
+2017-11-09 07:01:56 Tweets   : 100.1% at 55/sec for CamargueUK
+2017-11-09 07:03:00 Tweets   : 54.2% at 50/sec for CIWEM
+2017-11-09 07:04:01 Tweets   : 5.7% at 53/sec for ConstructConnx
+2017-11-09 07:04:49 Tweets   : 99.2% at 47/sec for Crossrail2
+2017-11-09 07:05:29 Tweets   : 99.9% at 51/sec for CScotIC
+2017-11-09 07:06:17 Tweets   : 99.7% at 50/sec for Eoin_Burns
+2017-11-09 07:07:13 Tweets   : 1.8% at 57/sec for FT
+2017-11-09 07:08:15 Tweets   : 77% at 52/sec for GleedsGlobal
+2017-11-09 07:08:25 Favorites: 44.9% at 4/sec for vaillantuk
+2017-11-09 07:08:49 Favorites: 52.6% at 47/sec for WiP_SW
+2017-11-09 07:08:50 Favorites: 79.2% at 41/sec for nboothandford
+2017-11-09 07:09:17 Tweets   : 84.1% at 51/sec for IMechE
+2017-11-09 07:09:25 Tweets   : 100% at 13/sec for kamilatomaszew7
+2017-11-09 07:09:34 Favorites: 51.3% at 45/sec for bcs
+2017-11-09 07:09:35 Tweets   : 100% at 23/sec for rosbort
+2017-11-09 07:09:39 Friends  : 98.5% at 1/sec for ukbuilding
+2017-11-09 07:09:52 Favorites: 55.2% at 46/sec for Beard_Construct
+2017-11-09 07:09:57 Favorites: Waiting for 12.3 minutes due to : Used up allowance in a loop
+2017-11-09 07:10:14 Friends  : 99.4% at 44/sec for vaillantuk
+2017-11-09 07:10:42 Friends  : 98.1% at 43/sec for WiP_SW
+2017-11-09 07:10:46 Friends  : 98.6% at 34/sec for nboothandford
+2017-11-09 07:11:20 Friends  : 99.6% at 51/sec for bcs
+2017-11-09 07:11:37 Friends  : 99.6% at 45/sec for Beard_Construct
+2017-11-09 07:12:31 Friends  : 97.5% at 45/sec for CAE_info
+2017-11-09 07:12:50 Friends  : 99.8% at 48/sec for CamargueUK
+2017-11-09 07:13:17 Friends  : 99.9% at 50/sec for CIWEM
+2017-11-09 07:13:27 Friends  : 100% at 43/sec for ConstructConnx
+2017-11-09 07:14:14 Friends  : 99% at 47/sec for Crossrail2
+2017-11-09 07:14:56 Friends  : 99% at 47/sec for CScotIC
+2017-11-09 07:16:01 Friends  : 98.9% at 45/sec for Eoin_Burns
+2017-11-09 07:16:20 Friends  : 99.3% at 42/sec for FT
+2017-11-09 07:16:38 Friends  : 98.3% at 42/sec for GleedsGlobal
+2017-11-09 07:16:38 Friends  : Waiting for 7.8 minutes
+2017-11-09 07:22:52 Favorites: 52.2% at 1/sec for CAE_info
+2017-11-09 07:22:53 Favorites: 100% at 17/sec for CamargueUK
+2017-11-09 07:23:12 Favorites: 54.5% at 46/sec for CIWEM
+2017-11-09 07:23:14 Favorites: 54.7% at 41/sec for ConstructConnx
+2017-11-09 07:23:16 Favorites: 57.2% at 49/sec for Crossrail2
+2017-11-09 07:23:31 Favorites: 55.8% at 48/sec for CScotIC
+2017-11-09 07:24:07 Favorites: 50% at 46/sec for Eoin_Burns
+2017-11-09 07:24:08 Favorites: 94.9% at 35/sec for FT
+2017-11-09 07:24:25 Favorites: 52.3% at 47/sec for GleedsGlobal
+2017-11-09 07:24:31 Favorites: 73.9% at 45/sec for IMechE
+2017-11-09 07:24:32 Favorites: 100% at 24/sec for kamilatomaszew7
+2017-11-09 07:24:33 Favorites: 100% at 43/sec for rosbort
+2017-11-09 07:24:43 Friends  : 99.6% at 1/sec for IMechE
+Error in twInterfaceObj$doAPICall(paste("users", "show", sep = "/"), params = params,  : 
+  Not Found (HTTP 404).
+2017-11-09 07:24:43 Friends: Unable to find account kamilatomaszew7 moving to next
+2017-11-09 07:24:43 Friends  : % at /sec for kamilatomaszew7
+2017-11-09 07:24:48 Friends  : 100% at 40/sec for rosbort
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+Warning messages:
+1: package 'twitteR' was built under R version 3.4.1 
+2: In twInterfaceObj$doAPICall(cmd, params, method, ...) :
+  Rate limit encountered & retry limit reached - returning partial results

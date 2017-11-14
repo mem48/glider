@@ -1,0 +1,177 @@
+starting worker pid=13332 on localhost:11045 at 08:11:42.937
+starting worker pid=17520 on localhost:11045 at 08:11:43.093
+starting worker pid=16280 on localhost:11045 at 08:11:43.249
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-13 08:14:07 Friends  : 99.5% at 42/sec for miche25
+Error in twInterfaceObj$doAPICall(paste("users", "show", sep = "/"), params = params,  : 
+  Not Found (HTTP 404).
+In addition: Warning message:
+package 'twitteR' was built under R version 3.4.1 
+2017-11-13 08:14:08 Friends: Unable to find account MikeHarris606 moving to next
+2017-11-13 08:14:08 Friends  : % at /sec for MikeHarris606
+Error in twInterfaceObj$doAPICall(paste("users", "show", sep = "/"), params = params,  : 
+  Not Found (HTTP 404).
+2017-11-13 08:14:08 Friends: Unable to find account mleltd moving to next
+2017-11-13 08:14:08 Friends  : % at /sec for mleltd
+2017-11-13 08:14:30 Friends  : 97.4% at 23/sec for Mohamdsaki
+2017-11-13 08:14:33 Friends  : 99.4% at 55/sec for MrAndy82
+2017-11-13 08:14:50 Friends  : 99.2% at 35/sec for mrswamydr
+2017-11-13 08:15:04 Friends  : 99.3% at 38/sec for MTTLimited
+2017-11-13 08:15:28 Friends  : 98.8% at 37/sec for NRGConsulting
+2017-11-13 08:15:47 Friends  : 98.9% at 35/sec for oxfordenvsust
+2017-11-13 08:15:52 Friends  : 96.2% at 24/sec for paisley_c
+2017-11-13 08:16:10 Friends  : 99.9% at 39/sec for Parallel_Motion
+2017-11-13 08:16:16 Friends  : 100% at 21/sec for patrickbellew
+2017-11-13 08:16:18 Favorites: 98.4% at 41/sec for miche25
+2017-11-13 08:16:19 Favorites: 100% at 40/sec for MikeHarris606
+2017-11-13 08:16:20 Favorites: 78.1% at 70/sec for mleltd
+2017-11-13 08:17:20 Friends  : 99.9% at 35/sec for pbsimag
+2017-11-13 08:17:20 Friends  : User Peachywalrus has a protected account or no Friendss to collect so skipping
+2017-11-13 08:17:22 Friends  : 98.1% at 25/sec for PenhaAnaclara
+2017-11-13 08:17:22 Friends  : Waiting for 3.2 minutes
+2017-11-13 08:17:25 Favorites: 50.8% at 31/sec for Mohamdsaki
+2017-11-13 08:17:26 Favorites: 100% at 56/sec for MrAndy82
+2017-11-13 08:17:26 Favorites: 100% at 52/sec for mrswamydr
+2017-11-13 08:17:40 Favorites: Waiting for 1.3 minutes due to : Used up allowance in a loop
+2017-11-13 08:18:44 Tweets   : 98.9% at 23/sec for miche25
+2017-11-13 08:18:54 Tweets   : 100% at 19/sec for MikeHarris606
+2017-11-13 08:19:04 Tweets   : 100% at 19/sec for mleltd
+2017-11-13 08:19:27 Favorites: 49.9% at 13/sec for MTTLimited
+2017-11-13 08:19:45 Favorites: 56.1% at 37/sec for NRGConsulting
+2017-11-13 08:19:52 Tweets   : 99.9% at 34/sec for Mohamdsaki
+2017-11-13 08:19:57 Favorites: 63% at 35/sec for oxfordenvsust
+2017-11-13 08:20:02 Tweets   : 100% at 11/sec for MrAndy82
+2017-11-13 08:20:13 Favorites: 56.6% at 41/sec for paisley_c
+2017-11-13 08:20:14 Favorites: 100% at 52/sec for Parallel_Motion
+2017-11-13 08:20:15 Favorites: 100% at 60/sec for patrickbellew
+2017-11-13 08:20:19 Favorites: 64.2% at 24/sec for pbsimag
+2017-11-13 08:20:19 Favorites: User Peachywalrus has a protected account or no Favoritess to collect so skipping
+2017-11-13 08:20:20 Favorites: 100% at 36/sec for PenhaAnaclara
+2017-11-13 08:20:39 Tweets   : 100% at 39/sec for mrswamydr
+2017-11-13 08:20:52 Favorites: 46.4% at 38/sec for PhipWoodhatch
+2017-11-13 08:21:04 Friends  : 98% at 4/sec for PhipWoodhatch
+2017-11-13 08:21:09 Favorites: 50.9% at 33/sec for PhysicsNews
+2017-11-13 08:21:11 Favorites: 52.6% at 55/sec for PlatinumFMS
+2017-11-13 08:21:23 Favorites: 54.1% at 34/sec for PLDC2017
+2017-11-13 08:21:23 Tweets   : 99.9% at 36/sec for MTTLimited
+2017-11-13 08:21:29 Favorites: 87.6% at 33/sec for PracticalFM
+2017-11-13 08:21:32 Favorites: 62.6% at 61/sec for PremierSustain
+2017-11-13 08:21:34 Friends  : 99.4% at 33/sec for PhysicsNews
+2017-11-13 08:21:36 Favorites: 100% at 9/sec for QuartzFanCoils
+2017-11-13 08:21:38 Tweets   : 99.7% at 23/sec for NRGConsulting
+2017-11-13 08:21:43 Favorites: 71.2% at 43/sec for QubeGlobal
+2017-11-13 08:21:44 Favorites: 97.8% at 56/sec for REHAUrenewables
+2017-11-13 08:21:48 Favorites: 64.5% at 26/sec for revdevstudios
+2017-11-13 08:21:49 Favorites: 90.1% at 70/sec for RHartwig_IET
+2017-11-13 08:21:50 Favorites: 90% at 18/sec for RinnaiMD
+2017-11-13 08:21:54 Favorites: 53.5% at 23/sec for RotheraGroup
+2017-11-13 08:22:09 Favorites: 50.9% at 35/sec for ruskincompany
+2017-11-13 08:22:09 Favorites: Waiting for 11.8 minutes due to : Used up allowance in a loop
+2017-11-13 08:22:26 Tweets   : 99.9% at 38/sec for oxfordenvsust
+2017-11-13 08:22:30 Friends  : 99.2% at 35/sec for PlatinumFMS
+2017-11-13 08:22:36 Friends  : 99.6% at 35/sec for PLDC2017
+Error in twInterfaceObj$doAPICall(paste("users", "show", sep = "/"), params = params,  : 
+  Not Found (HTTP 404).
+2017-11-13 08:22:37 Friends: Unable to find account PracticalFM moving to next
+2017-11-13 08:22:37 Friends  : % at /sec for PracticalFM
+2017-11-13 08:22:40 Tweets   : 100% at 20/sec for paisley_c
+2017-11-13 08:23:07 Tweets   : 99.6% at 37/sec for Parallel_Motion
+2017-11-13 08:23:28 Tweets   : 100% at 28/sec for patrickbellew
+2017-11-13 08:23:40 Friends  : 99.4% at 35/sec for PremierSustain
+2017-11-13 08:23:48 Friends  : 98.2% at 36/sec for QuartzFanCoils
+2017-11-13 08:24:05 Friends  : 99.7% at 23/sec for QubeGlobal
+2017-11-13 08:24:22 Tweets   : 99.9% at 38/sec for pbsimag
+2017-11-13 08:24:22 Tweets   : User Peachywalrus has a protected account or no Tweetss to collect so skipping
+2017-11-13 08:24:27 Tweets   : 100% at 3/sec for PenhaAnaclara
+2017-11-13 08:24:35 Friends  : 99.4% at 38/sec for REHAUrenewables
+Error in twInterfaceObj$doAPICall(paste("users", "show", sep = "/"), params = params,  : 
+  Not Found (HTTP 404).
+2017-11-13 08:24:35 Friends: Unable to find account revdevstudios moving to next
+2017-11-13 08:24:35 Friends  : % at /sec for revdevstudios
+2017-11-13 08:24:43 Friends  : 98.1% at 43/sec for RHartwig_IET
+2017-11-13 08:24:48 Friends  : 99.2% at 22/sec for RinnaiMD
+2017-11-13 08:24:55 Friends  : 97.3% at 32/sec for RotheraGroup
+2017-11-13 08:25:24 Tweets   : 100% at 38/sec for PhipWoodhatch
+2017-11-13 08:26:34 Friends  : 97.1% at 37/sec for ruskincompany
+2017-11-13 08:26:42 Friends  : 97.5% at 41/sec for SamimaSaqib
+2017-11-13 08:26:51 Tweets   : 21.4% at 37/sec for PhysicsNews
+2017-11-13 08:27:03 Tweets   : 100% at 32/sec for PlatinumFMS
+2017-11-13 08:27:11 Friends  : 97.6% at 37/sec for SarahOrpwood
+2017-11-13 08:27:26 Friends  : 99.6% at 31/sec for ScottishGIF
+2017-11-13 08:27:27 Friends  : Waiting for 8.2 minutes
+2017-11-13 08:27:37 Tweets   : 100% at 34/sec for PLDC2017
+2017-11-13 08:27:58 Tweets   : 99.9% at 32/sec for PracticalFM
+2017-11-13 08:29:15 Tweets   : 99.6% at 40/sec for PremierSustain
+2017-11-13 08:29:39 Tweets   : 99.9% at 34/sec for QuartzFanCoils
+2017-11-13 08:30:46 Tweets   : 100% at 41/sec for QubeGlobal
+2017-11-13 08:31:49 Tweets   : 99.9% at 41/sec for REHAUrenewables
+2017-11-13 08:31:58 Tweets   : 100% at 8/sec for revdevstudios
+2017-11-13 08:32:14 Tweets   : 100% at 29/sec for RHartwig_IET
+2017-11-13 08:32:44 Tweets   : 99.7% at 33/sec for RinnaiMD
+2017-11-13 08:33:03 Tweets   : 100% at 28/sec for RotheraGroup
+2017-11-13 08:34:19 Favorites: 100% at 0/sec for SamimaSaqib
+2017-11-13 08:34:23 Tweets   : 86.2% at 40/sec for ruskincompany
+2017-11-13 08:34:26 Favorites: 56.7% at 42/sec for SarahOrpwood
+2017-11-13 08:34:30 Favorites: 57.5% at 25/sec for ScottishGIF
+2017-11-13 08:34:31 Favorites: 100% at 14/sec for SDSolutionUK
+2017-11-13 08:34:32 Favorites: 100% at 73/sec for Sheila_Hayter
+2017-11-13 08:34:33 Tweets   : 100% at 16/sec for SamimaSaqib
+2017-11-13 08:34:33 Favorites: 100% at 65/sec for SmartLiveWork
+2017-11-13 08:34:33 Favorites: User SMC_London has a protected account or no Favoritess to collect so skipping
+2017-11-13 08:34:43 Tweets   : 100% at 14/sec for SarahOrpwood
+2017-11-13 08:34:43 Favorites: 67.3% at 31/sec for snowy7385
+2017-11-13 08:34:50 Favorites: 65.4% at 43/sec for SOEngineers
+2017-11-13 08:34:51 Favorites: 100% at 46/sec for SPIEUK
+2017-11-13 08:34:55 Favorites: 76.9% at 25/sec for SueBrough3
+2017-11-13 08:35:11 Tweets   : 99.9% at 33/sec for ScottishGIF
+2017-11-13 08:35:20 Tweets   : 100% at 11/sec for SDSolutionUK
+2017-11-13 08:35:40 Tweets   : 100% at 26/sec for Sheila_Hayter
+2017-11-13 08:35:50 Tweets   : 100% at 14/sec for SmartLiveWork
+2017-11-13 08:36:02 Friends  : 99.3% at 0/sec for SDSolutionUK
+2017-11-13 08:36:06 Friends  : 97.4% at 48/sec for Sheila_Hayter
+2017-11-13 08:36:22 Favorites: 15.4% at 37/sec for SustainGuernsey
+2017-11-13 08:36:23 Favorites: 100% at 60/sec for The_SoPHE
+2017-11-13 08:36:24 Friends  : 95.1% at 29/sec for SmartLiveWork
+2017-11-13 08:36:24 Friends  : 87.5% at 8/sec for SMC_London
+2017-11-13 08:36:32 Tweets   : 100% at 31/sec for SMC_London
+2017-11-13 08:36:40 Favorites: 59.9% at 24/sec for theabtt
+2017-11-13 08:36:41 Favorites: 98% at 59/sec for thecurve
+2017-11-13 08:36:42 Favorites: 100% at 45/sec for TheUKDEA
+2017-11-13 08:36:45 Friends  : 99.5% at 31/sec for snowy7385
+2017-11-13 08:36:47 Favorites: 79.2% at 22/sec for timburrows_uk
+2017-11-13 08:36:47 Favorites: 100% at 24/sec for TomRandallUK
+2017-11-13 08:36:47 Favorites: User trs_ltd has a protected account or no Favoritess to collect so skipping
+2017-11-13 08:36:54 Tweets   : 99.3% at 32/sec for snowy7385
+2017-11-13 08:37:44 Friends  : 96.4% at 34/sec for SOEngineers
+2017-11-13 08:37:50 Friends  : 99.5% at 31/sec for SPIEUK
+2017-11-13 08:38:01 Friends  : 100% at 26/sec for SueBrough3
+2017-11-13 08:38:25 Tweets   : 99.4% at 35/sec for SOEngineers
+2017-11-13 08:38:35 Tweets   : 100% at 14/sec for SPIEUK
+2017-11-13 08:39:02 Tweets   : 99.9% at 34/sec for SueBrough3
+2017-11-13 08:40:24 Friends  : 98% at 34/sec for SustainGuernsey
+2017-11-13 08:40:30 Tweets   : 30.6% at 36/sec for SustainGuernsey
+2017-11-13 08:40:41 Friends  : 99.4% at 30/sec for The_SoPHE
+2017-11-13 08:40:42 Tweets   : 98.7% at 24/sec for The_SoPHE
+[1] "Server error: (500) Internal Server Error"
+[1] "This error is likely transient, retrying up to 5 more times ..."
+2017-11-13 08:41:07 Friends  : 98.5% at 33/sec for theabtt
+2017-11-13 08:41:14 Friends  : 100% at 31/sec for thecurve
+2017-11-13 08:41:42 Friends  : 99.5% at 32/sec for TheUKDEA
+2017-11-13 08:41:53 Friends  : 98.4% at 24/sec for timburrows_uk
+Error in twInterfaceObj$doAPICall(paste("users", "show", sep = "/"), params = params,  : 
+  Not Found (HTTP 404).
+2017-11-13 08:41:54 Friends: Unable to find account TomRandallUK moving to next
+2017-11-13 08:41:54 Friends  : % at /sec for TomRandallUK
+2017-11-13 08:41:55 Friends  : 100% at 32/sec for trs_ltd
+2017-11-13 08:42:07 Tweets   : 88.5% at 38/sec for theabtt
+2017-11-13 08:42:23 Tweets   : 100% at 29/sec for thecurve
+2017-11-13 08:43:37 Tweets   : 56.5% at 44/sec for TheUKDEA
+2017-11-13 08:43:48 Tweets   : 100% at 25/sec for timburrows_uk
+2017-11-13 08:43:56 Tweets   : 100% at 1/sec for TomRandallUK
+2017-11-13 08:44:44 Tweets   : 100% at 43/sec for trs_ltd
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+Warning message:
+package 'twitteR' was built under R version 3.4.1 

@@ -1,0 +1,170 @@
+starting worker pid=11424 on localhost:11045 at 13:19:48.486
+starting worker pid=20100 on localhost:11045 at 13:19:48.651
+starting worker pid=6664 on localhost:11045 at 13:19:48.807
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-09 13:20:32 Friends  : 99.8% at 41/sec for windowlines
+2017-11-09 13:20:33 Favorites: 97.7% at 23/sec for windowlines
+2017-11-09 13:20:36 Friends  : 97.2% at 37/sec for CharlieBEU
+2017-11-09 13:20:44 Friends  : 99.5% at 46/sec for DorteRichJorgen
+2017-11-09 13:20:45 Favorites: 50.3% at 34/sec for CharlieBEU
+2017-11-09 13:20:49 Favorites: 52.9% at 46/sec for DorteRichJorgen
+2017-11-09 13:21:05 Tweets   : 100% at 13/sec for windowlines
+2017-11-09 13:21:08 Friends  : 99.4% at 43/sec for DrResources
+2017-11-09 13:21:14 Friends  : 98.2% at 46/sec for angela_maher
+2017-11-09 13:21:25 Favorites: 49.9% at 47/sec for DrResources
+2017-11-09 13:21:31 Friends  : 99.7% at 42/sec for ashleighmoney
+2017-11-09 13:21:33 Favorites: 54.4% at 38/sec for angela_maher
+2017-11-09 13:21:37 Tweets   : 100% at 41/sec for CharlieBEU
+2017-11-09 13:21:43 Friends  : 99.3% at 44/sec for ATYWhite
+2017-11-09 13:21:48 Favorites: 53.9% at 49/sec for ashleighmoney
+2017-11-09 13:21:53 Favorites: 76.3% at 46/sec for ATYWhite
+2017-11-09 13:21:54 Tweets   : 99.8% at 34/sec for DorteRichJorgen
+2017-11-09 13:22:05 Friends  : 97.9% at 48/sec for BristolEnergy
+2017-11-09 13:22:12 Favorites: 51% at 47/sec for BristolEnergy
+2017-11-09 13:22:12 Friends  : 98.4% at 41/sec for Comm1nrg
+2017-11-09 13:22:18 Favorites: 57.1% at 48/sec for Comm1nrg
+2017-11-09 13:22:20 Favorites: Waiting for 8.4 minutes due to : Used up allowance in a loop
+2017-11-09 13:22:57 Tweets   : 35.1% at 51/sec for DrResources
+2017-11-09 13:23:08 Friends  : 98% at 43/sec for DDMobility
+2017-11-09 13:23:19 Tweets   : 99.8% at 40/sec for angela_maher
+2017-11-09 13:23:20 Friends  : 99.4% at 40/sec for EGEC_geothermal
+2017-11-09 13:23:30 Friends  : 98.6% at 42/sec for EmilyBeament
+2017-11-09 13:23:38 Friends  : 99.7% at 40/sec for erpuk_info
+2017-11-09 13:23:38 Friends  : Waiting for 10 minutes
+2017-11-09 13:24:08 Tweets   : 99.6% at 50/sec for ashleighmoney
+2017-11-09 13:24:35 Tweets   : 99.2% at 41/sec for ATYWhite
+2017-11-09 13:25:32 Tweets   : 99.9% at 52/sec for BristolEnergy
+2017-11-09 13:26:00 Tweets   : 100% at 48/sec for Comm1nrg
+2017-11-09 13:27:04 Tweets   : 99.3% at 49/sec for DDMobility
+2017-11-09 13:27:25 Tweets   : 100% at 37/sec for EGEC_geothermal
+2017-11-09 13:28:20 Tweets   : 83.6% at 57/sec for EmilyBeament
+2017-11-09 13:28:33 Tweets   : 100% at 31/sec for erpuk_info
+2017-11-09 13:28:52 Tweets   : 100% at 39/sec for GillianGuy_CAB
+2017-11-09 13:29:57 Tweets   : 43.9% at 49/sec for GowerPowerCoop
+2017-11-09 13:30:59 Tweets   : 7.1% at 52/sec for Greenpeace
+2017-11-09 13:31:08 Favorites: 63.9% at 1/sec for DDMobility
+2017-11-09 13:31:09 Favorites: 50.8% at 57/sec for EGEC_geothermal
+2017-11-09 13:31:11 Favorites: 60.6% at 51/sec for EmilyBeament
+2017-11-09 13:31:13 Favorites: 100% at 36/sec for erpuk_info
+2017-11-09 13:31:17 Favorites: 59.7% at 48/sec for GillianGuy_CAB
+2017-11-09 13:31:31 Favorites: 54.4% at 50/sec for GowerPowerCoop
+2017-11-09 13:32:06 Favorites: 26.2% at 47/sec for Greenpeace
+2017-11-09 13:32:16 Tweets   : 33.6% at 42/sec for JoanneWhitehe15
+2017-11-09 13:32:43 Favorites: 50.1% at 49/sec for JoanneWhitehe15
+2017-11-09 13:32:45 Favorites: 90.9% at 44/sec for lexautolease
+2017-11-09 13:32:55 Favorites: 53.3% at 49/sec for ODonovanWaste
+2017-11-09 13:32:59 Favorites: 65% at 44/sec for ofgem_schemes
+2017-11-09 13:33:01 Tweets   : 100% at 55/sec for lexautolease
+2017-11-09 13:33:28 Favorites: 53.3% at 49/sec for routemonkeyltd
+2017-11-09 13:33:32 Tweets   : 99.9% at 45/sec for ODonovanWaste
+2017-11-09 13:33:34 Favorites: 80.5% at 36/sec for ScarfScotland
+2017-11-09 13:33:34 Favorites: Waiting for 12.5 minutes due to : Used up allowance in a loop
+2017-11-09 13:34:04 Friends  : 99.2% at 1/sec for GillianGuy_CAB
+2017-11-09 13:34:34 Tweets   : 90.4% at 52/sec for ofgem_schemes
+2017-11-09 13:34:38 Friends  : 98.9% at 44/sec for GowerPowerCoop
+2017-11-09 13:35:38 Tweets   : 72.1% at 50/sec for routemonkeyltd
+2017-11-09 13:36:07 Friends  : 99.8% at 42/sec for Greenpeace
+2017-11-09 13:36:27 Tweets   : 100% at 48/sec for ScarfScotland
+2017-11-09 13:36:38 Tweets   : 100% at 22/sec for SeanPhillips_SP
+2017-11-09 13:36:48 Tweets   : 100% at 19/sec for SmartKlubOrg
+2017-11-09 13:37:48 Friends  : 96.5% at 48/sec for JoanneWhitehe15
+2017-11-09 13:37:55 Tweets   : 63.5% at 48/sec for SussexNRGGroup
+2017-11-09 13:38:01 Friends  : 99.8% at 48/sec for lexautolease
+2017-11-09 13:38:14 Friends  : 99.1% at 46/sec for ODonovanWaste
+2017-11-09 13:38:32 Friends  : 98% at 46/sec for ofgem_schemes
+2017-11-09 13:39:02 Tweets   : 63.9% at 48/sec for TheAbbeyCentre
+2017-11-09 13:39:23 Friends  : 98.4% at 47/sec for routemonkeyltd
+2017-11-09 13:40:08 Friends  : 98.4% at 44/sec for ScarfScotland
+2017-11-09 13:40:10 Tweets   : 23.1% at 47/sec for turn2us_org
+2017-11-09 13:40:14 Friends  : 97.2% at 41/sec for SeanPhillips_SP
+2017-11-09 13:40:21 Friends  : 99.3% at 41/sec for SmartKlubOrg
+2017-11-09 13:40:23 Tweets   : 100% at 26/sec for VmotoUK
+2017-11-09 13:40:56 Tweets   : 99.7% at 47/sec for WH_EnergyWise
+2017-11-09 13:41:05 Friends  : 100% at 53/sec for SussexNRGGroup
+2017-11-09 13:41:41 Friends  : 96.8% at 51/sec for TheAbbeyCentre
+2017-11-09 13:42:08 Tweets   : 96.9% at 45/sec for zap_map
+2017-11-09 13:42:14 Tweets   : 100% at 4/sec for ZiouziaFanoula
+2017-11-09 13:42:38 Friends  : 98.7% at 49/sec for turn2us_org
+2017-11-09 13:42:43 Friends  : 97.1% at 40/sec for VmotoUK
+2017-11-09 13:42:43 Friends  : Waiting for 6.3 minutes
+2017-11-09 13:42:59 Tweets   : 99.9% at 39/sec for _PfWomen
+2017-11-09 13:43:08 Tweets   : 2.4% at 21/sec for abbie_sampson
+2017-11-09 13:44:05 Tweets   : 3.3% at 56/sec for BBCBusiness
+2017-11-09 13:45:08 Tweets   : 99.8% at 48/sec for BritishGasNews
+2017-11-09 13:46:08 Tweets   : 9.7% at 53/sec for edfenergy
+2017-11-09 13:46:25 Tweets   : 99.8% at 38/sec for ELEXONUK
+2017-11-09 13:46:25 Favorites: 78.7% at 0/sec for SeanPhillips_SP
+2017-11-09 13:46:27 Favorites: 100% at 47/sec for SmartKlubOrg
+2017-11-09 13:46:36 Favorites: 56.5% at 52/sec for SussexNRGGroup
+2017-11-09 13:46:54 Favorites: 50.9% at 50/sec for TheAbbeyCentre
+2017-11-09 13:47:16 Favorites: 53.7% at 48/sec for turn2us_org
+2017-11-09 13:47:18 Favorites: 90.1% at 56/sec for VmotoUK
+2017-11-09 13:47:22 Favorites: 72.5% at 49/sec for WH_EnergyWise
+2017-11-09 13:47:30 Favorites: 56.4% at 50/sec for zap_map
+2017-11-09 13:47:30 Favorites: % at /sec for ZiouziaFanoula
+2017-11-09 13:47:32 Tweets   : 75.8% at 48/sec for FlowEnergyUK
+2017-11-09 13:47:38 Favorites: 50.4% at 49/sec for _PfWomen
+2017-11-09 13:48:28 Tweets   : 100% at 50/sec for IanKingSky
+2017-11-09 13:48:45 Favorites: 37.9% at 47/sec for abbie_sampson
+2017-11-09 13:48:46 Favorites: 97.1% at 42/sec for BBCBusiness
+2017-11-09 13:48:50 Favorites: Waiting for 12.6 minutes due to : Used up allowance in a loop
+2017-11-09 13:49:12 Friends  : 100% at 0/sec for WH_EnergyWise
+2017-11-09 13:49:19 Tweets   : 99.8% at 49/sec for JH_Ambrose
+2017-11-09 13:49:24 Friends  : 96.6% at 49/sec for zap_map
+2017-11-09 13:49:25 Friends  : 100% at 38/sec for ZiouziaFanoula
+2017-11-09 13:49:35 Friends  : 99.4% at 49/sec for _PfWomen
+2017-11-09 13:50:08 Friends  : 98.8% at 44/sec for abbie_sampson
+2017-11-09 13:50:13 Friends  : 100% at 38/sec for BBCBusiness
+2017-11-09 13:50:32 Tweets   : 34.1% at 44/sec for Laura_Sandys
+2017-11-09 13:50:36 Friends  : 99.9% at 43/sec for BritishGasNews
+2017-11-09 13:51:34 Tweets   : 46.9% at 52/sec for npower_nbs
+2017-11-09 13:51:36 Friends  : 100% at 46/sec for edfenergy
+2017-11-09 13:51:40 Friends  : 100% at 39/sec for ELEXONUK
+2017-11-09 13:52:40 Tweets   : 8.9% at 48/sec for OVOEnergy
+2017-11-09 13:53:20 Tweets   : 100% at 43/sec for RealValue2020
+2017-11-09 13:53:26 Friends  : 99.9% at 45/sec for FlowEnergyUK
+2017-11-09 13:53:30 Friends  : 100% at 44/sec for IanKingSky
+2017-11-09 13:53:42 Tweets   : 99.4% at 39/sec for RichterScutt
+2017-11-09 13:53:50 Friends  : 99.3% at 43/sec for JH_Ambrose
+2017-11-09 13:54:44 Tweets   : 4.3% at 51/sec for SP_EnergyPeople
+2017-11-09 13:54:52 Friends  : 98.9% at 45/sec for Laura_Sandys
+2017-11-09 13:54:56 Tweets   : 100% at 26/sec for Susan_McDonald1
+2017-11-09 13:55:19 Friends  : 99.6% at 50/sec for npower_nbs
+2017-11-09 13:56:00 Tweets   : 19.3% at 50/sec for uSwitchUK
+2017-11-09 13:57:04 Tweets   : 52.9% at 50/sec for 10b_lad
+2017-11-09 13:57:08 Friends  : 99.9% at 45/sec for OVOEnergy
+2017-11-09 13:57:08 Friends  : Waiting for 7.1 minutes
+2017-11-09 13:57:17 Tweets   : 100% at 30/sec for AlbionWindows
+2017-11-09 14:02:22 Favorites: Unable to find account BritishGasNews during loop number 6 moving to next loop
+2017-11-09 14:02:31 Favorites: 44% at 1/sec for BritishGasNews
+2017-11-09 14:03:43 Favorites: Unable to find account edfenergy during loop number 17 moving to next loop
+2017-11-09 14:04:17 Favorites: 42% at 30/sec for edfenergy
+2017-11-09 14:04:18 Favorites: 100% at 29/sec for ELEXONUK
+2017-11-09 14:04:23 Favorites: 50.8% at 51/sec for FlowEnergyUK
+2017-11-09 14:04:25 Favorites: 98.6% at 42/sec for IanKingSky
+2017-11-09 14:04:35 Friends  : 99.1% at 1/sec for RealValue2020
+2017-11-09 14:04:38 Friends  : 96.7% at 31/sec for RichterScutt
+2017-11-09 14:04:43 Favorites: 51.8% at 51/sec for JH_Ambrose
+2017-11-09 14:05:28 Favorites: Waiting for 11.3 minutes due to : Used up allowance in a loop
+2017-11-09 14:11:06 Friends  : 99.8% at 44/sec for SP_EnergyPeople
+2017-11-09 14:11:16 Friends  : 99.2% at 53/sec for Susan_McDonald1
+2017-11-09 14:11:37 Friends  : 100% at 48/sec for uSwitchUK
+2017-11-09 14:11:56 Friends  : 98.5% at 47/sec for 10b_lad
+2017-11-09 14:12:05 Friends  : 93.6% at 45/sec for AlbionWindows
+2017-11-09 14:17:25 Favorites: 35.2% at 4/sec for Laura_Sandys
+2017-11-09 14:17:31 Favorites: 62.8% at 49/sec for npower_nbs
+2017-11-09 14:18:35 Favorites: 34.7% at 48/sec for OVOEnergy
+2017-11-09 14:18:41 Favorites: 62.7% at 49/sec for RealValue2020
+2017-11-09 14:18:43 Favorites: 100% at 49/sec for RichterScutt
+2017-11-09 14:18:47 Favorites: 65.1% at 51/sec for SP_EnergyPeople
+2017-11-09 14:18:52 Favorites: 92.6% at 39/sec for Susan_McDonald1
+2017-11-09 14:19:05 Favorites: 53.6% at 52/sec for uSwitchUK
+2017-11-09 14:19:24 Favorites: 53.5% at 51/sec for 10b_lad
+2017-11-09 14:19:25 Favorites: 97.8% at 39/sec for AlbionWindows
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+package 'twitteR' was built under R version 3.4.1 
+Warning message:
+package 'twitteR' was built under R version 3.4.1 

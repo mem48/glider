@@ -1,0 +1,167 @@
+starting worker pid=4268 on localhost:11045 at 06:02:39.833
+starting worker pid=19692 on localhost:11045 at 06:02:40.011
+starting worker pid=14716 on localhost:11045 at 06:02:40.165
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-10 06:03:21 Friends  : 97.9% at 15/sec for SkanskaGroup
+2017-11-10 06:03:31 Friends  : 99.6% at 27/sec for sophiacox
+2017-11-10 06:03:51 Friends  : 99.7% at 38/sec for Spencerthink
+2017-11-10 06:03:55 Friends  : 99.3% at 35/sec for swyatt82
+2017-11-10 06:04:14 Favorites: 52.9% at 24/sec for SkanskaGroup
+2017-11-10 06:04:15 Favorites: 96.6% at 63/sec for sophiacox
+2017-11-10 06:04:23 Favorites: 69.5% at 40/sec for Spencerthink
+2017-11-10 06:04:25 Friends  : 2772.7% at 40/sec for thehousingforum
+2017-11-10 06:04:28 Favorites: 58.5% at 35/sec for swyatt82
+2017-11-10 06:04:31 Favorites: 81.3% at 44/sec for thehousingforum
+2017-11-10 06:04:34 Friends  : 100% at 25/sec for UTC_CCS
+2017-11-10 06:04:34 Friends  : User VKInterface has a protected account or no Friendss to collect so skipping
+2017-11-10 06:04:38 Favorites: 68.7% at 43/sec for UTC_CCS
+2017-11-10 06:04:38 Favorites: User VKInterface has a protected account or no Favoritess to collect so skipping
+2017-11-10 06:04:51 Favorites: 50.7% at 43/sec for VoyageControl
+2017-11-10 06:05:04 Favorites: 60.6% at 39/sec for WELLcertified
+2017-11-10 06:05:23 Friends  : 99.8% at 42/sec for VoyageControl
+2017-11-10 06:05:28 Favorites: Waiting for 9.1 minutes due to : Used up allowance in a loop
+2017-11-10 06:05:32 Tweets   : 100% at 40/sec for SkanskaGroup
+2017-11-10 06:05:42 Tweets   : 100% at 18/sec for sophiacox
+2017-11-10 06:05:52 Friends  : 100% at 43/sec for WELLcertified
+2017-11-10 06:05:53 Friends  : 2.8% at 32/sec for WildAboutRoofs
+2017-11-10 06:06:20 Friends  : 99.5% at 39/sec for WSP_UK
+2017-11-10 06:06:28 Friends  : 95.7% at 39/sec for ActuaryCompany
+2017-11-10 06:06:34 Friends  : 99.4% at 31/sec for AlumascSkyline
+2017-11-10 06:06:37 Tweets   : 99.9% at 47/sec for Spencerthink
+2017-11-10 06:06:46 Tweets   : 100% at 17/sec for swyatt82
+2017-11-10 06:07:24 Tweets   : 99.9% at 43/sec for thehousingforum
+2017-11-10 06:07:34 Friends  : 99.9% at 37/sec for CelconBlocks
+2017-11-10 06:07:52 Friends  : 97.1% at 35/sec for GLRFCA
+2017-11-10 06:08:09 Tweets   : 100% at 44/sec for UTC_CCS
+2017-11-10 06:08:09 Tweets   : User VKInterface has a protected account or no Tweetss to collect so skipping
+2017-11-10 06:08:16 Friends  : 99.4% at 35/sec for GoldsmithsCo
+2017-11-10 06:08:16 Friends  : Waiting for 10.1 minutes
+2017-11-10 06:08:56 Tweets   : 99.9% at 45/sec for VoyageControl
+2017-11-10 06:09:52 Tweets   : 100% at 41/sec for WELLcertified
+2017-11-10 06:10:41 Tweets   : 99.9% at 47/sec for WildAboutRoofs
+2017-11-10 06:11:59 Tweets   : 29.4% at 41/sec for WSP_UK
+2017-11-10 06:12:17 Tweets   : 100% at 28/sec for ActuaryCompany
+2017-11-10 06:12:24 Tweets   : 100% at 9/sec for AlumascSkyline
+2017-11-10 06:13:32 Tweets   : 86.4% at 47/sec for CelconBlocks
+2017-11-10 06:14:46 Tweets   : 29.9% at 43/sec for GLRFCA
+2017-11-10 06:14:53 Favorites: 51.4% at 2/sec for WildAboutRoofs
+2017-11-10 06:15:15 Favorites: 53.8% at 44/sec for WSP_UK
+2017-11-10 06:15:23 Favorites: 64.8% at 39/sec for ActuaryCompany
+2017-11-10 06:15:24 Favorites: 100% at 38/sec for AlumascSkyline
+2017-11-10 06:15:30 Favorites: 55.9% at 43/sec for CelconBlocks
+2017-11-10 06:15:46 Favorites: 51.5% at 44/sec for GLRFCA
+2017-11-10 06:16:04 Tweets   : 66.2% at 42/sec for GoldsmithsCo
+2017-11-10 06:16:16 Favorites: 49.9% at 43/sec for GoldsmithsCo
+2017-11-10 06:16:23 Favorites: 70.4% at 46/sec for GowmanAJ
+2017-11-10 06:16:25 Favorites: 98.9% at 45/sec for JenSmithAndrews
+2017-11-10 06:16:26 Favorites: 94.7% at 24/sec for KatieGrayKINE
+2017-11-10 06:16:27 Favorites: 100% at 28/sec for MDRidgeons
+2017-11-10 06:16:31 Favorites: 50.8% at 42/sec for SheepDrive2017
+2017-11-10 06:16:32 Favorites: 100% at 40/sec for World_Traders
+2017-11-10 06:16:39 Favorites: 62.5% at 39/sec for oof
+2017-11-10 06:16:51 Favorites: 52% at 43/sec for adaptavate
+2017-11-10 06:16:58 Favorites: 70.2% at 41/sec for ArchAngelsBton
+2017-11-10 06:16:59 Favorites: 100% at 46/sec for ARPDesign
+2017-11-10 06:16:59 Favorites: 100% at 9/sec for Auro_Uk
+2017-11-10 06:17:16 Favorites: 49.4% at 40/sec for bobirving_green
+2017-11-10 06:17:19 Tweets   : 55.4% at 42/sec for GowmanAJ
+2017-11-10 06:17:27 Favorites: Waiting for 12.3 minutes due to : Used up allowance in a loop
+2017-11-10 06:17:40 Tweets   : 99.9% at 37/sec for JenSmithAndrews
+2017-11-10 06:18:28 Tweets   : 99% at 42/sec for KatieGrayKINE
+2017-11-10 06:18:39 Tweets   : 100% at 25/sec for MDRidgeons
+2017-11-10 06:18:47 Friends  : 98.4% at 1/sec for GowmanAJ
+2017-11-10 06:18:56 Friends  : 100% at 23/sec for JenSmithAndrews
+2017-11-10 06:19:05 Friends  : 99.5% at 41/sec for KatieGrayKINE
+2017-11-10 06:19:06 Tweets   : 98.9% at 32/sec for SheepDrive2017
+2017-11-10 06:19:14 Friends  : 100% at 48/sec for MDRidgeons
+2017-11-10 06:19:19 Friends  : 98.2% at 44/sec for SheepDrive2017
+2017-11-10 06:19:23 Friends  : 98.7% at 34/sec for World_Traders
+2017-11-10 06:19:34 Friends  : 100% at 38/sec for oof
+2017-11-10 06:19:39 Tweets   : 99.9% at 36/sec for World_Traders
+2017-11-10 06:20:16 Friends  : 97.2% at 42/sec for adaptavate
+2017-11-10 06:20:25 Tweets   : 99.9% at 41/sec for oof
+2017-11-10 06:20:37 Friends  : 99.4% at 43/sec for ArchAngelsBton
+2017-11-10 06:20:56 Friends  : 100% at 37/sec for ARPDesign
+2017-11-10 06:20:59 Tweets   : 99.9% at 43/sec for adaptavate
+2017-11-10 06:21:38 Tweets   : 99.7% at 40/sec for ArchAngelsBton
+2017-11-10 06:21:49 Tweets   : 100% at 21/sec for ARPDesign
+2017-11-10 06:22:02 Tweets   : 100% at 31/sec for Auro_Uk
+2017-11-10 06:22:13 Friends  : 98.9% at 37/sec for Auro_Uk
+2017-11-10 06:23:23 Tweets   : 3.1% at 39/sec for bobirving_green
+2017-11-10 06:23:25 Friends  : 98.6% at 38/sec for bobirving_green
+2017-11-10 06:24:40 Tweets   : 23.7% at 41/sec for chrislittlecott
+2017-11-10 06:24:54 Tweets   : 100% at 28/sec for debonair_group
+2017-11-10 06:25:02 Tweets   : 100% at 16/sec for dlbiocomposites
+2017-11-10 06:25:25 Friends  : 98.5% at 41/sec for chrislittlecott
+2017-11-10 06:25:30 Friends  : 100% at 39/sec for debonair_group
+2017-11-10 06:25:31 Friends  : Waiting for 8.1 minutes
+2017-11-10 06:25:37 Tweets   : 99.6% at 40/sec for EcologyPaul
+2017-11-10 06:25:48 Tweets   : 100% at 25/sec for EcomerchantEco
+2017-11-10 06:26:45 Tweets   : 99.8% at 42/sec for Ecotwiters
+2017-11-10 06:27:56 Tweets   : 10.3% at 45/sec for EnergiewendeGER
+2017-11-10 06:28:03 Tweets   : 100% at 12/sec for ENVIROBUILDcom
+2017-11-10 06:29:15 Tweets   : 34.8% at 44/sec for eversion
+2017-11-10 06:29:25 Tweets   : 100% at 18/sec for FuturesCarbon
+2017-11-10 06:29:43 Tweets   : 100% at 31/sec for GG_LRA
+2017-11-10 06:30:04 Favorites: 50.8% at 1/sec for chrislittlecott
+2017-11-10 06:30:05 Favorites: 100% at 21/sec for debonair_group
+2017-11-10 06:30:06 Favorites: 100% at 40/sec for dlbiocomposites
+2017-11-10 06:30:09 Favorites: 74.1% at 44/sec for EcologyPaul
+2017-11-10 06:30:09 Favorites: 107.7% at 31/sec for EcomerchantEco
+2017-11-10 06:30:11 Favorites: 98.3% at 32/sec for Ecotwiters
+2017-11-10 06:30:18 Favorites: 70.4% at 41/sec for EnergiewendeGER
+2017-11-10 06:30:20 Favorites: 100% at 23/sec for ENVIROBUILDcom
+2017-11-10 06:30:36 Favorites: 54.8% at 42/sec for eversion
+2017-11-10 06:30:38 Favorites: 51.8% at 45/sec for FuturesCarbon
+2017-11-10 06:30:40 Favorites: 100% at 41/sec for GG_LRA
+2017-11-10 06:30:50 Favorites: 52.5% at 43/sec for GreenBlueUrban
+2017-11-10 06:30:50 Favorites: User GreenEnergyNet has a protected account or no Favoritess to collect so skipping
+2017-11-10 06:30:51 Favorites: 100% at 17/sec for greenTEGAG
+2017-11-10 06:30:54 Tweets   : 79.7% at 45/sec for GreenBlueUrban
+2017-11-10 06:32:06 Tweets   : 66.6% at 45/sec for GreenEnergyNet
+2017-11-10 06:32:07 Favorites: 24.1% at 42/sec for HolmesMike
+2017-11-10 06:32:13 Favorites: 61.5% at 45/sec for IsoverUK
+2017-11-10 06:32:15 Favorites: 72.5% at 47/sec for JackH_C
+2017-11-10 06:32:16 Tweets   : 100% at 24/sec for greenTEGAG
+2017-11-10 06:32:17 Favorites: 100% at 44/sec for JulietHeller
+2017-11-10 06:32:18 Favorites: 100% at 25/sec for KevinClimate
+2017-11-10 06:32:19 Favorites: 100% at 42/sec for KirstinAitken
+2017-11-10 06:32:22 Favorites: 50.3% at 46/sec for MarkTiramani
+2017-11-10 06:32:22 Favorites: 100% at 13/sec for OakFramed
+2017-11-10 06:33:24 Tweets   : 100% at 41/sec for HolmesMike
+2017-11-10 06:33:51 Friends  : 100% at 1/sec for dlbiocomposites
+2017-11-10 06:34:02 Friends  : 99.3% at 43/sec for EcologyPaul
+2017-11-10 06:34:15 Friends  : 100% at 45/sec for EcomerchantEco
+2017-11-10 06:34:33 Tweets   : 95.1% at 46/sec for IsoverUK
+2017-11-10 06:34:45 Tweets   : 99.6% at 23/sec for JackH_C
+2017-11-10 06:35:00 Friends  : 99.9% at 47/sec for Ecotwiters
+2017-11-10 06:35:24 Friends  : 99.2% at 49/sec for EnergiewendeGER
+2017-11-10 06:35:30 Friends  : 99.3% at 41/sec for ENVIROBUILDcom
+2017-11-10 06:35:41 Friends  : 99.1% at 47/sec for eversion
+2017-11-10 06:35:43 Tweets   : 99.9% at 41/sec for JulietHeller
+2017-11-10 06:36:20 Friends  : 98.9% at 46/sec for FuturesCarbon
+2017-11-10 06:36:25 Friends  : 98.9% at 35/sec for GG_LRA
+2017-11-10 06:36:51 Friends  : 97.3% at 49/sec for GreenBlueUrban
+2017-11-10 06:36:55 Tweets   : 74% at 44/sec for KevinClimate
+2017-11-10 06:37:02 Tweets   : 100% at 9/sec for KirstinAitken
+2017-11-10 06:37:31 Friends  : 100% at 44/sec for GreenEnergyNet
+2017-11-10 06:37:37 Friends  : 99% at 35/sec for greenTEGAG
+2017-11-10 06:38:00 Tweets   : 99.7% at 42/sec for MarkTiramani
+2017-11-10 06:38:02 Friends  : 99.3% at 45/sec for HolmesMike
+2017-11-10 06:38:11 Tweets   : 100% at 25/sec for OakFramed
+2017-11-10 06:38:31 Friends  : 99% at 44/sec for IsoverUK
+2017-11-10 06:38:52 Friends  : 98.7% at 45/sec for JackH_C
+2017-11-10 06:38:53 Friends  : Waiting for 9.9 minutes
+2017-11-10 06:49:30 Friends  : 99.9% at 3/sec for JulietHeller
+2017-11-10 06:49:40 Friends  : 99.8% at 43/sec for KevinClimate
+2017-11-10 06:49:43 Friends  : 100% at 28/sec for KirstinAitken
+2017-11-10 06:49:44 Friends  : 100% at 21/sec for MarkTiramani
+2017-11-10 06:49:49 Friends  : 99.5% at 41/sec for OakFramed
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+Warning message:
+package 'twitteR' was built under R version 3.4.1 

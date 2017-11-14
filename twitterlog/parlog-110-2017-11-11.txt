@@ -1,0 +1,167 @@
+starting worker pid=5840 on localhost:11045 at 04:50:34.576
+starting worker pid=19452 on localhost:11045 at 04:50:34.724
+starting worker pid=20916 on localhost:11045 at 04:50:34.896
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-11 04:53:41 Favorites: 50.5% at 35/sec for magical2727
+2017-11-11 04:53:46 Favorites: 50.3% at 44/sec for MariaMillerUK
+2017-11-11 04:53:55 Favorites: Waiting for 7.3 minutes due to : Used up allowance in a loop
+2017-11-11 04:53:58 Friends  : 98.2% at 36/sec for magical2727
+2017-11-11 04:54:21 Friends  : 99.3% at 36/sec for MariaMillerUK
+2017-11-11 04:54:58 Friends  : 99.6% at 34/sec for markettiers
+2017-11-11 04:55:11 Friends  : 98.4% at 29/sec for Mattallwright
+2017-11-11 04:55:22 Tweets   : 2.7% at 43/sec for magical2727
+2017-11-11 04:56:45 Tweets   : 73.6% at 38/sec for MariaMillerUK
+2017-11-11 04:57:10 Friends  : 96% at 40/sec for meggers269
+2017-11-11 04:58:01 Tweets   : 60.8% at 42/sec for markettiers
+2017-11-11 04:59:24 Tweets   : 19.3% at 39/sec for Mattallwright
+2017-11-11 04:59:53 Friends  : 99.6% at 41/sec for missielizzieb
+2017-11-11 05:00:45 Tweets   : 7% at 39/sec for meggers269
+2017-11-11 05:01:42 Favorites: 52.1% at 2/sec for markettiers
+2017-11-11 05:01:43 Favorites: 100% at 33/sec for Mattallwright
+2017-11-11 05:02:10 Favorites: 50.2% at 37/sec for meggers269
+2017-11-11 05:02:12 Tweets   : 3.8% at 37/sec for missielizzieb
+2017-11-11 05:03:06 Favorites: 50.1% at 40/sec for missielizzieb
+2017-11-11 05:03:07 Friends  : 91.8% at 41/sec for MumSomeone
+2017-11-11 05:03:33 Tweets   : 10.8% at 39/sec for MumSomeone
+2017-11-11 05:04:26 Favorites: 15.8% at 40/sec for MumSomeone
+2017-11-11 05:04:29 Favorites: Waiting for 11.9 minutes due to : Used up allowance in a loop
+2017-11-11 05:04:59 Tweets   : 1.8% at 37/sec for nattycrossaint
+2017-11-11 05:06:18 Friends  : 98.7% at 39/sec for nattycrossaint
+2017-11-11 05:06:31 Tweets   : 40.9% at 35/sec for PublicHealthW
+2017-11-11 05:06:39 Tweets   : 100% at 14/sec for ReactiveGas
+2017-11-11 05:06:50 Friends  : 98.9% at 36/sec for PublicHealthW
+2017-11-11 05:07:09 Friends  : 100% at 34/sec for ReactiveGas
+2017-11-11 05:07:20 Friends  : 95.5% at 34/sec for Rihaines
+2017-11-11 05:07:28 Friends  : 99.2% at 33/sec for roberts_rachael
+2017-11-11 05:07:43 Friends  : 99.2% at 32/sec for ShappiKhorsandi
+2017-11-11 05:07:53 Friends  : 97.7% at 33/sec for SJK_Plumbing
+2017-11-11 05:07:56 Tweets   : 35.7% at 41/sec for Rihaines
+2017-11-11 05:08:05 Friends  : 98.9% at 30/sec for SJLheating
+2017-11-11 05:08:07 Tweets   : 100% at 23/sec for roberts_rachael
+2017-11-11 05:09:27 Tweets   : 15.6% at 40/sec for ShappiKhorsandi
+2017-11-11 05:09:34 Friends  : 96.5% at 42/sec for Smart_CO1
+2017-11-11 05:09:41 Tweets   : 100% at 25/sec for SJK_Plumbing
+2017-11-11 05:09:55 Friends  : 92.1% at 41/sec for Stu_Adams
+2017-11-11 05:10:23 Tweets   : 99.7% at 37/sec for SJLheating
+2017-11-11 05:10:49 Friends  : 89.7% at 42/sec for the24hrplumber
+2017-11-11 05:11:35 Friends  : 96.4% at 41/sec for theBSCprogramme
+2017-11-11 05:11:39 Friends  : 100% at 28/sec for TheDRTrust
+2017-11-11 05:11:50 Tweets   : 75.1% at 37/sec for Smart_CO1
+2017-11-11 05:11:58 Friends  : 98.2% at 40/sec for thefletch37
+2017-11-11 05:12:03 Friends  : 97.8% at 47/sec for Torbayboilers
+2017-11-11 05:12:24 Friends  : 95.8% at 39/sec for TotPropService
+2017-11-11 05:12:33 Friends  : 98.8% at 37/sec for ULHS
+2017-11-11 05:12:33 Friends  : Waiting for 9.3 minutes
+2017-11-11 05:13:08 Tweets   : 23.9% at 40/sec for Stu_Adams
+2017-11-11 05:14:22 Tweets   : 25.3% at 43/sec for the24hrplumber
+2017-11-11 05:15:48 Tweets   : 63.5% at 37/sec for theBSCprogramme
+2017-11-11 05:15:55 Tweets   : 100% at 7/sec for TheDRTrust
+2017-11-11 05:16:57 Favorites: 56.2% at 1/sec for nattycrossaint
+2017-11-11 05:17:11 Tweets   : 59.8% at 42/sec for thefletch37
+2017-11-11 05:17:24 Tweets   : 100% at 27/sec for Torbayboilers
+2017-11-11 05:17:26 Favorites: 49.8% at 44/sec for PublicHealthW
+2017-11-11 05:17:29 Favorites: 98.9% at 35/sec for ReactiveGas
+2017-11-11 05:17:49 Tweets   : 100% at 33/sec for TotPropService
+2017-11-11 05:18:18 Favorites: 51.7% at 40/sec for Rihaines
+2017-11-11 05:18:22 Favorites: 63.1% at 48/sec for roberts_rachael
+2017-11-11 05:18:24 Tweets   : 99.6% at 38/sec for ULHS
+2017-11-11 05:18:41 Tweets   : 100% at 31/sec for UnionPlumbing
+2017-11-11 05:19:00 Tweets   : 99.8% at 32/sec for unitedgas2006
+2017-11-11 05:19:32 Favorites: 48.9% at 40/sec for ShappiKhorsandi
+2017-11-11 05:19:33 Favorites: 100% at 50/sec for SJK_Plumbing
+2017-11-11 05:19:43 Favorites: 57.9% at 39/sec for SJLheating
+2017-11-11 05:19:43 Tweets   : 94.4% at 38/sec for UOWStuHousing
+2017-11-11 05:19:43 Favorites: Waiting for 12 minutes due to : Used up allowance in a loop
+2017-11-11 05:21:00 Tweets   : 16.3% at 42/sec for VickyFlipFlop
+2017-11-11 05:22:21 Friends  : 94.8% at 1/sec for UnionPlumbing
+2017-11-11 05:22:28 Tweets   : 56.6% at 36/sec for Wfieldyr6
+2017-11-11 05:23:03 Friends  : 100% at 40/sec for unitedgas2006
+2017-11-11 05:23:14 Friends  : 100% at 37/sec for UOWStuHousing
+2017-11-11 05:23:21 Tweets   : 99.9% at 38/sec for bwf_certifire
+2017-11-11 05:23:37 Tweets   : 99.8% at 31/sec for caldwellukltd
+2017-11-11 05:23:47 Tweets   : 99.5% at 19/sec for EdgetechUK
+2017-11-11 05:24:23 Tweets   : 100% at 38/sec for FDIS_UK
+2017-11-11 05:24:38 Tweets   : 100% at 29/sec for looopylottie
+2017-11-11 05:24:47 Friends  : 99.8% at 39/sec for VickyFlipFlop
+2017-11-11 05:24:48 Tweets   : 100% at 16/sec for rich_ke
+2017-11-11 05:24:51 Friends  : 95.9% at 26/sec for Wfieldyr6
+2017-11-11 05:25:02 Friends  : 97.7% at 41/sec for bwf_certifire
+2017-11-11 05:25:29 Friends  : 96% at 30/sec for caldwellukltd
+2017-11-11 05:25:45 Friends  : 96.8% at 46/sec for EdgetechUK
+2017-11-11 05:25:58 Friends  : 97.5% at 41/sec for FDIS_UK
+2017-11-11 05:26:04 Friends  : 97.4% at 37/sec for looopylottie
+2017-11-11 05:26:08 Friends  : 98.8% at 35/sec for rich_ke
+2017-11-11 05:26:10 Tweets   : 86.6% at 39/sec for AndrewScottGB
+2017-11-11 05:26:27 Friends  : 98.1% at 42/sec for AndrewScottGB
+2017-11-11 05:26:33 Friends  : 100% at 43/sec for BlackMillwork
+2017-11-11 05:26:36 Tweets   : 100% at 32/sec for BlackMillwork
+2017-11-11 05:27:29 Friends  : 99.2% at 43/sec for ClaireEGamble
+2017-11-11 05:28:05 Tweets   : 36.9% at 36/sec for ClaireEGamble
+2017-11-11 05:28:20 Friends  : 98.2% at 43/sec for glassonweb
+2017-11-11 05:28:20 Friends  : Waiting for 8.9 minutes
+2017-11-11 05:29:17 Tweets   : 16% at 44/sec for glassonweb
+2017-11-11 05:29:52 Tweets   : 100% at 37/sec for GQAMick
+2017-11-11 05:31:08 Tweets   : 32.9% at 42/sec for RenegadeGuy
+2017-11-11 05:32:15 Favorites: 63.4% at 1/sec for Smart_CO1
+2017-11-11 05:32:32 Tweets   : 18.4% at 38/sec for AskUnum
+2017-11-11 05:33:34 Favorites: 29.1% at 40/sec for Stu_Adams
+2017-11-11 05:33:46 Tweets   : 90% at 43/sec for atom_bank
+2017-11-11 05:34:54 Favorites: 25.7% at 40/sec for the24hrplumber
+2017-11-11 05:35:03 Tweets   : 48.7% at 41/sec for CreditSuisse
+2017-11-11 05:35:07 Favorites: Waiting for 12 minutes due to : Used up allowance in a loop
+2017-11-11 05:35:27 Tweets   : 100% at 36/sec for CTinvest_EMEA
+2017-11-11 05:36:25 Tweets   : 99.6% at 39/sec for dannyalexander
+2017-11-11 05:37:34 Friends  : 95.3% at 0/sec for GQAMick
+2017-11-11 05:37:42 Friends  : 97.5% at 34/sec for RenegadeGuy
+2017-11-11 05:37:48 Tweets   : 42.4% at 38/sec for EEF_Press
+2017-11-11 05:39:04 Tweets   : 53.1% at 42/sec for gdsteam
+2017-11-11 05:39:11 Tweets   : 100% at 0/sec for Govt_Women
+2017-11-11 05:40:16 Friends  : 93.7% at 42/sec for AskUnum
+2017-11-11 05:40:31 Friends  : 98.4% at 35/sec for atom_bank
+2017-11-11 05:40:47 Friends  : 99.9% at 42/sec for CreditSuisse
+2017-11-11 05:41:12 Friends  : 99.4% at 38/sec for CTinvest_EMEA
+2017-11-11 05:41:32 Friends  : 99.9% at 38/sec for dannyalexander
+2017-11-11 05:41:52 Friends  : 98.9% at 36/sec for EEF_Press
+2017-11-11 05:42:20 Friends  : 98.6% at 39/sec for gdsteam
+2017-11-11 05:42:20 Friends  : User Govt_Women has a protected account or no Friendss to collect so skipping
+2017-11-11 05:47:50 Favorites: 52.1% at 2/sec for theBSCprogramme
+2017-11-11 05:47:54 Favorites: 100% at 1/sec for TheDRTrust
+2017-11-11 05:48:49 Favorites: 46.3% at 43/sec for thefletch37
+2017-11-11 05:49:01 Favorites: 53.1% at 42/sec for Torbayboilers
+2017-11-11 05:49:04 Favorites: 57.1% at 36/sec for TotPropService
+2017-11-11 05:49:13 Favorites: 56.4% at 43/sec for ULHS
+2017-11-11 05:49:13 Favorites: 100% at 33/sec for UnionPlumbing
+2017-11-11 05:49:14 Favorites: 95.3% at 63/sec for unitedgas2006
+2017-11-11 05:49:17 Favorites: 56.2% at 39/sec for UOWStuHousing
+2017-11-11 05:50:12 Favorites: Waiting for 12.2 minutes due to : Used up allowance in a loop
+2017-11-11 06:02:53 Favorites: 51.2% at 3/sec for VickyFlipFlop
+2017-11-11 06:03:34 Favorites: 50.9% at 42/sec for Wfieldyr6
+2017-11-11 06:03:37 Favorites: 65.8% at 39/sec for bwf_certifire
+2017-11-11 06:03:39 Favorites: 100% at 31/sec for caldwellukltd
+2017-11-11 06:03:43 Favorites: 69.6% at 53/sec for EdgetechUK
+2017-11-11 06:03:54 Favorites: 56.7% at 42/sec for FDIS_UK
+2017-11-11 06:04:07 Favorites: 55.5% at 46/sec for looopylottie
+2017-11-11 06:04:10 Favorites: 97% at 27/sec for rich_ke
+2017-11-11 06:04:35 Favorites: 48.9% at 42/sec for AndrewScottGB
+2017-11-11 06:04:36 Favorites: 100% at 34/sec for BlackMillwork
+2017-11-11 06:05:00 Favorites: 54.1% at 41/sec for ClaireEGamble
+2017-11-11 06:05:11 Favorites: 53.4% at 42/sec for glassonweb
+2017-11-11 06:05:31 Favorites: 54.1% at 45/sec for GQAMick
+2017-11-11 06:05:34 Favorites: Waiting for 12.2 minutes due to : Used up allowance in a loop
+2017-11-11 06:18:53 Favorites: 49.2% at 3/sec for RenegadeGuy
+2017-11-11 06:19:08 Favorites: 53.7% at 38/sec for AskUnum
+2017-11-11 06:19:29 Favorites: 53.3% at 38/sec for atom_bank
+2017-11-11 06:19:58 Favorites: 52.7% at 44/sec for CreditSuisse
+2017-11-11 06:20:00 Favorites: 100% at 22/sec for CTinvest_EMEA
+2017-11-11 06:20:00 Favorites: 94.1% at 35/sec for dannyalexander
+2017-11-11 06:20:03 Favorites: 68.8% at 39/sec for EEF_Press
+2017-11-11 06:20:48 Favorites: 51.2% at 43/sec for gdsteam
+2017-11-11 06:20:48 Favorites: User Govt_Women has a protected account or no Favoritess to collect so skipping
+Warning message:
+Warning message:
+was built under R version 3.4.1 
+Warning message:
+was built under R version 3.4.1 
+package 'twitteR' was built under R version 3.4.1 

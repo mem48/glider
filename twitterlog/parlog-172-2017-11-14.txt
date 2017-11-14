@@ -1,0 +1,176 @@
+starting worker pid=8936 on localhost:11045 at 04:43:20.083
+starting worker pid=5576 on localhost:11045 at 04:43:20.245
+starting worker pid=6900 on localhost:11045 at 04:43:20.407
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-14 04:46:30 Friends  : 98.3% at 27/sec for destinationroms
+2017-11-14 04:46:56 Friends  : 99.8% at 41/sec for districtcouncil
+2017-11-14 04:47:55 Friends  : 99.5% at 37/sec for durham_uni
+2017-11-14 04:48:49 Friends  : 99.1% at 34/sec for EcoSchools
+2017-11-14 04:48:59 Favorites: 53.7% at 27/sec for destinationroms
+2017-11-14 04:49:05 Favorites: 82% at 29/sec for districtcouncil
+2017-11-14 04:49:29 Favorites: 51.3% at 38/sec for durham_uni
+2017-11-14 04:49:55 Favorites: 53.7% at 38/sec for EcoSchools
+2017-11-14 04:50:02 Favorites: 75.9% at 30/sec for EdthePubMan
+2017-11-14 04:50:44 Friends  : 98.5% at 36/sec for EdthePubMan
+2017-11-14 04:51:11 Favorites: 49.4% at 37/sec for EFL
+2017-11-14 04:51:12 Favorites: 88.4% at 76/sec for EmilyGreen491
+2017-11-14 04:51:29 Favorites: Waiting for 1.4 minutes due to : Used up allowance in a loop
+2017-11-14 04:52:01 Friends  : 99.7% at 34/sec for EFL
+2017-11-14 04:52:08 Friends  : 100% at 21/sec for EmilyGreen491
+2017-11-14 04:52:19 Friends  : 98.7% at 42/sec for England
+2017-11-14 04:52:26 Tweets   : 14.2% at 36/sec for destinationroms
+2017-11-14 04:52:40 Friends  : 99.4% at 37/sec for EnviroLewisham
+2017-11-14 04:52:52 Favorites: 12.9% at 6/sec for England
+2017-11-14 04:52:52 Favorites: Waiting for 0 minutes due to : Used up allowance in a loop
+2017-11-14 04:53:14 Favorites: 48.1% at 33/sec for EnviroLewisham
+2017-11-14 04:53:31 Tweets   : 99% at 42/sec for districtcouncil
+2017-11-14 04:53:45 Friends  : 99% at 37/sec for ExperienceCN
+2017-11-14 04:54:23 Favorites: 50.7% at 39/sec for ExperienceCN
+2017-11-14 04:54:35 Favorites: 57.1% at 32/sec for expertlinkorg
+2017-11-14 04:54:44 Favorites: 59.2% at 42/sec for FaithActionnet
+2017-11-14 04:54:50 Tweets   : 58.9% at 40/sec for durham_uni
+2017-11-14 04:56:15 Favorites: Waiting for 11.6 minutes due to : Used up allowance in a loop
+2017-11-14 04:56:19 Tweets   : 43.5% at 36/sec for EcoSchools
+2017-11-14 04:56:55 Friends  : 96.1% at 35/sec for expertlinkorg
+2017-11-14 04:57:15 Friends  : 99.4% at 33/sec for FaithActionnet
+2017-11-14 04:57:28 Tweets   : 39.8% at 46/sec for EdthePubMan
+2017-11-14 04:57:58 Friends  : 99.6% at 37/sec for FaithMattersUK
+2017-11-14 04:58:23 Friends  : 98.9% at 29/sec for Farnsworth100
+2017-11-14 04:58:23 Friends  : Waiting for 2.5 minutes
+2017-11-14 04:58:45 Tweets   : 7.9% at 42/sec for EFL
+2017-11-14 04:58:55 Tweets   : 100% at 12/sec for EmilyGreen491
+2017-11-14 05:00:09 Tweets   : 10.5% at 43/sec for England
+2017-11-14 05:01:21 Tweets   : 38.5% at 45/sec for EnviroLewisham
+2017-11-14 05:02:45 Tweets   : 37.9% at 38/sec for ExperienceCN
+2017-11-14 05:04:04 Tweets   : 68.8% at 40/sec for expertlinkorg
+2017-11-14 05:04:54 Friends  : 91.3% at 20/sec for fleetwoodbeach
+2017-11-14 05:05:23 Tweets   : 42.1% at 41/sec for FaithActionnet
+2017-11-14 05:06:49 Tweets   : 12.4% at 37/sec for FaithMattersUK
+2017-11-14 05:07:06 Friends  : 99.9% at 30/sec for FriendsElderly
+2017-11-14 05:07:53 Favorites: 47.5% at 4/sec for FaithMattersUK
+2017-11-14 05:07:53 Favorites: Waiting for 0 minutes due to : Used up allowance in a loop
+2017-11-14 05:07:54 Favorites: 100% at 10/sec for Farnsworth100
+2017-11-14 05:08:14 Tweets   : 80.9% at 38/sec for Farnsworth100
+2017-11-14 05:09:14 Favorites: 14.7% at 38/sec for fleetwoodbeach
+2017-11-14 05:09:32 Friends  : 96.6% at 33/sec for FutureHighSt
+2017-11-14 05:09:45 Tweets   : 12.2% at 35/sec for fleetwoodbeach
+2017-11-14 05:09:57 Favorites: 49.9% at 37/sec for FriendsElderly
+2017-11-14 05:10:05 Favorites: 66.4% at 38/sec for FutureHighSt
+2017-11-14 05:10:11 Favorites: 53.2% at 30/sec for giornalista1
+2017-11-14 05:10:23 Friends  : 99.6% at 36/sec for giornalista1
+2017-11-14 05:10:27 Favorites: 51.3% at 37/sec for gt1588
+2017-11-14 05:10:28 Favorites: 95.9% at 46/sec for GY_Town_Centre
+2017-11-14 05:10:35 Favorites: 80.2% at 30/sec for HeadingtonPlan
+2017-11-14 05:10:36 Favorites: 100% at 59/sec for HeritageAdvice
+2017-11-14 05:10:42 Friends  : 98.6% at 35/sec for gt1588
+2017-11-14 05:10:59 Friends  : 99.3% at 34/sec for GY_Town_Centre
+2017-11-14 05:11:01 Favorites: Waiting for 11.9 minutes due to : Used up allowance in a loop
+2017-11-14 05:11:04 Friends  : 97.8% at 18/sec for HeadingtonPlan
+2017-11-14 05:11:14 Tweets   : 14.5% at 36/sec for FriendsElderly
+2017-11-14 05:12:25 Tweets   : 56.7% at 45/sec for FutureHighSt
+2017-11-14 05:13:34 Tweets   : 48.3% at 47/sec for giornalista1
+2017-11-14 05:14:58 Tweets   : 79.7% at 38/sec for gt1588
+2017-11-14 05:15:36 Tweets   : 99.8% at 35/sec for GY_Town_Centre
+2017-11-14 05:16:01 Tweets   : 100% at 33/sec for HeadingtonPlan
+2017-11-14 05:16:52 Tweets   : 100% at 40/sec for HeritageAdvice
+2017-11-14 05:18:19 Tweets   : 3.9% at 37/sec for hull_libraries
+2017-11-14 05:19:13 Friends  : 100% at 30/sec for HeritageAdvice
+2017-11-14 05:19:38 Tweets   : 12.9% at 40/sec for Hullccnews
+2017-11-14 05:21:04 Tweets   : 43.9% at 37/sec for jcsuffolk
+2017-11-14 05:21:16 Friends  : 97.9% at 33/sec for hull_libraries
+2017-11-14 05:21:21 Tweets   : 99.8% at 25/sec for JJDadge
+2017-11-14 05:21:48 Tweets   : 99.6% at 35/sec for JonnyG_369
+2017-11-14 05:21:49 Friends  : 98.6% at 35/sec for Hullccnews
+2017-11-14 05:22:40 Tweets   : 100% at 37/sec for jpmaytum
+2017-11-14 05:22:45 Friends  : 100% at 36/sec for jcsuffolk
+2017-11-14 05:23:01 Friends  : 99.5% at 36/sec for JJDadge
+2017-11-14 05:23:25 Friends  : 99.6% at 32/sec for JonnyG_369
+2017-11-14 05:23:31 Friends  : 100% at 19/sec for jpmaytum
+2017-11-14 05:23:53 Favorites: 15.9% at 4/sec for hull_libraries
+2017-11-14 05:24:08 Tweets   : 54.2% at 36/sec for KarenPollock100
+2017-11-14 05:24:12 Friends  : 99.4% at 34/sec for KarenPollock100
+2017-11-14 05:24:12 Friends  : Waiting for 10.1 minutes
+2017-11-14 05:25:18 Favorites: 37.1% at 38/sec for Hullccnews
+2017-11-14 05:25:28 Tweets   : 1.5% at 40/sec for LeadersCircle
+2017-11-14 05:25:28 Favorites: 56.8% at 47/sec for jcsuffolk
+2017-11-14 05:25:28 Favorites: User JJDadge has a protected account or no Favoritess to collect so skipping
+2017-11-14 05:25:34 Favorites: 68.9% at 36/sec for JonnyG_369
+2017-11-14 05:25:35 Favorites: 98.3% at 55/sec for jpmaytum
+2017-11-14 05:26:04 Favorites: Waiting for 11.8 minutes due to : Used up allowance in a loop
+2017-11-14 05:26:40 Tweets   : 24.6% at 44/sec for LewishamCouncil
+2017-11-14 05:27:53 Tweets   : 73.8% at 44/sec for LGcomms
+2017-11-14 05:28:23 Tweets   : 100% at 41/sec for LGOmbudsman
+2017-11-14 05:29:19 Tweets   : 99.7% at 43/sec for LindaSasta
+2017-11-14 05:30:27 Tweets   : 99.7% at 40/sec for Lizcarnelley
+2017-11-14 05:30:53 Tweets   : 100% at 38/sec for localitymatters
+2017-11-14 05:32:14 Tweets   : 32.6% at 40/sec for LocalTrust
+2017-11-14 05:33:32 Tweets   : 44.1% at 41/sec for londoncouncils
+2017-11-14 05:34:53 Tweets   : 46.2% at 39/sec for LondonFaiths
+2017-11-14 05:36:18 Tweets   : 19.9% at 38/sec for LondonYouth
+2017-11-14 05:37:41 Tweets   : 7.3% at 38/sec for lordlancaster
+2017-11-14 05:38:08 Favorites: 49.8% at 2/sec for KarenPollock100
+2017-11-14 05:38:08 Favorites: User LeadersCircle has a protected account or no Favoritess to collect so skipping
+2017-11-14 05:38:15 Favorites: 56% at 39/sec for LewishamCouncil
+2017-11-14 05:38:36 Favorites: 50.5% at 38/sec for LGcomms
+2017-11-14 05:38:37 Favorites: 100% at 8/sec for LGOmbudsman
+2017-11-14 05:38:50 Tweets   : 100.2% at 35/sec for LoveSolihull
+2017-11-14 05:39:05 Favorites: 52.8% at 38/sec for LindaSasta
+2017-11-14 05:39:13 Favorites: 50.3% at 39/sec for Lizcarnelley
+2017-11-14 05:39:14 Favorites: 100% at 29/sec for localitymatters
+2017-11-14 05:39:39 Favorites: 51% at 39/sec for LocalTrust
+2017-11-14 05:40:13 Tweets   : 46.6% at 38/sec for man_about_towns
+2017-11-14 05:40:17 Favorites: 50.9% at 39/sec for londoncouncils
+2017-11-14 05:40:28 Favorites: 51.2% at 47/sec for LondonFaiths
+2017-11-14 05:40:59 Favorites: Waiting for 11.9 minutes due to : Used up allowance in a loop
+2017-11-14 05:41:31 Tweets   : 8.2% at 41/sec for MarketingLancs
+2017-11-14 05:42:44 Tweets   : 52% at 44/sec for MeltonBC
+2017-11-14 05:43:59 Tweets   : 13.4% at 42/sec for misterphipps
+2017-11-14 05:45:19 Tweets   : 67.3% at 40/sec for MitzvahDay
+2017-11-14 05:46:41 Tweets   : 12.2% at 39/sec for morningad
+2017-11-14 05:48:07 Tweets   : 10.4% at 37/sec for MrsMarketUK
+2017-11-14 05:49:07 Tweets   : 99.6% at 37/sec for MsAlexisBailey
+2017-11-14 05:53:47 Favorites: 42.9% at 4/sec for LondonYouth
+2017-11-14 05:55:07 Favorites: 30.5% at 40/sec for lordlancaster
+2017-11-14 05:55:19 Favorites: 56.1% at 32/sec for LoveSolihull
+2017-11-14 05:55:20 Favorites: 100% at 38/sec for man_about_towns
+2017-11-14 05:55:59 Favorites: Waiting for 11.9 minutes due to : Used up allowance in a loop
+2017-11-14 06:08:03 Friends  : 100% at 28/sec for LeadersCircle
+2017-11-14 06:08:36 Favorites: 34.9% at 4/sec for MarketingLancs
+2017-11-14 06:08:37 Friends  : 99.2% at 41/sec for LewishamCouncil
+2017-11-14 06:08:43 Favorites: 71.2% at 40/sec for MeltonBC
+2017-11-14 06:08:52 Friends  : 99.3% at 39/sec for LGcomms
+2017-11-14 06:09:04 Favorites: 49.1% at 38/sec for misterphipps
+2017-11-14 06:09:13 Favorites: 54.2% at 42/sec for MitzvahDay
+2017-11-14 06:09:44 Friends  : 99.8% at 40/sec for LGOmbudsman
+2017-11-14 06:09:54 Favorites: 51.5% at 42/sec for morningad
+2017-11-14 06:10:26 Friends  : 98.3% at 41/sec for LindaSasta
+2017-11-14 06:10:29 Friends  : 96.8% at 40/sec for Lizcarnelley
+2017-11-14 06:10:39 Friends  : 99.1% at 34/sec for localitymatters
+2017-11-14 06:11:00 Friends  : 99% at 43/sec for LocalTrust
+2017-11-14 06:11:01 Favorites: Waiting for 11.9 minutes due to : Used up allowance in a loop
+2017-11-14 06:12:00 Friends  : 99% at 41/sec for londoncouncils
+2017-11-14 06:12:36 Friends  : 98.4% at 37/sec for LondonFaiths
+2017-11-14 06:13:27 Friends  : 99% at 41/sec for LondonYouth
+2017-11-14 06:15:13 Friends  : 98.3% at 41/sec for lordlancaster
+2017-11-14 06:15:23 Friends  : 97.8% at 34/sec for LoveSolihull
+2017-11-14 06:15:39 Friends  : 99.8% at 40/sec for man_about_towns
+2017-11-14 06:17:23 Friends  : 99.1% at 40/sec for MarketingLancs
+2017-11-14 06:17:29 Friends  : 99.7% at 47/sec for MeltonBC
+2017-11-14 06:17:29 Friends  : Waiting for 5.7 minutes
+2017-11-14 06:23:07 Favorites: 50% at 4/sec for MrsMarketUK
+2017-11-14 06:23:14 Favorites: 49.6% at 39/sec for MsAlexisBailey
+2017-11-14 06:23:52 Friends  : 99.3% at 4/sec for misterphipps
+2017-11-14 06:24:25 Friends  : 99.4% at 34/sec for MitzvahDay
+2017-11-14 06:27:46 Friends  : 99.9% at 39/sec for morningad
+2017-11-14 06:29:36 Friends  : 97% at 40/sec for MrsMarketUK
+2017-11-14 06:30:21 Friends  : 99.3% at 46/sec for MsAlexisBailey
+Warning messages:
+1: package 'twittepackage 'twitteR' was built under R version 3.4.1 
+Warning message:
+2: package 'twitteR' was built under R version 3.4.1 
+In twInterfaceObj$doAPICall(cmd, params, method, ...) :
+  Rate limit encountered & retry limit reached - returning partial results
+3: In twInterfaceObj$doAPICall(cmd, params, method, ...) :
+  Rate limit encountered & retry limit reached - returning partial results

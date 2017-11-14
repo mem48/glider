@@ -1,0 +1,164 @@
+starting worker pid=11128 on localhost:11045 at 10:55:16.819
+starting worker pid=16456 on localhost:11045 at 10:55:16.991
+starting worker pid=12508 on localhost:11045 at 10:55:17.147
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-13 10:57:41 Friends  : 99.5% at 49/sec for TradeDKUK
+2017-11-13 10:57:47 Friends  : 98% at 25/sec for TrainingBAM
+2017-11-13 11:00:07 Favorites: 69% at 55/sec for TradeDKUK
+2017-11-13 11:00:07 Favorites: 100% at 10/sec for TrainingBAM
+2017-11-13 11:00:12 Favorites: 96.9% at 19/sec for UKConstruction
+2017-11-13 11:00:14 Favorites: 95.2% at 59/sec for ukrlg
+2017-11-13 11:00:40 Friends  : 99.6% at 32/sec for UKConstruction
+2017-11-13 11:00:47 Favorites: 51.7% at 24/sec for waitey
+2017-11-13 11:00:59 Friends  : 98.9% at 29/sec for ukrlg
+2017-11-13 11:02:25 Favorites: 13.7% at 33/sec for WATC_Updates
+2017-11-13 11:02:52 Tweets   : 100% at 20/sec for TradeDKUK
+2017-11-13 11:02:54 Friends  : 98.6% at 32/sec for waitey
+2017-11-13 11:02:58 Favorites: 51.2% at 35/sec for WHurst1
+2017-11-13 11:03:02 Tweets   : 100% at 17/sec for TrainingBAM
+2017-11-13 11:03:10 Favorites: 53.6% at 35/sec for womenintech
+2017-11-13 11:03:41 Favorites: 52% at 35/sec for WomenintheCity
+2017-11-13 11:03:41 Favorites: Waiting for 1.9 minutes due to : Used up allowance in a loop
+2017-11-13 11:04:34 Tweets   : 32.5% at 35/sec for UKConstruction
+2017-11-13 11:05:19 Friends  : 97.9% at 41/sec for WATC_Updates
+2017-11-13 11:05:25 Tweets   : 100% at 36/sec for ukrlg
+2017-11-13 11:05:58 Favorites: 56.8% at 4/sec for _Nick_Porter_
+2017-11-13 11:06:05 Favorites: 85.4% at 30/sec for _tomforty
+2017-11-13 11:06:07 Favorites: 54.9% at 63/sec for 4ortyAM
+2017-11-13 11:06:11 Favorites: 51% at 22/sec for a_bayley
+2017-11-13 11:06:53 Favorites: 51.5% at 28/sec for abcdaveg
+2017-11-13 11:07:04 Tweets   : 41.2% at 32/sec for waitey
+2017-11-13 11:07:11 Favorites: 49.6% at 32/sec for ACSLLP
+2017-11-13 11:07:17 Favorites: 82.9% at 33/sec for AjmBee
+2017-11-13 11:07:33 Favorites: 50% at 37/sec for AksaHomes
+2017-11-13 11:07:34 Favorites: 100% at 16/sec for AlisonHayward
+2017-11-13 11:07:38 Favorites: 71.9% at 21/sec for Andreiszat
+2017-11-13 11:07:56 Friends  : 99.3% at 39/sec for WHurst1
+2017-11-13 11:08:32 Tweets   : 6.6% at 36/sec for WATC_Updates
+2017-11-13 11:08:33 Favorites: 49.7% at 33/sec for AndyOrrey
+2017-11-13 11:08:33 Favorites: 100% at 20/sec for AnitaPopeGCH
+2017-11-13 11:08:52 Favorites: 53.7% at 41/sec for AnnaJ1182
+2017-11-13 11:09:14 Favorites: 55.4% at 31/sec for annbennett41
+2017-11-13 11:09:17 Favorites: Waiting for 11.4 minutes due to : Used up allowance in a loop
+2017-11-13 11:09:58 Tweets   : 45.2% at 37/sec for WHurst1
+2017-11-13 11:11:31 Tweets   : 26.2% at 34/sec for womenintech
+2017-11-13 11:13:10 Tweets   : 22.1% at 32/sec for WomenintheCity
+2017-11-13 11:14:50 Tweets   : 57% at 32/sec for _Nick_Porter_
+2017-11-13 11:15:22 Tweets   : 99.4% at 26/sec for _tomforty
+2017-11-13 11:16:11 Tweets   : 99.9% at 29/sec for 4ortyAM
+2017-11-13 11:16:27 Tweets   : 100% at 24/sec for a_bayley
+2017-11-13 11:16:58 Tweets   : 100% at 28/sec for abcdaveg
+2017-11-13 11:17:49 Tweets   : 99.6% at 29/sec for ACSLLP
+2017-11-13 11:18:07 Tweets   : 100% at 25/sec for AjmBee
+2017-11-13 11:18:27 Friends  : 99.8% at 37/sec for womenintech
+2017-11-13 11:19:37 Tweets   : 71.3% at 35/sec for AksaHomes
+2017-11-13 11:19:50 Tweets   : 100% at 30/sec for AlisonHayward
+2017-11-13 11:20:10 Tweets   : 100% at 36/sec for Andreiszat
+2017-11-13 11:21:05 Favorites: 63.8% at 1/sec for ARIngleby
+2017-11-13 11:21:24 Tweets   : 55.2% at 43/sec for AndyOrrey
+2017-11-13 11:21:24 Favorites: 57.1% at 31/sec for arkhousing
+2017-11-13 11:21:30 Tweets   : 100% at 13/sec for AnitaPopeGCH
+2017-11-13 11:21:42 Favorites: 52.3% at 33/sec for AshleyHookmhs
+2017-11-13 11:21:43 Favorites: 96.9% at 47/sec for AshleyKDH
+2017-11-13 11:21:44 Favorites: 100% at 50/sec for Aspire_Housing
+2017-11-13 11:21:45 Favorites: 100% at 49/sec for BarbaraWestward
+2017-11-13 11:21:55 Friends  : 97.7% at 42/sec for WomenintheCity
+2017-11-13 11:21:56 Favorites: 62.9% at 28/sec for BillRegenda
+2017-11-13 11:22:00 Friends  : 99.3% at 55/sec for _Nick_Porter_
+2017-11-13 11:22:04 Tweets   : 99.2% at 37/sec for AnnaJ1182
+2017-11-13 11:22:15 Friends  : 99.6% at 32/sec for _tomforty
+2017-11-13 11:22:21 Favorites: 53.4% at 35/sec for BloodyNoraDJ
+2017-11-13 11:22:27 Favorites: 57% at 33/sec for bluefrogconsult
+2017-11-13 11:22:28 Favorites: 98% at 49/sec for BracknellFHomes
+2017-11-13 11:22:30 Favorites: 56.2% at 62/sec for broadbandgenie
+2017-11-13 11:22:34 Friends  : 98.6% at 39/sec for 4ortyAM
+2017-11-13 11:22:37 Friends  : 97.9% at 47/sec for a_bayley
+2017-11-13 11:22:42 Favorites: 58.8% at 32/sec for BromfordJobs
+2017-11-13 11:22:45 Friends  : 95.3% at 27/sec for abcdaveg
+2017-11-13 11:22:48 Favorites: 63% at 29/sec for C4Dispatches
+2017-11-13 11:22:48 Favorites: 100% at 11/sec for CamCyrenians
+2017-11-13 11:23:03 Friends  : 96.6% at 38/sec for ACSLLP
+2017-11-13 11:23:09 Friends  : 99.4% at 24/sec for AjmBee
+2017-11-13 11:23:13 Favorites: 52.8% at 32/sec for CarlaK75
+2017-11-13 11:23:20 Tweets   : 33.7% at 42/sec for annbennett41
+2017-11-13 11:23:21 Favorites: 72.1% at 38/sec for carolewilliams
+2017-11-13 11:23:30 Friends  : 99.5% at 40/sec for AksaHomes
+2017-11-13 11:23:32 Friends  : 100% at 25/sec for AlisonHayward
+2017-11-13 11:23:39 Friends  : 99.4% at 26/sec for Andreiszat
+2017-11-13 11:24:04 Favorites: 51.1% at 35/sec for Carolx98
+2017-11-13 11:24:06 Friends  : 98.7% at 33/sec for AndyOrrey
+2017-11-13 11:24:09 Friends  : 97.3% at 46/sec for AnitaPopeGCH
+2017-11-13 11:24:17 Favorites: 56.2% at 32/sec for CastleRockEdin
+2017-11-13 11:24:18 Tweets   : 100% at 41/sec for ARIngleby
+2017-11-13 11:24:24 Favorites: 51.6% at 42/sec for CBeatty_CRESR
+2017-11-13 11:24:26 Favorites: Waiting for 11.5 minutes due to : Used up allowance in a loop
+2017-11-13 11:24:33 Friends  : 99.3% at 36/sec for AnnaJ1182
+2017-11-13 11:24:33 Friends  : Waiting for 9 minutes
+2017-11-13 11:25:12 Tweets   : 99.8% at 45/sec for arkhousing
+2017-11-13 11:25:57 Tweets   : 99.7% at 43/sec for AshleyHookmhs
+2017-11-13 11:26:08 Tweets   : 100% at 15/sec for AshleyKDH
+2017-11-13 11:26:22 Tweets   : 100% at 38/sec for Aspire_Housing
+2017-11-13 11:26:33 Tweets   : 100% at 18/sec for BarbaraWestward
+2017-11-13 11:27:46 Tweets   : 67% at 44/sec for BillRegenda
+2017-11-13 11:28:57 Tweets   : 26.7% at 45/sec for BloodyNoraDJ
+2017-11-13 11:29:04 Tweets   : 100% at 15/sec for bluefrogconsult
+2017-11-13 11:29:21 Tweets   : 99.8% at 32/sec for BracknellFHomes
+2017-11-13 11:30:32 Tweets   : 61.1% at 45/sec for broadbandgenie
+2017-11-13 11:31:43 Tweets   : 51.7% at 45/sec for BromfordJobs
+2017-11-13 11:32:49 Tweets   : 99.9% at 48/sec for C4Dispatches
+2017-11-13 11:33:07 Tweets   : 100% at 28/sec for CamCyrenians
+2017-11-13 11:33:51 Friends  : 98.9% at 1/sec for annbennett41
+2017-11-13 11:34:05 Friends  : 97.5% at 34/sec for ARIngleby
+2017-11-13 11:34:15 Tweets   : 94.8% at 46/sec for CarlaK75
+2017-11-13 11:34:16 Friends  : 98.3% at 40/sec for arkhousing
+2017-11-13 11:34:30 Friends  : 98.8% at 34/sec for AshleyHookmhs
+2017-11-13 11:34:32 Friends  : 93.8% at 22/sec for AshleyKDH
+2017-11-13 11:34:41 Friends  : 99.6% at 34/sec for Aspire_Housing
+2017-11-13 11:34:43 Friends  : 97.3% at 40/sec for BarbaraWestward
+2017-11-13 11:35:33 Tweets   : 26.4% at 41/sec for carolewilliams
+2017-11-13 11:35:43 Friends  : 97.8% at 39/sec for BillRegenda
+2017-11-13 11:36:10 Favorites: 57.1% at 0/sec for CEXHCC
+2017-11-13 11:36:11 Favorites: 100% at 34/sec for CharlotteCIHEM
+2017-11-13 11:36:13 Friends  : 98.4% at 37/sec for BloodyNoraDJ
+2017-11-13 11:36:17 Favorites: 69.1% at 32/sec for Chaun_Wilson
+2017-11-13 11:36:20 Friends  : 98.2% at 25/sec for bluefrogconsult
+2017-11-13 11:36:23 Friends  : 100% at 41/sec for BracknellFHomes
+2017-11-13 11:36:25 Favorites: 51.7% at 40/sec for cherylstev
+2017-11-13 11:36:29 Favorites: 100% at 21/sec for Chris__Wiles
+2017-11-13 11:36:30 Favorites: 100% at 19/sec for Chris_G_Pearson
+2017-11-13 11:36:31 Favorites: 100% at 60/sec for chrisholloway75
+2017-11-13 11:36:41 Friends  : 99.8% at 37/sec for broadbandgenie
+2017-11-13 11:36:45 Tweets   : 72.6% at 43/sec for Carolx98
+2017-11-13 11:37:00 Friends  : 99.3% at 39/sec for BromfordJobs
+2017-11-13 11:37:20 Tweets   : 99.9% at 45/sec for CastleRockEdin
+2017-11-13 11:37:52 Tweets   : 99.9% at 37/sec for CBeatty_CRESR
+2017-11-13 11:37:59 Tweets   : 100% at 28/sec for CEXHCC
+2017-11-13 11:38:09 Tweets   : 100% at 10/sec for CharlotteCIHEM
+2017-11-13 11:39:19 Tweets   : 73.3% at 45/sec for Chaun_Wilson
+2017-11-13 11:40:18 Tweets   : 98.9% at 47/sec for cherylstev
+2017-11-13 11:40:29 Tweets   : 100% at 17/sec for Chris__Wiles
+2017-11-13 11:40:35 Tweets   : 100% at 4/sec for Chris_G_Pearson
+2017-11-13 11:40:38 Friends  : 97.6% at 36/sec for C4Dispatches
+2017-11-13 11:40:38 Friends  : Waiting for 8.1 minutes
+2017-11-13 11:40:42 Tweets   : 100% at 14/sec for chrisholloway75
+2017-11-13 11:48:59 Friends  : 100% at 1/sec for CamCyrenians
+2017-11-13 11:49:33 Friends  : 98.7% at 34/sec for CarlaK75
+2017-11-13 11:50:22 Friends  : 99.4% at 41/sec for carolewilliams
+2017-11-13 11:50:52 Friends  : 99.1% at 44/sec for Carolx98
+2017-11-13 11:51:06 Friends  : 99.7% at 51/sec for CastleRockEdin
+2017-11-13 11:51:12 Friends  : 97.6% at 37/sec for CBeatty_CRESR
+2017-11-13 11:51:34 Friends  : 97.7% at 50/sec for CEXHCC
+2017-11-13 11:51:38 Friends  : 100% at 52/sec for CharlotteCIHEM
+2017-11-13 11:51:56 Friends  : 99.2% at 44/sec for Chaun_Wilson
+2017-11-13 11:52:06 Friends  : 96.1% at 46/sec for cherylstev
+2017-11-13 11:52:11 Friends  : 99.3% at 51/sec for Chris__Wiles
+2017-11-13 11:52:15 Friends  : 100% at 14/sec for Chris_G_Pearson
+2017-11-13 11:52:17 Friends  : 98.6% at 35/sec for chrisholloway75
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+Warning message:
+package 'twitteR' was built under R version 3.4.1 

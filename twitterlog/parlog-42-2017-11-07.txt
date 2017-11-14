@@ -1,0 +1,165 @@
+starting worker pid=7984 on localhost:11045 at 20:22:29.015
+starting worker pid=3340 on localhost:11045 at 20:22:29.171
+starting worker pid=7780 on localhost:11045 at 20:22:29.343
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-07 20:23:38 Friends  : 96.5% at 29/sec for chsgroup
+2017-11-07 20:24:25 Favorites: 62% at 39/sec for chsgroup
+2017-11-07 20:24:55 Favorites: 53.5% at 37/sec for Foremarke
+2017-11-07 20:25:14 Friends  : 98.4% at 40/sec for Foremarke
+2017-11-07 20:25:22 Favorites: Waiting for 8.1 minutes due to : Used up allowance in a loop
+2017-11-07 20:25:55 Tweets   : 99.9% at 38/sec for chsgroup
+2017-11-07 20:26:11 Friends  : 97.9% at 34/sec for GaryYarlington
+2017-11-07 20:26:15 Friends  : 98.8% at 40/sec for GillCSPayne
+2017-11-07 20:26:20 Friends  : 98.9% at 39/sec for GrandunionHG
+2017-11-07 20:26:33 Friends  : 98.4% at 42/sec for HightownHA
+2017-11-07 20:27:07 Tweets   : 99.9% at 42/sec for Foremarke
+2017-11-07 20:27:12 Friends  : 98.3% at 43/sec for HousingEurope
+2017-11-07 20:28:22 Tweets   : 71.8% at 43/sec for GaryYarlington
+2017-11-07 20:28:29 Tweets   : 100% at 3/sec for GillCSPayne
+2017-11-07 20:28:34 Friends  : 99.3% at 37/sec for HumanCityInst
+2017-11-07 20:29:01 Tweets   : 97.2% at 47/sec for GrandunionHG
+2017-11-07 20:29:13 Friends  : 99.5% at 35/sec for moathomes
+2017-11-07 20:29:29 Tweets   : 100% at 42/sec for HightownHA
+2017-11-07 20:29:42 Friends  : 99.3% at 36/sec for nicks1212
+2017-11-07 20:30:25 Friends  : 99.9% at 38/sec for OfficialCCHA
+2017-11-07 20:30:32 Tweets   : 74.6% at 50/sec for HousingEurope
+2017-11-07 20:30:52 Friends  : 97.8% at 40/sec for PaulHRoberts
+2017-11-07 20:31:01 Friends  : 98.9% at 39/sec for RaifeHHA
+2017-11-07 20:31:05 Friends  : 97.7% at 40/sec for SallyHilton
+2017-11-07 20:31:13 Friends  : 97.7% at 39/sec for SanctuaryPR
+2017-11-07 20:31:13 Friends  : Waiting for 7.2 minutes
+2017-11-07 20:31:36 Tweets   : 99.8% at 48/sec for HumanCityInst
+Error in twInterfaceObj$doAPICall(cmd, params, method, ...) : 
+  Service Unavailable (HTTP 503).
+In addition: Warning message:
+package 'twitteR' was built under R version 3.4.1 
+2017-11-07 20:32:01 Tweets: Unable to find account moathomes moving to next
+2017-11-07 20:32:01 Tweets   : % at /sec for moathomes
+2017-11-07 20:33:07 Tweets   : 97% at 48/sec for nicks1212
+2017-11-07 20:33:40 Tweets   : 99.9% at 43/sec for OfficialCCHA
+2017-11-07 20:33:44 Favorites: 50.3% at 2/sec for GaryYarlington
+2017-11-07 20:33:45 Favorites: 100% at 19/sec for GillCSPayne
+2017-11-07 20:33:46 Favorites: 100% at 54/sec for GrandunionHG
+2017-11-07 20:33:49 Favorites: 78.7% at 45/sec for HightownHA
+2017-11-07 20:33:59 Favorites: 53.8% at 46/sec for HousingEurope
+2017-11-07 20:34:02 Favorites: 88.4% at 44/sec for HumanCityInst
+2017-11-07 20:34:44 Favorites: 47.7% at 41/sec for moathomes
+2017-11-07 20:34:47 Tweets   : 41.4% at 48/sec for PaulHRoberts
+2017-11-07 20:34:58 Tweets   : 100% at 25/sec for RaifeHHA
+2017-11-07 20:35:24 Favorites: 52.2% at 42/sec for nicks1212
+2017-11-07 20:35:27 Favorites: 97.8% at 31/sec for OfficialCCHA
+2017-11-07 20:35:38 Favorites: 56.8% at 44/sec for PaulHRoberts
+2017-11-07 20:35:50 Favorites: 52.7% at 33/sec for RaifeHHA
+2017-11-07 20:36:04 Tweets   : 98.6% at 49/sec for SallyHilton
+2017-11-07 20:36:15 Favorites: 51.1% at 44/sec for SallyHilton
+2017-11-07 20:36:22 Favorites: 62.5% at 41/sec for SanctuaryPR
+2017-11-07 20:36:27 Favorites: 79.2% at 39/sec for sarahjanegay
+2017-11-07 20:36:32 Favorites: Waiting for 12.1 minutes due to : Used up allowance in a loop
+2017-11-07 20:36:57 Tweets   : 100% at 52/sec for SanctuaryPR
+2017-11-07 20:37:09 Tweets   : 99.7% at 26/sec for sarahjanegay
+2017-11-07 20:37:52 Tweets   : 100% at 48/sec for SBHGLondon
+2017-11-07 20:38:56 Tweets   : 71.5% at 50/sec for SHPcharity
+2017-11-07 20:39:07 Friends  : 98.2% at 2/sec for sarahjanegay
+2017-11-07 20:39:19 Friends  : 98.5% at 41/sec for SBHGLondon
+2017-11-07 20:39:58 Friends  : 96.7% at 37/sec for SHPcharity
+2017-11-07 20:40:03 Tweets   : 56.3% at 47/sec for walsallwhg
+2017-11-07 20:40:16 Friends  : 99.1% at 37/sec for walsallwhg
+2017-11-07 20:41:21 Tweets   : 24.9% at 41/sec for YCHscarboro
+2017-11-07 20:42:17 Friends  : 99.4% at 38/sec for YCHscarboro
+2017-11-07 20:42:19 Tweets   : 65.7% at 55/sec for LandlordAction
+2017-11-07 20:42:26 Tweets   : 100% at 7/sec for richardblanco_
+2017-11-07 20:42:42 Friends  : 99.8% at 48/sec for LandlordAction
+2017-11-07 20:42:44 Friends  : 100% at 16/sec for richardblanco_
+2017-11-07 20:43:04 Tweets   : 100% at 49/sec for Urban_co_uk
+2017-11-07 20:43:17 Tweets   : 99.8% at 34/sec for AsheLtd
+2017-11-07 20:43:25 Friends  : 99.9% at 47/sec for Urban_co_uk
+2017-11-07 20:43:30 Tweets   : 99.4% at 26/sec for CCL_Canterbury
+2017-11-07 20:43:32 Friends  : 99.6% at 42/sec for AsheLtd
+2017-11-07 20:43:41 Friends  : 98.7% at 42/sec for CCL_Canterbury
+2017-11-07 20:44:31 Tweets   : 91.7% at 52/sec for CelebrityAngels
+2017-11-07 20:44:47 Friends  : 94.2% at 45/sec for CelebrityAngels
+2017-11-07 20:45:36 Tweets   : 30.1% at 50/sec for constructline
+2017-11-07 20:45:48 Tweets   : 99.3% at 24/sec for derrybuilders
+2017-11-07 20:46:44 Tweets   : 99.8% at 41/sec for dwoodhouse123
+2017-11-07 20:47:10 Friends  : 99.8% at 38/sec for constructline
+2017-11-07 20:47:13 Friends  : 100% at 35/sec for derrybuilders
+2017-11-07 20:47:23 Friends  : 98.3% at 44/sec for dwoodhouse123
+2017-11-07 20:47:23 Friends  : Waiting for 6.4 minutes
+2017-11-07 20:47:54 Tweets   : 36% at 46/sec for jeremycorbyn
+2017-11-07 20:48:19 Tweets   : 99.7% at 45/sec for LittleSpark_Ltd
+2017-11-07 20:48:31 Tweets   : 100% at 20/sec for PLPConstruction
+2017-11-07 20:49:06 Favorites: 59.8% at 1/sec for SBHGLondon
+2017-11-07 20:49:10 Tweets   : 100% at 53/sec for AirflowD
+2017-11-07 20:49:13 Favorites: 50.3% at 41/sec for SHPcharity
+2017-11-07 20:49:25 Favorites: 51% at 41/sec for walsallwhg
+2017-11-07 20:49:29 Tweets   : 100% at 36/sec for AlexBaines
+2017-11-07 20:50:04 Tweets   : 99.9% at 46/sec for Archima
+2017-11-07 20:50:38 Favorites: 45.9% at 43/sec for YCHscarboro
+2017-11-07 20:50:41 Favorites: 87.7% at 41/sec for LandlordAction
+2017-11-07 20:50:41 Favorites: 100% at 8/sec for richardblanco_
+2017-11-07 20:50:44 Favorites: 100% at 41/sec for Urban_co_uk
+2017-11-07 20:50:44 Favorites: 95.1% at 49/sec for AsheLtd
+2017-11-07 20:50:47 Favorites: 64.9% at 39/sec for CCL_Canterbury
+2017-11-07 20:50:49 Favorites: 100% at 40/sec for CelebrityAngels
+2017-11-07 20:51:06 Favorites: 54% at 42/sec for constructline
+2017-11-07 20:51:07 Tweets   : 9.1% at 51/sec for architectmark
+2017-11-07 20:51:07 Favorites: 65.4% at 66/sec for derrybuilders
+2017-11-07 20:51:09 Favorites: 100% at 27/sec for dwoodhouse123
+2017-11-07 20:51:11 Favorites: 69.2% at 46/sec for jeremycorbyn
+2017-11-07 20:51:16 Favorites: 87.1% at 39/sec for LittleSpark_Ltd
+2017-11-07 20:51:18 Favorites: 100% at 34/sec for PLPConstruction
+2017-11-07 20:51:20 Favorites: 55.9% at 43/sec for AirflowD
+2017-11-07 20:51:22 Tweets   : 100% at 33/sec for BenhSE1
+2017-11-07 20:51:25 Favorites: 60.5% at 44/sec for AlexBaines
+2017-11-07 20:51:26 Favorites: 98.1% at 54/sec for Archima
+2017-11-07 20:51:42 Favorites: 56.8% at 43/sec for architectmark
+2017-11-07 20:51:46 Favorites: 56.2% at 50/sec for BenhSE1
+2017-11-07 20:51:46 Favorites: Waiting for 12.3 minutes due to : Used up allowance in a loop
+2017-11-07 20:52:27 Tweets   : 6.7% at 50/sec for BRegsBlog
+2017-11-07 20:52:37 Tweets   : 100% at 18/sec for ConkerCC
+2017-11-07 20:52:47 Tweets   : 100% at 17/sec for edeninsulation
+2017-11-07 20:53:33 Tweets   : 99.8% at 46/sec for EstatesLeiceste
+2017-11-07 20:53:39 Tweets   : 100% at 9/sec for ingrid_WARM
+2017-11-07 20:53:51 Tweets   : 100% at 23/sec for JimMillerDesign
+2017-11-07 20:54:17 Tweets   : 99.9% at 38/sec for lmurphy7887
+2017-11-07 20:54:32 Tweets   : 100% at 27/sec for MaccLav
+2017-11-07 20:54:42 Tweets   : 100% at 14/sec for PassiveStephen
+2017-11-07 20:54:54 Friends  : 99.6% at 6/sec for jeremycorbyn
+2017-11-07 20:55:30 Tweets   : 99.8% at 42/sec for pottonselfbuild
+2017-11-07 20:55:41 Friends  : 99.5% at 44/sec for LittleSpark_Ltd
+2017-11-07 20:55:49 Friends  : 99.4% at 41/sec for PLPConstruction
+2017-11-07 20:55:54 Tweets   : 100% at 44/sec for RegenMedia
+2017-11-07 20:56:14 Friends  : 100% at 44/sec for AirflowD
+2017-11-07 20:56:22 Friends  : 99.7% at 42/sec for AlexBaines
+2017-11-07 20:56:37 Friends  : 99.8% at 40/sec for Archima
+2017-11-07 20:58:06 Friends  : 98.9% at 42/sec for architectmark
+2017-11-07 20:58:14 Friends  : 99% at 38/sec for BenhSE1
+2017-11-07 20:58:41 Friends  : 98.5% at 42/sec for BRegsBlog
+2017-11-07 20:58:43 Friends  : 100% at 18/sec for ConkerCC
+2017-11-07 20:58:51 Friends  : 96.5% at 37/sec for edeninsulation
+2017-11-07 20:58:56 Friends  : 98.4% at 29/sec for EstatesLeiceste
+2017-11-07 20:58:57 Friends  : 100% at 9/sec for ingrid_WARM
+2017-11-07 20:58:59 Friends  : 100% at 20/sec for JimMillerDesign
+2017-11-07 20:59:17 Friends  : 98.7% at 38/sec for lmurphy7887
+2017-11-07 20:59:17 Friends  : Waiting for 9.8 minutes
+2017-11-07 21:05:39 Favorites: 20.2% at 4/sec for BRegsBlog
+2017-11-07 21:05:40 Favorites: 100% at 18/sec for ConkerCC
+2017-11-07 21:05:41 Favorites: 100% at 46/sec for edeninsulation
+2017-11-07 21:05:46 Favorites: 67.3% at 40/sec for EstatesLeiceste
+2017-11-07 21:05:46 Favorites: 100% at 12/sec for ingrid_WARM
+2017-11-07 21:05:46 Favorites: User JimMillerDesign has a protected account or no Favoritess to collect so skipping
+2017-11-07 21:06:35 Favorites: 49.4% at 41/sec for lmurphy7887
+2017-11-07 21:06:41 Favorites: 72.4% at 44/sec for MaccLav
+2017-11-07 21:06:44 Favorites: 99% at 44/sec for PassiveStephen
+2017-11-07 21:06:50 Favorites: 54.9% at 49/sec for pottonselfbuild
+2017-11-07 21:06:52 Favorites: 87.6% at 42/sec for RegenMedia
+2017-11-07 21:09:30 Friends  : 99.1% at 1/sec for MaccLav
+2017-11-07 21:09:37 Friends  : 97.3% at 37/sec for PassiveStephen
+2017-11-07 21:09:49 Friends  : 99.8% at 37/sec for pottonselfbuild
+2017-11-07 21:09:52 Friends  : 100% at 29/sec for RegenMedia
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+Warning message:
+package 'twitteR' was built under R version 3.4.1 

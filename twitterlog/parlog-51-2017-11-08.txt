@@ -1,0 +1,169 @@
+starting worker pid=8856 on localhost:11045 at 06:34:40.228
+starting worker pid=16260 on localhost:11045 at 06:34:40.376
+starting worker pid=11780 on localhost:11045 at 06:34:40.555
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-08 06:36:04 Friends  : 99.3% at 29/sec for NHBC
+2017-11-08 06:36:13 Friends  : 96.6% at 39/sec for ROCLimited
+2017-11-08 06:37:11 Favorites: 67.2% at 25/sec for NHBC
+2017-11-08 06:37:13 Favorites: 83.1% at 66/sec for ROCLimited
+2017-11-08 06:37:17 Friends  : 99.7% at 40/sec for Savills
+2017-11-08 06:37:20 Friends  : 100% at 14/sec for TrustlandGroup
+2017-11-08 06:37:48 Friends  : 99% at 37/sec for AndrewMichler
+2017-11-08 06:38:04 Friends  : 98.9% at 35/sec for benedictbinns
+2017-11-08 06:38:11 Friends  : 98.9% at 37/sec for ClareEParry
+2017-11-08 06:38:14 Friends  : 100% at 32/sec for createrra
+2017-11-08 06:38:15 Friends  : 100% at 19/sec for EcoarcYeats
+2017-11-08 06:38:17 Favorites: 50.9% at 39/sec for Savills
+2017-11-08 06:38:17 Favorites: 105% at 39/sec for TrustlandGroup
+2017-11-08 06:38:18 Favorites: 100% at 5/sec for AndrewMichler
+2017-11-08 06:38:20 Favorites: 100% at 24/sec for benedictbinns
+2017-11-08 06:38:27 Favorites: 56.6% at 44/sec for ClareEParry
+2017-11-08 06:38:31 Favorites: 92.6% at 46/sec for createrra
+2017-11-08 06:38:31 Favorites: User EcoarcYeats has a protected account or no Favoritess to collect so skipping
+2017-11-08 06:38:37 Favorites: 88.8% at 34/sec for EmuBldgScience
+2017-11-08 06:38:37 Favorites: User etc_architects has a protected account or no Favoritess to collect so skipping
+2017-11-08 06:38:57 Friends  : 99.1% at 36/sec for EmuBldgScience
+2017-11-08 06:39:00 Favorites: 55.1% at 39/sec for GSA_Architects
+2017-11-08 06:39:03 Favorites: 90.9% at 33/sec for HalsallConstruc
+2017-11-08 06:39:06 Favorites: Waiting for 7.1 minutes due to : Used up allowance in a loop
+2017-11-08 06:39:07 Friends  : 100% at 33/sec for etc_architects
+2017-11-08 06:39:26 Friends  : 98.2% at 38/sec for GSA_Architects
+2017-11-08 06:39:28 Tweets   : 62.5% at 43/sec for NHBC
+2017-11-08 06:39:36 Friends  : 99.1% at 30/sec for HalsallConstruc
+2017-11-08 06:39:42 Tweets   : 100% at 32/sec for ROCLimited
+2017-11-08 06:39:49 Friends  : 99.6% at 40/sec for KelloggOx
+2017-11-08 06:39:58 Friends  : 96.3% at 42/sec for LABdesignHaus
+2017-11-08 06:40:35 Friends  : 99.7% at 41/sec for LABMmag
+2017-11-08 06:40:49 Friends  : 100% at 39/sec for MariaSfyraki
+2017-11-08 06:40:56 Tweets   : 31.3% at 43/sec for Savills
+2017-11-08 06:41:01 Tweets   : 100% at 5/sec for TrustlandGroup
+2017-11-08 06:41:09 Friends  : 97.9% at 39/sec for markmakeslinks
+2017-11-08 06:42:19 Tweets   : 19.9% at 41/sec for AndrewMichler
+2017-11-08 06:42:20 Friends  : 98.8% at 39/sec for MontePaulsen
+2017-11-08 06:42:50 Friends  : 99.1% at 41/sec for NorwichCC
+2017-11-08 06:43:21 Tweets   : 100% at 45/sec for benedictbinns
+2017-11-08 06:43:37 Tweets   : 99.8% at 29/sec for ClareEParry
+2017-11-08 06:43:56 Tweets   : 100% at 31/sec for createrra
+2017-11-08 06:44:02 Tweets   : 100% at 3/sec for EcoarcYeats
+2017-11-08 06:44:13 Tweets   : 99.6% at 23/sec for EmuBldgScience
+2017-11-08 06:44:37 Tweets   : 99.9% at 32/sec for etc_architects
+2017-11-08 06:45:00 Tweets   : 100% at 30/sec for GSA_Architects
+2017-11-08 06:45:04 Friends  : 99.7% at 35/sec for NYPassiveHouse
+2017-11-08 06:45:17 Friends  : 98.1% at 31/sec for Passiframe
+2017-11-08 06:45:17 Tweets   : 99.8% at 29/sec for HalsallConstruc
+2017-11-08 06:46:08 Friends  : 99.5% at 35/sec for PassiveHouseCan
+2017-11-08 06:46:12 Friends  : 95.9% at 36/sec for PHI_NZ
+2017-11-08 06:46:15 Friends  : 100% at 22/sec for radleygirlt
+2017-11-08 06:46:16 Friends  : Waiting for 7.8 minutes
+2017-11-08 06:46:24 Favorites: 59.7% at 1/sec for KelloggOx
+2017-11-08 06:46:29 Favorites: 63.4% at 44/sec for LABdesignHaus
+2017-11-08 06:46:34 Favorites: 55.5% at 36/sec for LABMmag
+2017-11-08 06:46:39 Tweets   : 79.8% at 39/sec for KelloggOx
+2017-11-08 06:46:50 Favorites: 57.8% at 43/sec for MariaSfyraki
+2017-11-08 06:46:57 Tweets   : 100% at 25/sec for LABdesignHaus
+2017-11-08 06:47:31 Favorites: 51.1% at 41/sec for markmakeslinks
+2017-11-08 06:47:38 Tweets   : 99.7% at 35/sec for LABMmag
+2017-11-08 06:48:38 Tweets   : 99.9% at 39/sec for MariaSfyraki
+2017-11-08 06:48:49 Favorites: 8.1% at 41/sec for MontePaulsen
+2017-11-08 06:49:16 Favorites: Waiting for 12 minutes due to : Used up allowance in a loop
+2017-11-08 06:49:51 Tweets   : 95.4% at 44/sec for markmakeslinks
+2017-11-08 06:51:11 Tweets   : 10.7% at 40/sec for MontePaulsen
+2017-11-08 06:52:32 Tweets   : 21.9% at 39/sec for NorwichCC
+2017-11-08 06:53:45 Tweets   : 80.1% at 44/sec for NYPassiveHouse
+2017-11-08 06:53:52 Tweets   : 100% at 3/sec for Passiframe
+2017-11-08 06:54:14 Friends  : 99.1% at 0/sec for RosemaryBeattie
+2017-11-08 06:54:33 Friends  : 99.1% at 39/sec for TateHarmer
+2017-11-08 06:55:05 Tweets   : 65.4% at 44/sec for PassiveHouseCan
+2017-11-08 06:55:07 Friends  : 96.7% at 38/sec for urbanfrontdoors
+2017-11-08 06:55:23 Friends  : 99.2% at 38/sec for WarrenJukes
+2017-11-08 06:55:25 Tweets   : 100% at 31/sec for PHI_NZ
+2017-11-08 06:55:26 Friends  : 100% at 20/sec for WilliamPowell_
+2017-11-08 06:55:33 Tweets   : 100% at 18/sec for radleygirlt
+2017-11-08 06:55:35 Friends  : 98.1% at 39/sec for zh_architects
+2017-11-08 06:55:46 Tweets   : 99.4% at 27/sec for RosemaryBeattie
+2017-11-08 06:56:02 Tweets   : 99.8% at 28/sec for TateHarmer
+2017-11-08 06:56:50 Tweets   : 99.9% at 42/sec for urbanfrontdoors
+2017-11-08 06:58:15 Tweets   : 87.1% at 37/sec for WarrenJukes
+2017-11-08 06:58:23 Tweets   : 99.1% at 14/sec for WilliamPowell_
+2017-11-08 06:58:39 Tweets   : 100% at 25/sec for zh_architects
+2017-11-08 07:00:11 Tweets   : 29.1% at 35/sec for _designjunction
+2017-11-08 07:00:29 Friends  : 95.9% at 39/sec for _designjunction
+2017-11-08 07:00:51 Friends  : 99% at 42/sec for AHRglobal
+2017-11-08 07:01:11 Tweets   : 100% at 42/sec for AHRglobal
+2017-11-08 07:01:36 Favorites: 49.9% at 2/sec for NorwichCC
+2017-11-08 07:01:49 Favorites: 57.1% at 37/sec for NYPassiveHouse
+2017-11-08 07:01:50 Favorites: 100% at 47/sec for Passiframe
+2017-11-08 07:02:19 Favorites: 51% at 39/sec for PassiveHouseCan
+2017-11-08 07:02:19 Favorites: 100% at 27/sec for PHI_NZ
+2017-11-08 07:02:20 Favorites: 97.8% at 50/sec for radleygirlt
+2017-11-08 07:02:21 Favorites: 100% at 27/sec for RosemaryBeattie
+2017-11-08 07:02:28 Tweets   : 19.2% at 41/sec for AIANational
+2017-11-08 07:02:37 Favorites: 54.7% at 36/sec for TateHarmer
+2017-11-08 07:02:42 Favorites: 89.2% at 42/sec for urbanfrontdoors
+2017-11-08 07:02:55 Friends  : 100% at 36/sec for AIANational
+2017-11-08 07:03:24 Friends  : 99.3% at 35/sec for ArchFoundation
+2017-11-08 07:03:30 Favorites: 50.3% at 38/sec for WarrenJukes
+2017-11-08 07:03:32 Favorites: 96.9% at 71/sec for WilliamPowell_
+2017-11-08 07:03:38 Favorites: 85.8% at 34/sec for zh_architects
+2017-11-08 07:03:51 Tweets   : 77.7% at 38/sec for ArchFoundation
+2017-11-08 07:03:58 Friends  : 99.1% at 33/sec for aruffler
+2017-11-08 07:04:01 Friends  : 100% at 24/sec for bridgefoot
+2017-11-08 07:04:20 Favorites: 51.2% at 40/sec for _designjunction
+2017-11-08 07:04:33 Favorites: Waiting for 11.9 minutes due to : Used up allowance in a loop
+2017-11-08 07:04:38 Friends  : 99% at 34/sec for DomusWeb
+2017-11-08 07:04:38 Friends  : Waiting for 4.6 minutes
+2017-11-08 07:05:18 Tweets   : 69.6% at 37/sec for aruffler
+2017-11-08 07:05:47 Tweets   : 99.6% at 29/sec for bridgefoot
+2017-11-08 07:06:55 Tweets   : 11.9% at 47/sec for DomusWeb
+2017-11-08 07:07:32 Tweets   : 99.8% at 42/sec for drinkwaterpaul
+2017-11-08 07:08:41 Tweets   : 99.7% at 42/sec for ejngee
+2017-11-08 07:08:58 Tweets   : 100% at 30/sec for emjbooth
+2017-11-08 07:09:26 Friends  : 98.6% at 1/sec for drinkwaterpaul
+2017-11-08 07:09:55 Friends  : 97.8% at 35/sec for ejngee
+2017-11-08 07:10:22 Friends  : 99.3% at 32/sec for emjbooth
+2017-11-08 07:10:26 Tweets   : 61% at 36/sec for Farrells
+2017-11-08 07:10:53 Friends  : 99.7% at 40/sec for Farrells
+2017-11-08 07:11:13 Tweets   : 99.7% at 33/sec for FosterPartners
+2017-11-08 07:12:23 Tweets   : 9.9% at 46/sec for Furmadamadam
+2017-11-08 07:12:43 Tweets   : 99.8% at 32/sec for Hoskins_Arch
+2017-11-08 07:13:03 Friends  : 99.9% at 45/sec for FosterPartners
+2017-11-08 07:13:19 Tweets   : 99.7% at 39/sec for HPA_Lancaster
+2017-11-08 07:13:21 Friends  : 99.1% at 43/sec for Furmadamadam
+2017-11-08 07:13:25 Friends  : 100% at 31/sec for Hoskins_Arch
+2017-11-08 07:14:04 Friends  : 99.5% at 43/sec for HPA_Lancaster
+2017-11-08 07:14:13 Tweets   : 99.7% at 40/sec for hsahello
+2017-11-08 07:14:38 Tweets   : 99.4% at 35/sec for ideafoundation1
+2017-11-08 07:14:45 Friends  : 98.3% at 43/sec for hsahello
+2017-11-08 07:14:55 Friends  : 99.7% at 41/sec for ideafoundation1
+2017-11-08 07:15:14 Friends  : 98% at 39/sec for isabel4climate
+2017-11-08 07:16:06 Tweets   : 99.7% at 36/sec for isabel4climate
+2017-11-08 07:16:22 Friends  : 99.3% at 40/sec for mark_itecture
+2017-11-08 07:16:44 Favorites: 53.8% at 1/sec for AHRglobal
+2017-11-08 07:17:25 Favorites: 52.2% at 38/sec for AIANational
+2017-11-08 07:17:29 Tweets   : 41% at 38/sec for mark_itecture
+2017-11-08 07:17:38 Favorites: 56.6% at 45/sec for ArchFoundation
+2017-11-08 07:17:50 Favorites: 57.5% at 41/sec for aruffler
+2017-11-08 07:17:51 Favorites: 54.3% at 74/sec for bridgefoot
+2017-11-08 07:18:20 Favorites: 53.1% at 42/sec for DomusWeb
+2017-11-08 07:18:22 Favorites: 100% at 17/sec for drinkwaterpaul
+2017-11-08 07:19:38 Favorites: Waiting for 12 minutes due to : Used up allowance in a loop
+2017-11-08 07:31:42 Favorites: 33.5% at 4/sec for ejngee
+2017-11-08 07:31:45 Favorites: 78.1% at 39/sec for emjbooth
+2017-11-08 07:32:13 Favorites: 52.5% at 46/sec for Farrells
+2017-11-08 07:32:22 Favorites: 50.3% at 44/sec for FosterPartners
+2017-11-08 07:33:35 Favorites: 30.2% at 44/sec for Furmadamadam
+2017-11-08 07:33:41 Favorites: 50.9% at 45/sec for Hoskins_Arch
+2017-11-08 07:33:48 Favorites: 51.7% at 44/sec for HPA_Lancaster
+2017-11-08 07:34:00 Favorites: 61.4% at 42/sec for hsahello
+2017-11-08 07:34:04 Favorites: 94.3% at 51/sec for ideafoundation1
+2017-11-08 07:34:27 Favorites: Waiting for 12.2 minutes due to : Used up allowance in a loop
+2017-11-08 07:46:52 Favorites: 52.9% at 2/sec for isabel4climate
+2017-11-08 07:46:54 Favorites: 100% at 2/sec for mark_itecture
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+Warning message:
+package 'twitteR' was built under R version 3.4.1 

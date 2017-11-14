@@ -1,0 +1,171 @@
+starting worker pid=10004 on localhost:11045 at 12:32:05.668
+starting worker pid=20412 on localhost:11045 at 12:32:05.824
+starting worker pid=10348 on localhost:11045 at 12:32:05.996
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-09 12:32:52 Favorites: 72.1% at 38/sec for jasonmohammad
+2017-11-09 12:32:54 Favorites: 100% at 20/sec for LiverpoolCE
+2017-11-09 12:33:21 Favorites: 52.9% at 41/sec for mike_reader
+2017-11-09 12:33:25 Favorites: 60.9% at 42/sec for norfolkce
+2017-11-09 12:33:42 Friends  : 99.1% at 45/sec for jasonmohammad
+2017-11-09 12:33:50 Friends  : 96.4% at 30/sec for LiverpoolCE
+2017-11-09 12:34:07 Favorites: Waiting for 10.6 minutes due to : Used up allowance in a loop
+2017-11-09 12:34:10 Friends  : 97.5% at 49/sec for mike_reader
+2017-11-09 12:34:17 Tweets   : 7.9% at 50/sec for jasonmohammad
+2017-11-09 12:34:18 Friends  : 95.9% at 46/sec for norfolkce
+2017-11-09 12:34:25 Tweets   : 100% at 15/sec for LiverpoolCE
+2017-11-09 12:35:21 Friends  : 99.2% at 48/sec for UoBCivilEng
+2017-11-09 12:35:24 Tweets   : 69.7% at 54/sec for mike_reader
+2017-11-09 12:35:31 Friends  : 97.7% at 42/sec for AJB_Roofing
+Error in twInterfaceObj$doAPICall(paste("users", "show", sep = "/"), params = params,  : 
+  Not Found (HTTP 404).
+In addition: Warning message:
+package 'twitteR' was built under R version 3.4.1 
+2017-11-09 12:35:32 Friends: Unable to find account ANNAROOFING1 moving to next
+2017-11-09 12:35:32 Friends  : % at /sec for ANNAROOFING1
+2017-11-09 12:35:37 Tweets   : 99.2% at 30/sec for norfolkce
+2017-11-09 12:35:45 Friends  : 90.4% at 45/sec for CooperScaffold1
+2017-11-09 12:35:49 Friends  : 99.3% at 38/sec for FutureRoof_UK
+2017-11-09 12:35:52 Friends  : 99.2% at 32/sec for HerkomerRoofing
+2017-11-09 12:36:03 Friends  : 96.7% at 41/sec for M_j_roofing
+2017-11-09 12:36:07 Friends  : 96.2% at 36/sec for mrbroofing
+2017-11-09 12:36:21 Friends  : 93.1% at 44/sec for NTrustedCleaner
+2017-11-09 12:36:45 Friends  : 99.3% at 42/sec for RoofAssured
+2017-11-09 12:36:47 Tweets   : 40.5% at 45/sec for UoBCivilEng
+2017-11-09 12:37:05 Friends  : 96.8% at 47/sec for Russell_Roofing
+2017-11-09 12:37:17 Tweets   : 99.9% at 39/sec for AJB_Roofing
+2017-11-09 12:37:18 Friends  : 91.1% at 47/sec for ServicesRoofing
+2017-11-09 12:37:18 Friends  : Waiting for 10.2 minutes
+2017-11-09 12:37:28 Tweets   : 100% at 32/sec for ANNAROOFING1
+2017-11-09 12:37:36 Tweets   : 100% at 10/sec for CooperScaffold1
+2017-11-09 12:37:48 Tweets   : 100% at 33/sec for FutureRoof_UK
+2017-11-09 12:37:57 Tweets   : 99.2% at 16/sec for HerkomerRoofing
+2017-11-09 12:38:06 Tweets   : 100% at 22/sec for M_j_roofing
+2017-11-09 12:38:17 Tweets   : 100% at 29/sec for mrbroofing
+2017-11-09 12:38:37 Tweets   : 100% at 36/sec for NTrustedCleaner
+2017-11-09 12:39:00 Tweets   : 99.9% at 41/sec for RoofAssured
+2017-11-09 12:39:09 Tweets   : 100% at 19/sec for Russell_Roofing
+2017-11-09 12:39:49 Tweets   : 100% at 53/sec for ServicesRoofing
+2017-11-09 12:40:49 Tweets   : 68.1% at 53/sec for brickonomics
+2017-11-09 12:41:45 Tweets   : 99.4% at 51/sec for C_A_B1
+2017-11-09 12:42:24 Tweets   : 99.9% at 47/sec for CECANational
+2017-11-09 12:42:56 Tweets   : 99.8% at 43/sec for ceramfed
+2017-11-09 12:43:20 Tweets   : 100% at 40/sec for chloemcculloch1
+2017-11-09 12:43:39 Tweets   : 100% at 40/sec for CompA_Ashworth
+2017-11-09 12:44:38 Tweets   : 62.2% at 54/sec for HWYSUK
+2017-11-09 12:44:44 Tweets   : 100% at 2/sec for JaneThornback1
+2017-11-09 12:45:08 Favorites: 49.4% at 3/sec for UoBCivilEng
+2017-11-09 12:45:10 Favorites: 98.9% at 54/sec for AJB_Roofing
+2017-11-09 12:45:17 Favorites: 52.3% at 41/sec for ANNAROOFING1
+2017-11-09 12:45:19 Favorites: 90.9% at 49/sec for CooperScaffold1
+2017-11-09 12:45:20 Favorites: 100% at 35/sec for FutureRoof_UK
+2017-11-09 12:45:22 Favorites: 95.8% at 47/sec for HerkomerRoofing
+2017-11-09 12:45:23 Favorites: 92% at 25/sec for M_j_roofing
+2017-11-09 12:45:24 Favorites: 100% at 47/sec for mrbroofing
+2017-11-09 12:45:31 Favorites: 57.2% at 44/sec for NTrustedCleaner
+2017-11-09 12:45:33 Favorites: 66.2% at 38/sec for RoofAssured
+2017-11-09 12:45:34 Favorites: 100% at 19/sec for Russell_Roofing
+2017-11-09 12:45:36 Favorites: 57.6% at 44/sec for ServicesRoofing
+2017-11-09 12:45:40 Favorites: 61.1% at 44/sec for brickonomics
+2017-11-09 12:45:44 Tweets   : 73.2% at 53/sec for kbbreview
+2017-11-09 12:45:51 Tweets   : 100% at 0/sec for KeyliteTweets
+2017-11-09 12:46:04 Favorites: 52.4% at 47/sec for C_A_B1
+2017-11-09 12:46:14 Favorites: 61.4% at 48/sec for CECANational
+2017-11-09 12:46:18 Favorites: 70% at 44/sec for ceramfed
+2017-11-09 12:46:20 Favorites: 100% at 30/sec for chloemcculloch1
+2017-11-09 12:46:21 Favorites: 100% at 18/sec for CompA_Ashworth
+2017-11-09 12:46:32 Favorites: 59.9% at 43/sec for HWYSUK
+2017-11-09 12:46:33 Favorites: 100% at 9/sec for JaneThornback1
+2017-11-09 12:46:38 Favorites: 49.6% at 39/sec for kbbreview
+2017-11-09 12:46:38 Favorites: User KeyliteTweets has a protected account or no Favoritess to collect so skipping
+2017-11-09 12:46:42 Favorites: 60.1% at 44/sec for MarleyEternit
+2017-11-09 12:46:54 Favorites: 53.2% at 41/sec for TataSteelConstr
+2017-11-09 12:46:56 Tweets   : 72.6% at 49/sec for MarleyEternit
+2017-11-09 12:47:01 Favorites: 53.5% at 46/sec for TRADA_
+2017-11-09 12:47:31 Tweets   : 99.9% at 47/sec for TataSteelConstr
+2017-11-09 12:47:38 Favorites: 51.3% at 42/sec for _collectively
+2017-11-09 12:47:39 Tweets   : 8.5% at 51/sec for TRADA_
+2017-11-09 12:47:39 Tweets   : Waiting for 0.6 minutes
+2017-11-09 12:47:43 Favorites: Waiting for 12.3 minutes due to : Used up allowance in a loop
+2017-11-09 12:47:59 Friends  : 100% at 1/sec for brickonomics
+2017-11-09 12:48:41 Friends  : 99.7% at 49/sec for C_A_B1
+2017-11-09 12:49:08 Friends  : 96.9% at 43/sec for CECANational
+2017-11-09 12:49:25 Tweets   : 32% at 30/sec for _collectively
+2017-11-09 12:49:29 Friends  : 99.4% at 45/sec for ceramfed
+2017-11-09 12:49:36 Friends  : 99.3% at 42/sec for chloemcculloch1
+2017-11-09 12:49:39 Friends  : 97.9% at 38/sec for CompA_Ashworth
+2017-11-09 12:50:29 Tweets   : 63.8% at 50/sec for 2020ClimateGrp
+2017-11-09 12:50:31 Friends  : 98.7% at 42/sec for HWYSUK
+2017-11-09 12:50:33 Friends  : 100% at 30/sec for JaneThornback1
+2017-11-09 12:50:50 Friends  : 99.5% at 50/sec for kbbreview
+2017-11-09 12:50:50 Friends  : User KeyliteTweets has a protected account or no Friendss to collect so skipping
+2017-11-09 12:51:11 Friends  : 99.3% at 47/sec for MarleyEternit
+2017-11-09 12:51:28 Friends  : 98.5% at 44/sec for TataSteelConstr
+2017-11-09 12:51:34 Tweets   : 35.2% at 49/sec for Foodanddrinkfed
+2017-11-09 12:52:42 Tweets   : 41% at 47/sec for ForestryCommEng
+2017-11-09 12:53:16 Friends  : 99.8% at 44/sec for TRADA_
+2017-11-09 12:53:49 Tweets   : 89% at 48/sec for GoUltraLow
+2017-11-09 12:53:51 Friends  : 99.5% at 51/sec for _collectively
+2017-11-09 12:54:16 Friends  : 99.1% at 51/sec for 2020ClimateGrp
+2017-11-09 12:54:56 Tweets   : 23.6% at 47/sec for Interface_UK
+2017-11-09 12:55:14 Friends  : 99.3% at 46/sec for Foodanddrinkfed
+2017-11-09 12:55:14 Friends  : Waiting for 7.7 minutes
+2017-11-09 12:55:32 Tweets   : 99.9% at 46/sec for kingfisherplc
+2017-11-09 12:56:19 Tweets   : 100% at 46/sec for MarkKenber
+2017-11-09 12:57:21 Tweets   : 39.6% at 51/sec for UKERCHQ
+2017-11-09 12:57:37 Tweets   : 99.5% at 39/sec for aboutglazing
+2017-11-09 12:58:37 Tweets   : 88% at 53/sec for bobbyb68867864
+2017-11-09 12:58:45 Tweets   : 100.6% at 18/sec for ChaseWindows
+2017-11-09 12:59:40 Tweets   : 100% at 51/sec for DGC_Ltd
+2017-11-09 12:59:54 Tweets   : 100% at 36/sec for DGGlassDesigns
+2017-11-09 13:00:37 Tweets   : 99.7% at 54/sec for kthoyle
+2017-11-09 13:00:39 Favorites: 54.3% at 1/sec for 2020ClimateGrp
+2017-11-09 13:01:02 Favorites: 50.4% at 44/sec for Foodanddrinkfed
+2017-11-09 13:01:36 Favorites: 50.4% at 43/sec for ForestryCommEng
+2017-11-09 13:01:47 Tweets   : 97.3% at 46/sec for PadihamGlassLtd
+2017-11-09 13:01:50 Favorites: 54.2% at 43/sec for GoUltraLow
+2017-11-09 13:01:54 Tweets   : 100% at 8/sec for Paul_DGCOS
+2017-11-09 13:02:48 Favorites: 50.8% at 43/sec for Interface_UK
+2017-11-09 13:02:50 Favorites: 90.1% at 46/sec for kingfisherplc
+2017-11-09 13:02:52 Favorites: 82% at 45/sec for MarkKenber
+2017-11-09 13:02:57 Tweets   : 64.6% at 51/sec for PROFILE_22
+2017-11-09 13:02:57 Favorites: 90.5% at 43/sec for UKERCHQ
+2017-11-09 13:03:01 Favorites: 69.3% at 43/sec for aboutglazing
+2017-11-09 13:03:02 Favorites: 100% at 19/sec for bobbyb68867864
+2017-11-09 13:03:04 Favorites: 98.6% at 36/sec for ChaseWindows
+2017-11-09 13:03:04 Favorites: 100% at 19/sec for DGC_Ltd
+2017-11-09 13:03:05 Favorites: 100% at 14/sec for DGGlassDesigns
+2017-11-09 13:03:11 Favorites: Waiting for 12.2 minutes due to : Used up allowance in a loop
+2017-11-09 13:03:19 Friends  : 99% at 1/sec for ForestryCommEng
+2017-11-09 13:03:27 Tweets   : 99.8% at 46/sec for stormcladuk
+2017-11-09 13:03:33 Friends  : 98.8% at 42/sec for GoUltraLow
+2017-11-09 13:03:36 Tweets   : 100% at 16/sec for taylorglazeltd
+2017-11-09 13:04:18 Friends  : 100% at 48/sec for Interface_UK
+2017-11-09 13:04:27 Friends  : 100% at 52/sec for kingfisherplc
+2017-11-09 13:04:34 Friends  : 99.5% at 50/sec for MarkKenber
+2017-11-09 13:05:15 Friends  : 99.7% at 54/sec for UKERCHQ
+2017-11-09 13:05:23 Friends  : 95.8% at 48/sec for aboutglazing
+2017-11-09 13:05:52 Friends  : 99.3% at 48/sec for bobbyb68867864
+2017-11-09 13:05:57 Friends  : 94.3% at 45/sec for ChaseWindows
+2017-11-09 13:06:08 Friends  : 99.6% at 48/sec for DGC_Ltd
+2017-11-09 13:06:21 Friends  : 100% at 48/sec for DGGlassDesigns
+2017-11-09 13:06:28 Friends  : 99.3% at 43/sec for kthoyle
+2017-11-09 13:06:56 Friends  : 99% at 48/sec for PadihamGlassLtd
+2017-11-09 13:07:13 Friends  : 99.9% at 45/sec for Paul_DGCOS
+2017-11-09 13:07:52 Friends  : 95% at 48/sec for PROFILE_22
+2017-11-09 13:07:52 Friends  : Waiting for 10.4 minutes
+2017-11-09 13:15:50 Favorites: 49% at 1/sec for kthoyle
+2017-11-09 13:16:04 Favorites: 52.4% at 41/sec for PadihamGlassLtd
+2017-11-09 13:16:05 Favorites: 100% at 18/sec for Paul_DGCOS
+2017-11-09 13:16:35 Favorites: 50.5% at 46/sec for PROFILE_22
+2017-11-09 13:16:36 Favorites: 100% at 42/sec for stormcladuk
+2017-11-09 13:16:37 Favorites: 92.3% at 25/sec for taylorglazeltd
+2017-11-09 13:18:42 Friends  : 98.9% at 1/sec for stormcladuk
+2017-11-09 13:18:51 Friends  : 99.7% at 47/sec for taylorglazeltd
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+Warning messages:
+1: package 'twitteR' was built under R version 3.4.1 
+2: In twInterfaceObj$doAPICall(cmd, params, method, ...) :
+  Rate limit encountered & retry limit reached - returning partial results

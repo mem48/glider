@@ -1,0 +1,163 @@
+starting worker pid=18108 on localhost:11045 at 03:35:04.117
+starting worker pid=2156 on localhost:11045 at 03:35:04.274
+starting worker pid=16092 on localhost:11045 at 03:35:04.433
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-13 03:38:19 Friends  : 97.1% at 27/sec for firemiddleast
+2017-11-13 03:38:27 Friends  : 99.7% at 35/sec for FIREXIntl
+2017-11-13 03:39:27 Friends  : 99% at 36/sec for floodmary
+2017-11-13 03:39:42 Favorites: 55.3% at 19/sec for firemiddleast
+2017-11-13 03:39:52 Friends  : 99.6% at 32/sec for floodre
+2017-11-13 03:40:10 Favorites: 51.5% at 28/sec for FIREXIntl
+2017-11-13 03:40:24 Friends  : 99.9% at 33/sec for FORCE_CW
+2017-11-13 03:40:40 Friends  : 98.9% at 29/sec for ForsterAnnette
+2017-11-13 03:40:50 Favorites: 51.9% at 34/sec for floodmary
+2017-11-13 03:40:57 Favorites: 53.6% at 41/sec for floodre
+2017-11-13 03:40:58 Favorites: 100% at 21/sec for FORCE_CW
+2017-11-13 03:41:15 Favorites: 50.6% at 34/sec for ForsterAnnette
+2017-11-13 03:42:21 Favorites: 45.6% at 35/sec for fotofacade
+2017-11-13 03:42:48 Favorites: 53.7% at 36/sec for FrostyFrazer
+2017-11-13 03:42:50 Favorites: 87.7% at 56/sec for FuturiumAgency
+2017-11-13 03:42:50 Favorites: Waiting for 11.4 minutes due to : Used up allowance in a loop
+2017-11-13 03:42:57 Tweets   : 36.3% at 31/sec for firemiddleast
+2017-11-13 03:43:39 Friends  : 99.2% at 33/sec for fotofacade
+2017-11-13 03:43:40 Friends  : 155% at 26/sec for FrostyFrazer
+2017-11-13 03:43:40 Friends  : Waiting for 0.4 minutes
+2017-11-13 03:44:13 Tweets   : 64.7% at 42/sec for FIREXIntl
+2017-11-13 03:44:15 Friends  : 97.1% at 12/sec for FuturiumAgency
+2017-11-13 03:45:35 Tweets   : 20.4% at 39/sec for floodmary
+2017-11-13 03:46:34 Tweets   : 99.9% at 37/sec for floodre
+2017-11-13 03:46:35 Friends  : 99.2% at 34/sec for gandy
+2017-11-13 03:46:57 Tweets   : 99.9% at 36/sec for FORCE_CW
+2017-11-13 03:47:03 Friends  : 99.2% at 33/sec for GavinSmartCIH
+2017-11-13 03:47:25 Tweets   : 100% at 32/sec for ForsterAnnette
+2017-11-13 03:47:38 Friends  : 99.1% at 31/sec for GraitecLtd
+2017-11-13 03:47:51 Friends  : 9560% at 37/sec for greendipped
+2017-11-13 03:48:45 Tweets   : 4.9% at 40/sec for fotofacade
+2017-11-13 03:49:51 Tweets   : 99.3% at 39/sec for FrostyFrazer
+2017-11-13 03:49:52 Friends  : 96.7% at 31/sec for hashtagherts
+2017-11-13 03:50:01 Tweets   : 100% at 16/sec for FuturiumAgency
+2017-11-13 03:50:07 Friends  : 99.1% at 29/sec for helenczerski
+2017-11-13 03:50:13 Friends  : 100% at 30/sec for HertsMassage
+2017-11-13 03:50:18 Friends  : 95.3% at 30/sec for HistoryWriterHK
+2017-11-13 03:50:32 Friends  : 100% at 24/sec for HiveBRP
+2017-11-13 03:50:54 Friends  : 98.7% at 31/sec for hollycleave
+2017-11-13 03:51:23 Tweets   : 32.7% at 39/sec for gandy
+2017-11-13 03:51:34 Friends  : 100% at 28/sec for HousingSpec
+2017-11-13 03:51:59 Tweets   : 99.7% at 38/sec for GavinSmartCIH
+2017-11-13 03:52:42 Friends  : 99.1% at 31/sec for ICSCEurope
+2017-11-13 03:53:21 Tweets   : 66.4% at 39/sec for GraitecLtd
+2017-11-13 03:53:43 Friends  : 99.8% at 37/sec for IFSEC
+2017-11-13 03:53:49 Friends  : 99% at 29/sec for isothane
+2017-11-13 03:53:50 Friends  : Waiting for 5.3 minutes
+2017-11-13 03:54:41 Tweets   : 32.1% at 40/sec for greendipped
+2017-11-13 03:55:05 Favorites: 50.9% at 2/sec for gandy
+2017-11-13 03:55:07 Favorites: 100% at 63/sec for GavinSmartCIH
+2017-11-13 03:55:17 Favorites: 60.6% at 30/sec for GraitecLtd
+2017-11-13 03:55:18 Favorites: 79.2% at 59/sec for greendipped
+2017-11-13 03:55:19 Favorites: 100% at 6/sec for hashtagherts
+2017-11-13 03:56:13 Tweets   : 45.3% at 35/sec for hashtagherts
+2017-11-13 03:56:47 Favorites: 50.6% at 35/sec for helenczerski
+2017-11-13 03:56:48 Favorites: 100% at 45/sec for HertsMassage
+2017-11-13 03:56:50 Favorites: 83.2% at 69/sec for HistoryWriterHK
+2017-11-13 03:56:50 Favorites: 100% at 31/sec for HiveBRP
+2017-11-13 03:57:21 Favorites: 53.3% at 38/sec for hollycleave
+2017-11-13 03:57:21 Favorites: User HousingSpec has a protected account or no Favoritess to collect so skipping
+2017-11-13 03:57:36 Tweets   : 58.1% at 38/sec for helenczerski
+2017-11-13 03:57:48 Favorites: Waiting for 11.8 minutes due to : Used up allowance in a loop
+2017-11-13 03:57:50 Tweets   : 100% at 20/sec for HertsMassage
+2017-11-13 03:58:01 Tweets   : 100% at 20/sec for HistoryWriterHK
+2017-11-13 03:58:18 Tweets   : 100% at 15/sec for HiveBRP
+2017-11-13 03:59:18 Friends  : 100% at 0/sec for JaneWakiwaka
+2017-11-13 03:59:27 Tweets   : 75.4% at 46/sec for hollycleave
+2017-11-13 03:59:34 Friends  : 99.1% at 34/sec for JimmyArchitect
+2017-11-13 03:59:50 Friends  : 98.7% at 39/sec for johncurtinEA
+2017-11-13 03:59:54 Friends  : 97.8% at 11/sec for JohnHoldenBREG
+2017-11-13 04:00:41 Tweets   : 82.8% at 43/sec for HousingSpec
+2017-11-13 04:00:58 Friends  : 99.2% at 37/sec for johntwitchen
+2017-11-13 04:01:19 Friends  : 98.3% at 33/sec for karlygreene
+2017-11-13 04:01:50 Friends  : 99.6% at 34/sec for KirstieMAllsopp
+2017-11-13 04:02:02 Tweets   : 56.7% at 39/sec for ICSCEurope
+2017-11-13 04:02:13 Friends  : 99.7% at 33/sec for KLHSustain
+2017-11-13 04:02:45 Friends  : 99.1% at 36/sec for L0tt4i
+2017-11-13 04:03:25 Tweets   : 25.3% at 38/sec for IFSEC
+2017-11-13 04:03:32 Friends  : 97.4% at 34/sec for LboroABCE
+2017-11-13 04:03:35 Tweets   : 99.1% at 13/sec for isothane
+2017-11-13 04:03:42 Tweets   : 100% at 12/sec for JaneWakiwaka
+2017-11-13 04:03:50 Friends  : 98.8% at 37/sec for LCW_ERDF
+2017-11-13 04:03:57 Friends  : 99.5% at 33/sec for LeedsUniCPD
+2017-11-13 04:04:16 Tweets   : 99.8% at 34/sec for JimmyArchitect
+2017-11-13 04:04:52 Friends  : 99.8% at 34/sec for LeonardCheshire
+2017-11-13 04:05:05 Friends  : 99.7% at 31/sec for LizGoodwin
+2017-11-13 04:05:13 Friends  : 98.2% at 38/sec for maberarchitects
+2017-11-13 04:05:13 Friends  : Waiting for 9.1 minutes
+2017-11-13 04:05:38 Tweets   : 56% at 39/sec for johncurtinEA
+2017-11-13 04:05:45 Tweets   : 100% at 9/sec for JohnHoldenBREG
+2017-11-13 04:07:11 Tweets   : 30.9% at 37/sec for johntwitchen
+2017-11-13 04:07:25 Tweets   : 100% at 23/sec for karlygreene
+2017-11-13 04:08:51 Tweets   : 8.3% at 37/sec for KirstieMAllsopp
+2017-11-13 04:09:21 Tweets   : 100% at 32/sec for KLHSustain
+2017-11-13 04:09:52 Tweets   : 99.9% at 32/sec for L0tt4i
+2017-11-13 04:10:01 Favorites: 53.8% at 2/sec for ICSCEurope
+2017-11-13 04:10:34 Favorites: 51.2% at 38/sec for IFSEC
+2017-11-13 04:10:35 Favorites: 92.9% at 18/sec for isothane
+2017-11-13 04:10:36 Favorites: 100% at 38/sec for JaneWakiwaka
+2017-11-13 04:10:43 Favorites: 50% at 41/sec for JimmyArchitect
+2017-11-13 04:11:20 Tweets   : 99.3% at 36/sec for LboroABCE
+2017-11-13 04:11:41 Tweets   : 99.9% at 31/sec for LCW_ERDF
+2017-11-13 04:12:09 Tweets   : 100% at 35/sec for LeedsUniCPD
+2017-11-13 04:12:10 Favorites: 49.6% at 37/sec for johncurtinEA
+2017-11-13 04:12:11 Favorites: 100% at 19/sec for JohnHoldenBREG
+2017-11-13 04:12:26 Favorites: 50.5% at 44/sec for johntwitchen
+2017-11-13 04:12:32 Favorites: 52.3% at 35/sec for karlygreene
+2017-11-13 04:12:36 Favorites: 68.3% at 23/sec for KirstieMAllsopp
+2017-11-13 04:12:38 Favorites: 55.2% at 56/sec for KLHSustain
+2017-11-13 04:12:45 Favorites: 26.8% at 33/sec for L0tt4i
+2017-11-13 04:13:03 Favorites: Waiting for 11.9 minutes due to : Used up allowance in a loop
+2017-11-13 04:13:25 Tweets   : 20.9% at 42/sec for LeonardCheshire
+2017-11-13 04:13:58 Tweets   : 100% at 35/sec for LizGoodwin
+2017-11-13 04:15:15 Friends  : 99.9% at 2/sec for MadMaxMel
+2017-11-13 04:15:22 Tweets   : 99.9% at 37/sec for maberarchitects
+2017-11-13 04:16:48 Tweets   : 24.5% at 37/sec for MadMaxMel
+2017-11-13 04:17:05 Friends  : 96.5% at 33/sec for MaintenanceShow
+2017-11-13 04:17:16 Friends  : 99.5% at 32/sec for ManensTifs
+2017-11-13 04:17:48 Friends  : 99.6% at 30/sec for melinconsult
+2017-11-13 04:17:56 Friends  : 99.7% at 36/sec for MethodLLP
+2017-11-13 04:18:26 Tweets   : 18.2% at 33/sec for MaintenanceShow
+2017-11-13 04:18:27 Friends  : 99.4% at 31/sec for MichaelSaxton
+2017-11-13 04:18:41 Tweets   : 100% at 23/sec for ManensTifs
+2017-11-13 04:19:50 Tweets   : 99.9% at 33/sec for melinconsult
+2017-11-13 04:20:11 Friends  : 99% at 29/sec for mortgagesols
+2017-11-13 04:20:14 Tweets   : 100% at 23/sec for MethodLLP
+2017-11-13 04:20:36 Friends  : 100% at 38/sec for mowatandcompany
+2017-11-13 04:21:18 Friends  : 99.9% at 33/sec for naea_uk
+2017-11-13 04:21:44 Tweets   : 75.2% at 36/sec for MichaelSaxton
+2017-11-13 04:21:56 Friends  : 98.9% at 37/sec for NaturalCement
+2017-11-13 04:23:01 Tweets   : 10% at 41/sec for mortgagesols
+2017-11-13 04:23:38 Tweets   : 99.7% at 41/sec for mowatandcompany
+2017-11-13 04:24:52 Tweets   : 15.4% at 43/sec for naea_uk
+2017-11-13 04:25:37 Favorites: 52.2% at 2/sec for LboroABCE
+2017-11-13 04:25:37 Tweets   : 99.8% at 37/sec for NaturalCement
+2017-11-13 04:25:38 Favorites: 84.7% at 64/sec for LCW_ERDF
+2017-11-13 04:25:39 Favorites: 105.6% at 34/sec for LeedsUniCPD
+2017-11-13 04:26:04 Favorites: 50.3% at 40/sec for LeonardCheshire
+2017-11-13 04:26:09 Favorites: 60.4% at 36/sec for LizGoodwin
+2017-11-13 04:26:29 Favorites: 50.1% at 40/sec for maberarchitects
+2017-11-13 04:26:34 Favorites: 68.8% at 35/sec for MadMaxMel
+2017-11-13 04:27:57 Favorites: 34.5% at 39/sec for MaintenanceShow
+2017-11-13 04:28:05 Favorites: 64.8% at 39/sec for ManensTifs
+2017-11-13 04:28:14 Favorites: 70.6% at 30/sec for melinconsult
+2017-11-13 04:28:22 Favorites: 50.5% at 39/sec for MethodLLP
+2017-11-13 04:28:28 Favorites: Waiting for 11.8 minutes due to : Used up allowance in a loop
+2017-11-13 04:40:40 Favorites: 54.9% at 0/sec for MichaelSaxton
+2017-11-13 04:41:22 Favorites: 49.6% at 40/sec for mortgagesols
+2017-11-13 04:41:29 Favorites: 71.2% at 43/sec for mowatandcompany
+2017-11-13 04:41:39 Favorites: 53.9% at 37/sec for naea_uk
+2017-11-13 04:41:45 Favorites: 89.6% at 37/sec for NaturalCement
+Warning message:
+Warning message:
+was built under R version 3.4.1 
+package 'twitteR' was built under R version 3.4.1 
+Warning message:
+package 'twitteR' was built under R version 3.4.1 

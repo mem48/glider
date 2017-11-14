@@ -1,0 +1,173 @@
+starting worker pid=8116 on localhost:11045 at 17:14:02.896
+starting worker pid=16300 on localhost:11045 at 17:14:03.052
+starting worker pid=15872 on localhost:11045 at 17:14:03.211
+[1] "Using direct authentication"[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-12 17:16:39 Friends  : 99.3% at 38/sec for Josie_Cluer
+2017-11-12 17:16:46 Friends  : 97.6% at 37/sec for JPCoaching
+2017-11-12 17:18:03 Favorites: 51.9% at 29/sec for Josie_Cluer
+2017-11-12 17:18:09 Favorites: 78.7% at 33/sec for JPCoaching
+2017-11-12 17:18:50 Friends  : 98.5% at 40/sec for jstands4jay
+2017-11-12 17:19:02 Friends  : 99.4% at 37/sec for judypayne
+2017-11-12 17:19:24 Favorites: 11.4% at 42/sec for jstands4jay
+2017-11-12 17:19:25 Favorites: 72.4% at 68/sec for judypayne
+2017-11-12 17:19:44 Favorites: Waiting for 4.4 minutes due to : Used up allowance in a loop
+2017-11-12 17:19:55 Friends  : 99.4% at 43/sec for Kahootz
+2017-11-12 17:19:57 Friends  : 100% at 43/sec for keithjmiddleton
+Error in twInterfaceObj$doAPICall(paste("users", "show", sep = "/"), params = params,  : 
+  Not Found (HTTP 404).
+In addition: Warning message:
+package 'twitteR' was built under R version 3.4.1 
+2017-11-12 17:19:57 Friends: Unable to find account Kelly_CQ moving to next
+2017-11-12 17:19:57 Friends  : % at /sec for Kelly_CQ
+2017-11-12 17:20:14 Friends  : 99.7% at 39/sec for KirstiBird
+2017-11-12 17:20:21 Friends  : 99.3% at 45/sec for LinkedInGuys
+Error in twInterfaceObj$doAPICall(paste("users", "show", sep = "/"), params = params,  : 
+  Not Found (HTTP 404).
+2017-11-12 17:20:22 Friends: Unable to find account Lisa_PLP moving to next
+2017-11-12 17:20:22 Friends  : % at /sec for Lisa_PLP
+2017-11-12 17:20:50 Tweets   : 76.6% at 44/sec for Josie_Cluer
+2017-11-12 17:20:57 Friends  : 100% at 42/sec for LiveandSocial
+2017-11-12 17:21:06 Tweets   : 100% at 31/sec for JPCoaching
+2017-11-12 17:21:34 Friends  : 100% at 40/sec for LOC_Consulting
+2017-11-12 17:21:37 Friends  : 94.9% at 16/sec for LondonAPM
+2017-11-12 17:21:40 Friends  : 100% at 39/sec for lonrec
+2017-11-12 17:22:11 Tweets   : 13.5% at 49/sec for jstands4jay
+2017-11-12 17:22:18 Friends  : 98.5% at 41/sec for Loubenwell
+2017-11-12 17:22:20 Friends  : 100% at 36/sec for LynneLowe1
+2017-11-12 17:22:35 Friends  : 97.7% at 28/sec for majorprojecthub
+2017-11-12 17:22:35 Friends  : Waiting for 8.3 minutes
+2017-11-12 17:23:13 Tweets   : 13.1% at 52/sec for judypayne
+2017-11-12 17:24:22 Tweets   : 44% at 46/sec for Kahootz
+2017-11-12 17:24:29 Tweets   : 100% at 9/sec for keithjmiddleton
+2017-11-12 17:24:30 Favorites: 50.7% at 4/sec for Kahootz
+2017-11-12 17:24:30 Favorites: 100% at 9/sec for keithjmiddleton
+2017-11-12 17:24:31 Favorites: 100% at 27/sec for Kelly_CQ
+2017-11-12 17:24:34 Favorites: 56.9% at 63/sec for KirstiBird
+2017-11-12 17:24:35 Favorites: 100% at 42/sec for LinkedInGuys
+2017-11-12 17:24:36 Tweets   : 100% at 9/sec for Kelly_CQ
+2017-11-12 17:24:40 Favorites: 57% at 41/sec for Lisa_PLP
+2017-11-12 17:25:12 Tweets   : 99.8% at 43/sec for KirstiBird
+2017-11-12 17:25:44 Tweets   : 100% at 40/sec for LinkedInGuys
+2017-11-12 17:25:51 Favorites: 42.6% at 44/sec for LiveandSocial
+2017-11-12 17:25:52 Favorites: 100% at 8/sec for LOC_Consulting
+2017-11-12 17:25:52 Tweets   : 100% at 20/sec for Lisa_PLP
+2017-11-12 17:25:53 Favorites: 100% at 64/sec for LondonAPM
+2017-11-12 17:25:58 Favorites: 51.4% at 36/sec for lonrec
+2017-11-12 17:26:06 Favorites: 60.3% at 49/sec for Loubenwell
+2017-11-12 17:26:07 Favorites: 100% at 30/sec for LynneLowe1
+2017-11-12 17:26:07 Favorites: 100% at 44/sec for majorprojecthub
+2017-11-12 17:26:51 Favorites: Waiting for 12.4 minutes due to : Used up allowance in a loop
+2017-11-12 17:26:59 Tweets   : 13.5% at 48/sec for LiveandSocial
+2017-11-12 17:27:21 Tweets   : 99.8% at 44/sec for LOC_Consulting
+2017-11-12 17:27:27 Tweets   : 100% at 7/sec for LondonAPM
+2017-11-12 17:28:33 Tweets   : 73.9% at 49/sec for lonrec
+2017-11-12 17:29:36 Tweets   : 66.8% at 50/sec for Loubenwell
+2017-11-12 17:29:43 Tweets   : 100% at 6/sec for LynneLowe1
+2017-11-12 17:29:54 Tweets   : 100% at 26/sec for majorprojecthub
+2017-11-12 17:31:03 Tweets   : 14.1% at 46/sec for MalcolmWilson01
+2017-11-12 17:31:15 Tweets   : 95.7% at 25/sec for mandymgriffin
+2017-11-12 17:31:22 Tweets   : 100% at 6/sec for manicaselan
+2017-11-12 17:32:14 Tweets   : 99.6% at 43/sec for ManifestlyImp
+2017-11-12 17:32:26 Tweets   : 100% at 23/sec for manny_want
+2017-11-12 17:32:29 Friends  : 97.8% at 6/sec for MalcolmWilson01
+2017-11-12 17:32:36 Friends  : 98.9% at 41/sec for mandymgriffin
+2017-11-12 17:32:39 Friends  : 99.3% at 56/sec for manicaselan
+2017-11-12 17:33:36 Tweets   : 66.4% at 45/sec for Marc__Woods
+2017-11-12 17:33:44 Friends  : 99% at 44/sec for ManifestlyImp
+2017-11-12 17:33:53 Friends  : 99.4% at 36/sec for manny_want
+2017-11-12 17:34:00 Friends  : 100% at 37/sec for Marc__Woods
+2017-11-12 17:34:35 Friends  : 99.9% at 43/sec for MarcelEkkel
+2017-11-12 17:34:35 Friends  : User margare97305843 has a protected account or no Friendss to collect so skipping
+2017-11-12 17:34:43 Tweets   : 10.9% at 48/sec for MarcelEkkel
+2017-11-12 17:34:50 Tweets   : 100% at 0/sec for margare97305843
+2017-11-12 17:35:09 Friends  : 98% at 42/sec for markesutherland
+2017-11-12 17:35:14 Friends  : 98.1% at 27/sec for MattB_BRM
+2017-11-12 17:35:26 Friends  : 98.9% at 43/sec for MediaplanetIE
+2017-11-12 17:35:36 Friends  : 98.5% at 46/sec for MemberWise
+2017-11-12 17:35:47 Friends  : 99.1% at 39/sec for MIGSOJOBS
+2017-11-12 17:35:54 Friends  : 100% at 41/sec for mik0ton
+2017-11-12 17:36:02 Tweets   : 46.4% at 44/sec for markesutherland
+2017-11-12 17:36:12 Friends  : 99.4% at 43/sec for MinervaEngage
+2017-11-12 17:36:15 Friends  : 98.7% at 33/sec for monagha2
+2017-11-12 17:36:15 Friends  : Waiting for 10 minutes
+2017-11-12 17:36:17 Tweets   : 100% at 23/sec for MattB_BRM
+2017-11-12 17:36:45 Tweets   : 99.8% at 39/sec for MediaplanetIE
+2017-11-12 17:37:55 Tweets   : 34% at 46/sec for MemberWise
+2017-11-12 17:38:28 Tweets   : 99.7% at 33/sec for MIGSOJOBS
+2017-11-12 17:38:59 Tweets   : 99.7% at 49/sec for mik0ton
+2017-11-12 17:39:25 Tweets   : 100% at 43/sec for MinervaEngage
+2017-11-12 17:39:37 Tweets   : 99.7% at 27/sec for monagha2
+2017-11-12 17:40:04 Tweets   : 100% at 37/sec for msams_cov
+2017-11-12 17:40:07 Favorites: 14.6% at 4/sec for MalcolmWilson01
+2017-11-12 17:40:14 Favorites: 52.3% at 47/sec for mandymgriffin
+2017-11-12 17:40:16 Tweets   : 99.4% at 27/sec for mtlaunchbury
+2017-11-12 17:40:17 Favorites: 100% at 23/sec for manicaselan
+2017-11-12 17:40:54 Favorites: 52.5% at 46/sec for ManifestlyImp
+2017-11-12 17:40:55 Favorites: 100% at 10/sec for manny_want
+2017-11-12 17:41:08 Favorites: 57.6% at 46/sec for Marc__Woods
+2017-11-12 17:41:15 Favorites: 62.9% at 54/sec for MarcelEkkel
+2017-11-12 17:41:15 Favorites: User margare97305843 has a protected account or no Favoritess to collect so skipping
+2017-11-12 17:41:18 Tweets   : 54.2% at 50/sec for nash_lizzie
+2017-11-12 17:41:26 Tweets   : 100% at 12/sec for nat_deane
+2017-11-12 17:42:23 Favorites: Waiting for 12.3 minutes due to : Used up allowance in a loop
+2017-11-12 17:42:27 Tweets   : 1.6% at 52/sec for nationaltrust
+2017-11-12 17:43:35 Tweets   : 53.3% at 47/sec for NATS
+2017-11-12 17:43:42 Tweets   : 94.6% at 5/sec for nbspaddy
+2017-11-12 17:44:19 Tweets   : 99.9% at 46/sec for NeelaBettridge
+2017-11-12 17:45:26 Tweets   : 62.2% at 47/sec for Nick_Fewings
+2017-11-12 17:46:31 Tweets   : 11.8% at 49/sec for NirmalRuprai
+2017-11-12 17:46:38 Friends  : 99.2% at 0/sec for msams_cov
+2017-11-12 17:46:41 Friends  : 97.7% at 13/sec for mtlaunchbury
+2017-11-12 17:46:52 Friends  : 99.5% at 40/sec for nash_lizzie
+Error in twInterfaceObj$doAPICall(paste("users", "show", sep = "/"), params = params,  : 
+  Not Found (HTTP 404).
+2017-11-12 17:46:53 Friends: Unable to find account nat_deane moving to next
+2017-11-12 17:46:53 Friends  : % at /sec for nat_deane
+2017-11-12 17:47:15 Tweets   : 99.9% at 41/sec for nlamgb
+2017-11-12 17:47:32 Friends  : 99.8% at 40/sec for nationaltrust
+2017-11-12 17:47:48 Tweets   : 99.6% at 41/sec for OAPltd
+2017-11-12 17:47:55 Tweets   : 100% at 10/sec for olivercmrandall
+2017-11-12 17:48:28 Friends  : 99.8% at 41/sec for NATS
+2017-11-12 17:48:30 Friends  : 100% at 40/sec for nbspaddy
+2017-11-12 17:48:33 Tweets   : 99.9% at 41/sec for OwenKennedyPM
+2017-11-12 17:48:43 Tweets   : 100% at 12/sec for P2C_Global
+2017-11-12 17:49:00 Friends  : 99% at 42/sec for NeelaBettridge
+2017-11-12 17:49:19 Friends  : 99.6% at 34/sec for Nick_Fewings
+2017-11-12 17:50:00 Friends  : 99.9% at 39/sec for NirmalRuprai
+2017-11-12 17:50:13 Friends  : 100% at 36/sec for nlamgb
+2017-11-12 17:50:31 Friends  : 99.2% at 43/sec for OAPltd
+2017-11-12 17:50:33 Friends  : 86.7% at 31/sec for olivercmrandall
+2017-11-12 17:50:37 Friends  : 100% at 22/sec for OwenKennedyPM
+Error in twInterfaceObj$doAPICall(paste("users", "show", sep = "/"), params = params,  : 
+  Not Found (HTTP 404).
+2017-11-12 17:50:37 Friends: Unable to find account P2C_Global moving to next
+2017-11-12 17:50:37 Friends  : % at /sec for P2C_Global
+2017-11-12 17:55:08 Favorites: 34.6% at 4/sec for markesutherland
+2017-11-12 17:55:09 Favorites: 100% at 28/sec for MattB_BRM
+2017-11-12 17:55:15 Favorites: 69.9% at 49/sec for MediaplanetIE
+2017-11-12 17:55:50 Favorites: 51.8% at 49/sec for MemberWise
+2017-11-12 17:56:09 Favorites: 52.3% at 50/sec for MIGSOJOBS
+2017-11-12 17:56:10 Favorites: 96.8% at 43/sec for mik0ton
+2017-11-12 17:56:13 Favorites: 98.4% at 20/sec for MinervaEngage
+2017-11-12 17:56:15 Favorites: 93.3% at 62/sec for monagha2
+2017-11-12 17:56:21 Favorites: 50.7% at 47/sec for msams_cov
+2017-11-12 17:56:22 Favorites: 91.7% at 70/sec for mtlaunchbury
+2017-11-12 17:56:46 Favorites: 40.8% at 44/sec for nash_lizzie
+2017-11-12 17:56:47 Favorites: 100% at 62/sec for nat_deane
+2017-11-12 17:57:01 Favorites: 51.7% at 43/sec for nationaltrust
+2017-11-12 17:57:19 Favorites: 54.9% at 42/sec for NATS
+2017-11-12 17:57:20 Favorites: 80% at 37/sec for nbspaddy
+2017-11-12 17:57:21 Favorites: 100% at 37/sec for NeelaBettridge
+2017-11-12 17:57:25 Favorites: Waiting for 12.6 minutes due to : Used up allowance in a loop
+2017-11-12 18:10:37 Favorites: 51.3% at 1/sec for Nick_Fewings
+2017-11-12 18:10:50 Favorites: 48.7% at 49/sec for NirmalRuprai
+2017-11-12 18:10:55 Favorites: 82.6% at 41/sec for nlamgb
+2017-11-12 18:10:55 Favorites: 100% at 19/sec for OAPltd
+2017-11-12 18:10:56 Favorites: 100% at 68/sec for olivercmrandall
+2017-11-12 18:10:57 Favorites: 100% at 25/sec for OwenKennedyPM
+2017-11-12 18:10:58 Favorites: 100% at 47/sec for P2C_Global
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+Warning message:
+package 'twitteR' was built under R version 3.4.1 

@@ -1,0 +1,163 @@
+starting worker pid=9588 on localhost:11045 at 07:36:39.134
+starting worker pid=21236 on localhost:11045 at 07:36:39.297
+starting worker pid=21008 on localhost:11045 at 07:36:39.453
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-12 07:39:19 Friends  : 99.8% at 37/sec for buildingawards
+2017-11-12 07:39:24 Friends  : 97.8% at 61/sec for c_pountney
+2017-11-12 07:39:32 Friends  : 98.2% at 32/sec for DaveWorthington
+2017-11-12 07:39:48 Friends  : 99.9% at 43/sec for david_igloo
+2017-11-12 07:39:54 Favorites: 69.8% at 28/sec for buildingawards
+2017-11-12 07:40:01 Favorites: 100% at 4/sec for c_pountney
+2017-11-12 07:40:03 Favorites: 56.5% at 59/sec for DaveWorthington
+2017-11-12 07:40:08 Favorites: 59.6% at 38/sec for david_igloo
+2017-11-12 07:40:20 Favorites: 50.1% at 41/sec for DavidMorleyArch
+2017-11-12 07:40:20 Friends  : 98.9% at 36/sec for DavidMorleyArch
+2017-11-12 07:41:41 Favorites: 44.9% at 40/sec for Ecothrifty
+2017-11-12 07:41:42 Favorites: 100% at 46/sec for EPT_Global_
+2017-11-12 07:42:05 Favorites: 54.2% at 39/sec for ferrovial
+2017-11-12 07:42:28 Friends  : 99.3% at 36/sec for Ecothrifty
+2017-11-12 07:42:31 Favorites: Waiting for 5.3 minutes due to : Used up allowance in a loop
+2017-11-12 07:42:40 Friends  : 99.1% at 36/sec for EPT_Global_
+2017-11-12 07:42:41 Tweets   : 34.7% at 41/sec for buildingawards
+2017-11-12 07:42:48 Tweets   : 100% at 8/sec for c_pountney
+2017-11-12 07:43:02 Tweets   : 100% at 30/sec for DaveWorthington
+2017-11-12 07:43:13 Friends  : 100% at 38/sec for ferrovial
+2017-11-12 07:43:55 Tweets   : 99.8% at 44/sec for david_igloo
+2017-11-12 07:44:08 Friends  : 99.3% at 39/sec for garethbrown1
+2017-11-12 07:44:24 Friends  : 99.1% at 43/sec for hnewman100
+2017-11-12 07:44:33 Tweets   : 99.9% at 41/sec for DavidMorleyArch
+2017-11-12 07:44:41 Friends  : 99.8% at 39/sec for IainF
+2017-11-12 07:44:47 Friends  : 100% at 42/sec for jamesgolding
+2017-11-12 07:44:55 Friends  : 98.9% at 34/sec for jannikgiesekam
+2017-11-12 07:45:32 Friends  : 99.2% at 38/sec for johnclancy
+2017-11-12 07:45:34 Friends  : 100% at 23/sec for jonathonporritt
+2017-11-12 07:45:34 Friends  : Waiting for 7.7 minutes
+2017-11-12 07:45:46 Tweets   : 23.3% at 44/sec for Ecothrifty
+2017-11-12 07:45:52 Tweets   : 100% at 15/sec for EPT_Global_
+2017-11-12 07:47:04 Tweets   : 36.2% at 45/sec for ferrovial
+2017-11-12 07:48:18 Tweets   : 65% at 43/sec for garethbrown1
+2017-11-12 07:48:33 Tweets   : 99.8% at 28/sec for hnewman100
+2017-11-12 07:48:53 Favorites: 32.1% at 8/sec for garethbrown1
+2017-11-12 07:49:03 Tweets   : 99.6% at 37/sec for IainF
+2017-11-12 07:49:04 Favorites: 54.3% at 45/sec for hnewman100
+2017-11-12 07:49:06 Favorites: 58.1% at 56/sec for IainF
+2017-11-12 07:49:09 Favorites: 100% at 9/sec for jamesgolding
+2017-11-12 07:49:10 Favorites: 100% at 61/sec for jannikgiesekam
+2017-11-12 07:49:14 Favorites: 59.4% at 42/sec for johnclancy
+2017-11-12 07:49:15 Favorites: 100% at 23/sec for jonathonporritt
+2017-11-12 07:49:16 Favorites: 100% at 67/sec for JuditKimpian
+2017-11-12 07:49:21 Favorites: 53.8% at 42/sec for KoenSteemers
+2017-11-12 07:50:15 Tweets   : 57.5% at 45/sec for jamesgolding
+2017-11-12 07:50:22 Tweets   : 100% at 8/sec for jannikgiesekam
+2017-11-12 07:50:37 Favorites: 42.9% at 41/sec for KoubouInteriors
+2017-11-12 07:50:40 Favorites: 97.8% at 29/sec for LandsecGroup
+2017-11-12 07:50:42 Favorites: 100% at 70/sec for lewisknight
+2017-11-12 07:50:45 Favorites: 87.7% at 30/sec for LydsDutton
+2017-11-12 07:50:46 Favorites: 100% at 39/sec for MarylisRamos
+2017-11-12 07:50:46 Favorites: 100% at 50/sec for MarylisRamos
+2017-11-12 07:50:46 Favorites: Waiting for 12.2 minutes due to : Used up allowance in a loop
+2017-11-12 07:51:36 Tweets   : 61.6% at 43/sec for johnclancy
+2017-11-12 07:52:18 Tweets   : 99.9% at 41/sec for jonathonporritt
+2017-11-12 07:52:35 Tweets   : 100% at 28/sec for JuditKimpian
+2017-11-12 07:52:51 Tweets   : 100% at 29/sec for KoenSteemers
+2017-11-12 07:53:33 Friends  : 98% at 0/sec for JuditKimpian
+2017-11-12 07:53:42 Friends  : 100% at 33/sec for KoenSteemers
+2017-11-12 07:54:02 Tweets   : 100% at 41/sec for KoubouInteriors
+2017-11-12 07:54:23 Friends  : 96.5% at 42/sec for KoubouInteriors
+2017-11-12 07:54:35 Friends  : 98.5% at 33/sec for LandsecGroup
+2017-11-12 07:54:45 Tweets   : 100% at 36/sec for LandsecGroup
+2017-11-12 07:54:57 Friends  : 100% at 41/sec for lewisknight
+2017-11-12 07:55:06 Friends  : 99.5% at 26/sec for LydsDutton
+2017-11-12 07:55:18 Tweets   : 100% at 33/sec for lewisknight
+2017-11-12 07:55:20 Friends  : 100% at 37/sec for MarylisRamos
+2017-11-12 07:55:35 Friends  : 100% at 35/sec for MarylisRamos
+2017-11-12 07:55:36 Tweets   : 99.7% at 18/sec for LydsDutton
+2017-11-12 07:55:41 Friends  : 99.3% at 46/sec for mfretwell
+2017-11-12 07:56:01 Tweets   : 99.9% at 40/sec for MarylisRamos
+2017-11-12 07:56:24 Tweets   : 99.9% at 43/sec for MarylisRamos
+2017-11-12 07:56:40 Tweets   : 99.8% at 29/sec for mfretwell
+2017-11-12 07:57:51 Tweets   : 71.8% at 45/sec for MorganLovell
+2017-11-12 07:58:06 Friends  : 99.9% at 35/sec for MorganLovell
+2017-11-12 07:58:46 Friends  : 98.2% at 36/sec for NVJRobins1
+2017-11-12 07:59:01 Friends  : 98.9% at 30/sec for paulsutcliffe01
+2017-11-12 07:59:07 Tweets   : 31.3% at 42/sec for NVJRobins1
+2017-11-12 07:59:28 Friends  : 97.2% at 36/sec for PeteJBadger
+2017-11-12 07:59:29 Tweets   : 100% at 33/sec for paulsutcliffe01
+2017-11-12 07:59:53 Friends  : 99.4% at 34/sec for philipcharles79
+2017-11-12 07:59:53 Friends  : Waiting for 8.7 minutes
+2017-11-12 08:00:11 Tweets   : 99.9% at 40/sec for PeteJBadger
+2017-11-12 08:01:24 Tweets   : 52% at 44/sec for philipcharles79
+2017-11-12 08:02:41 Tweets   : 20.3% at 42/sec for PlanAbby
+2017-11-12 08:03:23 Favorites: 100% at 0/sec for mfretwell
+2017-11-12 08:03:37 Tweets   : 99.8% at 40/sec for PlantDesignsLdn
+2017-11-12 08:03:40 Favorites: 51.1% at 30/sec for MorganLovell
+2017-11-12 08:03:46 Favorites: 59.1% at 50/sec for NVJRobins1
+2017-11-12 08:03:49 Tweets   : 100% at 23/sec for Prestbury_PJT
+2017-11-12 08:03:51 Favorites: 83.7% at 40/sec for paulsutcliffe01
+2017-11-12 08:04:02 Favorites: 61% at 45/sec for PeteJBadger
+2017-11-12 08:04:02 Favorites: 100% at 42/sec for philipcharles79
+2017-11-12 08:05:06 Tweets   : 99.9% at 37/sec for RSLenvironment
+2017-11-12 08:05:21 Favorites: 38.1% at 40/sec for PlanAbby
+2017-11-12 08:05:28 Favorites: 61.3% at 44/sec for PlantDesignsLdn
+2017-11-12 08:05:28 Favorites: 100% at 44/sec for Prestbury_PJT
+2017-11-12 08:05:33 Favorites: 71.2% at 42/sec for RSLenvironment
+2017-11-12 08:06:14 Tweets   : 29.4% at 47/sec for StephenRW01
+2017-11-12 08:06:18 Favorites: Waiting for 12.1 minutes due to : Used up allowance in a loop
+2017-11-12 08:06:35 Tweets   : 99.4% at 33/sec for StudioDS_London
+2017-11-12 08:07:45 Tweets   : 88.7% at 46/sec for SustainLtd
+2017-11-12 08:08:35 Tweets   : 100% at 46/sec for SweettGroup
+2017-11-12 08:09:20 Friends  : 98.3% at 2/sec for PlanAbby
+2017-11-12 08:09:49 Tweets   : 3.1% at 43/sec for thedancingflea
+2017-11-12 08:10:51 Tweets   : 99.9% at 42/sec for thinkingcity
+2017-11-12 08:11:06 Friends  : 98.7% at 36/sec for PlantDesignsLdn
+2017-11-12 08:11:10 Friends  : 100% at 37/sec for Prestbury_PJT
+2017-11-12 08:11:37 Friends  : 99.6% at 38/sec for RSLenvironment
+2017-11-12 08:12:02 Friends  : 98.5% at 38/sec for StephenRW01
+2017-11-12 08:12:08 Friends  : 98.7% at 41/sec for StudioDS_London
+2017-11-12 08:12:09 Tweets   : 30.3% at 41/sec for traceyrc
+2017-11-12 08:12:23 Tweets   : 100% at 24/sec for Tridify
+2017-11-12 08:12:42 Friends  : 99.6% at 40/sec for SustainLtd
+2017-11-12 08:13:13 Friends  : 99.7% at 37/sec for SweettGroup
+2017-11-12 08:13:41 Tweets   : 13.9% at 41/sec for UNEP
+2017-11-12 08:14:22 Tweets   : 99.9% at 36/sec for vicki572
+2017-11-12 08:15:35 Tweets   : 53.5% at 44/sec for wsp
+2017-11-12 08:15:40 Tweets   : 100% at 0/sec for WSP_PB_UK
+2017-11-12 08:16:16 Tweets   : 100% at 42/sec for 3pwrr
+2017-11-12 08:17:02 Tweets   : 99.9% at 39/sec for alanododd
+2017-11-12 08:17:15 Tweets   : 100% at 29/sec for allandurning2
+2017-11-12 08:17:43 Friends  : 98% at 34/sec for thedancingflea
+2017-11-12 08:18:26 Friends  : 98.7% at 34/sec for thinkingcity
+2017-11-12 08:19:15 Favorites: 27% at 4/sec for StephenRW01
+2017-11-12 08:19:28 Friends  : 99.5% at 37/sec for traceyrc
+2017-11-12 08:19:29 Favorites: 49.9% at 37/sec for StudioDS_London
+2017-11-12 08:19:34 Favorites: 54.2% at 51/sec for SustainLtd
+2017-11-12 08:19:39 Favorites: 67.4% at 41/sec for SweettGroup
+2017-11-12 08:20:01 Friends  : 93.8% at 39/sec for Tridify
+2017-11-12 08:20:22 Favorites: 50.9% at 41/sec for thedancingflea
+2017-11-12 08:20:34 Favorites: 55.6% at 46/sec for thinkingcity
+2017-11-12 08:20:54 Favorites: 55.9% at 41/sec for traceyrc
+2017-11-12 08:20:57 Favorites: 97.1% at 29/sec for Tridify
+2017-11-12 08:21:19 Friends  : 99.4% at 39/sec for UNEP
+2017-11-12 08:21:38 Favorites: Waiting for 12.1 minutes due to : Used up allowance in a loop
+2017-11-12 08:22:01 Friends  : 98.9% at 39/sec for vicki572
+2017-11-12 08:22:01 Friends  : Waiting for 1.9 minutes
+2017-11-12 08:25:02 Friends  : 99.8% at 14/sec for wsp
+2017-11-12 08:25:02 Friends  : User WSP_PB_UK has a protected account or no Friendss to collect so skipping
+2017-11-12 08:25:04 Friends  : 98.3% at 48/sec for 3pwrr
+2017-11-12 08:25:10 Friends  : 98% at 27/sec for alanododd
+2017-11-12 08:25:21 Friends  : 99.7% at 32/sec for allandurning2
+2017-11-12 08:34:39 Favorites: 45.8% at 4/sec for UNEP
+2017-11-12 08:34:57 Favorites: 50.3% at 44/sec for vicki572
+2017-11-12 08:35:25 Favorites: 51.7% at 42/sec for wsp
+2017-11-12 08:35:25 Favorites: User WSP_PB_UK has a protected account or no Favoritess to collect so skipping
+2017-11-12 08:35:26 Favorites: 100% at 9/sec for 3pwrr
+2017-11-12 08:35:27 Favorites: 98.5% at 61/sec for alanododd
+2017-11-12 08:35:27 Favorites: 100% at 21/sec for allandurning2
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+Warning message:
+package 'twitteR' was built under R version 3.4.1 

@@ -1,0 +1,164 @@
+starting worker pid=20576 on localhost:11045 at 04:37:37.216
+starting worker pid=13860 on localhost:11045 at 04:37:37.374
+starting worker pid=13252 on localhost:11045 at 04:37:37.546
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-12 04:39:12 Friends  : 98% at 49/sec for marnickroofing
+2017-11-12 04:39:52 Friends  : 99.9% at 35/sec for MaxiflowLtd
+2017-11-12 04:40:00 Friends  : 100% at 44/sec for MEJerseyGirl
+2017-11-12 04:40:04 Friends  : 100% at 24/sec for NHTGSkills
+2017-11-12 04:40:10 Friends  : 97.8% at 43/sec for NRCAnews
+2017-11-12 04:40:24 Friends  : 99.8% at 38/sec for ObriensBuilding
+2017-11-12 04:40:46 Favorites: 70.7% at 53/sec for marnickroofing
+2017-11-12 04:40:47 Favorites: 100% at 59/sec for MaxiflowLtd
+2017-11-12 04:40:48 Favorites: 100% at 12/sec for MEJerseyGirl
+2017-11-12 04:40:48 Favorites: 50% at 3/sec for NHTGSkills
+2017-11-12 04:41:20 Favorites: 54.6% at 34/sec for NRCAnews
+2017-11-12 04:41:21 Friends  : 99.6% at 40/sec for OptigreenLtd
+2017-11-12 04:41:23 Favorites: 101.9% at 19/sec for ObriensBuilding
+2017-11-12 04:41:27 Friends  : 97.2% at 35/sec for Procladd_Scot
+2017-11-12 04:41:34 Favorites: 52.1% at 45/sec for OptigreenLtd
+2017-11-12 04:41:36 Favorites: 83.6% at 66/sec for Procladd_Scot
+2017-11-12 04:41:41 Favorites: 88.4% at 37/sec for prominentpr
+2017-11-12 04:41:41 Favorites: 100% at 10/sec for RanelaghUK
+2017-11-12 04:41:42 Favorites: 100% at 3/sec for RoofexShow
+2017-11-12 04:41:45 Favorites: 97.8% at 26/sec for RoofinglinesSE
+2017-11-12 04:41:48 Favorites: 53% at 65/sec for RussellRoofTile
+2017-11-12 04:41:57 Friends  : 98.8% at 37/sec for prominentpr
+2017-11-12 04:42:07 Favorites: 53.1% at 36/sec for sdwaring
+2017-11-12 04:42:20 Favorites: 61.6% at 40/sec for SikaIreland
+2017-11-12 04:42:21 Favorites: 100% at 43/sec for SoleTraderWeb
+2017-11-12 04:42:22 Favorites: 95.1% at 64/sec for TAColbourneLtd
+2017-11-12 04:42:23 Favorites: 100% at 6/sec for TalmanNFRC
+2017-11-12 04:42:29 Friends  : 99.4% at 38/sec for RanelaghUK
+2017-11-12 04:42:32 Tweets   : 100% at 18/sec for marnickroofing
+2017-11-12 04:42:35 Favorites: 52.8% at 43/sec for TelnikRoofing
+2017-11-12 04:42:37 Favorites: 70.9% at 70/sec for TopsealSystems
+2017-11-12 04:42:40 Favorites: 52.7% at 29/sec for TriflexUK
+2017-11-12 04:42:56 Friends  : 100% at 38/sec for RoofexShow
+2017-11-12 04:43:04 Favorites: 54% at 42/sec for _indiagroup
+2017-11-12 04:43:21 Friends  : 99.8% at 32/sec for RoofinglinesSE
+2017-11-12 04:43:21 Tweets   : 99.9% at 40/sec for MaxiflowLtd
+2017-11-12 04:43:28 Tweets   : 100% at 12/sec for MEJerseyGirl
+2017-11-12 04:43:35 Favorites: 51.4% at 41/sec for ABBgroupnews
+2017-11-12 04:43:36 Favorites: 55% at 67/sec for Act4Renewables
+2017-11-12 04:43:37 Tweets   : 100% at 16/sec for NHTGSkills
+2017-11-12 04:43:40 Favorites: 62.9% at 29/sec for Alona_Armstrong
+2017-11-12 04:44:08 Favorites: 51.6% at 42/sec for AshleyJudd
+2017-11-12 04:44:11 Favorites: 98.8% at 25/sec for bobbyllew
+2017-11-12 04:44:13 Favorites: 78.6% at 58/sec for Caplor_Energy
+2017-11-12 04:44:14 Favorites: 100% at 42/sec for CBI_CC
+2017-11-12 04:44:22 Favorites: 62.5% at 35/sec for Channel4News
+2017-11-12 04:44:24 Favorites: 58.8% at 57/sec for CleanHorizon
+2017-11-12 04:44:24 Friends  : 98.9% at 42/sec for RussellRoofTile
+2017-11-12 04:44:24 Friends  : Waiting for 3.6 minutes
+2017-11-12 04:44:48 Tweets   : 68.1% at 45/sec for NRCAnews
+2017-11-12 04:44:57 Tweets   : 100% at 24/sec for ObriensBuilding
+2017-11-12 04:45:23 Tweets   : 100% at 35/sec for OptigreenLtd
+2017-11-12 04:45:30 Tweets   : 99.2% at 18/sec for Procladd_Scot
+2017-11-12 04:45:39 Favorites: Waiting for 12.1 minutes due to : Used up allowance in a loop
+2017-11-12 04:46:26 Tweets   : 98.8% at 40/sec for prominentpr
+2017-11-12 04:47:29 Tweets   : 27.7% at 51/sec for RanelaghUK
+2017-11-12 04:47:43 Tweets   : 99.8% at 31/sec for RoofexShow
+2017-11-12 04:48:09 Tweets   : 99.7% at 36/sec for RoofinglinesSE
+2017-11-12 04:48:14 Friends  : 99.7% at 1/sec for sdwaring
+2017-11-12 04:48:41 Friends  : 98.8% at 40/sec for SikaIreland
+2017-11-12 04:49:04 Tweets   : 99.5% at 45/sec for RussellRoofTile
+2017-11-12 04:49:24 Friends  : 99.7% at 42/sec for SoleTraderWeb
+2017-11-12 04:49:33 Friends  : 98.2% at 34/sec for TAColbourneLtd
+2017-11-12 04:49:34 Friends  : 100% at 21/sec for TalmanNFRC
+2017-11-12 04:49:56 Friends  : 93.4% at 41/sec for TelnikRoofing
+2017-11-12 04:50:06 Friends  : 95.7% at 42/sec for TopsealSystems
+2017-11-12 04:50:11 Friends  : 96% at 32/sec for TriflexUK
+2017-11-12 04:50:14 Tweets   : 65.2% at 46/sec for sdwaring
+2017-11-12 04:50:38 Tweets   : 100% at 38/sec for SikaIreland
+2017-11-12 04:50:57 Friends  : 99.8% at 40/sec for _indiagroup
+2017-11-12 04:51:17 Tweets   : 99.9% at 43/sec for SoleTraderWeb
+2017-11-12 04:51:26 Tweets   : 100% at 13/sec for TAColbourneLtd
+2017-11-12 04:51:31 Friends  : 100% at 40/sec for ABBgroupnews
+2017-11-12 04:51:32 Tweets   : 100% at 1/sec for TalmanNFRC
+2017-11-12 04:51:43 Tweets   : 100% at 29/sec for TelnikRoofing
+2017-11-12 04:51:48 Friends  : 100% at 42/sec for Act4Renewables
+2017-11-12 04:52:00 Tweets   : 99.5% at 33/sec for TopsealSystems
+2017-11-12 04:52:03 Friends  : 97.4% at 39/sec for Alona_Armstrong
+2017-11-12 04:52:15 Tweets   : 97.6% at 29/sec for TriflexUK
+2017-11-12 04:52:17 Friends  : 98.8% at 40/sec for AshleyJudd
+2017-11-12 04:52:42 Friends  : 99.2% at 40/sec for bobbyllew
+2017-11-12 04:53:11 Friends  : 100% at 38/sec for Caplor_Energy
+2017-11-12 04:53:12 Friends  : Waiting for 10 minutes
+2017-11-12 04:53:28 Tweets   : 82.4% at 43/sec for _indiagroup
+2017-11-12 04:54:38 Tweets   : 34% at 46/sec for ABBgroupnews
+2017-11-12 04:55:48 Tweets   : 70.9% at 45/sec for Act4Renewables
+2017-11-12 04:56:04 Tweets   : 100% at 25/sec for Alona_Armstrong
+2017-11-12 04:57:16 Tweets   : 14.1% at 44/sec for AshleyJudd
+2017-11-12 04:58:04 Favorites: 25.4% at 4/sec for CPJElmore
+2017-11-12 04:58:23 Tweets   : 4.9% at 48/sec for bobbyllew
+2017-11-12 04:59:01 Tweets   : 99.9% at 44/sec for Caplor_Energy
+2017-11-12 04:59:20 Favorites: 19.9% at 42/sec for crisortunity
+2017-11-12 04:59:22 Favorites: 65.4% at 67/sec for DavenportJuliet
+2017-11-12 04:59:22 Favorites: 91.7% at 24/sec for DavidHuntSearch
+2017-11-12 04:59:22 Favorites: 100% at 8/sec for Eco2solar
+2017-11-12 04:59:27 Favorites: 81.2% at 41/sec for ecosuitwarrior
+2017-11-12 04:59:32 Favorites: 77.5% at 42/sec for emilygosden
+2017-11-12 04:59:47 Favorites: 51% at 40/sec for Forum4theFuture
+2017-11-12 04:59:51 Tweets   : 99.9% at 42/sec for CBI_CC
+2017-11-12 05:00:06 Favorites: 51.3% at 46/sec for generalelectric
+2017-11-12 05:00:08 Favorites: 100% at 1/sec for generatorsvoice
+2017-11-12 05:00:11 Favorites: 88.1% at 62/sec for GovBusiness
+2017-11-12 05:00:19 Favorites: 73.4% at 37/sec for GSolarCouncil
+2017-11-12 05:00:20 Favorites: 100% at 39/sec for GWondrausch
+2017-11-12 05:00:42 Favorites: 50.3% at 44/sec for ianbirrell
+2017-11-12 05:00:47 Favorites: Waiting for 12.3 minutes due to : Used up allowance in a loop
+2017-11-12 05:01:02 Tweets   : 3.7% at 45/sec for Channel4News
+2017-11-12 05:01:39 Tweets   : 100% at 40/sec for CleanHorizon
+2017-11-12 05:02:55 Tweets   : 27.5% at 42/sec for CPJElmore
+2017-11-12 05:03:38 Friends  : 99.5% at 1/sec for CBI_CC
+2017-11-12 05:04:14 Tweets   : 12.7% at 40/sec for crisortunity
+2017-11-12 05:05:41 Friends  : 99.7% at 37/sec for Channel4News
+2017-11-12 05:05:45 Tweets   : 97.1% at 35/sec for DavenportJuliet
+2017-11-12 05:06:02 Friends  : 96.9% at 40/sec for CleanHorizon
+2017-11-12 05:06:32 Friends  : 99.7% at 33/sec for CPJElmore
+2017-11-12 05:06:56 Tweets   : 15.4% at 45/sec for DavidHuntSearch
+2017-11-12 05:07:06 Friends  : 98.4% at 36/sec for crisortunity
+2017-11-12 05:07:28 Friends  : 98.3% at 28/sec for DavenportJuliet
+2017-11-12 05:07:38 Tweets   : 99.6% at 45/sec for Eco2solar
+2017-11-12 05:07:55 Friends  : 99.7% at 44/sec for DavidHuntSearch
+2017-11-12 05:08:04 Tweets   : 99.5% at 36/sec for ecosuitwarrior
+2017-11-12 05:08:10 Friends  : 99.8% at 40/sec for Eco2solar
+2017-11-12 05:08:12 Friends  : 98.8% at 42/sec for ecosuitwarrior
+2017-11-12 05:08:47 Friends  : 99.7% at 41/sec for emilygosden
+2017-11-12 05:09:15 Tweets   : 37.8% at 45/sec for emilygosden
+2017-11-12 05:09:24 Friends  : 99.5% at 42/sec for Forum4theFuture
+2017-11-12 05:10:25 Tweets   : 21.8% at 46/sec for Forum4theFuture
+2017-11-12 05:11:36 Tweets   : 3.8% at 45/sec for generalelectric
+2017-11-12 05:12:54 Tweets   : 30.1% at 41/sec for generatorsvoice
+2017-11-12 05:13:52 Favorites: 50.6% at 2/sec for JeffSmithetc
+2017-11-12 05:13:58 Favorites: 76.6% at 39/sec for Jonathan__Leake
+2017-11-12 05:13:59 Favorites: 100% at 59/sec for LarkEnergy
+2017-11-12 05:14:03 Favorites: 100% at 24/sec for LeoHickman
+2017-11-12 05:14:20 Tweets   : 69.7% at 37/sec for GovBusiness
+2017-11-12 05:14:38 Tweets   : 100% at 34/sec for GSolarCouncil
+2017-11-12 05:15:04 Tweets   : 99.5% at 37/sec for GWondrausch
+2017-11-12 05:16:14 Tweets   : 11.9% at 45/sec for ianbirrell
+2017-11-12 05:16:48 Friends  : 100% at 33/sec for generalelectric
+2017-11-12 05:17:00 Friends  : 100% at 30/sec for generatorsvoice
+2017-11-12 05:17:00 Friends  : Waiting for 1.5 minutes
+2017-11-12 05:17:25 Tweets   : 50% at 45/sec for JeffSmithetc
+2017-11-12 05:18:38 Tweets   : 32.5% at 44/sec for Jonathan__Leake
+2017-11-12 05:18:51 Tweets   : 100% at 24/sec for LarkEnergy
+2017-11-12 05:18:57 Friends  : 100% at 6/sec for GovBusiness
+2017-11-12 05:19:24 Friends  : 99.4% at 42/sec for GSolarCouncil
+2017-11-12 05:19:29 Friends  : 99.2% at 28/sec for GWondrausch
+2017-11-12 05:19:54 Friends  : 99.5% at 40/sec for ianbirrell
+2017-11-12 05:20:08 Tweets   : 7.3% at 42/sec for LeoHickman
+2017-11-12 05:20:49 Friends  : 98.7% at 40/sec for JeffSmithetc
+2017-11-12 05:21:30 Friends  : 99.4% at 43/sec for Jonathan__Leake
+2017-11-12 05:22:11 Friends  : 99.6% at 41/sec for LarkEnergy
+2017-11-12 05:23:36 Friends  : 99.4% at 42/sec for LeoHickman
+Warning message:
+Warning message:
+was built under R version 3.4.1 
+package 'twitteR' was built under R version 3.4.1 
+Warning message:
+package 'twitteR' was built under R version 3.4.1 

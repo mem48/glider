@@ -1,0 +1,171 @@
+starting worker pid=16804 on localhost:11045 at 18:14:53.717
+starting worker pid=14160 on localhost:11045 at 18:14:53.889
+starting worker pid=19872 on localhost:11045 at 18:14:54.046
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+Error in twInterfaceObj$doAPICall(paste("users", "show", sep = "/"), params = params,  : 
+  Not Found (HTTP 404).
+In addition: Warning message:
+package 'twitteR' was built under R version 3.4.1 
+2017-11-12 18:16:33 Friends: Unable to find account P3MAfrica moving to next
+2017-11-12 18:16:33 Friends  : % at /sec for P3MAfrica
+2017-11-12 18:17:28 Friends  : 99.8% at 31/sec for parallelproject
+2017-11-12 18:18:10 Friends  : 99.7% at 43/sec for Planview
+2017-11-12 18:18:15 Favorites: 100% at 12/sec for P3MAfrica
+2017-11-12 18:18:20 Favorites: 96.8% at 20/sec for parallelproject
+2017-11-12 18:18:21 Favorites: 60.9% at 66/sec for Planview
+2017-11-12 18:18:22 Favorites: 100% at 19/sec for PMArticles
+2017-11-12 18:18:22 Favorites: 100% at 10/sec for pmlink
+2017-11-12 18:18:27 Favorites: 100% at 9/sec for pmoplanet
+2017-11-12 18:18:28 Favorites: 100% at 49/sec for PMvoices
+2017-11-12 18:18:29 Favorites: 100% at 23/sec for PragmaticPMO
+2017-11-12 18:18:39 Favorites: 90.4% at 19/sec for prince2blog
+2017-11-12 18:18:40 Favorites: 100% at 30/sec for ProjectManAsia
+2017-11-12 18:18:59 Friends  : 100% at 40/sec for PMArticles
+2017-11-12 18:19:04 Friends  : 100% at 32/sec for pmlink
+2017-11-12 18:19:35 Friends  : 99.4% at 36/sec for pmoplanet
+2017-11-12 18:20:02 Favorites: 42.7% at 39/sec for projectmsuccess
+2017-11-12 18:20:03 Favorites: 98.7% at 51/sec for ranjit_sidhu
+2017-11-12 18:20:05 Favorites: 52.9% at 67/sec for RodWillisGTC
+2017-11-12 18:20:06 Favorites: 66.7% at 73/sec for RoyMillardUK
+2017-11-12 18:20:09 Tweets   : 100% at 4/sec for P3MAfrica
+2017-11-12 18:20:14 Favorites: 69.7% at 36/sec for RSG_Plc
+2017-11-12 18:20:21 Favorites: 58.4% at 43/sec for Sam_D_Carroll
+2017-11-12 18:20:28 Favorites: Waiting for 5 minutes due to : Used up allowance in a loop
+2017-11-12 18:21:30 Tweets   : 96.2% at 40/sec for parallelproject
+2017-11-12 18:21:56 Friends  : 99.9% at 42/sec for PMvoices
+2017-11-12 18:21:59 Friends  : 97.1% at 46/sec for PragmaticPMO
+2017-11-12 18:22:07 Friends  : 99.7% at 36/sec for prince2blog
+2017-11-12 18:22:11 Friends  : 100% at 16/sec for ProjectManAsia
+2017-11-12 18:22:37 Tweets   : 46.5% at 47/sec for Planview
+2017-11-12 18:23:03 Tweets   : 99.9% at 46/sec for PMArticles
+2017-11-12 18:23:08 Friends  : 95.7% at 46/sec for projectmsuccess
+2017-11-12 18:23:31 Friends  : 99.4% at 43/sec for ranjit_sidhu
+2017-11-12 18:24:03 Tweets   : 37.2% at 53/sec for pmlink
+2017-11-12 18:24:31 Friends  : 99.1% at 44/sec for RodWillisGTC
+2017-11-12 18:24:35 Friends  : 100% at 15/sec for RoyMillardUK
+2017-11-12 18:24:43 Friends  : 99.7% at 42/sec for RSG_Plc
+2017-11-12 18:24:43 Friends  : Waiting for 6.9 minutes
+2017-11-12 18:25:05 Tweets   : 34.3% at 52/sec for pmoplanet
+2017-11-12 18:26:02 Favorites: 52.5% at 5/sec for sandrabpvc
+2017-11-12 18:26:08 Tweets   : 34.9% at 51/sec for PMvoices
+2017-11-12 18:26:12 Favorites: 70.3% at 21/sec for sbarkyjourney
+2017-11-12 18:26:13 Favorites: 94.1% at 72/sec for serenbeca
+2017-11-12 18:26:14 Favorites: 100% at 22/sec for Sfairhurst3
+2017-11-12 18:26:17 Favorites: 59.2% at 31/sec for sharondemascia
+2017-11-12 18:26:38 Tweets   : 100% at 41/sec for PragmaticPMO
+2017-11-12 18:26:38 Favorites: 49.1% at 46/sec for shropshirekat
+2017-11-12 18:26:38 Favorites: 100% at 6/sec for Sims4Training
+2017-11-12 18:26:49 Favorites: 50.1% at 44/sec for smProf
+2017-11-12 18:27:44 Tweets   : 27.9% at 48/sec for prince2blog
+2017-11-12 18:27:59 Favorites: 43.9% at 45/sec for suepritch
+2017-11-12 18:28:14 Favorites: 53.9% at 47/sec for Susan_Attard
+2017-11-12 18:28:17 Favorites: Waiting for 12.3 minutes due to : Used up allowance in a loop
+2017-11-12 18:28:22 Tweets   : 100% at 44/sec for ProjectManAsia
+2017-11-12 18:29:13 Tweets   : 99.7% at 47/sec for projectmsuccess
+2017-11-12 18:29:34 Tweets   : 99.7% at 35/sec for ranjit_sidhu
+2017-11-12 18:30:04 Tweets   : 99.7% at 45/sec for RodWillisGTC
+2017-11-12 18:30:19 Tweets   : 100% at 25/sec for RoyMillardUK
+2017-11-12 18:31:26 Tweets   : 62.7% at 48/sec for RSG_Plc
+2017-11-12 18:31:47 Tweets   : 99.5% at 31/sec for Sam_D_Carroll
+2017-11-12 18:31:55 Friends  : 97.5% at 0/sec for Sam_D_Carroll
+2017-11-12 18:32:25 Friends  : 98.6% at 40/sec for sandrabpvc
+2017-11-12 18:32:34 Friends  : 98.6% at 31/sec for sbarkyjourney
+2017-11-12 18:32:36 Friends  : 100% at 27/sec for serenbeca
+2017-11-12 18:32:39 Friends  : 97.9% at 60/sec for Sfairhurst3
+2017-11-12 18:32:44 Tweets   : 99.9% at 41/sec for sandrabpvc
+2017-11-12 18:32:48 Friends  : 99.3% at 31/sec for sharondemascia
+2017-11-12 18:32:54 Tweets   : 99.5% at 20/sec for sbarkyjourney
+2017-11-12 18:33:03 Tweets   : 100% at 7/sec for serenbeca
+2017-11-12 18:33:12 Tweets   : 100% at 20/sec for Sfairhurst3
+2017-11-12 18:33:24 Friends  : 99.2% at 43/sec for shropshirekat
+Error in twInterfaceObj$doAPICall(paste("users", "show", sep = "/"), params = params,  : 
+  Not Found (HTTP 404).
+2017-11-12 18:33:25 Friends: Unable to find account Sims4Training moving to next
+2017-11-12 18:33:25 Friends  : % at /sec for Sims4Training
+2017-11-12 18:33:53 Friends  : 98.4% at 36/sec for smProf
+2017-11-12 18:34:00 Tweets   : 99.9% at 40/sec for sharondemascia
+2017-11-12 18:35:13 Friends  : 98.9% at 37/sec for suepritch
+2017-11-12 18:35:18 Tweets   : 78.3% at 41/sec for shropshirekat
+2017-11-12 18:35:20 Friends  : 99.6% at 37/sec for Susan_Attard
+2017-11-12 18:35:25 Tweets   : 100% at 1/sec for Sims4Training
+2017-11-12 18:35:36 Friends  : 98.2% at 42/sec for TavistockAssoc
+2017-11-12 18:35:42 Friends  : 100% at 35/sec for TelegraphTech
+2017-11-12 18:35:50 Friends  : 98.2% at 35/sec for TerryPlimmer
+2017-11-12 18:35:52 Friends  : 100% at 41/sec for Thebowermans
+2017-11-12 18:35:57 Friends  : 90.2% at 24/sec for TheChangeUpdate
+2017-11-12 18:35:57 Friends  : Waiting for 10.9 minutes
+2017-11-12 18:36:30 Tweets   : 49.1% at 49/sec for smProf
+2017-11-12 18:37:34 Tweets   : 30.6% at 49/sec for suepritch
+2017-11-12 18:38:11 Tweets   : 99.4% at 42/sec for Susan_Attard
+2017-11-12 18:38:32 Tweets   : 99.9% at 34/sec for TavistockAssoc
+2017-11-12 18:39:37 Tweets   : 13.4% at 50/sec for TelegraphTech
+2017-11-12 18:40:11 Tweets   : 99.8% at 45/sec for TerryPlimmer
+2017-11-12 18:40:17 Tweets   : 100% at 0/sec for Thebowermans
+2017-11-12 18:40:33 Tweets   : 100% at 35/sec for TheChangeUpdate
+2017-11-12 18:41:06 Favorites: 56% at 1/sec for TavistockAssoc
+2017-11-12 18:41:06 Favorites: 100% at 12/sec for TelegraphTech
+2017-11-12 18:41:17 Favorites: 56.4% at 42/sec for TerryPlimmer
+2017-11-12 18:41:17 Favorites: 100% at 2/sec for Thebowermans
+2017-11-12 18:41:19 Favorites: 100% at 38/sec for TheChangeUpdate
+2017-11-12 18:41:24 Favorites: 65.2% at 37/sec for TheEconomist
+2017-11-12 18:41:32 Favorites: 64.8% at 48/sec for ThinkPublishing
+2017-11-12 18:41:39 Favorites: 62.2% at 44/sec for tomboa
+2017-11-12 18:41:41 Tweets   : 2.6% at 47/sec for TheEconomist
+2017-11-12 18:41:42 Favorites: 100% at 29/sec for Tulimar1
+2017-11-12 18:41:44 Favorites: 57.5% at 65/sec for uw_abe
+2017-11-12 18:41:55 Favorites: 58.9% at 45/sec for Wenna_Paz
+2017-11-12 18:41:56 Favorites: 100% at 51/sec for WileyPrjctMgmt
+2017-11-12 18:41:58 Tweets   : 99.7% at 35/sec for ThinkPublishing
+2017-11-12 18:43:08 Tweets   : 99.1% at 46/sec for tomboa
+2017-11-12 18:43:11 Favorites: 49.6% at 43/sec for workfront
+2017-11-12 18:43:19 Tweets   : 100% at 14/sec for Tulimar1
+2017-11-12 18:43:30 Favorites: 55.4% at 47/sec for 2diversifyu
+2017-11-12 18:43:33 Favorites: 72.6% at 68/sec for a1securityprint
+2017-11-12 18:43:37 Favorites: Waiting for 12.3 minutes due to : Used up allowance in a loop
+2017-11-12 18:44:06 Tweets   : 99.9% at 41/sec for uw_abe
+2017-11-12 18:45:23 Tweets   : 63.5% at 42/sec for Wenna_Paz
+2017-11-12 18:45:41 Tweets   : 100% at 30/sec for WileyPrjctMgmt
+2017-11-12 18:46:53 Tweets   : 23.5% at 45/sec for workfront
+2017-11-12 18:47:16 Friends  : 99.4% at 0/sec for TheEconomist
+2017-11-12 18:47:23 Friends  : 99.6% at 34/sec for ThinkPublishing
+2017-11-12 18:47:51 Friends  : 99.6% at 36/sec for tomboa
+2017-11-12 18:47:56 Friends  : 99% at 22/sec for Tulimar1
+2017-11-12 18:47:59 Tweets   : 99.8% at 46/sec for 2diversifyu
+2017-11-12 18:48:02 Friends  : 99.6% at 36/sec for uw_abe
+2017-11-12 18:48:07 Tweets   : 100% at 19/sec for a1securityprint
+2017-11-12 18:48:23 Tweets   : 100% at 24/sec for CutlandNick
+2017-11-12 18:48:33 Tweets   : 99.1% at 20/sec for digitalassess
+2017-11-12 18:48:36 Friends  : 98.9% at 39/sec for Wenna_Paz
+2017-11-12 18:48:38 Friends  : 100% at 45/sec for WileyPrjctMgmt
+2017-11-12 18:48:44 Tweets   : 100% at 17/sec for eAssessUK
+2017-11-12 18:49:17 Tweets   : 100% at 40/sec for frances_mckeown
+2017-11-12 18:49:30 Friends  : 99.4% at 39/sec for workfront
+2017-11-12 18:49:49 Friends  : 99.2% at 37/sec for 2diversifyu
+2017-11-12 18:49:55 Friends  : 98.1% at 35/sec for a1securityprint
+2017-11-12 18:50:00 Friends  : 98.1% at 22/sec for CutlandNick
+2017-11-12 18:50:03 Friends  : 98.5% at 39/sec for digitalassess
+2017-11-12 18:50:05 Friends  : 100% at 29/sec for eAssessUK
+2017-11-12 18:50:19 Friends  : 98% at 20/sec for frances_mckeown
+2017-11-12 18:50:28 Tweets   : 55.5% at 45/sec for J_Stockdale
+2017-11-12 18:50:35 Friends  : 98.9% at 50/sec for J_Stockdale
+2017-11-12 18:50:35 Friends  : Waiting for 11.7 minutes
+2017-11-12 18:51:35 Tweets   : 44.3% at 48/sec for NCFE
+2017-11-12 18:52:43 Tweets   : 50.7% at 47/sec for nicolabuffham
+2017-11-12 18:53:31 Tweets   : 99.7% at 46/sec for OpenCollNet
+2017-11-12 18:56:20 Favorites: 51.2% at 0/sec for CutlandNick
+2017-11-12 18:56:24 Favorites: 75.2% at 32/sec for digitalassess
+2017-11-12 18:56:25 Favorites: 100% at 56/sec for eAssessUK
+2017-11-12 18:56:29 Favorites: 59.1% at 44/sec for frances_mckeown
+2017-11-12 18:56:43 Favorites: 53.2% at 49/sec for J_Stockdale
+2017-11-12 18:56:54 Favorites: 50.6% at 44/sec for NCFE
+2017-11-12 18:57:18 Favorites: 53.5% at 46/sec for nicolabuffham
+2017-11-12 18:57:25 Favorites: 57.2% at 54/sec for OpenCollNet
+2017-11-12 19:03:22 Friends  : 95.1% at 3/sec for NCFE
+2017-11-12 19:03:33 Friends  : 98.3% at 41/sec for nicolabuffham
+2017-11-12 19:03:48 Friends  : 100% at 45/sec for OpenCollNet
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+Warning message:
+package 'twitteR' was built under R version 3.4.1 

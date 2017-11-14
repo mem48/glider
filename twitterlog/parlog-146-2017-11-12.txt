@@ -1,0 +1,167 @@
+starting worker pid=21364 on localhost:11045 at 21:35:37.917
+starting worker pid=20260 on localhost:11045 at 21:35:38.134
+starting worker pid=8528 on localhost:11045 at 21:35:38.290
+[1] "Using direct authentication"
+2017-11-12 21:37:46 Friends  : 99.4% at 44/sec for GATEway_TRL
+2017-11-12 21:38:33 Friends  : 99% at 41/sec for GenomicsEngland
+2017-11-12 21:38:49 Friends  : 100% at 37/sec for getbright
+2017-11-12 21:38:50 Friends  : 100% at 41/sec for Grady_Pete
+2017-11-12 21:39:30 Favorites: 54.1% at 52/sec for GATEway_TRL
+2017-11-12 21:39:38 Friends  : 99.5% at 41/sec for GrantThorntonUK
+2017-11-12 21:39:48 Friends  : 99.5% at 41/sec for GSKUlverston
+2017-11-12 21:40:22 Favorites: 51.1% at 38/sec for GenomicsEngland
+2017-11-12 21:40:33 Favorites: 58.4% at 37/sec for getbright
+2017-11-12 21:40:33 Favorites: 100% at 2/sec for Grady_Pete
+2017-11-12 21:40:41 Favorites: Waiting for 3.9 minutes due to : Used up allowance in a loop
+2017-11-12 21:42:00 Tweets   : 99.4% at 33/sec for GATEway_TRL
+2017-11-12 21:42:11 Friends  : 99.5% at 39/sec for hadleybeeman
+2017-11-12 21:43:08 Friends  : 97.5% at 42/sec for HadleysComment
+2017-11-12 21:43:09 Tweets   : 59.6% at 47/sec for GenomicsEngland
+2017-11-12 21:43:15 Friends  : 99% at 41/sec for HannahEW
+2017-11-12 21:43:25 Friends  : 99.5% at 41/sec for HeartofSWLEP
+2017-11-12 21:43:27 Friends  : 96.5% at 37/sec for HenwickPrimary
+2017-11-12 21:43:38 Tweets   : 99.7% at 43/sec for getbright
+2017-11-12 21:43:47 Tweets   : 100% at 4/sec for Grady_Pete
+2017-11-12 21:43:52 Friends  : 99.7% at 43/sec for HMLandRegistry
+2017-11-12 21:43:58 Friends  : 99.6% at 40/sec for HobsonClaire
+2017-11-12 21:44:20 Friends  : 99.5% at 37/sec for HugoSwire
+2017-11-12 21:44:20 Friends  : Waiting for 8.3 minutes
+2017-11-12 21:44:55 Tweets   : 27.9% at 47/sec for GrantThorntonUK
+2017-11-12 21:45:24 Tweets   : 99.4% at 43/sec for GSKUlverston
+2017-11-12 21:45:38 Favorites: 50.7% at 9/sec for GrantThorntonUK
+2017-11-12 21:45:46 Favorites: 61.6% at 35/sec for GSKUlverston
+2017-11-12 21:46:34 Tweets   : 14.3% at 45/sec for hadleybeeman
+2017-11-12 21:46:49 Favorites: 48% at 43/sec for hadleybeeman
+2017-11-12 21:46:57 Favorites: 61.3% at 49/sec for HadleysComment
+2017-11-12 21:46:58 Favorites: 94.5% at 53/sec for HannahEW
+2017-11-12 21:47:08 Favorites: 59.6% at 39/sec for HeartofSWLEP
+2017-11-12 21:47:09 Favorites: 100% at 53/sec for HenwickPrimary
+2017-11-12 21:47:16 Favorites: 64.2% at 48/sec for HMLandRegistry
+2017-11-12 21:47:28 Favorites: Waiting for 12.3 minutes due to : Used up allowance in a loop
+2017-11-12 21:47:38 Tweets   : 26.9% at 50/sec for HadleysComment
+2017-11-12 21:47:59 Tweets   : 100% at 39/sec for HannahEW
+2017-11-12 21:48:44 Tweets   : 100% at 44/sec for HeartofSWLEP
+2017-11-12 21:49:03 Tweets   : 99.4% at 34/sec for HenwickPrimary
+2017-11-12 21:50:10 Tweets   : 39.7% at 48/sec for HMLandRegistry
+2017-11-12 21:50:48 Tweets   : 99.8% at 41/sec for HobsonClaire
+2017-11-12 21:51:55 Tweets   : 55.1% at 48/sec for HugoSwire
+2017-11-12 21:52:57 Friends  : 97.1% at 1/sec for HVM_Catapult
+2017-11-12 21:53:06 Tweets   : 85% at 45/sec for HVM_Catapult
+2017-11-12 21:53:10 Friends  : 100% at 35/sec for HydenTalent
+2017-11-12 21:53:40 Friends  : 99.5% at 39/sec for Hyundai_UK
+2017-11-12 21:53:53 Friends  : 99.8% at 42/sec for iainh1
+2017-11-12 21:53:58 Friends  : 98.9% at 33/sec for ICAEW_CORP_FIN
+2017-11-12 21:54:11 Tweets   : 99.5% at 44/sec for HydenTalent
+2017-11-12 21:54:15 Friends  : 97.9% at 36/sec for ICR_London
+2017-11-12 21:55:13 Friends  : 100% at 41/sec for IIP
+2017-11-12 21:55:27 Tweets   : 36.8% at 42/sec for Hyundai_UK
+2017-11-12 21:55:36 Friends  : 100% at 41/sec for IMPACTApprentic
+2017-11-12 21:55:51 Tweets   : 99.8% at 36/sec for iainh1
+2017-11-12 21:55:52 Friends  : 100% at 35/sec for Isobel_CGC
+2017-11-12 21:56:19 Friends  : 99.8% at 37/sec for Jaguar
+2017-11-12 21:56:28 Friends  : 99.5% at 44/sec for JamesBevanEA
+2017-11-12 21:57:03 Friends  : 97.9% at 38/sec for jamescaan
+2017-11-12 21:57:14 Tweets   : 85.4% at 39/sec for ICAEW_CORP_FIN
+2017-11-12 21:57:42 Friends  : 99.8% at 38/sec for JayEvansPR
+2017-11-12 21:58:15 Friends  : 99% at 38/sec for jennydibden
+2017-11-12 21:58:20 Tweets   : 23.7% at 48/sec for ICR_London
+2017-11-12 21:58:42 Friends  : 99.1% at 39/sec for jeremyofclapham
+2017-11-12 21:58:42 Friends  : Waiting for 9.2 minutes
+2017-11-12 21:59:26 Tweets   : 27.9% at 49/sec for IIP
+2017-11-12 21:59:56 Tweets   : 99.4% at 41/sec for IMPACTApprentic
+2017-11-12 22:00:13 Favorites: 52.6% at 1/sec for HobsonClaire
+2017-11-12 22:00:17 Favorites: 98.8% at 24/sec for HugoSwire
+2017-11-12 22:00:18 Favorites: 64.9% at 62/sec for HVM_Catapult
+2017-11-12 22:00:23 Favorites: 58.1% at 40/sec for HydenTalent
+2017-11-12 22:00:38 Tweets   : 99.5% at 41/sec for Isobel_CGC
+2017-11-12 22:00:54 Favorites: 51.9% at 38/sec for Hyundai_UK
+2017-11-12 22:00:54 Favorites: 100% at 7/sec for iainh1
+2017-11-12 22:00:54 Favorites: User ICAEW_CORP_FIN has a protected account or no Favoritess to collect so skipping
+2017-11-12 22:01:33 Favorites: 50.2% at 44/sec for ICR_London
+2017-11-12 22:01:46 Tweets   : 39.5% at 47/sec for Jaguar
+2017-11-12 22:02:02 Favorites: 51.8% at 44/sec for IIP
+2017-11-12 22:02:05 Favorites: 97.8% at 27/sec for IMPACTApprentic
+2017-11-12 22:02:06 Favorites: 100% at 54/sec for Isobel_CGC
+2017-11-12 22:02:52 Favorites: 49.6% at 45/sec for Jaguar
+2017-11-12 22:02:55 Favorites: Waiting for 12.2 minutes due to : Used up allowance in a loop
+2017-11-12 22:02:57 Tweets   : 89.4% at 44/sec for JamesBevanEA
+2017-11-12 22:04:08 Tweets   : 32.1% at 45/sec for jamescaan
+2017-11-12 22:05:19 Tweets   : 78.5% at 45/sec for JayEvansPR
+2017-11-12 22:05:44 Tweets   : 100% at 35/sec for jennydibden
+2017-11-12 22:06:29 Tweets   : 99.9% at 41/sec for jeremyofclapham
+2017-11-12 22:07:19 Tweets   : 99.1% at 42/sec for jimf58a
+2017-11-12 22:07:25 Tweets   : 100% at 0/sec for JLRPR
+2017-11-12 22:08:43 Tweets   : 57.6% at 41/sec for Joanna_Abeyie
+2017-11-12 22:09:00 Friends  : 99.1% at 3/sec for jimf58a
+2017-11-12 22:09:00 Friends  : User JLRPR has a protected account or no Friendss to collect so skipping
+2017-11-12 22:09:02 Friends  : 1.3% at 19/sec for Joanna_Abeyie
+2017-11-12 22:09:51 Tweets   : 8.7% at 47/sec for John__Field
+2017-11-12 22:09:59 Friends  : 98.3% at 36/sec for John__Field
+2017-11-12 22:10:39 Friends  : 99.9% at 34/sec for JonathanLedger
+2017-11-12 22:10:45 Friends  : 100% at 27/sec for JoyceOwhh
+2017-11-12 22:10:58 Friends  : 100% at 37/sec for judithporter123
+2017-11-12 22:11:00 Tweets   : 39.1% at 47/sec for JonathanLedger
+2017-11-12 22:11:10 Tweets   : 100% at 12/sec for JoyceOwhh
+2017-11-12 22:11:27 Tweets   : 99.6% at 31/sec for judithporter123
+2017-11-12 22:11:40 Friends  : 100% at 36/sec for JWZ_for_SMEs
+2017-11-12 22:11:59 Tweets   : 99.9% at 42/sec for JWZ_for_SMEs
+2017-11-12 22:12:06 Friends  : 98.7% at 32/sec for KevinBaughan
+2017-11-12 22:12:18 Friends  : 100% at 45/sec for laboratorynews
+2017-11-12 22:12:54 Friends  : 99.7% at 43/sec for lauraharbidge
+2017-11-12 22:13:00 Friends  : 100% at 29/sec for LeightonJCP
+2017-11-12 22:13:17 Tweets   : 70.5% at 41/sec for KevinBaughan
+2017-11-12 22:13:26 Friends  : 99% at 39/sec for Leonardo_Sec
+2017-11-12 22:14:30 Tweets   : 47.5% at 44/sec for laboratorynews
+2017-11-12 22:14:44 Tweets   : 99.7% at 21/sec for lauraharbidge
+2017-11-12 22:15:05 Friends  : 96.6% at 41/sec for Lifelandlady
+2017-11-12 22:15:29 Favorites: 58.2% at 0/sec for JamesBevanEA
+2017-11-12 22:15:31 Friends  : 99.4% at 42/sec for LMustchin
+2017-11-12 22:16:03 Tweets   : 47.4% at 41/sec for LeightonJCP
+2017-11-12 22:16:13 Favorites: 51% at 45/sec for jamescaan
+2017-11-12 22:16:24 Favorites: 56.2% at 37/sec for JayEvansPR
+2017-11-12 22:16:29 Favorites: 84.5% at 36/sec for jennydibden
+2017-11-12 22:16:45 Favorites: 51.9% at 44/sec for jeremyofclapham
+2017-11-12 22:16:58 Favorites: 59.1% at 39/sec for jimf58a
+2017-11-12 22:16:58 Favorites: User JLRPR has a protected account or no Favoritess to collect so skipping
+2017-11-12 22:17:19 Favorites: 52.8% at 38/sec for Joanna_Abeyie
+2017-11-12 22:17:22 Friends  : 99.3% at 38/sec for londonchamber
+2017-11-12 22:17:22 Friends  : Waiting for 5.9 minutes
+2017-11-12 22:17:26 Tweets   : 51.4% at 39/sec for Leonardo_Sec
+2017-11-12 22:18:15 Favorites: 50.2% at 43/sec for John__Field
+2017-11-12 22:18:22 Favorites: 64.8% at 39/sec for JonathanLedger
+2017-11-12 22:18:23 Favorites: Waiting for 12.1 minutes due to : Used up allowance in a loop
+2017-11-12 22:18:46 Tweets   : 3% at 40/sec for Lifelandlady
+2017-11-12 22:19:13 Tweets   : 99.7% at 33/sec for LMustchin
+2017-11-12 22:20:31 Tweets   : 37.4% at 41/sec for londonchamber
+2017-11-12 22:21:06 Tweets   : 99.1% at 45/sec for MADESignEvents
+2017-11-12 22:22:11 Tweets   : 16.6% at 49/sec for MamaEdenandMe
+2017-11-12 22:23:17 Tweets   : 46.3% at 49/sec for mancypino
+2017-11-12 22:23:42 Friends  : 99.3% at 2/sec for MADESignEvents
+2017-11-12 22:24:25 Tweets   : 48.4% at 47/sec for MandieGower
+2017-11-12 22:24:57 Friends  : 94.3% at 36/sec for MamaEdenandMe
+2017-11-12 22:25:21 Friends  : 99.8% at 33/sec for mancypino
+2017-11-12 22:25:40 Tweets   : 59.6% at 42/sec for marcheshub
+2017-11-12 22:25:53 Friends  : 98.8% at 35/sec for MandieGower
+2017-11-12 22:26:37 Friends  : 98.1% at 35/sec for marcheshub
+2017-11-12 22:30:50 Favorites: 100% at 0/sec for JoyceOwhh
+2017-11-12 22:31:00 Favorites: 56.6% at 40/sec for judithporter123
+2017-11-12 22:31:01 Favorites: 53.5% at 79/sec for JWZ_for_SMEs
+2017-11-12 22:31:30 Favorites: 49.9% at 44/sec for KevinBaughan
+2017-11-12 22:31:31 Favorites: 100% at 59/sec for laboratorynews
+2017-11-12 22:31:32 Favorites: 95.5% at 33/sec for lauraharbidge
+2017-11-12 22:31:32 Favorites: 100% at 49/sec for LeightonJCP
+2017-11-12 22:31:47 Favorites: 50.6% at 39/sec for Leonardo_Sec
+2017-11-12 22:32:58 Favorites: 5.3% at 46/sec for Lifelandlady
+2017-11-12 22:33:19 Favorites: 51.7% at 47/sec for LMustchin
+2017-11-12 22:33:28 Favorites: Waiting for 12.3 minutes due to : Used up allowance in a loop
+2017-11-12 22:46:16 Favorites: 56.3% at 1/sec for londonchamber
+2017-11-12 22:46:17 Favorites: 53.5% at 70/sec for MADESignEvents
+2017-11-12 22:46:37 Favorites: 41.2% at 45/sec for MamaEdenandMe
+2017-11-12 22:46:57 Favorites: 48.7% at 42/sec for mancypino
+2017-11-12 22:47:03 Favorites: 71.4% at 47/sec for MandieGower
+2017-11-12 22:47:16 Favorites: 59.1% at 47/sec for marcheshub
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+R version 3.4.1 
+Warning message:
+package 'twitteR' was built under R version 3.4.1 

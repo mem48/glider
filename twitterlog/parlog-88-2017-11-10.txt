@@ -1,0 +1,168 @@
+starting worker pid=17656 on localhost:11045 at 02:46:25.606
+starting worker pid=16136 on localhost:11045 at 02:46:25.775
+starting worker pid=5776 on localhost:11045 at 02:46:25.938
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-10 02:47:16 Friends  : 98.3% at 33/sec for FSBWessex
+Error in twInterfaceObj$doAPICall(paste("users", "show", sep = "/"), params = params,  : 
+  Not Found (HTTP 404).
+In addition: Warning message:
+package 'twitteR' was built under R version 3.4.1 
+2017-11-10 02:47:17 Friends: Unable to find account gramukgreen moving to next
+2017-11-10 02:47:17 Friends  : % at /sec for gramukgreen
+2017-11-10 02:47:46 Favorites: 100% at 23/sec for FSBWessex
+2017-11-10 02:47:46 Favorites: User gramukgreen has a protected account or no Favoritess to collect so skipping
+2017-11-10 02:47:57 Friends  : 98.3% at 44/sec for ICLEImx
+2017-11-10 02:48:05 Friends  : 99% at 40/sec for Irene_Maffini
+2017-11-10 02:48:09 Friends  : 99.3% at 33/sec for markinnovate
+2017-11-10 02:48:11 Friends  : 100% at 32/sec for matt_kitching
+2017-11-10 02:48:13 Favorites: 50.6% at 40/sec for ICLEImx
+2017-11-10 02:48:15 Favorites: Waiting for 9.6 minutes due to : Used up allowance in a loop
+2017-11-10 02:48:26 Friends  : 98.9% at 43/sec for MitieWaste
+2017-11-10 02:48:32 Friends  : 100% at 41/sec for PompeianOils
+2017-11-10 02:49:26 Friends  : 98.9% at 43/sec for RivieraMaritime
+2017-11-10 02:49:31 Tweets   : 20.2% at 48/sec for FSBWessex
+2017-11-10 02:49:31 Tweets   : User gramukgreen has a protected account or no Tweetss to collect so skipping
+2017-11-10 02:50:42 Tweets   : 46.9% at 45/sec for ICLEImx
+2017-11-10 02:50:43 Friends  : 99.1% at 41/sec for SBrandsAfrica
+2017-11-10 02:50:51 Tweets   : 100% at 22/sec for Irene_Maffini
+2017-11-10 02:51:16 Friends  : 98.2% at 38/sec for screuheras
+2017-11-10 02:51:23 Tweets   : 99.8% at 40/sec for markinnovate
+2017-11-10 02:51:30 Tweets   : 100% at 4/sec for matt_kitching
+2017-11-10 02:51:53 Tweets   : 99.9% at 38/sec for MitieWaste
+2017-11-10 02:51:54 Friends  : 98.5% at 39/sec for Sentridge
+2017-11-10 02:51:58 Friends  : 100% at 35/sec for simonretallack
+2017-11-10 02:52:08 Friends  : 95.5% at 37/sec for TEToday
+2017-11-10 02:52:27 Friends  : 99.8% at 34/sec for TheENDSReport
+2017-11-10 02:52:28 Friends  : 100% at 18/sec for thermozoneuk
+2017-11-10 02:52:28 Friends  : Waiting for 9.7 minutes
+2017-11-10 02:52:42 Tweets   : 99.9% at 47/sec for PompeianOils
+2017-11-10 02:53:53 Tweets   : 34% at 45/sec for RivieraMaritime
+2017-11-10 02:54:59 Tweets   : 25% at 48/sec for SBrandsAfrica
+2017-11-10 02:56:10 Tweets   : 73.2% at 45/sec for screuheras
+2017-11-10 02:56:58 Tweets   : 100% at 45/sec for Sentridge
+2017-11-10 02:57:06 Tweets   : 100% at 11/sec for simonretallack
+2017-11-10 02:58:04 Favorites: 58.4% at 1/sec for Irene_Maffini
+2017-11-10 02:58:07 Favorites: 53.2% at 44/sec for markinnovate
+2017-11-10 02:58:07 Favorites: 100% at 40/sec for matt_kitching
+2017-11-10 02:58:12 Favorites: 56.5% at 46/sec for MitieWaste
+2017-11-10 02:58:17 Tweets   : 98.7% at 45/sec for TEToday
+2017-11-10 02:58:18 Favorites: 56.3% at 46/sec for PompeianOils
+2017-11-10 02:58:27 Favorites: 57.5% at 46/sec for RivieraMaritime
+2017-11-10 02:58:33 Favorites: 51.9% at 51/sec for SBrandsAfrica
+2017-11-10 02:58:41 Favorites: 63.5% at 46/sec for screuheras
+2017-11-10 02:58:43 Favorites: 97% at 43/sec for Sentridge
+2017-11-10 02:58:44 Favorites: 100% at 43/sec for simonretallack
+2017-11-10 02:58:46 Favorites: 98.8% at 40/sec for TEToday
+2017-11-10 02:58:47 Favorites: 100% at 50/sec for TheENDSReport
+2017-11-10 02:58:47 Favorites: User thermozoneuk has a protected account or no Favoritess to collect so skipping
+2017-11-10 02:58:50 Favorites: 70.4% at 44/sec for tmhutchings
+2017-11-10 02:59:21 Favorites: 52% at 43/sec for ukinbrazil
+2017-11-10 02:59:22 Tweets   : 36.2% at 49/sec for TheENDSReport
+2017-11-10 02:59:25 Favorites: 100% at 23/sec for AstinsNews
+2017-11-10 02:59:25 Favorites: 100% at 22/sec for beX_global
+2017-11-10 02:59:31 Tweets   : 100% at 21/sec for thermozoneuk
+2017-11-10 02:59:38 Favorites: 58.7% at 46/sec for BIM_PLUS
+2017-11-10 02:59:38 Favorites: User CollingdonUK has a protected account or no Favoritess to collect so skipping
+2017-11-10 02:59:51 Favorites: 49.9% at 45/sec for ConstructorsW
+2017-11-10 02:59:56 Favorites: 53.8% at 42/sec for Duprezconsult
+2017-11-10 03:00:08 Tweets   : 100% at 40/sec for tmhutchings
+2017-11-10 03:00:25 Favorites: 51.4% at 47/sec for Fletchian66
+2017-11-10 03:00:36 Favorites: Waiting for 12.4 minutes due to : Used up allowance in a loop
+2017-11-10 03:01:24 Tweets   : 16.3% at 42/sec for ukinbrazil
+2017-11-10 03:01:46 Tweets   : 100% at 43/sec for AstinsNews
+2017-11-10 03:01:53 Tweets   : 100% at 8/sec for beX_global
+2017-11-10 03:03:02 Tweets   : 73.7% at 46/sec for BIM_PLUS
+2017-11-10 03:03:04 Friends  : 99.6% at 3/sec for tmhutchings
+2017-11-10 03:03:24 Friends  : 98.8% at 42/sec for ukinbrazil
+2017-11-10 03:03:33 Friends  : 99.5% at 41/sec for AstinsNews
+2017-11-10 03:03:35 Friends  : 95.6% at 21/sec for beX_global
+2017-11-10 03:04:09 Tweets   : 43.5% at 47/sec for CollingdonUK
+2017-11-10 03:04:53 Tweets   : 99.8% at 36/sec for ConstructorsW
+2017-11-10 03:05:09 Friends  : 96.9% at 40/sec for BIM_PLUS
+2017-11-10 03:05:21 Tweets   : 100% at 32/sec for Duprezconsult
+2017-11-10 03:05:34 Friends  : 100% at 39/sec for CollingdonUK
+2017-11-10 03:06:30 Tweets   : 26.4% at 46/sec for Fletchian66
+2017-11-10 03:06:32 Friends  : 99.2% at 35/sec for ConstructorsW
+2017-11-10 03:06:44 Friends  : 98.6% at 44/sec for Duprezconsult
+2017-11-10 03:07:31 Friends  : 99.4% at 43/sec for Fletchian66
+2017-11-10 03:07:37 Tweets   : 19.7% at 47/sec for MyKindaFuture
+2017-11-10 03:08:56 Tweets   : 59.9% at 41/sec for nawicuk
+2017-11-10 03:09:49 Tweets   : 100% at 45/sec for Silvertonprop
+2017-11-10 03:09:54 Friends  : 99.2% at 39/sec for MyKindaFuture
+2017-11-10 03:09:58 Friends  : 97.9% at 47/sec for nawicuk
+2017-11-10 03:10:05 Friends  : 100% at 42/sec for Silvertonprop
+2017-11-10 03:10:34 Friends  : 99.9% at 44/sec for Simons_Group
+2017-11-10 03:10:49 Tweets   : 99.6% at 47/sec for Simons_Group
+2017-11-10 03:11:22 Friends  : 100% at 49/sec for SoMeLeaders
+2017-11-10 03:11:22 Friends  : Waiting for 6 minutes
+2017-11-10 03:11:56 Tweets   : 76.1% at 48/sec for SoMeLeaders
+2017-11-10 03:12:09 Tweets   : 100% at 25/sec for ThompsonHCL16
+2017-11-10 03:12:57 Tweets   : 99.9% at 42/sec for UKAntiSlavery
+2017-11-10 03:13:18 Tweets   : 99.8% at 28/sec for ApexAnglia
+2017-11-10 03:13:59 Favorites: 50% at 3/sec for MyKindaFuture
+2017-11-10 03:14:08 Favorites: 59.9% at 43/sec for nawicuk
+2017-11-10 03:14:08 Favorites: User Silvertonprop has a protected account or no Favoritess to collect so skipping
+2017-11-10 03:14:19 Tweets   : 20.6% at 52/sec for BarbourNews
+2017-11-10 03:14:23 Favorites: 56.3% at 45/sec for Simons_Group
+2017-11-10 03:14:24 Favorites: 100% at 16/sec for SoMeLeaders
+2017-11-10 03:14:37 Favorites: 59.4% at 47/sec for ThompsonHCL16
+2017-11-10 03:14:42 Tweets   : 100% at 42/sec for BuckleysLtd
+2017-11-10 03:14:50 Favorites: 55.1% at 45/sec for UKAntiSlavery
+2017-11-10 03:14:50 Favorites: 100% at 10/sec for ApexAnglia
+2017-11-10 03:14:54 Tweets   : 100% at 27/sec for constructhealth
+2017-11-10 03:14:59 Favorites: 52.7% at 45/sec for BarbourNews
+2017-11-10 03:15:00 Favorites: 100% at 55/sec for BuckleysLtd
+2017-11-10 03:15:02 Favorites: 52.9% at 45/sec for constructhealth
+2017-11-10 03:15:03 Favorites: 100% at 46/sec for dfrroofing
+2017-11-10 03:15:05 Favorites: 102.9% at 23/sec for EasiDec
+2017-11-10 03:15:05 Tweets   : 100% at 24/sec for dfrroofing
+2017-11-10 03:15:06 Favorites: 95.3% at 48/sec for EJOTUK_Building
+2017-11-10 03:15:07 Favorites: 100% at 27/sec for ERRTG01
+2017-11-10 03:15:08 Favorites: 51.3% at 72/sec for EverlastGroup
+2017-11-10 03:15:16 Favorites: 61.2% at 42/sec for fcamagazine
+2017-11-10 03:15:25 Favorites: 52% at 43/sec for fffphysio
+2017-11-10 03:15:26 Favorites: 100% at 43/sec for gbakerroofing
+2017-11-10 03:15:28 Favorites: 50.3% at 46/sec for ICBCharllotte
+2017-11-10 03:15:28 Tweets   : 100% at 41/sec for EasiDec
+2017-11-10 03:15:34 Favorites: 62.2% at 50/sec for ICBMikeWilliams
+2017-11-10 03:15:35 Favorites: 100% at 36/sec for JohnBrashTimber
+2017-11-10 03:15:37 Tweets   : 97.9% at 16/sec for EJOTUK_Building
+2017-11-10 03:15:41 Favorites: Waiting for 12.5 minutes due to : Used up allowance in a loop
+2017-11-10 03:15:52 Tweets   : 100% at 35/sec for ERRTG01
+2017-11-10 03:16:58 Tweets   : 94.8% at 48/sec for EverlastGroup
+2017-11-10 03:17:37 Friends  : 98% at 1/sec for ThompsonHCL16
+2017-11-10 03:18:01 Friends  : 99.4% at 49/sec for UKAntiSlavery
+2017-11-10 03:18:06 Friends  : 99.5% at 37/sec for ApexAnglia
+2017-11-10 03:18:08 Tweets   : 87.1% at 46/sec for fcamagazine
+2017-11-10 03:18:37 Tweets   : 99.5% at 46/sec for fffphysio
+2017-11-10 03:18:47 Tweets   : 100% at 25/sec for gbakerroofing
+2017-11-10 03:18:55 Tweets   : 100% at 16/sec for ICBCharllotte
+2017-11-10 03:19:22 Tweets   : 100% at 39/sec for ICBMikeWilliams
+2017-11-10 03:19:45 Tweets   : 100% at 40/sec for JohnBrashTimber
+2017-11-10 03:20:19 Tweets   : 98.5% at 40/sec for Johnmercer3
+2017-11-10 03:20:20 Friends  : 97.2% at 47/sec for BarbourNews
+2017-11-10 03:20:29 Tweets   : 100% at 25/sec for KM_Leadwork
+2017-11-10 03:21:48 Friends  : 97.9% at 45/sec for BuckleysLtd
+2017-11-10 03:21:53 Friends  : 97.8% at 40/sec for constructhealth
+2017-11-10 03:22:02 Friends  : 100% at 32/sec for dfrroofing
+2017-11-10 03:22:12 Friends  : 97.7% at 47/sec for EasiDec
+2017-11-10 03:22:14 Friends  : 100% at 27/sec for EJOTUK_Building
+2017-11-10 03:22:19 Friends  : 97.6% at 43/sec for ERRTG01
+2017-11-10 03:22:59 Friends  : 97.7% at 50/sec for EverlastGroup
+2017-11-10 03:23:53 Friends  : 99.6% at 50/sec for fcamagazine
+2017-11-10 03:24:13 Friends  : 99% at 44/sec for fffphysio
+2017-11-10 03:24:28 Friends  : 100% at 45/sec for gbakerroofing
+2017-11-10 03:24:28 Friends  : Waiting for 8.1 minutes
+2017-11-10 03:28:21 Favorites: 47.3% at 0/sec for Johnmercer3
+2017-11-10 03:28:25 Favorites: 88.8% at 48/sec for KM_Leadwork
+2017-11-10 03:32:40 Friends  : 100% at 0/sec for ICBCharllotte
+2017-11-10 03:33:05 Friends  : 99.2% at 47/sec for ICBMikeWilliams
+2017-11-10 03:33:22 Friends  : 100% at 48/sec for JohnBrashTimber
+2017-11-10 03:33:43 Friends  : 98.6% at 45/sec for Johnmercer3
+2017-11-10 03:33:47 Friends  : 96.6% at 39/sec for KM_Leadwork
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+Warning message:
+package 'twitteR' was built under R version 3.4.1 

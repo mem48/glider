@@ -1,0 +1,61 @@
+starting worker pid=4700 on localhost:11045 at 10:47:52.787
+starting worker pid=3052 on localhost:11045 at 10:47:52.950
+starting worker pid=5412 on localhost:11045 at 10:47:53.115
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-14 10:50:27 Friends  : 90.7% at 47/sec for McguiganRoofin1
+2017-11-14 10:50:40 Friends  : 98% at 11/sec for MercerScaff
+Error in twInterfaceObj$doAPICall(paste("users", "show", sep = "/"), params = params,  : 
+  Not Found (HTTP 404).
+In addition: Warning message:
+package 'twitteR' was built under R version 3.4.1 
+2017-11-14 10:50:40 Friends: Unable to find account Michael_10X moving to next
+2017-11-14 10:50:40 Friends  : % at /sec for Michael_10X
+2017-11-14 10:51:59 Friends  : 96.6% at 30/sec for MorleyGlassGlaz
+2017-11-14 10:52:04 Friends  : 97.2% at 24/sec for multiscaffltd
+2017-11-14 10:52:12 Friends  : 92.8% at 31/sec for obrienscaffold
+starting worker pid=388 on localhost:11241 at 11:26:15.607
+starting worker pid=5804 on localhost:11241 at 11:26:15.796
+starting worker pid=5288 on localhost:11241 at 11:26:15.952
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-14 11:26:19 Favorites: 100% at 45/sec for McguiganRoofin1
+2017-11-14 11:26:20 Friends  : 90.7% at 44/sec for McguiganRoofin1
+2017-11-14 11:26:20 Favorites: 70.2% at 59/sec for MercerScaff
+2017-11-14 11:26:21 Favorites: 100% at 27/sec for Michael_10X
+2017-11-14 11:26:23 Friends  : 98% at 43/sec for MercerScaff
+Error in twInterfaceObj$doAPICall(paste("users", "show", sep = "/"), params = params,  : 
+  Not Found (HTTP 404).
+In addition: Warning message:
+package 'twitteR' was built under R version 3.4.1 
+2017-11-14 11:26:24 Friends: Unable to find account Michael_10X moving to next
+2017-11-14 11:26:24 Friends  : % at /sec for Michael_10X
+2017-11-14 11:26:24 Tweets   : 100% at 7/sec for McguiganRoofin1
+2017-11-14 11:26:32 Tweets   : 100% at 24/sec for MercerScaff
+2017-11-14 11:26:38 Tweets   : 100% at 7/sec for Michael_10X
+2017-11-14 11:26:39 Favorites: 53.1% at 60/sec for MorleyGlassGlaz
+2017-11-14 11:26:44 Favorites: 70.2% at 58/sec for multiscaffltd
+2017-11-14 11:26:47 Favorites: 61.6% at 65/sec for obrienscaffold
+2017-11-14 11:26:48 Favorites: 100% at 21/sec for pellowroofing
+2017-11-14 11:26:48 Favorites: 100% at 18/sec for Picklesroofing
+2017-11-14 11:26:52 Favorites: 67.5% at 57/sec for PracticalRoofCo
+2017-11-14 11:26:55 Favorites: 79.6% at 64/sec for RandRMag
+2017-11-14 11:26:55 Favorites: 90.9% at 21/sec for rcroofingltd
+2017-11-14 11:26:56 Favorites: 100% at 7/sec for roof_line
+2017-11-14 11:26:57 Favorites: 51.8% at 59/sec for RoofingArden
+2017-11-14 11:26:58 Favorites: 100% at 53/sec for RoofingMW
+2017-11-14 11:27:00 Favorites: 100% at 51/sec for RoofingOakleaf
+2017-11-14 11:27:00 Favorites: User roofingsalford has a protected account or no Favoritess to collect so skipping
+2017-11-14 11:27:01 Favorites: 100% at 54/sec for rooflightSOLS
+2017-11-14 11:27:01 Friends  : 96.6% at 62/sec for MorleyGlassGlaz
+2017-11-14 11:27:02 Favorites: 103.4% at 29/sec for RoofMegastore
+2017-11-14 11:27:02 Favorites: User RSLRoofing has a protected account or no Favoritess to collect so skipping
+2017-11-14 11:27:02 Favorites: 100% at 14/sec for salmon_group
+2017-11-14 11:27:04 Favorites: 100% at 47/sec for samrogan77
+2017-11-14 11:27:05 Friends  : 97.2% at 39/sec for multiscaffltd
+2017-11-14 11:27:05 Tweets   : 99.7% at 61/sec for MorleyGlassGlaz
+2017-11-14 11:27:09 Friends  : 92.8% at 50/sec for obrienscaffold
+2017-11-14 11:27:14 Favorites: 49.6% at 60/sec for simtay26
+2017-11-14 11:27:16 Tweets   : 99.7% at 32/sec for multiscaffltd

@@ -1,0 +1,172 @@
+starting worker pid=7752 on localhost:11045 at 10:12:08.916
+starting worker pid=19176 on localhost:11045 at 10:12:09.072
+starting worker pid=19992 on localhost:11045 at 10:12:09.235
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-11 10:13:36 Friends  : 98.9% at 32/sec for Stephen_EvansUK
+2017-11-11 10:13:52 Friends  : 99.3% at 36/sec for StuGoulden
+2017-11-11 10:13:59 Friends  : 100% at 36/sec for SueCollins13
+2017-11-11 10:14:14 Friends  : 100% at 45/sec for TelegraphNews
+2017-11-11 10:14:33 Favorites: 50.4% at 37/sec for Stephen_EvansUK
+2017-11-11 10:14:41 Favorites: 62.1% at 25/sec for StuGoulden
+2017-11-11 10:14:43 Favorites: 95.2% at 9/sec for SueCollins13
+2017-11-11 10:14:44 Favorites: 100% at 44/sec for TelegraphNews
+2017-11-11 10:14:56 Favorites: 51.7% at 30/sec for thefabians
+2017-11-11 10:15:07 Favorites: Waiting for 7.3 minutes due to : Used up allowance in a loop
+2017-11-11 10:15:34 Friends  : 99.4% at 41/sec for thefabians
+2017-11-11 10:15:48 Friends  : 100% at 47/sec for TheInfoDaily
+2017-11-11 10:16:54 Tweets   : 32% at 44/sec for Stephen_EvansUK
+2017-11-11 10:18:04 Tweets   : 18% at 46/sec for StuGoulden
+2017-11-11 10:18:47 Tweets   : 100% at 42/sec for SueCollins13
+2017-11-11 10:19:06 Friends  : 99.9% at 40/sec for theRSAorg
+2017-11-11 10:19:45 Tweets   : 1.6% at 55/sec for TelegraphNews
+2017-11-11 10:20:53 Tweets   : 13.1% at 47/sec for thefabians
+2017-11-11 10:20:55 Friends  : 99.9% at 39/sec for ThirdForceNews
+2017-11-11 10:21:12 Friends  : 99.7% at 39/sec for TimHarford
+2017-11-11 10:21:40 Friends  : 99.9% at 34/sec for TomChivers
+2017-11-11 10:21:58 Tweets   : 22.3% at 49/sec for TheInfoDaily
+2017-11-11 10:22:46 Favorites: 51.1% at 2/sec for TheInfoDaily
+2017-11-11 10:23:06 Favorites: 51.5% at 45/sec for theRSAorg
+2017-11-11 10:23:12 Tweets   : 23.5% at 43/sec for theRSAorg
+2017-11-11 10:23:18 Favorites: 49.7% at 39/sec for ThirdForceNews
+2017-11-11 10:23:23 Favorites: 64.1% at 47/sec for TimHarford
+2017-11-11 10:23:29 Friends  : 99.1% at 36/sec for tony_colville
+2017-11-11 10:23:31 Favorites: 64.1% at 47/sec for TomChivers
+2017-11-11 10:24:30 Tweets   : 9.1% at 41/sec for ThirdForceNews
+2017-11-11 10:24:45 Favorites: 19.7% at 43/sec for tony_colville
+2017-11-11 10:24:54 Friends  : 98.1% at 40/sec for TracyShildrick
+2017-11-11 10:24:56 Friends  : 100% at 30/sec for TrendsYork
+2017-11-11 10:24:56 Friends  : Waiting for 3.5 minutes
+2017-11-11 10:25:29 Favorites: Waiting for 12.2 minutes due to : Used up allowance in a loop
+2017-11-11 10:25:45 Tweets   : 8.8% at 43/sec for TimHarford
+2017-11-11 10:26:50 Tweets   : 3.4% at 49/sec for TomChivers
+2017-11-11 10:27:58 Tweets   : 10.6% at 47/sec for tony_colville
+2017-11-11 10:29:06 Tweets   : 45% at 47/sec for TracyShildrick
+2017-11-11 10:29:22 Tweets   : 100% at 37/sec for TrendsYork
+2017-11-11 10:30:37 Tweets   : 18.3% at 42/sec for UniSouthWales
+2017-11-11 10:31:25 Friends  : 98.1% at 17/sec for UniSouthWales
+2017-11-11 10:31:50 Friends  : 99.3% at 34/sec for UoLondon
+2017-11-11 10:31:56 Tweets   : 17.3% at 41/sec for UoLondon
+2017-11-11 10:33:19 Tweets   : 36.9% at 38/sec for UoMPolicy
+2017-11-11 10:33:54 Friends  : 99.7% at 36/sec for UoMPolicy
+2017-11-11 10:34:20 Friends  : 98.9% at 39/sec for vickipper
+2017-11-11 10:34:23 Tweets   : 15.4% at 50/sec for vickipper
+2017-11-11 10:35:30 Tweets   : 34.7% at 47/sec for wearesnook
+2017-11-11 10:36:39 Friends  : 99.5% at 40/sec for wearesnook
+2017-11-11 10:36:42 Tweets   : 13.2% at 45/sec for William_Bain
+2017-11-11 10:37:53 Tweets   : 82.2% at 45/sec for WonkComms
+2017-11-11 10:38:12 Favorites: 49.2% at 3/sec for TracyShildrick
+2017-11-11 10:38:12 Favorites: 100% at 3/sec for TrendsYork
+2017-11-11 10:39:12 Friends  : 99.1% at 33/sec for William_Bain
+2017-11-11 10:39:14 Tweets   : 2% at 39/sec for WOWpetition
+2017-11-11 10:39:25 Favorites: 42.4% at 43/sec for UniSouthWales
+2017-11-11 10:39:44 Tweets   : 100% at 34/sec for YCHLaura
+2017-11-11 10:39:50 Friends  : 99.8% at 30/sec for WonkComms
+2017-11-11 10:40:02 Tweets   : 98.6% at 29/sec for YorkPolReview
+2017-11-11 10:40:02 Favorites: 50.1% at 45/sec for UoLondon
+2017-11-11 10:40:07 Tweets   : 100% at 2/sec for 3cBuilding
+2017-11-11 10:40:15 Favorites: 51.3% at 47/sec for UoMPolicy
+2017-11-11 10:40:20 Tweets   : 100% at 23/sec for according2alan
+2017-11-11 10:40:43 Favorites: Waiting for 12.2 minutes due to : Used up allowance in a loop
+2017-11-11 10:40:43 Tweets   : 100% at 32/sec for AnnaLABCW
+2017-11-11 10:40:50 Tweets   : 100% at 8/sec for AOloyede3
+2017-11-11 10:41:09 Tweets   : 100% at 35/sec for architectoxford
+2017-11-11 10:42:23 Tweets   : 23.9% at 43/sec for bandkbuild
+2017-11-11 10:43:33 Tweets   : 17.5% at 45/sec for bathnes
+2017-11-11 10:44:45 Tweets   : 20.2% at 45/sec for bournemouthbc
+2017-11-11 10:45:32 Tweets   : 99.8% at 40/sec for brightgreens
+2017-11-11 10:46:12 Friends  : 99.9% at 35/sec for WOWpetition
+2017-11-11 10:46:26 Friends  : 97.8% at 33/sec for YCHLaura
+2017-11-11 10:46:43 Friends  : 99% at 30/sec for YorkPolReview
+2017-11-11 10:46:46 Tweets   : 62.1% at 43/sec for BuildingProjec
+2017-11-11 10:46:46 Friends  : 95.4% at 20/sec for 3cBuilding
+2017-11-11 10:46:49 Friends  : 97.6% at 26/sec for according2alan
+2017-11-11 10:47:10 Friends  : 99.3% at 29/sec for AnnaLABCW
+2017-11-11 10:47:11 Friends  : 98% at 29/sec for AOloyede3
+2017-11-11 10:47:13 Friends  : 100% at 33/sec for architectoxford
+2017-11-11 10:47:17 Tweets   : 98.6% at 36/sec for ChappellKate
+2017-11-11 10:47:23 Tweets   : 100% at 4/sec for Chief_Exec_LABC
+2017-11-11 10:47:35 Tweets   : 100% at 24/sec for CLA_Architects
+2017-11-11 10:47:48 Tweets   : 100% at 25/sec for claire_walkey
+2017-11-11 10:48:34 Friends  : 98.7% at 43/sec for bandkbuild
+2017-11-11 10:49:07 Tweets   : 24.3% at 41/sec for CllrJamesDawson
+2017-11-11 10:49:17 Tweets   : 100% at 28/sec for COLORMINIUM
+2017-11-11 10:50:20 Tweets   : 21.9% at 50/sec for Cornish_Bumpkin
+2017-11-11 10:50:53 Tweets   : 99.9% at 43/sec for cotswoldpark
+2017-11-11 10:52:02 Tweets   : 75.8% at 46/sec for CQBlackburn
+2017-11-11 10:52:28 Tweets   : 99.9% at 40/sec for DanRontree
+2017-11-11 10:52:34 Tweets   : 100% at 11/sec for davinder_hothi
+2017-11-11 10:53:05 Friends  : 99.9% at 34/sec for bathnes
+2017-11-11 10:53:37 Friends  : 98.2% at 31/sec for bournemouthbc
+2017-11-11 10:53:42 Favorites: 49.9% at 3/sec for vickipper
+2017-11-11 10:53:47 Tweets   : 50.8% at 44/sec for DMPhotoLtd
+2017-11-11 10:54:16 Friends  : 99.6% at 33/sec for brightgreens
+2017-11-11 10:54:31 Favorites: 49.5% at 44/sec for wearesnook
+2017-11-11 10:55:02 Tweets   : 13.9% at 43/sec for Essex_CC
+2017-11-11 10:55:11 Favorites: 49.7% at 42/sec for William_Bain
+2017-11-11 10:55:12 Tweets   : 100% at 21/sec for FJacksonHomes
+2017-11-11 10:55:15 Favorites: 94.8% at 48/sec for WonkComms
+2017-11-11 10:56:07 Favorites: Waiting for 12.2 minutes due to : Used up allowance in a loop
+2017-11-11 10:56:13 Friends  : 99.4% at 39/sec for BuildingProjec
+2017-11-11 10:56:16 Tweets   : 99.7% at 40/sec for ForticreteLtd
+2017-11-11 10:56:42 Friends  : 100% at 38/sec for ChappellKate
+Error in twInterfaceObj$doAPICall(paste("users", "show", sep = "/"), params = params,  : 
+  Not Found (HTTP 404).
+In addition: Warning message:
+package 'twitteR' was built under R version 3.4.1 
+2017-11-11 10:56:43 Friends: Unable to find account Chief_Exec_LABC moving to next
+2017-11-11 10:56:43 Friends  : % at /sec for Chief_Exec_LABC
+2017-11-11 10:56:45 Friends  : 97.9% at 45/sec for CLA_Architects
+2017-11-11 10:56:45 Friends  : Waiting for 4.5 minutes
+2017-11-11 10:57:24 Tweets   : 99.9% at 46/sec for FPAarchitects
+2017-11-11 10:58:25 Tweets   : 19.3% at 53/sec for haringeycouncil
+2017-11-11 11:01:32 Friends  : 99.7% at 1/sec for claire_walkey
+2017-11-11 11:02:57 Friends  : 98.1% at 38/sec for CllrJamesDawson
+2017-11-11 11:03:06 Friends  : 98.7% at 36/sec for COLORMINIUM
+2017-11-11 11:04:25 Friends  : 99.1% at 38/sec for Cornish_Bumpkin
+2017-11-11 11:04:51 Friends  : 99.9% at 36/sec for cotswoldpark
+2017-11-11 11:06:17 Friends  : 99.4% at 34/sec for CQBlackburn
+2017-11-11 11:06:26 Friends  : 98.4% at 40/sec for DanRontree
+2017-11-11 11:06:33 Friends  : 100% at 42/sec for davinder_hothi
+2017-11-11 11:07:30 Friends  : 99.6% at 41/sec for DMPhotoLtd
+2017-11-11 11:07:57 Friends  : 99.1% at 40/sec for Essex_CC
+2017-11-11 11:07:58 Friends  : 100% at 20/sec for FJacksonHomes
+2017-11-11 11:08:15 Friends  : 99.5% at 36/sec for ForticreteLtd
+2017-11-11 11:08:57 Favorites: 18.6% at 4/sec for WOWpetition
+2017-11-11 11:09:06 Friends  : 98.9% at 38/sec for FPAarchitects
+2017-11-11 11:09:08 Favorites: 58.9% at 43/sec for YCHLaura
+2017-11-11 11:09:11 Favorites: 65.8% at 37/sec for YorkPolReview
+2017-11-11 11:09:11 Favorites: 100% at 41/sec for 3cBuilding
+2017-11-11 11:09:12 Favorites: 100% at 5/sec for according2alan
+2017-11-11 11:09:12 Favorites: 100% at 44/sec for AnnaLABCW
+2017-11-11 11:09:13 Favorites: 100% at 53/sec for AOloyede3
+2017-11-11 11:09:18 Favorites: 90% at 44/sec for architectoxford
+2017-11-11 11:09:36 Friends  : 98.3% at 37/sec for haringeycouncil
+2017-11-11 11:10:27 Favorites: 22.5% at 46/sec for bandkbuild
+2017-11-11 11:10:43 Favorites: 52.3% at 44/sec for bathnes
+2017-11-11 11:10:56 Favorites: 50.2% at 47/sec for bournemouthbc
+2017-11-11 11:10:57 Favorites: 96.2% at 71/sec for brightgreens
+2017-11-11 11:11:00 Favorites: 63.1% at 34/sec for BuildingProjec
+2017-11-11 11:11:00 Favorites: 100% at 20/sec for ChappellKate
+2017-11-11 11:11:01 Favorites: 100% at 6/sec for Chief_Exec_LABC
+2017-11-11 11:11:02 Favorites: 100% at 31/sec for CLA_Architects
+2017-11-11 11:11:06 Favorites: Waiting for 12.5 minutes due to : Used up allowance in a loop
+2017-11-11 11:23:58 Favorites: 49.9% at 1/sec for claire_walkey
+2017-11-11 11:25:09 Favorites: 45.3% at 45/sec for CllrJamesDawson
+2017-11-11 11:25:10 Favorites: 54.6% at 67/sec for COLORMINIUM
+2017-11-11 11:25:33 Favorites: 44.2% at 45/sec for Cornish_Bumpkin
+2017-11-11 11:25:37 Favorites: 82% at 46/sec for cotswoldpark
+2017-11-11 11:25:45 Favorites: 64.7% at 48/sec for CQBlackburn
+2017-11-11 11:25:53 Favorites: 50.9% at 51/sec for DanRontree
+2017-11-11 11:25:54 Favorites: 100% at 74/sec for davinder_hothi
+2017-11-11 11:25:57 Favorites: 51.8% at 37/sec for DMPhotoLtd
+2017-11-11 11:26:11 Favorites: 57.1% at 47/sec for Essex_CC
+2017-11-11 11:26:12 Favorites: 100% at 6/sec for FJacksonHomes
+2017-11-11 11:26:14 Favorites: 50.8% at 37/sec for ForticreteLtd
+2017-11-11 11:26:21 Favorites: 60.9% at 45/sec for FPAarchitects
+2017-11-11 11:26:25 Favorites: 51.2% at 49/sec for haringeycouncil
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+Warning message:
+package 'twitteR' was built under R version 3.4.1 

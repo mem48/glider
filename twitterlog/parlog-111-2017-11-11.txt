@@ -1,0 +1,170 @@
+starting worker pid=4344 on localhost:11045 at 06:23:18.826
+starting worker pid=20296 on localhost:11045 at 06:23:18.982
+starting worker pid=19256 on localhost:11045 at 06:23:19.138
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-11 06:24:28 Friends  : 100% at 38/sec for HighwaysEngland
+2017-11-11 06:24:46 Friends  : 99.1% at 30/sec for JaneEllison
+2017-11-11 06:25:15 Friends  : 99.6% at 36/sec for landg_group
+2017-11-11 06:25:29 Friends  : 98.9% at 41/sec for LeedsBS
+2017-11-11 06:25:35 Friends  : 100% at 31/sec for LSEGplc
+2017-11-11 06:25:38 Friends  : 97.4% at 23/sec for lv
+2017-11-11 06:25:40 Favorites: 50.6% at 37/sec for HighwaysEngland
+2017-11-11 06:25:47 Friends  : 100% at 37/sec for MastercardUKbiz
+2017-11-11 06:25:49 Favorites: Waiting for 7.2 minutes due to : Used up allowance in a loop
+2017-11-11 06:26:00 Friends  : 98.8% at 38/sec for MelJStride
+2017-11-11 06:26:07 Friends  : 100% at 30/sec for MorganStanley
+2017-11-11 06:26:18 Friends  : 99.2% at 35/sec for PwC_UK
+2017-11-11 06:26:30 Friends  : 100% at 33/sec for santanderuk
+2017-11-11 06:26:51 Friends  : 100% at 38/sec for Schroders
+2017-11-11 06:27:57 Tweets   : 38.2% at 44/sec for HighwaysEngland
+2017-11-11 06:28:09 Friends  : 98.1% at 36/sec for SmCreditUnion
+2017-11-11 06:28:44 Friends  : 99.9% at 44/sec for starlight_uk
+2017-11-11 06:28:52 Friends  : 99.1% at 41/sec for ukinchina
+2017-11-11 06:28:52 Friends  : Waiting for 10.7 minutes
+2017-11-11 06:29:17 Tweets   : 78.5% at 40/sec for JaneEllison
+2017-11-11 06:30:23 Tweets   : 57.9% at 48/sec for landg_group
+2017-11-11 06:30:59 Tweets   : 100% at 54/sec for LeedsBS
+2017-11-11 06:31:25 Tweets   : 99.8% at 44/sec for LSEGplc
+2017-11-11 06:32:24 Tweets   : 67.6% at 55/sec for lv
+2017-11-11 06:33:01 Tweets   : 99.9% at 48/sec for MastercardUKbiz
+2017-11-11 06:33:07 Tweets   : 100% at 6/sec for MelJStride
+2017-11-11 06:33:25 Favorites: 58.1% at 1/sec for JaneEllison
+2017-11-11 06:33:28 Favorites: 76.3% at 36/sec for landg_group
+2017-11-11 06:33:38 Favorites: 63.1% at 40/sec for LeedsBS
+2017-11-11 06:33:38 Favorites: User LSEGplc has a protected account or no Favoritess to collect so skipping
+2017-11-11 06:33:47 Favorites: 63.3% at 41/sec for lv
+2017-11-11 06:33:51 Favorites: 73.3% at 46/sec for MastercardUKbiz
+2017-11-11 06:33:52 Favorites: 100% at 9/sec for MelJStride
+2017-11-11 06:33:52 Favorites: 100% at 19/sec for MorganStanley
+2017-11-11 06:34:01 Favorites: 66.1% at 35/sec for PwC_UK
+2017-11-11 06:34:11 Favorites: 49.2% at 38/sec for santanderuk
+2017-11-11 06:34:12 Favorites: 100% at 23/sec for Schroders
+2017-11-11 06:34:12 Tweets   : 59.3% at 50/sec for MorganStanley
+2017-11-11 06:34:21 Favorites: 63.6% at 42/sec for SmCreditUnion
+2017-11-11 06:35:18 Favorites: 49.7% at 40/sec for starlight_uk
+2017-11-11 06:35:19 Favorites: 100% at 18/sec for ukinchina
+2017-11-11 06:35:19 Tweets   : 24% at 47/sec for PwC_UK
+2017-11-11 06:35:21 Favorites: 82% at 39/sec for UKParliament
+2017-11-11 06:35:40 Favorites: 55.3% at 42/sec for CHCymru
+2017-11-11 06:36:07 Favorites: 50.4% at 39/sec for DaveHill
+2017-11-11 06:36:10 Favorites: 57% at 34/sec for Gavhollander
+2017-11-11 06:36:13 Favorites: 63.3% at 35/sec for HousingMagazine
+2017-11-11 06:36:13 Favorites: Waiting for 12.1 minutes due to : Used up allowance in a loop
+2017-11-11 06:36:29 Tweets   : 39.2% at 46/sec for santanderuk
+2017-11-11 06:37:32 Tweets   : 100% at 48/sec for Schroders
+2017-11-11 06:38:35 Tweets   : 91.3% at 50/sec for SmCreditUnion
+2017-11-11 06:39:37 Tweets   : 37.6% at 51/sec for starlight_uk
+2017-11-11 06:39:51 Friends  : 97% at 0/sec for UKParliament
+2017-11-11 06:40:16 Friends  : 99.1% at 47/sec for CHCymru
+2017-11-11 06:40:32 Tweets   : 99.9% at 48/sec for ukinchina
+2017-11-11 06:40:41 Friends  : 99.4% at 44/sec for DaveHill
+2017-11-11 06:41:04 Friends  : 99.8% at 44/sec for Gavhollander
+2017-11-11 06:41:13 Friends  : 99.7% at 42/sec for HousingMagazine
+2017-11-11 06:41:20 Friends  : 100% at 39/sec for IHDevelopment
+2017-11-11 06:41:32 Friends  : 98.4% at 41/sec for JeremySwain
+2017-11-11 06:41:39 Tweets   : 20.7% at 48/sec for UKParliament
+2017-11-11 06:42:39 Friends  : 99.8% at 42/sec for jester
+2017-11-11 06:42:51 Tweets   : 11.8% at 44/sec for CHCymru
+2017-11-11 06:43:13 Friends  : 99.5% at 44/sec for KenLoachSixteen
+2017-11-11 06:43:49 Friends  : 99.8% at 40/sec for LouiseFishe
+2017-11-11 06:43:57 Friends  : 99.7% at 38/sec for MrsParanandi
+2017-11-11 06:44:02 Tweets   : 10.7% at 45/sec for DaveHill
+2017-11-11 06:44:13 Friends  : 99.3% at 42/sec for MuirGroupHA
+2017-11-11 06:44:22 Friends  : 99.1% at 39/sec for SarahPayling
+2017-11-11 06:44:36 Friends  : 97.9% at 34/sec for sneydo
+2017-11-11 06:45:14 Friends  : 99.3% at 40/sec for SpeyeJoe
+2017-11-11 06:45:14 Tweets   : 40.4% at 45/sec for Gavhollander
+2017-11-11 06:45:14 Friends  : Waiting for 9.7 minutes
+2017-11-11 06:45:58 Tweets   : 99.9% at 54/sec for HousingMagazine
+2017-11-11 06:46:11 Tweets   : 99.8% at 34/sec for IHDevelopment
+2017-11-11 06:47:08 Tweets   : 69.9% at 56/sec for JeremySwain
+2017-11-11 06:48:11 Tweets   : 13.6% at 51/sec for jester
+2017-11-11 06:48:38 Favorites: 63.3% at 0/sec for IHDevelopment
+2017-11-11 06:48:39 Favorites: 100% at 33/sec for JeremySwain
+2017-11-11 06:49:02 Favorites: 52.6% at 33/sec for jester
+2017-11-11 06:49:20 Tweets   : 38% at 46/sec for KenLoachSixteen
+2017-11-11 06:49:32 Favorites: 13.9% at 41/sec for KenLoachSixteen
+2017-11-11 06:49:46 Favorites: 50.1% at 44/sec for LouiseFishe
+2017-11-11 06:49:53 Favorites: 55.9% at 42/sec for MrsParanandi
+2017-11-11 06:50:18 Favorites: 54.3% at 40/sec for MuirGroupHA
+2017-11-11 06:50:21 Favorites: 89.3% at 36/sec for SarahPayling
+2017-11-11 06:50:29 Tweets   : 94.2% at 46/sec for LouiseFishe
+2017-11-11 06:51:19 Favorites: 50.8% at 39/sec for sneydo
+2017-11-11 06:51:32 Tweets   : 99.3% at 45/sec for MrsParanandi
+2017-11-11 06:51:38 Favorites: Waiting for 12 minutes due to : Used up allowance in a loop
+2017-11-11 06:52:40 Tweets   : 50.2% at 47/sec for MuirGroupHA
+2017-11-11 06:53:03 Tweets   : 99.7% at 42/sec for SarahPayling
+2017-11-11 06:53:23 Tweets   : 99.5% at 42/sec for sneydo
+2017-11-11 06:54:23 Tweets   : 8.9% at 53/sec for SpeyeJoe
+2017-11-11 06:55:23 Tweets   : 94.9% at 54/sec for TeamTHT
+2017-11-11 06:56:34 Tweets   : 57.3% at 45/sec for AcasYandH
+2017-11-11 06:56:56 Friends  : 99.5% at 6/sec for TeamTHT
+2017-11-11 06:57:34 Friends  : 99.5% at 37/sec for AcasYandH
+2017-11-11 06:57:44 Tweets   : 88.2% at 45/sec for ACFoundations
+2017-11-11 06:57:58 Friends  : 99.2% at 48/sec for ACFoundations
+2017-11-11 06:58:40 Friends  : 97.6% at 45/sec for agnes_houston
+2017-11-11 06:58:50 Friends  : 99.1% at 45/sec for AlecShelbrooke
+2017-11-11 06:59:00 Tweets   : 20.7% at 42/sec for agnes_houston
+2017-11-11 06:59:11 Friends  : 100% at 44/sec for ampp3d
+2017-11-11 06:59:13 Friends  : 98.3% at 50/sec for andrewgrinnell
+2017-11-11 07:00:07 Friends  : 99.7% at 43/sec for AnjelicaSeason
+2017-11-11 07:00:15 Tweets   : 45.3% at 42/sec for AlecShelbrooke
+2017-11-11 07:00:56 Friends  : 99.8% at 43/sec for AnnaHepburnDH
+2017-11-11 07:01:01 Friends  : 98.8% at 37/sec for annita_mcveigh
+2017-11-11 07:01:19 Tweets   : 27.6% at 51/sec for ampp3d
+2017-11-11 07:01:45 Tweets   : 99.7% at 45/sec for andrewgrinnell
+2017-11-11 07:02:01 Friends  : 99.3% at 42/sec for Artsmonkey1
+2017-11-11 07:02:51 Tweets   : 33% at 49/sec for AnjelicaSeason
+2017-11-11 07:02:51 Friends  : 99.1% at 41/sec for BattellGary
+2017-11-11 07:03:03 Friends  : 99.1% at 37/sec for BBCYork
+2017-11-11 07:03:54 Tweets   : 90.5% at 50/sec for AnnaHepburnDH
+2017-11-11 07:03:58 Favorites: 51.2% at 1/sec for SpeyeJoe
+2017-11-11 07:04:03 Favorites: 94.2% at 44/sec for TeamTHT
+2017-11-11 07:04:15 Favorites: 52.3% at 34/sec for AcasYandH
+2017-11-11 07:04:33 Favorites: 54.2% at 38/sec for ACFoundations
+2017-11-11 07:04:45 Friends  : 97.6% at 40/sec for benitamatofska
+2017-11-11 07:05:03 Tweets   : 99.9% at 44/sec for annita_mcveigh
+2017-11-11 07:05:09 Friends  : 99.7% at 37/sec for BenMitchell29
+2017-11-11 07:05:09 Friends  : Waiting for 5.1 minutes
+2017-11-11 07:05:57 Favorites: 29.4% at 38/sec for agnes_houston
+2017-11-11 07:05:58 Favorites: 96.9% at 60/sec for AlecShelbrooke
+2017-11-11 07:06:07 Favorites: 53.2% at 32/sec for ampp3d
+2017-11-11 07:06:14 Favorites: 56.8% at 43/sec for andrewgrinnell
+2017-11-11 07:06:19 Tweets   : 4.4% at 43/sec for Artsmonkey1
+2017-11-11 07:06:51 Favorites: 50.5% at 40/sec for AnjelicaSeason
+2017-11-11 07:06:57 Favorites: 51% at 33/sec for AnnaHepburnDH
+2017-11-11 07:07:07 Favorites: 54.7% at 39/sec for annita_mcveigh
+2017-11-11 07:07:07 Favorites: Waiting for 11.8 minutes due to : Used up allowance in a loop
+2017-11-11 07:07:32 Tweets   : 63.3% at 44/sec for BattellGary
+2017-11-11 07:08:41 Tweets   : 11.7% at 47/sec for BBCYork
+2017-11-11 07:09:44 Tweets   : 16.9% at 51/sec for benitamatofska
+2017-11-11 07:09:52 Tweets   : 100% at 18/sec for BenMitchell29
+2017-11-11 07:11:00 Tweets   : 33.5% at 47/sec for BernardGinns
+2017-11-11 07:11:02 Friends  : 98.7% at 4/sec for BernardGinns
+2017-11-11 07:11:06 Tweets   : 100% at 14/sec for berryhannah
+2017-11-11 07:11:06 Friends  : 100% at 36/sec for berryhannah
+2017-11-11 07:11:31 Friends  : 99.7% at 37/sec for BishopPaulB
+2017-11-11 07:11:44 Friends  : 99.6% at 44/sec for BITC_Inclusion
+2017-11-11 07:11:47 Friends  : 98% at 29/sec for BrexitCentral
+2017-11-11 07:12:10 Tweets   : 72.9% at 50/sec for BishopPaulB
+2017-11-11 07:12:53 Tweets   : 99.8% at 45/sec for BITC_Inclusion
+2017-11-11 07:13:59 Tweets   : 40.4% at 48/sec for BrexitCentral
+2017-11-11 07:20:35 Favorites: 25.8% at 4/sec for Artsmonkey1
+2017-11-11 07:20:55 Favorites: 52.4% at 43/sec for BattellGary
+2017-11-11 07:21:07 Favorites: 55.2% at 43/sec for BBCYork
+2017-11-11 07:22:12 Favorites: Waiting for 12.1 minutes due to : Used up allowance in a loop
+2017-11-11 07:34:36 Favorites: 51% at 4/sec for benitamatofska
+2017-11-11 07:34:37 Favorites: 96% at 35/sec for BenMitchell29
+2017-11-11 07:34:57 Favorites: 50.1% at 39/sec for BernardGinns
+2017-11-11 07:34:57 Favorites: 100% at 5/sec for berryhannah
+2017-11-11 07:35:01 Favorites: 72.2% at 49/sec for BishopPaulB
+2017-11-11 07:35:08 Favorites: 49.9% at 43/sec for BITC_Inclusion
+2017-11-11 07:35:11 Favorites: 57.1% at 40/sec for BrexitCentral
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+Warning message:
+package 'twitteR' was built under R version 3.4.1 

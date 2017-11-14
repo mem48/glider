@@ -1,0 +1,173 @@
+starting worker pid=16844 on localhost:11045 at 18:36:39.926
+starting worker pid=9052 on localhost:11045 at 18:36:40.091
+starting worker pid=15932 on localhost:11045 at 18:36:40.251
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-08 18:37:13 Favorites: Waiting for 12.7 minutes due to : Used up allowance in a loop
+2017-11-08 18:37:35 Tweets   : 9.1% at 64/sec for InnovateMySchl
+2017-11-08 18:38:23 Tweets   : 21.3% at 67/sec for irbheating
+2017-11-08 18:39:14 Tweets   : 43.6% at 63/sec for jw_heating
+2017-11-08 18:39:23 Friends  : 97.5% at 55/sec for InnovateMySchl
+2017-11-08 18:39:53 Friends  : 92.9% at 57/sec for irbheating
+2017-11-08 18:40:01 Tweets   : 3.2% at 68/sec for LeedsNews
+2017-11-08 18:40:37 Friends  : 97.6% at 60/sec for jw_heating
+2017-11-08 18:40:53 Tweets   : 77.3% at 61/sec for MrJosephValente
+2017-11-08 18:41:37 Tweets   : 77.6% at 74/sec for NEheatingspares
+2017-11-08 18:41:52 Friends  : 99.9% at 62/sec for LeedsNews
+2017-11-08 18:42:21 Tweets   : 75.2% at 72/sec for NGNgas
+2017-11-08 18:42:30 Friends  : 98.9% at 65/sec for MrJosephValente
+2017-11-08 18:42:52 Friends  : 99.9% at 56/sec for NEheatingspares
+2017-11-08 18:43:11 Tweets   : 51.2% at 64/sec for Policy_Connect
+2017-11-08 18:43:24 Friends  : 98.6% at 55/sec for NGNgas
+2017-11-08 18:43:45 Friends  : 99.8% at 62/sec for Policy_Connect
+2017-11-08 18:43:56 Tweets   : 2.5% at 71/sec for Pumpkin2k9
+2017-11-08 18:44:41 Friends  : 96.4% at 66/sec for Pumpkin2k9
+2017-11-08 18:44:44 Tweets   : 70.5% at 66/sec for theteam
+2017-11-08 18:44:49 Friends  : 99% at 53/sec for theteam
+2017-11-08 18:45:30 Tweets   : 6.3% at 69/sec for TwinMummy30
+2017-11-08 18:45:41 Friends  : 98.8% at 59/sec for TwinMummy30
+2017-11-08 18:45:41 Tweets   : 98.9% at 32/sec for circle_uk
+2017-11-08 18:45:47 Friends  : 98.3% at 45/sec for circle_uk
+2017-11-08 18:45:57 Friends  : 98.9% at 63/sec for NewFinancialLLP
+2017-11-08 18:45:57 Friends  : User pritipatelmp has a protected account or no Friendss to collect so skipping
+2017-11-08 18:46:13 Friends  : 99.3% at 60/sec for TheCityUK
+2017-11-08 18:46:21 Tweets   : 100% at 64/sec for NewFinancialLLP
+2017-11-08 18:46:21 Tweets   : User pritipatelmp has a protected account or no Tweetss to collect so skipping
+2017-11-08 18:46:56 Friends  : 98.8% at 60/sec for seraphimaAM
+2017-11-08 18:46:56 Friends  : Waiting for 7.5 minutes
+2017-11-08 18:47:09 Tweets   : 40.5% at 67/sec for TheCityUK
+2017-11-08 18:47:56 Tweets   : 30.3% at 68/sec for seraphimaAM
+2017-11-08 18:48:21 Tweets   : 98.9% at 56/sec for Huws_Gray
+2017-11-08 18:48:31 Tweets   : 99.2% at 27/sec for ninanoonah
+2017-11-08 18:49:20 Tweets   : 33.9% at 65/sec for AndrewManson1
+2017-11-08 18:49:36 Tweets   : 99.1% at 42/sec for ASGIB
+2017-11-08 18:50:21 Tweets   : 44.3% at 70/sec for ClaireVinent
+2017-11-08 18:50:30 Tweets   : 100% at 25/sec for CRSP_LboroUni
+2017-11-08 18:50:31 Favorites: 49.7% at 3/sec for InnovateMySchl
+2017-11-08 18:51:13 Tweets   : 3.9% at 75/sec for dailyexpressuk
+2017-11-08 18:51:32 Favorites: 11.6% at 54/sec for irbheating
+2017-11-08 18:51:50 Favorites: 50.6% at 56/sec for jw_heating
+2017-11-08 18:51:51 Tweets   : 99.8% at 66/sec for dpotta
+2017-11-08 18:52:05 Favorites: 52.9% at 53/sec for LeedsNews
+2017-11-08 18:52:31 Favorites: Waiting for 12.7 minutes due to : Used up allowance in a loop
+2017-11-08 18:52:44 Tweets   : 26.5% at 60/sec for duncanshrubsole
+2017-11-08 18:53:30 Tweets   : 8.8% at 71/sec for GoodwinMJ
+2017-11-08 18:54:09 Tweets   : 99.7% at 68/sec for gordoh
+2017-11-08 18:54:56 Tweets   : 19.8% at 68/sec for HetanShah
+Error in twInterfaceObj$doAPICall(cmd, params, method, ...) : 
+  Service Unavailable (HTTP 503).
+In addition: Warning message:
+package 'twitteR' was built under R version 3.4.1 
+2017-11-08 18:55:12 Tweets: Unable to find account HomelessLink moving to next
+2017-11-08 18:55:12 Tweets   : % at /sec for HomelessLink
+2017-11-08 18:55:58 Tweets   : 25.7% at 70/sec for ifgevents
+2017-11-08 18:56:11 Friends  : 95.6% at 9/sec for Huws_Gray
+2017-11-08 18:56:14 Friends  : 98.9% at 38/sec for ninanoonah
+2017-11-08 18:56:36 Tweets   : 100% at 61/sec for incgrowth
+2017-11-08 18:56:45 Friends  : 99.6% at 58/sec for AndrewManson1
+2017-11-08 18:56:59 Friends  : 99.7% at 58/sec for ASGIB
+2017-11-08 18:57:16 Friends  : 99.7% at 52/sec for ClaireVinent
+2017-11-08 18:57:21 Friends  : 100% at 44/sec for CRSP_LboroUni
+2017-11-08 18:57:24 Tweets   : 56.6% at 66/sec for Jones_NickC
+2017-11-08 18:57:35 Tweets   : 100% at 31/sec for JRF_Jobs
+2017-11-08 18:57:50 Friends  : 100% at 55/sec for dailyexpressuk
+2017-11-08 18:58:11 Tweets   : 99.7% at 64/sec for Lottie_Morris
+2017-11-08 18:58:58 Friends  : 99.9% at 53/sec for dpotta
+2017-11-08 18:59:01 Tweets   : 25.2% at 64/sec for LSEnews
+2017-11-08 18:59:29 Friends  : 99% at 57/sec for duncanshrubsole
+2017-11-08 18:59:43 Tweets   : 99.5% at 62/sec for NEUJanetC
+2017-11-08 18:59:47 Friends  : 98.3% at 57/sec for GoodwinMJ
+2017-11-08 18:59:58 Tweets   : 99.7% at 43/sec for PSHubLeeds
+2017-11-08 19:00:05 Friends  : 99.5% at 55/sec for gordoh
+2017-11-08 19:00:36 Friends  : 99.1% at 55/sec for HetanShah
+2017-11-08 19:00:48 Tweets   : 87.6% at 64/sec for ScotCen
+2017-11-08 19:01:00 Friends  : 99.5% at 56/sec for HomelessLink
+2017-11-08 19:01:04 Friends  : 97% at 48/sec for ifgevents
+2017-11-08 19:01:04 Friends  : Waiting for 8.7 minutes
+2017-11-08 19:01:35 Tweets   : 16.8% at 68/sec for SMFthinktank
+2017-11-08 19:02:24 Tweets   : 82.3% at 66/sec for stevenburkeman
+2017-11-08 19:03:11 Tweets   : 65.4% at 67/sec for T_I_H_R
+2017-11-08 19:04:00 Tweets   : 71.9% at 65/sec for the_brc
+2017-11-08 19:04:50 Tweets   : 40.6% at 64/sec for trustforlondon
+2017-11-08 19:05:39 Tweets   : 8.2% at 65/sec for unitetheunion
+2017-11-08 19:05:47 Favorites: 50.9% at 2/sec for MrJosephValente
+2017-11-08 19:05:49 Favorites: 81.2% at 46/sec for NEheatingspares
+2017-11-08 19:05:52 Favorites: 54.8% at 56/sec for NGNgas
+2017-11-08 19:05:58 Favorites: 63.7% at 52/sec for Policy_Connect
+2017-11-08 19:06:32 Tweets   : 25.6% at 61/sec for WorkFoundation
+2017-11-08 19:06:40 Tweets   : 100% at 18/sec for apTgroupuk
+2017-11-08 19:06:49 Tweets   : 99.4% at 19/sec for ashfordhomes
+2017-11-08 19:06:57 Favorites: 25% at 55/sec for Pumpkin2k9
+2017-11-08 19:07:03 Tweets   : 99.2% at 34/sec for debcwells
+2017-11-08 19:07:14 Favorites: 53.4% at 52/sec for theteam
+2017-11-08 19:07:33 Favorites: 53.9% at 56/sec for TwinMummy30
+2017-11-08 19:07:35 Favorites: 56.6% at 55/sec for circle_uk
+2017-11-08 19:07:36 Favorites: 100% at 39/sec for NewFinancialLLP
+2017-11-08 19:07:36 Favorites: User pritipatelmp has a protected account or no Favoritess to collect so skipping
+2017-11-08 19:07:38 Favorites: 100% at 49/sec for TheCityUK
+2017-11-08 19:07:53 Favorites: Waiting for 12.8 minutes due to : Used up allowance in a loop
+2017-11-08 19:07:53 Tweets   : 78% at 63/sec for EKVDESIGN
+2017-11-08 19:10:18 Friends  : 99.6% at 2/sec for incgrowth
+2017-11-08 19:10:37 Friends  : 98.8% at 60/sec for Jones_NickC
+2017-11-08 19:10:40 Friends  : 100% at 39/sec for JRF_Jobs
+2017-11-08 19:11:11 Friends  : 99.2% at 54/sec for Lottie_Morris
+2017-11-08 19:11:31 Friends  : 99.4% at 60/sec for LSEnews
+2017-11-08 19:11:56 Friends  : 98.8% at 58/sec for NEUJanetC
+2017-11-08 19:12:06 Friends  : 99.5% at 56/sec for PSHubLeeds
+2017-11-08 19:12:30 Friends  : 99.7% at 57/sec for ScotCen
+2017-11-08 19:13:00 Friends  : 99.6% at 57/sec for SMFthinktank
+2017-11-08 19:13:11 Friends  : 99.5% at 58/sec for stevenburkeman
+2017-11-08 19:13:31 Friends  : 99.8% at 59/sec for T_I_H_R
+2017-11-08 19:14:10 Friends  : 100% at 56/sec for the_brc
+2017-11-08 19:16:01 Friends  : 95.9% at 53/sec for trustforlondon
+2017-11-08 19:16:21 Friends  : 99.8% at 47/sec for unitetheunion
+2017-11-08 19:16:21 Friends  : Waiting for 8.7 minutes
+2017-11-08 19:21:45 Favorites: 32.6% at 4/sec for seraphimaAM
+2017-11-08 19:21:51 Favorites: 57% at 57/sec for Huws_Gray
+2017-11-08 19:21:51 Favorites: 100% at 26/sec for ninanoonah
+2017-11-08 19:22:50 Favorites: 27.4% at 53/sec for AndrewManson1
+2017-11-08 19:22:54 Favorites: 95.6% at 57/sec for ASGIB
+2017-11-08 19:22:55 Favorites: 65.3% at 54/sec for ClaireVinent
+2017-11-08 19:22:56 Favorites: 100% at 4/sec for CRSP_LboroUni
+2017-11-08 19:22:56 Favorites: User dailyexpressuk has a protected account or no Favoritess to collect so skipping
+2017-11-08 19:22:59 Favorites: 81.8% at 53/sec for dpotta
+2017-11-08 19:23:14 Favorites: Waiting for 12.8 minutes due to : Used up allowance in a loop
+2017-11-08 19:25:48 Friends  : 99.4% at 3/sec for WorkFoundation
+Error in twInterfaceObj$doAPICall(paste("users", "show", sep = "/"), params = params,  : 
+  Not Found (HTTP 404).
+In addition: Warning message:
+package 'twitteR' was built under R version 3.4.1 
+2017-11-08 19:25:49 Friends: Unable to find account apTgroupuk moving to next
+2017-11-08 19:25:49 Friends  : % at /sec for apTgroupuk
+2017-11-08 19:25:50 Friends  : 100% at 12/sec for ashfordhomes
+2017-11-08 19:25:51 Friends  : 100% at 29/sec for debcwells
+2017-11-08 19:25:56 Friends  : 98.5% at 46/sec for EKVDESIGN
+2017-11-08 19:36:39 Favorites: 50.8% at 2/sec for duncanshrubsole
+2017-11-08 19:37:10 Favorites: 51.9% at 55/sec for GoodwinMJ
+2017-11-08 19:37:11 Favorites: 72.8% at 57/sec for gordoh
+2017-11-08 19:37:22 Favorites: 56% at 58/sec for HetanShah
+2017-11-08 19:37:51 Favorites: 49.8% at 57/sec for HomelessLink
+2017-11-08 19:37:52 Favorites: 100% at 57/sec for ifgevents
+2017-11-08 19:37:57 Favorites: 66.7% at 58/sec for incgrowth
+2017-11-08 19:37:59 Favorites: 97.1% at 59/sec for Jones_NickC
+2017-11-08 19:37:59 Favorites: 88.9% at 18/sec for JRF_Jobs
+2017-11-08 19:38:01 Favorites: 55% at 55/sec for Lottie_Morris
+2017-11-08 19:38:13 Favorites: 51% at 56/sec for LSEnews
+2017-11-08 19:38:20 Favorites: 57.5% at 58/sec for NEUJanetC
+2017-11-08 19:38:22 Favorites: 59.3% at 60/sec for PSHubLeeds
+2017-11-08 19:38:24 Favorites: 63.1% at 61/sec for ScotCen
+2017-11-08 19:38:30 Favorites: Waiting for 12.9 minutes due to : Used up allowance in a loop
+2017-11-08 19:51:45 Favorites: 50.5% at 1/sec for SMFthinktank
+2017-11-08 19:51:52 Favorites: 55.3% at 54/sec for stevenburkeman
+2017-11-08 19:51:55 Favorites: 67.2% at 60/sec for T_I_H_R
+2017-11-08 19:52:00 Favorites: 61.1% at 58/sec for the_brc
+2017-11-08 19:52:13 Favorites: 56.2% at 54/sec for trustforlondon
+2017-11-08 19:52:22 Favorites: 59.7% at 55/sec for unitetheunion
+2017-11-08 19:52:24 Favorites: 60.7% at 51/sec for WorkFoundation
+2017-11-08 19:52:25 Favorites: 100% at 49/sec for apTgroupuk
+2017-11-08 19:52:26 Favorites: 98.3% at 51/sec for ashfordhomes
+2017-11-08 19:52:35 Favorites: 56.3% at 56/sec for debcwells
+2017-11-08 19:52:35 Favorites: User EKVDESIGN has a protected account or no Favoritess to collect so skipping
+Warning message:
+package 'twitteR' was built under R version 3.4.1 

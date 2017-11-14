@@ -1,0 +1,172 @@
+starting worker pid=3156 on localhost:11045 at 19:11:07.982
+starting worker pid=9308 on localhost:11045 at 19:11:08.138
+starting worker pid=6116 on localhost:11045 at 19:11:08.306
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-09 19:12:15 Friends  : 98.9% at 45/sec for _Lucideon
+2017-11-09 19:12:16 Favorites: 59.7% at 27/sec for _Lucideon
+2017-11-09 19:12:27 Favorites: 50.9% at 47/sec for _NovusSolutions
+2017-11-09 19:12:29 Favorites: 73.5% at 49/sec for _TheBricks
+2017-11-09 19:12:33 Favorites: 81.5% at 44/sec for ABCBCinfo
+2017-11-09 19:12:34 Favorites: 96.9% at 40/sec for ahhealthsafety
+2017-11-09 19:12:36 Favorites: 100% at 38/sec for BorrasConstruct
+2017-11-09 19:12:38 Favorites: 81.3% at 45/sec for CABEPres
+2017-11-09 19:12:42 Favorites: 51.7% at 49/sec for calfordseaden
+2017-11-09 19:13:00 Favorites: 56% at 45/sec for CREAM_AND_BLACK
+2017-11-09 19:13:01 Favorites: 100% at 52/sec for CreateArchiTec
+2017-11-09 19:13:06 Favorites: 71.5% at 37/sec for darrenparrett
+2017-11-09 19:13:07 Favorites: 100% at 4/sec for EPLANLTD
+2017-11-09 19:13:11 Favorites: 51.7% at 43/sec for ExeterCouncil
+2017-11-09 19:13:33 Tweets   : 100% at 46/sec for _Lucideon
+2017-11-09 19:13:40 Friends  : 96.5% at 44/sec for _NovusSolutions
+2017-11-09 19:13:43 Friends  : 98.6% at 37/sec for _TheBricks
+2017-11-09 19:13:47 Favorites: Waiting for 9.9 minutes due to : Used up allowance in a loop
+2017-11-09 19:14:01 Friends  : 98.2% at 41/sec for ABCBCinfo
+Error in twInterfaceObj$doAPICall(paste("users", "show", sep = "/"), params = params,  : 
+  Not Found (HTTP 404).
+In addition: Warning message:
+package 'twitteR' was built under R version 3.4.1 
+2017-11-09 19:14:02 Friends: Unable to find account ahhealthsafety moving to next
+2017-11-09 19:14:02 Friends  : % at /sec for ahhealthsafety
+2017-11-09 19:14:09 Friends  : 100% at 42/sec for BorrasConstruct
+2017-11-09 19:14:12 Friends  : 100% at 24/sec for CABEPres
+2017-11-09 19:14:22 Friends  : 98.8% at 43/sec for calfordseaden
+2017-11-09 19:14:39 Tweets   : 65.1% at 48/sec for _NovusSolutions
+2017-11-09 19:14:46 Friends  : 99.7% at 43/sec for CREAM_AND_BLACK
+2017-11-09 19:14:54 Tweets   : 100% at 32/sec for _TheBricks
+2017-11-09 19:15:04 Tweets   : 100% at 18/sec for ABCBCinfo
+2017-11-09 19:15:15 Tweets   : 100% at 23/sec for ahhealthsafety
+2017-11-09 19:15:15 Friends  : 99.5% at 42/sec for CreateArchiTec
+2017-11-09 19:15:21 Friends  : 97.8% at 36/sec for darrenparrett
+2017-11-09 19:15:24 Friends  : 100% at 28/sec for EPLANLTD
+2017-11-09 19:15:27 Tweets   : 100% at 27/sec for BorrasConstruct
+2017-11-09 19:15:37 Tweets   : 99.5% at 20/sec for CABEPres
+2017-11-09 19:15:52 Tweets   : 100% at 31/sec for calfordseaden
+2017-11-09 19:16:04 Tweets   : 99.3% at 24/sec for CREAM_AND_BLACK
+2017-11-09 19:16:15 Tweets   : 100% at 22/sec for CreateArchiTec
+2017-11-09 19:16:26 Tweets   : 99.6% at 25/sec for darrenparrett
+2017-11-09 19:16:33 Tweets   : 100% at 6/sec for EPLANLTD
+2017-11-09 19:17:45 Tweets   : 22.6% at 44/sec for ExeterCouncil
+2017-11-09 19:18:44 Friends  : 99.6% at 37/sec for ExeterCouncil
+2017-11-09 19:18:55 Tweets   : 49.8% at 46/sec for ExploreOffsite
+2017-11-09 19:19:01 Friends  : 98.5% at 50/sec for ExploreOffsite
+2017-11-09 19:19:11 Tweets   : 99.4% at 21/sec for FSiLimited
+2017-11-09 19:19:14 Friends  : 99.3% at 44/sec for FSiLimited
+2017-11-09 19:19:15 Friends  : Waiting for 7.5 minutes
+2017-11-09 19:19:29 Tweets   : 100% at 35/sec for GOCCLtd
+2017-11-09 19:19:46 Tweets   : 100% at 33/sec for GuyCooper15
+2017-11-09 19:20:55 Tweets   : 17.9% at 47/sec for hackneycouncil
+2017-11-09 19:22:07 Tweets   : 70.4% at 44/sec for iedesign
+2017-11-09 19:23:15 Tweets   : 23.7% at 47/sec for karen8700
+2017-11-09 19:23:27 Tweets   : 100% at 23/sec for Kay_Elliott
+2017-11-09 19:23:34 Tweets   : 100% at 3/sec for MaximumTraders
+2017-11-09 19:23:59 Favorites: 51.2% at 3/sec for ExploreOffsite
+2017-11-09 19:24:01 Favorites: 91.7% at 51/sec for FSiLimited
+2017-11-09 19:24:12 Favorites: 55.5% at 46/sec for GOCCLtd
+2017-11-09 19:24:14 Favorites: 60.5% at 50/sec for GuyCooper15
+2017-11-09 19:24:33 Favorites: 50.3% at 47/sec for hackneycouncil
+2017-11-09 19:24:45 Favorites: 56.9% at 49/sec for iedesign
+2017-11-09 19:24:50 Tweets   : 23.1% at 42/sec for Merton_Council
+2017-11-09 19:25:54 Favorites: 45.2% at 46/sec for karen8700
+2017-11-09 19:25:56 Favorites: 100% at 42/sec for Kay_Elliott
+2017-11-09 19:25:56 Tweets   : 26.4% at 48/sec for MyHomebuilding
+2017-11-09 19:25:57 Favorites: 100% at 25/sec for MaximumTraders
+2017-11-09 19:25:59 Favorites: 76.3% at 49/sec for Merton_Council
+2017-11-09 19:26:34 Favorites: Waiting for 12.3 minutes due to : Used up allowance in a loop
+2017-11-09 19:27:00 Friends  : 95% at 2/sec for GOCCLtd
+2017-11-09 19:27:05 Friends  : 98.3% at 38/sec for GuyCooper15
+2017-11-09 19:27:08 Tweets   : 22.5% at 45/sec for NorthKestevenDC
+2017-11-09 19:27:16 Tweets   : 100% at 7/sec for NStonesBuilders
+2017-11-09 19:27:49 Friends  : 99.3% at 45/sec for hackneycouncil
+2017-11-09 19:28:21 Tweets   : 42.7% at 48/sec for TaylorWimpey
+2017-11-09 19:28:23 Friends  : 99.3% at 48/sec for iedesign
+2017-11-09 19:28:33 Friends  : 95.8% at 40/sec for karen8700
+2017-11-09 19:28:49 Friends  : 99.9% at 43/sec for Kay_Elliott
+2017-11-09 19:28:51 Friends  : 100% at 15/sec for MaximumTraders
+2017-11-09 19:29:27 Tweets   : 99.7% at 49/sec for Teal_Living
+2017-11-09 19:29:40 Friends  : 95.2% at 40/sec for Merton_Council
+2017-11-09 19:30:01 Tweets   : 99.8% at 39/sec for WardenConstruct
+2017-11-09 19:30:16 Tweets   : 100% at 25/sec for WCLimited
+2017-11-09 19:30:26 Friends  : 99.7% at 42/sec for MyHomebuilding
+2017-11-09 19:30:49 Friends  : 99.2% at 47/sec for NorthKestevenDC
+2017-11-09 19:30:57 Friends  : 100% at 42/sec for NStonesBuilders
+2017-11-09 19:31:00 Tweets   : 99.8% at 39/sec for WDCNorth
+2017-11-09 19:31:04 Friends  : 100% at 47/sec for TaylorWimpey
+2017-11-09 19:31:19 Friends  : 96% at 45/sec for Teal_Living
+2017-11-09 19:31:24 Friends  : 99.6% at 48/sec for WardenConstruct
+2017-11-09 19:31:38 Friends  : 99.3% at 44/sec for WCLimited
+2017-11-09 19:31:38 Friends  : Waiting for 10.2 minutes
+2017-11-09 19:32:06 Tweets   : 42.6% at 48/sec for wealdendistrict
+2017-11-09 19:32:40 Tweets   : 99.4% at 41/sec for weareWDI
+2017-11-09 19:33:58 Tweets   : 63.1% at 41/sec for WestLindseyDC
+2017-11-09 19:34:05 Tweets   : 100% at 0/sec for 24Dash
+2017-11-09 19:34:34 Tweets   : 99.9% at 46/sec for AdactusHG
+2017-11-09 19:35:41 Tweets   : 85.3% at 47/sec for aisha_vance
+2017-11-09 19:35:56 Tweets   : 99.4% at 32/sec for amyswanhsg
+2017-11-09 19:37:13 Tweets   : 53.6% at 42/sec for Angela_NSHG
+2017-11-09 19:38:01 Tweets   : 99.9% at 49/sec for AsterGroupUK
+2017-11-09 19:38:55 Tweets   : 98.8% at 48/sec for bbciowm
+2017-11-09 19:39:24 Tweets   : 100% at 37/sec for Bella_Longman
+2017-11-09 19:39:30 Favorites: 45.3% at 3/sec for MyHomebuilding
+2017-11-09 19:39:34 Favorites: 50.8% at 44/sec for NorthKestevenDC
+2017-11-09 19:39:35 Favorites: 100% at 12/sec for NStonesBuilders
+2017-11-09 19:39:39 Favorites: 60.6% at 47/sec for TaylorWimpey
+2017-11-09 19:39:40 Favorites: 100% at 43/sec for Teal_Living
+2017-11-09 19:39:51 Favorites: 58.9% at 43/sec for WardenConstruct
+2017-11-09 19:39:52 Favorites: 100% at 29/sec for WCLimited
+2017-11-09 19:40:01 Favorites: 51% at 43/sec for WDCNorth
+2017-11-09 19:40:06 Favorites: 90.4% at 43/sec for wealdendistrict
+2017-11-09 19:40:08 Favorites: 79.4% at 52/sec for weareWDI
+2017-11-09 19:40:13 Tweets   : 100% at 41/sec for CASuffolk
+2017-11-09 19:40:16 Favorites: 57% at 49/sec for WestLindseyDC
+2017-11-09 19:40:16 Favorites: User 24Dash has a protected account or no Favoritess to collect so skipping
+2017-11-09 19:40:18 Favorites: 53.8% at 52/sec for AdactusHG
+2017-11-09 19:40:22 Favorites: 61% at 44/sec for aisha_vance
+2017-11-09 19:40:23 Favorites: 100% at 62/sec for amyswanhsg
+2017-11-09 19:40:26 Tweets   : 100% at 24/sec for crhaPeter
+2017-11-09 19:40:43 Tweets   : 100% at 27/sec for CrosbyHousing
+2017-11-09 19:41:09 Favorites: 51.5% at 46/sec for Angela_NSHG
+2017-11-09 19:41:21 Favorites: 50.6% at 48/sec for AsterGroupUK
+2017-11-09 19:41:23 Favorites: 54.6% at 47/sec for bbciowm
+2017-11-09 19:41:47 Favorites: Waiting for 12.4 minutes due to : Used up allowance in a loop
+2017-11-09 19:41:50 Tweets   : 43.8% at 48/sec for DaveRogersMMCEO
+2017-11-09 19:42:18 Friends  : 98.4% at 1/sec for WDCNorth
+2017-11-09 19:42:32 Friends  : 99.4% at 44/sec for wealdendistrict
+2017-11-09 19:42:54 Friends  : 99.1% at 50/sec for weareWDI
+2017-11-09 19:43:02 Tweets   : 35.7% at 45/sec for DerwentLiving
+2017-11-09 19:43:09 Friends  : 98.8% at 51/sec for WestLindseyDC
+Error in twInterfaceObj$doAPICall(paste("users", "show", sep = "/"), params = params,  : 
+  Not Found (HTTP 404).
+2017-11-09 19:43:09 Friends: Unable to find account 24Dash moving to next
+2017-11-09 19:43:09 Friends  : % at /sec for 24Dash
+2017-11-09 19:43:17 Friends  : 99.4% at 43/sec for AdactusHG
+2017-11-09 19:43:30 Friends  : 98.1% at 44/sec for aisha_vance
+2017-11-09 19:43:40 Friends  : 99.5% at 42/sec for amyswanhsg
+2017-11-09 19:44:14 Tweets   : 2.5% at 44/sec for Documentally
+2017-11-09 19:44:33 Friends  : 99.3% at 47/sec for Angela_NSHG
+2017-11-09 19:44:58 Friends  : 98.4% at 44/sec for AsterGroupUK
+2017-11-09 19:45:21 Tweets   : 89.4% at 48/sec for EastThamesLtd
+2017-11-09 19:45:55 Friends  : 100% at 42/sec for bbciowm
+2017-11-09 19:46:03 Friends  : 98.7% at 56/sec for Bella_Longman
+2017-11-09 19:46:29 Friends  : 98% at 52/sec for CASuffolk
+2017-11-09 19:46:31 Friends  : 97.9% at 30/sec for crhaPeter
+2017-11-09 19:46:38 Friends  : 96.4% at 47/sec for CrosbyHousing
+2017-11-09 19:46:58 Friends  : 98.9% at 47/sec for DaveRogersMMCEO
+2017-11-09 19:46:58 Friends  : Waiting for 10.2 minutes
+2017-11-09 19:54:34 Favorites: 49.9% at 2/sec for Bella_Longman
+2017-11-09 19:54:42 Favorites: 57.7% at 49/sec for CASuffolk
+2017-11-09 19:54:42 Favorites: 100% at 22/sec for crhaPeter
+2017-11-09 19:54:44 Favorites: 59.2% at 51/sec for CrosbyHousing
+2017-11-09 19:55:12 Favorites: 52.6% at 49/sec for DaveRogersMMCEO
+2017-11-09 19:55:41 Favorites: 52.8% at 49/sec for DerwentLiving
+2017-11-09 19:56:49 Favorites: 33.5% at 46/sec for Documentally
+2017-11-09 19:56:53 Favorites: Waiting for 12.5 minutes due to : Used up allowance in a loop
+2017-11-09 19:57:35 Friends  : 98.6% at 2/sec for DerwentLiving
+2017-11-09 19:58:51 Friends  : 99.7% at 49/sec for Documentally
+2017-11-09 19:59:14 Friends  : 99.8% at 48/sec for EastThamesLtd
+2017-11-09 20:09:28 Favorites: 56.5% at 1/sec for EastThamesLtd
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+Warning message:
+package 'twitteR' was built under R version 3.4.1 

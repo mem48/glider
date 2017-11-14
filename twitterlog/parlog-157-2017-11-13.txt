@@ -1,0 +1,165 @@
+starting worker pid=3688 on localhost:11045 at 09:44:47.603
+starting worker pid=17696 on localhost:11045 at 09:44:47.759
+starting worker pid=17484 on localhost:11045 at 09:44:47.931
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-13 09:47:44 Friends  : 99.4% at 32/sec for constructCO2
+2017-11-13 09:47:56 Friends  : 100% at 39/sec for CoxDesignPlan
+2017-11-13 09:48:47 Friends  : 98.3% at 35/sec for EcoflorUK
+2017-11-13 09:49:30 Favorites: 100% at 12/sec for constructCO2
+2017-11-13 09:49:37 Favorites: 85.2% at 29/sec for CoxDesignPlan
+2017-11-13 09:49:41 Favorites: 67.2% at 62/sec for EcoflorUK
+2017-11-13 09:50:21 Friends  : 99.1% at 32/sec for EquityxDesign
+2017-11-13 09:51:03 Friends  : 99.8% at 31/sec for ewbuk
+2017-11-13 09:51:24 Favorites: 17.9% at 31/sec for EquityxDesign
+2017-11-13 09:52:13 Favorites: 49.7% at 34/sec for ewbuk
+2017-11-13 09:53:10 Friends  : 100% at 31/sec for FastCompany
+2017-11-13 09:53:12 Favorites: Waiting for 11.3 minutes due to : Used up allowance in a loop
+2017-11-13 09:53:21 Tweets   : 100% at 36/sec for constructCO2
+2017-11-13 09:53:41 Friends  : 99.6% at 32/sec for FhossTechnology
+2017-11-13 09:53:48 Tweets   : 99.8% at 32/sec for CoxDesignPlan
+2017-11-13 09:54:38 Tweets   : 100% at 35/sec for EcoflorUK
+2017-11-13 09:56:09 Tweets   : 13.5% at 35/sec for EquityxDesign
+2017-11-13 09:56:13 Friends  : 99.2% at 32/sec for floodandcoast
+2017-11-13 09:56:53 Friends  : 97.7% at 30/sec for GloverTom
+2017-11-13 09:57:04 Friends  : 99.4% at 28/sec for GrahamStallwood
+2017-11-13 09:57:05 Friends  : 100% at 34/sec for ground_forum
+2017-11-13 09:57:34 Tweets   : 48.4% at 37/sec for ewbuk
+2017-11-13 09:58:23 Friends  : 98.9% at 29/sec for GWDanceWriter
+2017-11-13 09:58:55 Tweets   : 1.9% at 39/sec for FastCompany
+2017-11-13 09:59:01 Friends  : 97.8% at 31/sec for Hack_Construct
+2017-11-13 09:59:56 Tweets   : 99.9% at 37/sec for FhossTechnology
+2017-11-13 10:00:17 Friends  : 98.1% at 28/sec for HDN_UK
+2017-11-13 10:01:16 Friends  : 98.2% at 26/sec for iain_murray
+2017-11-13 10:01:20 Tweets   : 99.8% at 33/sec for floodandcoast
+2017-11-13 10:01:23 Friends  : 99% at 29/sec for idacs_news
+2017-11-13 10:01:55 Tweets   : 99.6% at 31/sec for GloverTom
+2017-11-13 10:02:03 Friends  : 98.8% at 24/sec for IDEPresident
+2017-11-13 10:02:51 Tweets   : 99.8% at 31/sec for GrahamStallwood
+2017-11-13 10:02:57 Tweets   : 100% at 12/sec for ground_forum
+2017-11-13 10:04:36 Tweets   : 12% at 32/sec for GWDanceWriter
+2017-11-13 10:04:56 Tweets   : 99.6% at 25/sec for Hack_Construct
+2017-11-13 10:05:20 Favorites: 42.8% at 4/sec for FastCompany
+2017-11-13 10:05:24 Favorites: 98.9% at 21/sec for FhossTechnology
+2017-11-13 10:05:37 Favorites: 58% at 32/sec for floodandcoast
+2017-11-13 10:06:03 Favorites: 48.4% at 25/sec for GloverTom
+2017-11-13 10:06:13 Favorites: 56.6% at 42/sec for GrahamStallwood
+2017-11-13 10:06:13 Favorites: User ground_forum has a protected account or no Favoritess to collect so skipping
+2017-11-13 10:06:39 Tweets   : 99.4% at 29/sec for HDN_UK
+2017-11-13 10:07:46 Favorites: 49% at 33/sec for GWDanceWriter
+2017-11-13 10:07:52 Favorites: 68.6% at 31/sec for Hack_Construct
+2017-11-13 10:08:11 Favorites: 54% at 32/sec for HDN_UK
+2017-11-13 10:08:26 Tweets   : 38.8% at 30/sec for iain_murray
+2017-11-13 10:08:27 Favorites: Waiting for 11.3 minutes due to : Used up allowance in a loop
+2017-11-13 10:08:36 Tweets   : 100% at 14/sec for idacs_news
+2017-11-13 10:08:52 Friends  : 98.4% at 32/sec for IMcMillan
+2017-11-13 10:08:54 Friends  : 98.2% at 44/sec for InsulationNews
+2017-11-13 10:09:08 Friends  : 99.8% at 37/sec for IvorGoodsite
+2017-11-13 10:09:10 Friends  : 100% at 47/sec for iwfraser64
+2017-11-13 10:09:14 Tweets   : 99.5% at 31/sec for IDEPresident
+2017-11-13 10:09:39 Friends  : 97% at 42/sec for Lean_construct
+2017-11-13 10:09:48 Friends  : 97.8% at 42/sec for LI_SouthWest
+2017-11-13 10:09:56 Friends  : 100% at 28/sec for MargheZ18
+2017-11-13 10:10:22 Friends  : 99.6% at 36/sec for MoA_News
+2017-11-13 10:10:41 Tweets   : 1.5% at 37/sec for IMcMillan
+2017-11-13 10:11:04 Tweets   : 99.4% at 30/sec for InsulationNews
+2017-11-13 10:12:00 Tweets   : 99.7% at 33/sec for IvorGoodsite
+2017-11-13 10:12:15 Tweets   : 100% at 20/sec for iwfraser64
+2017-11-13 10:12:18 Friends  : 99.4% at 35/sec for NicolaSturgeon
+2017-11-13 10:12:25 Friends  : 98.7% at 32/sec for NigelPDavies
+2017-11-13 10:12:42 Tweets   : 100% at 32/sec for Lean_construct
+2017-11-13 10:13:18 Friends  : 99.5% at 38/sec for NivenArchitects
+2017-11-13 10:13:27 Tweets   : 100% at 32/sec for LI_SouthWest
+2017-11-13 10:13:40 Tweets   : 99.7% at 30/sec for MargheZ18
+2017-11-13 10:14:14 Friends  : 98.6% at 36/sec for NJVermeulen
+2017-11-13 10:14:19 Friends  : 99.3% at 66/sec for ODIgovuk
+2017-11-13 10:14:42 Friends  : 98.1% at 44/sec for Orla_Hegarty
+2017-11-13 10:15:02 Tweets   : 73.7% at 39/sec for MoA_News
+2017-11-13 10:15:43 Friends  : 98.5% at 41/sec for outsidewrecker4
+2017-11-13 10:16:17 Friends  : 97.8% at 41/sec for penoyreprasad
+2017-11-13 10:16:17 Friends  : Waiting for 7.7 minutes
+2017-11-13 10:16:31 Tweets   : 18.1% at 36/sec for NicolaSturgeon
+2017-11-13 10:17:51 Tweets   : 41.7% at 40/sec for NigelPDavies
+2017-11-13 10:19:20 Tweets   : 31% at 36/sec for NivenArchitects
+2017-11-13 10:20:06 Favorites: 46.7% at 1/sec for iain_murray
+2017-11-13 10:20:07 Favorites: 100% at 32/sec for idacs_news
+2017-11-13 10:20:13 Favorites: 56.7% at 31/sec for IDEPresident
+2017-11-13 10:20:18 Favorites: 60.2% at 22/sec for IMcMillan
+2017-11-13 10:20:18 Favorites: 95% at 36/sec for InsulationNews
+2017-11-13 10:20:24 Favorites: 83.2% at 34/sec for IvorGoodsite
+2017-11-13 10:20:24 Favorites: 100% at 22/sec for iwfraser64
+2017-11-13 10:20:30 Favorites: 63.5% at 34/sec for Lean_construct
+2017-11-13 10:20:33 Favorites: 84% at 67/sec for LI_SouthWest
+2017-11-13 10:20:36 Favorites: 100% at 9/sec for MargheZ18
+2017-11-13 10:20:39 Favorites: 68.9% at 67/sec for MoA_News
+2017-11-13 10:20:43 Favorites: 97.3% at 10/sec for NicolaSturgeon
+2017-11-13 10:20:58 Tweets   : 71.7% at 32/sec for NJVermeulen
+2017-11-13 10:21:31 Favorites: 51.3% at 37/sec for NigelPDavies
+2017-11-13 10:21:40 Tweets   : 99.9% at 35/sec for ODIgovuk
+2017-11-13 10:21:49 Favorites: 57.2% at 38/sec for NivenArchitects
+2017-11-13 10:22:03 Favorites: 54.5% at 42/sec for NJVermeulen
+2017-11-13 10:22:09 Favorites: 76.9% at 35/sec for ODIgovuk
+2017-11-13 10:22:58 Favorites: 49.9% at 36/sec for Orla_Hegarty
+2017-11-13 10:23:03 Tweets   : 65.4% at 38/sec for Orla_Hegarty
+2017-11-13 10:23:04 Favorites: 80.8% at 35/sec for outsidewrecker4
+2017-11-13 10:23:09 Favorites: 51.2% at 38/sec for penoyreprasad
+2017-11-13 10:23:11 Favorites: Waiting for 11.8 minutes due to : Used up allowance in a loop
+2017-11-13 10:24:27 Tweets   : 38.5% at 38/sec for outsidewrecker4
+2017-11-13 10:24:46 Tweets   : 99.6% at 28/sec for penoyreprasad
+2017-11-13 10:25:26 Friends  : 99.1% at 6/sec for primaryengineer
+2017-11-13 10:25:27 Friends  : 100% at 5/sec for PromarkMedia
+2017-11-13 10:25:54 Friends  : 99.9% at 40/sec for Reuters
+2017-11-13 10:25:59 Friends  : 98.7% at 16/sec for RThrelfall_KPMG
+2017-11-13 10:26:17 Tweets   : 63.1% at 35/sec for primaryengineer
+2017-11-13 10:26:24 Friends  : 99.5% at 37/sec for RTPIEastofEng
+2017-11-13 10:27:16 Friends  : 100% at 41/sec for specifinder
+2017-11-13 10:27:46 Tweets   : 100% at 34/sec for PromarkMedia
+2017-11-13 10:27:56 Friends  : 98.9% at 39/sec for Split2ndEvents
+2017-11-13 10:28:30 Friends  : 98.9% at 37/sec for StephenHamilNBS
+2017-11-13 10:28:56 Friends  : 97.7% at 39/sec for sue_hrd
+2017-11-13 10:29:12 Friends  : 98.2% at 37/sec for svs_vinayak
+2017-11-13 10:29:19 Tweets   : 1.4% at 35/sec for Reuters
+2017-11-13 10:29:34 Friends  : 99% at 37/sec for SWJConsulting
+2017-11-13 10:29:37 Friends  : 99.2% at 46/sec for TheIHE
+2017-11-13 10:29:44 Friends  : 99% at 28/sec for TheresaNAWIC
+2017-11-13 10:29:58 Tweets   : 99.7% at 30/sec for RThrelfall_KPMG
+2017-11-13 10:31:11 Friends  : 98.6% at 36/sec for TimberExpo
+2017-11-13 10:31:21 Tweets   : 100% at 30/sec for RTPIEastofEng
+2017-11-13 10:31:35 Friends  : 99.5% at 37/sec for Tom_Bartley
+2017-11-13 10:31:35 Friends  : Waiting for 7.6 minutes
+2017-11-13 10:32:54 Tweets   : 33.4% at 35/sec for specifinder
+2017-11-13 10:33:54 Tweets   : 99.9% at 40/sec for Split2ndEvents
+2017-11-13 10:35:14 Tweets   : 38.3% at 40/sec for StephenHamilNBS
+2017-11-13 10:35:45 Tweets   : 99.8% at 31/sec for sue_hrd
+2017-11-13 10:35:52 Favorites: 51.3% at 2/sec for primaryengineer
+2017-11-13 10:35:52 Favorites: User PromarkMedia has a protected account or no Favoritess to collect so skipping
+2017-11-13 10:36:04 Favorites: 58% at 39/sec for Reuters
+2017-11-13 10:36:04 Favorites: 100% at 34/sec for RThrelfall_KPMG
+2017-11-13 10:36:10 Favorites: 64.4% at 36/sec for RTPIEastofEng
+2017-11-13 10:36:14 Favorites: 100% at 15/sec for specifinder
+2017-11-13 10:36:20 Tweets   : 99.8% at 30/sec for svs_vinayak
+2017-11-13 10:36:40 Tweets   : 100% at 28/sec for SWJConsulting
+2017-11-13 10:36:46 Favorites: 53.4% at 37/sec for Split2ndEvents
+2017-11-13 10:37:26 Tweets   : 100% at 37/sec for TheIHE
+2017-11-13 10:37:41 Tweets   : 100% at 26/sec for TheresaNAWIC
+2017-11-13 10:38:00 Favorites: 50.1% at 37/sec for StephenHamilNBS
+2017-11-13 10:38:06 Favorites: 84% at 32/sec for sue_hrd
+2017-11-13 10:38:10 Favorites: 59.5% at 23/sec for svs_vinayak
+2017-11-13 10:38:12 Favorites: 96.2% at 67/sec for SWJConsulting
+2017-11-13 10:38:16 Favorites: 100% at 22/sec for TheIHE
+2017-11-13 10:38:17 Favorites: 87% at 55/sec for TheresaNAWIC
+2017-11-13 10:38:31 Favorites: 52.8% at 37/sec for TimberExpo
+2017-11-13 10:38:37 Favorites: Waiting for 11.7 minutes due to : Used up allowance in a loop
+2017-11-13 10:39:14 Tweets   : 63.4% at 34/sec for TimberExpo
+2017-11-13 10:40:14 Tweets   : 99.7% at 34/sec for Tom_Bartley
+2017-11-13 10:40:17 Friends  : 99.9% at 3/sec for Total_Site
+2017-11-13 10:41:38 Tweets   : 6.7% at 38/sec for Total_Site
+2017-11-13 10:50:42 Favorites: 57.7% at 1/sec for Tom_Bartley
+2017-11-13 10:50:42 Favorites: 80% at 10/sec for Total_Site
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+Warning message:
+package 'twitteR' was built under R version 3.4.1 

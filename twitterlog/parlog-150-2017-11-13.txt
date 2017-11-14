@@ -1,0 +1,167 @@
+starting worker pid=19512 on localhost:11045 at 02:47:42.313
+starting worker pid=14660 on localhost:11045 at 02:47:42.470
+starting worker pid=12632 on localhost:11045 at 02:47:42.626
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-13 02:49:54 Friends  : 100% at 34/sec for SkyNewsBiz
+2017-11-13 02:50:05 Friends  : 99.5% at 36/sec for smartroof_
+2017-11-13 02:50:29 Friends  : 95.5% at 27/sec for StockgapLtd
+2017-11-13 02:50:36 Friends  : 91.5% at 29/sec for STSUKLtd
+2017-11-13 02:50:38 Friends  : 98.4% at 54/sec for TerryTurtle30
+2017-11-13 02:51:51 Favorites: 95.8% at 29/sec for SkyNewsBiz
+2017-11-13 02:51:52 Favorites: 100% at 30/sec for smartroof_
+2017-11-13 02:51:53 Favorites: 100% at 38/sec for StockgapLtd
+2017-11-13 02:51:55 Favorites: 56.2% at 53/sec for STSUKLtd
+2017-11-13 02:51:57 Friends  : 94.3% at 36/sec for totalbuilding1
+2017-11-13 02:51:59 Favorites: 100% at 6/sec for TerryTurtle30
+2017-11-13 02:52:02 Friends  : 98.8% at 17/sec for totneseagle
+2017-11-13 02:52:03 Favorites: 64.7% at 60/sec for totalbuilding1
+2017-11-13 02:52:10 Favorites: 86.1% at 26/sec for totneseagle
+2017-11-13 02:52:11 Favorites: 100% at 12/sec for tradetoolshop
+2017-11-13 02:52:30 Favorites: 54.6% at 26/sec for tubfix
+2017-11-13 02:52:31 Favorites: 100% at 49/sec for UNIONlocks
+2017-11-13 02:52:46 Friends  : 97.8% at 34/sec for tradetoolshop
+2017-11-13 02:53:27 Friends  : 92.6% at 35/sec for tubfix
+2017-11-13 02:53:42 Friends  : 92.4% at 33/sec for UNIONlocks
+2017-11-13 02:53:53 Favorites: 49.6% at 35/sec for valleyservices_
+2017-11-13 02:54:00 Favorites: 64.3% at 42/sec for VEKA_Neil
+2017-11-13 02:54:08 Favorites: 53.7% at 46/sec for VictoriaKeylite
+2017-11-13 02:54:09 Favorites: 100% at 27/sec for VIPPolymersLtd
+2017-11-13 02:54:22 Favorites: 53.7% at 37/sec for WernerLadderUK
+2017-11-13 02:54:29 Favorites: 76.9% at 30/sec for AdeptCSCE
+2017-11-13 02:54:35 Favorites: 49.8% at 32/sec for ADPEddieWeir
+2017-11-13 02:54:43 Favorites: 56.4% at 36/sec for AirportCityUK
+2017-11-13 02:54:45 Favorites: 56.3% at 64/sec for AmyWorsley85
+2017-11-13 02:54:59 Friends  : 100% at 33/sec for valleyservices_
+Error in twInterfaceObj$doAPICall(paste("users", "show", sep = "/"), params = params,  : 
+  Not Found (HTTP 404).
+In addition: Warning message:
+package 'twitteR' was built under R version 3.4.1 
+2017-11-13 02:54:59 Friends: Unable to find account VEKA_Neil moving to next
+2017-11-13 02:54:59 Friends  : % at /sec for VEKA_Neil
+2017-11-13 02:55:10 Favorites: Waiting for 11.7 minutes due to : Used up allowance in a loop
+2017-11-13 02:55:28 Tweets   : 14% at 38/sec for SkyNewsBiz
+2017-11-13 02:55:31 Friends  : 98.3% at 36/sec for VictoriaKeylite
+2017-11-13 02:55:31 Friends  : Waiting for 2.8 minutes
+2017-11-13 02:55:58 Tweets   : 99.8% at 36/sec for smartroof_
+2017-11-13 02:56:18 Tweets   : 100% at 37/sec for StockgapLtd
+2017-11-13 02:56:53 Tweets   : 100% at 38/sec for STSUKLtd
+2017-11-13 02:56:59 Tweets   : 100% at 2/sec for TerryTurtle30
+2017-11-13 02:57:59 Tweets   : 100% at 42/sec for totalbuilding1
+2017-11-13 02:58:11 Tweets   : 99.6% at 19/sec for totneseagle
+2017-11-13 02:58:29 Tweets   : 100% at 30/sec for tradetoolshop
+2017-11-13 02:58:33 Friends  : 99.7% at 2/sec for VIPPolymersLtd
+2017-11-13 02:58:40 Friends  : 99% at 31/sec for WernerLadderUK
+2017-11-13 02:58:46 Friends  : 97.5% at 35/sec for AdeptCSCE
+2017-11-13 02:58:50 Friends  : 95.7% at 46/sec for ADPEddieWeir
+2017-11-13 02:59:00 Tweets   : 99.8% at 31/sec for tubfix
+2017-11-13 02:59:06 Friends  : 99% at 36/sec for AirportCityUK
+2017-11-13 02:59:12 Friends  : 100% at 25/sec for AmyWorsley85
+2017-11-13 02:59:21 Tweets   : 100% at 32/sec for UNIONlocks
+2017-11-13 02:59:47 Friends  : 98.7% at 37/sec for AndynBrown16
+2017-11-13 02:59:50 Friends  : 99.5% at 55/sec for AndyvonBradsky
+2017-11-13 03:00:35 Tweets   : 42.1% at 43/sec for valleyservices_
+2017-11-13 03:00:48 Tweets   : 100% at 27/sec for VEKA_Neil
+2017-11-13 03:00:49 Friends  : 99.8% at 35/sec for annascothern
+2017-11-13 03:00:54 Friends  : 99% at 20/sec for apluscrc
+2017-11-13 03:01:00 Friends  : 96.7% at 37/sec for BBCTravelAlert
+2017-11-13 03:01:04 Tweets   : 100% at 24/sec for VictoriaKeylite
+2017-11-13 03:01:15 Tweets   : 100% at 15/sec for VIPPolymersLtd
+2017-11-13 03:01:33 Friends  : 99.8% at 36/sec for BIM4FItOut
+2017-11-13 03:01:44 Tweets   : 100% at 38/sec for WernerLadderUK
+2017-11-13 03:01:59 Tweets   : 100% at 20/sec for AdeptCSCE
+2017-11-13 03:02:11 Tweets   : 100% at 18/sec for ADPEddieWeir
+2017-11-13 03:02:20 Friends  : 99.8% at 36/sec for BITC
+2017-11-13 03:02:32 Tweets   : 99.7% at 32/sec for AirportCityUK
+2017-11-13 03:02:45 Tweets   : 100% at 26/sec for AmyWorsley85
+2017-11-13 03:03:12 Friends  : 99.9% at 38/sec for Blockhaus_Holz
+2017-11-13 03:04:08 Tweets   : 25.3% at 38/sec for AndynBrown16
+2017-11-13 03:04:17 Friends  : 98.9% at 35/sec for BPIE_eu
+2017-11-13 03:04:17 Friends  : Waiting for 9.2 minutes
+2017-11-13 03:04:22 Tweets   : 100% at 19/sec for AndyvonBradsky
+2017-11-13 03:05:35 Tweets   : 19% at 44/sec for annascothern
+2017-11-13 03:05:44 Tweets   : 100% at 7/sec for apluscrc
+2017-11-13 03:06:58 Tweets   : 2.2% at 44/sec for BBCTravelAlert
+2017-11-13 03:08:13 Favorites: 39.4% at 4/sec for AndynBrown16
+2017-11-13 03:08:13 Favorites: 100% at 18/sec for AndyvonBradsky
+2017-11-13 03:08:25 Tweets   : 82.4% at 37/sec for BIM4FItOut
+2017-11-13 03:08:35 Favorites: 49.1% at 36/sec for annascothern
+2017-11-13 03:08:36 Favorites: 100% at 29/sec for apluscrc
+2017-11-13 03:09:09 Favorites: 47.7% at 34/sec for BBCTravelAlert
+2017-11-13 03:09:14 Favorites: 48% at 35/sec for BIM4FItOut
+2017-11-13 03:09:49 Tweets   : 28.1% at 38/sec for BITC
+2017-11-13 03:10:00 Favorites: 52% at 39/sec for BITC
+2017-11-13 03:10:01 Favorites: 100% at 49/sec for Blockhaus_Holz
+2017-11-13 03:10:21 Favorites: Waiting for 11.8 minutes due to : Used up allowance in a loop
+2017-11-13 03:11:07 Tweets   : 26.7% at 41/sec for Blockhaus_Holz
+2017-11-13 03:12:05 Tweets   : 99.9% at 35/sec for BPIE_eu
+2017-11-13 03:12:11 Tweets   : 100% at 1/sec for BREIPark
+2017-11-13 03:12:19 Tweets   : 100% at 2/sec for broadbentc
+2017-11-13 03:13:29 Tweets   : 99.8% at 42/sec for BSPConsLtd
+2017-11-13 03:13:43 Friends  : 100% at 0/sec for BREIPark
+2017-11-13 03:13:47 Friends  : 98.3% at 14/sec for broadbentc
+2017-11-13 03:13:56 Tweets   : 99.7% at 34/sec for Buildpositive
+2017-11-13 03:14:58 Friends  : 98.1% at 34/sec for BSPConsLtd
+2017-11-13 03:15:12 Friends  : 100% at 32/sec for Buildpositive
+2017-11-13 03:15:15 Tweets   : 22% at 40/sec for cambwireless
+2017-11-13 03:15:53 Tweets   : 99.9% at 38/sec for CharleneClear
+2017-11-13 03:16:11 Tweets   : 99.6% at 30/sec for CharlesMilano1
+2017-11-13 03:16:24 Friends  : 98.7% at 33/sec for cambwireless
+2017-11-13 03:16:48 Friends  : 99.6% at 31/sec for CharleneClear
+2017-11-13 03:17:03 Tweets   : 100% at 39/sec for CIS_Ltd_UK
+2017-11-13 03:17:06 Friends  : 97.7% at 33/sec for CharlesMilano1
+2017-11-13 03:17:12 Friends  : 99.1% at 34/sec for CIS_Ltd_UK
+2017-11-13 03:18:20 Tweets   : 99.7% at 36/sec for ClarkeConsult
+2017-11-13 03:18:22 Friends  : 99.3% at 31/sec for ClarkeConsult
+2017-11-13 03:18:29 Friends  : 98.5% at 39/sec for cr_england
+2017-11-13 03:18:38 Tweets   : 100% at 32/sec for cr_england
+2017-11-13 03:19:54 Friends  : 99.4% at 28/sec for CrocodileFS
+2017-11-13 03:20:04 Tweets   : 88.6% at 37/sec for CrocodileFS
+2017-11-13 03:20:55 Friends  : 98.7% at 38/sec for CubexLand
+2017-11-13 03:21:00 Friends  : 100% at 21/sec for DavidBallGroup
+2017-11-13 03:21:17 Friends  : 99.4% at 38/sec for DebsPullen
+2017-11-13 03:21:19 Tweets   : 100% at 36/sec for CubexLand
+2017-11-13 03:21:35 Tweets   : 100% at 26/sec for DavidBallGroup
+2017-11-13 03:21:58 Tweets   : 98.8% at 29/sec for DebsPullen
+2017-11-13 03:22:21 Friends  : 88.3% at 35/sec for DraxTechnology
+2017-11-13 03:22:21 Friends  : Waiting for 6.4 minutes
+2017-11-13 03:22:30 Tweets   : 100% at 34/sec for DraxTechnology
+2017-11-13 03:22:36 Favorites: 51.2% at 1/sec for BPIE_eu
+2017-11-13 03:22:36 Favorites: User BREIPark has a protected account or no Favoritess to collect so skipping
+2017-11-13 03:22:36 Favorites: 100% at 3/sec for broadbentc
+2017-11-13 03:22:44 Favorites: 73.1% at 41/sec for BSPConsLtd
+2017-11-13 03:22:44 Favorites: 100% at 15/sec for Buildpositive
+2017-11-13 03:23:01 Tweets   : 99.9% at 30/sec for EganReid
+2017-11-13 03:23:14 Favorites: 52.7% at 37/sec for cambwireless
+2017-11-13 03:23:16 Favorites: 74% at 72/sec for CharleneClear
+2017-11-13 03:23:26 Favorites: 62.2% at 31/sec for CharlesMilano1
+2017-11-13 03:23:27 Favorites: 100% at 58/sec for CIS_Ltd_UK
+2017-11-13 03:23:28 Favorites: 100% at 26/sec for ClarkeConsult
+2017-11-13 03:23:29 Favorites: 59.9% at 67/sec for cr_england
+2017-11-13 03:23:42 Favorites: 52.7% at 38/sec for CrocodileFS
+2017-11-13 03:24:02 Favorites: 52.8% at 39/sec for CubexLand
+2017-11-13 03:24:08 Favorites: 81.1% at 34/sec for DavidBallGroup
+2017-11-13 03:24:08 Favorites: 100% at 24/sec for DebsPullen
+2017-11-13 03:24:14 Tweets   : 99.9% at 35/sec for EmmaHowardBoyd
+2017-11-13 03:24:29 Tweets   : 100% at 19/sec for EnTech_Ltd
+2017-11-13 03:24:38 Favorites: 54.3% at 37/sec for DraxTechnology
+2017-11-13 03:24:40 Favorites: 66.7% at 63/sec for EganReid
+2017-11-13 03:24:45 Favorites: 78.5% at 36/sec for EmmaHowardBoyd
+2017-11-13 03:24:47 Favorites: 58.8% at 62/sec for EnTech_Ltd
+2017-11-13 03:24:51 Favorites: 83.3% at 24/sec for ESTAEnergy
+2017-11-13 03:24:58 Favorites: 56.2% at 43/sec for farming_for_all
+2017-11-13 03:25:12 Favorites: 50.9% at 36/sec for FireIndustry
+2017-11-13 03:25:16 Tweets   : 99.9% at 32/sec for ESTAEnergy
+2017-11-13 03:25:41 Tweets   : 99.7% at 35/sec for farming_for_all
+2017-11-13 03:26:52 Tweets   : 52.4% at 45/sec for FireIndustry
+2017-11-13 03:29:19 Friends  : 99.7% at 2/sec for EganReid
+2017-11-13 03:29:37 Friends  : 99.2% at 36/sec for EmmaHowardBoyd
+2017-11-13 03:29:39 Friends  : 100% at 44/sec for EnTech_Ltd
+2017-11-13 03:29:51 Friends  : 98.9% at 38/sec for ESTAEnergy
+2017-11-13 03:30:35 Friends  : 99.3% at 35/sec for farming_for_all
+2017-11-13 03:30:47 Friends  : 99.6% at 38/sec for FireIndustry
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+Warning message:
+package 'twitteR' was built under R version 3.4.1 

@@ -1,0 +1,170 @@
+starting worker pid=12136 on localhost:11045 at 20:19:05.716
+starting worker pid=10144 on localhost:11045 at 20:19:05.872
+starting worker pid=11888 on localhost:11045 at 20:19:06.044
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-12 20:21:44 Friends  : 99.2% at 41/sec for BritSciAssoc
+2017-11-12 20:22:03 Friends  : 99.3% at 47/sec for BTGroup
+2017-11-12 20:22:05 Friends  : 100% at 54/sec for BUILAcommittee
+2017-11-12 20:22:23 Friends  : 99.5% at 41/sec for businesstelford
+2017-11-12 20:22:47 Friends  : 99.5% at 44/sec for BVCA
+2017-11-12 20:23:02 Friends  : 98.8% at 38/sec for CareerEnt
+2017-11-12 20:23:36 Favorites: Waiting for 4.4 minutes due to : Used up allowance in a loop
+2017-11-12 20:23:44 Friends  : 99.1% at 38/sec for CarlisleCollege
+2017-11-12 20:24:21 Friends  : 98.2% at 42/sec for Catch22
+2017-11-12 20:24:36 Friends  : 99.4% at 40/sec for CBI_London
+2017-11-12 20:24:54 Friends  : 99.7% at 40/sec for Cebr_uk
+2017-11-12 20:25:53 Friends  : 99.5% at 38/sec for CharlynnePullen
+2017-11-12 20:26:04 Friends  : 99.8% at 40/sec for CHCommunityNews
+2017-11-12 20:26:05 Tweets   : 35.7% at 44/sec for BritSciAssoc
+2017-11-12 20:26:15 Friends  : 100% at 41/sec for cimspa_rt
+2017-11-12 20:27:12 Tweets   : 30.1% at 48/sec for BTGroup
+2017-11-12 20:27:41 Tweets   : 99.9% at 40/sec for BUILAcommittee
+2017-11-12 20:28:16 Friends  : 100% at 41/sec for CIPR_UK
+2017-11-12 20:28:42 Favorites: 50.4% at 9/sec for BritSciAssoc
+2017-11-12 20:29:03 Tweets   : 76.3% at 39/sec for businesstelford
+2017-11-12 20:29:03 Friends  : 100% at 39/sec for ClearSkyBiz
+2017-11-12 20:29:24 Favorites: 52.3% at 42/sec for BTGroup
+2017-11-12 20:29:32 Favorites: 66.1% at 51/sec for BUILAcommittee
+2017-11-12 20:29:39 Favorites: 51% at 44/sec for businesstelford
+2017-11-12 20:29:55 Favorites: 57.8% at 36/sec for BVCA
+2017-11-12 20:30:11 Tweets   : 57.4% at 47/sec for BVCA
+2017-11-12 20:30:18 Favorites: 50.5% at 44/sec for CareerEnt
+2017-11-12 20:30:25 Favorites: 63.1% at 45/sec for CarlisleCollege
+2017-11-12 20:30:51 Favorites: 50.5% at 41/sec for Catch22
+2017-11-12 20:30:55 Favorites: 100% at 20/sec for CBI_London
+2017-11-12 20:30:56 Favorites: 100% at 54/sec for Cebr_uk
+2017-11-12 20:30:58 Friends  : 100% at 38/sec for cmi_managers
+2017-11-12 20:30:59 Favorites: 92% at 61/sec for CharlynnePullen
+2017-11-12 20:31:03 Favorites: 56.5% at 28/sec for CHCommunityNews
+2017-11-12 20:31:03 Favorites: User cimspa_rt has a protected account or no Favoritess to collect so skipping
+2017-11-12 20:31:04 Favorites: Waiting for 12.1 minutes due to : Used up allowance in a loop
+2017-11-12 20:31:13 Friends  : 99.6% at 35/sec for constattooing
+2017-11-12 20:31:21 Tweets   : 70.9% at 46/sec for CareerEnt
+2017-11-12 20:31:37 Friends  : 98.3% at 39/sec for cornwallchamber
+2017-11-12 20:31:59 Friends  : 99.9% at 37/sec for cranfieldmngmt
+2017-11-12 20:32:04 Tweets   : 99.9% at 44/sec for CarlisleCollege
+2017-11-12 20:33:06 Friends  : 99.5% at 37/sec for Creative_Fed
+2017-11-12 20:33:06 Friends  : Waiting for 4.8 minutes
+2017-11-12 20:33:16 Tweets   : 30.3% at 45/sec for Catch22
+2017-11-12 20:33:46 Tweets   : 100% at 40/sec for CBI_London
+2017-11-12 20:34:41 Tweets   : 100% at 45/sec for Cebr_uk
+2017-11-12 20:35:11 Tweets   : 99.8% at 43/sec for CharlynnePullen
+2017-11-12 20:35:31 Tweets   : 99.5% at 32/sec for CHCommunityNews
+2017-11-12 20:35:44 Tweets   : 98.6% at 33/sec for cimspa_rt
+2017-11-12 20:36:55 Tweets   : 14.3% at 45/sec for CIPR_UK
+2017-11-12 20:38:03 Tweets   : 64.5% at 47/sec for ClearSkyBiz
+2017-11-12 20:39:16 Tweets   : 16.6% at 44/sec for cmi_managers
+2017-11-12 20:39:56 Friends  : 100% at 10/sec for CSWnews
+2017-11-12 20:40:26 Friends  : 98.8% at 34/sec for CW_LEP
+2017-11-12 20:40:31 Tweets   : 72.7% at 42/sec for constattooing
+2017-11-12 20:41:49 Tweets   : 34.9% at 41/sec for cornwallchamber
+2017-11-12 20:42:26 Friends  : 97.5% at 34/sec for David_S_Bristol
+2017-11-12 20:42:28 Friends  : 100% at 42/sec for David_SmithMgmt
+2017-11-12 20:42:51 Friends  : 98.9% at 45/sec for Debbie_RCL
+2017-11-12 20:42:58 Tweets   : 33.4% at 46/sec for cranfieldmngmt
+2017-11-12 20:43:52 Favorites: 51.5% at 1/sec for CIPR_UK
+2017-11-12 20:43:56 Favorites: 72.1% at 24/sec for ClearSkyBiz
+2017-11-12 20:44:14 Tweets   : 69.6% at 42/sec for Creative_Fed
+2017-11-12 20:44:19 Friends  : 99% at 41/sec for DelibThinks
+2017-11-12 20:44:22 Favorites: 53.4% at 43/sec for cmi_managers
+2017-11-12 20:44:32 Friends  : 99.8% at 38/sec for DeniseBertuchi
+2017-11-12 20:44:58 Favorites: 49.2% at 38/sec for constattooing
+2017-11-12 20:45:25 Tweets   : 28.3% at 45/sec for CSWnews
+2017-11-12 20:45:41 Favorites: 52.4% at 43/sec for cornwallchamber
+2017-11-12 20:45:56 Favorites: 57.7% at 48/sec for cranfieldmngmt
+2017-11-12 20:46:31 Favorites: Waiting for 12 minutes due to : Used up allowance in a loop
+2017-11-12 20:46:44 Tweets   : 87.2% at 41/sec for CW_LEP
+2017-11-12 20:47:46 Friends  : 99.3% at 38/sec for DigiCatapult
+2017-11-12 20:47:55 Friends  : 98.1% at 24/sec for dstlmod
+2017-11-12 20:47:56 Tweets   : 22.5% at 44/sec for David_S_Bristol
+2017-11-12 20:48:06 Tweets   : 100% at 13/sec for David_SmithMgmt
+2017-11-12 20:48:38 Friends  : 99.3% at 37/sec for duncsand
+2017-11-12 20:49:21 Tweets   : 35.9% at 43/sec for Debbie_RCL
+2017-11-12 20:49:44 Friends  : 98.4% at 34/sec for dundeeuni
+2017-11-12 20:49:50 Friends  : 100% at 37/sec for E4TChris
+2017-11-12 20:50:00 Friends  : 99.7% at 32/sec for EdinburghUni
+2017-11-12 20:50:39 Tweets   : 37.4% at 41/sec for DelibThinks
+2017-11-12 20:50:44 Friends  : 99.5% at 33/sec for EdinUniMedia
+2017-11-12 20:50:44 Friends  : Waiting for 2.3 minutes
+2017-11-12 20:51:40 Tweets   : 99.7% at 43/sec for DeniseBertuchi
+2017-11-12 20:52:54 Tweets   : 13.3% at 43/sec for DigiCatapult
+2017-11-12 20:53:24 Friends  : 97% at 3/sec for EEF_Apprentices
+2017-11-12 20:53:33 Tweets   : 100% at 43/sec for dstlmod
+2017-11-12 20:54:38 Tweets   : 53.2% at 50/sec for duncsand
+2017-11-12 20:55:05 Friends  : 99.1% at 34/sec for Ellen_Carroll
+2017-11-12 20:55:49 Friends  : 99.5% at 28/sec for elliecosgrave
+2017-11-12 20:55:54 Tweets   : 16.6% at 42/sec for dundeeuni
+2017-11-12 20:55:57 Friends  : 100% at 47/sec for EMA_org
+2017-11-12 20:56:19 Tweets   : 99.8% at 35/sec for E4TChris
+2017-11-12 20:56:54 Friends  : 99.9% at 41/sec for EMChamberNews
+2017-11-12 20:57:00 Friends  : 98.3% at 30/sec for EmmaFin_AAG
+2017-11-12 20:57:30 Tweets   : 55.5% at 45/sec for EdinburghUni
+2017-11-12 20:57:49 Friends  : 99.8% at 40/sec for EmployeeOwned
+2017-11-12 20:58:09 Friends  : 98.5% at 39/sec for en4ei
+2017-11-12 20:58:42 Friends  : 100% at 35/sec for EnfuseYouth
+2017-11-12 20:58:44 Tweets   : 100% at 41/sec for EdinUniMedia
+2017-11-12 20:59:07 Favorites: 52.6% at 2/sec for Creative_Fed
+2017-11-12 20:59:15 Favorites: 70.6% at 41/sec for CSWnews
+2017-11-12 20:59:16 Favorites: 100% at 59/sec for CW_LEP
+2017-11-12 20:59:20 Friends  : 99.8% at 39/sec for Entrepreneur
+2017-11-12 20:59:35 Tweets   : 100% at 41/sec for EEF_Apprentices
+2017-11-12 20:59:44 Favorites: 49.6% at 41/sec for David_S_Bristol
+2017-11-12 20:59:45 Favorites: 100% at 19/sec for David_SmithMgmt
+2017-11-12 21:00:10 Favorites: 49.6% at 40/sec for Debbie_RCL
+2017-11-12 21:00:20 Friends  : 99% at 38/sec for EOY_UK
+2017-11-12 21:00:32 Favorites: 51.9% at 44/sec for DelibThinks
+2017-11-12 21:00:36 Favorites: 53.2% at 25/sec for DeniseBertuchi
+2017-11-12 21:00:49 Friends  : 99.9% at 38/sec for EUlondonrep
+2017-11-12 21:00:52 Tweets   : 35.7% at 42/sec for Ellen_Carroll
+2017-11-12 21:01:48 Tweets   : 99.8% at 39/sec for elliecosgrave
+2017-11-12 21:01:51 Favorites: 26.6% at 43/sec for DigiCatapult
+2017-11-12 21:01:56 Favorites: Waiting for 12 minutes due to : Used up allowance in a loop
+2017-11-12 21:02:02 Tweets   : 100% at 20/sec for EMA_org
+2017-11-12 21:02:38 Friends  : 99% at 36/sec for FarmersWeekly
+2017-11-12 21:03:17 Tweets   : 13.9% at 43/sec for EMChamberNews
+2017-11-12 21:03:35 Tweets   : 100% at 27/sec for EmmaFin_AAG
+2017-11-12 21:03:36 Friends  : 100% at 38/sec for FoodManufacture
+2017-11-12 21:04:18 Friends  : 99.9% at 37/sec for FSBwestyorks
+2017-11-12 21:04:18 Friends  : Waiting for 3.9 minutes
+2017-11-12 21:04:54 Tweets   : 20.1% at 40/sec for EmployeeOwned
+2017-11-12 21:06:01 Tweets   : 68.6% at 48/sec for en4ei
+2017-11-12 21:06:51 Tweets   : 99.5% at 49/sec for EnfuseYouth
+2017-11-12 21:07:55 Tweets   : 2.5% at 50/sec for Entrepreneur
+2017-11-12 21:08:46 Friends  : 98.6% at 3/sec for GarethRiceJones
+2017-11-12 21:09:09 Tweets   : 73.2% at 43/sec for EOY_UK
+2017-11-12 21:10:18 Tweets   : 31.6% at 46/sec for EUlondonrep
+2017-11-12 21:11:27 Tweets   : 11.2% at 46/sec for FarmersWeekly
+2017-11-12 21:12:40 Tweets   : 30.2% at 44/sec for FoodManufacture
+2017-11-12 21:13:54 Tweets   : 46.6% at 43/sec for FSBwestyorks
+2017-11-12 21:14:19 Favorites: 50.4% at 0/sec for dstlmod
+2017-11-12 21:14:24 Tweets   : 99.8% at 35/sec for GarethRiceJones
+2017-11-12 21:14:27 Favorites: 63.3% at 52/sec for duncsand
+2017-11-12 21:15:24 Favorites: 50.8% at 47/sec for dundeeuni
+2017-11-12 21:15:25 Favorites: 96.2% at 71/sec for E4TChris
+2017-11-12 21:15:31 Favorites: 51.8% at 47/sec for EdinburghUni
+2017-11-12 21:15:36 Favorites: 88.1% at 43/sec for EdinUniMedia
+2017-11-12 21:15:44 Favorites: 60.8% at 51/sec for EEF_Apprentices
+2017-11-12 21:16:01 Favorites: 53.6% at 45/sec for Ellen_Carroll
+2017-11-12 21:16:12 Favorites: 57.6% at 45/sec for elliecosgrave
+2017-11-12 21:16:13 Favorites: 100% at 57/sec for EMA_org
+2017-11-12 21:16:37 Favorites: 53.2% at 45/sec for EMChamberNews
+2017-11-12 21:16:42 Favorites: 87.7% at 42/sec for EmmaFin_AAG
+2017-11-12 21:16:54 Favorites: Waiting for 12.3 minutes due to : Used up allowance in a loop
+2017-11-12 21:30:00 Favorites: 51.1% at 2/sec for EmployeeOwned
+2017-11-12 21:30:07 Favorites: 57.6% at 45/sec for en4ei
+2017-11-12 21:30:09 Favorites: 94.7% at 7/sec for EnfuseYouth
+2017-11-12 21:30:15 Favorites: 59.4% at 50/sec for Entrepreneur
+2017-11-12 21:30:29 Favorites: 54.5% at 50/sec for EOY_UK
+2017-11-12 21:30:40 Favorites: 49.9% at 45/sec for EUlondonrep
+2017-11-12 21:31:05 Favorites: 49% at 44/sec for FarmersWeekly
+2017-11-12 21:31:05 Favorites: 95.8% at 35/sec for FoodManufacture
+2017-11-12 21:31:09 Favorites: 95.2% at 28/sec for FSBwestyorks
+2017-11-12 21:31:15 Favorites: 51.8% at 45/sec for GarethRiceJones
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+Warning message:
+package 'twitteR' was built under R version 3.4.1 

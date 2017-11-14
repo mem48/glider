@@ -1,0 +1,175 @@
+starting worker pid=18332 on localhost:11045 at 07:49:30.277
+starting worker pid=14196 on localhost:11045 at 07:49:30.443
+starting worker pid=420 on localhost:11045 at 07:49:30.590
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-08 07:50:52 Friends  : 98.7% at 29/sec for nickywatsoncg
+2017-11-08 07:51:08 Friends  : 98.7% at 38/sec for RIBAResearch
+2017-11-08 07:51:11 Friends  : 98.9% at 30/sec for RobinNicholso14
+2017-11-08 07:52:05 Favorites: 50.9% at 27/sec for nickywatsoncg
+2017-11-08 07:52:06 Favorites: 100% at 17/sec for RIBAResearch
+2017-11-08 07:52:06 Favorites: 100% at 10/sec for RobinNicholso14
+2017-11-08 07:52:21 Favorites: 51.3% at 39/sec for robjhyde
+2017-11-08 07:52:24 Friends  : 99.5% at 39/sec for robjhyde
+2017-11-08 07:52:29 Favorites: 54.3% at 42/sec for sacapsa
+2017-11-08 07:52:42 Favorites: 54.7% at 38/sec for Sasha_Mole
+2017-11-08 07:52:49 Favorites: 50.8% at 40/sec for shedkm
+2017-11-08 07:52:50 Favorites: 100% at 16/sec for ukarchitect
+2017-11-08 07:53:14 Favorites: 51.8% at 37/sec for wpgarch
+2017-11-08 07:53:17 Friends  : 99.7% at 37/sec for sacapsa
+2017-11-08 07:53:28 Friends  : 99.2% at 34/sec for Sasha_Mole
+2017-11-08 07:53:31 Tweets   : 100% at 28/sec for nickywatsoncg
+2017-11-08 07:53:36 Favorites: 55% at 40/sec for WW_Architecture
+2017-11-08 07:53:42 Favorites: 59.4% at 34/sec for BCISweb
+2017-11-08 07:53:42 Tweets   : 99.1% at 21/sec for RIBAResearch
+2017-11-08 07:53:42 Friends  : 98.7% at 32/sec for shedkm
+2017-11-08 07:53:43 Favorites: 100% at 47/sec for belder10
+2017-11-08 07:53:53 Tweets   : 100% at 30/sec for RobinNicholso14
+2017-11-08 07:54:12 Favorites: 53.2% at 40/sec for BreakeyNuttall
+2017-11-08 07:54:15 Favorites: 97.7% at 17/sec for ca_advisors
+2017-11-08 07:54:23 Favorites: 53.4% at 39/sec for charlescowap
+2017-11-08 07:54:24 Favorites: 100% at 40/sec for ClydeCoInfra
+2017-11-08 07:54:30 Favorites: 59.7% at 33/sec for DeLeverAPC
+2017-11-08 07:54:34 Favorites: 72% at 45/sec for Exactal
+2017-11-08 07:54:38 Tweets   : 99.9% at 35/sec for robjhyde
+2017-11-08 07:54:44 Favorites: Waiting for 7 minutes due to : Used up allowance in a loop
+2017-11-08 07:55:29 Tweets   : 99.1% at 42/sec for sacapsa
+2017-11-08 07:55:47 Friends  : 99.1% at 39/sec for ukarchitect
+2017-11-08 07:56:09 Tweets   : 99.6% at 39/sec for Sasha_Mole
+2017-11-08 07:56:16 Friends  : 98.4% at 37/sec for wpgarch
+2017-11-08 07:56:46 Friends  : 98.7% at 36/sec for WW_Architecture
+2017-11-08 07:56:46 Tweets   : 99.8% at 35/sec for shedkm
+2017-11-08 07:57:14 Friends  : 97.9% at 36/sec for BCISweb
+2017-11-08 07:57:18 Friends  : 100% at 25/sec for belder10
+2017-11-08 07:57:55 Friends  : 97% at 33/sec for BreakeyNuttall
+2017-11-08 07:57:58 Tweets   : 34.4% at 44/sec for ukarchitect
+2017-11-08 07:58:18 Friends  : 97.4% at 35/sec for ca_advisors
+2017-11-08 07:58:33 Friends  : 99.6% at 32/sec for charlescowap
+2017-11-08 07:58:34 Friends  : Waiting for 7.2 minutes
+2017-11-08 07:59:13 Tweets   : 99.1% at 43/sec for wpgarch
+2017-11-08 07:59:41 Tweets   : 99.9% at 37/sec for WW_Architecture
+2017-11-08 08:00:06 Tweets   : 100% at 37/sec for BCISweb
+2017-11-08 08:00:17 Tweets   : 100% at 20/sec for belder10
+2017-11-08 08:01:02 Tweets   : 99.9% at 38/sec for BreakeyNuttall
+2017-11-08 08:01:23 Tweets   : 99.9% at 33/sec for ca_advisors
+2017-11-08 08:01:55 Favorites: 49.6% at 1/sec for EY_GovtPublic
+2017-11-08 08:02:09 Favorites: 58.2% at 37/sec for FisherGerman
+2017-11-08 08:02:10 Favorites: 100% at 58/sec for FMJ_Sara
+2017-11-08 08:02:28 Favorites: 50.3% at 38/sec for GrigoriouDesign
+2017-11-08 08:02:30 Favorites: 62.9% at 73/sec for HewEdgar
+2017-11-08 08:02:41 Tweets   : 43.6% at 41/sec for charlescowap
+2017-11-08 08:02:51 Favorites: 49.9% at 36/sec for ionasurveyor
+2017-11-08 08:02:53 Favorites: 92% at 11/sec for j_bmilburn
+2017-11-08 08:03:05 Tweets   : 100% at 37/sec for ClydeCoInfra
+2017-11-08 08:03:07 Favorites: 51% at 44/sec for Karen_BSurveyor
+2017-11-08 08:03:40 Favorites: 50% at 42/sec for LbsLouise
+2017-11-08 08:03:55 Tweets   : 99.6% at 40/sec for DeLeverAPC
+2017-11-08 08:04:01 Favorites: 52.5% at 41/sec for makeitSEEABLE
+2017-11-08 08:04:26 Tweets   : 99.9% at 35/sec for Exactal
+2017-11-08 08:04:51 Favorites: Waiting for 12 minutes due to : Used up allowance in a loop
+2017-11-08 08:05:43 Tweets   : 58.1% at 42/sec for EY_GovtPublic
+2017-11-08 08:06:13 Friends  : 100% at 2/sec for ClydeCoInfra
+2017-11-08 08:06:42 Friends  : 99.6% at 33/sec for DeLeverAPC
+2017-11-08 08:06:52 Friends  : 98% at 38/sec for Exactal
+2017-11-08 08:07:06 Friends  : 99.2% at 38/sec for EY_GovtPublic
+2017-11-08 08:07:10 Tweets   : 94.1% at 36/sec for FisherGerman
+2017-11-08 08:07:24 Friends  : 98.1% at 40/sec for FisherGerman
+2017-11-08 08:07:28 Friends  : 98.7% at 37/sec for FMJ_Sara
+2017-11-08 08:07:32 Tweets   : 99.8% at 30/sec for FMJ_Sara
+2017-11-08 08:07:48 Friends  : 98% at 40/sec for GrigoriouDesign
+2017-11-08 08:08:00 Friends  : 98.6% at 36/sec for HewEdgar
+2017-11-08 08:08:11 Friends  : 98.4% at 38/sec for ionasurveyor
+2017-11-08 08:08:13 Tweets   : 100% at 36/sec for GrigoriouDesign
+2017-11-08 08:08:13 Friends  : 100% at 10/sec for j_bmilburn
+2017-11-08 08:08:27 Tweets   : 100% at 30/sec for HewEdgar
+2017-11-08 08:08:38 Friends  : 98.9% at 39/sec for Karen_BSurveyor
+2017-11-08 08:08:52 Friends  : 98.8% at 37/sec for LbsLouise
+2017-11-08 08:09:40 Tweets   : 59.5% at 44/sec for ionasurveyor
+2017-11-08 08:09:51 Friends  : 98.2% at 37/sec for makeitSEEABLE
+2017-11-08 08:09:59 Tweets   : 99.8% at 33/sec for j_bmilburn
+2017-11-08 08:10:22 Tweets   : 99.6% at 34/sec for Karen_BSurveyor
+2017-11-08 08:11:15 Tweets   : 100% at 35/sec for LbsLouise
+2017-11-08 08:11:56 Friends  : 98.4% at 34/sec for manx_maid
+2017-11-08 08:12:00 Friends  : 98.4% at 31/sec for markhumpy
+2017-11-08 08:12:00 Friends  : Waiting for 8.9 minutes
+2017-11-08 08:12:22 Tweets   : 99.1% at 37/sec for makeitSEEABLE
+2017-11-08 08:13:41 Tweets   : 1.5% at 41/sec for manx_maid
+2017-11-08 08:13:50 Tweets   : 99.5% at 21/sec for markhumpy
+2017-11-08 08:15:07 Tweets   : 82.7% at 41/sec for Matt_Wallace1
+2017-11-08 08:15:15 Tweets   : 100% at 10/sec for mitig8Risk
+2017-11-08 08:15:26 Tweets   : 100% at 23/sec for OwenGower1
+2017-11-08 08:15:45 Tweets   : 100% at 30/sec for PaulSpavenTFT
+2017-11-08 08:16:12 Tweets   : 100% at 33/sec for Plowman_Craven
+2017-11-08 08:16:42 Tweets   : 99.8% at 37/sec for profnickmorton
+2017-11-08 08:17:32 Favorites: 42.4% at 4/sec for manx_maid
+2017-11-08 08:17:33 Favorites: 67.1% at 73/sec for markhumpy
+2017-11-08 08:17:42 Tweets   : 99.9% at 35/sec for Purcelluk
+2017-11-08 08:17:54 Tweets   : 100% at 22/sec for RICSMENA
+2017-11-08 08:18:11 Tweets   : 100% at 25/sec for robayre_UKLE
+2017-11-08 08:18:24 Tweets   : 100% at 22/sec for RoochitaImrit
+2017-11-08 08:18:25 Favorites: 48.1% at 40/sec for Matt_Wallace1
+2017-11-08 08:18:26 Favorites: 100% at 43/sec for mitig8Risk
+2017-11-08 08:18:29 Favorites: 86.2% at 35/sec for OwenGower1
+2017-11-08 08:18:34 Favorites: 56.4% at 37/sec for PaulSpavenTFT
+2017-11-08 08:18:45 Favorites: 61.4% at 45/sec for Plowman_Craven
+2017-11-08 08:18:51 Favorites: 80.2% at 36/sec for profnickmorton
+2017-11-08 08:19:10 Favorites: 52.1% at 40/sec for Purcelluk
+2017-11-08 08:19:12 Favorites: 65.4% at 73/sec for RICSMENA
+2017-11-08 08:19:24 Favorites: 53% at 40/sec for robayre_UKLE
+2017-11-08 08:19:27 Favorites: 73.9% at 35/sec for RoochitaImrit
+2017-11-08 08:19:31 Favorites: 63.9% at 48/sec for S_Weatherall
+2017-11-08 08:19:36 Tweets   : 99.8% at 42/sec for S_Weatherall
+2017-11-08 08:19:57 Favorites: Waiting for 12.1 minutes due to : Used up allowance in a loop
+2017-11-08 08:20:46 Tweets   : 8.6% at 46/sec for stephenbrown54
+2017-11-08 08:21:17 Tweets   : 100% at 40/sec for SteveApplebys
+2017-11-08 08:21:23 Friends  : 99.6% at 1/sec for Matt_Wallace1
+2017-11-08 08:21:25 Friends  : 100% at 46/sec for mitig8Risk
+2017-11-08 08:21:28 Tweets   : 100% at 19/sec for tridentbc
+2017-11-08 08:21:29 Friends  : 99.3% at 37/sec for OwenGower1
+2017-11-08 08:21:32 Friends  : 97.4% at 36/sec for PaulSpavenTFT
+2017-11-08 08:21:50 Friends  : 97.5% at 50/sec for Plowman_Craven
+2017-11-08 08:21:57 Friends  : 97.2% at 34/sec for profnickmorton
+2017-11-08 08:22:44 Tweets   : 52.8% at 42/sec for andylarge2m
+2017-11-08 08:22:57 Friends  : 98.9% at 45/sec for Purcelluk
+2017-11-08 08:23:00 Friends  : 97.1% at 37/sec for RICSMENA
+2017-11-08 08:23:05 Friends  : 98.5% at 27/sec for robayre_UKLE
+2017-11-08 08:23:11 Friends  : 99.6% at 45/sec for RoochitaImrit
+2017-11-08 08:23:45 Friends  : 99.1% at 45/sec for S_Weatherall
+2017-11-08 08:24:10 Tweets   : 34.8% at 37/sec for danc00ks0n
+2017-11-08 08:24:13 Friends  : 99.7% at 43/sec for stephenbrown54
+2017-11-08 08:24:29 Friends  : 98% at 43/sec for SteveApplebys
+2017-11-08 08:24:32 Friends  : 96.2% at 22/sec for tridentbc
+2017-11-08 08:24:38 Friends  : 99.6% at 41/sec for andylarge2m
+2017-11-08 08:24:38 Friends  : Waiting for 11.5 minutes
+2017-11-08 08:25:10 Tweets   : 99.9% at 46/sec for JOHNPCBHALLIDAY
+2017-11-08 08:26:20 Tweets   : 21.1% at 46/sec for KarenPBuckMP
+2017-11-08 08:27:31 Tweets   : 68% at 45/sec for landlordwhisprr
+2017-11-08 08:27:54 Tweets   : 100% at 37/sec for TenantTax
+2017-11-08 08:32:55 Favorites: 9.9% at 4/sec for stephenbrown54
+2017-11-08 08:33:04 Favorites: 50% at 44/sec for SteveApplebys
+2017-11-08 08:33:05 Favorites: 100% at 40/sec for tridentbc
+2017-11-08 08:33:19 Favorites: 54.1% at 41/sec for andylarge2m
+2017-11-08 08:34:23 Favorites: 20.8% at 41/sec for danc00ks0n
+2017-11-08 08:34:23 Favorites: 91.7% at 25/sec for JOHNPCBHALLIDAY
+2017-11-08 08:34:57 Favorites: Waiting for 12.2 minutes due to : Used up allowance in a loop
+2017-11-08 08:37:49 Friends  : 99% at 5/sec for danc00ks0n
+2017-11-08 08:38:47 Friends  : 100% at 40/sec for JOHNPCBHALLIDAY
+2017-11-08 08:39:44 Friends  : 99.1% at 39/sec for KarenPBuckMP
+Error in twInterfaceObj$doAPICall(paste("users", "show", sep = "/"), params = params,  : 
+  Not Found (HTTP 404).
+In addition: Warning message:
+package 'twitteR' was built under R version 3.4.1 
+2017-11-08 08:39:44 Friends: Unable to find account landlordwhisprr moving to next
+2017-11-08 08:39:44 Friends  : % at /sec for landlordwhisprr
+Error in twInterfaceObj$doAPICall(paste("users", "show", sep = "/"), params = params,  : 
+  Not Found (HTTP 404).
+2017-11-08 08:39:45 Friends: Unable to find account TenantTax moving to next
+2017-11-08 08:39:45 Friends  : % at /sec for TenantTax
+2017-11-08 08:47:58 Favorites: 48.5% at 4/sec for KarenPBuckMP
+2017-11-08 08:49:08 Favorites: 37.3% at 42/sec for landlordwhisprr
+2017-11-08 08:49:09 Favorites: 100% at 50/sec for TenantTax
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+Warning message:
+package 'twitteR' was built under R version 3.4.1 

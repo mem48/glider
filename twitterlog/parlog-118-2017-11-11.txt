@@ -1,0 +1,165 @@
+starting worker pid=20020 on localhost:11045 at 14:32:14.564
+starting worker pid=14124 on localhost:11045 at 14:32:14.736
+starting worker pid=20960 on localhost:11045 at 14:32:14.888
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-11 14:33:51 Friends  : 99.7% at 33/sec for Telegraph
+2017-11-11 14:34:15 Friends  : 98.8% at 41/sec for THCH_Ltd
+2017-11-11 14:34:51 Favorites: % at /sec for Telegraph
+2017-11-11 14:34:54 Friends  : 99.7% at 40/sec for TheBoltonNews
+2017-11-11 14:35:06 Friends  : 99.6% at 38/sec for TheIndyBusiness
+2017-11-11 14:35:15 Favorites: 50.8% at 33/sec for THCH_Ltd
+2017-11-11 14:35:34 Favorites: 50.2% at 37/sec for TheBoltonNews
+2017-11-11 14:35:34 Favorites: 109.1% at 31/sec for TheIndyBusiness
+2017-11-11 14:35:39 Favorites: 69% at 42/sec for TheWeekUK
+2017-11-11 14:35:43 Favorites: 64.1% at 29/sec for THTaltrincham
+2017-11-11 14:35:45 Friends  : 99.7% at 37/sec for TheWeekUK
+2017-11-11 14:35:54 Favorites: 55.9% at 44/sec for THTOldTrafford
+2017-11-11 14:35:59 Friends  : 99.5% at 40/sec for THTaltrincham
+2017-11-11 14:36:09 Friends  : 99.7% at 33/sec for THTOldTrafford
+2017-11-11 14:36:12 Favorites: Waiting for 6.6 minutes due to : Used up allowance in a loop
+2017-11-11 14:36:14 Friends  : 99% at 41/sec for THTstretford
+2017-11-11 14:36:25 Friends  : 99.8% at 41/sec for THTurmston
+2017-11-11 14:36:34 Friends  : 99.1% at 38/sec for timcobbpr
+2017-11-11 14:37:22 Tweets   : 1% at 49/sec for Telegraph
+2017-11-11 14:37:34 Friends  : 99.1% at 40/sec for TimFrier
+2017-11-11 14:37:50 Friends  : 99.4% at 39/sec for TomWay1
+2017-11-11 14:38:33 Tweets   : 23.7% at 45/sec for THCH_Ltd
+2017-11-11 14:38:42 Friends  : 100% at 39/sec for TPPropertiesUK
+2017-11-11 14:38:46 Friends  : 98.4% at 31/sec for TristanCarlyon
+2017-11-11 14:39:26 Friends  : 98.4% at 41/sec for TSAVoice
+2017-11-11 14:39:26 Friends  : User UKMPtweets has a protected account or no Friendss to collect so skipping
+2017-11-11 14:39:27 Friends  : Waiting for 9.2 minutes
+2017-11-11 14:39:43 Tweets   : 6.2% at 46/sec for TheBoltonNews
+2017-11-11 14:40:45 Tweets   : 10.4% at 52/sec for TheIndyBusiness
+2017-11-11 14:41:55 Tweets   : 7.8% at 46/sec for TheWeekUK
+2017-11-11 14:42:35 Tweets   : 99.9% at 40/sec for THTaltrincham
+2017-11-11 14:43:31 Tweets   : 99.9% at 40/sec for THTOldTrafford
+2017-11-11 14:43:52 Favorites: 50.3% at 6/sec for THTstretford
+2017-11-11 14:44:16 Favorites: 49.7% at 41/sec for THTurmston
+2017-11-11 14:44:17 Favorites: 66.7% at 63/sec for timcobbpr
+2017-11-11 14:44:45 Favorites: 53% at 40/sec for TimFrier
+2017-11-11 14:44:55 Tweets   : 43.7% at 38/sec for THTstretford
+2017-11-11 14:44:58 Favorites: 61% at 28/sec for TomWay1
+2017-11-11 14:45:32 Favorites: 49.3% at 45/sec for TPPropertiesUK
+2017-11-11 14:45:35 Favorites: 100% at 26/sec for TristanCarlyon
+2017-11-11 14:45:47 Favorites: 48.8% at 41/sec for TSAVoice
+2017-11-11 14:45:48 Favorites: 100% at 23/sec for UKMPtweets
+2017-11-11 14:45:52 Favorites: Waiting for 12.1 minutes due to : Used up allowance in a loop
+2017-11-11 14:46:06 Tweets   : 99.9% at 38/sec for THTurmston
+2017-11-11 14:46:19 Tweets   : 100% at 24/sec for timcobbpr
+2017-11-11 14:47:24 Tweets   : 100% at 48/sec for TimFrier
+2017-11-11 14:47:56 Tweets   : 97.9% at 44/sec for TomWay1
+2017-11-11 14:49:00 Friends  : 97.9% at 0/sec for VickyRConnect
+2017-11-11 14:49:06 Tweets   : 57.9% at 46/sec for TPPropertiesUK
+2017-11-11 14:49:15 Friends  : 99.4% at 35/sec for WeAreTorus
+2017-11-11 14:49:16 Tweets   : 100% at 20/sec for TristanCarlyon
+2017-11-11 14:49:52 Friends  : 99.1% at 39/sec for weavervale
+2017-11-11 14:50:29 Tweets   : 44.7% at 43/sec for TSAVoice
+2017-11-11 14:51:46 Tweets   : 58% at 42/sec for UKMPtweets
+2017-11-11 14:52:21 Tweets   : 99.9% at 31/sec for VickyRConnect
+2017-11-11 14:52:27 Friends  : 97.3% at 34/sec for WestM61
+2017-11-11 14:52:48 Tweets   : 99.4% at 31/sec for WeAreTorus
+2017-11-11 14:52:50 Friends  : 97.7% at 31/sec for wrccrural
+2017-11-11 14:53:19 Friends  : 99.4% at 34/sec for YourGuinness
+2017-11-11 14:54:04 Friends  : 99% at 31/sec for BDRCContinental
+2017-11-11 14:54:07 Tweets   : 45.2% at 41/sec for weavervale
+2017-11-11 14:54:29 Friends  : 99.9% at 41/sec for BSI_UK
+2017-11-11 14:54:43 Tweets   : 99.6% at 40/sec for WestM61
+2017-11-11 14:55:15 Friends  : 99.2% at 40/sec for Chestertons
+2017-11-11 14:55:26 Tweets   : 100% at 40/sec for wrccrural
+2017-11-11 14:55:27 Friends  : 100% at 40/sec for ChristineatAPS
+2017-11-11 14:55:38 Friends  : 98.2% at 40/sec for CurveCasting
+2017-11-11 14:55:48 Friends  : 97.2% at 40/sec for Daisylets
+2017-11-11 14:55:52 Friends  : 99.2% at 30/sec for DASHLANDLORDS
+2017-11-11 14:55:52 Friends  : Waiting for 8.1 minutes
+2017-11-11 14:56:37 Tweets   : 56.4% at 45/sec for YourGuinness
+2017-11-11 14:57:40 Tweets   : 99.8% at 45/sec for BDRCContinental
+2017-11-11 14:58:35 Favorites: 55.5% at 1/sec for VickyRConnect
+2017-11-11 14:58:41 Favorites: 55.4% at 53/sec for WeAreTorus
+2017-11-11 14:58:52 Favorites: 37% at 37/sec for weavervale
+2017-11-11 14:58:59 Tweets   : 50% at 41/sec for BSI_UK
+2017-11-11 14:59:04 Favorites: 51.1% at 41/sec for WestM61
+2017-11-11 14:59:08 Favorites: 85% at 50/sec for wrccrural
+2017-11-11 14:59:17 Favorites: 65.3% at 44/sec for YourGuinness
+2017-11-11 14:59:21 Favorites: 65.1% at 47/sec for BDRCContinental
+2017-11-11 14:59:30 Favorites: 59% at 43/sec for BSI_UK
+2017-11-11 14:59:51 Favorites: 50.6% at 39/sec for Chestertons
+2017-11-11 14:59:52 Favorites: 51.6% at 68/sec for ChristineatAPS
+2017-11-11 14:59:54 Favorites: 100% at 11/sec for CurveCasting
+2017-11-11 14:59:56 Favorites: 60.7% at 65/sec for Daisylets
+2017-11-11 14:59:56 Favorites: 100% at 26/sec for DASHLANDLORDS
+2017-11-11 15:00:04 Favorites: 49.2% at 41/sec for envirovent
+2017-11-11 15:00:08 Favorites: 74.9% at 40/sec for EstatesIT
+2017-11-11 15:00:31 Tweets   : 46% at 34/sec for Chestertons
+2017-11-11 15:00:35 Favorites: 54.2% at 41/sec for HousingLeeds
+2017-11-11 15:00:46 Favorites: 52.3% at 41/sec for InLetProperty
+2017-11-11 15:01:01 Tweets   : 99.5% at 41/sec for ChristineatAPS
+2017-11-11 15:01:06 Favorites: 52.6% at 41/sec for LandbayUK
+2017-11-11 15:01:08 Favorites: Waiting for 12.2 minutes due to : Used up allowance in a loop
+2017-11-11 15:01:12 Tweets   : 100% at 20/sec for CurveCasting
+2017-11-11 15:02:01 Tweets   : 99.9% at 47/sec for Daisylets
+2017-11-11 15:02:21 Tweets   : 100% at 36/sec for DASHLANDLORDS
+2017-11-11 15:03:28 Tweets   : 54.1% at 48/sec for envirovent
+2017-11-11 15:04:38 Tweets   : 18.9% at 46/sec for EstatesIT
+2017-11-11 15:06:01 Tweets   : 50.1% at 39/sec for HousingLeeds
+2017-11-11 15:06:47 Friends  : 99.5% at 9/sec for envirovent
+2017-11-11 15:07:27 Tweets   : 96.6% at 37/sec for InLetProperty
+2017-11-11 15:07:29 Friends  : 98.6% at 35/sec for EstatesIT
+2017-11-11 15:08:03 Friends  : 98.8% at 33/sec for HousingLeeds
+2017-11-11 15:08:10 Tweets   : 100% at 34/sec for LandbayUK
+2017-11-11 15:09:19 Tweets   : 64.8% at 47/sec for Landlord_Today
+2017-11-11 15:09:37 Friends  : 95.6% at 33/sec for InLetProperty
+2017-11-11 15:09:51 Friends  : 98.5% at 29/sec for LandbayUK
+2017-11-11 15:10:12 Tweets   : 100% at 44/sec for landlordlowdown
+2017-11-11 15:10:36 Friends  : 100% at 36/sec for Landlord_Today
+2017-11-11 15:10:41 Tweets   : 99.9% at 38/sec for Let_Set_Go
+2017-11-11 15:11:07 Friends  : 100% at 40/sec for landlordlowdown
+2017-11-11 15:11:16 Friends  : 100% at 41/sec for Let_Set_Go
+2017-11-11 15:11:17 Tweets   : 99.5% at 37/sec for MyCosyHomes
+2017-11-11 15:11:44 Friends  : 89.8% at 42/sec for MyCosyHomes
+2017-11-11 15:11:47 Tweets   : 94.2% at 37/sec for Newbie_Investor
+2017-11-11 15:11:54 Friends  : 98% at 35/sec for Newbie_Investor
+2017-11-11 15:12:17 Friends  : 100% at 39/sec for Property118
+2017-11-11 15:13:03 Tweets   : 19.6% at 42/sec for Property118
+2017-11-11 15:13:11 Friends  : 99.5% at 36/sec for ReadingCouncil
+2017-11-11 15:13:44 Friends  : 100% at 35/sec for RentonTime
+2017-11-11 15:13:44 Friends  : Waiting for 5.5 minutes
+2017-11-11 15:13:46 Favorites: 65% at 0/sec for Landlord_Today
+2017-11-11 15:13:49 Favorites: 97.6% at 28/sec for landlordlowdown
+2017-11-11 15:13:50 Favorites: 56.5% at 74/sec for Let_Set_Go
+2017-11-11 15:13:59 Favorites: 58.2% at 44/sec for MyCosyHomes
+2017-11-11 15:14:01 Favorites: 94.4% at 8/sec for Newbie_Investor
+2017-11-11 15:14:03 Favorites: 99% at 61/sec for Property118
+2017-11-11 15:14:04 Favorites: 90.9% at 25/sec for ReadingCouncil
+2017-11-11 15:14:08 Favorites: 68.4% at 44/sec for RentonTime
+2017-11-11 15:14:18 Favorites: 50.5% at 37/sec for SpareRoomUK
+2017-11-11 15:14:19 Favorites: 100% at 18/sec for TeleProperty
+2017-11-11 15:14:22 Tweets   : 48.5% at 41/sec for ReadingCouncil
+2017-11-11 15:14:31 Favorites: 58.8% at 43/sec for ThanetCouncil
+2017-11-11 15:14:31 Favorites: 100% at 60/sec for TodaysLandlord
+2017-11-11 15:14:35 Favorites: 89.1% at 47/sec for youngladyren
+2017-11-11 15:14:44 Favorites: 47.9% at 44/sec for _PaulBogle
+2017-11-11 15:14:45 Favorites: 100% at 50/sec for a2zestates
+2017-11-11 15:15:40 Tweets   : 99.6% at 40/sec for RentonTime
+2017-11-11 15:16:46 Tweets   : 40% at 48/sec for SpareRoomUK
+2017-11-11 15:17:53 Tweets   : 29% at 47/sec for TeleProperty
+2017-11-11 15:19:04 Tweets   : 49.2% at 45/sec for ThanetCouncil
+2017-11-11 15:19:30 Tweets   : 100% at 38/sec for TodaysLandlord
+2017-11-11 15:19:48 Tweets   : 99.7% at 32/sec for youngladyren
+2017-11-11 15:20:05 Tweets   : 98.9% at 27/sec for _PaulBogle
+2017-11-11 15:20:38 Tweets   : 100% at 39/sec for a2zestates
+2017-11-11 15:23:12 Friends  : 100% at 14/sec for SpareRoomUK
+2017-11-11 15:23:21 Friends  : 100% at 42/sec for TeleProperty
+2017-11-11 15:23:39 Friends  : 99.4% at 48/sec for ThanetCouncil
+2017-11-11 15:23:52 Friends  : 100% at 43/sec for TodaysLandlord
+2017-11-11 15:24:03 Friends  : 99.4% at 44/sec for youngladyren
+2017-11-11 15:24:08 Friends  : 98.9% at 37/sec for _PaulBogle
+2017-11-11 15:24:22 Friends  : 97.4% at 45/sec for a2zestates
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+Warning message:
+package 'twitteR' was built under R version 3.4.1 

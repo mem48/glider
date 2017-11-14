@@ -1,0 +1,169 @@
+starting worker pid=10280 on localhost:11045 at 02:21:53.128
+starting worker pid=20932 on localhost:11045 at 02:21:53.276
+starting worker pid=14536 on localhost:11045 at 02:21:53.451
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-12 02:23:31 Friends  : 100% at 36/sec for dd1961
+2017-11-12 02:24:44 Friends  : 99.4% at 40/sec for doflynn
+2017-11-12 02:24:46 Friends  : 94.4% at 48/sec for EnergywaterP
+2017-11-12 02:24:52 Friends  : 97.3% at 39/sec for ER_Business
+2017-11-12 02:25:00 Favorites: 98.8% at 55/sec for dd1961
+2017-11-12 02:25:07 Favorites: 58.8% at 42/sec for doflynn
+2017-11-12 02:25:08 Favorites: 100% at 20/sec for EnergywaterP
+2017-11-12 02:25:12 Favorites: 73.3% at 26/sec for ER_Business
+2017-11-12 02:25:24 Favorites: 56.7% at 32/sec for ethoslabmx
+2017-11-12 02:25:31 Friends  : 99.7% at 38/sec for ethoslabmx
+2017-11-12 02:25:56 Favorites: 50.1% at 40/sec for FoodMattersLive
+2017-11-12 02:26:25 Friends  : 98.9% at 39/sec for FoodMattersLive
+2017-11-12 02:26:27 Favorites: 53.1% at 39/sec for FSBBedCambHert
+2017-11-12 02:26:37 Favorites: 59.1% at 39/sec for Gabyrh
+2017-11-12 02:26:55 Tweets   : 99.8% at 35/sec for dd1961
+2017-11-12 02:27:00 Favorites: 54.5% at 43/sec for GFirstLEP
+2017-11-12 02:27:22 Favorites: 49.6% at 40/sec for Glasgow_Chamber
+2017-11-12 02:27:30 Friends  : 99.6% at 38/sec for FSBBedCambHert
+2017-11-12 02:27:34 Friends  : 94.8% at 26/sec for Gabyrh
+2017-11-12 02:27:52 Friends  : 97.9% at 37/sec for GFirstLEP
+2017-11-12 02:28:03 Favorites: Waiting for 11.9 minutes due to : Used up allowance in a loop
+2017-11-12 02:28:06 Tweets   : 54.7% at 45/sec for doflynn
+2017-11-12 02:28:12 Tweets   : 100% at 5/sec for EnergywaterP
+2017-11-12 02:28:20 Friends  : 99.3% at 44/sec for Glasgow_Chamber
+2017-11-12 02:28:34 Tweets   : 100% at 40/sec for ER_Business
+2017-11-12 02:29:38 Tweets   : 40.3% at 49/sec for ethoslabmx
+2017-11-12 02:30:50 Tweets   : 24.7% at 44/sec for FoodMattersLive
+2017-11-12 02:31:22 Friends  : 99.7% at 39/sec for globalactplan
+2017-11-12 02:31:22 Friends  : Waiting for 0.5 minutes
+2017-11-12 02:31:57 Tweets   : 18.8% at 48/sec for FSBBedCambHert
+2017-11-12 02:32:07 Tweets   : 100% at 25/sec for Gabyrh
+2017-11-12 02:32:57 Friends  : 99.4% at 27/sec for GlobalGoodAward
+2017-11-12 02:33:16 Tweets   : 25% at 47/sec for GFirstLEP
+2017-11-12 02:34:24 Tweets   : 20.3% at 47/sec for Glasgow_Chamber
+2017-11-12 02:35:33 Tweets   : 29.2% at 46/sec for globalactplan
+2017-11-12 02:36:50 Tweets   : 51.7% at 42/sec for GlobalGoodAward
+2017-11-12 02:38:10 Tweets   : 31.4% at 40/sec for GreenCogEU
+2017-11-12 02:39:39 Tweets   : 35.5% at 36/sec for GrowingNottm
+2017-11-12 02:39:55 Tweets   : 100% at 32/sec for guild_energy
+2017-11-12 02:40:29 Favorites: 50.3% at 3/sec for globalactplan
+2017-11-12 02:40:49 Tweets   : 98.2% at 40/sec for HanGallimore
+2017-11-12 02:41:02 Favorites: 53.2% at 41/sec for GlobalGoodAward
+2017-11-12 02:41:22 Tweets   : 99.9% at 40/sec for icscoolenergy
+2017-11-12 02:41:30 Favorites: 49.9% at 36/sec for GreenCogEU
+2017-11-12 02:42:21 Tweets   : 100% at 42/sec for JonDugstad
+2017-11-12 02:42:33 Tweets   : 100% at 22/sec for JonoAyton
+2017-11-12 02:42:41 Favorites: 50.8% at 43/sec for GrowingNottm
+2017-11-12 02:42:45 Favorites: 76.9% at 29/sec for guild_energy
+2017-11-12 02:43:18 Favorites: 46.6% at 42/sec for HanGallimore
+2017-11-12 02:43:20 Favorites: 75.2% at 58/sec for icscoolenergy
+2017-11-12 02:43:20 Favorites: Waiting for 12 minutes due to : Used up allowance in a loop
+2017-11-12 02:43:45 Tweets   : 18% at 44/sec for LeedsUniCareers
+2017-11-12 02:43:47 Friends  : 99.6% at 38/sec for GreenCogEU
+2017-11-12 02:44:00 Tweets   : 100% at 28/sec for louisegow001
+2017-11-12 02:44:18 Friends  : 99.5% at 42/sec for GrowingNottm
+2017-11-12 02:44:23 Friends  : 98.8% at 33/sec for guild_energy
+2017-11-12 02:44:27 Friends  : 96.5% at 19/sec for HanGallimore
+2017-11-12 02:45:00 Friends  : 100% at 37/sec for icscoolenergy
+2017-11-12 02:45:10 Tweets   : 24.7% at 46/sec for mycoopfood
+2017-11-12 02:45:20 Friends  : 99% at 40/sec for JonDugstad
+2017-11-12 02:45:25 Friends  : 99.3% at 30/sec for JonoAyton
+2017-11-12 02:45:30 Friends  : 98.8% at 34/sec for LeedsUniCareers
+2017-11-12 02:45:50 Friends  : 99.6% at 37/sec for louisegow001
+2017-11-12 02:45:51 Friends  : Waiting for 1.1 minutes
+2017-11-12 02:46:14 Tweets   : 99.8% at 48/sec for NatWestMentor
+2017-11-12 02:47:24 Tweets   : 31.5% at 46/sec for NAWindpower
+2017-11-12 02:48:00 Tweets   : 99.9% at 43/sec for OC_SmartCities
+2017-11-12 02:49:19 Tweets   : 5.6% at 41/sec for odebconuee
+2017-11-12 02:50:14 Tweets   : 99.9% at 43/sec for ORECatapult
+2017-11-12 02:51:25 Tweets   : 91.7% at 45/sec for OriginGreen
+2017-11-12 02:52:32 Tweets   : 99.9% at 47/sec for PEspinosaC
+2017-11-12 02:52:36 Friends  : 99.5% at 33/sec for mycoopfood
+2017-11-12 02:52:44 Friends  : 98.7% at 37/sec for NatWestMentor
+2017-11-12 02:52:59 Friends  : 98.7% at 45/sec for NAWindpower
+2017-11-12 02:53:09 Tweets   : 99.5% at 41/sec for ProspectEnviro
+2017-11-12 02:53:23 Friends  : 99.7% at 39/sec for OC_SmartCities
+2017-11-12 02:53:32 Friends  : 97.1% at 45/sec for odebconuee
+2017-11-12 02:53:44 Friends  : 98.9% at 40/sec for ORECatapult
+2017-11-12 02:54:11 Friends  : 99% at 42/sec for OriginGreen
+2017-11-12 02:54:17 Tweets   : 50.9% at 47/sec for RACMagazine
+2017-11-12 02:54:17 Friends  : 97.1% at 40/sec for PEspinosaC
+2017-11-12 02:54:22 Tweets   : 100% at 1/sec for RhodriJames10
+2017-11-12 02:54:30 Friends  : 99.6% at 42/sec for ProspectEnviro
+2017-11-12 02:55:07 Friends  : 99.8% at 41/sec for RACMagazine
+2017-11-12 02:55:11 Friends  : 100% at 21/sec for RhodriJames10
+2017-11-12 02:55:37 Tweets   : 57.6% at 43/sec for Shell_society
+2017-11-12 02:55:51 Favorites: 64.2% at 1/sec for JonDugstad
+2017-11-12 02:55:52 Favorites: 75.8% at 66/sec for JonoAyton
+2017-11-12 02:56:01 Friends  : 99.9% at 40/sec for Shell_society
+2017-11-12 02:56:03 Favorites: 49.4% at 38/sec for LeedsUniCareers
+2017-11-12 02:56:13 Favorites: 54.3% at 39/sec for louisegow001
+2017-11-12 02:56:26 Friends  : 99.6% at 37/sec for SSNscotland
+2017-11-12 02:56:26 Friends  : Waiting for 5.6 minutes
+2017-11-12 02:56:53 Tweets   : 77.8% at 42/sec for SSNscotland
+2017-11-12 02:57:24 Favorites: 19.6% at 45/sec for mycoopfood
+2017-11-12 02:57:24 Favorites: 100% at 37/sec for NatWestMentor
+2017-11-12 02:57:41 Favorites: 54.5% at 46/sec for NAWindpower
+2017-11-12 02:57:45 Favorites: 62.9% at 31/sec for OC_SmartCities
+2017-11-12 02:58:13 Tweets   : 72.7% at 40/sec for SustainableLSE
+2017-11-12 02:58:28 Favorites: Waiting for 12.2 minutes due to : Used up allowance in a loop
+2017-11-12 02:58:34 Tweets   : 99.8% at 32/sec for techFMexperts
+2017-11-12 02:59:00 Tweets   : 99.9% at 35/sec for TheGoAheadGroup
+2017-11-12 02:59:20 Tweets   : 99.8% at 23/sec for thenewsparks
+2017-11-12 02:59:34 Tweets   : 100% at 39/sec for theSAEE
+2017-11-12 03:00:45 Tweets   : 31.3% at 45/sec for UKinMalaysia
+2017-11-12 03:00:51 Tweets   : 100% at 0/sec for ukti_malaysia
+2017-11-12 03:01:57 Tweets   : 9.2% at 49/sec for UNIDO
+2017-11-12 03:02:25 Friends  : 99.3% at 2/sec for SustainableLSE
+2017-11-12 03:02:38 Friends  : 96.6% at 39/sec for techFMexperts
+2017-11-12 03:02:44 Friends  : 99% at 34/sec for TheGoAheadGroup
+2017-11-12 03:02:56 Friends  : 100% at 35/sec for thenewsparks
+2017-11-12 03:03:02 Friends  : 98.1% at 29/sec for theSAEE
+2017-11-12 03:03:04 Tweets   : 34.4% at 48/sec for Waterbriefing
+2017-11-12 03:03:29 Friends  : 99.7% at 41/sec for UKinMalaysia
+2017-11-12 03:03:30 Friends  : 100% at 20/sec for ukti_malaysia
+2017-11-12 03:03:57 Tweets   : 99.1% at 41/sec for wenyuweng
+2017-11-12 03:04:05 Friends  : 97% at 39/sec for UNIDO
+2017-11-12 03:04:18 Friends  : 99.1% at 39/sec for Waterbriefing
+2017-11-12 03:05:09 Tweets   : 24% at 45/sec for WestBerkshire
+2017-11-12 03:05:14 Friends  : 99.9% at 39/sec for wenyuweng
+2017-11-12 03:05:22 Friends  : 98.2% at 37/sec for WestBerkshire
+2017-11-12 03:06:23 Tweets   : 10.6% at 43/sec for WMBtweets
+2017-11-12 03:06:54 Friends  : 99.6% at 39/sec for WMBtweets
+2017-11-12 03:07:42 Tweets   : 45.6% at 41/sec for WodcWill
+2017-11-12 03:07:54 Friends  : 99% at 39/sec for WodcWill
+2017-11-12 03:08:35 Friends  : 97.9% at 42/sec for 9yardsArchitec_
+2017-11-12 03:08:39 Friends  : 98.3% at 47/sec for andrewjhornby
+2017-11-12 03:08:39 Friends  : Waiting for 8.6 minutes
+2017-11-12 03:09:05 Tweets   : 18.9% at 38/sec for 9yardsArchitec_
+2017-11-12 03:09:44 Tweets   : 99.9% at 44/sec for andrewjhornby
+2017-11-12 03:10:50 Tweets   : 88.3% at 48/sec for auriol_miller
+2017-11-12 03:11:34 Favorites: 42.5% at 4/sec for odebconuee
+2017-11-12 03:11:40 Favorites: 56.7% at 49/sec for ORECatapult
+2017-11-12 03:12:22 Favorites: 51.5% at 45/sec for OriginGreen
+2017-11-12 03:12:25 Favorites: 52.1% at 33/sec for PEspinosaC
+2017-11-12 03:12:33 Favorites: 55.7% at 51/sec for ProspectEnviro
+2017-11-12 03:12:35 Favorites: 93.8% at 8/sec for RACMagazine
+2017-11-12 03:12:35 Favorites: 90.9% at 20/sec for RhodriJames10
+2017-11-12 03:12:52 Favorites: 53.8% at 49/sec for Shell_society
+2017-11-12 03:13:01 Favorites: 51.2% at 43/sec for SSNscotland
+2017-11-12 03:13:10 Favorites: 54.6% at 42/sec for SustainableLSE
+2017-11-12 03:13:14 Favorites: 82.8% at 63/sec for techFMexperts
+2017-11-12 03:13:18 Favorites: 87.3% at 44/sec for TheGoAheadGroup
+2017-11-12 03:13:19 Favorites: 95.2% at 35/sec for thenewsparks
+2017-11-12 03:13:21 Favorites: 100% at 15/sec for theSAEE
+2017-11-12 03:13:38 Favorites: 49.7% at 46/sec for UKinMalaysia
+2017-11-12 03:13:38 Favorites: User ukti_malaysia has a protected account or no Favoritess to collect so skipping
+2017-11-12 03:13:43 Favorites: Waiting for 12.3 minutes due to : Used up allowance in a loop
+2017-11-12 03:18:28 Friends  : 98.7% at 4/sec for auriol_miller
+2017-11-12 03:27:15 Favorites: 51.6% at 3/sec for UNIDO
+2017-11-12 03:27:15 Favorites: 100% at 38/sec for Waterbriefing
+2017-11-12 03:27:23 Favorites: 59.3% at 54/sec for wenyuweng
+2017-11-12 03:27:27 Favorites: 78.5% at 40/sec for WestBerkshire
+2017-11-12 03:27:43 Favorites: 50.3% at 44/sec for WMBtweets
+2017-11-12 03:27:59 Favorites: 57% at 46/sec for WodcWill
+2017-11-12 03:29:07 Favorites: Waiting for 12.3 minutes due to : Used up allowance in a loop
+2017-11-12 03:41:49 Favorites: 18.7% at 4/sec for 9yardsArchitec_
+2017-11-12 03:42:06 Favorites: 52.8% at 48/sec for andrewjhornby
+2017-11-12 03:42:12 Favorites: 59.8% at 52/sec for auriol_miller
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+Warning message:
+package 'twitteR' was built under R version 3.4.1 

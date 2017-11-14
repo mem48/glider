@@ -1,0 +1,173 @@
+starting worker pid=8140 on localhost:11045 at 21:29:14.073
+starting worker pid=18732 on localhost:11045 at 21:29:14.229
+starting worker pid=13400 on localhost:11045 at 21:29:14.401
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-08 21:29:25 Friends  : 97.6% at 32/sec for PeterRickaby
+2017-11-08 21:29:29 Favorites: 100% at 25/sec for PeterRickaby
+2017-11-08 21:29:35 Favorites: 52.4% at 48/sec for Access2ltd
+2017-11-08 21:29:43 Tweets   : 100% at 17/sec for PeterRickaby
+2017-11-08 21:30:06 Friends  : 94.2% at 49/sec for Access2ltd
+2017-11-08 21:30:22 Favorites: 51.7% at 47/sec for AestheticaMag
+2017-11-08 21:30:25 Favorites: 64.1% at 44/sec for AL_Atweets
+2017-11-08 21:30:32 Tweets   : 100% at 53/sec for Access2ltd
+2017-11-08 21:30:35 Favorites: 55.9% at 47/sec for AlexEly
+2017-11-08 21:30:37 Favorites: 76.3% at 43/sec for AminTahaArch
+2017-11-08 21:30:39 Favorites: 100% at 32/sec for andy4wm
+2017-11-08 21:30:43 Favorites: 61.7% at 48/sec for ArchDaily
+2017-11-08 21:31:04 Favorites: 54.1% at 46/sec for architectsLRSA
+2017-11-08 21:31:10 Favorites: 66.2% at 49/sec for bfootarch_sam
+2017-11-08 21:31:22 Favorites: Waiting for 7.5 minutes due to : Used up allowance in a loop
+2017-11-08 21:31:31 Tweets   : 8.7% at 55/sec for AestheticaMag
+2017-11-08 21:31:42 Tweets   : 100% at 23/sec for AL_Atweets
+2017-11-08 21:32:03 Tweets   : 100% at 47/sec for AlexEly
+2017-11-08 21:32:12 Tweets   : 100% at 22/sec for AminTahaArch
+2017-11-08 21:33:12 Friends  : 99.3% at 54/sec for AestheticaMag
+2017-11-08 21:33:14 Tweets   : 60.3% at 52/sec for andy4wm
+2017-11-08 21:33:15 Friends  : 98.9% at 50/sec for AL_Atweets
+2017-11-08 21:33:24 Friends  : 98.6% at 60/sec for AlexEly
+2017-11-08 21:33:34 Friends  : 100% at 53/sec for AminTahaArch
+2017-11-08 21:33:52 Friends  : 97.4% at 48/sec for andy4wm
+2017-11-08 21:34:04 Tweets   : 4.9% at 64/sec for ArchDaily
+2017-11-08 21:34:37 Tweets   : 99.9% at 47/sec for architectsLRSA
+2017-11-08 21:34:47 Friends  : 100% at 53/sec for ArchDaily
+2017-11-08 21:34:51 Friends  : 98% at 56/sec for architectsLRSA
+2017-11-08 21:34:52 Friends  : Waiting for 7.1 minutes
+2017-11-08 21:34:53 Tweets   : 100% at 39/sec for bfootarch_sam
+2017-11-08 21:35:45 Tweets   : 86.5% at 62/sec for BiljanaSavic
+2017-11-08 21:35:56 Tweets   : 100% at 30/sec for bistroat66
+2017-11-08 21:36:52 Tweets   : 83% at 56/sec for CarlCTA
+2017-11-08 21:37:50 Tweets   : 21.7% at 55/sec for CofGCollege
+2017-11-08 21:38:48 Tweets   : 67.5% at 55/sec for CroydonAirport
+2017-11-08 21:38:55 Tweets   : 100% at 7/sec for fi_macdonald
+2017-11-08 21:39:09 Favorites: 51.3% at 2/sec for BiljanaSavic
+2017-11-08 21:39:10 Favorites: 100% at 34/sec for bistroat66
+2017-11-08 21:39:30 Favorites: 50.6% at 49/sec for CarlCTA
+2017-11-08 21:39:30 Tweets   : 100% at 50/sec for fiftypointeight
+2017-11-08 21:39:49 Tweets   : 99.9% at 40/sec for FlanLawArch
+2017-11-08 21:40:39 Favorites: 28.5% at 46/sec for CofGCollege
+2017-11-08 21:40:44 Tweets   : 21.3% at 57/sec for FredSchoorl
+2017-11-08 21:41:04 Tweets   : 100.1% at 38/sec for HCC_Interiors
+2017-11-08 21:41:38 Favorites: Waiting for 12.4 minutes due to : Used up allowance in a loop
+2017-11-08 21:41:57 Tweets   : 57.2% at 60/sec for iconeye
+2017-11-08 21:42:16 Friends  : 97.3% at 1/sec for bfootarch_sam
+2017-11-08 21:42:21 Tweets   : 99.8% at 42/sec for juliet_leach
+2017-11-08 21:42:34 Friends  : 99.3% at 62/sec for BiljanaSavic
+2017-11-08 21:42:36 Friends  : 100% at 39/sec for bistroat66
+2017-11-08 21:43:14 Tweets   : 28.1% at 61/sec for liverpoolimages
+2017-11-08 21:43:40 Tweets   : 99.8% at 46/sec for LSBU_BEA
+2017-11-08 21:43:41 Friends  : 97.5% at 55/sec for CarlCTA
+2017-11-08 21:44:09 Friends  : 99.5% at 61/sec for CofGCollege
+2017-11-08 21:44:29 Tweets   : 23.4% at 65/sec for marcusfairs
+2017-11-08 21:44:43 Friends  : 98.9% at 61/sec for CroydonAirport
+2017-11-08 21:44:47 Friends  : 98.2% at 52/sec for fi_macdonald
+2017-11-08 21:44:59 Friends  : 99.3% at 57/sec for fiftypointeight
+2017-11-08 21:45:00 Tweets   : 99.9% at 51/sec for MattRJBishop
+2017-11-08 21:45:05 Friends  : 98.2% at 54/sec for FlanLawArch
+2017-11-08 21:45:15 Friends  : 99.2% at 47/sec for FredSchoorl
+2017-11-08 21:45:32 Friends  : 101.4% at 54/sec for HCC_Interiors
+2017-11-08 21:45:32 Tweets   : 99.9% at 55/sec for paulstuartiddon
+2017-11-08 21:45:49 Friends  : 100% at 58/sec for iconeye
+2017-11-08 21:45:56 Friends  : 99.5% at 60/sec for juliet_leach
+2017-11-08 21:46:25 Tweets   : 99.9% at 56/sec for placecareers
+2017-11-08 21:46:59 Friends  : 93.7% at 54/sec for liverpoolimages
+2017-11-08 21:47:19 Friends  : 97.7% at 56/sec for LSBU_BEA
+2017-11-08 21:47:19 Friends  : Waiting for 9.9 minutes
+2017-11-08 21:47:24 Tweets   : 60% at 54/sec for rachelj_bell
+2017-11-08 21:48:08 Tweets   : 99.9% at 56/sec for RSHParchitects
+2017-11-08 21:48:18 Tweets   : 100% at 27/sec for russedwardsLDN
+2017-11-08 21:49:15 Tweets   : 58.9% at 57/sec for StrideTreglown
+2017-11-08 21:49:28 Tweets   : 100% at 33/sec for tfoggin
+2017-11-08 21:50:17 Tweets   : 99.9% at 60/sec for TimothySoar
+2017-11-08 21:50:44 Tweets   : 99.9% at 47/sec for trainofpearls
+2017-11-08 21:51:12 Tweets   : 100% at 59/sec for UNDIAUNAARQ
+2017-11-08 21:51:31 Tweets   : 99.9% at 45/sec for AIinFM
+2017-11-08 21:52:26 Tweets   : 85.8% at 59/sec for AimeeManny
+2017-11-08 21:53:21 Tweets   : 37.6% at 58/sec for ArcadisUK
+2017-11-08 21:54:08 Tweets   : 99.4% at 56/sec for AsbriPlanning
+2017-11-08 21:54:35 Favorites: 46.8% at 4/sec for CroydonAirport
+2017-11-08 21:54:37 Favorites: 68% at 45/sec for fi_macdonald
+2017-11-08 21:55:04 Favorites: 53.7% at 48/sec for fiftypointeight
+2017-11-08 21:55:05 Tweets   : 18.9% at 56/sec for AshleyPerryUK
+2017-11-08 21:55:12 Favorites: 59.6% at 47/sec for FlanLawArch
+2017-11-08 21:55:19 Tweets   : 100% at 35/sec for BKinGuildford
+2017-11-08 21:55:20 Favorites: 63.7% at 49/sec for FredSchoorl
+2017-11-08 21:55:30 Tweets   : 100% at 25/sec for Chaseville
+2017-11-08 21:55:31 Favorites: 52.4% at 49/sec for HCC_Interiors
+2017-11-08 21:55:37 Favorites: 51.4% at 47/sec for iconeye
+2017-11-08 21:55:43 Tweets   : 100% at 28/sec for ChrisJeffers6
+2017-11-08 21:55:49 Favorites: 55.9% at 48/sec for juliet_leach
+2017-11-08 21:56:36 Tweets   : 48.4% at 60/sec for Cities_Today
+2017-11-08 21:56:40 Favorites: 47.4% at 47/sec for liverpoolimages
+2017-11-08 21:56:51 Favorites: 54.2% at 45/sec for LSBU_BEA
+2017-11-08 21:56:52 Favorites: 100% at 35/sec for marcusfairs
+2017-11-08 21:56:58 Favorites: Waiting for 12.4 minutes due to : Used up allowance in a loop
+2017-11-08 21:57:05 Tweets   : 100% at 48/sec for ColinYoungAWA
+2017-11-08 21:57:30 Tweets   : 100% at 51/sec for CookeArkwright
+2017-11-08 21:57:47 Friends  : 99.7% at 2/sec for marcusfairs
+2017-11-08 21:58:12 Friends  : 93.6% at 53/sec for MattRJBishop
+2017-11-08 21:58:18 Friends  : 97.7% at 57/sec for paulstuartiddon
+2017-11-08 21:58:26 Tweets   : 36.3% at 57/sec for courteneyccs
+2017-11-08 21:58:28 Friends  : 99.5% at 62/sec for placecareers
+2017-11-08 21:58:45 Friends  : 97.8% at 57/sec for rachelj_bell
+2017-11-08 21:58:52 Friends  : 99.5% at 58/sec for RSHParchitects
+2017-11-08 21:58:57 Friends  : 98.5% at 54/sec for russedwardsLDN
+2017-11-08 21:59:02 Tweets   : 99.9% at 52/sec for cyclonw
+2017-11-08 21:59:15 Tweets   : 99.7% at 29/sec for D_C_Moody
+2017-11-08 21:59:27 Friends  : 98.7% at 59/sec for StrideTreglown
+2017-11-08 21:59:30 Friends  : 94.9% at 44/sec for tfoggin
+2017-11-08 21:59:31 Friends  : 88.9% at 8/sec for TimothySoar
+2017-11-08 21:59:46 Friends  : 98.7% at 59/sec for trainofpearls
+2017-11-08 21:59:47 Friends  : 100% at 27/sec for UNDIAUNAARQ
+2017-11-08 22:00:06 Friends  : 98.1% at 57/sec for AIinFM
+2017-11-08 22:00:21 Friends  : 97.8% at 51/sec for AimeeManny
+2017-11-08 22:00:39 Friends  : 99.2% at 57/sec for ArcadisUK
+2017-11-08 22:00:39 Friends  : Waiting for 11.9 minutes
+2017-11-08 22:09:51 Favorites: 49.7% at 1/sec for MattRJBishop
+2017-11-08 22:09:57 Favorites: 56.4% at 47/sec for paulstuartiddon
+2017-11-08 22:10:12 Favorites: 56.7% at 47/sec for placecareers
+2017-11-08 22:11:18 Favorites: 34% at 48/sec for rachelj_bell
+2017-11-08 22:11:41 Favorites: 53.6% at 46/sec for RSHParchitects
+2017-11-08 22:11:46 Favorites: 65.9% at 47/sec for russedwardsLDN
+2017-11-08 22:12:06 Favorites: 53.9% at 48/sec for StrideTreglown
+2017-11-08 22:12:11 Favorites: 84.6% at 48/sec for tfoggin
+2017-11-08 22:12:21 Favorites: Waiting for 12.4 minutes due to : Used up allowance in a loop
+2017-11-08 22:13:12 Friends  : 97.1% at 1/sec for AsbriPlanning
+2017-11-08 22:13:23 Friends  : 98% at 53/sec for AshleyPerryUK
+2017-11-08 22:13:28 Friends  : 98.8% at 54/sec for BKinGuildford
+2017-11-08 22:13:34 Friends  : 99.5% at 56/sec for Chaseville
+2017-11-08 22:13:42 Friends  : 99.3% at 53/sec for ChrisJeffers6
+2017-11-08 22:15:43 Friends  : 99.7% at 54/sec for Cities_Today
+Error in twInterfaceObj$doAPICall(paste("users", "show", sep = "/"), params = params,  : 
+  Not Found (HTTP 404).
+In addition: Warning message:
+package 'twitteR' was built under R version 3.4.1 
+2017-11-08 22:15:43 Friends: Unable to find account ColinYoungAWA moving to next
+2017-11-08 22:15:43 Friends  : % at /sec for ColinYoungAWA
+2017-11-08 22:16:07 Friends  : 98.9% at 56/sec for CookeArkwright
+2017-11-08 22:16:27 Friends  : 95.6% at 52/sec for courteneyccs
+2017-11-08 22:16:31 Friends  : 98.3% at 43/sec for cyclonw
+2017-11-08 22:16:35 Friends  : 100% at 38/sec for D_C_Moody
+2017-11-08 22:25:13 Favorites: 51.7% at 1/sec for TimothySoar
+2017-11-08 22:25:37 Favorites: 52% at 46/sec for trainofpearls
+2017-11-08 22:25:39 Favorites: 57.5% at 52/sec for UNDIAUNAARQ
+2017-11-08 22:25:40 Favorites: 100% at 30/sec for AIinFM
+2017-11-08 22:26:13 Favorites: 52% at 45/sec for AimeeManny
+2017-11-08 22:26:34 Favorites: 52% at 48/sec for ArcadisUK
+2017-11-08 22:26:41 Favorites: 61.3% at 50/sec for AsbriPlanning
+2017-11-08 22:27:47 Favorites: Waiting for 12.4 minutes due to : Used up allowance in a loop
+2017-11-08 22:40:35 Favorites: 24.4% at 4/sec for AshleyPerryUK
+2017-11-08 22:40:39 Favorites: 69% at 43/sec for BKinGuildford
+2017-11-08 22:40:44 Favorites: 59.9% at 42/sec for Chaseville
+2017-11-08 22:40:51 Favorites: 72.5% at 42/sec for ChrisJeffers6
+2017-11-08 22:41:07 Favorites: 55.5% at 44/sec for Cities_Today
+2017-11-08 22:41:16 Favorites: 54.3% at 45/sec for ColinYoungAWA
+2017-11-08 22:41:18 Favorites: 50% at 41/sec for CookeArkwright
+2017-11-08 22:41:39 Favorites: 51.1% at 43/sec for courteneyccs
+2017-11-08 22:41:40 Favorites: 92.9% at 34/sec for cyclonw
+2017-11-08 22:41:53 Favorites: 49.6% at 42/sec for D_C_Moody
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+Warning message:
+package 'twitteR' was built under R version 3.4.1 

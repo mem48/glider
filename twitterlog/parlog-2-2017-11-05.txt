@@ -1,0 +1,164 @@
+starting worker pid=11280 on localhost:11045 at 18:57:56.499
+starting worker pid=4220 on localhost:11045 at 18:57:56.656
+starting worker pid=6200 on localhost:11045 at 18:57:56.830
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-05 18:58:32 Friends  : 92% at 51/sec for reddyplumbing
+2017-11-05 18:58:52 Friends  : 99.2% at 51/sec for BMerchantsNews
+2017-11-05 18:58:59 Tweets   : 29.1% at 56/sec for reddyplumbing
+2017-11-05 18:59:02 Favorites: 22.4% at 51/sec for reddyplumbing
+2017-11-05 18:59:04 Friends  : 97.4% at 57/sec for EastMidsBC
+2017-11-05 18:59:06 Favorites: 53.8% at 60/sec for BMerchantsNews
+2017-11-05 18:59:15 Favorites: 56.9% at 54/sec for EastMidsBC
+2017-11-05 18:59:17 Favorites: Waiting for 12.4 minutes due to : Used up allowance in a loop
+2017-11-05 18:59:40 Friends  : 99.3% at 45/sec for myglazing
+2017-11-05 18:59:59 Friends  : 99.9% at 42/sec for Number10gov
+2017-11-05 19:00:03 Tweets   : 44% at 50/sec for BMerchantsNews
+2017-11-05 19:00:18 Tweets   : 100% at 33/sec for EastMidsBC
+2017-11-05 19:00:35 Friends  : 99.2% at 46/sec for CentralLobby
+2017-11-05 19:00:39 Tweets   : 100% at 37/sec for myglazing
+2017-11-05 19:00:46 Friends  : 98.7% at 42/sec for debbiesimcock
+2017-11-05 19:01:45 Tweets   : 27.2% at 48/sec for Number10gov
+2017-11-05 19:02:16 Friends  : 97.7% at 42/sec for Zehnder_Passive
+2017-11-05 19:02:22 Friends  : 99.6% at 40/sec for UKRoofingAwards
+2017-11-05 19:02:51 Tweets   : 14.9% at 49/sec for CentralLobby
+2017-11-05 19:03:09 Tweets   : 100% at 35/sec for debbiesimcock
+2017-11-05 19:03:09 Friends  : 99.1% at 48/sec for natfedevents
+2017-11-05 19:03:18 Friends  : 98% at 46/sec for Sara_Kassam
+2017-11-05 19:03:29 Friends  : 98.6% at 45/sec for CIOBPolicy
+2017-11-05 19:03:38 Friends  : 99.7% at 42/sec for COBeAlarmed
+2017-11-05 19:03:40 Friends  : 100% at 35/sec for BenAdamSmith
+2017-11-05 19:04:10 Friends  : 98.6% at 45/sec for MarkMallinder
+2017-11-05 19:04:10 Friends  : Waiting for 8.9 minutes
+2017-11-05 19:04:15 Tweets   : 51.6% at 48/sec for Zehnder_Passive
+2017-11-05 19:04:30 Tweets   : 100% at 35/sec for UKRoofingAwards
+2017-11-05 19:05:33 Tweets   : 41.3% at 51/sec for natfedevents
+2017-11-05 19:06:02 Tweets   : 99.9% at 41/sec for Sara_Kassam
+2017-11-05 19:06:24 Tweets   : 100% at 39/sec for CIOBPolicy
+2017-11-05 19:06:59 Tweets   : 99.7% at 47/sec for COBeAlarmed
+2017-11-05 19:08:02 Tweets   : 26.4% at 51/sec for BenAdamSmith
+2017-11-05 19:08:38 Tweets   : 99.6% at 42/sec for MarkMallinder
+2017-11-05 19:09:19 Tweets   : 99.9% at 46/sec for CIBSEAwards
+2017-11-05 19:10:22 Tweets   : 53.5% at 51/sec for KatieSchmuecker
+2017-11-05 19:10:30 Tweets   : 100% at 15/sec for APM_Policy
+2017-11-05 19:10:55 Tweets   : 100% at 44/sec for PolypipeTerrain
+2017-11-05 19:11:32 Tweets   : 99.5% at 45/sec for CITB_Scotland
+2017-11-05 19:12:10 Favorites: 57.5% at 1/sec for myglazing
+2017-11-05 19:12:26 Tweets   : 98.9% at 51/sec for Natural_Paving
+2017-11-05 19:12:30 Favorites: 50.8% at 44/sec for Number10gov
+2017-11-05 19:12:31 Favorites: 100% at 7/sec for CentralLobby
+2017-11-05 19:12:34 Favorites: 84.3% at 54/sec for debbiesimcock
+2017-11-05 19:12:42 Favorites: 60.2% at 50/sec for Zehnder_Passive
+2017-11-05 19:12:44 Favorites: 57.8% at 50/sec for UKRoofingAwards
+2017-11-05 19:13:12 Favorites: 53.3% at 46/sec for natfedevents
+2017-11-05 19:13:17 Favorites: 59.8% at 42/sec for Sara_Kassam
+2017-11-05 19:13:19 Favorites: 100% at 38/sec for CIOBPolicy
+2017-11-05 19:13:23 Favorites: 83.8% at 47/sec for COBeAlarmed
+2017-11-05 19:13:30 Tweets   : 16% at 51/sec for 24housing
+2017-11-05 19:13:41 Friends  : 98.6% at 2/sec for CIBSEAwards
+2017-11-05 19:13:49 Tweets   : 99.8% at 33/sec for BrianBerryFMB
+2017-11-05 19:14:18 Favorites: 51.2% at 44/sec for BenAdamSmith
+2017-11-05 19:14:27 Friends  : 99.5% at 46/sec for KatieSchmuecker
+2017-11-05 19:14:33 Friends  : 98.3% at 43/sec for APM_Policy
+2017-11-05 19:14:40 Friends  : 96.8% at 42/sec for PolypipeTerrain
+2017-11-05 19:14:48 Favorites: Waiting for 12.2 minutes due to : Used up allowance in a loop
+2017-11-05 19:14:59 Tweets   : 21.6% at 46/sec for Helen_Barnard
+2017-11-05 19:15:12 Friends  : 96.7% at 44/sec for CITB_Scotland
+2017-11-05 19:15:39 Friends  : 93.3% at 47/sec for Natural_Paving
+2017-11-05 19:16:06 Friends  : 99.4% at 43/sec for 24housing
+2017-11-05 19:16:06 Tweets   : 9.3% at 48/sec for Alison_Inman
+2017-11-05 19:16:08 Friends  : 99% at 36/sec for BrianBerryFMB
+2017-11-05 19:17:15 Tweets   : 25.1% at 46/sec for TheGBHighSt
+2017-11-05 19:17:59 Friends  : 99.5% at 43/sec for Helen_Barnard
+2017-11-05 19:18:20 Tweets   : 90.8% at 49/sec for ArchitectureSW
+2017-11-05 19:18:37 Tweets   : 100% at 26/sec for adurworthingbc
+2017-11-05 19:19:20 Friends  : 96.9% at 45/sec for Alison_Inman
+2017-11-05 19:19:46 Tweets   : 17.8% at 46/sec for ecominimalnick
+2017-11-05 19:20:21 Friends  : 98.6% at 44/sec for TheGBHighSt
+2017-11-05 19:20:29 Friends  : 99.4% at 43/sec for ArchitectureSW
+2017-11-05 19:20:37 Friends  : 96.8% at 46/sec for adurworthingbc
+2017-11-05 19:20:48 Friends  : 99.2% at 43/sec for ecominimalnick
+2017-11-05 19:20:54 Tweets   : 56.7% at 47/sec for RIBANorthWest
+2017-11-05 19:21:30 Friends  : 99.1% at 42/sec for RIBANorthWest
+2017-11-05 19:21:30 Friends  : Waiting for 6.9 minutes
+2017-11-05 19:21:59 Tweets   : 26.7% at 49/sec for JGSpeedfit
+2017-11-05 19:23:07 Tweets   : 48.8% at 47/sec for ConExcellence
+2017-11-05 19:23:34 Tweets   : 99.8% at 44/sec for HHHelpline
+2017-11-05 19:24:32 Tweets   : 10.5% at 55/sec for Window_News_uk
+2017-11-05 19:25:27 Tweets   : 9.5% at 58/sec for 4_Walls
+2017-11-05 19:26:30 Tweets   : 51.5% at 51/sec for ikoplc
+2017-11-05 19:26:57 Tweets   : 100% at 48/sec for RIBANorth
+2017-11-05 19:27:30 Favorites: 50.7% at 2/sec for MarkMallinder
+2017-11-05 19:27:31 Favorites: 98.9% at 53/sec for CIBSEAwards
+2017-11-05 19:27:37 Favorites: 53.9% at 49/sec for KatieSchmuecker
+2017-11-05 19:27:37 Tweets   : 100% at 56/sec for johnalker
+2017-11-05 19:27:38 Favorites: 100% at 8/sec for APM_Policy
+2017-11-05 19:27:42 Favorites: 98.5% at 52/sec for PolypipeTerrain
+2017-11-05 19:27:53 Favorites: 50.9% at 51/sec for CITB_Scotland
+2017-11-05 19:28:05 Favorites: 54.6% at 49/sec for Natural_Paving
+2017-11-05 19:28:40 Tweets   : 16.1% at 51/sec for Kate_de
+2017-11-05 19:28:41 Favorites: 52.5% at 49/sec for 24housing
+2017-11-05 19:28:42 Favorites: 100% at 31/sec for BrianBerryFMB
+2017-11-05 19:28:48 Favorites: 59.6% at 51/sec for Helen_Barnard
+2017-11-05 19:28:54 Friends  : 97.5% at 2/sec for JGSpeedfit
+2017-11-05 19:29:15 Friends  : 98.9% at 50/sec for ConExcellence
+2017-11-05 19:29:30 Friends  : 100% at 48/sec for HHHelpline
+2017-11-05 19:29:39 Tweets   : 22% at 54/sec for RICSRecruit
+2017-11-05 19:29:48 Favorites: Waiting for 12.6 minutes due to : Used up allowance in a loop
+2017-11-05 19:30:36 Tweets   : 42.5% at 55/sec for RCIMag
+2017-11-05 19:31:32 Tweets   : 61.4% at 57/sec for sajidjavid
+2017-11-05 19:31:32 Friends  : 93.7% at 49/sec for Window_News_uk
+2017-11-05 19:32:23 Tweets   : 87.3% at 62/sec for ParsonsWhittley
+2017-11-05 19:33:16 Tweets   : 65.3% at 61/sec for Vokera4Trade
+2017-11-05 19:33:28 Tweets   : 99.7% at 31/sec for PaxtonsSW
+2017-11-05 19:33:32 Friends  : 99.7% at 55/sec for 4_Walls
+2017-11-05 19:33:53 Tweets   : 99.9% at 51/sec for SussexBC
+2017-11-05 19:33:59 Friends  : 98.8% at 52/sec for ikoplc
+2017-11-05 19:34:24 Friends  : 99.2% at 57/sec for RIBANorth
+2017-11-05 19:34:36 Friends  : 99.6% at 56/sec for johnalker
+2017-11-05 19:34:46 Friends  : 99.3% at 55/sec for Kate_de
+2017-11-05 19:34:49 Tweets   : 98.2% at 58/sec for juliathrift
+2017-11-05 19:35:19 Friends  : 99.9% at 48/sec for RICSRecruit
+2017-11-05 19:35:25 Friends  : 95.1% at 36/sec for RCIMag
+2017-11-05 19:35:41 Friends  : 99.5% at 40/sec for sajidjavid
+2017-11-05 19:35:52 Tweets   : 81.1% at 51/sec for GraceHomesHQ
+2017-11-05 19:36:05 Friends  : 99% at 46/sec for ParsonsWhittley
+2017-11-05 19:36:05 Friends  : Waiting for 7.5 minutes
+2017-11-05 19:42:46 Favorites: 12.5% at 4/sec for Alison_Inman
+2017-11-05 19:43:58 Favorites: 44.4% at 45/sec for TheGBHighSt
+2017-11-05 19:44:08 Friends  : 97.8% at 2/sec for Vokera4Trade
+2017-11-05 19:44:10 Friends  : 100% at 30/sec for PaxtonsSW
+2017-11-05 19:44:10 Favorites: 52.3% at 47/sec for ArchitectureSW
+2017-11-05 19:44:15 Favorites: 62.6% at 48/sec for adurworthingbc
+2017-11-05 19:44:27 Favorites: 50.2% at 46/sec for ecominimalnick
+2017-11-05 19:44:35 Friends  : 98.8% at 44/sec for SussexBC
+2017-11-05 19:44:37 Favorites: 52.5% at 44/sec for RIBANorthWest
+2017-11-05 19:45:22 Friends  : 98.5% at 45/sec for juliathrift
+2017-11-05 19:45:23 Favorites: Waiting for 12.3 minutes due to : Used up allowance in a loop
+2017-11-05 19:45:30 Friends  : 99.5% at 46/sec for GraceHomesHQ
+2017-11-05 19:58:22 Favorites: 50.6% at 4/sec for JGSpeedfit
+2017-11-05 19:58:46 Favorites: 51.8% at 46/sec for ConExcellence
+2017-11-05 19:58:48 Favorites: 99% at 51/sec for HHHelpline
+2017-11-05 19:59:15 Favorites: 50.3% at 48/sec for Window_News_uk
+2017-11-05 19:59:17 Favorites: 52.7% at 50/sec for 4_Walls
+2017-11-05 20:00:11 Favorites: 51% at 45/sec for ikoplc
+2017-11-05 20:00:20 Favorites: 53.6% at 46/sec for RIBANorth
+2017-11-05 20:00:22 Favorites: 54.7% at 45/sec for johnalker
+2017-11-05 20:00:39 Favorites: Waiting for 12.3 minutes due to : Used up allowance in a loop
+2017-11-05 20:14:11 Favorites: 45.8% at 4/sec for Kate_de
+2017-11-05 20:14:17 Favorites: 60% at 46/sec for RICSRecruit
+2017-11-05 20:14:40 Favorites: 50.8% at 48/sec for RCIMag
+2017-11-05 20:14:41 Favorites: 100% at 31/sec for sajidjavid
+2017-11-05 20:14:50 Favorites: 57.5% at 44/sec for ParsonsWhittley
+2017-11-05 20:15:00 Favorites: 50.5% at 46/sec for Vokera4Trade
+2017-11-05 20:15:01 Favorites: 100% at 2/sec for PaxtonsSW
+2017-11-05 20:15:10 Favorites: 53.9% at 43/sec for SussexBC
+2017-11-05 20:15:25 Favorites: 50.5% at 48/sec for juliathrift
+2017-11-05 20:15:35 Favorites: 54.2% at 49/sec for GraceHomesHQ
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+Warning message:
+package 'twitteR' was built under R version 3.4.1 

@@ -1,0 +1,167 @@
+starting worker pid=15904 on localhost:11045 at 23:24:47.189
+starting worker pid=15600 on localhost:11045 at 23:24:47.345
+starting worker pid=13924 on localhost:11045 at 23:24:47.517
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-07 23:27:19 Favorites: 53.7% at 34/sec for NHAparty
+2017-11-07 23:27:21 Favorites: 100% at 38/sec for ShropsArchitect
+2017-11-07 23:27:38 Favorites: 56.5% at 36/sec for tgb_uk24
+2017-11-07 23:27:38 Favorites: 100% at 38/sec for uk_ace
+2017-11-07 23:28:01 Favorites: 52.5% at 35/sec for carolestott
+2017-11-07 23:28:16 Favorites: 51.1% at 39/sec for cityplym
+2017-11-07 23:28:35 Favorites: 51.1% at 37/sec for EastonOtley
+2017-11-07 23:28:48 Favorites: 61.3% at 38/sec for KarenPrincipal
+2017-11-07 23:29:12 Tweets   : 5.6% at 45/sec for NHAparty
+2017-11-07 23:29:37 Favorites: 51.4% at 38/sec for My_Apprentice
+2017-11-07 23:29:44 Favorites: 53.3% at 32/sec for SFCA_info
+2017-11-07 23:30:04 Favorites: Waiting for 7.2 minutes due to : Used up allowance in a loop
+2017-11-07 23:30:15 Tweets   : 10.9% at 51/sec for ShropsArchitect
+2017-11-07 23:31:27 Tweets   : 23% at 44/sec for tgb_uk24
+2017-11-07 23:32:24 Tweets   : 99.9% at 52/sec for uk_ace
+2017-11-07 23:33:33 Tweets   : 97.9% at 46/sec for carolestott
+2017-11-07 23:34:46 Tweets   : 27.7% at 44/sec for cityplym
+[1] "Server error: (500) Internal Server Error"
+[1] "This error is likely transient, retrying up to 5 more times ..."
+2017-11-07 23:36:02 Tweets   : 45.5% at 42/sec for EastonOtley
+2017-11-07 23:36:37 Tweets   : 99.9% at 38/sec for KarenPrincipal
+2017-11-07 23:38:01 Tweets   : 36.8% at 38/sec for My_Apprentice
+2017-11-07 23:38:35 Favorites: 49.8% at 6/sec for stroud_neil
+2017-11-07 23:38:37 Favorites: 99% at 37/sec for LCLawards
+2017-11-07 23:38:38 Favorites: 100% at 32/sec for MainHeating
+2017-11-07 23:38:57 Tweets   : 99.7% at 42/sec for SFCA_info
+2017-11-07 23:39:01 Favorites: 55.4% at 35/sec for OldhamCollege
+2017-11-07 23:39:09 Favorites: 64.6% at 37/sec for Sammy_Jones3201
+2017-11-07 23:39:16 Favorites: 52.4% at 38/sec for simprosoftware
+2017-11-07 23:39:18 Favorites: 100% at 13/sec for Vokera4Home
+2017-11-07 23:39:31 Favorites: 59.8% at 32/sec for AdamSmithInt
+2017-11-07 23:39:35 Favorites: 93.5% at 47/sec for AdrianT_PM
+2017-11-07 23:39:41 Favorites: 88.1% at 33/sec for CurelH
+2017-11-07 23:39:52 Favorites: 62.1% at 36/sec for emmamtize
+2017-11-07 23:39:52 Favorites: 100% at 11/sec for HydeParkSol
+2017-11-07 23:40:11 Tweets   : 34.3% at 43/sec for stroud_neil
+2017-11-07 23:40:26 Favorites: 50.4% at 36/sec for JoeChapman30
+2017-11-07 23:40:36 Favorites: 52.7% at 37/sec for lysam8
+2017-11-07 23:40:53 Favorites: Waiting for 11.7 minutes due to : Used up allowance in a loop
+2017-11-07 23:41:19 Tweets   : 100% at 46/sec for LCLawards
+2017-11-07 23:41:41 Tweets   : 100% at 38/sec for MainHeating
+2017-11-07 23:42:56 Tweets   : 54.2% at 42/sec for OldhamCollege
+2017-11-07 23:44:15 Tweets   : 28% at 40/sec for Sammy_Jones3201
+2017-11-07 23:44:52 Friends  : 99.8% at 40/sec for NHAparty
+2017-11-07 23:45:25 Tweets   : 64.1% at 46/sec for simprosoftware
+2017-11-07 23:45:50 Tweets   : 100% at 44/sec for Vokera4Home
+2017-11-07 23:46:04 Friends  : 99.8% at 49/sec for ShropsArchitect
+2017-11-07 23:46:34 Friends  : 99.6% at 54/sec for tgb_uk24
+2017-11-07 23:46:39 Tweets   : 99.3% at 44/sec for AdamSmithInt
+2017-11-07 23:46:53 Friends  : 99.9% at 56/sec for uk_ace
+2017-11-07 23:46:55 Friends  : 99% at 46/sec for carolestott
+2017-11-07 23:47:03 Tweets   : 100% at 39/sec for AdrianT_PM
+2017-11-07 23:47:11 Tweets   : 100% at 13/sec for CurelH
+2017-11-07 23:47:13 Friends  : 99.4% at 52/sec for cityplym
+2017-11-07 23:47:23 Tweets   : 99.7% at 28/sec for emmamtize
+2017-11-07 23:47:32 Tweets   : 100% at 7/sec for HydeParkSol
+2017-11-07 23:47:50 Friends  : 98.3% at 57/sec for EastonOtley
+2017-11-07 23:47:54 Friends  : 98.9% at 57/sec for KarenPrincipal
+2017-11-07 23:48:41 Tweets   : 99.2% at 46/sec for JoeChapman30
+2017-11-07 23:48:47 Friends  : 98.7% at 50/sec for My_Apprentice
+2017-11-07 23:49:02 Friends  : 99.4% at 55/sec for SFCA_info
+2017-11-07 23:49:45 Friends  : 98.6% at 51/sec for stroud_neil
+2017-11-07 23:49:52 Tweets   : 99.4% at 45/sec for lysam8
+2017-11-07 23:50:12 Friends  : 99.9% at 49/sec for LCLawards
+2017-11-07 23:50:35 Friends  : 99.9% at 49/sec for MainHeating
+2017-11-07 23:51:03 Tweets   : 12.5% at 45/sec for MartinezBuenoJA
+2017-11-07 23:52:08 Tweets   : 66.7% at 49/sec for matt_game
+2017-11-07 23:53:12 Tweets   : 99.9% at 46/sec for RailLeaders
+2017-11-07 23:53:23 Friends  : 98.5% at 47/sec for OldhamCollege
+2017-11-07 23:53:43 Tweets   : 100% at 41/sec for RbDResearch
+2017-11-07 23:54:07 Favorites: 38.7% at 4/sec for MartinezBuenoJA
+2017-11-07 23:54:18 Friends  : 97.4% at 51/sec for Sammy_Jones3201
+2017-11-07 23:54:18 Friends  : Waiting for 5.7 minutes
+2017-11-07 23:54:41 Favorites: 39.7% at 35/sec for matt_game
+2017-11-07 23:54:44 Favorites: 98.7% at 32/sec for RailLeaders
+2017-11-07 23:54:49 Favorites: 95.6% at 37/sec for RbDResearch
+2017-11-07 23:54:54 Tweets   : 29.4% at 45/sec for SusanneMadsen
+2017-11-07 23:54:54 Favorites: 54.8% at 37/sec for SusanneMadsen
+2017-11-07 23:56:06 Tweets   : 44.1% at 44/sec for Therese_LW
+2017-11-07 23:56:09 Favorites: Waiting for 11.8 minutes due to : Used up allowance in a loop
+2017-11-07 23:57:15 Tweets   : 40.8% at 46/sec for TKA_Training
+2017-11-07 23:57:59 Tweets   : 99.9% at 39/sec for Transport4North
+2017-11-07 23:59:03 Tweets   : 67.8% at 49/sec for ceocb
+2017-11-07 23:59:26 Tweets   : 99.9% at 37/sec for rob_may_
+2017-11-08 00:00:30 Friends  : 99.8% at 3/sec for simprosoftware
+2017-11-08 00:00:33 Friends  : 100% at 18/sec for Vokera4Home
+2017-11-08 00:00:34 Tweets   : 65.9% at 47/sec for BAS_News
+2017-11-08 00:01:09 Friends  : 99.4% at 48/sec for AdamSmithInt
+2017-11-08 00:01:27 Friends  : 98.6% at 48/sec for AdrianT_PM
+2017-11-08 00:01:30 Friends  : 100% at 47/sec for CurelH
+2017-11-08 00:01:36 Friends  : 97.3% at 37/sec for emmamtize
+2017-11-08 00:01:37 Friends  : 96.9% at 23/sec for HydeParkSol
+2017-11-08 00:01:45 Friends  : 99% at 41/sec for JoeChapman30
+2017-11-08 00:01:45 Tweets   : 23.1% at 45/sec for ctsi_uk
+2017-11-08 00:02:05 Tweets   : 99.8% at 33/sec for DExEUgov
+2017-11-08 00:02:09 Friends  : 99.2% at 50/sec for lysam8
+2017-11-08 00:02:57 Friends  : 98.8% at 46/sec for MartinezBuenoJA
+2017-11-08 00:03:13 Friends  : 99.6% at 43/sec for matt_game
+2017-11-08 00:03:16 Tweets   : 18.1% at 45/sec for ftlive
+2017-11-08 00:03:40 Friends  : 99.5% at 46/sec for RailLeaders
+2017-11-08 00:04:00 Friends  : 99.3% at 46/sec for RbDResearch
+2017-11-08 00:04:20 Friends  : 100% at 46/sec for SusanneMadsen
+2017-11-08 00:04:35 Tweets   : 93.3% at 41/sec for GCSNorthEast
+2017-11-08 00:04:36 Friends  : 98.4% at 43/sec for Therese_LW
+2017-11-08 00:04:36 Friends  : Waiting for 10.6 minutes
+2017-11-08 00:05:36 Tweets   : 74.2% at 52/sec for HEFCE
+2017-11-08 00:06:46 Tweets   : 48.7% at 46/sec for PtoETraining
+2017-11-08 00:07:58 Tweets   : 58.4% at 44/sec for SellafieldLtd
+2017-11-08 00:08:18 Favorites: 50.8% at 4/sec for Therese_LW
+2017-11-08 00:08:23 Favorites: 72.8% at 40/sec for TKA_Training
+2017-11-08 00:08:28 Favorites: 90.4% at 38/sec for Transport4North
+2017-11-08 00:08:33 Favorites: 57.2% at 36/sec for ceocb
+2017-11-08 00:08:41 Favorites: 50.1% at 37/sec for rob_may_
+2017-11-08 00:09:18 Tweets   : 16.9% at 40/sec for ShropsChamber
+2017-11-08 00:09:25 Tweets   : 100% at 6/sec for Car30_rally
+2017-11-08 00:09:33 Tweets   : 100% at 7/sec for e_CommonSense
+2017-11-08 00:09:42 Favorites: 50.9% at 38/sec for BAS_News
+2017-11-08 00:10:00 Favorites: 52.7% at 38/sec for ctsi_uk
+2017-11-08 00:10:02 Favorites: 100% at 12/sec for DExEUgov
+2017-11-08 00:10:07 Tweets   : 100% at 30/sec for haldane_fisher
+2017-11-08 00:10:31 Tweets   : 99.6% at 39/sec for Imperial_Bricks
+2017-11-08 00:11:18 Tweets   : 99.9% at 49/sec for IntactSoftware
+2017-11-08 00:11:26 Favorites: 39.6% at 38/sec for ftlive
+2017-11-08 00:11:29 Favorites: 60% at 37/sec for GCSNorthEast
+2017-11-08 00:11:29 Favorites: Waiting for 11.8 minutes due to : Used up allowance in a loop
+2017-11-08 00:12:21 Tweets   : 21% at 51/sec for LynseySweales
+2017-11-08 00:16:16 Friends  : 95.6% at 3/sec for TKA_Training
+2017-11-08 00:16:52 Friends  : 98.4% at 49/sec for Transport4North
+2017-11-08 00:17:01 Friends  : 99.7% at 42/sec for ceocb
+2017-11-08 00:17:07 Friends  : 98.8% at 38/sec for rob_may_
+2017-11-08 00:17:50 Friends  : 99.7% at 46/sec for BAS_News
+2017-11-08 00:18:31 Friends  : 99.5% at 44/sec for ctsi_uk
+2017-11-08 00:18:39 Friends  : 99.3% at 52/sec for DExEUgov
+2017-11-08 00:20:15 Friends  : 99.7% at 53/sec for ftlive
+2017-11-08 00:20:31 Friends  : 99.9% at 53/sec for GCSNorthEast
+2017-11-08 00:20:44 Friends  : 99.7% at 50/sec for HEFCE
+2017-11-08 00:21:31 Friends  : 99.1% at 50/sec for PtoETraining
+2017-11-08 00:21:56 Friends  : 99.4% at 51/sec for SellafieldLtd
+2017-11-08 00:23:43 Favorites: 91.3% at 0/sec for HEFCE
+2017-11-08 00:24:02 Favorites: 57.6% at 37/sec for PtoETraining
+2017-11-08 00:24:07 Favorites: 50.1% at 36/sec for SellafieldLtd
+2017-11-08 00:24:31 Favorites: 49.4% at 38/sec for ShropsChamber
+2017-11-08 00:24:33 Favorites: 100% at 29/sec for Car30_rally
+2017-11-08 00:24:33 Favorites: User e_CommonSense has a protected account or no Favoritess to collect so skipping
+2017-11-08 00:24:38 Favorites: 50.8% at 40/sec for haldane_fisher
+2017-11-08 00:24:41 Favorites: 58.1% at 40/sec for Imperial_Bricks
+2017-11-08 00:24:46 Favorites: 55.3% at 39/sec for IntactSoftware
+2017-11-08 00:24:57 Friends  : 98.1% at 48/sec for ShropsChamber
+2017-11-08 00:24:58 Friends  : Waiting for 5.6 minutes
+2017-11-08 00:25:17 Favorites: 52.4% at 34/sec for LynseySweales
+2017-11-08 00:30:49 Friends  : 99.2% at 0/sec for Car30_rally
+2017-11-08 00:30:50 Friends  : 100% at 5/sec for e_CommonSense
+2017-11-08 00:31:01 Friends  : 98.9% at 51/sec for haldane_fisher
+2017-11-08 00:31:35 Friends  : 98.9% at 49/sec for Imperial_Bricks
+2017-11-08 00:32:19 Friends  : 99.5% at 51/sec for IntactSoftware
+2017-11-08 00:34:05 Friends  : 99.8% at 46/sec for LynseySweales
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+package 'twitteR' was built under R version 3.4.1 
+Warning message:
+package 'twitteR' was built under R version 3.4.1 

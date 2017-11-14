@@ -1,0 +1,173 @@
+starting worker pid=19128 on localhost:11045 at 22:15:39.648
+starting worker pid=19704 on localhost:11045 at 22:15:39.869
+starting worker pid=5092 on localhost:11045 at 22:15:40.035
+[1] "Using direct authentication"
+
+2017-11-10 22:16:59 Friends  : 97.7% at 32/sec for bishyroadnet
+2017-11-10 22:17:21 Friends  : 97.9% at 48/sec for blackcountrylep
+2017-11-10 22:17:50 Friends  : 96.2% at 42/sec for bradfordmdc
+2017-11-10 22:18:00 Friends  : 100% at 37/sec for BrigidSimmonds
+2017-11-10 22:18:12 Friends  : 98.1% at 37/sec for BrisParkStreet
+2017-11-10 22:18:27 Friends  : 98.6% at 42/sec for CST_UK
+2017-11-10 22:18:33 Favorites: Waiting for 7.8 minutes due to : Used up allowance in a loop
+2017-11-10 22:18:42 Friends  : 99.1% at 38/sec for CumbriaCC
+2017-11-10 22:20:03 Tweets   : 36.3% at 46/sec for bishyroadnet
+2017-11-10 22:20:17 Friends  : 99.4% at 42/sec for DementiaAdv
+2017-11-10 22:20:26 Friends  : 99.7% at 36/sec for EllenReaich
+2017-11-10 22:20:39 Friends  : 99% at 30/sec for EricPickles
+2017-11-10 22:20:49 Friends  : 99.4% at 47/sec for GuildfordBC
+2017-11-10 22:21:12 Tweets   : 42.7% at 47/sec for blackcountrylep
+2017-11-10 22:21:29 Friends  : 99% at 45/sec for hantsconnect
+2017-11-10 22:21:46 Friends  : 98.2% at 42/sec for HarlowCouncil
+2017-11-10 22:22:24 Tweets   : 14.9% at 44/sec for bradfordmdc
+2017-11-10 22:22:34 Friends  : 98.2% at 47/sec for helspence
+2017-11-10 22:22:51 Tweets   : 100% at 48/sec for BrigidSimmonds
+2017-11-10 22:23:32 Friends  : 99.6% at 46/sec for heritagelottery
+2017-11-10 22:23:32 Friends  : Waiting for 8.3 minutes
+2017-11-10 22:23:58 Tweets   : 24.1% at 47/sec for BrisParkStreet
+2017-11-10 22:25:05 Tweets   : 40.5% at 48/sec for CST_UK
+2017-11-10 22:26:14 Tweets   : 35.4% at 46/sec for CumbriaCC
+2017-11-10 22:26:48 Favorites: 50.4% at 5/sec for bishyroadnet
+2017-11-10 22:27:01 Favorites: 52.7% at 45/sec for blackcountrylep
+2017-11-10 22:27:32 Favorites: 51.2% at 45/sec for bradfordmdc
+2017-11-10 22:27:33 Favorites: 100% at 12/sec for BrigidSimmonds
+2017-11-10 22:27:36 Tweets   : 34.5% at 39/sec for DementiaAdv
+2017-11-10 22:27:56 Tweets   : 100% at 31/sec for EllenReaich
+2017-11-10 22:28:07 Favorites: 50% at 46/sec for BrisParkStreet
+2017-11-10 22:28:16 Favorites: 52% at 46/sec for CST_UK
+2017-11-10 22:28:26 Favorites: 61.6% at 48/sec for CumbriaCC
+2017-11-10 22:29:06 Tweets   : 49.5% at 45/sec for EricPickles
+2017-11-10 22:29:13 Favorites: Waiting for 12.3 minutes due to : Used up allowance in a loop
+2017-11-10 22:30:09 Tweets   : 21.4% at 51/sec for GuildfordBC
+2017-11-10 22:31:12 Tweets   : 14.5% at 51/sec for hantsconnect
+2017-11-10 22:32:16 Tweets   : 23.7% at 49/sec for HarlowCouncil
+2017-11-10 22:32:18 Friends  : 99.4% at 1/sec for IanH_tradegovuk
+2017-11-10 22:33:24 Tweets   : 41.1% at 47/sec for helspence
+2017-11-10 22:34:36 Tweets   : 19.5% at 45/sec for heritagelottery
+2017-11-10 22:35:39 Tweets   : 99.9% at 48/sec for IanH_tradegovuk
+2017-11-10 22:36:50 Tweets   : 8.9% at 45/sec for IndieRetailUK
+2017-11-10 22:38:03 Tweets   : 12.6% at 44/sec for JustinGriggs
+2017-11-10 22:39:19 Tweets   : 69.3% at 42/sec for karenturneruk
+2017-11-10 22:40:40 Friends  : 98.4% at 40/sec for IndieRetailUK
+2017-11-10 22:40:43 Tweets   : 83% at 38/sec for lambethpalace
+2017-11-10 22:41:48 Tweets   : 18.8% at 49/sec for LeeHouseLynton
+2017-11-10 22:41:57 Favorites: 50% at 3/sec for DementiaAdv
+2017-11-10 22:41:57 Favorites: 100% at 20/sec for EllenReaich
+2017-11-10 22:42:06 Favorites: 53.9% at 48/sec for EricPickles
+2017-11-10 22:42:08 Favorites: 100% at 32/sec for GuildfordBC
+2017-11-10 22:42:35 Friends  : 99.5% at 41/sec for JustinGriggs
+2017-11-10 22:42:54 Favorites: 24.3% at 41/sec for hantsconnect
+2017-11-10 22:43:06 Tweets   : 8.7% at 41/sec for loveurlocalmkt
+2017-11-10 22:43:22 Tweets   : 100% at 27/sec for MarketPlaceGY
+2017-11-10 22:43:24 Favorites: 50.9% at 46/sec for HarlowCouncil
+2017-11-10 22:43:48 Friends  : 98.4% at 46/sec for karenturneruk
+2017-11-10 22:44:00 Favorites: 52.8% at 44/sec for helspence
+2017-11-10 22:44:01 Friends  : 99.6% at 42/sec for lambethpalace
+2017-11-10 22:44:36 Tweets   : 20.3% at 43/sec for marketsmatter
+2017-11-10 22:44:42 Favorites: Waiting for 12.2 minutes due to : Used up allowance in a loop
+2017-11-10 22:45:16 Friends  : 99.2% at 44/sec for LeeHouseLynton
+2017-11-10 22:45:49 Tweets   : 24% at 44/sec for NorthamptonBC
+2017-11-10 22:46:18 Tweets   : 99.3% at 35/sec for PlanningAidEng
+2017-11-10 22:47:33 Tweets   : 68.2% at 43/sec for PostOfficeNews
+2017-11-10 22:48:08 Friends  : 98.8% at 41/sec for loveurlocalmkt
+2017-11-10 22:48:11 Friends  : 100% at 28/sec for MarketPlaceGY
+2017-11-10 22:48:43 Tweets   : 19% at 45/sec for QariAsim
+2017-11-10 22:49:01 Friends  : 98.2% at 43/sec for marketsmatter
+2017-11-10 22:49:03 Tweets   : 100% at 33/sec for RayLodgeTMO
+2017-11-10 22:49:04 Friends  : 99.3% at 42/sec for NorthamptonBC
+2017-11-10 22:49:16 Friends  : 100% at 43/sec for PlanningAidEng
+2017-11-10 22:50:03 Friends  : 99.5% at 48/sec for PostOfficeNews
+2017-11-10 22:50:15 Tweets   : 20.6% at 44/sec for RMBCPress
+2017-11-10 22:50:26 Tweets   : 0.4% at 17/sec for sir_cornflake
+2017-11-10 22:50:28 Friends  : 99.5% at 46/sec for QariAsim
+2017-11-10 22:50:36 Friends  : 99.3% at 39/sec for RayLodgeTMO
+2017-11-10 22:50:49 Friends  : 97.5% at 49/sec for RMBCPress
+2017-11-10 22:51:27 Friends  : 98.6% at 41/sec for sir_cornflake
+2017-11-10 22:51:36 Friends  : 99.7% at 42/sec for SouthLakelandDC
+2017-11-10 22:51:42 Tweets   : 38% at 42/sec for SouthLakelandDC
+2017-11-10 22:51:45 Friends  : 99.7% at 41/sec for StreetwiseGB
+2017-11-10 22:51:59 Tweets   : 99.8% at 31/sec for StreetwiseGB
+2017-11-10 22:52:21 Friends  : 98.9% at 48/sec for VisitHelmsley
+2017-11-10 22:53:23 Tweets   : 16.9% at 38/sec for VisitHelmsley
+2017-11-10 22:54:27 Tweets   : 7.1% at 50/sec for westbridgfdwire
+2017-11-10 22:55:08 Tweets   : 99.5% at 45/sec for WolvesFG
+2017-11-10 22:56:18 Tweets   : 21.9% at 45/sec for womensaid
+2017-11-10 22:57:36 Tweets   : 44.7% at 41/sec for BurgesSalmon
+2017-11-10 22:57:48 Favorites: 14.7% at 4/sec for heritagelottery
+2017-11-10 22:57:52 Favorites: 98% at 42/sec for IanH_tradegovuk
+2017-11-10 22:57:55 Tweets   : 100% at 28/sec for CE_MCR
+2017-11-10 22:58:02 Tweets   : 100% at 7/sec for CEinQatar
+2017-11-10 22:58:08 Tweets   : 100% at 0/sec for eci_online
+2017-11-10 22:58:13 Friends  : 98.8% at 39/sec for westbridgfdwire
+2017-11-10 22:58:13 Friends  : Waiting for 5 minutes
+2017-11-10 22:58:17 Favorites: 49.9% at 45/sec for IndieRetailUK
+2017-11-10 22:58:21 Favorites: 91.6% at 44/sec for JustinGriggs
+2017-11-10 22:59:21 Favorites: 49.9% at 45/sec for karenturneruk
+2017-11-10 22:59:25 Favorites: 63.2% at 48/sec for lambethpalace
+2017-11-10 22:59:28 Tweets   : 46.5% at 40/sec for FE_consultant
+2017-11-10 22:59:29 Favorites: 9.7% at 39/sec for LeeHouseLynton
+2017-11-10 22:59:37 Tweets   : 100% at 14/sec for G4CNW
+2017-11-10 22:59:57 Favorites: Waiting for 12.3 minutes due to : Used up allowance in a loop
+2017-11-10 23:00:40 Tweets   : 99.1% at 44/sec for HansfordPeter
+2017-11-10 23:01:47 Tweets   : 99.7% at 47/sec for IljaWerkhoven
+2017-11-10 23:01:57 Tweets   : 100% at 17/sec for JoanHillcock
+2017-11-10 23:02:40 Tweets   : 98.8% at 48/sec for julesb1612
+2017-11-10 23:03:24 Friends  : 99.4% at 1/sec for WolvesFG
+2017-11-10 23:03:57 Friends  : 99.3% at 42/sec for womensaid
+2017-11-10 23:03:59 Tweets   : 45.1% at 41/sec for just_jamie1990
+2017-11-10 23:04:30 Tweets   : 99.9% at 35/sec for NugenLtd
+2017-11-10 23:04:50 Tweets   : 99.3% at 29/sec for rdtarchitects
+2017-11-10 23:04:57 Friends  : 99.5% at 44/sec for BurgesSalmon
+2017-11-10 23:05:08 Friends  : 97.8% at 44/sec for CE_MCR
+2017-11-10 23:05:09 Friends  : 100% at 32/sec for CEinQatar
+2017-11-10 23:05:10 Friends  : 100% at 6/sec for eci_online
+2017-11-10 23:07:08 Friends  : 98.1% at 41/sec for FE_consultant
+Error in twInterfaceObj$doAPICall(paste("users", "show", sep = "/"), params = params,  : 
+  Not Found (HTTP 404).
+In addition: Warning message:
+package 'twitteR' was built under R version 3.4.1 
+2017-11-10 23:07:09 Friends: Unable to find account G4CNW moving to next
+2017-11-10 23:07:09 Friends  : % at /sec for G4CNW
+2017-11-10 23:07:15 Friends  : 97.1% at 33/sec for HansfordPeter
+2017-11-10 23:07:32 Friends  : 99.7% at 39/sec for IljaWerkhoven
+2017-11-10 23:07:35 Friends  : 100% at 24/sec for JoanHillcock
+2017-11-10 23:07:43 Friends  : 99.3% at 36/sec for julesb1612
+2017-11-10 23:08:41 Friends  : 99.1% at 36/sec for just_jamie1990
+2017-11-10 23:08:54 Friends  : 99.5% at 34/sec for NugenLtd
+2017-11-10 23:09:01 Friends  : 97.5% at 31/sec for rdtarchitects
+2017-11-10 23:13:17 Favorites: 45% at 4/sec for loveurlocalmkt
+2017-11-10 23:13:17 Favorites: 100% at 39/sec for MarketPlaceGY
+2017-11-10 23:13:59 Favorites: 49.9% at 45/sec for marketsmatter
+2017-11-10 23:14:06 Favorites: 66.3% at 44/sec for NorthamptonBC
+2017-11-10 23:14:07 Favorites: 100% at 16/sec for PlanningAidEng
+2017-11-10 23:14:19 Favorites: 53.9% at 46/sec for PostOfficeNews
+2017-11-10 23:15:15 Favorites: Waiting for 12.3 minutes due to : Used up allowance in a loop
+2017-11-10 23:28:10 Favorites: 41.4% at 4/sec for QariAsim
+2017-11-10 23:28:11 Favorites: 100% at 21/sec for RayLodgeTMO
+2017-11-10 23:28:32 Favorites: 50.9% at 46/sec for RMBCPress
+2017-11-10 23:29:39 Favorites: 5% at 47/sec for sir_cornflake
+2017-11-10 23:29:41 Favorites: 100% at 59/sec for SouthLakelandDC
+2017-11-10 23:29:42 Favorites: 100% at 14/sec for StreetwiseGB
+2017-11-10 23:30:28 Favorites: Waiting for 12.4 minutes due to : Used up allowance in a loop
+2017-11-10 23:43:35 Favorites: 50.6% at 4/sec for VisitHelmsley
+2017-11-10 23:43:36 Favorites: 100% at 11/sec for westbridgfdwire
+2017-11-10 23:43:39 Favorites: 52.3% at 52/sec for WolvesFG
+2017-11-10 23:44:24 Favorites: 50.2% at 46/sec for womensaid
+2017-11-10 23:45:00 Favorites: 49.7% at 47/sec for BurgesSalmon
+2017-11-10 23:45:02 Favorites: 56.2% at 42/sec for CE_MCR
+2017-11-10 23:45:02 Favorites: User CEinQatar has a protected account or no Favoritess to collect so skipping
+2017-11-10 23:45:02 Favorites: User eci_online has a protected account or no Favoritess to collect so skipping
+2017-11-10 23:45:51 Favorites: Waiting for 12.4 minutes due to : Used up allowance in a loop
+2017-11-10 23:58:54 Favorites: 26.5% at 4/sec for FE_consultant
+2017-11-10 23:58:55 Favorites: 100% at 34/sec for G4CNW
+2017-11-10 23:59:11 Favorites: 51.9% at 43/sec for HansfordPeter
+2017-11-10 23:59:14 Favorites: 53.2% at 37/sec for IljaWerkhoven
+2017-11-10 23:59:14 Favorites: 100% at 29/sec for JoanHillcock
+2017-11-10 23:59:15 Favorites: 91.9% at 54/sec for julesb1612
+2017-11-11 00:00:06 Favorites: 51.4% at 46/sec for just_jamie1990
+2017-11-11 00:00:13 Favorites: 53% at 46/sec for NugenLtd
+2017-11-11 00:00:14 Favorites: 52.4% at 78/sec for rdtarchitects
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+Warning message:
+package 'twitteR' was built under R version 3.4.1 

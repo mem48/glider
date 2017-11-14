@@ -1,0 +1,161 @@
+starting worker pid=18636 on localhost:11045 at 01:23:10.619
+starting worker pid=12952 on localhost:11045 at 01:23:10.766
+starting worker pid=7172 on localhost:11045 at 01:23:10.938
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-12 01:27:27 Favorites: 7.1% at 39/sec for whittakerdesig1
+2017-11-12 01:27:51 Favorites: 51% at 40/sec for womenreturners
+2017-11-12 01:28:21 Favorites: 51.7% at 42/sec for alexhilton
+2017-11-12 01:28:26 Favorites: 91.3% at 37/sec for AliceRich
+2017-11-12 01:28:33 Favorites: 55.6% at 45/sec for Castle_Lets
+2017-11-12 01:28:35 Favorites: 78.7% at 58/sec for ConorShilling
+2017-11-12 01:28:38 Favorites: 98.2% at 18/sec for DavidGWhizz
+2017-11-12 01:28:55 Tweets   : 4.9% at 43/sec for whittakerdesig1
+2017-11-12 01:28:58 Favorites: 47.9% at 45/sec for EstateAgentW1
+2017-11-12 01:29:00 Favorites: Waiting for 5.8 minutes due to : Used up allowance in a loop
+2017-11-12 01:30:00 Tweets   : 99.2% at 45/sec for womenreturners
+2017-11-12 01:30:49 Friends  : 96.6% at 38/sec for whittakerdesig1
+2017-11-12 01:31:10 Tweets   : 13.9% at 46/sec for alexhilton
+2017-11-12 01:31:20 Friends  : 98.5% at 48/sec for womenreturners
+2017-11-12 01:31:56 Friends  : 99% at 45/sec for alexhilton
+2017-11-12 01:32:03 Tweets   : 98.8% at 46/sec for AliceRich
+2017-11-12 01:32:09 Friends  : 99.5% at 44/sec for AliceRich
+2017-11-12 01:32:22 Friends  : 96.6% at 50/sec for Castle_Lets
+2017-11-12 01:32:45 Friends  : 99.6% at 45/sec for ConorShilling
+2017-11-12 01:32:53 Tweets   : 100% at 40/sec for Castle_Lets
+2017-11-12 01:33:16 Tweets   : 100% at 43/sec for ConorShilling
+2017-11-12 01:33:21 Friends  : 99.3% at 46/sec for DavidGWhizz
+2017-11-12 01:33:35 Friends  : 99.3% at 41/sec for EstateAgentW1
+2017-11-12 01:33:49 Friends  : 98.7% at 41/sec for gldproperties
+2017-11-12 01:34:22 Tweets   : 87.1% at 48/sec for DavidGWhizz
+2017-11-12 01:34:33 Friends  : 99.4% at 43/sec for JCWI_UK
+2017-11-12 01:34:51 Friends  : 98.5% at 42/sec for JeffJBell
+2017-11-12 01:35:04 Favorites: 55.2% at 0/sec for gldproperties
+2017-11-12 01:35:05 Friends  : 97.3% at 42/sec for justinbates28
+2017-11-12 01:35:14 Favorites: 57.9% at 40/sec for JCWI_UK
+2017-11-12 01:35:25 Friends  : 97.2% at 41/sec for LeedsPRSHousing
+2017-11-12 01:35:27 Favorites: 55.6% at 45/sec for JeffJBell
+2017-11-12 01:35:29 Tweets   : 26.1% at 48/sec for EstateAgentW1
+2017-11-12 01:35:35 Favorites: 65.5% at 39/sec for justinbates28
+2017-11-12 01:35:41 Favorites: 71.6% at 46/sec for LeedsPRSHousing
+2017-11-12 01:35:52 Tweets   : 98.9% at 34/sec for gldproperties
+2017-11-12 01:35:53 Favorites: 60.3% at 42/sec for lilaclettings
+2017-11-12 01:35:58 Favorites: 82% at 40/sec for MMUPolicyEval
+2017-11-12 01:36:08 Friends  : 99.4% at 42/sec for lilaclettings
+2017-11-12 01:36:13 Favorites: 50.8% at 39/sec for orchardsestates
+2017-11-12 01:36:14 Favorites: 100% at 25/sec for PIN_Magazine
+2017-11-12 01:36:28 Friends  : 98.9% at 39/sec for MMUPolicyEval
+2017-11-12 01:36:31 Favorites: 53.9% at 41/sec for RealEstateHet
+2017-11-12 01:36:39 Friends  : 99.2% at 35/sec for orchardsestates
+2017-11-12 01:36:39 Friends  : Waiting for 9.2 minutes
+2017-11-12 01:36:39 Favorites: 54% at 48/sec for sally_lawson
+2017-11-12 01:36:48 Favorites: 64.3% at 42/sec for scotlandlord
+2017-11-12 01:36:54 Favorites: 63.9% at 38/sec for SurePropertyGrp
+2017-11-12 01:37:00 Favorites: 51.5% at 48/sec for UKAgentsRUs
+2017-11-12 01:37:03 Tweets   : 55.8% at 45/sec for JCWI_UK
+2017-11-12 01:37:05 Favorites: 95.7% at 38/sec for Vick_Nagi
+2017-11-12 01:37:11 Favorites: 70.6% at 48/sec for CleartechLtd
+2017-11-12 01:37:47 Favorites: 52.6% at 42/sec for PerthCollegeUHI
+2017-11-12 01:37:50 Favorites: Waiting for 12.2 minutes due to : Used up allowance in a loop
+2017-11-12 01:38:10 Tweets   : 46.7% at 48/sec for JeffJBell
+2017-11-12 01:39:17 Tweets   : 77.7% at 48/sec for justinbates28
+2017-11-12 01:39:53 Tweets   : 99.9% at 41/sec for LeedsPRSHousing
+2017-11-12 01:41:01 Tweets   : 82.1% at 47/sec for lilaclettings
+2017-11-12 01:41:39 Tweets   : 99.9% at 38/sec for MMUPolicyEval
+2017-11-12 01:42:47 Tweets   : 36.9% at 47/sec for orchardsestates
+2017-11-12 01:43:36 Tweets   : 100% at 49/sec for PIN_Magazine
+2017-11-12 01:44:41 Tweets   : 37.5% at 49/sec for RealEstateHet
+2017-11-12 01:45:43 Tweets   : 3.2% at 51/sec for sally_lawson
+2017-11-12 01:46:16 Friends  : 99.7% at 0/sec for PIN_Magazine
+2017-11-12 01:46:26 Tweets   : 99.5% at 45/sec for scotlandlord
+2017-11-12 01:46:51 Friends  : 99.4% at 42/sec for RealEstateHet
+2017-11-12 01:47:18 Tweets   : 100% at 46/sec for SurePropertyGrp
+2017-11-12 01:48:34 Tweets   : 22.9% at 42/sec for UKAgentsRUs
+2017-11-12 01:48:41 Tweets   : 100% at 16/sec for Vick_Nagi
+2017-11-12 01:48:52 Friends  : 99.6% at 41/sec for sally_lawson
+2017-11-12 01:48:55 Tweets   : 99.7% at 26/sec for CleartechLtd
+2017-11-12 01:49:03 Friends  : 99.4% at 40/sec for scotlandlord
+2017-11-12 01:49:49 Friends  : 98.7% at 41/sec for SurePropertyGrp
+2017-11-12 01:50:12 Tweets   : 47% at 41/sec for PerthCollegeUHI
+2017-11-12 01:50:29 Tweets   : 99.8% at 29/sec for Plumbershaun
+2017-11-12 01:50:32 Favorites: 52.4% at 1/sec for Plumbershaun
+2017-11-12 01:50:35 Favorites: 50.8% at 29/sec for PlumbingCullen
+2017-11-12 01:50:39 Tweets   : 100% at 17/sec for PlumbingCullen
+2017-11-12 01:50:45 Favorites: 51.4% at 30/sec for Plumbworlduk
+2017-11-12 01:50:53 Favorites: 55.5% at 48/sec for skylinefilmtv
+2017-11-12 01:50:58 Favorites: 89.2% at 41/sec for Worcester_Iain
+2017-11-12 01:51:02 Favorites: 100% at 26/sec for FifeEconPship
+2017-11-12 01:51:16 Friends  : 99.3% at 38/sec for UKAgentsRUs
+2017-11-12 01:51:20 Friends  : 100% at 17/sec for Vick_Nagi
+2017-11-12 01:51:21 Favorites: 50.1% at 41/sec for HomeEnergyScoHI
+2017-11-12 01:51:21 Favorites: User LowCarbonFest13 has a protected account or no Favoritess to collect so skipping
+2017-11-12 01:51:26 Favorites: 83.2% at 44/sec for lwhaddowltd
+2017-11-12 01:51:31 Favorites: 78.7% at 40/sec for plumbers_edin
+2017-11-12 01:51:39 Friends  : 96.8% at 38/sec for CleartechLtd
+2017-11-12 01:51:51 Favorites: 48.8% at 42/sec for ScotlandBuild
+2017-11-12 01:51:56 Favorites: 69.3% at 40/sec for _luxonic
+2017-11-12 01:51:57 Favorites: 100% at 51/sec for 4COffshoreNews
+2017-11-12 01:52:00 Tweets   : 30.1% at 40/sec for Plumbworlduk
+2017-11-12 01:52:15 Friends  : 99.2% at 34/sec for PerthCollegeUHI
+2017-11-12 01:52:20 Friends  : 90.4% at 56/sec for Plumbershaun
+2017-11-12 01:52:23 Favorites: 50.4% at 41/sec for ACBoocock
+2017-11-12 01:52:24 Favorites: 0.2% at 12/sec for AdamMBusby25
+2017-11-12 01:52:25 Friends  : 93.4% at 29/sec for PlumbingCullen
+2017-11-12 01:52:27 Favorites: 69.9% at 29/sec for AlltechECO2
+2017-11-12 01:52:28 Favorites: 100% at 25/sec for AndyCEnergy
+2017-11-12 01:52:41 Favorites: 58.8% at 47/sec for b2bpartnerships
+2017-11-12 01:52:44 Favorites: 57.7% at 29/sec for CarolineTecks
+2017-11-12 01:52:49 Favorites: 95.2% at 41/sec for cfruman
+2017-11-12 01:52:57 Favorites: 61.8% at 48/sec for cisl_cambridge
+2017-11-12 01:53:07 Favorites: 55.9% at 37/sec for CoryEnergy
+2017-11-12 01:53:11 Tweets   : 48.4% at 45/sec for skylinefilmtv
+2017-11-12 01:53:12 Favorites: 88.1% at 42/sec for creyesabreu
+2017-11-12 01:53:32 Tweets   : 99.9% at 35/sec for Worcester_Iain
+2017-11-12 01:54:40 Friends  : 100% at 46/sec for Plumbworlduk
+2017-11-12 01:54:40 Tweets   : 67% at 47/sec for FifeEconPship
+2017-11-12 01:54:43 Friends  : 99.3% at 46/sec for skylinefilmtv
+2017-11-12 01:54:55 Friends  : 94.8% at 41/sec for Worcester_Iain
+2017-11-12 01:54:55 Friends  : Waiting for 6.3 minutes
+2017-11-12 01:55:16 Tweets   : 100% at 38/sec for HomeEnergyScoHI
+2017-11-12 01:55:22 Tweets   : 100% at 8/sec for LowCarbonFest13
+2017-11-12 01:56:00 Tweets   : 99.8% at 45/sec for lwhaddowltd
+2017-11-12 01:56:09 Tweets   : 99.3% at 15/sec for plumbers_edin
+2017-11-12 01:57:15 Tweets   : 99.3% at 46/sec for ScotlandBuild
+2017-11-12 01:57:49 Tweets   : 100% at 44/sec for _luxonic
+2017-11-12 01:58:58 Tweets   : 20.3% at 46/sec for 4COffshoreNews
+2017-11-12 02:00:04 Tweets   : 99.7% at 44/sec for ACBoocock
+2017-11-12 02:01:25 Tweets   : 24.1% at 39/sec for AdamMBusby25
+2017-11-12 02:01:40 Tweets   : 100% at 32/sec for AlltechECO2
+2017-11-12 02:01:53 Friends  : 100% at 3/sec for FifeEconPship
+2017-11-12 02:02:05 Tweets   : 100% at 39/sec for AndyCEnergy
+2017-11-12 02:02:13 Friends  : 98.2% at 45/sec for HomeEnergyScoHI
+2017-11-12 02:02:19 Friends  : 100% at 40/sec for LowCarbonFest13
+2017-11-12 02:02:34 Friends  : 98.9% at 43/sec for lwhaddowltd
+2017-11-12 02:02:39 Friends  : 96.7% at 35/sec for plumbers_edin
+2017-11-12 02:02:51 Tweets   : 99.8% at 46/sec for b2bpartnerships
+2017-11-12 02:03:57 Tweets   : 24% at 49/sec for CarolineTecks
+2017-11-12 02:04:16 Friends  : 98.7% at 45/sec for ScotlandBuild
+2017-11-12 02:04:23 Tweets   : 100% at 37/sec for cfruman
+2017-11-12 02:04:35 Friends  : 98.8% at 47/sec for _luxonic
+2017-11-12 02:04:39 Friends  : 97.9% at 53/sec for 4COffshoreNews
+2017-11-12 02:05:11 Friends  : 99.4% at 42/sec for ACBoocock
+2017-11-12 02:05:34 Tweets   : 30.7% at 45/sec for cisl_cambridge
+2017-11-12 02:05:58 Tweets   : 100% at 33/sec for CoryEnergy
+2017-11-12 02:06:14 Friends  : 94.5% at 44/sec for AdamMBusby25
+2017-11-12 02:06:19 Tweets   : 98.7% at 32/sec for creyesabreu
+2017-11-12 02:06:28 Friends  : 99.1% at 39/sec for AlltechECO2
+2017-11-12 02:06:31 Friends  : 100% at 37/sec for AndyCEnergy
+2017-11-12 02:06:55 Friends  : 99.5% at 47/sec for b2bpartnerships
+2017-11-12 02:07:04 Friends  : 99.4% at 35/sec for CarolineTecks
+2017-11-12 02:07:08 Friends  : 100% at 47/sec for cfruman
+2017-11-12 02:07:08 Friends  : Waiting for 9.4 minutes
+2017-11-12 02:18:12 Friends  : 99.8% at 6/sec for cisl_cambridge
+2017-11-12 02:18:23 Friends  : 97.8% at 41/sec for CoryEnergy
+2017-11-12 02:18:36 Friends  : 98.4% at 40/sec for creyesabreu
+Warning message:
+Warning message:
+was built under R version 3.4.1 
+package 'twitteR' was built under R version 3.4.1 
+Warning message:
+package 'twitteR' was built under R version 3.4.1 

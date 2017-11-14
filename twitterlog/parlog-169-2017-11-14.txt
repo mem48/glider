@@ -1,0 +1,165 @@
+starting worker pid=18824 on localhost:11045 at 01:41:53.717
+starting worker pid=11376 on localhost:11045 at 01:41:53.879
+starting worker pid=15540 on localhost:11045 at 01:41:54.040
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-14 01:44:29 Friends  : 97.2% at 28/sec for MACSLuton
+2017-11-14 01:44:42 Friends  : 99.5% at 15/sec for Maddiemum
+2017-11-14 01:46:34 Friends  : 99.1% at 37/sec for Maireadge
+2017-11-14 01:46:42 Favorites: 55% at 31/sec for MACSLuton
+2017-11-14 01:47:01 Friends  : 98.9% at 38/sec for MarcusSaunders
+2017-11-14 01:47:18 Friends  : 99.1% at 36/sec for markroper23
+2017-11-14 01:47:20 Favorites: 53.4% at 29/sec for Maddiemum
+2017-11-14 01:47:33 Friends  : 100% at 16/sec for MarScaffolding
+2017-11-14 01:47:50 Friends  : 93.2% at 36/sec for MarshallsReg
+2017-11-14 01:48:01 Friends  : 99.4% at 43/sec for MartinJPenney
+2017-11-14 01:48:02 Favorites: 53.3% at 33/sec for Maireadge
+2017-11-14 01:48:08 Friends  : 100% at 21/sec for martinmorrell
+2017-11-14 01:48:43 Favorites: 52.1% at 38/sec for MarcusSaunders
+2017-11-14 01:49:04 Favorites: 50.7% at 35/sec for markroper23
+2017-11-14 01:49:06 Favorites: 100% at 62/sec for MarScaffolding
+2017-11-14 01:49:07 Friends  : 98.5% at 38/sec for MattKershaw_
+2017-11-14 01:49:38 Tweets   : 99.7% at 21/sec for MACSLuton
+2017-11-14 01:49:40 Friends  : 97.8% at 36/sec for MCHJacqui
+2017-11-14 01:49:41 Favorites: 50.6% at 38/sec for MarshallsReg
+2017-11-14 01:49:43 Favorites: 97.8% at 63/sec for MartinJPenney
+2017-11-14 01:49:50 Favorites: 65.3% at 40/sec for martinmorrell
+2017-11-14 01:50:10 Favorites: 57.7% at 21/sec for MattKershaw_
+2017-11-14 01:50:10 Favorites: Waiting for 11.4 minutes due to : Used up allowance in a loop
+2017-11-14 01:50:19 Friends  : 99.7% at 38/sec for mearsgroup
+2017-11-14 01:50:29 Friends  : 100% at 37/sec for melcorst81
+2017-11-14 01:50:56 Tweets   : 39.9% at 41/sec for Maddiemum
+2017-11-14 01:51:17 Friends  : 98.4% at 38/sec for MetroMayorSteve
+2017-11-14 01:52:17 Tweets   : 71.6% at 39/sec for Maireadge
+2017-11-14 01:52:53 Friends  : 99.3% at 37/sec for MistaGoode
+2017-11-14 01:53:32 Tweets   : 30.8% at 42/sec for MarcusSaunders
+2017-11-14 01:54:43 Friends  : 95.2% at 38/sec for MitchellsScaf
+2017-11-14 01:54:45 Tweets   : 81.1% at 43/sec for markroper23
+2017-11-14 01:54:57 Tweets   : 99.7% at 28/sec for MarScaffolding
+2017-11-14 01:55:30 Friends  : 99.7% at 37/sec for MMacKenzieSNP
+2017-11-14 01:55:49 Friends  : 99.3% at 42/sec for mountanvil
+2017-11-14 01:55:55 Friends  : 96.1% at 21/sec for mountanvilCoE
+2017-11-14 01:56:05 Tweets   : 97.3% at 39/sec for MarshallsReg
+2017-11-14 01:56:27 Friends  : 99.1% at 34/sec for MrAndyIredale
+2017-11-14 01:56:44 Tweets   : 99.6% at 38/sec for MartinJPenney
+2017-11-14 01:56:57 Tweets   : 99.1% at 25/sec for martinmorrell
+2017-11-14 01:56:59 Friends  : 98.3% at 38/sec for MTRelectrics
+2017-11-14 01:57:14 Friends  : 99.6% at 33/sec for myBDACS
+2017-11-14 01:57:39 Friends  : 97.2% at 37/sec for mywowscotland
+2017-11-14 01:58:16 Friends  : 89% at 32/sec for NASandSITF
+2017-11-14 01:58:17 Tweets   : 48.3% at 40/sec for MattKershaw_
+2017-11-14 01:58:25 Friends  : 100% at 38/sec for NationalEBPnet
+2017-11-14 01:58:25 Friends  : Waiting for 5.8 minutes
+2017-11-14 01:59:34 Tweets   : 71% at 41/sec for MCHJacqui
+2017-11-14 02:00:53 Tweets   : 62% at 40/sec for mearsgroup
+2017-11-14 02:01:20 Tweets   : 97.8% at 37/sec for melcorst81
+2017-11-14 02:01:33 Favorites: % at /sec for MCHJacqui
+2017-11-14 02:01:33 Favorites: Waiting for 0 minutes due to : Used up allowance in a loop
+2017-11-14 02:01:51 Favorites: 49.9% at 39/sec for mearsgroup
+2017-11-14 02:01:52 Favorites: 54.6% at 60/sec for melcorst81
+2017-11-14 02:02:00 Favorites: 56.4% at 39/sec for MetroMayorSteve
+2017-11-14 02:02:43 Tweets   : 37.3% at 39/sec for MetroMayorSteve
+2017-11-14 02:03:20 Favorites: 47.2% at 40/sec for MistaGoode
+2017-11-14 02:03:44 Favorites: 47.7% at 39/sec for MitchellsScaf
+2017-11-14 02:04:09 Tweets   : 5.8% at 37/sec for MistaGoode
+2017-11-14 02:04:19 Favorites: 51% at 40/sec for MMacKenzieSNP
+2017-11-14 02:04:26 Favorites: 50.3% at 38/sec for mountanvil
+2017-11-14 02:04:28 Favorites: 100% at 59/sec for mountanvilCoE
+2017-11-14 02:04:35 Favorites: 57.8% at 39/sec for MrAndyIredale
+2017-11-14 02:04:35 Favorites: Waiting for 12 minutes due to : Used up allowance in a loop
+2017-11-14 02:05:25 Friends  : 99.2% at 6/sec for NCA_UK
+2017-11-14 02:05:26 Friends  : 95.8% at 17/sec for NewForthBridge
+2017-11-14 02:05:35 Tweets   : 61.4% at 37/sec for MitchellsScaf
+2017-11-14 02:05:57 Friends  : 99.5% at 36/sec for NFDCglobal
+2017-11-14 02:06:59 Tweets   : 25.8% at 38/sec for MMacKenzieSNP
+2017-11-14 02:07:13 Friends  : 98.5% at 35/sec for nickh2013
+2017-11-14 02:07:19 Friends  : 100% at 11/sec for nicloucam
+2017-11-14 02:07:20 Friends  : 96.7% at 34/sec for NicolaHodkinson
+2017-11-14 02:07:43 Tweets   : 98.7% at 30/sec for mountanvil
+2017-11-14 02:07:53 Friends  : 98.3% at 36/sec for NIX_EXPO
+2017-11-14 02:07:55 Tweets   : 100% at 22/sec for mountanvilCoE
+2017-11-14 02:08:02 Friends  : 100% at 32/sec for NorfolkNights
+2017-11-14 02:08:43 Friends  : 99% at 33/sec for NorthLindsey
+2017-11-14 02:09:03 Tweets   : 29.7% at 47/sec for MrAndyIredale
+2017-11-14 02:09:19 Friends  : 98.9% at 33/sec for oatfedgoat
+2017-11-14 02:09:39 Tweets   : 99.6% at 38/sec for MTRelectrics
+2017-11-14 02:09:57 Friends  : 95.8% at 36/sec for OffsiteSchool
+2017-11-14 02:10:16 Friends  : 96.1% at 21/sec for OrkneyCollege
+2017-11-14 02:10:18 Friends  : 98.4% at 48/sec for OrkneyCouncil
+2017-11-14 02:10:19 Friends  : Waiting for 9 minutes
+2017-11-14 02:10:28 Tweets   : 100% at 41/sec for myBDACS
+2017-11-14 02:11:40 Tweets   : 36.2% at 45/sec for mywowscotland
+2017-11-14 02:11:53 Tweets   : 97.4% at 30/sec for NASandSITF
+2017-11-14 02:12:11 Tweets   : 99.8% at 29/sec for NationalEBPnet
+2017-11-14 02:13:25 Tweets   : 49.1% at 43/sec for NCA_UK
+2017-11-14 02:13:50 Tweets   : 100% at 39/sec for NewForthBridge
+2017-11-14 02:14:47 Tweets   : 99.6% at 41/sec for NFDCglobal
+2017-11-14 02:16:04 Tweets   : 54.5% at 41/sec for nickh2013
+2017-11-14 02:16:15 Tweets   : 98.1% at 18/sec for nicloucam
+2017-11-14 02:16:40 Favorites: 59% at 0/sec for MTRelectrics
+2017-11-14 02:16:42 Tweets   : 99.7% at 33/sec for NicolaHodkinson
+2017-11-14 02:16:43 Favorites: 61.3% at 65/sec for myBDACS
+2017-11-14 02:17:05 Favorites: 53.8% at 37/sec for mywowscotland
+2017-11-14 02:17:06 Favorites: 88.2% at 64/sec for NASandSITF
+2017-11-14 02:17:07 Favorites: 100% at 36/sec for NationalEBPnet
+2017-11-14 02:17:38 Favorites: 51.6% at 38/sec for NCA_UK
+2017-11-14 02:17:39 Favorites: 67.1% at 60/sec for NewForthBridge
+2017-11-14 02:17:50 Tweets   : 99.6% at 37/sec for NIX_EXPO
+2017-11-14 02:17:55 Favorites: 51.5% at 42/sec for NFDCglobal
+2017-11-14 02:18:09 Favorites: 57% at 36/sec for nickh2013
+2017-11-14 02:18:10 Favorites: 61.5% at 49/sec for nicloucam
+2017-11-14 02:18:16 Favorites: 91.2% at 32/sec for NicolaHodkinson
+2017-11-14 02:18:24 Favorites: 50.3% at 38/sec for NIX_EXPO
+2017-11-14 02:18:27 Favorites: 61.4% at 62/sec for NorfolkNights
+2017-11-14 02:18:35 Tweets   : 99.7% at 40/sec for NorfolkNights
+2017-11-14 02:18:49 Favorites: 52.4% at 41/sec for NorthLindsey
+2017-11-14 02:19:37 Favorites: Waiting for 11.9 minutes due to : Used up allowance in a loop
+2017-11-14 02:19:54 Tweets   : 16.2% at 40/sec for NorthLindsey
+2017-11-14 02:21:13 Tweets   : 19.3% at 41/sec for oatfedgoat
+2017-11-14 02:21:49 Tweets   : 100% at 33/sec for OffsiteSchool
+2017-11-14 02:23:03 Tweets   : 99.9% at 33/sec for OrkneyCollege
+2017-11-14 02:23:57 Tweets   : 100% at 44/sec for OrkneyCouncil
+2017-11-14 02:25:20 Tweets   : 6.9% at 38/sec for OspreySwimPools
+2017-11-14 02:25:31 Tweets   : 100% at 15/sec for OwenCITB
+2017-11-14 02:26:47 Tweets   : 96.7% at 41/sec for Patrick_WSUK
+2017-11-14 02:26:50 Friends  : 100% at 16/sec for OspreySwimPools
+2017-11-14 02:26:57 Tweets   : 100% at 10/sec for Peakfield
+2017-11-14 02:27:04 Friends  : 96.1% at 34/sec for OwenCITB
+2017-11-14 02:27:07 Friends  : 100% at 41/sec for Patrick_WSUK
+2017-11-14 02:27:12 Friends  : 100% at 23/sec for Peakfield
+2017-11-14 02:28:15 Tweets   : 43.4% at 41/sec for PennyHaslam
+2017-11-14 02:28:56 Tweets   : 99.6% at 40/sec for PHEWexpertwomen
+2017-11-14 02:29:08 Friends  : 99.1% at 32/sec for PennyHaslam
+2017-11-14 02:29:16 Tweets   : 100% at 34/sec for PhilCampbellREC
+2017-11-14 02:29:27 Tweets   : 100% at 14/sec for PhoenixCladding
+2017-11-14 02:29:27 Friends  : 100% at 31/sec for PHEWexpertwomen
+2017-11-14 02:29:57 Friends  : 98.7% at 31/sec for PhilCampbellREC
+2017-11-14 02:29:59 Friends  : 95.7% at 31/sec for PhoenixCladding
+2017-11-14 02:30:06 Tweets   : 100% at 41/sec for PierUKLtd
+2017-11-14 02:30:43 Friends  : 95.7% at 28/sec for PierUKLtd
+2017-11-14 02:30:57 Tweets   : 99.9% at 38/sec for PindenLtd
+2017-11-14 02:31:19 Tweets   : 100% at 32/sec for PottingerJoanne
+2017-11-14 02:31:39 Friends  : 98.7% at 31/sec for PindenLtd
+2017-11-14 02:31:53 Favorites: 50.8% at 4/sec for oatfedgoat
+2017-11-14 02:31:53 Friends  : 98.7% at 31/sec for PottingerJoanne
+2017-11-14 02:31:57 Favorites: 100% at 19/sec for OffsiteSchool
+2017-11-14 02:32:05 Favorites: 52% at 39/sec for OrkneyCollege
+2017-11-14 02:32:06 Favorites: 100% at 29/sec for OrkneyCouncil
+2017-11-14 02:32:09 Favorites: 66.1% at 63/sec for OspreySwimPools
+2017-11-14 02:32:13 Favorites: 60.1% at 23/sec for OwenCITB
+2017-11-14 02:32:16 Favorites: 86.8% at 69/sec for Patrick_WSUK
+2017-11-14 02:32:20 Favorites: 100% at 23/sec for Peakfield
+2017-11-14 02:32:27 Favorites: 54.6% at 41/sec for PennyHaslam
+2017-11-14 02:32:30 Favorites: 59.5% at 67/sec for PHEWexpertwomen
+2017-11-14 02:32:36 Favorites: 51% at 35/sec for PhilCampbellREC
+2017-11-14 02:32:37 Favorites: 100% at 24/sec for PhoenixCladding
+2017-11-14 02:32:52 Favorites: 53.3% at 39/sec for PierUKLtd
+2017-11-14 02:32:52 Favorites: 96% at 33/sec for PindenLtd
+2017-11-14 02:33:23 Favorites: 51.9% at 41/sec for PottingerJoanne
+Warning messages:package 'twitteR' was built under R version 3.4.1 
+1: package 'twitteR' was built under R version 3.4.1 
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+In twInterfaceObj$doAPICall(cmd, params, method, ...) :
+  Rate limit encountered & retry limit reached - returning partial results

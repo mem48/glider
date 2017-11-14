@@ -1,0 +1,173 @@
+starting worker pid=7144 on localhost:11045 at 08:33:03.367
+starting worker pid=15524 on localhost:11045 at 08:33:03.535
+starting worker pid=7768 on localhost:11045 at 08:33:03.702
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-07 08:33:48 Friends  : User spectrumvoice has a protected account or no Friendss to collect so skipping
+2017-11-07 08:34:00 Friends  : 99.7% at 32/sec for YourSSE
+2017-11-07 08:34:16 Friends  : 99.5% at 41/sec for BootleGlass
+2017-11-07 08:34:22 Friends  : 99.5% at 36/sec for TotalProfiles
+2017-11-07 08:34:29 Friends  : 96.2% at 42/sec for ampersandepm
+2017-11-07 08:34:33 Favorites: User spectrumvoice has a protected account or no Favoritess to collect so skipping
+2017-11-07 08:34:48 Favorites: 48.8% at 38/sec for YourSSE
+2017-11-07 08:34:55 Favorites: 62.9% at 42/sec for BootleGlass
+2017-11-07 08:34:58 Favorites: 100% at 29/sec for TotalProfiles
+2017-11-07 08:35:21 Tweets   : User spectrumvoice has a protected account or no Tweetss to collect so skipping
+2017-11-07 08:35:26 Friends  : 99.5% at 42/sec for GuildofLetting
+2017-11-07 08:35:57 Favorites: Waiting for 9.1 minutes due to : Used up allowance in a loop
+2017-11-07 08:36:15 Friends  : 87.1% at 40/sec for HeatingBarrett
+2017-11-07 08:36:27 Tweets   : 11.7% at 49/sec for YourSSE
+2017-11-07 08:36:35 Friends  : 91.8% at 44/sec for LondonGas
+2017-11-07 08:37:16 Friends  : 97.5% at 42/sec for NikkiHayes1969
+2017-11-07 08:37:23 Friends  : 99.1% at 31/sec for AndrewGlover1
+2017-11-07 08:37:34 Tweets   : 100% at 47/sec for BootleGlass
+2017-11-07 08:37:44 Friends  : 97.5% at 39/sec for andrealeadsom
+2017-11-07 08:37:46 Tweets   : 100% at 27/sec for TotalProfiles
+2017-11-07 08:38:05 Friends  : 97.2% at 37/sec for BarbaraSpicer15
+2017-11-07 08:38:35 Friends  : 99.8% at 36/sec for carlbrownIH
+2017-11-07 08:38:42 Friends  : 100% at 33/sec for SonnyDhamu
+2017-11-07 08:39:00 Tweets   : 61.7% at 43/sec for ampersandepm
+2017-11-07 08:39:04 Friends  : 99.7% at 33/sec for GuardianHousing
+2017-11-07 08:39:22 Friends  : 97.7% at 41/sec for HelenJRF
+2017-11-07 08:39:22 Friends  : Waiting for 9.5 minutes
+2017-11-07 08:40:19 Tweets   : 45% at 40/sec for GuildofLetting
+2017-11-07 08:41:25 Tweets   : 44% at 49/sec for HeatingBarrett
+2017-11-07 08:42:37 Tweets   : 92.4% at 45/sec for LondonGas
+2017-11-07 08:43:45 Tweets   : 4.8% at 46/sec for NikkiHayes1969
+2017-11-07 08:44:52 Tweets   : 23.6% at 48/sec for AndrewGlover1
+2017-11-07 08:45:07 Favorites: 50.4% at 4/sec for ampersandepm
+2017-11-07 08:45:22 Favorites: 50.2% at 45/sec for GuildofLetting
+2017-11-07 08:46:13 Tweets   : 70.5% at 39/sec for andrealeadsom
+2017-11-07 08:46:33 Favorites: 24.7% at 45/sec for HeatingBarrett
+2017-11-07 08:47:04 Tweets   : 99.4% at 44/sec for BarbaraSpicer15
+2017-11-07 08:47:45 Favorites: 47.1% at 44/sec for LondonGas
+2017-11-07 08:47:45 Favorites: Waiting for 12.3 minutes due to : Used up allowance in a loop
+2017-11-07 08:48:13 Tweets   : 70.5% at 46/sec for carlbrownIH
+2017-11-07 08:48:22 Tweets   : 100% at 22/sec for SonnyDhamu
+2017-11-07 08:49:03 Friends  : 100% at 1/sec for JRHTLandscape
+2017-11-07 08:49:21 Friends  : 99.9% at 41/sec for posiesaltaire
+2017-11-07 08:49:32 Friends  : 100% at 41/sec for SocietyGuardian
+2017-11-07 08:49:37 Tweets   : 18.5% at 43/sec for GuardianHousing
+2017-11-07 08:49:47 Tweets   : 100% at 25/sec for HelenJRF
+2017-11-07 08:50:00 Tweets   : 100% at 27/sec for JRHTLandscape
+2017-11-07 08:50:12 Friends  : 98.4% at 42/sec for TraceyJRobbins
+2017-11-07 08:50:28 Friends  : 98.9% at 40/sec for _ASUC
+Error in twInterfaceObj$doAPICall(paste("users", "show", sep = "/"), params = params,  : 
+  Not Found (HTTP 404).
+In addition: Warning message:
+package 'twitteR' was built under R version 3.4.1 
+2017-11-07 08:50:28 Friends: Unable to find account bcbathnes moving to next
+2017-11-07 08:50:28 Friends  : % at /sec for bcbathnes
+2017-11-07 08:50:36 Friends  : 97.6% at 35/sec for Heather1Jo
+2017-11-07 08:50:43 Friends  : 100% at 34/sec for lorlor482
+2017-11-07 08:51:04 Tweets   : 99.6% at 45/sec for posiesaltaire
+2017-11-07 08:51:30 Friends  : 99% at 38/sec for o2idesign
+2017-11-07 08:51:47 Friends  : 97.9% at 35/sec for charlie_MSV
+2017-11-07 08:52:08 Friends  : 97.4% at 34/sec for FirstForFCHO
+2017-11-07 08:52:16 Tweets   : 8.7% at 45/sec for SocietyGuardian
+2017-11-07 08:52:50 Friends  : 99.2% at 37/sec for NHAwards2017
+2017-11-07 08:52:56 Friends  : 98.1% at 41/sec for NorthantsRural
+2017-11-07 08:53:30 Tweets   : 58.6% at 43/sec for TraceyJRobbins
+2017-11-07 08:53:35 Friends  : 99.9% at 40/sec for ProgressHG
+2017-11-07 08:53:50 Friends  : 99.5% at 41/sec for SChalkleyHastoe
+2017-11-07 08:54:03 Friends  : 98.7% at 40/sec for theonlywitters
+2017-11-07 08:54:03 Friends  : Waiting for 9.9 minutes
+2017-11-07 08:54:42 Tweets   : 89.1% at 44/sec for _ASUC
+2017-11-07 08:54:50 Tweets   : 100% at 16/sec for bcbathnes
+2017-11-07 08:55:12 Tweets   : 100% at 32/sec for Heather1Jo
+2017-11-07 08:55:23 Tweets   : 99.6% at 23/sec for lorlor482
+2017-11-07 08:56:30 Tweets   : 60.9% at 48/sec for o2idesign
+2017-11-07 08:57:44 Tweets   : 63.8% at 44/sec for charlie_MSV
+2017-11-07 08:59:00 Tweets   : 85.2% at 42/sec for FirstForFCHO
+2017-11-07 08:59:54 Tweets   : 99.8% at 46/sec for NHAwards2017
+2017-11-07 09:00:16 Tweets   : 100% at 35/sec for NorthantsRural
+2017-11-07 09:00:16 Favorites: 58.4% at 1/sec for NikkiHayes1969
+2017-11-07 09:00:22 Favorites: 56.8% at 47/sec for AndrewGlover1
+2017-11-07 09:00:33 Favorites: 54.5% at 47/sec for andrealeadsom
+2017-11-07 09:01:05 Favorites: 52.2% at 43/sec for BarbaraSpicer15
+2017-11-07 09:01:10 Favorites: 57.5% at 43/sec for carlbrownIH
+2017-11-07 09:01:11 Favorites: 100% at 63/sec for SonnyDhamu
+2017-11-07 09:01:13 Favorites: 64.9% at 41/sec for GuardianHousing
+2017-11-07 09:01:26 Favorites: 60.4% at 40/sec for HelenJRF
+2017-11-07 09:01:28 Favorites: 59.5% at 44/sec for JRHTLandscape
+2017-11-07 09:01:28 Favorites: 100% at 31/sec for posiesaltaire
+2017-11-07 09:01:29 Favorites: 100% at 53/sec for SocietyGuardian
+2017-11-07 09:01:31 Tweets   : 50.5% at 41/sec for ProgressHG
+2017-11-07 09:01:54 Favorites: 52.4% at 44/sec for TraceyJRobbins
+2017-11-07 09:01:58 Favorites: 65.5% at 45/sec for _ASUC
+2017-11-07 09:01:59 Favorites: 100% at 21/sec for bcbathnes
+2017-11-07 09:02:16 Favorites: 55.9% at 46/sec for Heather1Jo
+2017-11-07 09:02:19 Favorites: 98% at 42/sec for lorlor482
+2017-11-07 09:02:23 Tweets   : 99.8% at 42/sec for SChalkleyHastoe
+2017-11-07 09:02:27 Favorites: 66.6% at 34/sec for o2idesign
+2017-11-07 09:02:47 Favorites: Waiting for 12.3 minutes due to : Used up allowance in a loop
+2017-11-07 09:03:16 Tweets   : 99.1% at 45/sec for theonlywitters
+2017-11-07 09:04:22 Friends  : 99.4% at 1/sec for WestwardComms
+2017-11-07 09:04:30 Tweets   : 100% at 39/sec for WestwardComms
+2017-11-07 09:05:44 Tweets   : 9.6% at 43/sec for ShareRadioUK
+2017-11-07 09:06:16 Friends  : 99.9% at 39/sec for ShareRadioUK
+2017-11-07 09:06:27 Friends  : 97% at 46/sec for AshIlsen
+2017-11-07 09:06:27 Tweets   : 99.9% at 41/sec for AshIlsen
+2017-11-07 09:06:49 Friends  : 99.2% at 47/sec for CNTomFitz
+2017-11-07 09:07:30 Friends  : 98.9% at 46/sec for DodsEvents
+2017-11-07 09:07:40 Friends  : 99.5% at 40/sec for Drew_Build
+2017-11-07 09:07:49 Tweets   : 25.5% at 39/sec for CNTomFitz
+2017-11-07 09:07:52 Friends  : 98.8% at 45/sec for RevivePS
+2017-11-07 09:08:19 Friends  : 99.4% at 45/sec for simpsonyorkltd
+2017-11-07 09:08:38 Friends  : 99.9% at 42/sec for southandcitycol
+2017-11-07 09:08:43 Friends  : 98.2% at 42/sec for watsonandcox
+2017-11-07 09:09:01 Friends  : 99.3% at 38/sec for backtoearthsw
+2017-11-07 09:09:04 Tweets   : 26.2% at 42/sec for DodsEvents
+2017-11-07 09:09:14 Tweets   : 100% at 22/sec for Drew_Build
+2017-11-07 09:09:30 Friends  : 96.5% at 44/sec for Daylighting_Mag
+2017-11-07 09:09:54 Tweets   : 100% at 36/sec for RevivePS
+2017-11-07 09:10:10 Tweets   : 99.3% at 28/sec for simpsonyorkltd
+2017-11-07 09:10:24 Friends  : 97.4% at 39/sec for evetibber
+2017-11-07 09:10:37 Friends  : 100% at 37/sec for GresfordArch
+2017-11-07 09:10:50 Friends  : 96.6% at 39/sec for KissLoveAffair
+2017-11-07 09:10:50 Friends  : Waiting for 8.2 minutes
+2017-11-07 09:11:30 Tweets   : 59% at 40/sec for southandcitycol
+2017-11-07 09:11:39 Tweets   : 100% at 16/sec for watsonandcox
+2017-11-07 09:12:08 Tweets   : 99.8% at 40/sec for backtoearthsw
+2017-11-07 09:12:34 Tweets   : 100% at 42/sec for Daylighting_Mag
+2017-11-07 09:13:50 Tweets   : 58.4% at 42/sec for evetibber
+2017-11-07 09:14:01 Tweets   : 100% at 21/sec for GresfordArch
+2017-11-07 09:14:11 Tweets   : 100% at 20/sec for KissLoveAffair
+2017-11-07 09:15:13 Tweets   : 99.7% at 40/sec for lowcarbonbox
+2017-11-07 09:15:25 Favorites: 50.2% at 2/sec for charlie_MSV
+2017-11-07 09:15:42 Tweets   : 99.9% at 34/sec for PassivhausPlus
+2017-11-07 09:15:45 Favorites: 52% at 44/sec for FirstForFCHO
+2017-11-07 09:15:57 Favorites: 51.8% at 48/sec for NHAwards2017
+2017-11-07 09:15:59 Favorites: 100% at 44/sec for NorthantsRural
+2017-11-07 09:16:12 Favorites: 55.3% at 45/sec for ProgressHG
+2017-11-07 09:16:23 Favorites: 53.3% at 45/sec for SChalkleyHastoe
+2017-11-07 09:16:32 Favorites: 53.1% at 44/sec for theonlywitters
+2017-11-07 09:16:53 Favorites: 54.8% at 44/sec for WestwardComms
+2017-11-07 09:16:54 Tweets   : 78.1% at 44/sec for 6CylinderLTD
+2017-11-07 09:17:50 Favorites: Waiting for 12.2 minutes due to : Used up allowance in a loop
+2017-11-07 09:20:02 Friends  : 99% at 4/sec for lowcarbonbox
+2017-11-07 09:20:23 Friends  : 97.1% at 48/sec for PassivhausPlus
+2017-11-07 09:20:59 Friends  : 98.3% at 49/sec for 6CylinderLTD
+2017-11-07 09:30:19 Favorites: 43.6% at 4/sec for ShareRadioUK
+2017-11-07 09:30:36 Favorites: 51.2% at 45/sec for AshIlsen
+2017-11-07 09:30:48 Favorites: 57.1% at 44/sec for CNTomFitz
+2017-11-07 09:30:54 Favorites: 65% at 47/sec for DodsEvents
+2017-11-07 09:30:56 Favorites: 84.7% at 46/sec for Drew_Build
+2017-11-07 09:30:58 Favorites: 60.2% at 50/sec for RevivePS
+2017-11-07 09:31:03 Favorites: 64.3% at 43/sec for simpsonyorkltd
+2017-11-07 09:31:12 Favorites: 56.4% at 42/sec for southandcitycol
+2017-11-07 09:31:16 Favorites: 96.1% at 48/sec for watsonandcox
+2017-11-07 09:31:20 Favorites: 60.9% at 48/sec for backtoearthsw
+2017-11-07 09:31:21 Favorites: 100% at 44/sec for Daylighting_Mag
+2017-11-07 09:31:42 Favorites: 52.7% at 43/sec for evetibber
+2017-11-07 09:31:47 Favorites: 83.7% at 42/sec for GresfordArch
+2017-11-07 09:31:52 Favorites: 66.1% at 50/sec for KissLoveAffair
+2017-11-07 09:31:57 Favorites: 87.6% at 47/sec for lowcarbonbox
+2017-11-07 09:32:40 Favorites: 50.5% at 46/sec for PassivhausPlus
+2017-11-07 09:32:47 Favorites: Waiting for 12.3 minutes due to : Used up allowance in a loop
+2017-11-07 09:45:24 Favorites: 52.8% at 2/sec for 6CylinderLTD
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+Warning message:
+package 'twitteR' was built under R version 3.4.1 

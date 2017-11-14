@@ -1,0 +1,163 @@
+starting worker pid=15772 on localhost:11045 at 22:12:43.387
+starting worker pid=14084 on localhost:11045 at 22:12:43.950
+starting worker pid=20856 on localhost:11045 at 22:12:44.119
+[1] "Using direct authentication"
+
+2017-11-09 22:13:21 Friends  : 98% at 34/sec for HBSLimited
+2017-11-09 22:13:54 Favorites: 95.9% at 28/sec for HBSLimited
+2017-11-09 22:14:04 Favorites: 52.6% at 31/sec for ibuildmagazine
+2017-11-09 22:14:12 Favorites: 55.6% at 36/sec for inhabitat
+2017-11-09 22:14:22 Friends  : 99.6% at 39/sec for ibuildmagazine
+2017-11-09 22:14:24 Favorites: 54% at 41/sec for joanpisanek
+2017-11-09 22:14:32 Favorites: 58% at 39/sec for junsueUK
+2017-11-09 22:14:33 Favorites: 97.4% at 49/sec for LamiluxUK
+2017-11-09 22:14:34 Favorites: 100% at 16/sec for latitudeUK
+2017-11-09 22:14:36 Friends  : 99.8% at 36/sec for inhabitat
+2017-11-09 22:14:36 Favorites: 100% at 50/sec for marktrosen
+2017-11-09 22:14:37 Favorites: 100% at 44/sec for MitchellArch
+2017-11-09 22:14:40 Tweets   : 100% at 13/sec for HBSLimited
+2017-11-09 22:14:44 Favorites: 64.5% at 41/sec for PassiveBldgsCan
+2017-11-09 22:14:44 Favorites: 100% at 13/sec for passivselfbuild
+2017-11-09 22:14:55 Friends  : 99% at 38/sec for joanpisanek
+2017-11-09 22:15:02 Friends  : 99.6% at 35/sec for junsueUK
+2017-11-09 22:15:18 Tweets   : 100% at 41/sec for ibuildmagazine
+2017-11-09 22:15:30 Favorites: 50% at 41/sec for PhilippeMoseley
+2017-11-09 22:15:31 Favorites: 94.1% at 45/sec for philjsummers
+2017-11-09 22:15:31 Favorites: 100% at 17/sec for Point6P
+2017-11-09 22:15:40 Favorites: 52.9% at 44/sec for proclimaMalte
+2017-11-09 22:15:40 Favorites: User PTEarchitects has a protected account or no Favoritess to collect so skipping
+2017-11-09 22:15:43 Favorites: Waiting for 9.8 minutes due to : Used up allowance in a loop
+2017-11-09 22:15:51 Friends  : 99.8% at 39/sec for LamiluxUK
+2017-11-09 22:15:55 Friends  : 100% at 34/sec for latitudeUK
+2017-11-09 22:15:58 Friends  : 100% at 28/sec for marktrosen
+2017-11-09 22:16:06 Friends  : 99.4% at 39/sec for MitchellArch
+2017-11-09 22:16:24 Friends  : 98.2% at 39/sec for PassiveBldgsCan
+2017-11-09 22:16:28 Friends  : 100% at 34/sec for passivselfbuild
+2017-11-09 22:16:31 Tweets   : 2.7% at 44/sec for inhabitat
+2017-11-09 22:16:46 Friends  : 94.6% at 42/sec for PhilippeMoseley
+2017-11-09 22:16:48 Friends  : 100% at 17/sec for philjsummers
+2017-11-09 22:16:55 Tweets   : 99.8% at 35/sec for joanpisanek
+2017-11-09 22:17:08 Tweets   : 100% at 24/sec for junsueUK
+2017-11-09 22:17:40 Friends  : 99.9% at 38/sec for Point6P
+2017-11-09 22:17:47 Friends  : 96.4% at 31/sec for proclimaMalte
+2017-11-09 22:18:09 Tweets   : 99.6% at 45/sec for LamiluxUK
+2017-11-09 22:18:17 Tweets   : 100% at 7/sec for latitudeUK
+2017-11-09 22:18:24 Friends  : 99.2% at 42/sec for PTEarchitects
+2017-11-09 22:18:31 Tweets   : 100% at 27/sec for marktrosen
+2017-11-09 22:18:41 Tweets   : 99.4% at 18/sec for MitchellArch
+2017-11-09 22:19:42 Friends  : 97% at 40/sec for ravbillan
+2017-11-09 22:19:42 Friends  : Waiting for 9.7 minutes
+2017-11-09 22:19:59 Tweets   : 99.2% at 40/sec for PassiveBldgsCan
+2017-11-09 22:20:05 Tweets   : 100% at 4/sec for passivselfbuild
+2017-11-09 22:21:23 Tweets   : 62.2% at 41/sec for PhilippeMoseley
+2017-11-09 22:21:33 Tweets   : 100% at 15/sec for philjsummers
+2017-11-09 22:21:41 Tweets   : 100% at 14/sec for Point6P
+2017-11-09 22:22:04 Tweets   : 99.9% at 32/sec for proclimaMalte
+2017-11-09 22:22:55 Tweets   : 99.8% at 42/sec for PTEarchitects
+2017-11-09 22:24:13 Tweets   : 39.2% at 41/sec for ravbillan
+2017-11-09 22:25:18 Tweets   : 99.8% at 43/sec for SF_Architects
+2017-11-09 22:25:40 Tweets   : 100% at 40/sec for SimonBea
+2017-11-09 22:26:53 Favorites: 13% at 5/sec for ravbillan
+2017-11-09 22:26:57 Tweets   : 90.2% at 41/sec for StonesThrowDsgn
+2017-11-09 22:27:05 Favorites: 52.4% at 47/sec for SF_Architects
+2017-11-09 22:27:07 Favorites: 96.4% at 44/sec for SimonBea
+2017-11-09 22:27:12 Favorites: 63.4% at 42/sec for StonesThrowDsgn
+2017-11-09 22:28:03 Favorites: 51.1% at 43/sec for sustainableuni1
+2017-11-09 22:28:10 Tweets   : 9% at 43/sec for sustainableuni1
+2017-11-09 22:28:30 Favorites: Waiting for 12.2 minutes due to : Used up allowance in a loop
+2017-11-09 22:29:08 Tweets   : 60.7% at 55/sec for TomDuffyDesign
+2017-11-09 22:29:21 Tweets   : 100% at 27/sec for TouchwoodHomes
+2017-11-09 22:29:40 Friends  : 97.1% at 0/sec for SF_Architects
+2017-11-09 22:29:54 Tweets   : 99.9% at 51/sec for trunkCLT
+2017-11-09 22:30:03 Tweets   : 100% at 18/sec for UCL_sbd
+2017-11-09 22:30:07 Friends  : 98.7% at 39/sec for SimonBea
+2017-11-09 22:30:30 Friends  : 99.5% at 40/sec for StonesThrowDsgn
+2017-11-09 22:31:08 Tweets   : 43.4% at 49/sec for UoNEngineering
+2017-11-09 22:31:30 Tweets   : 99.9% at 35/sec for WDsustyjames
+2017-11-09 22:31:55 Tweets   : 100% at 37/sec for WKWales
+2017-11-09 22:32:29 Friends  : 98.9% at 42/sec for sustainableuni1
+2017-11-09 22:32:33 Tweets   : 99.9% at 39/sec for WMA_arch
+2017-11-09 22:33:34 Tweets   : 64.5% at 53/sec for Zehnder_UK
+2017-11-09 22:33:35 Friends  : 99.5% at 45/sec for TomDuffyDesign
+2017-11-09 22:33:43 Tweets   : 100% at 22/sec for aerecopete
+2017-11-09 22:34:03 Friends  : 98.3% at 51/sec for TouchwoodHomes
+2017-11-09 22:34:18 Friends  : 100% at 48/sec for trunkCLT
+2017-11-09 22:34:21 Friends  : 100% at 37/sec for UCL_sbd
+2017-11-09 22:34:30 Friends  : 98.8% at 42/sec for UoNEngineering
+2017-11-09 22:34:35 Friends  : 97.3% at 43/sec for WDsustyjames
+2017-11-09 22:34:36 Tweets   : 99.9% at 50/sec for Anthi_Valavani
+2017-11-09 22:34:45 Friends  : 94.9% at 49/sec for WKWales
+2017-11-09 22:34:56 Friends  : 98.9% at 46/sec for WMA_arch
+2017-11-09 22:35:39 Friends  : 98.2% at 43/sec for Zehnder_UK
+2017-11-09 22:35:41 Tweets   : 21.7% at 49/sec for e3g
+2017-11-09 22:35:43 Friends  : 96.7% at 36/sec for aerecopete
+2017-11-09 22:35:57 Tweets   : 99.8% at 34/sec for RedCooperative
+2017-11-09 22:36:41 Friends  : 99.3% at 46/sec for Anthi_Valavani
+2017-11-09 22:36:42 Friends  : Waiting for 8 minutes
+2017-11-09 22:37:06 Tweets   : 93.9% at 46/sec for se2limited
+2017-11-09 22:38:01 Tweets   : 99.9% at 55/sec for sjonesaereco
+2017-11-09 22:38:22 Tweets   : 100% at 41/sec for 5plusarch
+2017-11-09 22:38:48 Tweets   : 99.9% at 42/sec for ADAMarchitectur
+2017-11-09 22:39:00 Tweets   : 100% at 29/sec for Amy_Butt_
+2017-11-09 22:40:02 Tweets   : 68.3% at 52/sec for archi_live
+2017-11-09 22:40:57 Favorites: 51% at 2/sec for TomDuffyDesign
+2017-11-09 22:41:00 Favorites: 52.1% at 38/sec for TouchwoodHomes
+2017-11-09 22:41:01 Favorites: 100% at 52/sec for trunkCLT
+2017-11-09 22:41:01 Favorites: 100% at 14/sec for UCL_sbd
+2017-11-09 22:41:07 Tweets   : 74.9% at 48/sec for archibarb
+2017-11-09 22:41:24 Tweets   : 100% at 27/sec for archio_ltd
+2017-11-09 22:41:28 Favorites: 52% at 44/sec for UoNEngineering
+2017-11-09 22:41:30 Favorites: 100% at 42/sec for WDsustyjames
+2017-11-09 22:41:39 Favorites: 50.6% at 43/sec for WKWales
+2017-11-09 22:41:52 Favorites: 55.6% at 46/sec for WMA_arch
+2017-11-09 22:41:59 Favorites: 64.1% at 42/sec for Zehnder_UK
+2017-11-09 22:42:00 Favorites: 100% at 55/sec for aerecopete
+2017-11-09 22:42:24 Tweets   : 65.3% at 52/sec for archireland
+2017-11-09 22:42:35 Favorites: 52.7% at 42/sec for Anthi_Valavani
+2017-11-09 22:43:07 Favorites: 51.8% at 44/sec for e3g
+2017-11-09 22:43:07 Tweets   : 100% at 52/sec for architecture_RA
+2017-11-09 22:43:09 Favorites: 82.4% at 38/sec for RedCooperative
+2017-11-09 22:43:10 Favorites: 95.2% at 36/sec for se2limited
+2017-11-09 22:43:17 Favorites: 56.7% at 44/sec for sjonesaereco
+2017-11-09 22:43:26 Favorites: 54.2% at 44/sec for 5plusarch
+2017-11-09 22:43:35 Favorites: 59.8% at 45/sec for ADAMarchitectur
+2017-11-09 22:43:37 Favorites: Waiting for 12.3 minutes due to : Used up allowance in a loop
+2017-11-09 22:44:08 Tweets   : 26.4% at 53/sec for arquitect_viva
+2017-11-09 22:45:09 Tweets   : 99.9% at 49/sec for blueprintmag
+2017-11-09 22:45:54 Friends  : 99.8% at 5/sec for e3g
+2017-11-09 22:46:02 Friends  : 98% at 31/sec for RedCooperative
+2017-11-09 22:46:10 Friends  : 100% at 47/sec for se2limited
+2017-11-09 22:46:17 Tweets   : 15.8% at 47/sec for CllrWarrenWhyte
+2017-11-09 22:46:35 Friends  : 98.1% at 48/sec for sjonesaereco
+2017-11-09 22:46:38 Tweets   : 100.1% at 42/sec for CoraKwiat
+2017-11-09 22:46:46 Friends  : 96.9% at 49/sec for 5plusarch
+2017-11-09 22:47:01 Friends  : 99.1% at 52/sec for ADAMarchitectur
+Error in twInterfaceObj$doAPICall(paste("users", "show", sep = "/"), params = params,  : 
+  Not Found (HTTP 404).
+In addition: Warning message:
+package 'twitteR' was built under R version 3.4.1 
+2017-11-09 22:47:02 Friends: Unable to find account Amy_Butt_ moving to next
+2017-11-09 22:47:02 Friends  : % at /sec for Amy_Butt_
+2017-11-09 22:47:20 Friends  : 99.4% at 44/sec for archi_live
+2017-11-09 22:47:27 Friends  : 100% at 41/sec for archibarb
+2017-11-09 22:47:38 Friends  : 99.2% at 49/sec for archio_ltd
+2017-11-09 22:48:02 Friends  : 99.2% at 44/sec for archireland
+2017-11-09 22:48:18 Friends  : 99.9% at 49/sec for architecture_RA
+2017-11-09 22:48:26 Friends  : 99.5% at 45/sec for arquitect_viva
+2017-11-09 22:48:49 Friends  : 99.6% at 47/sec for blueprintmag
+2017-11-09 22:49:14 Friends  : 97.3% at 46/sec for CllrWarrenWhyte
+2017-11-09 22:49:22 Friends  : 99% at 48/sec for CoraKwiat
+2017-11-09 22:56:02 Favorites: 59.2% at 0/sec for Amy_Butt_
+2017-11-09 22:56:04 Favorites: 62.9% at 35/sec for archi_live
+2017-11-09 22:56:20 Favorites: 50.6% at 45/sec for archibarb
+2017-11-09 22:56:24 Favorites: 65.7% at 50/sec for archio_ltd
+2017-11-09 22:56:33 Favorites: 53.3% at 44/sec for archireland
+2017-11-09 22:56:38 Favorites: 51.7% at 42/sec for architecture_RA
+2017-11-09 22:57:07 Favorites: 50.2% at 47/sec for arquitect_viva
+2017-11-09 22:57:16 Favorites: 50.9% at 45/sec for blueprintmag
+2017-11-09 22:57:57 Favorites: 49.8% at 43/sec for CllrWarrenWhyte
+2017-11-09 22:58:06 Favorites: 64.4% at 44/sec for CoraKwiat
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+Warning message:
+package 'twitteR' was built under R version 3.4.1 

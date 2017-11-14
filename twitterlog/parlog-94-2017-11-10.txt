@@ -1,0 +1,168 @@
+starting worker pid=17140 on localhost:11045 at 09:27:50.240
+starting worker pid=18884 on localhost:11045 at 09:27:50.397
+starting worker pid=7516 on localhost:11045 at 09:27:50.553
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-10 09:28:42 Friends  : 98.5% at 26/sec for Shell
+2017-11-10 09:29:10 Friends  : 99.5% at 48/sec for SmartAlastair
+2017-11-10 09:29:28 Favorites: 51.6% at 31/sec for Shell
+2017-11-10 09:29:32 Favorites: 53.8% at 49/sec for SmartAlastair
+2017-11-10 09:29:35 Friends  : 99.8% at 45/sec for SophiaKakembo
+2017-11-10 09:29:47 Favorites: 49.6% at 45/sec for SophiaKakembo
+2017-11-10 09:29:51 Favorites: 50.3% at 48/sec for Sue_Turb
+2017-11-10 09:29:56 Favorites: 70.8% at 40/sec for ThalesUK
+2017-11-10 09:29:58 Friends  : 98.8% at 44/sec for Sue_Turb
+2017-11-10 09:30:05 Friends  : 99.4% at 48/sec for ThalesUK
+2017-11-10 09:30:10 Favorites: 51.1% at 49/sec for thekuzaproject
+2017-11-10 09:30:11 Favorites: 100% at 12/sec for ThePMChannel
+2017-11-10 09:30:12 Favorites: 97% at 60/sec for TomArchibaldPM
+2017-11-10 09:30:52 Friends  : 99.9% at 41/sec for thekuzaproject
+2017-11-10 09:31:02 Friends  : 100% at 40/sec for ThePMChannel
+2017-11-10 09:31:05 Tweets   : 96.4% at 50/sec for Shell
+2017-11-10 09:31:05 Friends  : 94.2% at 33/sec for TomArchibaldPM
+2017-11-10 09:31:21 Favorites: Waiting for 9.1 minutes due to : Used up allowance in a loop
+2017-11-10 09:31:37 Tweets   : 99% at 50/sec for SmartAlastair
+2017-11-10 09:32:14 Tweets   : 99.6% at 45/sec for SophiaKakembo
+2017-11-10 09:32:43 Tweets   : 99.8% at 42/sec for Sue_Turb
+2017-11-10 09:32:51 Friends  : 99.5% at 43/sec for TonyRoddUK
+2017-11-10 09:33:02 Friends  : 99.2% at 43/sec for UCLLifeLearning
+2017-11-10 09:33:03 Friends  : 87.5% at 7/sec for WIPMuk
+2017-11-10 09:33:29 Friends  : 99.4% at 45/sec for wmgwarwick
+2017-11-10 09:33:35 Tweets   : 99.9% at 51/sec for ThalesUK
+2017-11-10 09:33:59 Tweets   : 99.7% at 40/sec for thekuzaproject
+2017-11-10 09:34:14 Tweets   : 99.8% at 37/sec for ThePMChannel
+2017-11-10 09:34:20 Friends  : 100% at 44/sec for EAL_Awards
+2017-11-10 09:34:21 Tweets   : 100% at 7/sec for TomArchibaldPM
+2017-11-10 09:34:41 Friends  : 98.9% at 41/sec for G_Gathercole
+2017-11-10 09:35:05 Friends  : 98.3% at 40/sec for GatewayQuals
+2017-11-10 09:35:05 Friends  : Waiting for 8.5 minutes
+2017-11-10 09:35:25 Tweets   : 33.3% at 50/sec for TonyRoddUK
+2017-11-10 09:36:29 Tweets   : 76% at 50/sec for UCLLifeLearning
+2017-11-10 09:36:36 Tweets   : 100% at 4/sec for WIPMuk
+2017-11-10 09:37:41 Tweets   : 56.5% at 49/sec for wmgwarwick
+2017-11-10 09:38:40 Tweets   : 17.5% at 54/sec for EAL_Awards
+2017-11-10 09:39:42 Tweets   : 86% at 51/sec for G_Gathercole
+2017-11-10 09:40:23 Tweets   : 99.9% at 45/sec for GatewayQuals
+2017-11-10 09:40:41 Favorites: 16.4% at 5/sec for TonyRoddUK
+2017-11-10 09:40:52 Favorites: 61.9% at 45/sec for UCLLifeLearning
+2017-11-10 09:40:53 Favorites: 85.7% at 8/sec for WIPMuk
+2017-11-10 09:40:59 Favorites: 51.4% at 50/sec for wmgwarwick
+2017-11-10 09:41:03 Favorites: 86% at 49/sec for EAL_Awards
+2017-11-10 09:41:17 Favorites: 51.4% at 48/sec for G_Gathercole
+2017-11-10 09:41:21 Favorites: 82.9% at 45/sec for GatewayQuals
+2017-11-10 09:41:35 Tweets   : 98.9% at 40/sec for JulieHydeCACHE
+2017-11-10 09:42:04 Favorites: 50.8% at 46/sec for JulieHydeCACHE
+2017-11-10 09:42:04 Favorites: 100% at 19/sec for ofqual
+2017-11-10 09:42:17 Favorites: 54.2% at 45/sec for openawards
+2017-11-10 09:42:23 Favorites: 59.4% at 52/sec for PearsonVUE
+2017-11-10 09:42:23 Favorites: 100% at 18/sec for StockdaleJ
+2017-11-10 09:42:24 Tweets   : 99.9% at 46/sec for ofqual
+2017-11-10 09:42:40 Favorites: 51.3% at 54/sec for YMCAawards
+2017-11-10 09:42:40 Favorites: User FEontap has a protected account or no Favoritess to collect so skipping
+2017-11-10 09:42:44 Favorites: 57.7% at 45/sec for _OFEnergy
+2017-11-10 09:43:09 Favorites: Waiting for 12.5 minutes due to : Used up allowance in a loop
+2017-11-10 09:43:26 Tweets   : 44.3% at 52/sec for openawards
+2017-11-10 09:44:29 Tweets   : 64.4% at 51/sec for PearsonVUE
+2017-11-10 09:44:54 Friends  : 99.3% at 4/sec for JulieHydeCACHE
+2017-11-10 09:45:03 Tweets   : 99.3% at 44/sec for StockdaleJ
+2017-11-10 09:45:06 Friends  : 99.8% at 45/sec for ofqual
+2017-11-10 09:45:56 Friends  : 96.3% at 46/sec for openawards
+2017-11-10 09:45:57 Tweets   : 99.7% at 43/sec for YMCAawards
+2017-11-10 09:46:43 Friends  : 99.8% at 41/sec for PearsonVUE
+2017-11-10 09:46:47 Friends  : 98.5% at 30/sec for StockdaleJ
+2017-11-10 09:47:06 Tweets   : 18% at 46/sec for FEontap
+2017-11-10 09:47:20 Tweets   : 100% at 35/sec for _OFEnergy
+2017-11-10 09:47:22 Friends  : 99.7% at 43/sec for YMCAawards
+2017-11-10 09:47:31 Friends  : 100% at 39/sec for FEontap
+2017-11-10 09:47:37 Friends  : 100% at 38/sec for _OFEnergy
+2017-11-10 09:48:10 Friends  : 98.7% at 39/sec for ahrcpress
+2017-11-10 09:48:26 Tweets   : 35.3% at 48/sec for ahrcpress
+2017-11-10 09:48:41 Friends  : 98.3% at 39/sec for alisonphipps
+2017-11-10 09:48:56 Friends  : 100% at 36/sec for AStarMedia
+2017-11-10 09:49:07 Friends  : 99.1% at 38/sec for BEISYHNE
+2017-11-10 09:49:21 Friends  : 100% at 35/sec for BigVocDebate
+2017-11-10 09:49:36 Tweets   : 39.9% at 45/sec for alisonphipps
+2017-11-10 09:49:43 Friends  : 98.8% at 37/sec for BritishArmy
+2017-11-10 09:50:00 Friends  : 100% at 34/sec for Business_SheffC
+2017-11-10 09:50:00 Friends  : Waiting for 8.9 minutes
+2017-11-10 09:50:15 Tweets   : 99.9% at 41/sec for AStarMedia
+2017-11-10 09:50:36 Tweets   : 99.5% at 31/sec for BEISYHNE
+2017-11-10 09:50:52 Tweets   : 100% at 32/sec for BigVocDebate
+2017-11-10 09:52:10 Tweets   : 45.2% at 41/sec for BritishArmy
+2017-11-10 09:52:41 Tweets   : 99.5% at 48/sec for Business_SheffC
+2017-11-10 09:52:52 Tweets   : 100% at 27/sec for ccavgovuk
+2017-11-10 09:53:56 Tweets   : 75.7% at 50/sec for cogent_skills
+2017-11-10 09:55:00 Tweets   : 16.6% at 50/sec for CrosslandEmpLaw
+2017-11-10 09:55:53 Favorites: 49.8% at 2/sec for ahrcpress
+2017-11-10 09:56:01 Favorites: 2.7% at 46/sec for alisonphipps
+2017-11-10 09:56:02 Favorites: 96.8% at 44/sec for AStarMedia
+2017-11-10 09:56:02 Favorites: 100% at 14/sec for BEISYHNE
+2017-11-10 09:56:02 Favorites: User BigVocDebate has a protected account or no Favoritess to collect so skipping
+2017-11-10 09:56:10 Tweets   : 24.2% at 45/sec for CtrlShift
+2017-11-10 09:56:30 Tweets   : 99.8% at 34/sec for DExEUgov
+2017-11-10 09:56:33 Favorites: 49.8% at 44/sec for BritishArmy
+2017-11-10 09:56:37 Favorites: 50% at 53/sec for Business_SheffC
+2017-11-10 09:56:39 Favorites: 97.9% at 28/sec for ccavgovuk
+2017-11-10 09:56:42 Favorites: 56.9% at 56/sec for cogent_skills
+2017-11-10 09:56:52 Favorites: 51.8% at 50/sec for CrosslandEmpLaw
+2017-11-10 09:56:59 Favorites: 56.3% at 42/sec for CtrlShift
+2017-11-10 09:57:00 Favorites: 100% at 38/sec for DExEUgov
+2017-11-10 09:57:38 Favorites: 49.9% at 46/sec for EarlhamInst
+2017-11-10 09:57:40 Favorites: 98.6% at 59/sec for edvaizey
+2017-11-10 09:57:41 Tweets   : 25.5% at 45/sec for EarlhamInst
+2017-11-10 09:58:15 Favorites: 51.7% at 47/sec for EMA_Airport
+2017-11-10 09:58:17 Favorites: Waiting for 12.5 minutes due to : Used up allowance in a loop
+2017-11-10 09:58:48 Tweets   : 14.8% at 48/sec for edvaizey
+Error in twInterfaceObj$doAPICall(paste("users", "show", sep = "/"), params = params,  : 
+  Not Found (HTTP 404).
+In addition: Warning message:
+package 'twitteR' was built under R version 3.4.1 
+2017-11-10 09:58:54 Friends: Unable to find account ccavgovuk moving to next
+2017-11-10 09:58:54 Friends  : % at /sec for ccavgovuk
+2017-11-10 09:59:41 Friends  : 99.9% at 42/sec for cogent_skills
+2017-11-10 09:59:57 Tweets   : 81.3% at 47/sec for EMA_Airport
+2017-11-10 10:00:41 Friends  : 100% at 44/sec for CrosslandEmpLaw
+2017-11-10 10:01:06 Friends  : 98.2% at 43/sec for CtrlShift
+2017-11-10 10:01:13 Tweets   : 16.1% at 42/sec for ESRC
+2017-11-10 10:01:16 Friends  : 99.3% at 41/sec for DExEUgov
+2017-11-10 10:02:24 Tweets   : 51.5% at 46/sec for EURACTIVUK
+2017-11-10 10:02:58 Friends  : 98.3% at 39/sec for EarlhamInst
+2017-11-10 10:03:32 Tweets   : 58.4% at 46/sec for GBSLEP
+2017-11-10 10:03:37 Friends  : 99.6% at 34/sec for edvaizey
+2017-11-10 10:03:54 Friends  : 99.5% at 36/sec for EMA_Airport
+2017-11-10 10:04:04 Tweets   : 99.1% at 42/sec for GCHQ
+2017-11-10 10:05:11 Tweets   : 9.3% at 47/sec for GdnSmallBiz
+2017-11-10 10:06:18 Friends  : 97.6% at 43/sec for ESRC
+2017-11-10 10:06:29 Tweets   : 34.5% at 41/sec for GEWUK
+2017-11-10 10:07:01 Tweets   : 99% at 46/sec for HCSCareers
+2017-11-10 10:07:34 Friends  : 98.7% at 39/sec for EURACTIVUK
+2017-11-10 10:07:42 Tweets   : 99% at 47/sec for heysailortweets
+2017-11-10 10:08:30 Friends  : 99.5% at 39/sec for GBSLEP
+2017-11-10 10:08:35 Friends  : 97.5% at 44/sec for GCHQ
+2017-11-10 10:08:46 Tweets   : 95% at 50/sec for HRinform
+2017-11-10 10:09:13 Friends  : 100% at 44/sec for GdnSmallBiz
+2017-11-10 10:09:51 Friends  : 100% at 41/sec for GEWUK
+2017-11-10 10:09:57 Tweets   : 15.1% at 45/sec for ICAEW_talk
+2017-11-10 10:10:12 Friends  : 100% at 41/sec for HCSCareers
+2017-11-10 10:10:12 Friends  : Waiting for 3.8 minutes
+2017-11-10 10:10:47 Favorites: 1.5% at 0/sec for ESRC
+2017-11-10 10:10:47 Favorites: Waiting for 0 minutes due to : Used up allowance in a loop
+2017-11-10 10:10:50 Favorites: 100% at 20/sec for EURACTIVUK
+2017-11-10 10:11:05 Favorites: 53.2% at 44/sec for GBSLEP
+2017-11-10 10:11:10 Favorites: 53.7% at 46/sec for GCHQ
+2017-11-10 10:11:22 Favorites: 54.2% at 47/sec for GdnSmallBiz
+2017-11-10 10:11:45 Favorites: 49.7% at 47/sec for GEWUK
+2017-11-10 10:11:46 Favorites: 100% at 17/sec for HCSCareers
+2017-11-10 10:11:58 Favorites: 49.4% at 46/sec for heysailortweets
+2017-11-10 10:12:06 Favorites: 53% at 48/sec for HRinform
+2017-11-10 10:12:17 Favorites: 58.6% at 47/sec for ICAEW_talk
+2017-11-10 10:14:14 Friends  : 99.6% at 2/sec for heysailortweets
+2017-11-10 10:14:49 Friends  : 99.2% at 40/sec for HRinform
+2017-11-10 10:15:07 Friends  : 99.7% at 42/sec for ICAEW_talk
+Warning messages:
+1: package 'twitteR' was built under R version 3.4.1 
+2: In twInterfaceObj$doAPICall(cmd, params, method, ...) :
+ Warning message:
+tered & retry limit reached - returning partial results
+package 'twitteR' was built under R version 3.4.1 

@@ -1,0 +1,174 @@
+starting worker pid=6104 on localhost:11045 at 19:52:53.668
+starting worker pid=12540 on localhost:11045 at 19:52:53.831
+starting worker pid=13712 on localhost:11045 at 19:52:53.988
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+Error in twInterfaceObj$doAPICall(paste("users", "show", sep = "/"), params = params,  : 
+  Not Found (HTTP 404).
+In addition: Warning message:
+package 'twitteR' was built under R version 3.4.1 
+2017-11-08 19:52:58 Friends: Unable to find account InvestGainsboro moving to next
+2017-11-08 19:52:58 Friends  : % at /sec for InvestGainsboro
+2017-11-08 19:53:07 Favorites: 51.2% at 48/sec for InvestGainsboro
+2017-11-08 19:53:10 Friends  : 99.7% at 49/sec for kiergroup
+2017-11-08 19:53:11 Favorites: 62% at 52/sec for kiergroup
+2017-11-08 19:53:22 Favorites: 58.3% at 51/sec for letstalkcentral
+2017-11-08 19:53:26 Favorites: 54.3% at 49/sec for read_uk
+2017-11-08 19:53:28 Tweets   : 100% at 45/sec for InvestGainsboro
+2017-11-08 19:53:32 Friends  : 99.4% at 49/sec for letstalkcentral
+2017-11-08 19:53:36 Favorites: 53.7% at 57/sec for Scape_Group
+2017-11-08 19:53:38 Favorites: 90.1% at 63/sec for sound_testing
+2017-11-08 19:54:07 Friends  : 100% at 50/sec for read_uk
+2017-11-08 19:54:07 Favorites: 51.9% at 51/sec for southkesteven
+2017-11-08 19:54:21 Favorites: 52.9% at 51/sec for spannermax
+2017-11-08 19:54:21 Favorites: User AndreaBaker_PH has a protected account or no Favoritess to collect so skipping
+2017-11-08 19:54:23 Favorites: Waiting for 12.3 minutes due to : Used up allowance in a loop
+2017-11-08 19:54:24 Tweets   : 62.7% at 58/sec for kiergroup
+2017-11-08 19:54:34 Friends  : 95% at 50/sec for Scape_Group
+2017-11-08 19:54:40 Friends  : 99.4% at 50/sec for sound_testing
+2017-11-08 19:54:57 Friends  : 99.2% at 53/sec for southkesteven
+2017-11-08 19:55:05 Friends  : 99.4% at 47/sec for spannermax
+2017-11-08 19:55:05 Friends  : User AndreaBaker_PH has a protected account or no Friendss to collect so skipping
+2017-11-08 19:55:13 Tweets   : 15.8% at 64/sec for letstalkcentral
+2017-11-08 19:55:51 Tweets   : 100% at 60/sec for read_uk
+2017-11-08 19:56:00 Friends  : 98.5% at 53/sec for aShropLad
+2017-11-08 19:56:16 Friends  : 99.3% at 54/sec for BCHAnews
+2017-11-08 19:56:21 Friends  : 98.5% at 48/sec for CHADD1979
+2017-11-08 19:56:29 Tweets   : 99.8% at 54/sec for Scape_Group
+2017-11-08 19:56:30 Friends  : 99.8% at 48/sec for Colnehousing
+2017-11-08 19:56:31 Friends  : 100% at 8/sec for ConHome
+2017-11-08 19:56:46 Friends  : 99.2% at 51/sec for ConnectHousing
+2017-11-08 19:56:53 Friends  : 98.2% at 48/sec for frank_westkent
+2017-11-08 19:56:56 Tweets   : 99.8% at 58/sec for sound_testing
+2017-11-08 19:56:59 Friends  : 100% at 56/sec for HargreavesRS
+2017-11-08 19:56:59 Friends  : Waiting for 11.1 minutes
+2017-11-08 19:57:46 Tweets   : 25.9% at 65/sec for southkesteven
+2017-11-08 19:58:16 Tweets   : 99.3% at 57/sec for spannermax
+2017-11-08 19:59:06 Tweets   : 85.4% at 64/sec for AndreaBaker_PH
+2017-11-08 19:59:59 Tweets   : 12.1% at 60/sec for aShropLad
+2017-11-08 20:00:27 Tweets   : 99.9% at 56/sec for BCHAnews
+2017-11-08 20:00:54 Tweets   : 100% at 48/sec for CHADD1979
+2017-11-08 20:01:23 Tweets   : 99.6% at 61/sec for Colnehousing
+2017-11-08 20:02:08 Tweets   : 10.4% at 70/sec for ConHome
+2017-11-08 20:02:43 Tweets   : 99.7% at 56/sec for ConnectHousing
+2017-11-08 20:03:11 Tweets   : 99.7% at 54/sec for frank_westkent
+2017-11-08 20:03:56 Tweets   : 90.8% at 71/sec for HargreavesRS
+2017-11-08 20:04:06 Tweets   : 100% at 28/sec for HCHAorg
+2017-11-08 20:04:35 Tweets   : 99.9% at 53/sec for HevJacklin1
+2017-11-08 20:04:46 Tweets   : 99.7% at 28/sec for jcaccont
+2017-11-08 20:05:34 Tweets   : 99.7% at 63/sec for JHardacre1
+2017-11-08 20:05:47 Tweets   : 99.8% at 32/sec for LCYarlington
+2017-11-08 20:06:15 Tweets   : 100% at 52/sec for LindaMLinda
+2017-11-08 20:06:22 Tweets   : 100% at 9/sec for MarchesClts
+2017-11-08 20:06:43 Tweets   : 99.5% at 52/sec for MDillon40
+2017-11-08 20:07:07 Favorites: 52.5% at 1/sec for aShropLad
+2017-11-08 20:07:12 Favorites: 61% at 54/sec for BCHAnews
+2017-11-08 20:07:15 Tweets   : 99.7% at 56/sec for MMcPhillips_
+2017-11-08 20:07:23 Favorites: 56.9% at 53/sec for CHADD1979
+2017-11-08 20:07:27 Favorites: 82.9% at 53/sec for Colnehousing
+2017-11-08 20:07:28 Favorites: 94.4% at 17/sec for ConHome
+2017-11-08 20:07:36 Tweets   : 99.9% at 45/sec for natfedRuth
+2017-11-08 20:07:45 Tweets   : 100% at 20/sec for NatFedTaha
+2017-11-08 20:07:47 Favorites: 51.7% at 53/sec for ConnectHousing
+2017-11-08 20:07:50 Favorites: 79.2% at 54/sec for frank_westkent
+2017-11-08 20:07:51 Favorites: 100% at 8/sec for HargreavesRS
+2017-11-08 20:07:51 Tweets   : 5.4% at 73/sec for NLGNthinktank
+2017-11-08 20:07:51 Tweets   : Waiting for 0.3 minutes
+2017-11-08 20:07:52 Favorites: 100% at 56/sec for HCHAorg
+2017-11-08 20:07:59 Favorites: 50.6% at 58/sec for HevJacklin1
+2017-11-08 20:08:00 Favorites: 85.7% at 8/sec for jcaccont
+2017-11-08 20:08:14 Favorites: 51.4% at 52/sec for JHardacre1
+2017-11-08 20:08:18 Favorites: 74.9% at 54/sec for LCYarlington
+2017-11-08 20:08:29 Friends  : 98.6% at 1/sec for HCHAorg
+2017-11-08 20:08:33 Friends  : 100% at 44/sec for HevJacklin1
+2017-11-08 20:08:33 Favorites: 51.6% at 53/sec for LindaMLinda
+2017-11-08 20:08:33 Favorites: 100% at 17/sec for MarchesClts
+2017-11-08 20:08:34 Friends  : 100% at 35/sec for jcaccont
+2017-11-08 20:08:38 Favorites: 94.3% at 45/sec for MDillon40
+2017-11-08 20:08:43 Favorites: 68.5% at 50/sec for MMcPhillips_
+2017-11-08 20:08:47 Favorites: 59.7% at 55/sec for natfedRuth
+2017-11-08 20:08:51 Favorites: 62.5% at 53/sec for NatFedTaha
+2017-11-08 20:08:57 Favorites: 50.3% at 51/sec for NLGNthinktank
+2017-11-08 20:08:59 Tweets   : 30.6% at 47/sec for Official_OHG
+2017-11-08 20:09:03 Favorites: 64.1% at 48/sec for Official_OHG
+2017-11-08 20:09:16 Favorites: Waiting for 12.8 minutes due to : Used up allowance in a loop
+2017-11-08 20:09:26 Friends  : 98.8% at 56/sec for JHardacre1
+Error in twInterfaceObj$doAPICall(paste("users", "show", sep = "/"), params = params,  : 
+  Not Found (HTTP 404).
+2017-11-08 20:09:27 Friends: Unable to find account LCYarlington moving to next
+2017-11-08 20:09:27 Friends  : % at /sec for LCYarlington
+2017-11-08 20:09:31 Friends  : 98.4% at 55/sec for LindaMLinda
+2017-11-08 20:09:33 Friends  : 97.1% at 26/sec for MarchesClts
+2017-11-08 20:09:50 Tweets   : 45.3% at 63/sec for PlusDane
+2017-11-08 20:09:56 Friends  : 99.4% at 55/sec for MDillon40
+2017-11-08 20:10:08 Friends  : 99% at 54/sec for MMcPhillips_
+2017-11-08 20:10:21 Friends  : 98.3% at 58/sec for natfedRuth
+2017-11-08 20:10:25 Friends  : 95% at 56/sec for NatFedTaha
+2017-11-08 20:10:45 Tweets   : 55.1% at 58/sec for PoplarHARCA
+2017-11-08 20:10:59 Tweets   : 100% at 37/sec for RobMAccent
+2017-11-08 20:11:18 Friends  : 99.6% at 56/sec for NLGNthinktank
+2017-11-08 20:11:25 Tweets   : 99.9% at 51/sec for SarahRughoo
+2017-11-08 20:12:05 Friends  : 99.7% at 53/sec for Official_OHG
+2017-11-08 20:12:19 Tweets   : 55.9% at 60/sec for SashaDeepwell
+2017-11-08 20:12:35 Friends  : 98.4% at 53/sec for PlusDane
+2017-11-08 20:12:50 Tweets   : 99.9% at 59/sec for SLH_Homes
+2017-11-08 20:12:59 Friends  : 99.7% at 53/sec for PoplarHARCA
+2017-11-08 20:13:04 Friends  : 97.9% at 48/sec for RobMAccent
+2017-11-08 20:13:04 Friends  : Waiting for 10.4 minutes
+2017-11-08 20:13:50 Tweets   : 17.1% at 54/sec for smarshall2002
+2017-11-08 20:14:39 Tweets   : 57.2% at 64/sec for Southsomersetdc
+2017-11-08 20:15:17 Tweets   : 99.9% at 56/sec for SueHarveyCT
+2017-11-08 20:16:08 Tweets   : 68.8% at 63/sec for susana_mendonca
+2017-11-08 20:16:58 Tweets   : 11.4% at 64/sec for TheKingsFund
+2017-11-08 20:17:27 Tweets   : 99.4% at 56/sec for victoriamoffett
+2017-11-08 20:18:10 Tweets   : 99.9% at 58/sec for WandleHA
+2017-11-08 20:19:03 Tweets   : 54.1% at 60/sec for wembleycake
+2017-11-08 20:19:51 Tweets   : 64.1% at 67/sec for LA_Today
+2017-11-08 20:20:46 Tweets   : 5.9% at 59/sec for Moregeous
+2017-11-08 20:20:55 Tweets   : 100% at 23/sec for NSLchecking
+2017-11-08 20:21:32 Tweets   : 99.9% at 60/sec for OneEGroup
+2017-11-08 20:22:23 Tweets   : 52.1% at 63/sec for sedulogroup
+2017-11-08 20:22:43 Favorites: 50.4% at 2/sec for PlusDane
+2017-11-08 20:22:55 Favorites: 57.1% at 56/sec for PoplarHARCA
+2017-11-08 20:23:01 Favorites: 61.4% at 55/sec for RobMAccent
+2017-11-08 20:23:06 Favorites: 55.9% at 55/sec for SarahRughoo
+2017-11-08 20:23:29 Favorites: 51.1% at 57/sec for SashaDeepwell
+2017-11-08 20:23:32 Favorites: 84.5% at 58/sec for SLH_Homes
+2017-11-08 20:23:43 Favorites: 53.6% at 55/sec for smarshall2002
+2017-11-08 20:23:46 Favorites: 57.6% at 52/sec for Southsomersetdc
+2017-11-08 20:23:56 Friends  : 100% at 1/sec for SarahRughoo
+2017-11-08 20:24:06 Favorites: 53% at 55/sec for SueHarveyCT
+2017-11-08 20:24:10 Favorites: 79.9% at 51/sec for susana_mendonca
+2017-11-08 20:24:22 Favorites: 49.7% at 51/sec for TheKingsFund
+2017-11-08 20:24:27 Favorites: 65.1% at 52/sec for victoriamoffett
+2017-11-08 20:24:35 Favorites: 54.1% at 50/sec for WandleHA
+2017-11-08 20:24:38 Friends  : 99.6% at 54/sec for SashaDeepwell
+2017-11-08 20:24:39 Favorites: Waiting for 12.7 minutes due to : Used up allowance in a loop
+2017-11-08 20:24:42 Friends  : 97.6% at 50/sec for SLH_Homes
+2017-11-08 20:24:57 Friends  : 98.9% at 52/sec for smarshall2002
+2017-11-08 20:24:58 Friends  : 98.5% at 38/sec for Southsomersetdc
+2017-11-08 20:25:03 Friends  : 97.1% at 42/sec for SueHarveyCT
+2017-11-08 20:25:31 Friends  : 99.6% at 51/sec for susana_mendonca
+2017-11-08 20:29:15 Friends  : 100% at 52/sec for TheKingsFund
+2017-11-08 20:29:36 Friends  : 99.1% at 57/sec for victoriamoffett
+2017-11-08 20:29:52 Friends  : 98.7% at 67/sec for WandleHA
+2017-11-08 20:30:45 Friends  : 99.2% at 56/sec for wembleycake
+2017-11-08 20:31:09 Friends  : 100% at 60/sec for LA_Today
+2017-11-08 20:31:46 Friends  : 99.3% at 57/sec for Moregeous
+2017-11-08 20:31:46 Friends  : Waiting for 7.1 minutes
+2017-11-08 20:38:41 Favorites: 20.4% at 4/sec for wembleycake
+2017-11-08 20:38:48 Favorites: 56.3% at 54/sec for LA_Today
+2017-11-08 20:38:54 Favorites: 53.9% at 55/sec for Moregeous
+2017-11-08 20:38:55 Favorites: 78.7% at 54/sec for NSLchecking
+2017-11-08 20:38:57 Favorites: 49.2% at 58/sec for OneEGroup
+2017-11-08 20:39:06 Favorites: 55.1% at 54/sec for sedulogroup
+2017-11-08 20:39:09 Friends  : 100% at 1/sec for NSLchecking
+2017-11-08 20:39:22 Friends  : 99.8% at 61/sec for OneEGroup
+2017-11-08 20:39:37 Friends  : 99.2% at 60/sec for sedulogroup
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+Warning messages:
+1: package 'twitteR' was built under R version 3.4.1 
+2: In twInterfaceObj$doAPICall(cmd, params, method, ...) :
+  Rate limit encountered & retry limit reached - returning partial results

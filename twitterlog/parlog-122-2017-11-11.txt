@@ -1,0 +1,177 @@
+starting worker pid=14312 on localhost:11045 at 18:31:21.378
+starting worker pid=18872 on localhost:11045 at 18:31:21.547
+starting worker pid=2768 on localhost:11045 at 18:31:21.695
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-11 18:32:40 Friends  : Waiting for 3.8 minutes
+2017-11-11 18:35:20 Favorites: 16.1% at 38/sec for britishmuseum
+2017-11-11 18:36:24 Favorites: Waiting for 6.3 minutes due to : Used up allowance in a loop
+2017-11-11 18:36:30 Tweets   : 18.4% at 44/sec for britishmuseum
+2017-11-11 18:37:42 Tweets   : 8.1% at 45/sec for BrutalHouse
+2017-11-11 18:38:01 Tweets   : 100% at 24/sec for Built_ID
+Error in twInterfaceObj$doAPICall(cmd, params, method, ...) : 
+  Service Unavailable (HTTP 503).
+In addition: Warning message:
+package 'twitteR' was built under R version 3.4.1 
+2017-11-11 18:38:15 Tweets: Unable to find account buttressarch moving to next
+2017-11-11 18:38:15 Tweets   : % at /sec for buttressarch
+2017-11-11 18:39:26 Tweets   : 49.4% at 45/sec for C20Society
+2017-11-11 18:40:41 Tweets   : 25.9% at 43/sec for carocomms
+2017-11-11 18:41:55 Tweets   : 40.5% at 43/sec for cath_slessor
+2017-11-11 18:42:39 Tweets   : 99.9% at 39/sec for CGLUK
+2017-11-11 18:43:07 Favorites: 13.7% at 7/sec for BrutalHouse
+2017-11-11 18:43:12 Favorites: 53.1% at 46/sec for Built_ID
+2017-11-11 18:43:20 Favorites: 63.1% at 37/sec for buttressarch
+2017-11-11 18:43:55 Tweets   : 100% at 36/sec for CNNStyle
+2017-11-11 18:44:00 Favorites: 49.4% at 34/sec for C20Society
+2017-11-11 18:44:15 Tweets   : 100% at 23/sec for Cormac_Fanad
+2017-11-11 18:44:35 Tweets   : 100% at 24/sec for CottVerm
+2017-11-11 18:44:44 Tweets   : 100% at 12/sec for CraigA11en
+2017-11-11 18:45:24 Favorites: 39% at 39/sec for carocomms
+2017-11-11 18:45:32 Tweets   : 99.8% at 31/sec for CreativeIndsUK
+2017-11-11 18:45:51 Tweets   : 100% at 17/sec for DanielLeonSfa
+2017-11-11 18:46:05 Favorites: Waiting for 11.8 minutes due to : Used up allowance in a loop
+2017-11-11 18:46:32 Tweets   : 100% at 41/sec for danish_tm
+2017-11-11 18:46:44 Tweets   : 100% at 20/sec for DelvMartArch
+2017-11-11 18:48:01 Tweets   : 37.1% at 41/sec for designcouncil
+2017-11-11 18:49:20 Tweets   : 36.9% at 41/sec for designweekmex
+2017-11-11 18:50:01 Tweets   : 99.9% at 34/sec for devlinarchitect
+2017-11-11 18:50:24 Tweets   : 100% at 28/sec for DolphinTeamUK
+2017-11-11 18:51:49 Tweets   : 24.5% at 37/sec for DrFrond
+2017-11-11 18:52:04 Tweets   : 99.7% at 22/sec for eleanoryoung
+2017-11-11 18:52:29 Tweets   : 100% at 27/sec for elenarchitect
+2017-11-11 18:52:48 Tweets   : 100% at 23/sec for Ellis_Diane
+2017-11-11 18:54:12 Tweets   : 18.9% at 38/sec for EnglishHeritage
+2017-11-11 18:54:33 Tweets   : 99.9% at 34/sec for EPlotka
+2017-11-11 18:55:53 Tweets   : 7% at 40/sec for evently
+2017-11-11 18:56:25 Friends  : 99.9% at 36/sec for britishmuseum
+2017-11-11 18:56:45 Tweets   : 100% at 38/sec for EvolvGardenPods
+2017-11-11 18:56:47 Friends  : 98.7% at 49/sec for BrutalHouse
+2017-11-11 18:57:01 Tweets   : 100% at 29/sec for FionaOrsini
+2017-11-11 18:57:17 Friends  : 94.5% at 47/sec for Built_ID
+2017-11-11 18:57:26 Friends  : 98.6% at 48/sec for buttressarch
+2017-11-11 18:57:39 Friends  : 98.2% at 43/sec for C20Society
+2017-11-11 18:57:40 Tweets   : 99.9% at 32/sec for GoodfellowComms
+2017-11-11 18:57:48 Tweets   : 100% at 11/sec for gparchitecture
+2017-11-11 18:57:55 Tweets   : 100% at 5/sec for Guy_Piper
+2017-11-11 18:58:32 Tweets   : 99.9% at 33/sec for harriscalnan
+2017-11-11 18:58:36 Favorites: 49.8% at 4/sec for cath_slessor
+2017-11-11 18:58:40 Favorites: 85.3% at 29/sec for CGLUK
+2017-11-11 18:58:44 Favorites: 70.3% at 43/sec for CNNStyle
+2017-11-11 18:58:52 Favorites: 51% at 38/sec for Cormac_Fanad
+2017-11-11 18:58:54 Tweets   : 100% at 25/sec for haverstock_llp
+2017-11-11 18:59:00 Favorites: 63.1% at 39/sec for CottVerm
+2017-11-11 18:59:05 Favorites: 73.9% at 41/sec for CraigA11en
+2017-11-11 18:59:08 Favorites: 56.9% at 30/sec for CreativeIndsUK
+2017-11-11 18:59:09 Favorites: 66.7% at 74/sec for DanielLeonSfa
+2017-11-11 18:59:09 Tweets   : 100% at 22/sec for haworthtompkins
+2017-11-11 18:59:17 Favorites: 63.8% at 39/sec for danish_tm
+2017-11-11 18:59:19 Tweets   : 100% at 13/sec for henryjlyons
+2017-11-11 18:59:20 Favorites: 98.1% at 20/sec for DelvMartArch
+2017-11-11 18:59:33 Friends  : 99.4% at 46/sec for carocomms
+2017-11-11 18:59:45 Favorites: 50.9% at 39/sec for designcouncil
+2017-11-11 18:59:53 Friends  : 98.9% at 44/sec for cath_slessor
+2017-11-11 19:00:02 Friends  : 99.4% at 41/sec for CGLUK
+2017-11-11 19:00:09 Tweets   : 99.9% at 32/sec for herald_st
+2017-11-11 19:00:11 Friends  : 100% at 45/sec for CNNStyle
+2017-11-11 19:00:12 Friends  : 100% at 31/sec for Cormac_Fanad
+2017-11-11 19:00:19 Friends  : 98.6% at 32/sec for CottVerm
+Error in twInterfaceObj$doAPICall(paste("users", "show", sep = "/"), params = params,  : 
+  Not Found (HTTP 404).
+In addition: Warning message:
+package 'twitteR' was built under R version 3.4.1 
+2017-11-11 19:00:19 Friends: Unable to find account CraigA11en moving to next
+2017-11-11 19:00:19 Friends  : % at /sec for CraigA11en
+2017-11-11 19:00:26 Favorites: 52% at 41/sec for designweekmex
+2017-11-11 19:01:04 Favorites: 52.9% at 37/sec for devlinarchitect
+2017-11-11 19:01:07 Favorites: 57.5% at 29/sec for DolphinTeamUK
+2017-11-11 19:01:15 Favorites: Waiting for 11.8 minutes due to : Used up allowance in a loop
+2017-11-11 19:01:19 Friends  : 97.5% at 39/sec for CreativeIndsUK
+2017-11-11 19:01:26 Friends  : 97% at 65/sec for DanielLeonSfa
+2017-11-11 19:01:33 Friends  : 99.7% at 45/sec for danish_tm
+2017-11-11 19:01:38 Friends  : 99.1% at 60/sec for DelvMartArch
+2017-11-11 19:01:38 Friends  : Waiting for 9.9 minutes
+2017-11-11 19:01:48 Tweets   : 40.5% at 32/sec for Heritage_NGOs
+2017-11-11 19:01:58 Tweets   : 100% at 20/sec for hlnclair
+2017-11-11 19:02:27 Tweets   : 99.5% at 37/sec for hughbriz
+2017-11-11 19:03:41 Tweets   : 27.6% at 43/sec for IAFarchitecture
+2017-11-11 19:03:52 Tweets   : 100% at 23/sec for iamsuzy_jones
+2017-11-11 19:04:04 Tweets   : 100% at 19/sec for IndiaCWhiteley
+2017-11-11 19:04:45 Tweets   : 99.7% at 37/sec for InsallArch
+2017-11-11 19:05:05 Tweets   : 100% at 30/sec for invisiblstudio
+2017-11-11 19:06:00 Tweets   : 99.9% at 39/sec for JakConsultancy
+2017-11-11 19:06:30 Tweets   : 99.7% at 35/sec for JamesDauris
+2017-11-11 19:07:57 Tweets   : 83% at 37/sec for Jane9B9
+2017-11-11 19:08:56 Tweets   : 99.9% at 35/sec for jesticowhiles
+2017-11-11 19:09:06 Tweets   : 100% at 20/sec for jjarrettdesign
+2017-11-11 19:12:23 Friends  : 99.6% at 4/sec for designcouncil
+2017-11-11 19:13:29 Favorites: 51.6% at 1/sec for DrFrond
+2017-11-11 19:13:33 Favorites: 61.7% at 31/sec for eleanoryoung
+2017-11-11 19:13:54 Favorites: 52.5% at 41/sec for elenarchitect
+2017-11-11 19:14:05 Favorites: 50.9% at 36/sec for Ellis_Diane
+2017-11-11 19:14:18 Friends  : 98.9% at 54/sec for designweekmex
+2017-11-11 19:14:21 Friends  : 99.2% at 60/sec for devlinarchitect
+2017-11-11 19:14:50 Friends  : 95.8% at 50/sec for DolphinTeamUK
+2017-11-11 19:15:05 Friends  : 99.3% at 56/sec for DrFrond
+2017-11-11 19:15:14 Friends  : 99.5% at 45/sec for eleanoryoung
+2017-11-11 19:15:25 Favorites: 25.7% at 40/sec for EnglishHeritage
+2017-11-11 19:15:29 Favorites: 100% at 29/sec for EPlotka
+2017-11-11 19:15:38 Friends  : 99.4% at 52/sec for elenarchitect
+2017-11-11 19:15:42 Favorites: 57.1% at 46/sec for evently
+2017-11-11 19:15:42 Favorites: 100% at 3/sec for EvolvGardenPods
+2017-11-11 19:15:45 Friends  : 97% at 56/sec for Ellis_Diane
+2017-11-11 19:15:52 Favorites: 64.7% at 38/sec for FionaOrsini
+2017-11-11 19:15:53 Friends  : 98.6% at 51/sec for EnglishHeritage
+2017-11-11 19:15:57 Favorites: 52.5% at 46/sec for GoodfellowComms
+2017-11-11 19:15:57 Favorites: 100% at 42/sec for gparchitecture
+2017-11-11 19:15:58 Friends  : 99.7% at 54/sec for EPlotka
+2017-11-11 19:15:59 Favorites: 100% at 2/sec for Guy_Piper
+2017-11-11 19:16:07 Favorites: 74.8% at 27/sec for harriscalnan
+2017-11-11 19:16:11 Favorites: 75.8% at 45/sec for haverstock_llp
+2017-11-11 19:16:14 Favorites: Waiting for 12 minutes due to : Used up allowance in a loop
+2017-11-11 19:16:54 Friends  : 99.2% at 54/sec for evently
+2017-11-11 19:16:55 Friends  : 100% at 17/sec for EvolvGardenPods
+2017-11-11 19:16:59 Friends  : 98.8% at 60/sec for FionaOrsini
+2017-11-11 19:17:09 Friends  : 97.5% at 45/sec for GoodfellowComms
+2017-11-11 19:17:09 Friends  : Waiting for 9.6 minutes
+2017-11-11 19:26:46 Friends  : 93.3% at 0/sec for gparchitecture
+2017-11-11 19:26:47 Friends  : 96.3% at 37/sec for Guy_Piper
+2017-11-11 19:27:09 Friends  : 99.4% at 52/sec for harriscalnan
+2017-11-11 19:27:15 Friends  : 99% at 46/sec for haverstock_llp
+2017-11-11 19:27:20 Friends  : 99.6% at 56/sec for haworthtompkins
+2017-11-11 19:27:22 Friends  : 97.8% at 42/sec for henryjlyons
+2017-11-11 19:27:43 Friends  : 99.6% at 53/sec for herald_st
+2017-11-11 19:28:10 Friends  : 99.3% at 59/sec for Heritage_NGOs
+2017-11-11 19:28:18 Favorites: 53.4% at 0/sec for haworthtompkins
+2017-11-11 19:28:20 Friends  : 97.8% at 44/sec for hlnclair
+2017-11-11 19:28:22 Favorites: 82% at 45/sec for henryjlyons
+2017-11-11 19:28:23 Friends  : 98.4% at 44/sec for hughbriz
+2017-11-11 19:28:32 Favorites: 61.9% at 41/sec for herald_st
+2017-11-11 19:28:48 Favorites: 55.7% at 44/sec for Heritage_NGOs
+2017-11-11 19:28:56 Friends  : 99.2% at 51/sec for IAFarchitecture
+2017-11-11 19:28:58 Favorites: 65.4% at 39/sec for hlnclair
+2017-11-11 19:29:00 Friends  : 98.7% at 45/sec for iamsuzy_jones
+2017-11-11 19:29:10 Friends  : 97.9% at 46/sec for IndiaCWhiteley
+2017-11-11 19:29:11 Favorites: 57% at 45/sec for hughbriz
+2017-11-11 19:29:24 Friends  : 98.3% at 51/sec for InsallArch
+2017-11-11 19:30:17 Friends  : 99.2% at 50/sec for invisiblstudio
+2017-11-11 19:30:17 Friends  : Waiting for 11.5 minutes
+2017-11-11 19:30:26 Favorites: 51% at 41/sec for IAFarchitecture
+2017-11-11 19:30:30 Favorites: 61% at 48/sec for iamsuzy_jones
+2017-11-11 19:30:34 Favorites: 55.8% at 48/sec for IndiaCWhiteley
+2017-11-11 19:31:01 Favorites: 50% at 41/sec for InsallArch
+2017-11-11 19:31:13 Favorites: Waiting for 12.1 minutes due to : Used up allowance in a loop
+2017-11-11 19:41:59 Friends  : 95.2% at 0/sec for JakConsultancy
+2017-11-11 19:42:06 Friends  : 100% at 46/sec for JamesDauris
+2017-11-11 19:42:29 Friends  : 99% at 54/sec for Jane9B9
+2017-11-11 19:42:42 Friends  : 98.8% at 57/sec for jesticowhiles
+2017-11-11 19:42:49 Friends  : 99.4% at 43/sec for jjarrettdesign
+2017-11-11 19:43:21 Favorites: 58.3% at 1/sec for invisiblstudio
+2017-11-11 19:43:27 Favorites: 60.4% at 52/sec for JakConsultancy
+2017-11-11 19:43:30 Favorites: 87.4% at 35/sec for JamesDauris
+2017-11-11 19:43:45 Favorites: 53.9% at 40/sec for Jane9B9
+2017-11-11 19:43:52 Favorites: 65.1% at 41/sec for jesticowhiles
+2017-11-11 19:43:53 Favorites: 63.3% at 82/sec for jjarrettdesign
+Warning message:
+package 'twitteR' was built under R version 3.4.1 

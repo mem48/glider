@@ -1,0 +1,166 @@
+starting worker pid=16508 on localhost:11045 at 01:47:27.386
+starting worker pid=4884 on localhost:11045 at 01:47:27.551
+starting worker pid=15224 on localhost:11045 at 01:47:27.707
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-09 01:47:43 Friends  : 99.4% at 34/sec for LynneCeeney
+2017-11-09 01:47:54 Favorites: 75.3% at 36/sec for LynneCeeney
+2017-11-09 01:47:59 Favorites: 50.8% at 39/sec for MandSnews
+2017-11-09 01:48:00 Favorites: 94.6% at 28/sec for maryliscorinth
+2017-11-09 01:48:00 Friends  : 99.6% at 48/sec for MandSnews
+2017-11-09 01:48:06 Favorites: 54.4% at 45/sec for millyread
+2017-11-09 01:48:08 Friends  : 99.7% at 45/sec for maryliscorinth
+2017-11-09 01:48:11 Favorites: 57.4% at 44/sec for NHA_llp
+2017-11-09 01:48:14 Friends  : 98% at 40/sec for millyread
+2017-11-09 01:48:15 Favorites: 67.1% at 45/sec for pdparchitects
+2017-11-09 01:48:15 Favorites: Waiting for 11.5 minutes due to : Used up allowance in a loop
+2017-11-09 01:48:16 Tweets   : 100% at 36/sec for LynneCeeney
+2017-11-09 01:48:31 Friends  : 99.1% at 47/sec for NHA_llp
+2017-11-09 01:48:43 Friends  : 99.2% at 51/sec for pdparchitects
+2017-11-09 01:49:12 Tweets   : 99.9% at 55/sec for MandSnews
+2017-11-09 01:49:21 Friends  : 99.2% at 49/sec for PJMKelly78
+2017-11-09 01:49:28 Tweets   : 99.2% at 32/sec for maryliscorinth
+2017-11-09 01:49:41 Tweets   : 100% at 29/sec for millyread
+2017-11-09 01:49:53 Friends  : 98.4% at 45/sec for RickInnovate
+2017-11-09 01:50:18 Friends  : 99.1% at 45/sec for Russ__Avery
+2017-11-09 01:50:18 Tweets   : 100% at 42/sec for NHA_llp
+2017-11-09 01:50:40 Tweets   : 99.9% at 44/sec for pdparchitects
+2017-11-09 01:50:54 Friends  : 98.6% at 45/sec for saintgobain
+2017-11-09 01:50:55 Tweets   : 99.1% at 37/sec for PJMKelly78
+2017-11-09 01:51:01 Friends  : 99.3% at 41/sec for Simonsturgis
+2017-11-09 01:51:07 Friends  : 99% at 32/sec for SRich_CEng
+2017-11-09 01:51:14 Friends  : 98.8% at 36/sec for thijsmaartens
+2017-11-09 01:51:16 Friends  : 100% at 36/sec for verdextra
+2017-11-09 01:51:16 Friends  : Waiting for 11.4 minutes
+2017-11-09 01:52:02 Tweets   : 97.3% at 48/sec for RickInnovate
+2017-11-09 01:53:06 Tweets   : 58.2% at 50/sec for Russ__Avery
+2017-11-09 01:54:16 Tweets   : 41% at 46/sec for saintgobain
+2017-11-09 01:54:27 Tweets   : 100% at 27/sec for Simonsturgis
+2017-11-09 01:54:40 Tweets   : 99.6% at 34/sec for SRich_CEng
+2017-11-09 01:54:55 Tweets   : 100% at 36/sec for thijsmaartens
+2017-11-09 01:55:06 Tweets   : 100% at 24/sec for verdextra
+2017-11-09 01:56:05 Tweets   : 30.6% at 50/sec for AlumascRW
+2017-11-09 01:56:12 Tweets   : 100% at 12/sec for JennieKWard
+2017-11-09 01:57:02 Tweets   : 98.8% at 55/sec for MakitaUK
+2017-11-09 01:57:24 Tweets   : 99.7% at 40/sec for MarketingSW
+2017-11-09 01:57:54 Tweets   : 99.9% at 52/sec for mkmbs
+2017-11-09 01:58:03 Tweets   : 100% at 23/sec for NigelPullman
+2017-11-09 01:58:11 Tweets   : 99.4% at 20/sec for S5TJS
+2017-11-09 01:59:02 Tweets   : 91.1% at 64/sec for southallassoc
+2017-11-09 01:59:37 Tweets   : 99.5% at 52/sec for thecrocrocks
+2017-11-09 02:00:11 Favorites: 54.9% at 0/sec for PJMKelly78
+2017-11-09 02:00:16 Favorites: 53.6% at 38/sec for RickInnovate
+2017-11-09 02:00:25 Tweets   : 42.7% at 66/sec for AirTightness
+2017-11-09 02:00:27 Favorites: 49.3% at 47/sec for Russ__Avery
+2017-11-09 02:01:01 Favorites: 51% at 44/sec for saintgobain
+2017-11-09 02:01:01 Favorites: 100% at 7/sec for Simonsturgis
+2017-11-09 02:01:02 Favorites: 92.9% at 18/sec for SRich_CEng
+2017-11-09 02:01:13 Favorites: 60.7% at 43/sec for thijsmaartens
+2017-11-09 02:01:14 Favorites: 100% at 34/sec for verdextra
+2017-11-09 02:01:22 Tweets   : 99.3% at 54/sec for AlastairParvin
+2017-11-09 02:01:28 Favorites: 43.6% at 42/sec for AlumascRW
+2017-11-09 02:01:32 Favorites: 76.5% at 42/sec for JennieKWard
+2017-11-09 02:01:44 Favorites: 52.2% at 43/sec for MakitaUK
+2017-11-09 02:01:50 Favorites: 58.3% at 48/sec for MarketingSW
+2017-11-09 02:01:57 Favorites: 50.3% at 46/sec for mkmbs
+2017-11-09 02:01:57 Favorites: 100% at 3/sec for NigelPullman
+2017-11-09 02:02:01 Favorites: 82.9% at 47/sec for S5TJS
+2017-11-09 02:02:01 Favorites: User southallassoc has a protected account or no Favoritess to collect so skipping
+2017-11-09 02:02:15 Favorites: 55.3% at 42/sec for thecrocrocks
+2017-11-09 02:02:16 Tweets   : 34.4% at 60/sec for aubreygci
+2017-11-09 02:02:19 Favorites: 60.9% at 45/sec for AirTightness
+2017-11-09 02:02:27 Tweets   : 100% at 29/sec for BIPVCO
+2017-11-09 02:02:31 Favorites: 49.6% at 42/sec for AlastairParvin
+2017-11-09 02:02:35 Favorites: 73.8% at 43/sec for aubreygci
+2017-11-09 02:02:37 Favorites: 66.9% at 48/sec for BIPVCO
+2017-11-09 02:02:47 Favorites: Waiting for 12.3 minutes due to : Used up allowance in a loop
+2017-11-09 02:03:25 Tweets   : 20.7% at 55/sec for ClimateKIC
+2017-11-09 02:04:24 Tweets   : 21.9% at 54/sec for CllrChasBooth
+2017-11-09 02:05:26 Tweets   : 38.8% at 52/sec for cse_bristol
+2017-11-09 02:06:21 Tweets   : 26.2% at 58/sec for Eco__Evolution
+2017-11-09 02:06:46 Tweets   : 99.8% at 47/sec for EcoVertSol
+2017-11-09 02:07:18 Tweets   : 99.8% at 47/sec for EnglishOak_1
+2017-11-09 02:07:21 Friends  : 100% at 12/sec for AlumascRW
+2017-11-09 02:07:25 Friends  : 92.7% at 49/sec for JennieKWard
+2017-11-09 02:07:34 Friends  : 99.4% at 56/sec for MakitaUK
+2017-11-09 02:07:40 Friends  : 98% at 46/sec for MarketingSW
+2017-11-09 02:07:57 Tweets   : 100% at 57/sec for FBMArchitects
+2017-11-09 02:08:06 Friends  : 99.7% at 50/sec for mkmbs
+2017-11-09 02:08:08 Friends  : 98.4% at 31/sec for NigelPullman
+2017-11-09 02:08:10 Friends  : 98.5% at 29/sec for S5TJS
+2017-11-09 02:08:12 Friends  : 100% at 29/sec for southallassoc
+2017-11-09 02:08:15 Friends  : 98.2% at 35/sec for thecrocrocks
+2017-11-09 02:08:45 Friends  : 100% at 47/sec for AirTightness
+2017-11-09 02:08:54 Tweets   : 12.7% at 56/sec for GeorgeMonbiot
+2017-11-09 02:09:03 Tweets   : 100% at 17/sec for greenbuiltpeter
+2017-11-09 02:09:14 Tweets   : 100% at 22/sec for JohnCantor2
+2017-11-09 02:09:17 Friends  : 99.3% at 52/sec for AlastairParvin
+2017-11-09 02:09:34 Friends  : 99.8% at 54/sec for aubreygci
+2017-11-09 02:09:42 Friends  : 97.8% at 58/sec for BIPVCO
+2017-11-09 02:09:42 Friends  : Waiting for 8.4 minutes
+2017-11-09 02:10:07 Tweets   : 28.5% at 60/sec for lennyantonelli
+2017-11-09 02:10:18 Tweets   : 100% at 30/sec for make_group
+2017-11-09 02:11:26 Tweets   : 41.1% at 46/sec for PassHaus
+2017-11-09 02:12:08 Tweets   : 99.9% at 52/sec for Prashant_Kapoor
+2017-11-09 02:13:10 Tweets   : 76.6% at 51/sec for rthakrar
+2017-11-09 02:13:30 Tweets   : 100% at 46/sec for SolarsenseUK
+2017-11-09 02:14:27 Tweets   : 22.5% at 57/sec for the_woodlouse
+2017-11-09 02:15:11 Tweets   : 99.8% at 47/sec for URBEDmcr
+2017-11-09 02:15:19 Tweets   : 100% at 14/sec for waparchitects
+2017-11-09 02:15:37 Tweets   : 99.9% at 44/sec for zerocarbonhouse
+2017-11-09 02:16:34 Favorites: 41% at 4/sec for ClimateKIC
+2017-11-09 02:16:38 Tweets   : 16.9% at 53/sec for AngelaRayner
+2017-11-09 02:17:11 Favorites: 50.4% at 46/sec for CllrChasBooth
+2017-11-09 02:17:17 Favorites: 59.6% at 49/sec for cse_bristol
+2017-11-09 02:17:25 Favorites: 58.4% at 50/sec for Eco__Evolution
+2017-11-09 02:17:26 Favorites: 100% at 27/sec for EcoVertSol
+2017-11-09 02:17:30 Favorites: 82% at 47/sec for EnglishOak_1
+2017-11-09 02:17:34 Tweets   : 99.8% at 53/sec for AoCTrust
+2017-11-09 02:17:36 Favorites: 54% at 50/sec for FBMArchitects
+2017-11-09 02:18:08 Favorites: Waiting for 12.3 minutes due to : Used up allowance in a loop
+2017-11-09 02:20:13 Friends  : 98.1% at 9/sec for ClimateKIC
+2017-11-09 02:21:10 Friends  : 98.8% at 49/sec for CllrChasBooth
+2017-11-09 02:21:24 Friends  : 99.6% at 56/sec for cse_bristol
+2017-11-09 02:22:18 Friends  : 99.5% at 54/sec for Eco__Evolution
+2017-11-09 02:22:52 Friends  : 99.9% at 52/sec for EcoVertSol
+2017-11-09 02:23:18 Friends  : 100% at 47/sec for EnglishOak_1
+2017-11-09 02:23:36 Friends  : 99.6% at 51/sec for FBMArchitects
+2017-11-09 02:23:53 Friends  : 99.9% at 50/sec for GeorgeMonbiot
+2017-11-09 02:23:58 Friends  : 99.5% at 40/sec for greenbuiltpeter
+2017-11-09 02:24:00 Friends  : 100% at 31/sec for JohnCantor2
+2017-11-09 02:24:52 Friends  : 99.1% at 48/sec for lennyantonelli
+2017-11-09 02:25:04 Friends  : 97.4% at 56/sec for make_group
+2017-11-09 02:25:15 Friends  : 98.1% at 52/sec for PassHaus
+2017-11-09 02:25:19 Friends  : 96.1% at 44/sec for Prashant_Kapoor
+2017-11-09 02:25:19 Friends  : Waiting for 8.1 minutes
+2017-11-09 02:31:10 Favorites: 42.9% at 3/sec for GeorgeMonbiot
+2017-11-09 02:31:12 Favorites: 49% at 43/sec for greenbuiltpeter
+2017-11-09 02:31:13 Favorites: 100% at 31/sec for JohnCantor2
+2017-11-09 02:31:30 Favorites: 47.7% at 48/sec for lennyantonelli
+2017-11-09 02:31:34 Favorites: 80.2% at 50/sec for make_group
+2017-11-09 02:32:19 Favorites: 50.2% at 50/sec for PassHaus
+2017-11-09 02:32:23 Favorites: 75% at 50/sec for Prashant_Kapoor
+2017-11-09 02:32:25 Favorites: 73.9% at 51/sec for rthakrar
+2017-11-09 02:32:29 Favorites: 76.5% at 51/sec for SolarsenseUK
+2017-11-09 02:32:49 Favorites: 51.9% at 50/sec for the_woodlouse
+2017-11-09 02:32:55 Favorites: 61.2% at 47/sec for URBEDmcr
+2017-11-09 02:32:56 Favorites: 100% at 12/sec for waparchitects
+2017-11-09 02:32:58 Favorites: 98.8% at 48/sec for zerocarbonhouse
+2017-11-09 02:33:13 Favorites: Waiting for 12.6 minutes due to : Used up allowance in a loop
+2017-11-09 02:34:00 Friends  : 99.3% at 2/sec for rthakrar
+2017-11-09 02:34:06 Friends  : 99.7% at 48/sec for SolarsenseUK
+2017-11-09 02:34:29 Friends  : 99.4% at 54/sec for the_woodlouse
+2017-11-09 02:34:55 Friends  : 99.3% at 50/sec for URBEDmcr
+2017-11-09 02:34:57 Friends  : 95.7% at 27/sec for waparchitects
+2017-11-09 02:35:08 Friends  : 100% at 46/sec for zerocarbonhouse
+2017-11-09 02:36:11 Friends  : 97.5% at 51/sec for AngelaRayner
+2017-11-09 02:36:34 Friends  : 99.6% at 51/sec for AoCTrust
+2017-11-09 02:46:59 Favorites: 23.5% at 4/sec for AngelaRayner
+2017-11-09 02:47:10 Favorites: 59.3% at 46/sec for AoCTrust
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+Warning message:
+package 'twitteR' was built under R version 3.4.1 

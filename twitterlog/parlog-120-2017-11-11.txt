@@ -1,0 +1,182 @@
+starting worker pid=9036 on localhost:11045 at 16:10:38.776
+starting worker pid=19680 on localhost:11045 at 16:10:38.932
+starting worker pid=17920 on localhost:11045 at 16:10:39.104
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-11 16:11:59 Friends  : 98.9% at 41/sec for Andrew_HBS
+2017-11-11 16:11:59 Friends  : Waiting for 8.1 minutes
+2017-11-11 16:13:13 Favorites: 100% at 39/sec for Andrew_HBS
+2017-11-11 16:13:14 Favorites: 100% at 39/sec for andy_perrin
+2017-11-11 16:13:14 Favorites: 100% at 5/sec for APE_ad
+2017-11-11 16:13:23 Favorites: 53.7% at 35/sec for ArchitectLive
+2017-11-11 16:13:24 Favorites: 100% at 60/sec for ArchitecturePLB
+2017-11-11 16:13:32 Favorites: 96.6% at 24/sec for AusPHAssoc
+2017-11-11 16:13:34 Favorites: 93.5% at 12/sec for austria_in_UK
+2017-11-11 16:13:35 Favorites: 100% at 65/sec for berearchitects
+2017-11-11 16:13:36 Favorites: 100% at 47/sec for BlowerProof
+2017-11-11 16:13:39 Favorites: 100% at 25/sec for BRHConsultants
+2017-11-11 16:13:44 Favorites: 88.9% at 46/sec for BuildStore
+2017-11-11 16:13:45 Favorites: 83.6% at 61/sec for Chadwickhaus
+2017-11-11 16:13:48 Favorites: 50.5% at 33/sec for ChrisMorganJGA
+2017-11-11 16:14:18 Favorites: 49.7% at 40/sec for coilltenews
+2017-11-11 16:14:27 Favorites: 51.7% at 42/sec for CoombsJones
+2017-11-11 16:14:30 Favorites: 100% at 28/sec for D_Bailey_DLG
+2017-11-11 16:14:34 Favorites: 59.6% at 47/sec for deanandhannah
+2017-11-11 16:14:37 Favorites: 97.7% at 30/sec for devon_architect
+2017-11-11 16:14:38 Tweets   : 100% at 2/sec for Andrew_HBS
+2017-11-11 16:14:48 Tweets   : 100% at 10/sec for andy_perrin
+2017-11-11 16:14:58 Tweets   : 100% at 17/sec for APE_ad
+2017-11-11 16:15:12 Tweets   : 99.6% at 20/sec for ArchitectLive
+2017-11-11 16:15:15 Favorites: 50.7% at 41/sec for ecodek
+2017-11-11 16:15:23 Favorites: 70% at 39/sec for Ecoflap
+2017-11-11 16:15:24 Favorites: 100% at 54/sec for EnerPHit
+2017-11-11 16:15:24 Tweets   : 100% at 21/sec for ArchitecturePLB
+2017-11-11 16:15:25 Favorites: 54.8% at 65/sec for FCDArchitecture
+2017-11-11 16:15:27 Favorites: 100% at 3/sec for FrancisShaw
+2017-11-11 16:15:29 Favorites: 87.4% at 64/sec for GarethCavill
+2017-11-11 16:15:36 Favorites: 53.7% at 40/sec for glenn_murdoch
+2017-11-11 16:15:37 Tweets   : 100% at 30/sec for AusPHAssoc
+2017-11-11 16:15:38 Favorites: 87% at 62/sec for GoGreenEngineer
+2017-11-11 16:15:38 Favorites: 13% at 6/sec for GreenHHome
+2017-11-11 16:15:40 Favorites: 100% at 9/sec for info_nzebra
+2017-11-11 16:15:42 Favorites: 100% at 73/sec for InsideOut_Archi
+2017-11-11 16:15:50 Favorites: 55.3% at 45/sec for JKDabrowska
+2017-11-11 16:15:53 Favorites: 100% at 30/sec for johnpalmer878
+2017-11-11 16:16:01 Favorites: Waiting for 12.2 minutes due to : Used up allowance in a loop
+2017-11-11 16:16:20 Tweets   : 100% at 45/sec for austria_in_UK
+2017-11-11 16:16:34 Tweets   : 99.5% at 28/sec for berearchitects
+2017-11-11 16:16:45 Tweets   : 100% at 18/sec for BlowerProof
+2017-11-11 16:16:53 Tweets   : 100% at 14/sec for BRHConsultants
+2017-11-11 16:17:48 Tweets   : 99.7% at 47/sec for BuildStore
+2017-11-11 16:17:57 Tweets   : 100% at 21/sec for Chadwickhaus
+2017-11-11 16:18:04 Tweets   : 100% at 8/sec for ChrisMorganJGA
+2017-11-11 16:19:12 Tweets   : 25.3% at 47/sec for coilltenews
+2017-11-11 16:19:46 Tweets   : 99.9% at 40/sec for CoombsJones
+2017-11-11 16:20:00 Tweets   : 99.1% at 27/sec for D_Bailey_DLG
+2017-11-11 16:20:12 Tweets   : 100% at 19/sec for deanandhannah
+2017-11-11 16:20:19 Tweets   : 100% at 6/sec for devon_architect
+2017-11-11 16:20:24 Friends  : 100% at 0/sec for andy_perrin
+2017-11-11 16:20:26 Friends  : 100% at 54/sec for APE_ad
+2017-11-11 16:20:41 Friends  : 99% at 32/sec for ArchitectLive
+2017-11-11 16:20:50 Friends  : 99.7% at 37/sec for ArchitecturePLB
+2017-11-11 16:20:57 Friends  : 100% at 32/sec for AusPHAssoc
+2017-11-11 16:21:16 Friends  : 100% at 43/sec for austria_in_UK
+2017-11-11 16:21:22 Friends  : 100% at 31/sec for berearchitects
+2017-11-11 16:21:36 Tweets   : 53.8% at 41/sec for ecodek
+2017-11-11 16:21:58 Friends  : 96.8% at 44/sec for BlowerProof
+2017-11-11 16:21:59 Friends  : 92.9% at 24/sec for BRHConsultants
+2017-11-11 16:22:42 Tweets   : 99.8% at 37/sec for Ecoflap
+2017-11-11 16:22:51 Tweets   : 100% at 13/sec for EnerPHit
+2017-11-11 16:23:01 Tweets   : 100% at 12/sec for FCDArchitecture
+2017-11-11 16:23:24 Friends  : 99.9% at 38/sec for BuildStore
+2017-11-11 16:23:30 Friends  : 99.5% at 37/sec for Chadwickhaus
+Error in twInterfaceObj$doAPICall(paste("users", "show", sep = "/"), params = params,  : 
+  Not Found (HTTP 404).
+In addition: Warning message:
+package 'twitteR' was built under R version 3.4.1 
+2017-11-11 16:23:30 Friends: Unable to find account ChrisMorganJGA moving to next
+2017-11-11 16:23:30 Friends  : % at /sec for ChrisMorganJGA
+2017-11-11 16:23:47 Tweets   : 99.6% at 36/sec for FrancisShaw
+2017-11-11 16:24:16 Friends  : 99.5% at 43/sec for coilltenews
+2017-11-11 16:24:26 Tweets   : 99.4% at 32/sec for GarethCavill
+2017-11-11 16:24:32 Friends  : 98% at 38/sec for CoombsJones
+2017-11-11 16:24:35 Friends  : 97% at 35/sec for D_Bailey_DLG
+2017-11-11 16:24:36 Friends  : 96.8% at 28/sec for deanandhannah
+2017-11-11 16:24:36 Friends  : Waiting for 10.8 minutes
+2017-11-11 16:25:16 Tweets   : 99.8% at 36/sec for glenn_murdoch
+2017-11-11 16:25:26 Tweets   : 100% at 10/sec for GoGreenEngineer
+2017-11-11 16:26:37 Tweets   : 21% at 45/sec for GreenHHome
+2017-11-11 16:26:45 Tweets   : 100% at 8/sec for info_nzebra
+2017-11-11 16:26:54 Tweets   : 100% at 13/sec for InsideOut_Archi
+2017-11-11 16:28:03 Tweets   : 56.9% at 46/sec for JKDabrowska
+2017-11-11 16:28:10 Tweets   : 100% at 14/sec for johnpalmer878
+2017-11-11 16:28:45 Tweets   : 99.9% at 34/sec for JoMallowsUoS
+2017-11-11 16:28:47 Favorites: 52.3% at 1/sec for JoMallowsUoS
+2017-11-11 16:29:02 Tweets   : 99.8% at 27/sec for KdViY
+2017-11-11 16:29:11 Tweets   : 100% at 12/sec for KelsallArch
+2017-11-11 16:29:40 Tweets   : 99.4% at 34/sec for kentbuild
+2017-11-11 16:29:49 Tweets   : 29.1% at 41/sec for LAdelaideS
+2017-11-11 16:29:50 Tweets   : Waiting for 1.6 minutes
+2017-11-11 16:30:01 Favorites: 50.1% at 41/sec for KdViY
+2017-11-11 16:30:04 Favorites: 100% at 30/sec for KelsallArch
+2017-11-11 16:30:05 Favorites: 94.1% at 32/sec for kentbuild
+2017-11-11 16:30:09 Favorites: 81.2% at 48/sec for LAdelaideS
+2017-11-11 16:30:11 Favorites: 97% at 26/sec for loreanap
+2017-11-11 16:30:13 Favorites: 100% at 70/sec for lowcarbonsimon
+2017-11-11 16:30:51 Favorites: 50.5% at 44/sec for MancCommunities
+2017-11-11 16:31:05 Favorites: 56% at 41/sec for marcin_figiel
+2017-11-11 16:31:05 Favorites: 100% at 5/sec for MBCTimberFrame
+2017-11-11 16:31:21 Favorites: 55.9% at 43/sec for mcutlerwelsh
+2017-11-11 16:31:23 Favorites: 71.9% at 63/sec for MHA_tweets
+2017-11-11 16:31:23 Favorites: Waiting for 12.2 minutes due to : Used up allowance in a loop
+2017-11-11 16:31:48 Tweets   : 98.8% at 6/sec for loreanap
+2017-11-11 16:31:56 Tweets   : 100% at 3/sec for lowcarbonsimon
+2017-11-11 16:33:13 Tweets   : 79.2% at 41/sec for MancCommunities
+2017-11-11 16:33:22 Tweets   : 100% at 16/sec for marcin_figiel
+2017-11-11 16:33:34 Tweets   : 100% at 22/sec for MBCTimberFrame
+2017-11-11 16:34:55 Tweets   : 36.8% at 40/sec for mcutlerwelsh
+2017-11-11 16:35:07 Tweets   : 100% at 20/sec for MHA_tweets
+2017-11-11 16:35:17 Tweets   : 100% at 12/sec for mischah
+2017-11-11 16:35:49 Friends  : 98.5% at 0/sec for devon_architect
+2017-11-11 16:36:25 Tweets   : 99.6% at 40/sec for MoleArchitects
+2017-11-11 16:37:41 Tweets   : 6.2% at 42/sec for natalieben
+2017-11-11 16:37:52 Tweets   : 100% at 20/sec for NeedBased
+2017-11-11 16:38:03 Tweets   : 100% at 21/sec for NK_Arch
+2017-11-11 16:38:12 Tweets   : 100% at 12/sec for passivhausassoc
+2017-11-11 16:38:43 Tweets   : 99.9% at 31/sec for pasural
+2017-11-11 16:39:47 Friends  : 95.8% at 38/sec for ecodek
+2017-11-11 16:40:06 Friends  : 99.6% at 49/sec for Ecoflap
+2017-11-11 16:40:16 Friends  : 97.9% at 47/sec for EnerPHit
+2017-11-11 16:40:21 Friends  : 100% at 44/sec for FCDArchitecture
+2017-11-11 16:41:28 Friends  : 98.1% at 44/sec for FrancisShaw
+2017-11-11 16:41:42 Friends  : 99.6% at 49/sec for GarethCavill
+2017-11-11 16:41:48 Friends  : 97.9% at 43/sec for glenn_murdoch
+2017-11-11 16:41:58 Friends  : 98.7% at 50/sec for GoGreenEngineer
+2017-11-11 16:42:53 Friends  : 99.8% at 46/sec for GreenHHome
+Error in twInterfaceObj$doAPICall(paste("users", "show", sep = "/"), params = params,  : 
+  Not Found (HTTP 404).
+2017-11-11 16:42:53 Friends: Unable to find account info_nzebra moving to next
+2017-11-11 16:42:53 Friends  : % at /sec for info_nzebra
+Error in twInterfaceObj$doAPICall(paste("users", "show", sep = "/"), params = params,  : 
+  Not Found (HTTP 404).
+2017-11-11 16:42:54 Friends: Unable to find account InsideOut_Archi moving to next
+2017-11-11 16:42:54 Friends  : % at /sec for InsideOut_Archi
+2017-11-11 16:43:42 Friends  : 98.8% at 47/sec for JKDabrowska
+2017-11-11 16:43:43 Friends  : 100% at 40/sec for johnpalmer878
+2017-11-11 16:43:51 Friends  : 98% at 40/sec for JoMallowsUoS
+2017-11-11 16:43:57 Favorites: 100% at 0/sec for mischah
+2017-11-11 16:44:01 Favorites: 70% at 43/sec for MoleArchitects
+2017-11-11 16:44:07 Favorites: 49.7% at 48/sec for natalieben
+2017-11-11 16:44:10 Favorites: 100% at 20/sec for NeedBased
+2017-11-11 16:44:11 Favorites: 100% at 69/sec for NK_Arch
+2017-11-11 16:44:12 Friends  : 97% at 45/sec for KdViY
+2017-11-11 16:44:12 Favorites: 100% at 24/sec for passivhausassoc
+2017-11-11 16:44:12 Friends  : Waiting for 6.6 minutes
+2017-11-11 16:44:14 Favorites: 98.9% at 32/sec for pasural
+2017-11-11 16:51:03 Friends  : 98.6% at 0/sec for KelsallArch
+2017-11-11 16:51:14 Friends  : 99.5% at 42/sec for kentbuild
+2017-11-11 16:51:28 Friends  : 98.3% at 45/sec for LAdelaideS
+2017-11-11 16:51:34 Friends  : 100% at 37/sec for loreanap
+2017-11-11 16:51:36 Friends  : 98.6% at 44/sec for lowcarbonsimon
+2017-11-11 16:52:14 Friends  : 96.5% at 48/sec for MancCommunities
+2017-11-11 16:52:20 Friends  : 95.9% at 48/sec for marcin_figiel
+2017-11-11 16:52:23 Friends  : 100% at 51/sec for MBCTimberFrame
+2017-11-11 16:53:08 Friends  : 99.5% at 48/sec for mcutlerwelsh
+2017-11-11 16:53:18 Friends  : 99.3% at 44/sec for MHA_tweets
+2017-11-11 16:54:04 Friends  : 99.8% at 46/sec for mischah
+2017-11-11 16:54:20 Friends  : 98.3% at 44/sec for MoleArchitects
+2017-11-11 16:54:20 Friends: Request of 19 exceeds the maximum of 15. Making an attemp
+Waiting will increase the number of results returned
+2017-11-11 16:54:20 Friends  : Waiting for 11.8 minutes
+2017-11-11 17:35:55 Friends  : 80.6% at 29/sec for natalieben
+2017-11-11 17:36:10 Friends  : 98.4% at 49/sec for NeedBased
+2017-11-11 17:36:17 Friends  : 98.7% at 45/sec for NK_Arch
+2017-11-11 17:36:21 Friends  : 99.1% at 50/sec for passivhausassoc
+2017-11-11 17:36:39 Friends  : 99.4% at 45/sec for pasural
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+Warning messages:
+1: package 'twitteR' was built under R version 3.4.1 
+2: In twInterfaceObj$doAPICall(cmd, params, method, ...) :In twInterfaceObj$doAPICall(cmd, params, method, ...) : Rate limit encountered & retry limit reached - returning partial results
+ Rate limit encountered & retry limit reached - returning partial results

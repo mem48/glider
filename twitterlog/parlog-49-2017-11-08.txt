@@ -1,0 +1,166 @@
+starting worker pid=6312 on localhost:11045 at 04:32:49.452
+starting worker pid=9864 on localhost:11045 at 04:32:49.608
+starting worker pid=12756 on localhost:11045 at 04:32:49.771
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-08 04:34:22 Friends  : 97.2% at 37/sec for CharlieCheung77
+2017-11-08 04:34:36 Friends  : 100% at 38/sec for Kentsolar
+2017-11-08 04:34:38 Friends  : 91.6% at 40/sec for KingstonGas
+2017-11-08 04:34:56 Friends  : 99.9% at 38/sec for MumFriendlyJo
+2017-11-08 04:35:07 Favorites: 98.5% at 46/sec for CharlieCheung77
+2017-11-08 04:35:08 Friends  : 99.4% at 39/sec for N4Gas
+2017-11-08 04:35:12 Favorites: 66.8% at 40/sec for Kentsolar
+2017-11-08 04:35:26 Favorites: 52.1% at 28/sec for KingstonGas
+2017-11-08 04:35:27 Friends  : 91.4% at 35/sec for rdmills88
+2017-11-08 04:35:31 Favorites: 53.9% at 44/sec for MumFriendlyJo
+2017-11-08 04:35:34 Favorites: 89% at 35/sec for N4Gas
+2017-11-08 04:35:55 Friends  : 98.5% at 38/sec for markhanson456
+2017-11-08 04:36:36 Favorites: Waiting for 7.3 minutes due to : Used up allowance in a loop
+2017-11-08 04:36:51 Friends  : 99.9% at 40/sec for bbavoice
+2017-11-08 04:37:01 Friends  : 99.5% at 39/sec for TheFCA
+2017-11-08 04:37:08 Friends  : 99.5% at 29/sec for ClosedCircuitIH
+2017-11-08 04:37:19 Friends  : 98% at 43/sec for NBarker_IH
+2017-11-08 04:37:27 Tweets   : 75.3% at 46/sec for CharlieCheung77
+2017-11-08 04:38:20 Friends  : 99.8% at 40/sec for nickduxbury
+2017-11-08 04:38:29 Tweets   : 99.7% at 46/sec for Kentsolar
+2017-11-08 04:39:07 Tweets   : 100% at 42/sec for KingstonGas
+2017-11-08 04:39:43 Friends  : 98.9% at 40/sec for AnjHanda
+2017-11-08 04:40:02 Tweets   : 100% at 43/sec for MumFriendlyJo
+2017-11-08 04:40:06 Friends  : 99.4% at 37/sec for BBCMarkEaston
+2017-11-08 04:40:09 Friends  : 100% at 33/sec for BBCNews
+2017-11-08 04:40:30 Tweets   : 99.5% at 43/sec for N4Gas
+2017-11-08 04:40:31 Friends  : 98.4% at 36/sec for BenLucas_
+2017-11-08 04:41:41 Tweets   : 65.3% at 46/sec for rdmills88
+2017-11-08 04:41:46 Friends  : 98.9% at 36/sec for bridges_tom
+2017-11-08 04:42:12 Tweets   : 99.9% at 42/sec for markhanson456
+2017-11-08 04:42:54 Friends  : 99.5% at 37/sec for bruce_katz
+2017-11-08 04:43:09 Friends  : 98.6% at 34/sec for CeridwenHughes
+2017-11-08 04:43:09 Friends  : Waiting for 6.9 minutes
+2017-11-08 04:43:27 Tweets   : 42.8% at 43/sec for bbavoice
+2017-11-08 04:44:25 Favorites: 41.7% at 6/sec for rdmills88
+2017-11-08 04:44:44 Tweets   : 75.9% at 42/sec for TheFCA
+2017-11-08 04:44:58 Tweets   : 100% at 24/sec for ClosedCircuitIH
+2017-11-08 04:45:09 Favorites: 50.9% at 43/sec for markhanson456
+2017-11-08 04:45:10 Tweets   : 100% at 18/sec for NBarker_IH
+2017-11-08 04:45:14 Favorites: 70.6% at 37/sec for bbavoice
+2017-11-08 04:45:16 Favorites: 78% at 63/sec for TheFCA
+2017-11-08 04:45:18 Favorites: 100% at 21/sec for ClosedCircuitIH
+2017-11-08 04:45:19 Favorites: 100% at 46/sec for NBarker_IH
+2017-11-08 04:45:47 Favorites: 51.4% at 45/sec for nickduxbury
+2017-11-08 04:46:27 Tweets   : 18.2% at 41/sec for nickduxbury
+2017-11-08 04:47:02 Favorites: Waiting for 12.1 minutes due to : Used up allowance in a loop
+2017-11-08 04:47:41 Tweets   : 12.7% at 43/sec for AnjHanda
+2017-11-08 04:48:53 Tweets   : 69.3% at 45/sec for BBCMarkEaston
+2017-11-08 04:50:08 Tweets   : 0.9% at 42/sec for BBCNews
+2017-11-08 04:50:36 Tweets   : 100% at 36/sec for BenLucas_
+2017-11-08 04:51:17 Friends  : 97.6% at 5/sec for cllrmarkdobson
+2017-11-08 04:51:38 Friends  : 99.4% at 41/sec for corecities
+2017-11-08 04:51:44 Tweets   : 44% at 47/sec for bridges_tom
+2017-11-08 04:52:23 Friends  : 99.8% at 42/sec for csjthinktank
+2017-11-08 04:52:52 Tweets   : 18.1% at 47/sec for bruce_katz
+2017-11-08 04:52:58 Friends  : 98.9% at 42/sec for GingerbreadPA
+2017-11-08 04:53:12 Friends  : 96.8% at 36/sec for HartActionLab
+2017-11-08 04:53:13 Tweets   : 99.8% at 31/sec for CeridwenHughes
+2017-11-08 04:54:22 Tweets   : 13.3% at 46/sec for cllrmarkdobson
+2017-11-08 04:55:01 Tweets   : 100% at 36/sec for corecities
+2017-11-08 04:56:25 Tweets   : 35.8% at 38/sec for csjthinktank
+2017-11-08 04:56:33 Friends  : 99.8% at 36/sec for jamestplunkett
+2017-11-08 04:56:40 Friends  : 99.4% at 23/sec for jrfChristine
+2017-11-08 04:57:33 Tweets   : 68.4% at 47/sec for GingerbreadPA
+2017-11-08 04:57:58 Tweets   : 100% at 37/sec for HartActionLab
+2017-11-08 04:58:21 Friends  : 97.6% at 40/sec for JRFShell
+2017-11-08 04:59:00 Friends  : 99.2% at 37/sec for LeftFootFwd
+2017-11-08 04:59:10 Tweets   : 30.3% at 44/sec for jamestplunkett
+2017-11-08 04:59:36 Favorites: 26.6% at 4/sec for AnjHanda
+2017-11-08 04:59:37 Favorites: 98.2% at 48/sec for BBCMarkEaston
+2017-11-08 04:59:39 Favorites: 100% at 17/sec for BBCNews
+2017-11-08 04:59:39 Favorites: 100% at 21/sec for BenLucas_
+2017-11-08 04:59:42 Tweets   : 99.9% at 36/sec for jrfChristine
+2017-11-08 05:00:04 Favorites: 53.2% at 43/sec for bridges_tom
+2017-11-08 05:00:11 Favorites: 70.5% at 42/sec for bruce_katz
+2017-11-08 05:00:12 Favorites: 100% at 17/sec for CeridwenHughes
+2017-11-08 05:00:42 Tweets   : 99.9% at 36/sec for JRFShell
+2017-11-08 05:00:46 Favorites: 49.4% at 42/sec for cllrmarkdobson
+2017-11-08 05:00:58 Favorites: 60.3% at 43/sec for corecities
+2017-11-08 05:01:03 Favorites: 79.4% at 42/sec for csjthinktank
+2017-11-08 05:01:13 Favorites: 54.4% at 38/sec for GingerbreadPA
+2017-11-08 05:01:17 Favorites: 70.6% at 45/sec for HartActionLab
+2017-11-08 05:01:19 Favorites: 100% at 6/sec for jamestplunkett
+2017-11-08 05:01:20 Favorites: 100% at 26/sec for jrfChristine
+2017-11-08 05:01:28 Favorites: 52.6% at 45/sec for JRFShell
+2017-11-08 05:01:34 Favorites: 52.7% at 34/sec for LeftFootFwd
+2017-11-08 05:02:12 Tweets   : 13.1% at 35/sec for LeftFootFwd
+2017-11-08 05:02:23 Favorites: Waiting for 12.2 minutes due to : Used up allowance in a loop
+2017-11-08 05:02:24 Friends  : 99.6% at 34/sec for LivingWageUK
+2017-11-08 05:03:27 Tweets   : 22.2% at 43/sec for LivingWageUK
+2017-11-08 05:04:37 Tweets   : 7.3% at 45/sec for LSEpoliticsblog
+2017-11-08 05:05:58 Tweets   : 65.4% at 40/sec for NHS_HS
+2017-11-08 05:06:27 Tweets   : 99.8% at 34/sec for OwenDaggett
+2017-11-08 05:07:02 Friends  : 99.7% at 41/sec for LSEpoliticsblog
+2017-11-08 05:07:29 Friends  : 98.9% at 39/sec for NHS_HS
+2017-11-08 05:07:43 Friends  : 99.8% at 34/sec for OwenDaggett
+2017-11-08 05:07:47 Tweets   : 22.9% at 40/sec for Policy_Exchange
+2017-11-08 05:09:01 Tweets   : 28.6% at 43/sec for PovertyAlliance
+2017-11-08 05:09:26 Friends  : 99.8% at 37/sec for Policy_Exchange
+2017-11-08 05:10:12 Tweets   : 51.1% at 45/sec for SpectatorEvents
+2017-11-08 05:10:59 Friends  : 99.4% at 44/sec for PovertyAlliance
+2017-11-08 05:11:21 Friends  : 99.6% at 42/sec for SpectatorEvents
+2017-11-08 05:11:33 Tweets   : 27.2% at 39/sec for the_young_fdn
+2017-11-08 05:11:54 Tweets   : 99.7% at 32/sec for WolvesPTC
+2017-11-08 05:12:23 Friends  : 98.7% at 45/sec for the_young_fdn
+2017-11-08 05:12:29 Friends  : 97.3% at 40/sec for WolvesPTC
+2017-11-08 05:12:43 Friends  : 99.4% at 37/sec for adurandworthing
+2017-11-08 05:12:45 Friends  : 97.8% at 43/sec for AKWBuilders
+2017-11-08 05:12:57 Friends  : 99.4% at 39/sec for AnvilHomes
+2017-11-08 05:12:59 Friends  : 100% at 41/sec for AtkinsonBuild
+2017-11-08 05:13:18 Tweets   : 40.8% at 38/sec for adurandworthing
+2017-11-08 05:13:30 Tweets   : 100% at 8/sec for AKWBuilders
+2017-11-08 05:13:44 Tweets   : 100% at 32/sec for AnvilHomes
+2017-11-08 05:13:55 Tweets   : 100% at 32/sec for AtkinsonBuild
+2017-11-08 05:14:39 Friends  : 98.7% at 42/sec for BBMarchitects
+2017-11-08 05:14:47 Friends  : 98.6% at 35/sec for BridgendCBC
+2017-11-08 05:15:11 Tweets   : 18.8% at 42/sec for BBMarchitects
+2017-11-08 05:15:21 Friends  : 99.8% at 38/sec for Croftgoode
+2017-11-08 05:15:26 Friends  : 99% at 37/sec for HetreedRoss
+2017-11-08 05:15:26 Friends  : Waiting for 6.7 minutes
+2017-11-08 05:15:27 Favorites: 39.5% at 4/sec for LivingWageUK
+2017-11-08 05:15:29 Favorites: 71.5% at 71/sec for LSEpoliticsblog
+2017-11-08 05:15:41 Favorites: 51.7% at 40/sec for NHS_HS
+2017-11-08 05:15:43 Favorites: 99% at 69/sec for OwenDaggett
+2017-11-08 05:15:50 Favorites: 69.3% at 41/sec for Policy_Exchange
+2017-11-08 05:15:55 Favorites: 61.9% at 37/sec for PovertyAlliance
+2017-11-08 05:16:09 Favorites: 51.8% at 42/sec for SpectatorEvents
+2017-11-08 05:16:20 Tweets   : 18.8% at 46/sec for BridgendCBC
+2017-11-08 05:16:49 Favorites: 50% at 43/sec for the_young_fdn
+2017-11-08 05:16:55 Favorites: 57.6% at 46/sec for WolvesPTC
+2017-11-08 05:16:59 Tweets   : 99.9% at 41/sec for Croftgoode
+2017-11-08 05:17:12 Tweets   : 100% at 27/sec for HetreedRoss
+2017-11-08 05:17:19 Favorites: 52.1% at 42/sec for adurandworthing
+2017-11-08 05:17:26 Favorites: 67.3% at 43/sec for AKWBuilders
+2017-11-08 05:17:28 Favorites: 76.3% at 39/sec for AnvilHomes
+2017-11-08 05:17:29 Favorites: 100% at 11/sec for AtkinsonBuild
+2017-11-08 05:17:47 Favorites: Waiting for 12.1 minutes due to : Used up allowance in a loop
+2017-11-08 05:18:27 Tweets   : 66% at 43/sec for KDesignAndBuild
+2017-11-08 05:18:46 Tweets   : 99.5% at 32/sec for LionContainers
+2017-11-08 05:19:30 Tweets   : 99.7% at 39/sec for PickEverard
+2017-11-08 05:19:48 Tweets   : 99.4% at 29/sec for Quattro_Design
+2017-11-08 05:20:57 Tweets   : 11.2% at 46/sec for radiochelsea
+2017-11-08 05:23:15 Friends  : 95% at 5/sec for KDesignAndBuild
+2017-11-08 05:23:36 Friends  : 99.8% at 42/sec for LionContainers
+2017-11-08 05:23:52 Friends  : 98.6% at 36/sec for PickEverard
+2017-11-08 05:23:58 Friends  : 98.6% at 41/sec for Quattro_Design
+2017-11-08 05:24:58 Friends  : 98.1% at 47/sec for radiochelsea
+2017-11-08 05:31:11 Favorites: 49.3% at 4/sec for BBMarchitects
+2017-11-08 05:31:20 Favorites: 51.8% at 42/sec for BridgendCBC
+2017-11-08 05:31:25 Favorites: 87.7% at 49/sec for Croftgoode
+2017-11-08 05:31:25 Favorites: 100% at 34/sec for HetreedRoss
+2017-11-08 05:31:33 Favorites: 52.8% at 26/sec for KDesignAndBuild
+2017-11-08 05:31:34 Favorites: 69.4% at 74/sec for LionContainers
+2017-11-08 05:31:44 Favorites: 50.6% at 43/sec for PickEverard
+2017-11-08 05:31:46 Favorites: 73.4% at 36/sec for Quattro_Design
+2017-11-08 05:32:54 Favorites: 39% at 46/sec for radiochelsea
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+package 'twitteR' was built under R version 3.4.1 
+package 'twitteR' was built under R version 3.4.1 

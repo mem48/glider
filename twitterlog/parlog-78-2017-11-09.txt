@@ -1,0 +1,192 @@
+starting worker pid=16844 on localhost:11045 at 14:20:25.865
+starting worker pid=9544 on localhost:11045 at 14:20:26.034
+starting worker pid=17532 on localhost:11045 at 14:20:26.194
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-09 14:21:15 Friends  : 100% at 44/sec for FentonSheds
+2017-11-09 14:21:16 Favorites: 100% at 2/sec for FentonSheds
+2017-11-09 14:21:21 Favorites: Waiting for 10.8 minutes due to : Used up allowance in a loop
+2017-11-09 14:22:21 Friends  : 99.8% at 45/sec for GlassNewsmag
+2017-11-09 14:22:30 Friends  : 97.8% at 44/sec for hertfordglass
+2017-11-09 14:22:31 Tweets   : 100% at 52/sec for FentonSheds
+2017-11-09 14:23:32 Tweets   : 42% at 52/sec for GlassNewsmag
+2017-11-09 14:24:17 Friends  : 97.2% at 45/sec for LeeClarke77
+2017-11-09 14:24:39 Friends  : 100% at 43/sec for Merstham_Glass
+2017-11-09 14:24:42 Tweets   : 67.9% at 46/sec for hertfordglass
+2017-11-09 14:24:46 Friends  : 96.3% at 55/sec for tenfenestration
+2017-11-09 14:24:52 Friends  : 97.2% at 47/sec for timlowin
+2017-11-09 14:25:17 Friends  : 99% at 53/sec for BBAguru
+Error in twInterfaceObj$doAPICall(paste("users", "show", sep = "/"), params = params,  : 
+  Not Found (HTTP 404).
+In addition: Warning message:
+package 'twitteR' was built under R version 3.4.1 
+2017-11-09 14:25:17 Friends: Unable to find account CHIHomesBristol moving to next
+2017-11-09 14:25:17 Friends  : % at /sec for CHIHomesBristol
+2017-11-09 14:25:47 Tweets   : 25% at 49/sec for LeeClarke77
+2017-11-09 14:25:53 Friends  : 100% at 52/sec for CityLoftsLondon
+2017-11-09 14:25:57 Friends  : 100% at 38/sec for CoombeAndSharpe
+2017-11-09 14:26:05 Tweets   : 99.3% at 35/sec for Merstham_Glass
+2017-11-09 14:26:07 Friends  : 98.9% at 50/sec for dlittle200
+2017-11-09 14:26:08 Friends  : 96.7% at 19/sec for FMBSouth_Phil
+2017-11-09 14:26:11 Friends  : 100% at 37/sec for gaskinbuilders
+Error in twInterfaceObj$doAPICall(paste("users", "show", sep = "/"), params = params,  : 
+  Not Found (HTTP 404).
+2017-11-09 14:26:12 Friends: Unable to find account HaldaneConst moving to next
+2017-11-09 14:26:12 Friends  : % at /sec for HaldaneConst
+2017-11-09 14:26:17 Friends  : 98.6% at 50/sec for HFSnicola
+2017-11-09 14:27:05 Friends  : 99.6% at 42/sec for kevinhollinrake
+2017-11-09 14:27:05 Friends  : Waiting for 8.8 minutes
+2017-11-09 14:27:15 Tweets   : 81.6% at 45/sec for tenfenestration
+2017-11-09 14:28:11 Tweets   : 99.8% at 48/sec for timlowin
+2017-11-09 14:29:17 Tweets   : 93.8% at 47/sec for BBAguru
+2017-11-09 14:29:28 Tweets   : 100% at 22/sec for CHIHomesBristol
+2017-11-09 14:30:28 Tweets   : 80.6% at 53/sec for CityLoftsLondon
+2017-11-09 14:30:36 Tweets   : 100% at 14/sec for CoombeAndSharpe
+2017-11-09 14:30:53 Tweets   : 100% at 32/sec for dlittle200
+2017-11-09 14:31:01 Tweets   : 100% at 14/sec for FMBSouth_Phil
+2017-11-09 14:31:18 Tweets   : 99.8% at 33/sec for gaskinbuilders
+2017-11-09 14:31:25 Tweets   : 100% at 7/sec for HaldaneConst
+2017-11-09 14:31:43 Tweets   : 100% at 34/sec for HFSnicola
+2017-11-09 14:32:37 Favorites: 56.3% at 1/sec for GlassNewsmag
+2017-11-09 14:32:48 Tweets   : 60.1% at 49/sec for kevinhollinrake
+2017-11-09 14:33:15 Favorites: 51.7% at 47/sec for hertfordglass
+2017-11-09 14:33:16 Tweets   : 98.8% at 41/sec for MattPBrereton
+2017-11-09 14:33:33 Tweets   : 99.5% at 33/sec for PF_bimby
+2017-11-09 14:33:53 Favorites: 51.9% at 49/sec for LeeClarke77
+2017-11-09 14:33:53 Favorites: 83.3% at 12/sec for Merstham_Glass
+2017-11-09 14:33:58 Favorites: 63.8% at 45/sec for tenfenestration
+2017-11-09 14:34:32 Favorites: 50.3% at 45/sec for timlowin
+2017-11-09 14:34:40 Favorites: 53.5% at 40/sec for BBAguru
+2017-11-09 14:34:41 Favorites: 102% at 33/sec for CHIHomesBristol
+2017-11-09 14:34:43 Favorites: 100% at 45/sec for CityLoftsLondon
+2017-11-09 14:34:43 Favorites: 100% at 32/sec for CoombeAndSharpe
+2017-11-09 14:34:45 Tweets   : 51.9% at 44/sec for PrincesFound
+2017-11-09 14:34:59 Tweets   : 100% at 24/sec for Pye_Tait
+2017-11-09 14:35:00 Favorites: Waiting for 12.4 minutes due to : Used up allowance in a loop
+2017-11-09 14:35:52 Tweets   : 99.9% at 46/sec for ridgemountpr
+2017-11-09 14:36:39 Tweets   : 99.3% at 46/sec for Scotthebricky
+Error in twInterfaceObj$doAPICall(cmd, params, method, ...) : 
+  Service Unavailable (HTTP 503).
+In addition: Warning message:
+package 'twitteR' was built under R version 3.4.1 
+2017-11-09 14:36:47 Tweets: Unable to find account SeatonBuild moving to next
+2017-11-09 14:36:47 Tweets   : % at /sec for SeatonBuild
+2017-11-09 14:36:54 Tweets   : 100% at 8/sec for SpornCon
+2017-11-09 14:36:57 Friends  : 98.9% at 4/sec for MattPBrereton
+2017-11-09 14:37:02 Tweets   : 100% at 11/sec for TiffinExpert
+2017-11-09 14:37:03 Friends  : 98.9% at 42/sec for PF_bimby
+2017-11-09 14:37:14 Tweets   : 100% at 24/sec for AKGasSparesLtd
+2017-11-09 14:37:24 Friends  : 99% at 40/sec for PrincesFound
+2017-11-09 14:37:32 Friends  : 99.4% at 41/sec for Pye_Tait
+2017-11-09 14:38:05 Friends  : 99.9% at 43/sec for ridgemountpr
+2017-11-09 14:38:17 Friends  : 99.8% at 45/sec for Scotthebricky
+2017-11-09 14:38:26 Tweets   : 99% at 45/sec for ARAheatinggas
+2017-11-09 14:38:36 Friends  : 99.3% at 48/sec for SeatonBuild
+2017-11-09 14:38:38 Friends  : 100% at 28/sec for SpornCon
+2017-11-09 14:38:41 Friends  : 99.1% at 36/sec for TiffinExpert
+Error in twInterfaceObj$doAPICall(paste("users", "show", sep = "/"), params = params,  : 
+  Not Found (HTTP 404).
+2017-11-09 14:38:41 Friends: Unable to find account AKGasSparesLtd moving to next
+2017-11-09 14:38:41 Friends  : % at /sec for AKGasSparesLtd
+2017-11-09 14:38:57 Friends  : 94.1% at 47/sec for ARAheatinggas
+2017-11-09 14:39:36 Friends  : 98.8% at 46/sec for cchousingonline
+2017-11-09 14:39:40 Tweets   : 72.2% at 43/sec for cchousingonline
+2017-11-09 14:39:43 Friends  : 95% at 48/sec for CharKeddy
+2017-11-09 14:40:11 Friends  : 98.8% at 42/sec for ClareAdamsonSNP
+2017-11-09 14:40:15 Friends  : 98.7% at 37/sec for Eastpleanps
+2017-11-09 14:40:34 Friends  : 96.3% at 42/sec for GarethWHeating
+2017-11-09 14:40:34 Friends  : Waiting for 10.7 minutes
+2017-11-09 14:40:46 Tweets   : 36% at 48/sec for CharKeddy
+2017-11-09 14:42:04 Tweets   : 61.1% at 41/sec for ClareAdamsonSNP
+2017-11-09 14:42:34 Tweets   : 99.9% at 41/sec for Eastpleanps
+2017-11-09 14:43:39 Tweets   : 53.8% at 49/sec for GarethWHeating
+2017-11-09 14:43:54 Tweets   : 100% at 26/sec for GasTagUK
+2017-11-09 14:45:04 Tweets   : 55.4% at 45/sec for GlastoFest
+2017-11-09 14:46:16 Tweets   : 5.5% at 45/sec for GMB
+2017-11-09 14:47:24 Tweets   : 3.3% at 47/sec for goriami
+2017-11-09 14:47:55 Favorites: 49.8% at 1/sec for dlittle200
+2017-11-09 14:47:55 Favorites: 100% at 3/sec for FMBSouth_Phil
+2017-11-09 14:47:55 Favorites: User gaskinbuilders has a protected account or no Favoritess to collect so skipping
+2017-11-09 14:47:58 Favorites: 68.5% at 45/sec for HaldaneConst
+2017-11-09 14:48:07 Favorites: 52.6% at 45/sec for HFSnicola
+2017-11-09 14:48:30 Tweets   : 99.9% at 43/sec for haleybowcock
+2017-11-09 14:48:30 Favorites: 53.7% at 46/sec for kevinhollinrake
+2017-11-09 14:48:38 Favorites: 59.4% at 46/sec for MattPBrereton
+2017-11-09 14:48:40 Favorites: 62.1% at 57/sec for PF_bimby
+2017-11-09 14:48:51 Favorites: 54% at 47/sec for PrincesFound
+2017-11-09 14:48:52 Favorites: 100% at 48/sec for Pye_Tait
+2017-11-09 14:48:57 Favorites: 57.7% at 42/sec for ridgemountpr
+2017-11-09 14:48:59 Favorites: 74% at 49/sec for Scotthebricky
+2017-11-09 14:49:12 Favorites: 49.3% at 45/sec for SeatonBuild
+2017-11-09 14:49:13 Favorites: 100% at 31/sec for SpornCon
+2017-11-09 14:49:13 Favorites: 100% at 16/sec for TiffinExpert
+2017-11-09 14:49:15 Favorites: 98.1% at 37/sec for AKGasSparesLtd
+2017-11-09 14:49:39 Tweets   : 12.6% at 46/sec for Halirunner
+2017-11-09 14:50:05 Favorites: 50.8% at 47/sec for ARAheatinggas
+2017-11-09 14:50:16 Favorites: 59.4% at 46/sec for cchousingonline
+2017-11-09 14:50:18 Favorites: 100% at 42/sec for CharKeddy
+2017-11-09 14:50:20 Favorites: Waiting for 12.4 minutes due to : Used up allowance in a loop
+2017-11-09 14:50:51 Tweets   : 48.6% at 45/sec for intuMerryHill
+2017-11-09 14:51:54 Friends  : 92.8% at 1/sec for GasTagUK
+2017-11-09 14:51:59 Tweets   : 5.4% at 47/sec for jacqui5366
+2017-11-09 14:52:01 Friends  : 99.7% at 40/sec for GlastoFest
+2017-11-09 14:53:12 Tweets   : 0.6% at 44/sec for JennaKateKelly
+2017-11-09 14:53:14 Friends  : 99.7% at 41/sec for GMB
+2017-11-09 14:54:16 Tweets   : 3.4% at 50/sec for JudeVFR400
+2017-11-09 14:54:42 Friends  : 99.4% at 47/sec for goriami
+2017-11-09 14:54:47 Tweets   : 100% at 39/sec for LiverpoolHeat
+2017-11-09 14:54:59 Friends  : 98.3% at 45/sec for haleybowcock
+2017-11-09 14:56:01 Tweets   : 11.4% at 43/sec for loosewomen
+2017-11-09 14:56:08 Tweets   : 100% at 7/sec for Media_CPA
+2017-11-09 14:56:48 Friends  : 97.8% at 45/sec for Halirunner
+2017-11-09 14:56:54 Friends  : 99.6% at 43/sec for intuMerryHill
+2017-11-09 14:57:18 Tweets   : 36.7% at 46/sec for MerseyFire
+2017-11-09 14:58:37 Tweets   : 90.2% at 40/sec for officialbikbbi
+2017-11-09 14:58:37 Tweets   : User officialikbbi has a protected account or no Tweetss to collect so skipping
+2017-11-09 14:58:51 Friends  : 97.8% at 42/sec for jacqui5366
+2017-11-09 14:59:51 Tweets   : 40.5% at 43/sec for RatedPeople
+2017-11-09 15:01:25 Friends  : 98.4% at 43/sec for JennaKateKelly
+2017-11-09 15:03:10 Friends  : 98.7% at 44/sec for JudeVFR400
+2017-11-09 15:03:16 Friends  : 88.8% at 34/sec for LiverpoolHeat
+2017-11-09 15:03:40 Favorites: 48.8% at 2/sec for ClareAdamsonSNP
+2017-11-09 15:03:44 Favorites: 75.6% at 47/sec for Eastpleanps
+Error in twInterfaceObj$doAPICall(cmd, params, method, ...) : 
+  Service Unavailable (HTTP 503).
+2017-11-09 15:03:46 Friends: Unable to find account loosewomen moving to next
+2017-11-09 15:03:46 Friends  : % at /sec for loosewomen
+Error in twInterfaceObj$doAPICall(paste("users", "lookup", sep = "/"),  : 
+  Service Unavailable (HTTP 503).
+2017-11-09 15:04:17 Friends: Unable to find account Media_CPA moving to next
+2017-11-09 15:04:17 Friends  : % at /sec for Media_CPA
+2017-11-09 15:04:30 Friends  : 98.6% at 34/sec for MerseyFire
+2017-11-09 15:04:30 Friends  : Waiting for 2.1 minutes
+2017-11-09 15:04:52 Favorites: 28.6% at 46/sec for GarethWHeating
+2017-11-09 15:04:56 Favorites: 57% at 52/sec for GasTagUK
+2017-11-09 15:05:03 Favorites: 55.4% at 45/sec for GlastoFest
+2017-11-09 15:05:37 Favorites: 52.1% at 46/sec for GMB
+2017-11-09 15:05:47 Favorites: Waiting for 12.4 minutes due to : Used up allowance in a loop
+2017-11-09 15:07:23 Friends  : 99.4% at 12/sec for officialbikbbi
+Error in twInterfaceObj$doAPICall(paste("users", "show", sep = "/"), params = params,  : 
+  Not Found (HTTP 404).
+2017-11-09 15:07:24 Friends: Unable to find account officialikbbi moving to next
+2017-11-09 15:07:24 Friends  : % at /sec for officialikbbi
+2017-11-09 15:07:40 Friends  : 98.6% at 48/sec for RatedPeople
+2017-11-09 15:19:29 Favorites: 19.6% at 4/sec for goriami
+2017-11-09 15:19:47 Favorites: 55.3% at 49/sec for haleybowcock
+2017-11-09 15:20:54 Favorites: 33.8% at 48/sec for Halirunner
+2017-11-09 15:21:04 Favorites: 63.5% at 37/sec for intuMerryHill
+2017-11-09 15:21:04 Favorites: Waiting for 12.4 minutes due to : Used up allowance in a loop
+2017-11-09 15:34:04 Favorites: 51.2% at 1/sec for jacqui5366
+2017-11-09 15:35:12 Favorites: 4.5% at 47/sec for JennaKateKelly
+2017-11-09 15:35:21 Favorites: 62.6% at 47/sec for JudeVFR400
+2017-11-09 15:35:36 Favorites: 53.2% at 45/sec for LiverpoolHeat
+2017-11-09 15:36:30 Favorites: Waiting for 12.4 minutes due to : Used up allowance in a loop
+2017-11-09 15:49:28 Favorites: 25.3% at 4/sec for loosewomen
+2017-11-09 15:49:29 Favorites: 100% at 27/sec for Media_CPA
+2017-11-09 15:49:39 Favorites: 60.6% at 48/sec for MerseyFire
+2017-11-09 15:49:52 Favorites: 56.3% at 47/sec for officialbikbbi
+2017-11-09 15:49:52 Favorites: User officialikbbi has a protected account or no Favoritess to collect so skipping
+2017-11-09 15:50:02 Favorites: 53.9% at 46/sec for RatedPeople
+Warning message:
+package 'twitteR' was built under R version 3.4.1 

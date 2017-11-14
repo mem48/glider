@@ -1,0 +1,188 @@
+starting worker pid=8728 on localhost:11045 at 04:54:28.943
+starting worker pid=12632 on localhost:11045 at 04:54:29.103
+starting worker pid=10712 on localhost:11045 at 04:54:29.281
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-06 04:55:01 Favorites: 51.2% at 39/sec for ViridianSolar
+2017-11-06 04:55:19 Favorites: 54.9% at 46/sec for Cundall_Global
+2017-11-06 04:55:30 Favorites: Waiting for 11.3 minutes due to : Used up allowance in a loop
+2017-11-06 04:56:05 Tweets   : 100% at 47/sec for ViridianSolar
+[1] "Server error: (500) Internal Server Error"
+[1] "This error is likely transient, retrying up to 5 more times ..."
+[1] "Server error: (500) Internal Server Error"
+[1] "This error is likely transient, retrying up to 5 more times ..."
+Error in twInterfaceObj$doAPICall(cmd, params, method, ...) : 
+  Service Unavailable (HTTP 503).
+In addition: Warning message:
+package 'twitteR' was built under R version 3.4.1 
+2017-11-06 04:56:11 Tweets: Unable to find account Cundall_Global moving to next
+2017-11-06 04:56:11 Tweets   : % at /sec for Cundall_Global
+Error in twInterfaceObj$doAPICall(cmd, params, method, ...) : 
+  Service Unavailable (HTTP 503).
+2017-11-06 04:56:11 Tweets: Unable to find account LMAppeal moving to next
+2017-11-06 04:56:11 Tweets   : % at /sec for LMAppeal
+2017-11-06 04:56:13 Friends  : 99.6% at 44/sec for ViridianSolar
+[1] "Server error: (500) Internal Server Error"
+[1] "This error is likely transient, retrying up to 5 more times ..."
+2017-11-06 04:56:41 Friends  : 99.2% at 46/sec for Cundall_Global
+2017-11-06 04:57:03 Friends  : 98.2% at 40/sec for LMAppeal
+2017-11-06 04:57:12 Friends  : 98.2% at 49/sec for EsTresidder
+2017-11-06 04:57:19 Tweets   : 99.9% at 44/sec for EsTresidder
+2017-11-06 04:58:03 Friends  : 100% at 49/sec for Sharpeneer
+2017-11-06 04:58:13 Friends  : 97% at 46/sec for Fernox
+2017-11-06 04:58:27 Tweets   : 15.1% at 47/sec for Sharpeneer
+2017-11-06 04:59:33 Tweets   : 44.9% at 49/sec for Fernox
+2017-11-06 04:59:33 Friends  : 93.7% at 47/sec for pegleryorkshire
+2017-11-06 05:00:28 Tweets   : 68.6% at 58/sec for pegleryorkshire
+2017-11-06 05:00:33 Friends  : 97.9% at 46/sec for dadbloguk
+2017-11-06 05:01:26 Tweets   : 9.6% at 55/sec for dadbloguk
+2017-11-06 05:02:28 Tweets   : 44.4% at 51/sec for GCSMidlands
+2017-11-06 05:02:29 Friends  : 98.4% at 48/sec for GCSMidlands
+2017-11-06 05:02:42 Friends  : 96.2% at 47/sec for encon_group
+2017-11-06 05:02:46 Tweets   : 100% at 42/sec for encon_group
+2017-11-06 05:02:50 Friends  : 100% at 45/sec for DrMW
+2017-11-06 05:02:53 Friends  : 98.9% at 38/sec for bennyrun
+2017-11-06 05:03:31 Friends  : 98.8% at 45/sec for CPLCambridge
+2017-11-06 05:03:37 Tweets   : 99.7% at 45/sec for DrMW
+2017-11-06 05:03:44 Friends  : 98% at 45/sec for planetkooler
+2017-11-06 05:03:44 Friends  : Waiting for 6.1 minutes
+2017-11-06 05:03:47 Tweets   : 99.6% at 27/sec for bennyrun
+2017-11-06 05:04:36 Tweets   : 100% at 56/sec for CPLCambridge
+2017-11-06 05:05:43 Tweets   : 4.1% at 48/sec for planetkooler
+2017-11-06 05:06:23 Tweets   : 100% at 51/sec for CIHFutures
+2017-11-06 05:06:31 Tweets   : 100% at 18/sec for citbAOSula
+2017-11-06 05:06:43 Tweets   : 99.7% at 33/sec for DianneCITB
+2017-11-06 05:07:17 Favorites: 50.7% at 2/sec for LMAppeal
+2017-11-06 05:07:29 Favorites: 53.8% at 47/sec for EsTresidder
+2017-11-06 05:07:30 Favorites: 90.9% at 14/sec for Sharpeneer
+2017-11-06 05:07:41 Tweets   : 91.3% at 55/sec for ukhomeoffice
+2017-11-06 05:07:56 Favorites: 50.4% at 50/sec for Fernox
+2017-11-06 05:08:06 Favorites: 60.6% at 48/sec for pegleryorkshire
+2017-11-06 05:08:25 Favorites: 51.7% at 48/sec for dadbloguk
+2017-11-06 05:08:41 Tweets   : 2.3% at 53/sec for SuButcher
+2017-11-06 05:09:30 Favorites: 50.5% at 48/sec for GCSMidlands
+2017-11-06 05:09:36 Favorites: Waiting for 12.5 minutes due to : Used up allowance in a loop
+2017-11-06 05:09:39 Tweets   : 14.8% at 55/sec for CitizensAdvice
+Error in twInterfaceObj$doAPICall(paste("users", "show", sep = "/"), params = params,  : 
+  Not Found (HTTP 404).
+In addition: Warning message:
+package 'twitteR' was built under R version 3.4.1 
+2017-11-06 05:09:58 Friends: Unable to find account CIHFutures moving to next
+2017-11-06 05:09:58 Friends  : % at /sec for CIHFutures
+2017-11-06 05:10:02 Friends  : 100% at 51/sec for citbAOSula
+2017-11-06 05:10:09 Friends  : 94.2% at 45/sec for DianneCITB
+2017-11-06 05:10:17 Friends  : 96.5% at 54/sec for ukhomeoffice
+2017-11-06 05:10:27 Tweets   : 99.3% at 51/sec for Jameel_Malik
+2017-11-06 05:11:28 Tweets   : 8.7% at 52/sec for lyha_LisaP
+2017-11-06 05:11:47 Tweets   : 98.8% at 41/sec for NaziraP_BaH
+2017-11-06 05:12:53 Tweets   : 66.1% at 49/sec for policyJenny
+2017-11-06 05:13:22 Tweets   : 100% at 49/sec for carbonprofiling
+2017-11-06 05:14:20 Tweets   : 4.2% at 55/sec for dezeen
+2017-11-06 05:14:35 Tweets   : 100% at 32/sec for peteroborn
+2017-11-06 05:15:31 Tweets   : 15.8% at 57/sec for katefaulkner
+2017-11-06 05:15:48 Friends  : 99.5% at 47/sec for SuButcher
+2017-11-06 05:16:30 Tweets   : 43.7% at 54/sec for Solar_Editor
+2017-11-06 05:17:09 Friends  : 99.8% at 50/sec for CitizensAdvice
+2017-11-06 05:17:32 Tweets   : 50.3% at 52/sec for Habinteg
+2017-11-06 05:17:42 Friends  : 98.3% at 50/sec for Jameel_Malik
+2017-11-06 05:18:35 Friends  : 98.5% at 56/sec for lyha_LisaP
+2017-11-06 05:18:36 Tweets   : 28.8% at 50/sec for MD_KINE
+2017-11-06 05:18:41 Friends  : 96.9% at 51/sec for NaziraP_BaH
+2017-11-06 05:19:40 Friends  : 99.3% at 55/sec for policyJenny
+2017-11-06 05:19:43 Tweets   : 22.1% at 47/sec for phpi
+2017-11-06 05:19:48 Friends  : 99.4% at 56/sec for carbonprofiling
+2017-11-06 05:19:48 Friends  : Waiting for 5.2 minutes
+2017-11-06 05:20:44 Tweets   : 40.2% at 52/sec for UKGovScotland
+2017-11-06 05:20:53 Tweets   : 100% at 23/sec for NRAC_info
+2017-11-06 05:21:20 Tweets   : 100% at 40/sec for SarahDavisCIH
+2017-11-06 05:21:32 Tweets   : 98.4% at 26/sec for LeanneLand1
+2017-11-06 05:22:03 Tweets   : 99.3% at 53/sec for TJConservatory
+2017-11-06 05:22:27 Favorites: 61.1% at 1/sec for encon_group
+2017-11-06 05:22:31 Favorites: 50.1% at 48/sec for DrMW
+2017-11-06 05:22:34 Favorites: 74.8% at 55/sec for bennyrun
+2017-11-06 05:22:47 Favorites: 56.3% at 47/sec for CPLCambridge
+2017-11-06 05:23:03 Tweets   : 39.4% at 53/sec for H_S_E
+2017-11-06 05:23:56 Favorites: 4.5% at 47/sec for planetkooler
+2017-11-06 05:24:06 Tweets   : 29.8% at 51/sec for peterwalt7
+2017-11-06 05:24:30 Favorites: 49.9% at 50/sec for CIHFutures
+2017-11-06 05:24:31 Favorites: 100% at 30/sec for citbAOSula
+2017-11-06 05:24:33 Favorites: 65.1% at 48/sec for DianneCITB
+2017-11-06 05:24:33 Favorites: User ukhomeoffice has a protected account or no Favoritess to collect so skipping
+2017-11-06 05:24:56 Favorites: Waiting for 12.4 minutes due to : Used up allowance in a loop
+2017-11-06 05:25:10 Tweets   : 40.3% at 50/sec for HydeHousing
+2017-11-06 05:26:11 Tweets   : 32.1% at 52/sec for RachelAFisher
+2017-11-06 05:27:14 Tweets   : 91.5% at 50/sec for CCScheme
+2017-11-06 05:28:19 Tweets   : 38.9% at 48/sec for marhind
+2017-11-06 05:28:38 Tweets   : 99.9% at 45/sec for johnpratley
+2017-11-06 05:29:45 Tweets   : 75.9% at 48/sec for PHAustria
+2017-11-06 05:30:44 Friends  : 100% at 23/sec for dezeen
+2017-11-06 05:30:45 Friends  : 100% at 24/sec for peteroborn
+2017-11-06 05:30:48 Tweets   : 64.1% at 51/sec for KateTay73593006
+2017-11-06 05:31:16 Tweets   : 100% at 42/sec for MarkWalley13
+2017-11-06 05:31:34 Tweets   : 100% at 38/sec for KloberLtd
+2017-11-06 05:32:38 Tweets   : 68.3% at 50/sec for TheNHIC
+2017-11-06 05:33:15 Friends  : 96.7% at 50/sec for katefaulkner
+2017-11-06 05:33:28 Tweets   : 99.8% at 50/sec for Green_Gateway
+2017-11-06 05:33:39 Friends  : 99.9% at 55/sec for Solar_Editor
+2017-11-06 05:35:10 Friends  : 96.3% at 53/sec for Habinteg
+2017-11-06 05:35:42 Friends  : 99.2% at 51/sec for MD_KINE
+2017-11-06 05:36:15 Friends  : 88.5% at 39/sec for phpi
+2017-11-06 05:36:38 Friends  : 99.7% at 50/sec for UKGovScotland
+2017-11-06 05:36:40 Friends  : 100% at 31/sec for NRAC_info
+2017-11-06 05:36:50 Friends  : 97.9% at 47/sec for SarahDavisCIH
+2017-11-06 05:36:58 Friends  : 100% at 45/sec for LeanneLand1
+2017-11-06 05:36:58 Friends  : Waiting for 3.3 minutes
+2017-11-06 05:38:26 Favorites: 21.3% at 4/sec for SuButcher
+2017-11-06 05:39:08 Favorites: 48.9% at 49/sec for CitizensAdvice
+2017-11-06 05:39:28 Favorites: 51.1% at 48/sec for Jameel_Malik
+2017-11-06 05:40:13 Favorites: Waiting for 12.5 minutes due to : Used up allowance in a loop
+2017-11-06 05:41:18 Friends  : 99.6% at 13/sec for TJConservatory
+2017-11-06 05:41:31 Friends  : 99.6% at 55/sec for H_S_E
+2017-11-06 05:41:47 Friends  : 97.9% at 53/sec for peterwalt7
+2017-11-06 05:42:09 Friends  : 99% at 56/sec for HydeHousing
+2017-11-06 05:42:59 Friends  : 99.1% at 53/sec for RachelAFisher
+2017-11-06 05:43:14 Friends  : 99.4% at 49/sec for CCScheme
+2017-11-06 05:43:43 Friends  : 98.5% at 49/sec for marhind
+2017-11-06 05:43:49 Friends  : 99.7% at 47/sec for johnpratley
+2017-11-06 05:43:56 Friends  : 97.7% at 50/sec for PHAustria
+2017-11-06 05:44:30 Friends  : 97.7% at 46/sec for KateTay73593006
+2017-11-06 05:44:34 Friends  : 97.6% at 47/sec for MarkWalley13
+2017-11-06 05:44:55 Friends  : 99.2% at 48/sec for KloberLtd
+2017-11-06 05:45:03 Friends  : 97.1% at 49/sec for TheNHIC
+2017-11-06 05:45:18 Friends  : 99.7% at 52/sec for Green_Gateway
+2017-11-06 05:53:21 Favorites: 17% at 4/sec for lyha_LisaP
+2017-11-06 05:53:33 Favorites: 53% at 49/sec for NaziraP_BaH
+2017-11-06 05:54:40 Favorites: 36.3% at 48/sec for policyJenny
+2017-11-06 05:54:50 Favorites: 55.7% at 50/sec for carbonprofiling
+2017-11-06 05:54:56 Favorites: 66.7% at 48/sec for dezeen
+2017-11-06 05:54:58 Favorites: 70.4% at 48/sec for peteroborn
+2017-11-06 05:55:29 Favorites: Waiting for 12.5 minutes due to : Used up allowance in a loop
+2017-11-06 06:08:31 Favorites: 50.8% at 3/sec for katefaulkner
+2017-11-06 06:08:42 Favorites: 48.5% at 47/sec for Solar_Editor
+2017-11-06 06:09:18 Favorites: 52.3% at 49/sec for Habinteg
+2017-11-06 06:09:29 Favorites: 51.2% at 47/sec for MD_KINE
+2017-11-06 06:10:32 Favorites: 20.7% at 50/sec for phpi
+2017-11-06 06:10:34 Favorites: 71.4% at 46/sec for UKGovScotland
+2017-11-06 06:10:36 Favorites: 100% at 33/sec for NRAC_info
+2017-11-06 06:10:44 Favorites: 63.6% at 50/sec for SarahDavisCIH
+2017-11-06 06:10:46 Favorites: 84% at 51/sec for LeanneLand1
+2017-11-06 06:10:46 Favorites: Waiting for 12.5 minutes due to : Used up allowance in a loop
+2017-11-06 06:23:37 Favorites: 55.1% at 0/sec for TJConservatory
+2017-11-06 06:23:58 Favorites: 50.3% at 49/sec for H_S_E
+2017-11-06 06:25:06 Favorites: 43.9% at 47/sec for peterwalt7
+2017-11-06 06:25:25 Favorites: 50.3% at 48/sec for HydeHousing
+2017-11-06 06:26:10 Favorites: Waiting for 12.4 minutes due to : Used up allowance in a loop
+2017-11-06 06:39:06 Favorites: 49.8% at 3/sec for RachelAFisher
+2017-11-06 06:39:07 Favorites: 100% at 29/sec for CCScheme
+2017-11-06 06:40:13 Favorites: 41.1% at 47/sec for marhind
+2017-11-06 06:40:15 Favorites: 100% at 47/sec for johnpratley
+2017-11-06 06:41:02 Favorites: 51.1% at 48/sec for PHAustria
+2017-11-06 06:41:26 Favorites: Waiting for 12.5 minutes due to : Used up allowance in a loop
+2017-11-06 06:54:36 Favorites: 51.6% at 3/sec for KateTay73593006
+2017-11-06 06:54:48 Favorites: 51.3% at 50/sec for MarkWalley13
+2017-11-06 06:54:50 Favorites: 98.9% at 54/sec for KloberLtd
+2017-11-06 06:55:37 Favorites: 51.5% at 48/sec for TheNHIC
+2017-11-06 06:55:38 Favorites: 100% at 14/sec for Green_Gateway
+Warning message:
+package 'twitteR' was built under R version 3.4.1 

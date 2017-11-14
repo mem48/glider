@@ -1,0 +1,170 @@
+starting worker pid=17596 on localhost:11045 at 11:16:12.436
+starting worker pid=16908 on localhost:11045 at 11:16:12.602
+starting worker pid=17216 on localhost:11045 at 11:16:12.761
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-09 11:16:45 Friends  : 96.5% at 32/sec for Concrete_Scot
+2017-11-09 11:17:02 Favorites: Waiting for 10.9 minutes due to : Used up allowance in a loop
+2017-11-09 11:17:11 Friends  : 99.2% at 43/sec for CornwallCollege
+2017-11-09 11:17:38 Friends  : 98.9% at 46/sec for crosbymark
+2017-11-09 11:17:41 Tweets   : 100% at 37/sec for Concrete_Scot
+2017-11-09 11:17:57 Friends  : 99.8% at 42/sec for CTPinfo
+2017-11-09 11:18:07 Friends  : 100% at 42/sec for Damon_Schunmann
+2017-11-09 11:18:42 Tweets   : 31.2% at 53/sec for CornwallCollege
+2017-11-09 11:18:55 Tweets   : 100% at 30/sec for crosbymark
+2017-11-09 11:19:52 Tweets   : 52.2% at 56/sec for CTPinfo
+2017-11-09 11:20:05 Tweets   : 100% at 37/sec for Damon_Schunmann
+2017-11-09 11:21:05 Tweets   : 5.9% at 54/sec for davidgcant
+2017-11-09 11:21:19 Tweets   : 99.8% at 38/sec for Econopolitic
+2017-11-09 11:21:29 Tweets   : 100% at 22/sec for HomeBuildSkills
+2017-11-09 11:22:11 Tweets   : 99.7% at 50/sec for info_dlptf
+2017-11-09 11:23:12 Tweets   : 99.4% at 47/sec for IRVconstruction
+2017-11-09 11:23:20 Tweets   : 100% at 10/sec for JamesT_CITB
+2017-11-09 11:24:04 Tweets   : 99.8% at 53/sec for jonesbrosUK
+2017-11-09 11:24:12 Tweets   : 100% at 22/sec for KatieSmithCITB
+2017-11-09 11:24:37 Tweets   : 99.9% at 46/sec for kmdecorating
+2017-11-09 11:25:05 Tweets   : 100% at 46/sec for LindumGroupLtd
+2017-11-09 11:25:11 Friends  : 99% at 49/sec for davidgcant
+2017-11-09 11:25:24 Friends  : 99.7% at 47/sec for Econopolitic
+2017-11-09 11:25:28 Friends  : 98.2% at 49/sec for HomeBuildSkills
+2017-11-09 11:25:29 Friends  : 98.3% at 37/sec for info_dlptf
+2017-11-09 11:25:31 Friends  : 100% at 36/sec for IRVconstruction
+2017-11-09 11:25:36 Friends  : 96% at 45/sec for JamesT_CITB
+2017-11-09 11:25:36 Friends  : Waiting for 6 minutes
+2017-11-09 11:25:48 Tweets   : 100% at 54/sec for MabeyGroup
+2017-11-09 11:26:51 Tweets   : 40.3% at 51/sec for MegMunn01
+2017-11-09 11:27:45 Tweets   : 48.4% at 59/sec for MultiTrades_Rec
+2017-11-09 11:28:38 Favorites: 51.5% at 2/sec for Concrete_Scot
+2017-11-09 11:28:48 Tweets   : 69.5% at 51/sec for Nacro
+2017-11-09 11:29:03 Tweets   : 99.8% at 34/sec for PhilipHFS
+2017-11-09 11:29:06 Favorites: 50.4% at 46/sec for CornwallCollege
+2017-11-09 11:29:08 Favorites: 63.3% at 60/sec for crosbymark
+2017-11-09 11:29:12 Favorites: 54.5% at 48/sec for CTPinfo
+2017-11-09 11:29:12 Favorites: User Damon_Schunmann has a protected account or no Favoritess to collect so skipping
+2017-11-09 11:29:13 Tweets   : 100% at 18/sec for Sarah_Garry
+2017-11-09 11:30:14 Tweets   : 33.7% at 52/sec for ShaunMcCarthy20
+2017-11-09 11:30:20 Favorites: 13.3% at 46/sec for davidgcant
+2017-11-09 11:30:25 Favorites: 92.1% at 48/sec for Econopolitic
+2017-11-09 11:30:27 Favorites: 63.7% at 43/sec for HomeBuildSkills
+2017-11-09 11:30:52 Favorites: 49.7% at 47/sec for info_dlptf
+2017-11-09 11:30:54 Favorites: 100% at 48/sec for IRVconstruction
+2017-11-09 11:30:54 Favorites: Waiting for 12.4 minutes due to : Used up allowance in a loop
+2017-11-09 11:31:14 Tweets   : 96.4% at 53/sec for SupplyCSSchool
+2017-11-09 11:31:55 Friends  : 100% at 1/sec for jonesbrosUK
+2017-11-09 11:32:01 Friends  : 94.1% at 53/sec for KatieSmithCITB
+2017-11-09 11:32:09 Friends  : 99.4% at 59/sec for kmdecorating
+2017-11-09 11:32:17 Tweets   : 56% at 51/sec for sussexdowns
+2017-11-09 11:32:22 Friends  : 99% at 60/sec for LindumGroupLtd
+2017-11-09 11:32:33 Friends  : 100% at 60/sec for MabeyGroup
+2017-11-09 11:32:48 Friends  : 99% at 59/sec for MegMunn01
+2017-11-09 11:33:21 Tweets   : 5.8% at 50/sec for TerriWestgate
+2017-11-09 11:33:30 Tweets   : 100% at 16/sec for tracie_citb
+2017-11-09 11:34:05 Friends  : 93.3% at 59/sec for MultiTrades_Rec
+2017-11-09 11:34:29 Friends  : 99.9% at 56/sec for Nacro
+2017-11-09 11:34:36 Friends  : 100% at 57/sec for PhilipHFS
+2017-11-09 11:34:38 Tweets   : 41.2% at 47/sec for YourLEP
+2017-11-09 11:34:40 Friends  : 100% at 43/sec for Sarah_Garry
+2017-11-09 11:34:51 Friends  : 100% at 59/sec for ShaunMcCarthy20
+2017-11-09 11:35:31 Friends  : 99.8% at 54/sec for SupplyCSSchool
+2017-11-09 11:35:35 Tweets   : 89.3% at 55/sec for AlokSharma_RDG
+2017-11-09 11:35:52 Friends  : 98.4% at 54/sec for sussexdowns
+2017-11-09 11:36:09 Friends  : 98.5% at 50/sec for TerriWestgate
+2017-11-09 11:36:15 Friends  : 95.6% at 49/sec for tracie_citb
+2017-11-09 11:36:16 Friends  : Waiting for 10.6 minutes
+2017-11-09 11:36:41 Tweets   : 49.1% at 48/sec for BedfordTweets
+2017-11-09 11:37:41 Tweets   : 33.9% at 54/sec for CWGC
+2017-11-09 11:38:46 Tweets   : 60.4% at 49/sec for EntZonesGov
+2017-11-09 11:39:47 Tweets   : 84.1% at 52/sec for GCSNorth
+2017-11-09 11:40:50 Tweets   : 83.3% at 50/sec for GreenFlagAward
+2017-11-09 11:41:59 Tweets   : 19.5% at 47/sec for KeepBritainTidy
+2017-11-09 11:42:59 Tweets   : 22% at 53/sec for LGAcomms
+2017-11-09 11:43:16 Tweets   : 99.8% at 37/sec for LocalityJeremy
+2017-11-09 11:43:39 Favorites: 100% at 0/sec for JamesT_CITB
+2017-11-09 11:43:41 Favorites: 100% at 36/sec for jonesbrosUK
+2017-11-09 11:43:43 Favorites: 100% at 47/sec for KatieSmithCITB
+2017-11-09 11:43:47 Favorites: 76.2% at 44/sec for kmdecorating
+2017-11-09 11:43:54 Favorites: 59.4% at 48/sec for LindumGroupLtd
+2017-11-09 11:43:56 Favorites: 99% at 43/sec for MabeyGroup
+2017-11-09 11:44:12 Favorites: 50.5% at 42/sec for MegMunn01
+2017-11-09 11:44:21 Tweets   : 16.8% at 49/sec for localitynews
+2017-11-09 11:44:46 Favorites: 52.1% at 48/sec for MultiTrades_Rec
+2017-11-09 11:44:58 Favorites: 52.5% at 47/sec for Nacro
+2017-11-09 11:45:00 Favorites: 75.8% at 57/sec for PhilipHFS
+2017-11-09 11:45:02 Favorites: 100% at 37/sec for Sarah_Garry
+2017-11-09 11:45:06 Favorites: 51.2% at 47/sec for ShaunMcCarthy20
+2017-11-09 11:45:13 Favorites: 58.1% at 45/sec for SupplyCSSchool
+2017-11-09 11:45:26 Tweets   : 11.8% at 50/sec for PolishEmbassyUK
+2017-11-09 11:45:46 Favorites: 52.1% at 47/sec for sussexdowns
+2017-11-09 11:46:17 Favorites: Waiting for 12.4 minutes due to : Used up allowance in a loop
+2017-11-09 11:46:30 Tweets   : 80.2% at 49/sec for TheLEPNetwork
+2017-11-09 11:46:45 Tweets   : 100% at 38/sec for timtomdon
+2017-11-09 11:47:46 Tweets   : 79.6% at 52/sec for TwitterUK
+2017-11-09 11:47:47 Friends  : 98.9% at 3/sec for YourLEP
+2017-11-09 11:47:58 Tweets   : 100% at 27/sec for UKHMF
+2017-11-09 11:47:58 Friends  : 99.4% at 49/sec for AlokSharma_RDG
+2017-11-09 11:48:10 Friends  : 99.3% at 47/sec for BedfordTweets
+2017-11-09 11:48:48 Tweets   : 97.7% at 46/sec for YouthareUnited
+2017-11-09 11:49:00 Tweets   : 100% at 29/sec for _fiveacademy
+2017-11-09 11:49:15 Tweets   : 99.5% at 28/sec for BrendanMorahan
+2017-11-09 11:49:22 Tweets   : 100% at 21/sec for CWWBestPractice
+2017-11-09 11:49:46 Tweets   : 99.6% at 47/sec for don_stewart_
+2017-11-09 11:50:45 Tweets   : 82.5% at 54/sec for DrNelsonO
+2017-11-09 11:50:54 Tweets   : 100% at 16/sec for G4C_Yorkshire
+2017-11-09 11:52:43 Friends  : 99.7% at 49/sec for CWGC
+2017-11-09 11:53:00 Friends  : 99.8% at 55/sec for EntZonesGov
+2017-11-09 11:53:41 Friends  : 98.9% at 55/sec for GCSNorth
+2017-11-09 11:54:30 Friends  : 97.8% at 49/sec for GreenFlagAward
+2017-11-09 11:55:11 Friends  : 98.9% at 53/sec for KeepBritainTidy
+2017-11-09 11:56:07 Friends  : 99.2% at 57/sec for LGAcomms
+2017-11-09 11:56:15 Friends  : 99.8% at 51/sec for LocalityJeremy
+2017-11-09 11:57:49 Friends  : 98.9% at 55/sec for localitynews
+2017-11-09 11:57:59 Friends  : 98.8% at 53/sec for PolishEmbassyUK
+2017-11-09 11:57:59 Friends  : Waiting for 4.3 minutes
+2017-11-09 11:59:41 Favorites: 9.7% at 4/sec for TerriWestgate
+2017-11-09 11:59:43 Favorites: 61.3% at 49/sec for tracie_citb
+2017-11-09 11:59:52 Favorites: 54.6% at 51/sec for YourLEP
+2017-11-09 11:59:54 Favorites: 100% at 39/sec for AlokSharma_RDG
+2017-11-09 11:59:58 Favorites: 70.5% at 50/sec for BedfordTweets
+2017-11-09 12:01:06 Favorites: 30.6% at 47/sec for CWGC
+2017-11-09 12:01:08 Favorites: 70.9% at 45/sec for EntZonesGov
+2017-11-09 12:01:21 Favorites: 54.9% at 45/sec for GCSNorth
+2017-11-09 12:01:37 Favorites: Waiting for 12.4 minutes due to : Used up allowance in a loop
+2017-11-09 12:03:15 Friends  : 99.7% at 9/sec for TheLEPNetwork
+2017-11-09 12:03:21 Friends  : 99.4% at 49/sec for timtomdon
+2017-11-09 12:03:27 Friends  : 99.2% at 48/sec for TwitterUK
+2017-11-09 12:03:30 Friends  : 100% at 45/sec for UKHMF
+2017-11-09 12:03:58 Friends  : 98.7% at 52/sec for YouthareUnited
+Error in twInterfaceObj$doAPICall(paste("users", "show", sep = "/"), params = params,  : 
+  Not Found (HTTP 404).
+In addition: Warning message:
+package 'twitteR' was built under R version 3.4.1 
+2017-11-09 12:03:58 Friends: Unable to find account _fiveacademy moving to next
+2017-11-09 12:03:58 Friends  : % at /sec for _fiveacademy
+2017-11-09 12:04:07 Friends  : 99.7% at 46/sec for BrendanMorahan
+2017-11-09 12:04:11 Friends  : 100% at 44/sec for CWWBestPractice
+2017-11-09 12:04:27 Friends  : 99.6% at 52/sec for don_stewart_
+2017-11-09 12:04:31 Friends  : 100% at 44/sec for DrNelsonO
+2017-11-09 12:04:34 Friends  : 100% at 29/sec for G4C_Yorkshire
+2017-11-09 12:14:25 Favorites: 56.3% at 1/sec for GreenFlagAward
+2017-11-09 12:15:11 Favorites: 51.8% at 45/sec for KeepBritainTidy
+2017-11-09 12:15:21 Favorites: 53.1% at 46/sec for LGAcomms
+2017-11-09 12:15:29 Favorites: 55.5% at 51/sec for LocalityJeremy
+2017-11-09 12:16:38 Favorites: 29.8% at 47/sec for localitynews
+2017-11-09 12:17:03 Favorites: Waiting for 12.3 minutes due to : Used up allowance in a loop
+2017-11-09 12:30:21 Favorites: 50.2% at 3/sec for PolishEmbassyUK
+2017-11-09 12:30:22 Favorites: 100% at 41/sec for TheLEPNetwork
+2017-11-09 12:30:23 Favorites: 100% at 17/sec for timtomdon
+2017-11-09 12:30:34 Favorites: 52.2% at 45/sec for TwitterUK
+2017-11-09 12:30:34 Favorites: 100% at 28/sec for UKHMF
+2017-11-09 12:30:53 Favorites: 50.1% at 48/sec for YouthareUnited
+2017-11-09 12:30:54 Favorites: 100% at 42/sec for _fiveacademy
+2017-11-09 12:30:59 Favorites: 82.6% at 48/sec for BrendanMorahan
+2017-11-09 12:30:59 Favorites: 100% at 18/sec for CWWBestPractice
+2017-11-09 12:31:04 Favorites: 67% at 45/sec for don_stewart_
+2017-11-09 12:31:05 Favorites: 93.5% at 39/sec for DrNelsonO
+2017-11-09 12:31:09 Favorites: 96.6% at 48/sec for G4C_Yorkshire
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+Warning message:
+package 'twitteR' was built under R version 3.4.1 

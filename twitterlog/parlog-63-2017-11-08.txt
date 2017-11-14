@@ -1,0 +1,177 @@
+starting worker pid=16448 on localhost:11045 at 20:39:57.496
+starting worker pid=9904 on localhost:11045 at 20:39:57.653
+starting worker pid=9704 on localhost:11045 at 20:39:57.812
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-08 20:40:13 Friends  : 99.4% at 46/sec for TamesideCouncil
+2017-11-08 20:40:14 Friends  : 100% at 29/sec for adeana_raper
+2017-11-08 20:40:17 Friends  : 100% at 40/sec for attheBBC
+2017-11-08 20:40:19 Friends  : 100% at 39/sec for BaxallC
+2017-11-08 20:40:20 Friends  : 100% at 4/sec for BBCBreaking
+2017-11-08 20:40:23 Friends  : 100% at 48/sec for CAlliance_UK
+2017-11-08 20:40:26 Favorites: 51.9% at 51/sec for TamesideCouncil
+2017-11-08 20:40:32 Favorites: 57.9% at 54/sec for adeana_raper
+2017-11-08 20:40:32 Favorites: 100% at 8/sec for attheBBC
+2017-11-08 20:40:34 Favorites: 63.9% at 58/sec for BaxallC
+2017-11-08 20:40:34 Favorites: User BBCBreaking has a protected account or no Favoritess to collect so skipping
+2017-11-08 20:40:34 Favorites: User CAlliance_UK has a protected account or no Favoritess to collect so skipping
+2017-11-08 20:40:38 Favorites: 88.8% at 48/sec for CINmagazine
+2017-11-08 20:40:40 Favorites: 87% at 60/sec for CNsummit
+2017-11-08 20:40:40 Favorites: 100% at 12/sec for constalliancene
+2017-11-08 20:40:42 Favorites: 55.1% at 53/sec for dot2dotinsure
+2017-11-08 20:40:43 Favorites: 96.7% at 39/sec for EstateBadger
+2017-11-08 20:40:47 Favorites: 78.7% at 51/sec for GelderGroup
+2017-11-08 20:40:48 Favorites: 100% at 33/sec for GleaveHomes
+2017-11-08 20:40:48 Favorites: 100% at 20/sec for hddevelopers
+2017-11-08 20:40:58 Favorites: Waiting for 11.8 minutes due to : Used up allowance in a loop
+2017-11-08 20:41:05 Tweets   : 5.8% at 60/sec for TamesideCouncil
+2017-11-08 20:41:18 Tweets   : 100% at 30/sec for adeana_raper
+2017-11-08 20:41:25 Friends  : 99% at 55/sec for CINmagazine
+2017-11-08 20:41:30 Tweets   : 100% at 36/sec for attheBBC
+2017-11-08 20:41:35 Friends  : 100% at 56/sec for CNsummit
+2017-11-08 20:41:37 Friends  : 97.2% at 40/sec for constalliancene
+2017-11-08 20:41:39 Tweets   : 100% at 16/sec for BaxallC
+2017-11-08 20:42:19 Friends  : 99.5% at 52/sec for dot2dotinsure
+2017-11-08 20:42:27 Tweets   : 9.6% at 66/sec for BBCBreaking
+2017-11-08 20:42:45 Tweets   : 100% at 45/sec for CAlliance_UK
+2017-11-08 20:42:59 Friends  : 95.6% at 57/sec for EstateBadger
+2017-11-08 20:43:06 Friends  : 98.6% at 51/sec for GelderGroup
+2017-11-08 20:43:06 Friends  : Waiting for 11 minutes
+2017-11-08 20:43:13 Tweets   : 99.1% at 57/sec for CINmagazine
+2017-11-08 20:43:44 Tweets   : 100% at 55/sec for CNsummit
+2017-11-08 20:43:51 Tweets   : 100% at 5/sec for constalliancene
+2017-11-08 20:44:43 Tweets   : 82.7% at 59/sec for dot2dotinsure
+2017-11-08 20:45:32 Tweets   : 25.3% at 66/sec for EstateBadger
+2017-11-08 20:46:01 Tweets   : 99.8% at 50/sec for GelderGroup
+2017-11-08 20:46:09 Tweets   : 100% at 16/sec for GleaveHomes
+2017-11-08 20:46:25 Tweets   : 100% at 44/sec for hddevelopers
+2017-11-08 20:47:21 Tweets   : 4.3% at 57/sec for HousingITguy
+2017-11-08 20:48:11 Tweets   : 49.1% at 63/sec for KirstieColledge
+2017-11-08 20:49:02 Tweets   : 73.8% at 63/sec for LondonBuildExpo
+2017-11-08 20:49:51 Tweets   : 2.3% at 66/sec for politicshome
+2017-11-08 20:50:46 Tweets   : 39.6% at 58/sec for PrincesRegen
+2017-11-08 20:51:39 Tweets   : 12.7% at 60/sec for SadiqKhan
+2017-11-08 20:52:29 Tweets   : 39.6% at 64/sec for TAForum
+2017-11-08 20:53:21 Tweets   : 63.7% at 62/sec for TheLondonEye
+2017-11-08 20:53:57 Favorites: 26.1% at 4/sec for HousingITguy
+2017-11-08 20:53:57 Tweets   : 99.9% at 55/sec for Beyondpassive
+2017-11-08 20:54:01 Favorites: 53.4% at 55/sec for KirstieColledge
+2017-11-08 20:54:08 Favorites: 55% at 50/sec for LondonBuildExpo
+2017-11-08 20:54:10 Favorites: 98% at 52/sec for politicshome
+2017-11-08 20:54:31 Friends  : 93.7% at 0/sec for GleaveHomes
+2017-11-08 20:54:35 Favorites: 50.1% at 52/sec for PrincesRegen
+2017-11-08 20:54:42 Friends  : 99.8% at 49/sec for hddevelopers
+2017-11-08 20:54:56 Tweets   : 70.9% at 55/sec for BroadlandDC
+2017-11-08 20:55:15 Favorites: 49% at 50/sec for SadiqKhan
+2017-11-08 20:55:25 Favorites: 61.4% at 54/sec for TAForum
+2017-11-08 20:55:27 Favorites: Waiting for 12.7 minutes due to : Used up allowance in a loop
+2017-11-08 20:55:43 Tweets   : 100% at 55/sec for CHP_estates
+2017-11-08 20:56:37 Tweets   : 34.9% at 59/sec for clrandrewcooper
+2017-11-08 20:56:47 Tweets   : 100% at 30/sec for CMcohousing
+2017-11-08 20:57:05 Tweets   : 100% at 38/sec for CroftFarmConst
+2017-11-08 20:57:17 Tweets   : 100% at 32/sec for Cygnumtf
+2017-11-08 20:57:39 Tweets   : 99.5% at 48/sec for duarteperez
+2017-11-08 20:57:51 Tweets   : 99.7% at 28/sec for garethselby
+2017-11-08 20:58:09 Tweets   : 100% at 41/sec for GBSWindowsDoors
+2017-11-08 20:58:22 Tweets   : 100% at 33/sec for IdealcombiUK
+2017-11-08 20:58:31 Tweets   : 100% at 19/sec for IxionDev
+2017-11-08 20:58:51 Tweets   : 100% at 43/sec for Kym_Mead
+2017-11-08 20:59:20 Tweets   : 100% at 48/sec for luederHerms
+2017-11-08 20:59:42 Friends  : 97.2% at 52/sec for HousingITguy
+2017-11-08 20:59:49 Tweets   : 99.9% at 45/sec for MalcsT
+2017-11-08 21:00:14 Tweets   : 99.8% at 52/sec for NIBEEnergy
+2017-11-08 21:00:32 Friends  : 99.4% at 61/sec for KirstieColledge
+2017-11-08 21:00:50 Tweets   : 100% at 56/sec for nickdevlin_Fab
+2017-11-08 21:01:35 Tweets   : 100% at 59/sec for OliverProgetic
+2017-11-08 21:01:47 Tweets   : 99.1% at 27/sec for phi_architects
+2017-11-08 21:01:59 Tweets   : 100% at 34/sec for SjolanderdaCruz
+2017-11-08 21:02:09 Friends  : 97.9% at 58/sec for LondonBuildExpo
+2017-11-08 21:02:31 Tweets   : 99.8% at 51/sec for soniacesteros89
+2017-11-08 21:02:33 Friends  : 99.6% at 57/sec for politicshome
+2017-11-08 21:02:40 Tweets   : 100% at 19/sec for Stu_mdfosb
+2017-11-08 21:03:06 Friends  : 99.8% at 59/sec for PrincesRegen
+2017-11-08 21:03:14 Tweets   : 99.7% at 54/sec for sustainawill
+2017-11-08 21:03:21 Tweets   : 100% at 8/sec for Swann_Edwards
+2017-11-08 21:03:38 Tweets   : 99.9% at 41/sec for tenonpartners
+2017-11-08 21:04:12 Tweets   : 99.9% at 52/sec for ukheatpolicy
+2017-11-08 21:04:21 Tweets   : 99.1% at 14/sec for osmosisconsult
+2017-11-08 21:05:07 Tweets   : 99.6% at 60/sec for parityprojects
+2017-11-08 21:05:44 Friends  : 99.8% at 54/sec for SadiqKhan
+2017-11-08 21:06:11 Friends  : 97.6% at 61/sec for TAForum
+2017-11-08 21:06:25 Friends  : 99.9% at 54/sec for TheLondonEye
+2017-11-08 21:06:25 Friends  : Waiting for 3.1 minutes
+2017-11-08 21:08:31 Favorites: 65.3% at 0/sec for TheLondonEye
+2017-11-08 21:08:44 Favorites: 54.4% at 52/sec for Beyondpassive
+2017-11-08 21:08:50 Favorites: 68.5% at 51/sec for BroadlandDC
+2017-11-08 21:08:55 Favorites: 61.5% at 57/sec for CHP_estates
+2017-11-08 21:08:59 Favorites: 75.5% at 53/sec for clrandrewcooper
+2017-11-08 21:08:59 Favorites: 100% at 5/sec for CMcohousing
+2017-11-08 21:09:03 Favorites: 55.3% at 56/sec for CroftFarmConst
+2017-11-08 21:09:09 Favorites: 50.7% at 54/sec for Cygnumtf
+2017-11-08 21:09:14 Favorites: 53.8% at 53/sec for duarteperez
+2017-11-08 21:09:16 Favorites: 83.3% at 57/sec for garethselby
+2017-11-08 21:09:17 Favorites: 98.7% at 56/sec for GBSWindowsDoors
+2017-11-08 21:09:21 Favorites: 53.5% at 59/sec for IdealcombiUK
+2017-11-08 21:09:22 Favorites: 56.5% at 56/sec for IxionDev
+2017-11-08 21:09:24 Favorites: 65.6% at 56/sec for Kym_Mead
+2017-11-08 21:09:33 Favorites: 56.1% at 55/sec for luederHerms
+2017-11-08 21:09:56 Friends  : 99.1% at 5/sec for Beyondpassive
+2017-11-08 21:10:01 Favorites: 51.5% at 53/sec for MalcsT
+2017-11-08 21:10:05 Favorites: 58.7% at 55/sec for NIBEEnergy
+2017-11-08 21:10:09 Friends  : 98.1% at 58/sec for BroadlandDC
+2017-11-08 21:10:27 Favorites: 49.5% at 54/sec for nickdevlin_Fab
+2017-11-08 21:10:44 Favorites: Waiting for 12.7 minutes due to : Used up allowance in a loop
+2017-11-08 21:10:53 Friends  : 99.2% at 56/sec for CHP_estates
+2017-11-08 21:11:12 Friends  : 98.2% at 55/sec for clrandrewcooper
+2017-11-08 21:11:26 Friends  : 98.7% at 54/sec for CMcohousing
+2017-11-08 21:11:27 Friends  : 93.8% at 35/sec for CroftFarmConst
+Error in twInterfaceObj$doAPICall(paste("users", "show", sep = "/"), params = params,  : 
+  Not Found (HTTP 404).
+In addition: Warning message:
+package 'twitteR' was built under R version 3.4.1 
+2017-11-08 21:11:28 Friends: Unable to find account Cygnumtf moving to next
+2017-11-08 21:11:28 Friends  : % at /sec for Cygnumtf
+2017-11-08 21:11:38 Friends  : 97.5% at 50/sec for duarteperez
+2017-11-08 21:11:42 Friends  : 99.3% at 40/sec for garethselby
+2017-11-08 21:12:04 Friends  : 99.7% at 61/sec for GBSWindowsDoors
+2017-11-08 21:12:23 Friends  : 98.6% at 55/sec for IdealcombiUK
+2017-11-08 21:12:26 Friends  : 99.1% at 39/sec for IxionDev
+2017-11-08 21:12:30 Friends  : 100% at 45/sec for Kym_Mead
+2017-11-08 21:12:48 Friends  : 94.4% at 57/sec for luederHerms
+2017-11-08 21:13:05 Friends  : 95.3% at 57/sec for MalcsT
+2017-11-08 21:13:28 Friends  : 98.1% at 56/sec for NIBEEnergy
+2017-11-08 21:13:35 Friends  : 99.5% at 56/sec for nickdevlin_Fab
+2017-11-08 21:13:42 Friends  : 98.6% at 53/sec for OliverProgetic
+2017-11-08 21:13:52 Friends  : 99.1% at 55/sec for phi_architects
+2017-11-08 21:14:01 Friends  : 100% at 53/sec for SjolanderdaCruz
+2017-11-08 21:14:09 Friends  : 94.4% at 49/sec for soniacesteros89
+2017-11-08 21:14:10 Friends  : Waiting for 12.3 minutes
+2017-11-08 21:23:52 Favorites: 50.3% at 1/sec for OliverProgetic
+2017-11-08 21:23:54 Favorites: 98.7% at 48/sec for phi_architects
+2017-11-08 21:23:55 Favorites: 50.3% at 57/sec for SjolanderdaCruz
+2017-11-08 21:23:56 Favorites: 100% at 48/sec for soniacesteros89
+2017-11-08 21:23:58 Favorites: 100% at 49/sec for Stu_mdfosb
+2017-11-08 21:24:05 Favorites: 55.4% at 60/sec for sustainawill
+2017-11-08 21:24:06 Favorites: 100% at 42/sec for Swann_Edwards
+2017-11-08 21:24:16 Favorites: 51.5% at 55/sec for tenonpartners
+2017-11-08 21:24:20 Favorites: 79.9% at 56/sec for ukheatpolicy
+2017-11-08 21:24:21 Favorites: 97.3% at 36/sec for osmosisconsult
+2017-11-08 21:24:24 Favorites: 51.7% at 56/sec for parityprojects
+Error in twInterfaceObj$doAPICall(paste("users", "show", sep = "/"), params = params,  : 
+  Not Found (HTTP 404).
+2017-11-08 21:26:51 Friends: Unable to find account Stu_mdfosb moving to next
+2017-11-08 21:26:51 Friends  : % at /sec for Stu_mdfosb
+2017-11-08 21:27:27 Friends  : 99.5% at 54/sec for sustainawill
+2017-11-08 21:27:33 Friends  : 98.6% at 59/sec for Swann_Edwards
+2017-11-08 21:27:44 Friends  : 96.1% at 62/sec for tenonpartners
+2017-11-08 21:27:55 Friends  : 98.4% at 54/sec for ukheatpolicy
+Error in twInterfaceObj$doAPICall(paste("users", "show", sep = "/"), params = params,  : 
+  Not Found (HTTP 404).
+2017-11-08 21:27:55 Friends: Unable to find account osmosisconsult moving to next
+2017-11-08 21:27:55 Friends  : % at /sec for osmosisconsult
+2017-11-08 21:28:50 Friends  : 99.3% at 56/sec for parityprojects
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+Warning message:
+package 'twitteR' was built under R version 3.4.1 

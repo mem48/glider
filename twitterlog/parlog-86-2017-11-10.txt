@@ -1,0 +1,171 @@
+starting worker pid=21252 on localhost:11045 at 00:13:56.630
+starting worker pid=15716 on localhost:11045 at 00:13:56.797
+starting worker pid=7280 on localhost:11045 at 00:13:56.947
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-10 00:15:34 Favorites: 53.1% at 35/sec for cathy_magenta
+2017-11-10 00:15:40 Favorites: 56.1% at 39/sec for CBREHongKong
+2017-11-10 00:15:42 Favorites: 83.9% at 43/sec for chimni
+2017-11-10 00:15:45 Friends  : 98.5% at 40/sec for cathy_magenta
+2017-11-10 00:15:47 Favorites: 56.1% at 36/sec for chocmediatv
+2017-11-10 00:15:58 Favorites: 63.8% at 39/sec for CTDConsult
+2017-11-10 00:16:00 Friends  : 99.8% at 43/sec for CBREHongKong
+2017-11-10 00:16:10 Friends  : 96.7% at 42/sec for chimni
+2017-11-10 00:16:13 Friends  : 100% at 32/sec for chocmediatv
+2017-11-10 00:16:15 Favorites: 52.9% at 39/sec for CushWakeUK
+2017-11-10 00:16:17 Favorites: 100% at 39/sec for CushWakeVAL
+2017-11-10 00:16:29 Friends  : 96.7% at 43/sec for CTDConsult
+2017-11-10 00:16:31 Favorites: 7.2% at 37/sec for dan_c_cook
+2017-11-10 00:16:43 Favorites: 61.3% at 34/sec for dannotman
+2017-11-10 00:16:48 Favorites: 90.9% at 37/sec for DanTapscott
+2017-11-10 00:16:53 Tweets   : 48.6% at 49/sec for cathy_magenta
+2017-11-10 00:16:58 Favorites: 62.2% at 41/sec for DayleBayliss
+2017-11-10 00:17:04 Favorites: 71.5% at 44/sec for debijrowland
+2017-11-10 00:17:12 Friends  : 99.2% at 46/sec for CushWakeUK
+2017-11-10 00:17:15 Favorites: 51% at 39/sec for dwightxavier
+2017-11-10 00:17:17 Friends  : 99.4% at 36/sec for CushWakeVAL
+2017-11-10 00:17:18 Favorites: 91.7% at 32/sec for EastonBevinsLtd
+2017-11-10 00:17:25 Favorites: Waiting for 9.2 minutes due to : Used up allowance in a loop
+2017-11-10 00:17:56 Tweets   : 87.3% at 51/sec for CBREHongKong
+2017-11-10 00:18:05 Friends  : 98.8% at 48/sec for dan_c_cook
+2017-11-10 00:18:14 Friends  : 96.2% at 39/sec for dannotman
+2017-11-10 00:18:18 Tweets   : 99.9% at 41/sec for chimni
+2017-11-10 00:18:28 Friends  : 97.8% at 46/sec for DanTapscott
+2017-11-10 00:18:56 Tweets   : 98.4% at 49/sec for chocmediatv
+2017-11-10 00:19:05 Friends  : 99.8% at 43/sec for DayleBayliss
+2017-11-10 00:19:07 Friends  : 3.5% at 11/sec for debijrowland
+2017-11-10 00:19:11 Tweets   : 100% at 35/sec for CTDConsult
+2017-11-10 00:19:20 Friends  : 99.1% at 42/sec for dwightxavier
+2017-11-10 00:19:34 Friends  : 96.2% at 39/sec for EastonBevinsLtd
+2017-11-10 00:20:14 Friends  : 98.4% at 40/sec for edwinbartlett
+2017-11-10 00:20:15 Friends  : Waiting for 9.4 minutes
+2017-11-10 00:20:17 Tweets   : 38.6% at 48/sec for CushWakeUK
+2017-11-10 00:20:44 Tweets   : 99.9% at 40/sec for CushWakeVAL
+2017-11-10 00:22:00 Tweets   : 32.3% at 42/sec for dan_c_cook
+2017-11-10 00:22:12 Tweets   : 99.7% at 28/sec for dannotman
+2017-11-10 00:22:25 Tweets   : 99.4% at 28/sec for DanTapscott
+2017-11-10 00:23:19 Tweets   : 99.9% at 54/sec for DayleBayliss
+2017-11-10 00:24:04 Tweets   : 99.6% at 45/sec for debijrowland
+2017-11-10 00:24:40 Tweets   : 99.6% at 42/sec for dwightxavier
+2017-11-10 00:24:55 Tweets   : 100% at 31/sec for EastonBevinsLtd
+2017-11-10 00:25:28 Tweets   : 99.2% at 39/sec for edwinbartlett
+2017-11-10 00:26:40 Tweets   : 15% at 45/sec for ElinaGrigoriou
+2017-11-10 00:26:59 Tweets   : 98.8% at 39/sec for fesmanfaisal
+2017-11-10 00:27:53 Favorites: 33.1% at 5/sec for edwinbartlett
+2017-11-10 00:28:04 Tweets   : 27.5% at 50/sec for Fixflo
+2017-11-10 00:28:19 Tweets   : 100% at 32/sec for ForestPennant
+2017-11-10 00:28:31 Tweets   : 100% at 23/sec for GaryRStrong
+2017-11-10 00:29:13 Favorites: 15.1% at 41/sec for ElinaGrigoriou
+2017-11-10 00:29:16 Favorites: 61.9% at 36/sec for fesmanfaisal
+2017-11-10 00:29:40 Tweets   : 67.9% at 46/sec for genderbuzz
+2017-11-10 00:29:45 Favorites: Waiting for 12 minutes due to : Used up allowance in a loop
+2017-11-10 00:30:14 Tweets   : 99.9% at 38/sec for GeodRuth
+2017-11-10 00:30:22 Friends  : 99.1% at 2/sec for ElinaGrigoriou
+2017-11-10 00:30:27 Friends  : 96.1% at 39/sec for fesmanfaisal
+2017-11-10 00:31:16 Tweets   : 84.4% at 52/sec for GeorgeFWhite
+2017-11-10 00:31:38 Tweets   : 99.9% at 39/sec for GeoSLAMLtd
+2017-11-10 00:31:50 Tweets   : 99.4% at 27/sec for HardiesProperty
+2017-11-10 00:32:02 Tweets   : 99.7% at 30/sec for helen__kings
+2017-11-10 00:32:36 Friends  : 97.3% at 44/sec for Fixflo
+2017-11-10 00:32:55 Friends  : 99.8% at 41/sec for ForestPennant
+2017-11-10 00:33:02 Friends  : 100% at 36/sec for GaryRStrong
+2017-11-10 00:33:06 Tweets   : 26.4% at 50/sec for iammobilebob
+2017-11-10 00:33:15 Friends  : 97.4% at 43/sec for genderbuzz
+2017-11-10 00:33:17 Friends  : 100% at 13/sec for GeodRuth
+2017-11-10 00:33:29 Tweets   : 99.9% at 39/sec for ifmckee
+2017-11-10 00:33:50 Friends  : 99.6% at 40/sec for GeorgeFWhite
+2017-11-10 00:34:12 Tweets   : 99.9% at 45/sec for IRT_SURVEYS
+2017-11-10 00:34:39 Friends  : 97.6% at 40/sec for GeoSLAMLtd
+2017-11-10 00:34:46 Friends  : 98.6% at 43/sec for HardiesProperty
+2017-11-10 00:35:00 Friends  : 98.5% at 47/sec for helen__kings
+2017-11-10 00:35:03 Tweets   : 99.6% at 43/sec for jc4southsuffolk
+2017-11-10 00:36:05 Tweets   : 16.4% at 51/sec for jimnoakes
+2017-11-10 00:36:14 Friends  : 98.7% at 44/sec for iammobilebob
+2017-11-10 00:36:20 Tweets   : 99.8% at 32/sec for johnadamsonBS
+2017-11-10 00:36:24 Friends  : 99.5% at 40/sec for ifmckee
+2017-11-10 00:37:03 Friends  : 100% at 39/sec for IRT_SURVEYS
+2017-11-10 00:37:04 Friends  : Waiting for 7.8 minutes
+2017-11-10 00:37:27 Tweets   : 49.2% at 48/sec for Josh_Artus
+2017-11-10 00:37:43 Tweets   : 100% at 31/sec for JudithGabler
+2017-11-10 00:37:50 Tweets   : 100% at 10/sec for KayMudd
+2017-11-10 00:38:22 Tweets   : 99.9% at 41/sec for LandagentX
+2017-11-10 00:39:32 Tweets   : 63.5% at 45/sec for Lea_Hough
+2017-11-10 00:40:00 Tweets   : 99.8% at 48/sec for Leesman_Index
+2017-11-10 00:40:09 Tweets   : 100% at 20/sec for LyndaJubb
+2017-11-10 00:41:18 Tweets   : 15.1% at 46/sec for LynnRoseberry
+2017-11-10 00:42:02 Tweets   : 100% at 46/sec for MacConvilles
+2017-11-10 00:42:23 Favorites: 50.5% at 3/sec for Fixflo
+2017-11-10 00:42:28 Favorites: 75% at 40/sec for ForestPennant
+2017-11-10 00:42:30 Favorites: 56.2% at 48/sec for GaryRStrong
+2017-11-10 00:43:05 Tweets   : 99.9% at 41/sec for MJSimpson58
+2017-11-10 00:43:29 Favorites: 51% at 40/sec for genderbuzz
+2017-11-10 00:43:44 Favorites: 58.2% at 40/sec for GeodRuth
+2017-11-10 00:43:52 Favorites: 68.4% at 37/sec for GeorgeFWhite
+2017-11-10 00:44:05 Favorites: 60.3% at 39/sec for GeoSLAMLtd
+2017-11-10 00:44:09 Favorites: 54.8% at 42/sec for HardiesProperty
+2017-11-10 00:44:12 Tweets   : 81.9% at 48/sec for Moneypenny
+2017-11-10 00:44:17 Favorites: 68.1% at 39/sec for helen__kings
+2017-11-10 00:44:59 Favorites: Waiting for 11.9 minutes due to : Used up allowance in a loop
+2017-11-10 00:45:19 Tweets   : 50.7% at 48/sec for NationalTrustNI
+2017-11-10 00:45:27 Friends  : 99.2% at 2/sec for jc4southsuffolk
+2017-11-10 00:45:39 Tweets   : 99.7% at 35/sec for niallmilner
+2017-11-10 00:45:48 Tweets   : 100% at 21/sec for NWalesSurveyors
+2017-11-10 00:46:23 Tweets   : 99.5% at 38/sec for olliesaunders1
+2017-11-10 00:46:38 Friends  : 98.6% at 40/sec for jimnoakes
+2017-11-10 00:46:49 Friends  : 96.8% at 47/sec for johnadamsonBS
+2017-11-10 00:47:03 Friends  : 98.6% at 41/sec for Josh_Artus
+2017-11-10 00:47:09 Friends  : 94.6% at 42/sec for JudithGabler
+2017-11-10 00:47:11 Friends  : 100% at 36/sec for KayMudd
+2017-11-10 00:47:16 Friends  : 96.8% at 38/sec for LandagentX
+2017-11-10 00:47:34 Tweets   : 24.7% at 45/sec for patsyhutchings2
+2017-11-10 00:48:24 Tweets   : 99.9% at 42/sec for paulmorrish46
+2017-11-10 00:48:50 Friends  : 98.7% at 40/sec for Lea_Hough
+2017-11-10 00:48:58 Friends  : 99.3% at 35/sec for Leesman_Index
+2017-11-10 00:49:22 Friends  : 97.5% at 37/sec for LyndaJubb
+2017-11-10 00:49:24 Tweets   : 50.4% at 53/sec for PeteFlintMurray
+2017-11-10 00:50:03 Friends  : 99.3% at 39/sec for LynnRoseberry
+2017-11-10 00:50:34 Friends  : 98.8% at 46/sec for MacConvilles
+2017-11-10 00:50:43 Friends  : 98.1% at 42/sec for MJSimpson58
+2017-11-10 00:51:51 Friends  : 98.2% at 47/sec for Moneypenny
+2017-11-10 00:52:44 Friends  : 100% at 41/sec for NationalTrustNI
+2017-11-10 00:52:44 Friends  : Waiting for 7.3 minutes
+2017-11-10 00:57:41 Favorites: 38.4% at 4/sec for iammobilebob
+2017-11-10 00:57:45 Favorites: 55.9% at 50/sec for ifmckee
+2017-11-10 00:57:47 Favorites: 97.3% at 41/sec for IRT_SURVEYS
+2017-11-10 00:57:52 Favorites: 52% at 40/sec for jc4southsuffolk
+2017-11-10 00:59:09 Favorites: 21.6% at 41/sec for jimnoakes
+2017-11-10 00:59:21 Favorites: 56.5% at 41/sec for johnadamsonBS
+2017-11-10 00:59:42 Favorites: 53% at 41/sec for Josh_Artus
+2017-11-10 00:59:47 Favorites: 57.8% at 40/sec for JudithGabler
+2017-11-10 00:59:49 Favorites: 100% at 38/sec for KayMudd
+2017-11-10 00:59:50 Favorites: 100% at 49/sec for LandagentX
+2017-11-10 00:59:57 Favorites: Waiting for 12.1 minutes due to : Used up allowance in a loop
+2017-11-10 01:00:16 Friends  : 98.3% at 1/sec for niallmilner
+2017-11-10 01:00:20 Friends  : 96.3% at 37/sec for NWalesSurveyors
+2017-11-10 01:00:34 Friends  : 98.8% at 38/sec for olliesaunders1
+2017-11-10 01:00:52 Friends  : 96.4% at 41/sec for patsyhutchings2
+2017-11-10 01:01:04 Friends  : 99.1% at 38/sec for paulmorrish46
+2017-11-10 01:01:22 Friends  : 99.5% at 35/sec for PeteFlintMurray
+2017-11-10 01:12:31 Favorites: 51.3% at 2/sec for Lea_Hough
+2017-11-10 01:13:48 Favorites: 41% at 40/sec for Leesman_Index
+2017-11-10 01:13:49 Favorites: 100% at 20/sec for LyndaJubb
+2017-11-10 01:14:59 Favorites: Waiting for 12.1 minutes due to : Used up allowance in a loop
+2017-11-10 01:27:15 Favorites: 8.7% at 4/sec for LynnRoseberry
+2017-11-10 01:27:32 Favorites: 50.7% at 40/sec for MacConvilles
+2017-11-10 01:28:37 Favorites: 50% at 41/sec for MJSimpson58
+2017-11-10 01:29:26 Favorites: 49.4% at 40/sec for Moneypenny
+2017-11-10 01:30:09 Favorites: Waiting for 12 minutes due to : Used up allowance in a loop
+2017-11-10 01:42:21 Favorites: 50.4% at 3/sec for NationalTrustNI
+2017-11-10 01:42:26 Favorites: 69.2% at 41/sec for niallmilner
+2017-11-10 01:42:28 Favorites: 59.2% at 49/sec for NWalesSurveyors
+2017-11-10 01:42:33 Favorites: 52.7% at 40/sec for olliesaunders1
+2017-11-10 01:43:51 Favorites: 44.7% at 41/sec for patsyhutchings2
+2017-11-10 01:44:05 Favorites: 50% at 42/sec for paulmorrish46
+2017-11-10 01:44:12 Favorites: 69.1% at 40/sec for PeteFlintMurray
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+Warning message:
+package 'twitteR' was built under R version 3.4.1 

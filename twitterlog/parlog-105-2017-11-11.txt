@@ -1,0 +1,168 @@
+starting worker pid=16672 on localhost:11045 at 00:02:37.634
+starting worker pid=14028 on localhost:11045 at 00:02:37.791
+starting worker pid=18816 on localhost:11045 at 00:02:37.963
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-11 00:04:04 Friends  : 98.9% at 36/sec for rosssturley
+2017-11-11 00:04:13 Friends  : 99.1% at 41/sec for wef
+2017-11-11 00:04:13 Friends  : User win_work has a protected account or no Friendss to collect so skipping
+2017-11-11 00:04:48 Favorites: 100% at 2/sec for rosssturley
+2017-11-11 00:05:06 Friends  : 97% at 40/sec for FlynnDS
+2017-11-11 00:05:13 Favorites: 51.8% at 40/sec for wef
+2017-11-11 00:05:13 Favorites: User win_work has a protected account or no Favoritess to collect so skipping
+2017-11-11 00:05:49 Favorites: Waiting for 7.8 minutes due to : Used up allowance in a loop
+2017-11-11 00:06:40 Friends  : 92.8% at 42/sec for hardyaccess
+2017-11-11 00:07:00 Tweets   : 96.6% at 49/sec for rosssturley
+2017-11-11 00:07:24 Friends  : 99.5% at 39/sec for HoustonRoofers
+2017-11-11 00:08:08 Tweets   : 3.2% at 47/sec for wef
+2017-11-11 00:08:08 Tweets   : User win_work has a protected account or no Tweetss to collect so skipping
+2017-11-11 00:08:10 Friends  : 86.4% at 42/sec for idealscaffold
+2017-11-11 00:08:20 Friends  : 95.4% at 38/sec for jmrroofingltd
+2017-11-11 00:08:54 Friends  : 99% at 43/sec for JRCSlate
+2017-11-11 00:08:58 Friends  : 100% at 31/sec for kcooperroofing
+Error in twInterfaceObj$doAPICall(paste("users", "show", sep = "/"), params = params,  : 
+  Not Found (HTTP 404).
+In addition: Warning message:
+package 'twitteR' was built under R version 3.4.1 
+2017-11-11 00:08:58 Friends: Unable to find account manukaroofing moving to next
+2017-11-11 00:08:58 Friends  : % at /sec for manukaroofing
+2017-11-11 00:09:13 Friends  : 96.2% at 36/sec for QFS_Scaffolding
+2017-11-11 00:09:23 Tweets   : 28.6% at 43/sec for FlynnDS
+2017-11-11 00:09:27 Friends  : 100% at 41/sec for RooferLeeds
+2017-11-11 00:10:01 Friends  : 100% at 39/sec for RoofingRR
+2017-11-11 00:10:07 Friends  : 91.5% at 32/sec for Rooflights_Shop
+2017-11-11 00:10:22 Tweets   : 100% at 47/sec for hardyaccess
+2017-11-11 00:10:39 Tweets   : 99.4% at 29/sec for HoustonRoofers
+2017-11-11 00:10:44 Friends  : 99.7% at 41/sec for SouthThamesRoof
+2017-11-11 00:11:01 Friends  : 93% at 35/sec for Wellerscaffold
+2017-11-11 00:11:01 Friends  : Waiting for 7.8 minutes
+2017-11-11 00:11:02 Tweets   : 100% at 41/sec for idealscaffold
+2017-11-11 00:11:14 Tweets   : 99.6% at 23/sec for jmrroofingltd
+2017-11-11 00:11:51 Tweets   : 99.8% at 46/sec for JRCSlate
+2017-11-11 00:12:24 Tweets   : 100% at 45/sec for kcooperroofing
+2017-11-11 00:12:32 Tweets   : 100% at 9/sec for manukaroofing
+2017-11-11 00:13:00 Tweets   : 99.8% at 43/sec for QFS_Scaffolding
+2017-11-11 00:13:21 Tweets   : 100% at 38/sec for RooferLeeds
+2017-11-11 00:14:23 Favorites: 35.9% at 6/sec for FlynnDS
+2017-11-11 00:14:34 Tweets   : 29% at 44/sec for RoofingRR
+2017-11-11 00:14:44 Tweets   : 100% at 13/sec for Rooflights_Shop
+2017-11-11 00:14:44 Favorites: 50% at 44/sec for hardyaccess
+2017-11-11 00:14:45 Favorites: 52% at 68/sec for HoustonRoofers
+2017-11-11 00:15:01 Favorites: 56.6% at 44/sec for idealscaffold
+2017-11-11 00:15:05 Favorites: 73.6% at 50/sec for jmrroofingltd
+2017-11-11 00:15:07 Favorites: 94% at 34/sec for JRCSlate
+2017-11-11 00:15:07 Favorites: 150% at 8/sec for kcooperroofing
+2017-11-11 00:15:08 Favorites: 100% at 45/sec for manukaroofing
+2017-11-11 00:15:19 Favorites: 56.5% at 45/sec for QFS_Scaffolding
+2017-11-11 00:15:20 Favorites: 100% at 43/sec for RooferLeeds
+2017-11-11 00:15:20 Favorites: User RoofingRR has a protected account or no Favoritess to collect so skipping
+2017-11-11 00:15:20 Tweets   : 100% at 39/sec for SouthThamesRoof
+2017-11-11 00:15:21 Favorites: 90.9% at 12/sec for Rooflights_Shop
+2017-11-11 00:15:23 Favorites: 82% at 65/sec for SouthThamesRoof
+2017-11-11 00:15:26 Favorites: 97.8% at 31/sec for Wellerscaffold
+2017-11-11 00:15:29 Tweets   : 100% at 15/sec for Wellerscaffold
+2017-11-11 00:15:30 Favorites: 65.7% at 47/sec for _ConstructUK
+2017-11-11 00:15:31 Favorites: 100% at 40/sec for ACEPolicy
+2017-11-11 00:15:38 Favorites: 63.5% at 44/sec for AlliHayman
+2017-11-11 00:16:25 Favorites: Waiting for 12.4 minutes due to : Used up allowance in a loop
+2017-11-11 00:16:40 Tweets   : 100% at 44/sec for _ConstructUK
+2017-11-11 00:17:45 Tweets   : 79% at 49/sec for ACEPolicy
+2017-11-11 00:19:03 Tweets   : 18.6% at 41/sec for AlliHayman
+2017-11-11 00:20:04 Friends  : 94.5% at 5/sec for _ConstructUK
+2017-11-11 00:20:27 Tweets   : 5.7% at 38/sec for AnnPettifor
+2017-11-11 00:20:33 Friends  : 99.9% at 37/sec for ACEPolicy
+2017-11-11 00:21:02 Friends  : 99.2% at 37/sec for AlliHayman
+2017-11-11 00:21:47 Tweets   : 45% at 40/sec for cibcomms
+2017-11-11 00:22:21 Friends  : 99.1% at 35/sec for AnnPettifor
+2017-11-11 00:22:39 Tweets   : 99.8% at 43/sec for ekbbusiness
+2017-11-11 00:23:03 Friends  : 99.5% at 43/sec for cibcomms
+2017-11-11 00:23:12 Tweets   : 99.6% at 36/sec for Eleanor_Campion
+2017-11-11 00:23:37 Friends  : 99.5% at 40/sec for ekbbusiness
+2017-11-11 00:24:03 Friends  : 99.4% at 41/sec for Eleanor_Campion
+2017-11-11 00:24:22 Tweets   : 39.7% at 45/sec for energyutilities
+2017-11-11 00:25:12 Friends  : 99.5% at 39/sec for energyutilities
+2017-11-11 00:25:19 Tweets   : 99.9% at 38/sec for gary_morton65
+2017-11-11 00:25:58 Friends  : 99.6% at 36/sec for gary_morton65
+2017-11-11 00:26:03 Tweets   : 99.8% at 40/sec for HotWaterAssoc
+2017-11-11 00:26:26 Friends  : 99% at 37/sec for HotWaterAssoc
+2017-11-11 00:26:38 Tweets   : 99.8% at 36/sec for IGLintels
+2017-11-11 00:26:39 Friends  : 99.1% at 32/sec for IGLintels
+2017-11-11 00:27:13 Friends  : 99.4% at 37/sec for info_specific
+2017-11-11 00:27:25 Friends  : 98.8% at 33/sec for Marshalls_Chris
+2017-11-11 00:27:37 Friends  : 99.8% at 35/sec for ReutersJamie
+2017-11-11 00:27:50 Tweets   : 99.5% at 41/sec for info_specific
+2017-11-11 00:27:56 Friends  : 99.8% at 35/sec for RIBAInsight
+2017-11-11 00:27:56 Friends  : Waiting for 6.1 minutes
+2017-11-11 00:28:58 Tweets   : 54.2% at 47/sec for Marshalls_Chris
+2017-11-11 00:29:11 Favorites: 51.3% at 3/sec for AnnPettifor
+2017-11-11 00:29:14 Favorites: 100% at 38/sec for cibcomms
+2017-11-11 00:29:27 Favorites: 51.1% at 37/sec for ekbbusiness
+2017-11-11 00:29:32 Favorites: 56.5% at 38/sec for Eleanor_Campion
+2017-11-11 00:29:56 Favorites: 49.8% at 45/sec for energyutilities
+2017-11-11 00:30:05 Favorites: 51.8% at 45/sec for gary_morton65
+2017-11-11 00:30:11 Favorites: 53% at 37/sec for HotWaterAssoc
+2017-11-11 00:30:11 Favorites: 95.5% at 33/sec for IGLintels
+2017-11-11 00:30:13 Tweets   : 16% at 43/sec for ReutersJamie
+2017-11-11 00:30:26 Favorites: 56.9% at 48/sec for info_specific
+2017-11-11 00:30:51 Favorites: 53.1% at 44/sec for Marshalls_Chris
+2017-11-11 00:30:51 Favorites: User ReutersJamie has a protected account or no Favoritess to collect so skipping
+2017-11-11 00:30:53 Favorites: 75.8% at 40/sec for RIBAInsight
+2017-11-11 00:31:05 Tweets   : 100% at 41/sec for RIBAInsight
+2017-11-11 00:31:07 Favorites: 55.1% at 42/sec for tobylloyd
+2017-11-11 00:31:12 Favorites: 55.3% at 48/sec for Trimble_TeklaUK
+2017-11-11 00:31:35 Favorites: 51.7% at 46/sec for wearespeedy
+2017-11-11 00:31:45 Favorites: 50.2% at 40/sec for World_Cement
+2017-11-11 00:31:57 Favorites: Waiting for 12.2 minutes due to : Used up allowance in a loop
+2017-11-11 00:32:22 Tweets   : 58.8% at 42/sec for tobylloyd
+2017-11-11 00:33:00 Tweets   : 100% at 34/sec for Trimble_TeklaUK
+2017-11-11 00:34:04 Tweets   : 26.9% at 50/sec for wearespeedy
+2017-11-11 00:34:48 Friends  : 99.4% at 3/sec for tobylloyd
+2017-11-11 00:34:59 Friends  : 98.3% at 32/sec for Trimble_TeklaUK
+2017-11-11 00:35:12 Tweets   : 16.6% at 47/sec for World_Cement
+2017-11-11 00:36:27 Tweets   : 73.4% at 43/sec for BASIS_org
+2017-11-11 00:36:47 Friends  : 100% at 39/sec for wearespeedy
+2017-11-11 00:37:10 Friends  : 99.9% at 41/sec for World_Cement
+2017-11-11 00:37:38 Tweets   : 99.9% at 45/sec for BSenna
+2017-11-11 00:37:41 Friends  : 99.4% at 40/sec for BASIS_org
+2017-11-11 00:37:47 Friends  : 100% at 33/sec for BSenna
+2017-11-11 00:37:57 Friends  : 100% at 40/sec for CFigueres
+2017-11-11 00:38:59 Tweets   : 50.2% at 39/sec for CFigueres
+2017-11-11 00:40:12 Tweets   : 25% at 43/sec for CntrClimSec
+2017-11-11 00:41:24 Friends  : 97.8% at 36/sec for CntrClimSec
+2017-11-11 00:41:28 Tweets   : 63.1% at 42/sec for CopperConsult
+2017-11-11 00:42:05 Friends  : 99.9% at 45/sec for CopperConsult
+2017-11-11 00:42:13 Friends  : 100% at 27/sec for DPMoffice
+2017-11-11 00:42:25 Tweets   : 100% at 43/sec for DPMoffice
+2017-11-11 00:42:37 Friends  : 99.8% at 49/sec for FCOClimate
+2017-11-11 00:42:58 Friends  : 99.5% at 49/sec for GeorgeFergusonx
+2017-11-11 00:43:26 Friends  : 99.1% at 45/sec for JimDensham
+2017-11-11 00:43:33 Tweets   : 99.8% at 40/sec for FCOClimate
+2017-11-11 00:43:48 Friends  : 99.4% at 45/sec for JoeFranses
+2017-11-11 00:43:49 Friends  : Waiting for 5.5 minutes
+2017-11-11 00:44:31 Favorites: 52% at 1/sec for BASIS_org
+2017-11-11 00:44:47 Favorites: 53.7% at 41/sec for BSenna
+2017-11-11 00:44:51 Favorites: 76.4% at 46/sec for CFigueres
+2017-11-11 00:44:55 Tweets   : 14.8% at 39/sec for GeorgeFergusonx
+2017-11-11 00:44:58 Favorites: 61.1% at 43/sec for CntrClimSec
+2017-11-11 00:45:01 Favorites: 52.9% at 40/sec for CopperConsult
+2017-11-11 00:45:02 Favorites: 74.1% at 64/sec for DPMoffice
+2017-11-11 00:45:07 Favorites: 77% at 39/sec for FCOClimate
+2017-11-11 00:46:13 Tweets   : 22.6% at 41/sec for JimDensham
+2017-11-11 00:46:23 Favorites: 43.3% at 43/sec for GeorgeFergusonx
+2017-11-11 00:46:27 Favorites: 55.5% at 47/sec for JimDensham
+2017-11-11 00:46:28 Favorites: 95.7% at 36/sec for JoeFranses
+2017-11-11 00:46:28 Favorites: User JohnLoughhead1 has a protected account or no Favoritess to collect so skipping
+2017-11-11 00:46:42 Tweets   : 99.9% at 40/sec for JoeFranses
+2017-11-11 00:46:49 Tweets   : 100% at 2/sec for JohnLoughhead1
+2017-11-11 00:47:03 Favorites: 52.2% at 42/sec for LDN_environment
+2017-11-11 00:47:05 Favorites: 100% at 21/sec for lorddeben
+2017-11-11 00:48:03 Tweets   : 61.7% at 43/sec for LDN_environment
+2017-11-11 00:49:22 Tweets   : 27% at 40/sec for lorddeben
+2017-11-11 00:49:27 Friends  : 100% at 0/sec for JohnLoughhead1
+2017-11-11 00:49:51 Friends  : 98.8% at 49/sec for LDN_environment
+2017-11-11 00:50:02 Friends  : 98.7% at 45/sec for lorddeben
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+Warning message:
+package 'twitteR' was built under R version 3.4.1 

@@ -1,0 +1,167 @@
+starting worker pid=15708 on localhost:11045 at 22:22:01.635
+starting worker pid=19524 on localhost:11045 at 22:22:01.879
+starting worker pid=19020 on localhost:11045 at 22:22:02.051
+[1] "Using direct authentication" "Using direct authentication" "Using direct authentication"
+2017-11-11 22:23:45 Friends  : 99.6% at 29/sec for BIMQS
+2017-11-11 22:23:56 Friends  : 100% at 33/sec for blackgull
+2017-11-11 22:24:08 Friends  : 98.8% at 36/sec for Blane_RICS
+2017-11-11 22:24:34 Friends  : 98.9% at 38/sec for bondbryanBIM
+2017-11-11 22:24:45 Favorites: 100% at 41/sec for BIMQS
+2017-11-11 22:24:51 Friends  : 99.8% at 27/sec for bradleymasonllp
+2017-11-11 22:24:55 Favorites: 70.4% at 29/sec for blackgull
+2017-11-11 22:25:04 Favorites: 96.1% at 23/sec for Blane_RICS
+2017-11-11 22:25:04 Favorites: Waiting for 6 minutes due to : Used up allowance in a loop
+2017-11-11 22:25:59 Friends  : 99.1% at 38/sec for BraemarPM
+2017-11-11 22:26:13 Friends  : 98.7% at 35/sec for BTYGroup
+2017-11-11 22:26:23 Tweets   : 98.4% at 20/sec for BIMQS
+2017-11-11 22:26:31 Friends  : 97.3% at 35/sec for BuiltByBoth
+2017-11-11 22:26:37 Friends  : 99.5% at 31/sec for bValued_Ltd
+2017-11-11 22:27:10 Friends  : 99.3% at 37/sec for CarterJonas
+2017-11-11 22:27:31 Tweets   : 15.8% at 47/sec for blackgull
+2017-11-11 22:27:38 Tweets   : 100% at 11/sec for Blane_RICS
+2017-11-11 22:28:41 Tweets   : 14.7% at 50/sec for bondbryanBIM
+2017-11-11 22:28:46 Friends  : 98.8% at 33/sec for CaseyRutland
+2017-11-11 22:28:59 Tweets   : 100% at 34/sec for bradleymasonllp
+2017-11-11 22:29:00 Friends  : 99.5% at 30/sec for ccsaurus
+2017-11-11 22:29:13 Friends  : 99.4% at 27/sec for CEMAR_UK
+2017-11-11 22:29:39 Friends  : 99.8% at 32/sec for chmplln
+2017-11-11 22:30:06 Tweets   : 51.6% at 48/sec for BraemarPM
+2017-11-11 22:30:14 Friends  : 97.9% at 34/sec for CJ_Oxford
+2017-11-11 22:30:14 Friends  : Waiting for 8.2 minutes
+2017-11-11 22:30:28 Tweets   : 99.9% at 42/sec for BTYGroup
+2017-11-11 22:30:46 Tweets   : 100% at 33/sec for BuiltByBoth
+2017-11-11 22:31:10 Tweets   : 100% at 47/sec for bValued_Ltd
+2017-11-11 22:31:57 Tweets   : 100% at 46/sec for CarterJonas
+2017-11-11 22:32:33 Favorites: 26.8% at 7/sec for bondbryanBIM
+2017-11-11 22:32:33 Favorites: 100% at 9/sec for bradleymasonllp
+2017-11-11 22:32:52 Favorites: 56.6% at 31/sec for BraemarPM
+2017-11-11 22:32:55 Favorites: 66.2% at 32/sec for BTYGroup
+2017-11-11 22:33:03 Tweets   : 15.1% at 49/sec for CaseyRutland
+2017-11-11 22:33:07 Favorites: 61.2% at 41/sec for BuiltByBoth
+2017-11-11 22:33:08 Favorites: 100% at 15/sec for bValued_Ltd
+2017-11-11 22:33:19 Favorites: 49.9% at 36/sec for CarterJonas
+2017-11-11 22:33:32 Tweets   : 99.9% at 42/sec for ccsaurus
+2017-11-11 22:33:42 Tweets   : 100% at 19/sec for CEMAR_UK
+2017-11-11 22:34:18 Favorites: Waiting for 11.9 minutes due to : Used up allowance in a loop
+2017-11-11 22:34:28 Tweets   : 100% at 47/sec for chmplln
+2017-11-11 22:34:51 Tweets   : 100% at 40/sec for CJ_Oxford
+2017-11-11 22:34:58 Tweets   : 100% at 7/sec for clarebray2010
+2017-11-11 22:35:25 Tweets   : 99.9% at 39/sec for Crewedavid
+2017-11-11 22:35:39 Tweets   : 100% at 26/sec for dailysurveyor
+2017-11-11 22:36:11 Tweets   : 100% at 44/sec for DannyFMJ1
+2017-11-11 22:36:39 Tweets   : 99.9% at 46/sec for daveaitman
+2017-11-11 22:37:15 Tweets   : 99.9% at 44/sec for DavidAllenAssoc
+2017-11-11 22:38:20 Tweets   : 47.7% at 49/sec for DeirdreNiF
+2017-11-11 22:38:30 Tweets   : 97.4% at 15/sec for deronke1
+2017-11-11 22:38:45 Friends  : 98.4% at 0/sec for clarebray2010
+2017-11-11 22:38:51 Friends  : 95.5% at 36/sec for Crewedavid
+2017-11-11 22:39:00 Tweets   : 99.9% at 44/sec for dmhallLLP
+2017-11-11 22:39:02 Friends  : 98.8% at 48/sec for dailysurveyor
+2017-11-11 22:39:37 Friends  : 96.8% at 44/sec for DannyFMJ1
+2017-11-11 22:39:48 Friends  : 97.6% at 46/sec for daveaitman
+2017-11-11 22:39:59 Friends  : 99.2% at 47/sec for DavidAllenAssoc
+2017-11-11 22:40:07 Tweets   : 29.7% at 48/sec for DMP_Surveying
+2017-11-11 22:40:24 Tweets   : 99.8% at 32/sec for DoigandSmith
+2017-11-11 22:40:35 Tweets   : 99.5% at 32/sec for DoveDavies
+2017-11-11 22:40:49 Friends  : 98.6% at 45/sec for DeirdreNiF
+2017-11-11 22:40:53 Friends  : 100% at 30/sec for deronke1
+2017-11-11 22:41:13 Friends  : 98.5% at 45/sec for dmhallLLP
+2017-11-11 22:41:21 Tweets   : 99.5% at 47/sec for drwatson76
+2017-11-11 22:41:31 Tweets   : 100% at 16/sec for E_Nichol123
+2017-11-11 22:41:52 Friends  : 98.6% at 46/sec for DMP_Surveying
+2017-11-11 22:41:58 Friends  : 98.4% at 42/sec for DoigandSmith
+2017-11-11 22:41:59 Friends  : 98.4% at 40/sec for DoveDavies
+2017-11-11 22:42:24 Friends  : 99.7% at 42/sec for drwatson76
+2017-11-11 22:42:28 Friends  : 98.5% at 19/sec for E_Nichol123
+2017-11-11 22:42:30 Tweets   : 99.9% at 47/sec for E3Consulting
+2017-11-11 22:43:41 Friends  : 98.7% at 45/sec for E3Consulting
+2017-11-11 22:43:42 Friends  : Waiting for 10.1 minutes
+2017-11-11 22:43:44 Tweets   : 42.7% at 43/sec for EballBall
+2017-11-11 22:43:55 Tweets   : 100% at 18/sec for EbourneSurveyor
+2017-11-11 22:44:14 Tweets   : 99.9% at 40/sec for Elizabeth_CPD
+2017-11-11 22:44:47 Tweets   : 100% at 41/sec for ErfanGhP
+2017-11-11 22:45:15 Tweets   : 99.9% at 41/sec for EvansJones
+2017-11-11 22:45:56 Tweets   : 100% at 41/sec for farmandtownlife
+2017-11-11 22:46:31 Tweets   : 100% at 40/sec for Find_a_Surveyor
+2017-11-11 22:46:49 Tweets   : 99.8% at 35/sec for FM_Conference
+2017-11-11 22:46:54 Favorites: 19.6% at 4/sec for CaseyRutland
+2017-11-11 22:46:54 Favorites: 100% at 21/sec for ccsaurus
+2017-11-11 22:46:57 Favorites: 68% at 34/sec for CEMAR_UK
+2017-11-11 22:47:00 Favorites: 57.2% at 33/sec for chmplln
+2017-11-11 22:47:02 Tweets   : 100% at 21/sec for FoDStoneFirms
+2017-11-11 22:47:05 Favorites: 66.1% at 42/sec for CJ_Oxford
+2017-11-11 22:47:08 Favorites: 85.5% at 35/sec for clarebray2010
+2017-11-11 22:47:15 Favorites: 52.7% at 39/sec for Crewedavid
+2017-11-11 22:47:20 Favorites: 51.8% at 44/sec for dailysurveyor
+2017-11-11 22:47:26 Favorites: 81.9% at 32/sec for DannyFMJ1
+2017-11-11 22:47:28 Tweets   : 99.9% at 35/sec for GarethRDavid
+2017-11-11 22:47:30 Favorites: 65.7% at 41/sec for daveaitman
+2017-11-11 22:47:34 Favorites: 57% at 47/sec for DavidAllenAssoc
+2017-11-11 22:48:37 Tweets   : 37.7% at 46/sec for garethzcsocial
+2017-11-11 22:48:51 Tweets   : 99.7% at 29/sec for GCWRetail
+2017-11-11 22:48:58 Favorites: 42.9% at 38/sec for DeirdreNiF
+2017-11-11 22:48:59 Favorites: 100% at 59/sec for deronke1
+2017-11-11 22:49:03 Favorites: 52.5% at 46/sec for dmhallLLP
+2017-11-11 22:49:23 Tweets   : 100% at 49/sec for GenYSurveyor
+2017-11-11 22:49:38 Favorites: Waiting for 11.9 minutes due to : Used up allowance in a loop
+2017-11-11 22:49:39 Tweets   : 100% at 33/sec for giu_carbonari
+2017-11-11 22:49:46 Tweets   : 100% at 7/sec for GJCurtis1
+2017-11-11 22:50:44 Tweets   : 99.8% at 51/sec for gov_procurement
+2017-11-11 22:50:50 Tweets   : 100% at 6/sec for HannahFeddon
+2017-11-11 22:51:04 Tweets   : 99.2% at 29/sec for HayleySmiles
+2017-11-11 22:51:54 Tweets   : 100% at 52/sec for HelloSutherland
+2017-11-11 22:53:00 Tweets   : 19.5% at 48/sec for HenryPryor
+2017-11-11 22:54:56 Friends  : 98.9% at 3/sec for EballBall
+2017-11-11 22:55:05 Friends  : 97.9% at 39/sec for EbourneSurveyor
+2017-11-11 22:55:16 Friends  : 99.4% at 43/sec for Elizabeth_CPD
+2017-11-11 22:55:27 Friends  : 97.8% at 41/sec for ErfanGhP
+2017-11-11 22:55:45 Friends  : 99.3% at 41/sec for EvansJones
+2017-11-11 22:55:54 Friends  : 97.3% at 41/sec for farmandtownlife
+2017-11-11 22:56:11 Friends  : 100% at 44/sec for Find_a_Surveyor
+2017-11-11 22:56:20 Friends  : 99.1% at 36/sec for FM_Conference
+2017-11-11 22:56:28 Friends  : 98.8% at 38/sec for FoDStoneFirms
+2017-11-11 22:56:36 Friends  : 98% at 46/sec for GarethRDavid
+2017-11-11 23:02:35 Favorites: 50.7% at 3/sec for DMP_Surveying
+2017-11-11 23:02:39 Favorites: 98.9% at 29/sec for DoigandSmith
+2017-11-11 23:02:40 Favorites: 100% at 51/sec for DoveDavies
+2017-11-11 23:03:07 Favorites: 52.4% at 36/sec for drwatson76
+2017-11-11 23:03:10 Favorites: 64.9% at 30/sec for E_Nichol123
+2017-11-11 23:03:15 Favorites: 52.2% at 42/sec for E3Consulting
+2017-11-11 23:04:05 Favorites: 49.9% at 37/sec for EballBall
+2017-11-11 23:04:05 Favorites: 100% at 17/sec for EbourneSurveyor
+2017-11-11 23:04:09 Favorites: 55.2% at 30/sec for Elizabeth_CPD
+2017-11-11 23:04:12 Favorites: 56.8% at 28/sec for ErfanGhP
+2017-11-11 23:04:14 Favorites: 71.9% at 74/sec for EvansJones
+2017-11-11 23:04:23 Friends  : 96.7% at 44/sec for garethzcsocial
+2017-11-11 23:04:24 Friends  : Waiting for 4.7 minutes
+2017-11-11 23:04:29 Favorites: 56.1% at 37/sec for farmandtownlife
+2017-11-11 23:04:32 Favorites: 100% at 15/sec for Find_a_Surveyor
+2017-11-11 23:04:32 Favorites: 100% at 31/sec for FM_Conference
+2017-11-11 23:04:37 Favorites: 68.4% at 43/sec for FoDStoneFirms
+2017-11-11 23:04:40 Favorites: 92.6% at 35/sec for GarethRDavid
+2017-11-11 23:05:06 Favorites: Waiting for 11.8 minutes due to : Used up allowance in a loop
+2017-11-11 23:09:26 Friends  : 99% at 2/sec for GCWRetail
+2017-11-11 23:10:27 Friends  : 96.2% at 44/sec for GenYSurveyor
+2017-11-11 23:10:32 Friends  : 99.5% at 35/sec for giu_carbonari
+2017-11-11 23:10:36 Friends  : 99.3% at 34/sec for GJCurtis1
+2017-11-11 23:10:42 Friends  : 98.7% at 39/sec for gov_procurement
+2017-11-11 23:10:43 Friends  : 100% at 25/sec for HannahFeddon
+2017-11-11 23:11:02 Friends  : 97.2% at 42/sec for HayleySmiles
+2017-11-11 23:11:10 Friends  : 97.9% at 50/sec for HelloSutherland
+2017-11-11 23:11:23 Friends  : 99% at 38/sec for HenryPryor
+2017-11-11 23:18:09 Favorites: 47.1% at 4/sec for garethzcsocial
+2017-11-11 23:18:11 Favorites: 100% at 20/sec for GCWRetail
+2017-11-11 23:18:23 Favorites: 56.3% at 44/sec for GenYSurveyor
+2017-11-11 23:18:26 Favorites: 100% at 25/sec for giu_carbonari
+2017-11-11 23:18:27 Favorites: 100% at 37/sec for GJCurtis1
+2017-11-11 23:18:29 Favorites: 63.3% at 36/sec for gov_procurement
+2017-11-11 23:18:30 Favorites: 100% at 43/sec for HannahFeddon
+2017-11-11 23:18:33 Favorites: 54.6% at 35/sec for HayleySmiles
+2017-11-11 23:18:52 Favorites: 51.8% at 42/sec for HelloSutherland
+2017-11-11 23:20:05 Favorites: 51% at 40/sec for HenryPryor
+Warning message:
+Warning message:
+was built under R version 3.4.1 
+package 'twitteR' was built under R version 3.4.1 
+Warning message:
+package 'twitteR' was built under R version 3.4.1 

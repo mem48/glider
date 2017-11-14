@@ -1,0 +1,172 @@
+starting worker pid=4260 on localhost:11045 at 05:46:17.073
+starting worker pid=19880 on localhost:11045 at 05:46:17.230
+starting worker pid=16956 on localhost:11045 at 05:46:17.398
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-13 05:48:41 Friends  : 99% at 34/sec for bealers
+2017-11-13 05:49:09 Friends  : 92.4% at 27/sec for bem_services
+2017-11-13 05:49:48 Friends  : 97.6% at 38/sec for BestEnergyTech
+2017-11-13 05:49:54 Friends  : 98.9% at 32/sec for bikerbill40
+2017-11-13 05:49:55 Friends  : 95.2% at 28/sec for bimbricks
+2017-11-13 05:50:15 Friends  : 96.8% at 40/sec for BLELighting1
+2017-11-13 05:50:58 Friends  : 97.7% at 32/sec for BNPPRE_UK
+2017-11-13 05:51:01 Favorites: 54.4% at 27/sec for bealers
+2017-11-13 05:51:02 Favorites: 100% at 40/sec for bem_services
+2017-11-13 05:51:25 Favorites: 54.5% at 35/sec for BestEnergyTech
+2017-11-13 05:52:43 Favorites: 50.7% at 36/sec for bikerbill40
+2017-11-13 05:52:52 Favorites: 56% at 31/sec for bimbricks
+2017-11-13 05:52:53 Favorites: 97.6% at 41/sec for BLELighting1
+2017-11-13 05:53:14 Favorites: 51.4% at 35/sec for BNPPRE_UK
+2017-11-13 05:53:51 Favorites: Waiting for 3 minutes due to : Used up allowance in a loop
+2017-11-13 05:54:09 Tweets   : 32.6% at 37/sec for bealers
+2017-11-13 05:54:13 Friends  : 99% at 35/sec for bragagnimaurizi
+2017-11-13 05:54:22 Tweets   : 100% at 27/sec for bem_services
+2017-11-13 05:54:22 Friends  : 100% at 24/sec for brendanlight
+2017-11-13 05:54:28 Friends  : 100% at 35/sec for BrianMorrisBCM
+2017-11-13 05:55:02 Tweets   : 99.8% at 38/sec for BestEnergyTech
+2017-11-13 05:55:17 Friends  : 95.9% at 35/sec for Brillianto_biz
+2017-11-13 05:55:20 Friends  : 98% at 56/sec for bscservice
+2017-11-13 05:55:50 Friends  : 100% at 31/sec for BuildingLive
+2017-11-13 05:56:09 Friends  : 100% at 34/sec for BuildingsMedia
+2017-11-13 05:56:15 Friends  : 94.3% at 27/sec for BuiltEnvWIT
+2017-11-13 05:56:19 Tweets   : 88.8% at 37/sec for bikerbill40
+2017-11-13 05:56:31 Friends  : 99.2% at 32/sec for burutapen
+2017-11-13 05:56:32 Friends  : Waiting for 7.7 minutes
+2017-11-13 05:56:55 Tweets   : 100% at 38/sec for bimbricks
+2017-11-13 05:57:17 Tweets   : 100% at 36/sec for BLELighting1
+2017-11-13 05:57:43 Favorites: 38.1% at 12/sec for bragagnimaurizi
+2017-11-13 05:57:48 Favorites: 59.9% at 25/sec for brendanlight
+2017-11-13 05:57:48 Favorites: 100% at 42/sec for BrianMorrisBCM
+2017-11-13 05:58:13 Favorites: 51.7% at 27/sec for Brillianto_biz
+2017-11-13 05:58:15 Favorites: 81.8% at 66/sec for bscservice
+2017-11-13 05:58:16 Favorites: 65.8% at 75/sec for BuildingLive
+2017-11-13 05:58:38 Tweets   : 42.5% at 40/sec for BNPPRE_UK
+2017-11-13 05:58:44 Favorites: 51.5% at 35/sec for BuildingsMedia
+2017-11-13 05:58:47 Favorites: 67.1% at 65/sec for BuiltEnvWIT
+2017-11-13 05:59:17 Favorites: 52.7% at 36/sec for burutapen
+2017-11-13 05:59:18 Favorites: 53.2% at 75/sec for cadlineltd
+2017-11-13 06:00:01 Tweets   : 7.1% at 38/sec for bragagnimaurizi
+2017-11-13 06:00:15 Favorites: Waiting for 11.7 minutes due to : Used up allowance in a loop
+2017-11-13 06:00:27 Tweets   : 100% at 33/sec for brendanlight
+2017-11-13 06:00:34 Tweets   : 100% at 22/sec for BrianMorrisBCM
+2017-11-13 06:01:54 Tweets   : 50% at 40/sec for Brillianto_biz
+2017-11-13 06:02:04 Tweets   : 100% at 21/sec for bscservice
+2017-11-13 06:03:23 Tweets   : 35.7% at 41/sec for BuildingLive
+2017-11-13 06:04:44 Tweets   : 38.3% at 40/sec for BuildingsMedia
+2017-11-13 06:04:59 Tweets   : 100% at 19/sec for BuiltEnvWIT
+2017-11-13 06:05:37 Friends  : 98.1% at 4/sec for cadlineltd
+2017-11-13 06:05:37 Friends: Request of 20 exceeds the maximum of 15. Making an attemp
+Waiting will increase the number of results returned
+2017-11-13 06:05:37 Friends  : Waiting for 13.9 minutes
+2017-11-13 06:06:27 Tweets   : 41.4% at 36/sec for burutapen
+2017-11-13 06:07:37 Tweets   : 100% at 38/sec for cadlineltd
+2017-11-13 06:08:52 Tweets   : 6.2% at 43/sec for CECHR_UoD
+2017-11-13 06:08:58 Tweets   : 100% at 10/sec for CIBSE_NE
+2017-11-13 06:09:05 Tweets   : 100% at 12/sec for CIBSE_NI
+2017-11-13 06:09:18 Tweets   : 99.6% at 19/sec for CIBSEIreland
+2017-11-13 06:09:35 Tweets   : 100% at 37/sec for CMBEngineering
+2017-11-13 06:10:57 Tweets   : 60% at 39/sec for ColinMcQuistan
+2017-11-13 06:11:11 Tweets   : 100% at 29/sec for ContinuUPS
+2017-11-13 06:11:18 Tweets   : 100% at 16/sec for CooperHomewood
+2017-11-13 06:12:33 Tweets   : 16.4% at 43/sec for Corbssss
+2017-11-13 06:12:46 Favorites: 8.7% at 4/sec for CECHR_UoD
+2017-11-13 06:12:47 Favorites: 100% at 23/sec for CIBSE_NE
+2017-11-13 06:12:47 Favorites: 100% at 55/sec for CIBSE_NI
+2017-11-13 06:12:48 Tweets   : 100% at 21/sec for covuniece
+2017-11-13 06:12:48 Favorites: 96.7% at 48/sec for CIBSEIreland
+2017-11-13 06:12:53 Favorites: 77.3% at 39/sec for CMBEngineering
+2017-11-13 06:13:26 Favorites: 49.7% at 39/sec for ColinMcQuistan
+2017-11-13 06:13:27 Tweets   : 99.9% at 37/sec for CrowdScreen
+2017-11-13 06:13:30 Favorites: 100% at 22/sec for ContinuUPS
+2017-11-13 06:13:30 Favorites: User CooperHomewood has a protected account or no Favoritess to collect so skipping
+2017-11-13 06:13:35 Favorites: 54.7% at 35/sec for Corbssss
+2017-11-13 06:13:36 Favorites: 63.8% at 69/sec for covuniece
+2017-11-13 06:13:42 Favorites: 82.2% at 34/sec for CrowdScreen
+2017-11-13 06:13:43 Tweets   : 100% at 27/sec for DaikinAppliedUK
+2017-11-13 06:13:44 Favorites: 55.9% at 69/sec for DaikinAppliedUK
+2017-11-13 06:13:50 Favorites: 59.8% at 44/sec for daisybell76
+2017-11-13 06:13:55 Favorites: 95.2% at 23/sec for daoriginalhero
+2017-11-13 06:13:59 Tweets   : 100% at 25/sec for daisybell76
+2017-11-13 06:14:02 Favorites: 73% at 41/sec for DeepGreenBen
+2017-11-13 06:14:06 Favorites: 53.2% at 27/sec for DeepGreenEng
+2017-11-13 06:14:09 Favorites: 57.5% at 61/sec for derry_bs
+2017-11-13 06:14:19 Favorites: 63.2% at 31/sec for DrVSAssoc_Ltd
+2017-11-13 06:14:19 Tweets   : 99.6% at 22/sec for daoriginalhero
+2017-11-13 06:14:20 Favorites: 84.7% at 75/sec for DurapipeUK
+2017-11-13 06:14:21 Favorites: 100% at 30/sec for durkan_joe
+2017-11-13 06:14:32 Tweets   : 100% at 29/sec for DeepGreenBen
+2017-11-13 06:14:47 Tweets   : 100% at 24/sec for DeepGreenEng
+2017-11-13 06:14:57 Favorites: 49.2% at 38/sec for EarthShuttle
+2017-11-13 06:15:13 Tweets   : 100% at 30/sec for derry_bs
+2017-11-13 06:15:20 Favorites: Waiting for 11.9 minutes due to : Used up allowance in a loop
+2017-11-13 06:15:37 Tweets   : 100% at 32/sec for DrVSAssoc_Ltd
+2017-11-13 06:16:09 Tweets   : 100% at 35/sec for DurapipeUK
+2017-11-13 06:16:15 Tweets   : 100% at 3/sec for durkan_joe
+2017-11-13 06:17:36 Tweets   : 99.8% at 37/sec for EarthShuttle
+2017-11-13 06:18:59 Tweets   : 58.6% at 38/sec for ECApaulreeve
+2017-11-13 06:19:43 Tweets   : 99.6% at 38/sec for ecexFM
+2017-11-13 06:20:19 Tweets   : 100% at 38/sec for Ecodesign_srl
+2017-11-13 06:21:33 Tweets   : 91.2% at 43/sec for eliot_light
+2017-11-13 06:22:22 Tweets   : 99.9% at 39/sec for EllenCoombs
+2017-11-13 06:22:53 Tweets   : 100% at 35/sec for EmiratesGBC
+2017-11-13 06:23:07 Tweets   : 100% at 28/sec for EnergiseLtd
+2017-11-13 06:23:34 Tweets   : 99.9% at 36/sec for EnergyActionAUS
+2017-11-13 06:23:40 Tweets   : 97.6% at 7/sec for ESCUK1
+2017-11-13 06:24:34 Tweets   : 99.7% at 39/sec for EuropaComponent
+2017-11-13 06:25:59 Tweets   : 40.5% at 38/sec for FarahNazSustain
+2017-11-13 06:28:29 Favorites: 50.5% at 4/sec for ECApaulreeve
+2017-11-13 06:28:30 Favorites: 97.3% at 47/sec for ecexFM
+2017-11-13 06:28:37 Favorites: 65.1% at 42/sec for Ecodesign_srl
+2017-11-13 06:29:10 Favorites: 49.6% at 39/sec for eliot_light
+2017-11-13 06:30:33 Favorites: 50.6% at 36/sec for EllenCoombs
+2017-11-13 06:30:39 Favorites: 58.4% at 34/sec for EmiratesGBC
+2017-11-13 06:30:40 Favorites: 100% at 13/sec for EnergiseLtd
+2017-11-13 06:30:45 Favorites: 54.4% at 35/sec for EnergyActionAUS
+2017-11-13 06:30:46 Favorites: 97.3% at 49/sec for ESCUK1
+2017-11-13 06:30:48 Favorites: Waiting for 11.8 minutes due to : Used up allowance in a loop
+2017-11-13 06:43:01 Favorites: 59% at 0/sec for EuropaComponent
+2017-11-13 06:43:59 Favorites: 51.3% at 37/sec for FarahNazSustain
+2017-11-13 06:48:45 Friends  : 75.8% at 28/sec for CECHR_UoD
+2017-11-13 06:48:54 Friends  : 100% at 59/sec for CIBSE_NE
+2017-11-13 06:48:58 Friends  : 100% at 20/sec for CIBSE_NI
+2017-11-13 06:49:04 Friends  : 100% at 51/sec for CIBSEIreland
+2017-11-13 06:49:07 Friends  : 94% at 43/sec for CMBEngineering
+2017-11-13 06:49:28 Friends  : 96.9% at 45/sec for ColinMcQuistan
+2017-11-13 06:49:44 Friends  : 99.5% at 40/sec for ContinuUPS
+2017-11-13 06:49:46 Friends  : 98.3% at 31/sec for CooperHomewood
+2017-11-13 06:49:51 Friends  : 98% at 41/sec for Corbssss
+2017-11-13 06:50:02 Friends  : 98.9% at 46/sec for covuniece
+2017-11-13 06:50:04 Friends  : 100% at 38/sec for CrowdScreen
+2017-11-13 06:50:25 Friends  : 99.3% at 43/sec for DaikinAppliedUK
+2017-11-13 06:50:37 Friends  : 98.7% at 43/sec for daisybell76
+2017-11-13 06:50:46 Friends  : 98.8% at 38/sec for daoriginalhero
+2017-11-13 06:50:52 Friends  : 98.4% at 53/sec for DeepGreenBen
+Error in twInterfaceObj$doAPICall(paste("users", "show", sep = "/"), params = params,  : 
+  Not Found (HTTP 404).
+In addition: Warning messages:
+1: package 'twitteR' was built under R version 3.4.1 
+2: In twInterfaceObj$doAPICall(cmd, params, method, ...) :
+  Rate limit encountered & retry limit reached - returning partial results
+2017-11-13 06:50:52 Friends: Unable to find account DeepGreenEng moving to next
+2017-11-13 06:50:52 Friends  : % at /sec for DeepGreenEng
+2017-11-13 06:50:59 Friends  : 97.9% at 30/sec for derry_bs
+2017-11-13 06:50:59 Friends  : Waiting for 12.8 minutes
+2017-11-13 07:04:24 Friends  : 98.9% at 1/sec for DrVSAssoc_Ltd
+2017-11-13 07:04:36 Friends  : 99.3% at 45/sec for DurapipeUK
+2017-11-13 07:04:38 Friends  : 100% at 19/sec for durkan_joe
+2017-11-13 07:05:23 Friends  : 99.7% at 46/sec for EarthShuttle
+2017-11-13 07:05:50 Friends  : 97.4% at 42/sec for ECApaulreeve
+2017-11-13 07:06:16 Friends  : 99.9% at 44/sec for ecexFM
+2017-11-13 07:06:26 Friends  : 99.8% at 42/sec for Ecodesign_srl
+2017-11-13 07:06:49 Friends  : 98% at 42/sec for eliot_light
+2017-11-13 07:07:38 Friends  : 98.3% at 44/sec for EllenCoombs
+2017-11-13 07:07:45 Friends  : 96% at 32/sec for EmiratesGBC
+2017-11-13 07:07:49 Friends  : 100% at 49/sec for EnergiseLtd
+2017-11-13 07:07:54 Friends  : 99.3% at 54/sec for EnergyActionAUS
+2017-11-13 07:07:59 Friends  : 99.1% at 20/sec for ESCUK1
+2017-11-13 07:08:46 Friends  : 99.1% at 44/sec for EuropaComponent
+2017-11-13 07:09:21 Friends  : 99.9% at 47/sec for FarahNazSustain
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+package 'twitteR' was built under R version 3.4.1 

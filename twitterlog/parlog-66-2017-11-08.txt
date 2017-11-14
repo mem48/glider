@@ -1,0 +1,168 @@
+starting worker pid=18936 on localhost:11045 at 23:44:00.300
+starting worker pid=18724 on localhost:11045 at 23:44:00.456
+starting worker pid=5712 on localhost:11045 at 23:44:00.623
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-08 23:44:23 Friends  : 99.2% at 45/sec for GalvinDex
+2017-11-08 23:44:34 Favorites: 55.7% at 45/sec for GalvinDex
+2017-11-08 23:44:40 Favorites: 62.4% at 49/sec for GreenBathNES
+2017-11-08 23:44:48 Favorites: 59.4% at 47/sec for GreenFundRw
+2017-11-08 23:44:49 Favorites: 100% at 36/sec for Kari_b2b
+2017-11-08 23:44:51 Favorites: 70.9% at 44/sec for Naughtster
+2017-11-08 23:44:52 Favorites: 100% at 28/sec for nelsonmojarro
+2017-11-08 23:44:55 Friends  : 97.2% at 49/sec for GreenBathNES
+2017-11-08 23:45:03 Friends  : 98.8% at 43/sec for GreenFundRw
+2017-11-08 23:45:12 Friends  : 99.8% at 44/sec for Kari_b2b
+2017-11-08 23:45:14 Favorites: 48.7% at 44/sec for O2UKThinkBig
+2017-11-08 23:45:14 Favorites: User Paulwhuggins has a protected account or no Favoritess to collect so skipping
+2017-11-08 23:45:16 Favorites: Waiting for 11.7 minutes due to : Used up allowance in a loop
+2017-11-08 23:45:18 Tweets   : 99.8% at 46/sec for GalvinDex
+2017-11-08 23:45:44 Friends  : 99.6% at 47/sec for Naughtster
+2017-11-08 23:45:49 Friends  : 98.4% at 37/sec for nelsonmojarro
+2017-11-08 23:46:04 Tweets   : 100% at 47/sec for GreenBathNES
+2017-11-08 23:46:29 Friends  : 99.8% at 45/sec for O2UKThinkBig
+2017-11-08 23:46:30 Friends  : 100% at 14/sec for Paulwhuggins
+2017-11-08 23:46:45 Tweets   : 100% at 50/sec for GreenFundRw
+2017-11-08 23:47:02 Tweets   : 99.3% at 35/sec for Kari_b2b
+2017-11-08 23:47:13 Friends  : 99.2% at 43/sec for raulpacheco
+2017-11-08 23:47:16 Friends  : 95.7% at 40/sec for reNEWS_Robin
+2017-11-08 23:47:49 Tweets   : 99.9% at 52/sec for Naughtster
+2017-11-08 23:48:11 Tweets   : 99.9% at 37/sec for nelsonmojarro
+2017-11-08 23:49:14 Tweets   : 31.8% at 51/sec for O2UKThinkBig
+2017-11-08 23:49:21 Tweets   : 100% at 2/sec for Paulwhuggins
+2017-11-08 23:50:01 Friends  : 93% at 48/sec for VerizonGreen
+2017-11-08 23:50:28 Tweets   : 1.4% at 48/sec for raulpacheco
+2017-11-08 23:50:32 Friends  : 99.7% at 49/sec for WinterhalterUK
+2017-11-08 23:51:06 Tweets   : 99.9% at 48/sec for reNEWS_Robin
+2017-11-08 23:51:49 Friends  : 99.4% at 50/sec for wykefarms
+2017-11-08 23:52:07 Tweets   : 45.4% at 52/sec for VerizonGreen
+2017-11-08 23:52:18 Friends  : 99.9% at 51/sec for AreaSq
+2017-11-08 23:52:18 Friends  : Waiting for 6.9 minutes
+2017-11-08 23:52:58 Tweets   : 100% at 53/sec for WinterhalterUK
+2017-11-08 23:53:54 Tweets   : 62.7% at 57/sec for wykefarms
+2017-11-08 23:54:52 Tweets   : 61.7% at 55/sec for AreaSq
+2017-11-08 23:55:50 Tweets   : 93.4% at 55/sec for astapmsoftware
+2017-11-08 23:55:59 Tweets   : 100% at 16/sec for AyoAllu
+2017-11-08 23:56:09 Tweets   : 100% at 21/sec for CarolMassay
+2017-11-08 23:57:06 Tweets   : 94.2% at 56/sec for CIOBEastEng
+2017-11-08 23:57:16 Tweets   : 100% at 20/sec for EasybuildUKCON
+2017-11-08 23:57:30 Favorites: 1.2% at 1/sec for raulpacheco
+2017-11-08 23:57:30 Favorites: User reNEWS_Robin has a protected account or no Favoritess to collect so skipping
+2017-11-08 23:58:09 Favorites: 49.5% at 48/sec for VerizonGreen
+2017-11-08 23:58:11 Tweets   : 72.3% at 59/sec for eque2software
+2017-11-08 23:58:21 Favorites: 52.6% at 50/sec for WinterhalterUK
+2017-11-08 23:59:10 Tweets   : 55.2% at 54/sec for fkyh
+2017-11-08 23:59:26 Favorites: 47.5% at 49/sec for wykefarms
+2017-11-08 23:59:31 Tweets   : 99.4% at 46/sec for GerardGraham
+2017-11-08 23:59:32 Favorites: 61.8% at 47/sec for AreaSq
+2017-11-08 23:59:40 Favorites: 52.3% at 51/sec for astapmsoftware
+2017-11-08 23:59:43 Favorites: 82.6% at 44/sec for AyoAllu
+2017-11-08 23:59:47 Favorites: Waiting for 12.5 minutes due to : Used up allowance in a loop
+2017-11-08 23:59:50 Friends  : 99.7% at 3/sec for astapmsoftware
+Error in twInterfaceObj$doAPICall(paste("users", "show", sep = "/"), params = params,  : 
+  Not Found (HTTP 404).
+In addition: Warning message:
+package 'twitteR' was built under R version 3.4.1 
+2017-11-08 23:59:51 Friends: Unable to find account AyoAllu moving to next
+2017-11-08 23:59:51 Friends  : % at /sec for AyoAllu
+2017-11-09 00:00:02 Tweets   : 99.7% at 46/sec for kierconstruct
+2017-11-09 00:00:03 Friends  : 97.6% at 45/sec for CarolMassay
+2017-11-09 00:00:15 Friends  : 99% at 44/sec for CIOBEastEng
+2017-11-09 00:00:32 Friends  : 99.5% at 49/sec for EasybuildUKCON
+2017-11-09 00:01:04 Tweets   : 41.2% at 52/sec for Look_Sharp
+2017-11-09 00:01:13 Tweets   : 99.5% at 19/sec for mikegallagher14
+2017-11-09 00:01:20 Friends  : 95.6% at 53/sec for eque2software
+2017-11-09 00:01:24 Friends  : 100% at 46/sec for fkyh
+2017-11-09 00:01:51 Friends  : 99.3% at 47/sec for GerardGraham
+2017-11-09 00:02:03 Friends  : 98.8% at 47/sec for kierconstruct
+2017-11-09 00:02:19 Friends  : 99.6% at 46/sec for Look_Sharp
+2017-11-09 00:02:20 Tweets   : 13.7% at 48/sec for SaleemAkram
+2017-11-09 00:02:34 Tweets   : 100% at 38/sec for Terry_Watts
+2017-11-09 00:02:42 Friends  : 97.5% at 48/sec for mikegallagher14
+2017-11-09 00:03:03 Tweets   : 99.3% at 49/sec for _NTTL
+2017-11-09 00:03:05 Friends  : 95.8% at 53/sec for SaleemAkram
+2017-11-09 00:03:08 Friends  : 100% at 38/sec for Terry_Watts
+2017-11-09 00:03:10 Friends  : 98.6% at 36/sec for _NTTL
+2017-11-09 00:03:24 Tweets   : 100% at 41/sec for AJWDistribution
+2017-11-09 00:03:34 Friends  : 94.9% at 52/sec for AJWDistribution
+2017-11-09 00:04:25 Tweets   : 7.9% at 53/sec for BBCBreakfast
+2017-11-09 00:04:32 Tweets   : 100% at 2/sec for ctfinsulation
+2017-11-09 00:04:40 Friends  : 99.4% at 49/sec for BBCBreakfast
+2017-11-09 00:04:41 Friends  : Waiting for 9.8 minutes
+2017-11-09 00:05:33 Tweets   : 52.2% at 53/sec for jablite
+2017-11-09 00:05:43 Tweets   : 100% at 25/sec for jablitemidlands
+2017-11-09 00:05:52 Tweets   : 100% at 13/sec for LakeRoofing
+2017-11-09 00:06:09 Tweets   : 99.4% at 41/sec for LeadSheetAssoc
+2017-11-09 00:06:30 Tweets   : 99.8% at 43/sec for MACRCLTD
+2017-11-09 00:07:15 Tweets   : 99.9% at 53/sec for Proteus_UK
+2017-11-09 00:08:09 Tweets   : 73.2% at 59/sec for RalphNBennett
+2017-11-09 00:08:17 Tweets   : 100% at 11/sec for RoofIndAll
+2017-11-09 00:09:14 Tweets   : 98.4% at 56/sec for SelfbuilderHome
+2017-11-09 00:09:32 Tweets   : 99.2% at 42/sec for specialisedroof
+2017-11-09 00:09:45 Tweets   : 99.8% at 35/sec for StormforceRoofs
+2017-11-09 00:09:57 Tweets   : 100% at 27/sec for TorCoatings
+2017-11-09 00:10:17 Tweets   : 99.6% at 38/sec for Ts_and_Bs
+2017-11-09 00:11:16 Tweets   : 11.1% at 54/sec for welovehistory
+2017-11-09 00:12:15 Tweets   : 24.7% at 54/sec for AbundanceInv
+2017-11-09 00:12:41 Favorites: 71.1% at 0/sec for CarolMassay
+2017-11-09 00:12:45 Favorites: 62.1% at 53/sec for CIOBEastEng
+2017-11-09 00:12:47 Favorites: 90.9% at 49/sec for EasybuildUKCON
+2017-11-09 00:12:51 Favorites: 75.9% at 51/sec for eque2software
+2017-11-09 00:12:55 Favorites: 98% at 46/sec for fkyh
+2017-11-09 00:13:07 Favorites: 50.4% at 42/sec for GerardGraham
+2017-11-09 00:13:16 Tweets   : 36.1% at 52/sec for campaigncc
+2017-11-09 00:13:17 Favorites: 57.7% at 48/sec for kierconstruct
+2017-11-09 00:13:37 Favorites: 53% at 49/sec for Look_Sharp
+2017-11-09 00:13:43 Tweets   : 100% at 45/sec for CommonsBEIS
+2017-11-09 00:13:43 Favorites: 72.5% at 49/sec for mikegallagher14
+2017-11-09 00:13:55 Favorites: 51.7% at 52/sec for SaleemAkram
+2017-11-09 00:13:55 Favorites: 100% at 16/sec for Terry_Watts
+2017-11-09 00:13:57 Favorites: 64.1% at 48/sec for _NTTL
+2017-11-09 00:14:02 Favorites: 55% at 42/sec for AJWDistribution
+2017-11-09 00:14:41 Tweets   : 96.6% at 55/sec for DemandEnEq
+2017-11-09 00:14:48 Friends  : 98% at 0/sec for ctfinsulation
+2017-11-09 00:14:59 Favorites: 49% at 47/sec for BBCBreakfast
+2017-11-09 00:14:59 Favorites: 100% at 9/sec for ctfinsulation
+2017-11-09 00:15:05 Favorites: 51.7% at 49/sec for jablite
+2017-11-09 00:15:09 Favorites: 95.7% at 50/sec for jablitemidlands
+2017-11-09 00:15:10 Favorites: 100% at 34/sec for LakeRoofing
+2017-11-09 00:15:11 Favorites: Waiting for 12.5 minutes due to : Used up allowance in a loop
+2017-11-09 00:15:33 Friends  : 99.2% at 53/sec for jablite
+2017-11-09 00:15:36 Friends  : 88.9% at 37/sec for jablitemidlands
+2017-11-09 00:15:39 Friends  : 99.2% at 40/sec for LakeRoofing
+2017-11-09 00:19:09 Friends  : 100% at 44/sec for LeadSheetAssoc
+2017-11-09 00:19:27 Friends  : 100% at 50/sec for MACRCLTD
+2017-11-09 00:20:02 Friends  : 96.6% at 50/sec for Proteus_UK
+2017-11-09 00:21:09 Friends  : 95% at 51/sec for RalphNBennett
+2017-11-09 00:21:24 Friends  : 96.8% at 52/sec for RoofIndAll
+2017-11-09 00:22:32 Friends  : 98.8% at 50/sec for SelfbuilderHome
+2017-11-09 00:22:39 Friends  : 97.2% at 42/sec for specialisedroof
+2017-11-09 00:22:45 Friends  : 98.9% at 41/sec for StormforceRoofs
+2017-11-09 00:23:12 Friends  : 96.6% at 52/sec for TorCoatings
+2017-11-09 00:23:16 Friends  : 96.2% at 44/sec for Ts_and_Bs
+2017-11-09 00:23:16 Friends  : Waiting for 6.6 minutes
+2017-11-09 00:28:03 Favorites: 98.5% at 0/sec for LeadSheetAssoc
+2017-11-09 00:28:07 Favorites: 49.9% at 51/sec for MACRCLTD
+2017-11-09 00:28:08 Favorites: 93.5% at 45/sec for Proteus_UK
+2017-11-09 00:28:12 Favorites: 62% at 54/sec for RalphNBennett
+2017-11-09 00:28:13 Favorites: 100% at 36/sec for RoofIndAll
+2017-11-09 00:28:19 Favorites: 68.7% at 50/sec for SelfbuilderHome
+2017-11-09 00:28:21 Favorites: 57.8% at 51/sec for specialisedroof
+2017-11-09 00:28:23 Favorites: 52.6% at 45/sec for StormforceRoofs
+2017-11-09 00:28:27 Favorites: 78% at 48/sec for TorCoatings
+2017-11-09 00:28:29 Favorites: 98.9% at 47/sec for Ts_and_Bs
+2017-11-09 00:29:37 Favorites: 34.5% at 48/sec for welovehistory
+2017-11-09 00:29:38 Favorites: 100% at 44/sec for AbundanceInv
+2017-11-09 00:29:58 Favorites: 51.6% at 50/sec for campaigncc
+2017-11-09 00:30:00 Favorites: 51.5% at 52/sec for CommonsBEIS
+2017-11-09 00:30:04 Favorites: 78% at 48/sec for DemandEnEq
+2017-11-09 00:30:15 Friends  : 98.2% at 2/sec for welovehistory
+2017-11-09 00:30:34 Friends  : 99.9% at 53/sec for AbundanceInv
+2017-11-09 00:30:47 Friends  : 99.7% at 54/sec for campaigncc
+2017-11-09 00:31:06 Friends  : 99.8% at 54/sec for CommonsBEIS
+2017-11-09 00:31:23 Friends  : 98.5% at 51/sec for DemandEnEq
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+Warning message:
+package 'twitteR' was built under R version 3.4.1 

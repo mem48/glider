@@ -1,0 +1,167 @@
+starting worker pid=7864 on localhost:11045 at 00:31:52.162
+starting worker pid=13856 on localhost:11045 at 00:31:52.319
+starting worker pid=17516 on localhost:11045 at 00:31:52.491
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-09 00:32:16 Favorites: 52.1% at 34/sec for DNVGL_Energy
+2017-11-09 00:32:17 Favorites: 98.6% at 47/sec for eleanorpalmersc
+2017-11-09 00:32:18 Favorites: 133.3% at 7/sec for EnvironmentTime
+2017-11-09 00:32:18 Friends  : 99.7% at 38/sec for DNVGL_Energy
+2017-11-09 00:32:32 Friends  : 99.3% at 44/sec for eleanorpalmersc
+2017-11-09 00:32:32 Favorites: 55.6% at 48/sec for FroniusIntSolar
+2017-11-09 00:32:33 Favorites: 96.9% at 31/sec for GarethThomasMP
+2017-11-09 00:32:35 Favorites: Waiting for 10.4 minutes due to : Used up allowance in a loop
+2017-11-09 00:33:13 Friends  : 98.1% at 44/sec for EnvironmentTime
+2017-11-09 00:33:16 Tweets   : 35.9% at 55/sec for DNVGL_Energy
+2017-11-09 00:33:29 Tweets   : 99.5% at 31/sec for eleanorpalmersc
+2017-11-09 00:33:35 Friends  : 97.4% at 46/sec for FroniusIntSolar
+2017-11-09 00:34:14 Tweets   : 99.8% at 53/sec for EnvironmentTime
+2017-11-09 00:34:33 Tweets   : 100% at 46/sec for FroniusIntSolar
+2017-11-09 00:34:43 Friends  : 99% at 45/sec for GarethThomasMP
+2017-11-09 00:34:58 Friends  : 99.2% at 45/sec for GordonMarsden
+2017-11-09 00:35:32 Tweets   : 32.8% at 54/sec for GarethThomasMP
+2017-11-09 00:35:41 Friends  : 98.2% at 44/sec for Grantham_IC
+2017-11-09 00:35:46 Friends  : 99.5% at 36/sec for GreenJennyJones
+2017-11-09 00:35:50 Friends  : 99.3% at 43/sec for gtectraining
+2017-11-09 00:36:17 Friends  : 99.7% at 54/sec for Jess_Shankleman
+2017-11-09 00:36:17 Friends  : Waiting for 8.8 minutes
+2017-11-09 00:36:30 Tweets   : 29.5% at 55/sec for GordonMarsden
+2017-11-09 00:37:29 Tweets   : 41.6% at 55/sec for Grantham_IC
+2017-11-09 00:38:34 Tweets   : 12.1% at 49/sec for GreenJennyJones
+2017-11-09 00:39:07 Tweets   : 99.9% at 49/sec for gtectraining
+2017-11-09 00:40:08 Tweets   : 23.2% at 52/sec for Jess_Shankleman
+2017-11-09 00:40:39 Tweets   : 99.7% at 48/sec for JonnyWilliams11
+2017-11-09 00:41:19 Tweets   : 99.9% at 48/sec for LightsourceRE
+2017-11-09 00:42:17 Tweets   : 32.8% at 55/sec for MayorofLondon
+2017-11-09 00:43:10 Tweets   : 4.8% at 60/sec for Norsunenergy
+2017-11-09 00:43:30 Tweets   : 100% at 43/sec for NTDLimited
+2017-11-09 00:44:22 Tweets   : 99.9% at 51/sec for openenergi
+2017-11-09 00:44:25 Favorites: 31.8% at 4/sec for GordonMarsden
+2017-11-09 00:44:30 Tweets   : 100% at 14/sec for PVFinancing
+2017-11-09 00:44:35 Favorites: 51.4% at 46/sec for Grantham_IC
+2017-11-09 00:44:50 Favorites: 51.9% at 46/sec for GreenJennyJones
+2017-11-09 00:44:54 Favorites: 56.1% at 53/sec for gtectraining
+2017-11-09 00:45:28 Favorites: 52.1% at 47/sec for Jess_Shankleman
+2017-11-09 00:45:32 Favorites: 56.4% at 47/sec for JonnyWilliams11
+2017-11-09 00:45:36 Favorites: 57.8% at 44/sec for LightsourceRE
+2017-11-09 00:45:37 Tweets   : 81.1% at 47/sec for SunampLtd
+2017-11-09 00:45:38 Favorites: 98.6% at 43/sec for MayorofLondon
+2017-11-09 00:45:41 Friends  : 99.1% at 2/sec for JonnyWilliams11
+2017-11-09 00:45:51 Favorites: 53.2% at 45/sec for Norsunenergy
+2017-11-09 00:45:53 Favorites: 100% at 43/sec for NTDLimited
+2017-11-09 00:45:53 Tweets   : 99.8% at 38/sec for TheConsumerCode
+2017-11-09 00:45:55 Favorites: Waiting for 12.4 minutes due to : Used up allowance in a loop
+2017-11-09 00:46:18 Friends  : 99.9% at 45/sec for LightsourceRE
+2017-11-09 00:46:55 Tweets   : 18.6% at 51/sec for TrillionFund
+2017-11-09 00:47:05 Tweets   : 100% at 14/sec for twobirdsenergy
+2017-11-09 00:47:31 Friends  : 99.8% at 45/sec for MayorofLondon
+2017-11-09 00:47:53 Friends  : 99% at 50/sec for Norsunenergy
+2017-11-09 00:47:57 Friends  : 100% at 48/sec for NTDLimited
+2017-11-09 00:48:11 Tweets   : 18.6% at 48/sec for WillNicholsRisk
+2017-11-09 00:48:20 Friends  : 99.1% at 49/sec for openenergi
+2017-11-09 00:48:22 Friends  : 100% at 35/sec for PVFinancing
+2017-11-09 00:48:43 Tweets   : 100% at 44/sec for EcosystemsNet
+2017-11-09 00:49:03 Friends  : 96.3% at 47/sec for SunampLtd
+2017-11-09 00:49:21 Friends  : 99.9% at 49/sec for TheConsumerCode
+2017-11-09 00:49:42 Tweets   : 36.6% at 54/sec for futurecitiescat
+2017-11-09 00:50:05 Friends  : 99.9% at 46/sec for TrillionFund
+2017-11-09 00:50:09 Friends  : 100% at 38/sec for twobirdsenergy
+2017-11-09 00:50:38 Friends  : 99.1% at 51/sec for WillNicholsRisk
+2017-11-09 00:50:50 Tweets   : 49.8% at 47/sec for GideonJAmos
+2017-11-09 00:51:07 Friends  : 98.8% at 50/sec for EcosystemsNet
+2017-11-09 00:51:45 Tweets   : 55% at 57/sec for GlassHouseCLD
+2017-11-09 00:52:32 Friends  : 99.9% at 46/sec for futurecitiescat
+2017-11-09 00:52:45 Tweets   : 10.7% at 53/sec for Grindrod
+2017-11-09 00:52:55 Friends  : 98.1% at 44/sec for GideonJAmos
+2017-11-09 00:52:55 Friends  : Waiting for 7.5 minutes
+2017-11-09 00:53:04 Tweets   : 100% at 42/sec for LDADesign
+2017-11-09 00:53:52 Tweets   : 99.9% at 46/sec for lgaenvironment
+2017-11-09 00:54:53 Tweets   : 98.6% at 52/sec for MsHilaryCox
+2017-11-09 00:55:20 Tweets   : 100% at 43/sec for NationwideFdtn
+2017-11-09 00:56:20 Tweets   : 11.8% at 53/sec for nhsconfed
+2017-11-09 00:57:15 Tweets   : 22.5% at 59/sec for PlanningMag
+2017-11-09 00:57:44 Tweets   : 99.6% at 48/sec for TaitPlanning
+2017-11-09 00:58:24 Tweets   : 100% at 50/sec for WestWaddyADP
+2017-11-09 00:58:48 Tweets   : 99.7% at 48/sec for WhitehillBordon
+2017-11-09 00:58:59 Tweets   : 100% at 25/sec for WillCinMK
+2017-11-09 00:59:00 Favorites: 55% at 1/sec for openenergi
+2017-11-09 00:59:01 Favorites: 100% at 13/sec for PVFinancing
+2017-11-09 00:59:27 Favorites: 52.7% at 49/sec for SunampLtd
+2017-11-09 00:59:29 Favorites: 100% at 38/sec for TheConsumerCode
+2017-11-09 00:59:42 Favorites: 54.5% at 47/sec for TrillionFund
+2017-11-09 00:59:43 Favorites: 100% at 41/sec for twobirdsenergy
+2017-11-09 00:59:44 Favorites: 106.2% at 21/sec for WillNicholsRisk
+2017-11-09 00:59:50 Favorites: 59.4% at 46/sec for EcosystemsNet
+2017-11-09 01:00:01 Tweets   : 21.8% at 51/sec for atkinsglobal
+2017-11-09 01:00:16 Favorites: 52.1% at 47/sec for futurecitiescat
+2017-11-09 01:00:37 Tweets   : 99.9% at 45/sec for BhamEnvironment
+2017-11-09 01:01:01 Tweets   : 100% at 46/sec for CBakerRSL
+2017-11-09 01:01:16 Favorites: Waiting for 12.4 minutes due to : Used up allowance in a loop
+2017-11-09 01:01:18 Friends  : 99.9% at 4/sec for GlassHouseCLD
+2017-11-09 01:01:26 Tweets   : 99.9% at 44/sec for CityScienceUK
+2017-11-09 01:02:14 Friends  : 98.6% at 43/sec for Grindrod
+2017-11-09 01:02:30 Tweets   : 51.9% at 50/sec for Desso_UK
+2017-11-09 01:03:08 Friends  : 99.7% at 48/sec for LDADesign
+2017-11-09 01:03:28 Friends  : 99.8% at 46/sec for lgaenvironment
+2017-11-09 01:03:41 Tweets   : 66.8% at 45/sec for ireeves
+2017-11-09 01:04:24 Friends  : 98.8% at 45/sec for MsHilaryCox
+2017-11-09 01:04:32 Friends  : 99.2% at 47/sec for NationwideFdtn
+2017-11-09 01:04:35 Tweets   : 99.9% at 48/sec for JordanKJeffery
+2017-11-09 01:05:08 Tweets   : 99.9% at 43/sec for KatieWcomms
+2017-11-09 01:05:18 Friends  : 99.3% at 44/sec for nhsconfed
+2017-11-09 01:05:26 Friends  : 100% at 39/sec for PlanningMag
+2017-11-09 01:05:36 Friends  : 99.3% at 45/sec for TaitPlanning
+2017-11-09 01:05:48 Tweets   : 99.2% at 49/sec for keepmoatgreen
+2017-11-09 01:06:19 Tweets   : 99.8% at 44/sec for KellyOxenham
+2017-11-09 01:06:51 Friends  : 96% at 44/sec for WestWaddyADP
+2017-11-09 01:07:18 Tweets   : 28.5% at 55/sec for Kerri_Emma
+2017-11-09 01:07:26 Friends  : 99.3% at 44/sec for WhitehillBordon
+2017-11-09 01:07:29 Friends  : 96.9% at 36/sec for WillCinMK
+2017-11-09 01:07:37 Tweets   : 99.9% at 38/sec for LTS_Arch
+2017-11-09 01:09:13 Friends  : 99.7% at 49/sec for atkinsglobal
+2017-11-09 01:09:36 Friends  : 99.9% at 48/sec for BhamEnvironment
+2017-11-09 01:09:36 Friends  : Waiting for 6.1 minutes
+2017-11-09 01:14:13 Favorites: 44.6% at 4/sec for GideonJAmos
+2017-11-09 01:14:23 Favorites: 57.3% at 48/sec for GlassHouseCLD
+2017-11-09 01:15:31 Favorites: 36.9% at 47/sec for Grindrod
+2017-11-09 01:15:33 Favorites: 100% at 45/sec for LDADesign
+2017-11-09 01:15:34 Favorites: 100% at 49/sec for lgaenvironment
+2017-11-09 01:16:00 Favorites: 52.2% at 46/sec for MsHilaryCox
+2017-11-09 01:16:08 Friends  : 98.8% at 1/sec for CBakerRSL
+2017-11-09 01:16:09 Favorites: 58.3% at 44/sec for NationwideFdtn
+2017-11-09 01:16:18 Friends  : 96.9% at 44/sec for CityScienceUK
+2017-11-09 01:16:39 Favorites: Waiting for 12.4 minutes due to : Used up allowance in a loop
+2017-11-09 01:17:07 Friends  : 97.8% at 51/sec for Desso_UK
+2017-11-09 01:17:13 Friends  : 97.8% at 48/sec for ireeves
+2017-11-09 01:17:33 Friends  : 98.8% at 51/sec for JordanKJeffery
+2017-11-09 01:17:53 Friends  : 98.6% at 50/sec for KatieWcomms
+2017-11-09 01:18:19 Friends  : 98.7% at 47/sec for keepmoatgreen
+2017-11-09 01:18:31 Friends  : 99.4% at 51/sec for KellyOxenham
+2017-11-09 01:19:00 Friends  : 99.5% at 48/sec for Kerri_Emma
+2017-11-09 01:19:15 Friends  : 97.9% at 47/sec for LTS_Arch
+2017-11-09 01:29:55 Favorites: 50% at 3/sec for nhsconfed
+2017-11-09 01:29:56 Favorites: 100% at 18/sec for PlanningMag
+2017-11-09 01:30:00 Favorites: 85.5% at 48/sec for TaitPlanning
+2017-11-09 01:30:11 Favorites: 54.8% at 45/sec for WestWaddyADP
+2017-11-09 01:30:12 Favorites: 100% at 26/sec for WhitehillBordon
+2017-11-09 01:30:14 Favorites: 86.8% at 43/sec for WillCinMK
+2017-11-09 01:31:05 Favorites: 49.4% at 47/sec for atkinsglobal
+2017-11-09 01:31:06 Favorites: 100% at 42/sec for BhamEnvironment
+2017-11-09 01:31:07 Favorites: 100% at 22/sec for CBakerRSL
+2017-11-09 01:31:22 Favorites: 52% at 47/sec for CityScienceUK
+2017-11-09 01:31:41 Favorites: 49.6% at 47/sec for Desso_UK
+2017-11-09 01:31:57 Favorites: Waiting for 12.4 minutes due to : Used up allowance in a loop
+2017-11-09 01:45:05 Favorites: 50.4% at 2/sec for ireeves
+2017-11-09 01:45:40 Favorites: 49.9% at 47/sec for JordanKJeffery
+2017-11-09 01:45:47 Favorites: 62.9% at 45/sec for KatieWcomms
+2017-11-09 01:46:37 Favorites: 51.1% at 48/sec for keepmoatgreen
+2017-11-09 01:46:37 Favorites: 100% at 15/sec for KellyOxenham
+2017-11-09 01:46:51 Favorites: 49% at 47/sec for Kerri_Emma
+2017-11-09 01:46:55 Favorites: 75.7% at 45/sec for LTS_Arch
+Warning message:
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+package 'twitteR' was built under R version 3.4.1 
+Warning message:
+package 'twitteR' was built under R version 3.4.1 

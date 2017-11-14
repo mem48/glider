@@ -1,0 +1,171 @@
+starting worker pid=13192 on localhost:11045 at 03:45:32.573
+starting worker pid=18956 on localhost:11045 at 03:45:32.745
+starting worker pid=10504 on localhost:11045 at 03:45:32.901
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-12 03:46:59 Friends  : 100% at 37/sec for BrantAssociates
+2017-11-12 03:47:35 Friends  : 99.4% at 33/sec for CaledonianNews
+2017-11-12 03:48:07 Friends  : 98.8% at 43/sec for CCG_Scotland
+2017-11-12 03:48:09 Friends  : 98.5% at 31/sec for Chloeconway19
+2017-11-12 03:48:15 Friends  : 100% at 34/sec for ChungChinK
+2017-11-12 03:48:16 Friends  : 100% at 30/sec for CMElaine
+2017-11-12 03:48:26 Favorites: 96.2% at 57/sec for BrantAssociates
+2017-11-12 03:48:27 Friends  : 97.9% at 40/sec for DavidWaddle1
+2017-11-12 03:48:43 Friends  : 99.6% at 35/sec for demographik
+2017-11-12 03:48:56 Favorites: 50.1% at 30/sec for CaledonianNews
+2017-11-12 03:49:05 Favorites: 58.7% at 33/sec for CCG_Scotland
+2017-11-12 03:49:06 Favorites: 98.9% at 63/sec for Chloeconway19
+2017-11-12 03:49:08 Favorites: 100% at 52/sec for ChungChinK
+2017-11-12 03:49:08 Favorites: User CMElaine has a protected account or no Favoritess to collect so skipping
+2017-11-12 03:49:19 Friends  : 99% at 38/sec for EdwardHarkins
+2017-11-12 03:49:23 Favorites: 56.3% at 38/sec for DavidWaddle1
+2017-11-12 03:49:24 Favorites: 95.6% at 44/sec for demographik
+2017-11-12 03:49:40 Favorites: 53.5% at 42/sec for EdwardHarkins
+2017-11-12 03:49:55 Favorites: 56.3% at 39/sec for ElvinBox
+2017-11-12 03:50:02 Favorites: 50% at 46/sec for F4F_Network
+2017-11-12 03:50:03 Favorites: 100% at 58/sec for fmwales
+2017-11-12 03:50:05 Tweets   : 99.4% at 16/sec for BrantAssociates
+2017-11-12 03:50:06 Favorites: 95.6% at 27/sec for GCU_SEBE
+2017-11-12 03:50:07 Favorites: 92.3% at 25/sec for globalconreview
+2017-11-12 03:50:16 Favorites: 61.9% at 41/sec for Handraildesign
+2017-11-12 03:50:18 Favorites: 53.2% at 73/sec for hwtlamb
+2017-11-12 03:50:18 Favorites: User iamfacingeast has a protected account or no Favoritess to collect so skipping
+2017-11-12 03:50:19 Favorites: 100% at 67/sec for JackSidders
+2017-11-12 03:50:21 Favorites: 100% at 14/sec for Michele_Lui
+2017-11-12 03:50:24 Favorites: 56.4% at 69/sec for morgansindall
+2017-11-12 03:50:35 Favorites: 57.5% at 37/sec for MorticeConsult
+2017-11-12 03:50:50 Favorites: 53.3% at 39/sec for noscalerule
+2017-11-12 03:50:57 Favorites: 63.5% at 41/sec for Official_McLH
+2017-11-12 03:50:58 Favorites: Waiting for 5.8 minutes due to : Used up allowance in a loop
+2017-11-12 03:51:19 Friends  : 99.2% at 39/sec for ElvinBox
+2017-11-12 03:51:22 Tweets   : 18.6% at 42/sec for CaledonianNews
+2017-11-12 03:51:51 Friends  : 97.9% at 44/sec for F4F_Network
+2017-11-12 03:51:56 Tweets   : 99.5% at 42/sec for CCG_Scotland
+2017-11-12 03:52:02 Tweets   : 100% at 3/sec for Chloeconway19
+2017-11-12 03:52:03 Friends  : 99.8% at 39/sec for fmwales
+2017-11-12 03:52:15 Tweets   : 100% at 24/sec for ChungChinK
+2017-11-12 03:52:17 Friends  : 98% at 42/sec for GCU_SEBE
+2017-11-12 03:52:20 Tweets   : 100% at 3/sec for CMElaine
+2017-11-12 03:52:57 Tweets   : 99.1% at 43/sec for DavidWaddle1
+2017-11-12 03:53:23 Tweets   : 99.7% at 37/sec for demographik
+2017-11-12 03:54:07 Friends  : 100% at 39/sec for globalconreview
+2017-11-12 03:54:38 Tweets   : 5.2% at 43/sec for EdwardHarkins
+2017-11-12 03:55:07 Friends  : 99.7% at 40/sec for Handraildesign
+2017-11-12 03:55:07 Friends  : Waiting for 6.9 minutes
+2017-11-12 03:55:46 Tweets   : 51.1% at 47/sec for ElvinBox
+2017-11-12 03:56:27 Tweets   : 100% at 47/sec for F4F_Network
+2017-11-12 03:57:02 Favorites: 51.4% at 1/sec for Penningtonslaw
+2017-11-12 03:57:03 Favorites: 100% at 46/sec for PeterMcElroy
+2017-11-12 03:57:06 Favorites: 75.8% at 31/sec for ScapeCEO
+2017-11-12 03:57:36 Tweets   : 64.5% at 46/sec for fmwales
+2017-11-12 03:58:03 Tweets   : 100% at 37/sec for GCU_SEBE
+2017-11-12 03:58:17 Favorites: 18.2% at 45/sec for SCLAstra
+2017-11-12 03:58:57 Favorites: 48.2% at 38/sec for stuartwilks
+2017-11-12 03:59:07 Tweets   : 99.9% at 44/sec for globalconreview
+2017-11-12 03:59:12 Favorites: 57.6% at 41/sec for TSadjusting
+2017-11-12 03:59:48 Favorites: Waiting for 12.2 minutes due to : Used up allowance in a loop
+2017-11-12 03:59:51 Tweets   : 99.8% at 41/sec for Handraildesign
+2017-11-12 04:00:10 Tweets   : 99.5% at 34/sec for hwtlamb
+2017-11-12 04:00:21 Tweets   : 100% at 21/sec for iamfacingeast
+2017-11-12 04:01:31 Tweets   : 73.2% at 46/sec for JackSidders
+2017-11-12 04:01:38 Tweets   : 100% at 2/sec for Michele_Lui
+2017-11-12 04:02:19 Friends  : 99.1% at 0/sec for hwtlamb
+2017-11-12 04:02:24 Friends  : 100% at 32/sec for iamfacingeast
+2017-11-12 04:03:00 Tweets   : 81.5% at 39/sec for morgansindall
+2017-11-12 04:03:10 Tweets   : 100% at 22/sec for MorticeConsult
+2017-11-12 04:03:17 Friends  : 99.5% at 39/sec for JackSidders
+Error in twInterfaceObj$doAPICall(paste("users", "show", sep = "/"), params = params,  : 
+  Not Found (HTTP 404).
+In addition: Warning message:
+package 'twitteR' was built under R version 3.4.1 
+2017-11-12 04:03:17 Friends: Unable to find account Michele_Lui moving to next
+2017-11-12 04:03:17 Friends  : % at /sec for Michele_Lui
+2017-11-12 04:03:25 Friends  : 100% at 29/sec for morgansindall
+Error in twInterfaceObj$doAPICall(paste("users", "show", sep = "/"), params = params,  : 
+  Not Found (HTTP 404).
+2017-11-12 04:03:25 Friends: Unable to find account MorticeConsult moving to next
+2017-11-12 04:03:25 Friends  : % at /sec for MorticeConsult
+2017-11-12 04:04:03 Friends  : 98.8% at 36/sec for noscalerule
+2017-11-12 04:04:08 Friends  : 100% at 30/sec for Official_McLH
+2017-11-12 04:04:24 Tweets   : 72.6% at 43/sec for noscalerule
+2017-11-12 04:04:24 Friends  : 98.8% at 31/sec for Penningtonslaw
+2017-11-12 04:04:33 Friends  : 98.7% at 36/sec for PeterMcElroy
+2017-11-12 04:04:55 Friends  : 99.4% at 37/sec for ScapeCEO
+2017-11-12 04:05:03 Tweets   : 100% at 44/sec for Official_McLH
+2017-11-12 04:05:44 Tweets   : 100% at 45/sec for Penningtonslaw
+2017-11-12 04:05:54 Tweets   : 98.9% at 19/sec for PeterMcElroy
+2017-11-12 04:06:34 Tweets   : 100% at 44/sec for ScapeCEO
+2017-11-12 04:06:42 Friends  : 97.4% at 35/sec for SCLAstra
+2017-11-12 04:07:44 Friends  : 98% at 33/sec for stuartwilks
+2017-11-12 04:07:47 Tweets   : 25.2% at 44/sec for SCLAstra
+2017-11-12 04:07:54 Friends  : 99.3% at 49/sec for TSadjusting
+2017-11-12 04:08:24 Friends  : 95.9% at 41/sec for VINCIFMJosie
+2017-11-12 04:08:38 Friends  : 99% at 41/sec for wgmin_skills
+2017-11-12 04:08:47 Friends  : 100% at 34/sec for AssociatedR
+2017-11-12 04:08:47 Friends  : Waiting for 8.5 minutes
+2017-11-12 04:08:59 Tweets   : 8% at 44/sec for stuartwilks
+2017-11-12 04:09:40 Tweets   : 99.9% at 42/sec for TSadjusting
+2017-11-12 04:10:51 Tweets   : 99.9% at 43/sec for VINCIFMJosie
+2017-11-12 04:11:55 Tweets   : 100% at 42/sec for wgmin_skills
+2017-11-12 04:12:04 Tweets   : 100% at 15/sec for AssociatedR
+2017-11-12 04:12:14 Tweets   : 100% at 20/sec for bandcroofing
+2017-11-12 04:12:23 Tweets   : 100% at 10/sec for BarclayRoofing
+2017-11-12 04:12:35 Tweets   : 96.6% at 23/sec for BeddardRoofing
+2017-11-12 04:12:48 Favorites: 51.1% at 4/sec for VINCIFMJosie
+2017-11-12 04:13:04 Favorites: 50.5% at 45/sec for wgmin_skills
+2017-11-12 04:13:05 Favorites: 98.8% at 67/sec for AssociatedR
+2017-11-12 04:13:08 Favorites: 87% at 30/sec for bandcroofing
+2017-11-12 04:13:09 Favorites: 100% at 14/sec for BarclayRoofing
+2017-11-12 04:13:10 Favorites: 87% at 30/sec for BeddardRoofing
+2017-11-12 04:13:47 Tweets   : 4.4% at 44/sec for BlissDromore
+2017-11-12 04:14:05 Favorites: 38.8% at 40/sec for BlissDromore
+2017-11-12 04:14:05 Favorites: 95.2% at 35/sec for CIOBInspire
+2017-11-12 04:14:12 Tweets   : 99.9% at 41/sec for CIOBInspire
+2017-11-12 04:14:16 Favorites: 52.5% at 48/sec for CopsonGraham
+2017-11-12 04:14:20 Tweets   : 100% at 11/sec for CopsonGraham
+2017-11-12 04:14:20 Favorites: 80.6% at 41/sec for DANOSAUK
+2017-11-12 04:14:21 Favorites: 100% at 30/sec for EasyTrimRoofing
+2017-11-12 04:14:22 Favorites: 97.8% at 80/sec for EcoGreenRoofs
+2017-11-12 04:14:24 Favorites: 100% at 13/sec for FASET_UK
+2017-11-12 04:14:37 Tweets   : 99.5% at 36/sec for DANOSAUK
+2017-11-12 04:14:44 Favorites: 53.7% at 43/sec for gailhounslea
+2017-11-12 04:14:45 Favorites: 100% at 34/sec for GrahamRoofing
+2017-11-12 04:14:45 Favorites: User greenroofingbbs has a protected account or no Favoritess to collect so skipping
+2017-11-12 04:14:45 Favorites: Waiting for 12.6 minutes due to : Used up allowance in a loop
+2017-11-12 04:14:49 Tweets   : 100% at 31/sec for EasyTrimRoofing
+2017-11-12 04:15:13 Tweets   : 99.9% at 42/sec for EcoGreenRoofs
+2017-11-12 04:15:22 Tweets   : 100% at 11/sec for FASET_UK
+2017-11-12 04:16:29 Tweets   : 27.5% at 48/sec for gailhounslea
+2017-11-12 04:16:38 Tweets   : 100% at 22/sec for GrahamRoofing
+2017-11-12 04:16:46 Tweets   : 100% at 9/sec for greenroofingbbs
+2017-11-12 04:16:52 Tweets   : 100% at 3/sec for jalroofing
+2017-11-12 04:16:58 Tweets   : 100% at 2/sec for JWright_Roofing
+2017-11-12 04:17:19 Tweets   : 99.7% at 40/sec for Kalzip_uk
+2017-11-12 04:17:32 Tweets   : 100% at 22/sec for KytunUk
+2017-11-12 04:17:41 Friends  : 98.7% at 1/sec for bandcroofing
+2017-11-12 04:18:09 Friends  : 99.9% at 43/sec for BarclayRoofing
+2017-11-12 04:18:13 Friends  : 100% at 34/sec for BeddardRoofing
+2017-11-12 04:19:46 Friends  : 98.4% at 39/sec for BlissDromore
+2017-11-12 04:20:22 Friends  : 100% at 40/sec for CIOBInspire
+2017-11-12 04:20:23 Friends  : 100% at 37/sec for CopsonGraham
+2017-11-12 04:21:22 Friends  : 99.4% at 39/sec for DANOSAUK
+2017-11-12 04:22:12 Friends  : 99% at 38/sec for EasyTrimRoofing
+2017-11-12 04:22:48 Friends  : 100% at 38/sec for EcoGreenRoofs
+2017-11-12 04:22:52 Friends  : 98.6% at 33/sec for FASET_UK
+2017-11-12 04:23:33 Friends  : 99.6% at 37/sec for gailhounslea
+2017-11-12 04:23:39 Friends  : 99.5% at 37/sec for GrahamRoofing
+2017-11-12 04:23:42 Friends  : 100% at 20/sec for greenroofingbbs
+2017-11-12 04:23:43 Friends  : 100% at 18/sec for jalroofing
+2017-11-12 04:23:45 Friends  : 100% at 29/sec for JWright_Roofing
+2017-11-12 04:23:45 Friends  : Waiting for 8.9 minutes
+2017-11-12 04:27:41 Favorites: 100% at 0/sec for jalroofing
+2017-11-12 04:27:41 Favorites: User JWright_Roofing has a protected account or no Favoritess to collect so skipping
+2017-11-12 04:27:42 Favorites: 55.1% at 60/sec for Kalzip_uk
+2017-11-12 04:27:43 Favorites: 97.2% at 45/sec for KytunUk
+2017-11-12 04:33:39 Friends  : 99.9% at 3/sec for Kalzip_uk
+2017-11-12 04:34:17 Friends  : 98.9% at 38/sec for KytunUk
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+Warning message:
+package 'twitteR' was built under R version 3.4.1 

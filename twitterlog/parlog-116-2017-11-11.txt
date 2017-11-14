@@ -1,0 +1,172 @@
+starting worker pid=11068 on localhost:11045 at 12:28:50.280
+starting worker pid=19616 on localhost:11045 at 12:28:50.436
+starting worker pid=20088 on localhost:11045 at 12:28:50.596
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-11 12:30:41 Friends  : 91.5% at 41/sec for besmart_design
+2017-11-11 12:31:28 Favorites: 70.1% at 36/sec for besmart_design
+2017-11-11 12:31:42 Favorites: 59.9% at 29/sec for BromStandard
+2017-11-11 12:32:05 Friends  : 99.2% at 37/sec for BromStandard
+2017-11-11 12:32:11 Favorites: 49.3% at 39/sec for BuzzFeedUK
+2017-11-11 12:32:25 Favorites: 52.3% at 41/sec for bw_businesswest
+2017-11-11 12:32:30 Friends  : 99.8% at 38/sec for BuzzFeedUK
+2017-11-11 12:32:30 Favorites: 53.2% at 38/sec for CambridgeNewsUK
+2017-11-11 12:32:35 Favorites: 49.4% at 44/sec for cambsacre
+2017-11-11 12:32:38 Favorites: 79.4% at 29/sec for CampbellTickel1
+2017-11-11 12:32:39 Favorites: 100% at 44/sec for CarePlus_tweets
+2017-11-11 12:32:53 Favorites: 49.2% at 42/sec for CarolBode1
+2017-11-11 12:33:00 Favorites: 50% at 42/sec for CDSCooperatives
+2017-11-11 12:33:07 Favorites: 62.3% at 45/sec for cestriahousing
+2017-11-11 12:33:24 Friends  : 99.5% at 38/sec for bw_businesswest
+2017-11-11 12:33:25 Favorites: Waiting for 6.8 minutes due to : Used up allowance in a loop
+2017-11-11 12:33:51 Tweets   : 99.6% at 47/sec for besmart_design
+2017-11-11 12:34:01 Friends  : 99.8% at 44/sec for CambridgeNewsUK
+2017-11-11 12:34:45 Friends  : 96.9% at 43/sec for cambsacre
+2017-11-11 12:34:55 Tweets   : 16.7% at 50/sec for BromStandard
+2017-11-11 12:35:41 Friends  : 97% at 41/sec for CampbellTickel1
+2017-11-11 12:35:45 Friends  : 95.5% at 28/sec for CarePlus_tweets
+2017-11-11 12:36:07 Tweets   : 4.7% at 45/sec for BuzzFeedUK
+2017-11-11 12:36:08 Friends  : 99.5% at 39/sec for CarolBode1
+2017-11-11 12:36:20 Friends  : 98.2% at 41/sec for CDSCooperatives
+2017-11-11 12:36:32 Friends  : 100% at 39/sec for cestriahousing
+2017-11-11 12:37:17 Tweets   : 19.1% at 46/sec for bw_businesswest
+2017-11-11 12:37:25 Friends  : 99.4% at 38/sec for CherieWelburn
+2017-11-11 12:37:38 Friends  : 99.4% at 37/sec for chriswdesigns4u
+2017-11-11 12:37:50 Friends  : 100% at 34/sec for CityAM
+2017-11-11 12:38:10 Friends  : 98.7% at 39/sec for citywesthousing
+2017-11-11 12:38:18 Friends  : 99.6% at 36/sec for ColBoroughHomes
+2017-11-11 12:38:18 Friends  : Waiting for 8.9 minutes
+2017-11-11 12:38:23 Tweets   : 4.1% at 48/sec for CambridgeNewsUK
+2017-11-11 12:39:31 Tweets   : 100% at 46/sec for cambsacre
+2017-11-11 12:40:40 Tweets   : 99.9% at 43/sec for CampbellTickel1
+2017-11-11 12:40:40 Favorites: 49.6% at 3/sec for CherieWelburn
+2017-11-11 12:40:47 Favorites: 52.6% at 44/sec for chriswdesigns4u
+2017-11-11 12:40:48 Favorites: 100% at 49/sec for CityAM
+2017-11-11 12:40:49 Tweets   : 100% at 12/sec for CarePlus_tweets
+2017-11-11 12:40:52 Favorites: 50.4% at 47/sec for citywesthousing
+2017-11-11 12:40:56 Favorites: 81.5% at 49/sec for ColBoroughHomes
+2017-11-11 12:42:04 Tweets   : 99.5% at 39/sec for CarolBode1
+2017-11-11 12:42:13 Favorites: 28.7% at 42/sec for comms2point0
+2017-11-11 12:42:37 Tweets   : 100% at 26/sec for CDSCooperatives
+2017-11-11 12:42:38 Favorites: 48.4% at 41/sec for CosmopolitanUK
+2017-11-11 12:42:48 Favorites: 56.2% at 48/sec for craigglasper
+2017-11-11 12:42:54 Favorites: 67.2% at 55/sec for dennis_ohiggins
+2017-11-11 12:42:56 Favorites: 100% at 26/sec for DesresDyas
+2017-11-11 12:43:02 Favorites: 53.6% at 52/sec for DevComsTogether
+2017-11-11 12:43:12 Favorites: Waiting for 12.2 minutes due to : Used up allowance in a loop
+2017-11-11 12:43:23 Tweets   : 100% at 49/sec for cestriahousing
+2017-11-11 12:44:29 Tweets   : 67.2% at 48/sec for CherieWelburn
+2017-11-11 12:44:54 Tweets   : 99.7% at 40/sec for chriswdesigns4u
+2017-11-11 12:45:59 Tweets   : 3% at 49/sec for CityAM
+2017-11-11 12:46:38 Tweets   : 99.9% at 41/sec for citywesthousing
+2017-11-11 12:47:47 Tweets   : 86.2% at 46/sec for ColBoroughHomes
+2017-11-11 12:49:04 Tweets   : 4.6% at 41/sec for comms2point0
+2017-11-11 12:50:17 Tweets   : 2.3% at 44/sec for CosmopolitanUK
+2017-11-11 12:51:10 Tweets   : 99.2% at 45/sec for craigglasper
+2017-11-11 12:51:30 Tweets   : 100% at 32/sec for dennis_ohiggins
+2017-11-11 12:51:43 Friends  : 99.2% at 11/sec for comms2point0
+2017-11-11 12:51:52 Tweets   : 100% at 38/sec for DesresDyas
+2017-11-11 12:52:12 Friends  : 100% at 39/sec for CosmopolitanUK
+2017-11-11 12:52:37 Friends  : 98.8% at 38/sec for craigglasper
+2017-11-11 12:53:04 Tweets   : 98.8% at 44/sec for DevComsTogether
+2017-11-11 12:53:34 Friends  : 97.9% at 38/sec for dennis_ohiggins
+2017-11-11 12:53:36 Friends  : 98.8% at 49/sec for DesresDyas
+2017-11-11 12:53:59 Friends  : 98.8% at 36/sec for DevComsTogether
+2017-11-11 12:54:18 Tweets   : 6.5% at 43/sec for dipu412
+2017-11-11 12:54:32 Friends  : 99.4% at 37/sec for dipu412
+2017-11-11 12:55:27 Tweets   : 100% at 42/sec for DTPartnership
+2017-11-11 12:55:35 Friends  : 97.7% at 35/sec for DTPartnership
+2017-11-11 12:55:54 Tweets   : 100% at 31/sec for Editor24housing
+2017-11-11 12:56:09 Friends  : 97.6% at 32/sec for Editor24housing
+2017-11-11 12:56:12 Tweets   : 99% at 28/sec for Electroboy82
+2017-11-11 12:56:19 Friends  : 95% at 30/sec for Electroboy82
+Error in twInterfaceObj$doAPICall(paste("users", "show", sep = "/"), params = params,  : 
+  Not Found (HTTP 404).
+In addition: Warning message:
+package 'twitteR' was built under R version 3.4.1 
+2017-11-11 12:56:19 Friends: Unable to find account EmmaLouHodges moving to next
+2017-11-11 12:56:19 Friends  : % at /sec for EmmaLouHodges
+2017-11-11 12:56:21 Tweets   : 100% at 14/sec for EmmaLouHodges
+2017-11-11 12:56:21 Friends  : 97.2% at 25/sec for ET_Swan
+2017-11-11 12:56:36 Tweets   : 99.8% at 26/sec for ET_Swan
+2017-11-11 12:56:51 Favorites: 20.4% at 4/sec for dipu412
+2017-11-11 12:56:58 Favorites: 69.8% at 38/sec for DTPartnership
+2017-11-11 12:57:02 Favorites: 87% at 31/sec for Editor24housing
+2017-11-11 12:57:03 Favorites: 49.7% at 58/sec for Electroboy82
+2017-11-11 12:57:06 Favorites: 56.8% at 34/sec for EmmaLouHodges
+2017-11-11 12:57:11 Favorites: 81.2% at 46/sec for ET_Swan
+2017-11-11 12:57:15 Favorites: 72.9% at 43/sec for frankcurran
+2017-11-11 12:57:17 Favorites: 68.5% at 67/sec for GatewayHousing
+2017-11-11 12:57:26 Favorites: 50.5% at 41/sec for GoldingHomes
+2017-11-11 12:57:57 Tweets   : 77.6% at 39/sec for frankcurran
+2017-11-11 12:58:29 Tweets   : 99.9% at 40/sec for GatewayHousing
+2017-11-11 12:58:36 Favorites: 49.4% at 39/sec for grahamemorris
+2017-11-11 12:58:42 Favorites: 50.5% at 33/sec for helengreig6
+2017-11-11 12:58:44 Favorites: Waiting for 12.1 minutes due to : Used up allowance in a loop
+2017-11-11 12:59:29 Friends  : 95.4% at 36/sec for frankcurran
+2017-11-11 12:59:36 Friends  : 99.2% at 35/sec for GatewayHousing
+2017-11-11 12:59:36 Friends  : Waiting for 2.9 minutes
+2017-11-11 12:59:42 Tweets   : 82.5% at 44/sec for GoldingHomes
+2017-11-11 13:00:55 Tweets   : 9.1% at 44/sec for grahamemorris
+2017-11-11 13:01:09 Tweets   : 100% at 27/sec for helengreig6
+2017-11-11 13:02:21 Tweets   : 77% at 44/sec for HelenJonesMP
+2017-11-11 13:02:28 Tweets   : 100% at 6/sec for HelenRow
+2017-11-11 13:02:55 Friends  : 99.1% at 4/sec for GoldingHomes
+2017-11-11 13:03:06 Tweets   : 98.9% at 35/sec for hollydagnall
+2017-11-11 13:03:31 Tweets   : 100% at 35/sec for HousingLINews
+2017-11-11 13:03:51 Tweets   : 100% at 26/sec for housingthepower
+2017-11-11 13:05:13 Tweets   : 1.3% at 39/sec for HuffPostUK
+2017-11-11 13:05:51 Tweets   : 99.7% at 43/sec for ian249
+2017-11-11 13:06:21 Friends  : 99.4% at 34/sec for grahamemorris
+2017-11-11 13:06:29 Friends  : 93.7% at 17/sec for helengreig6
+2017-11-11 13:06:42 Friends  : 98.5% at 37/sec for HelenJonesMP
+2017-11-11 13:06:56 Friends  : 98.6% at 46/sec for HelenRow
+2017-11-11 13:07:04 Friends  : 99.4% at 37/sec for hollydagnall
+2017-11-11 13:07:05 Tweets   : 82.5% at 44/sec for IanThomJJHT
+2017-11-11 13:07:24 Friends  : 99.4% at 46/sec for HousingLINews
+2017-11-11 13:08:01 Friends  : 99.1% at 43/sec for housingthepower
+2017-11-11 13:08:13 Tweets   : 43.6% at 47/sec for IdoxInfoService
+2017-11-11 13:08:56 Friends  : 99.7% at 39/sec for HuffPostUK
+2017-11-11 13:09:11 Friends  : 99.3% at 39/sec for ian249
+2017-11-11 13:09:26 Tweets   : 63.2% at 44/sec for IiE_Ltd
+2017-11-11 13:09:31 Friends  : 99.1% at 36/sec for IanThomJJHT
+2017-11-11 13:09:41 Tweets   : 100% at 29/sec for IpsosMORINorth
+2017-11-11 13:09:58 Friends  : 99.3% at 42/sec for IdoxInfoService
+2017-11-11 13:10:36 Tweets   : 99.6% at 37/sec for janeedmonds10
+2017-11-11 13:10:50 Friends  : 99.3% at 39/sec for IiE_Ltd
+2017-11-11 13:10:59 Friends  : 99.7% at 39/sec for IpsosMORINorth
+2017-11-11 13:10:59 Friends  : Waiting for 6.7 minutes
+2017-11-11 13:11:25 Favorites: 50.6% at 1/sec for HelenJonesMP
+2017-11-11 13:11:26 Favorites: 100% at 21/sec for HelenRow
+2017-11-11 13:11:42 Favorites: 50.8% at 42/sec for hollydagnall
+2017-11-11 13:11:50 Favorites: 51.9% at 40/sec for HousingLINews
+2017-11-11 13:11:50 Favorites: 100% at 15/sec for housingthepower
+2017-11-11 13:12:00 Tweets   : 36.6% at 38/sec for JohnRockley
+2017-11-11 13:12:02 Favorites: 53.1% at 42/sec for HuffPostUK
+2017-11-11 13:12:03 Favorites: 71.4% at 61/sec for ian249
+2017-11-11 13:12:16 Tweets   : 99.4% at 21/sec for JosephPercival
+2017-11-11 13:12:31 Favorites: 49.9% at 46/sec for IanThomJJHT
+2017-11-11 13:12:34 Favorites: 91.6% at 36/sec for IdoxInfoService
+2017-11-11 13:12:36 Favorites: 66.7% at 76/sec for IiE_Ltd
+2017-11-11 13:12:36 Favorites: 100% at 31/sec for IpsosMORINorth
+2017-11-11 13:12:42 Favorites: 60.2% at 33/sec for janeedmonds10
+2017-11-11 13:12:47 Favorites: 71.9% at 39/sec for JohnRockley
+2017-11-11 13:12:48 Favorites: 100% at 51/sec for JosephPercival
+2017-11-11 13:13:24 Tweets   : 43.1% at 47/sec for justjennie45
+2017-11-11 13:13:33 Tweets   : 100% at 19/sec for Karen74066296
+2017-11-11 13:13:50 Favorites: 49.6% at 44/sec for justjennie45
+2017-11-11 13:13:51 Favorites: Waiting for 12.3 minutes due to : Used up allowance in a loop
+2017-11-11 13:14:40 Tweets   : 30.6% at 48/sec for KateGreenSU
+2017-11-11 13:18:04 Friends  : 99.5% at 1/sec for janeedmonds10
+2017-11-11 13:18:37 Friends  : 99.3% at 41/sec for JohnRockley
+2017-11-11 13:18:39 Friends  : 100% at 36/sec for JosephPercival
+2017-11-11 13:19:05 Friends  : 99.2% at 38/sec for justjennie45
+2017-11-11 13:19:13 Friends  : 99.3% at 39/sec for Karen74066296
+2017-11-11 13:19:49 Friends  : 99.3% at 37/sec for KateGreenSU
+2017-11-11 13:26:30 Favorites: 98.6% at 0/sec for Karen74066296
+2017-11-11 13:26:34 Favorites: 83.1% at 52/sec for KateGreenSU
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+Warning message:
+package 'twitteR' was built under R version 3.4.1 

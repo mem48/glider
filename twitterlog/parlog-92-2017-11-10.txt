@@ -1,0 +1,193 @@
+starting worker pid=15844 on localhost:11045 at 06:51:28.050
+starting worker pid=19276 on localhost:11045 at 06:51:28.204
+starting worker pid=16340 on localhost:11045 at 06:51:28.367
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-10 06:52:33 Friends  : 99.4% at 40/sec for organicroofs
+2017-11-10 06:52:36 Friends  : 100% at 36/sec for PassiveArchtct
+2017-11-10 06:52:44 Friends  : 99.3% at 36/sec for PeterHeadCBE
+2017-11-10 06:52:54 Friends  : 99% at 41/sec for RIBAjobs
+2017-11-10 06:53:01 Favorites: 60.9% at 39/sec for organicroofs
+2017-11-10 06:53:01 Favorites: 100% at 23/sec for PassiveArchtct
+2017-11-10 06:53:08 Favorites: 92% at 30/sec for PeterHeadCBE
+2017-11-10 06:53:12 Favorites: 80.6% at 46/sec for RIBAjobs
+2017-11-10 06:54:29 Favorites: 17.5% at 42/sec for RichardMcLellan
+2017-11-10 06:54:29 Tweets   : 100% at 44/sec for organicroofs
+2017-11-10 06:54:44 Favorites: 51.6% at 39/sec for RobDelius
+2017-11-10 06:54:52 Favorites: 51% at 37/sec for RobertKleiburg
+2017-11-10 06:55:01 Tweets   : 99.8% at 35/sec for PassiveArchtct
+2017-11-10 06:55:55 Favorites: Waiting for 12 minutes due to : Used up allowance in a loop
+2017-11-10 06:56:11 Tweets   : 17.6% at 45/sec for PeterHeadCBE
+2017-11-10 06:57:11 Tweets   : 75.3% at 53/sec for RIBAjobs
+2017-11-10 06:58:20 Tweets   : 5.3% at 47/sec for RichardMcLellan
+2017-11-10 06:58:34 Friends  : 97.6% at 42/sec for RichardMcLellan
+2017-11-10 06:58:42 Friends  : 95.9% at 50/sec for RobDelius
+2017-11-10 06:58:55 Tweets   : 99.9% at 43/sec for RobDelius
+2017-11-10 06:59:09 Friends  : 98.7% at 51/sec for RobertKleiburg
+2017-11-10 06:59:09 Friends  : Waiting for 4.8 minutes
+2017-11-10 07:00:04 Tweets   : 100% at 46/sec for RobertKleiburg
+2017-11-10 07:01:05 Tweets   : 35.8% at 52/sec for TheatresTrust
+2017-11-10 07:02:04 Tweets   : 87.5% at 54/sec for tom_pakenham
+2017-11-10 07:02:50 Tweets   : 100% at 51/sec for tracinggreen
+2017-11-10 07:03:52 Tweets   : 69.5% at 52/sec for VentAxia
+2017-11-10 07:04:08 Tweets   : 99.7% at 35/sec for wilfredsouth
+2017-11-10 07:05:16 Tweets   : 68.3% at 47/sec for b_and_fc
+2017-11-10 07:06:16 Tweets   : 56.7% at 53/sec for barnsleycollege
+2017-11-10 07:07:18 Tweets   : 49.8% at 52/sec for BucksCollGroup
+2017-11-10 07:08:24 Favorites: 32.2% at 4/sec for TheatresTrust
+2017-11-10 07:08:29 Tweets   : 29.8% at 45/sec for CalderdaleCol
+2017-11-10 07:08:30 Friends  : 99.8% at 21/sec for TheatresTrust
+2017-11-10 07:08:31 Favorites: 63.5% at 42/sec for tom_pakenham
+2017-11-10 07:08:41 Friends  : 98.4% at 51/sec for tom_pakenham
+2017-11-10 07:08:43 Favorites: 57.5% at 41/sec for tracinggreen
+2017-11-10 07:08:48 Favorites: 55% at 41/sec for VentAxia
+2017-11-10 07:08:49 Favorites: 100% at 35/sec for wilfredsouth
+2017-11-10 07:08:50 Friends  : 97.5% at 44/sec for tracinggreen
+2017-11-10 07:09:03 Favorites: 50.3% at 40/sec for b_and_fc
+2017-11-10 07:09:06 Favorites: 78.6% at 42/sec for barnsleycollege
+2017-11-10 07:09:20 Favorites: 55.4% at 40/sec for BucksCollGroup
+2017-11-10 07:09:32 Friends  : 99.7% at 45/sec for VentAxia
+2017-11-10 07:09:38 Friends  : 99.1% at 37/sec for wilfredsouth
+2017-11-10 07:09:40 Tweets   : 99.2% at 44/sec for centralcollnott
+2017-11-10 07:09:49 Friends  : 99.6% at 46/sec for b_and_fc
+2017-11-10 07:09:58 Favorites: 50% at 42/sec for CalderdaleCol
+2017-11-10 07:10:00 Friends  : 99.8% at 44/sec for barnsleycollege
+2017-11-10 07:10:09 Favorites: 62.8% at 38/sec for centralcollnott
+2017-11-10 07:10:11 Favorites: 70.1% at 42/sec for cmackinlay
+2017-11-10 07:10:45 Tweets   : 99.3% at 48/sec for cmackinlay
+2017-11-10 07:10:47 Friends  : 98.8% at 43/sec for BucksCollGroup
+2017-11-10 07:11:05 Favorites: Waiting for 12.1 minutes due to : Used up allowance in a loop
+2017-11-10 07:11:12 Friends  : 98.8% at 46/sec for CalderdaleCol
+2017-11-10 07:11:20 Friends  : 99.3% at 35/sec for centralcollnott
+2017-11-10 07:11:43 Friends  : 99.3% at 42/sec for cmackinlay
+2017-11-10 07:11:48 Tweets   : 52.9% at 51/sec for collabgrp
+2017-11-10 07:12:13 Friends  : 99.5% at 45/sec for collabgrp
+2017-11-10 07:12:13 Friends  : Waiting for 6.8 minutes
+2017-11-10 07:12:52 Tweets   : 32.5% at 50/sec for DanJarvisMP
+2017-11-10 07:13:16 Tweets   : 99.8% at 43/sec for fcot
+2017-11-10 07:14:23 Tweets   : 98.7% at 47/sec for festival_learn
+2017-11-10 07:15:31 Tweets   : 36.9% at 48/sec for gatesheadcoll
+2017-11-10 07:16:30 Tweets   : 50.7% at 53/sec for HackneyCC
+2017-11-10 07:17:33 Tweets   : 100% at 50/sec for LindseyWSC
+2017-11-10 07:18:22 Tweets   : 99.9% at 47/sec for LondonColleges
+2017-11-10 07:19:38 Tweets   : 8.6% at 42/sec for Lotte_IWill
+2017-11-10 07:20:09 Tweets   : 100% at 50/sec for LT_WiltsColl
+2017-11-10 07:21:11 Tweets   : 14.1% at 52/sec for MyerscoughColl
+2017-11-10 07:22:13 Friends  : 99.3% at 13/sec for DanJarvisMP
+2017-11-10 07:22:15 Friends  : 98.1% at 26/sec for fcot
+2017-11-10 07:22:19 Tweets   : 62.4% at 47/sec for NicolaCodd
+2017-11-10 07:22:49 Friends  : 97.9% at 51/sec for festival_learn
+2017-11-10 07:23:06 Friends  : 97.3% at 42/sec for gatesheadcoll
+2017-11-10 07:23:24 Tweets   : 96.7% at 49/sec for sdcet
+2017-11-10 07:23:29 Favorites: 50.1% at 3/sec for collabgrp
+2017-11-10 07:23:59 Friends  : 99.5% at 45/sec for HackneyCC
+2017-11-10 07:24:28 Friends  : 97.7% at 41/sec for LindseyWSC
+2017-11-10 07:24:37 Tweets   : 56.1% at 43/sec for sgs_college
+2017-11-10 07:24:41 Friends  : 98.8% at 45/sec for LondonColleges
+2017-11-10 07:24:49 Favorites: 11.8% at 40/sec for DanJarvisMP
+2017-11-10 07:24:53 Favorites: 78.8% at 47/sec for fcot
+2017-11-10 07:25:16 Tweets   : 99.8% at 52/sec for sgs_stroud
+2017-11-10 07:25:26 Favorites: 50% at 42/sec for festival_learn
+2017-11-10 07:26:04 Favorites: 49.7% at 39/sec for gatesheadcoll
+2017-11-10 07:26:19 Favorites: 54.2% at 40/sec for HackneyCC
+2017-11-10 07:26:21 Favorites: Waiting for 12 minutes due to : Used up allowance in a loop
+2017-11-10 07:26:21 Tweets   : 12.1% at 49/sec for shanechowen
+2017-11-10 07:26:22 Friends  : 99.5% at 41/sec for Lotte_IWill
+2017-11-10 07:26:28 Friends  : 98.1% at 38/sec for LT_WiltsColl
+2017-11-10 07:27:09 Friends  : 99.3% at 40/sec for MyerscoughColl
+2017-11-10 07:27:19 Friends  : 99.4% at 37/sec for NicolaCodd
+2017-11-10 07:27:24 Tweets   : 45.7% at 51/sec for StanmoreCollege
+2017-11-10 07:28:03 Friends  : 99.6% at 47/sec for sdcet
+2017-11-10 07:28:20 Friends  : 100% at 46/sec for sgs_college
+2017-11-10 07:28:30 Tweets   : 9.4% at 48/sec for stephbreakfast
+2017-11-10 07:28:32 Friends  : 99.3% at 47/sec for sgs_stroud
+2017-11-10 07:28:32 Friends  : Waiting for 5.7 minutes
+2017-11-10 07:29:40 Tweets   : 47.9% at 46/sec for stock_college
+2017-11-10 07:30:36 Tweets   : 4.9% at 57/sec for tes
+2017-11-10 07:31:34 Tweets   : 29% at 55/sec for UKHouseofLords
+2017-11-10 07:32:34 Tweets   : 99.5% at 51/sec for Y_FovargueMP
+2017-11-10 07:33:39 Tweets   : 64.6% at 49/sec for AndyBuchanCEEC
+2017-11-10 07:33:55 Tweets   : 100% at 32/sec for BeyondtheStove
+2017-11-10 07:34:28 Tweets   : 99.4% at 43/sec for BSE_CG
+2017-11-10 07:35:07 Friends  : 99% at 6/sec for shanechowen
+2017-11-10 07:35:17 Friends  : 99.3% at 48/sec for StanmoreCollege
+2017-11-10 07:35:28 Tweets   : 84% at 53/sec for DraytonHeating
+2017-11-10 07:35:40 Friends  : 99.6% at 49/sec for stephbreakfast
+2017-11-10 07:35:49 Tweets   : 99.9% at 41/sec for heatraesadia
+2017-11-10 07:35:54 Friends  : 97.5% at 47/sec for stock_college
+2017-11-10 07:36:16 Friends  : 99.7% at 43/sec for tes
+2017-11-10 07:36:39 Friends  : 99.7% at 48/sec for UKHouseofLords
+2017-11-10 07:36:49 Tweets   : 50.5% at 54/sec for Intergasheating
+2017-11-10 07:36:55 Friends  : 98.4% at 49/sec for Y_FovargueMP
+2017-11-10 07:37:02 Friends  : 98.8% at 40/sec for AndyBuchanCEEC
+2017-11-10 07:37:04 Friends  : 99.1% at 43/sec for BeyondtheStove
+2017-11-10 07:37:12 Friends  : 99.7% at 45/sec for BSE_CG
+2017-11-10 07:37:51 Tweets   : 35.5% at 51/sec for julesmclean19
+2017-11-10 07:38:09 Tweets   : 99.6% at 36/sec for kaneanalysers
+2017-11-10 07:38:51 Favorites: Unable to find account LindseyWSC during loop number 9 moving to next loop
+2017-11-10 07:38:52 Favorites: Unable to find account LindseyWSC during loop number 10 moving to next loop
+2017-11-10 07:38:53 Favorites: Unable to find account LindseyWSC during loop number 11 moving to next loop
+2017-11-10 07:38:54 Favorites: Unable to find account LindseyWSC during loop number 12 moving to next loop
+2017-11-10 07:38:54 Favorites: Unable to find account LindseyWSC during loop number 13 moving to next loop
+2017-11-10 07:38:55 Favorites: Unable to find account LindseyWSC during loop number 14 moving to next loop
+2017-11-10 07:38:56 Favorites: Unable to find account LindseyWSC during loop number 15 moving to next loop
+2017-11-10 07:38:57 Favorites: Unable to find account LindseyWSC during loop number 16 moving to next loop
+2017-11-10 07:38:58 Favorites: Unable to find account LindseyWSC during loop number 17 moving to next loop
+2017-11-10 07:38:58 Favorites: Unable to find account LindseyWSC during loop number 18 moving to next loop
+2017-11-10 07:38:59 Favorites: Unable to find account LindseyWSC during loop number 19 moving to next loop
+2017-11-10 07:38:59 Favorites: Unable to find account LindseyWSC during loop number 20 moving to next loop
+2017-11-10 07:38:59 Favorites: 20.1% at 1/sec for LindseyWSC
+2017-11-10 07:39:00 Favorites: Unable to find account LondonColleges during loop number 1 moving to next loop
+2017-11-10 07:39:01 Favorites: Unable to find account LondonColleges during loop number 2 moving to next loop
+2017-11-10 07:39:02 Favorites: Unable to find account LondonColleges during loop number 3 moving to next loop
+2017-11-10 07:39:02 Favorites: Unable to find account LondonColleges during loop number 4 moving to next loop
+2017-11-10 07:39:03 Favorites: Unable to find account LondonColleges during loop number 5 moving to next loop
+2017-11-10 07:39:03 Favorites: Unable to find account LondonColleges during loop number 6 moving to next loop
+2017-11-10 07:39:04 Favorites: Unable to find account LondonColleges during loop number 7 moving to next loop
+2017-11-10 07:39:04 Favorites: Unable to find account LondonColleges during loop number 8 moving to next loop
+2017-11-10 07:39:05 Favorites: Unable to find account LondonColleges during loop number 9 moving to next loop
+2017-11-10 07:39:05 Favorites: Unable to find account LondonColleges during loop number 10 moving to next loop
+2017-11-10 07:39:06 Favorites: Unable to find account LondonColleges during loop number 11 moving to next loop
+2017-11-10 07:39:06 Favorites: Unable to find account LondonColleges during loop number 12 moving to next loop
+2017-11-10 07:39:06 Friends  : 96.2% at 43/sec for DraytonHeating
+2017-11-10 07:39:09 Favorites: Unable to find account LondonColleges during loop number 14 moving to next loop
+2017-11-10 07:39:09 Favorites: 3.7% at 11/sec for LondonColleges
+2017-11-10 07:39:09 Favorites: Unable to find account Lotte_IWill during loop number 1 moving to next loop
+2017-11-10 07:39:20 Friends  : 99.8% at 43/sec for heatraesadia
+2017-11-10 07:39:23 Tweets   : 63.6% at 43/sec for PumpWorldUK
+2017-11-10 07:39:33 Favorites: 49.1% at 41/sec for Lotte_IWill
+2017-11-10 07:39:42 Favorites: 65.8% at 45/sec for LT_WiltsColl
+2017-11-10 07:39:48 Favorites: 67.8% at 36/sec for MyerscoughColl
+2017-11-10 07:40:07 Friends  : 88.7% at 42/sec for Intergasheating
+2017-11-10 07:40:38 Friends  : 99.1% at 44/sec for julesmclean19
+2017-11-10 07:40:38 Friends  : Waiting for 8.8 minutes
+2017-11-10 07:41:05 Favorites: 48.6% at 42/sec for NicolaCodd
+2017-11-10 07:41:09 Favorites: 81.6% at 50/sec for sdcet
+2017-11-10 07:41:11 Favorites: 97.6% at 44/sec for sgs_college
+2017-11-10 07:41:15 Favorites: 91.3% at 48/sec for sgs_stroud
+2017-11-10 07:41:44 Favorites: Waiting for 11.8 minutes due to : Used up allowance in a loop
+2017-11-10 07:50:54 Friends  : 88.7% at 7/sec for kaneanalysers
+2017-11-10 07:52:28 Friends  : 93.4% at 49/sec for PumpWorldUK
+2017-11-10 07:53:38 Favorites: 48.1% at 2/sec for shanechowen
+2017-11-10 07:53:48 Favorites: 52.7% at 46/sec for StanmoreCollege
+2017-11-10 07:54:27 Favorites: 48.8% at 45/sec for stephbreakfast
+2017-11-10 07:54:54 Favorites: 52.3% at 44/sec for stock_college
+2017-11-10 07:55:10 Favorites: 54.1% at 44/sec for tes
+2017-11-10 07:55:10 Favorites: User UKHouseofLords has a protected account or no Favoritess to collect so skipping
+2017-11-10 07:55:12 Favorites: 96.1% at 47/sec for Y_FovargueMP
+2017-11-10 07:55:13 Favorites: 100% at 23/sec for AndyBuchanCEEC
+2017-11-10 07:55:17 Favorites: 59.4% at 47/sec for BeyondtheStove
+2017-11-10 07:55:19 Favorites: 60.7% at 48/sec for BSE_CG
+2017-11-10 07:55:26 Favorites: 49.3% at 41/sec for DraytonHeating
+2017-11-10 07:55:28 Favorites: 51.6% at 46/sec for heatraesadia
+2017-11-10 07:55:48 Favorites: 53.9% at 45/sec for Intergasheating
+2017-11-10 07:56:20 Favorites: Waiting for 12.3 minutes due to : Used up allowance in a loop
+2017-11-10 08:08:42 Favorites: 40.2% at 2/sec for julesmclean19
+2017-11-10 08:08:48 Favorites: 54.2% at 45/sec for kaneanalysers
+2017-11-10 08:09:16 Favorites: 50.6% at 45/sec for PumpWorldUK
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+Warning message:
+Warning message:
+package 'twitteR' was built under R version 3.4.1 

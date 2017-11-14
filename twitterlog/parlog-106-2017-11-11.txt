@@ -1,0 +1,171 @@
+starting worker pid=4220 on localhost:11045 at 00:52:18.805
+starting worker pid=14580 on localhost:11045 at 00:52:18.965
+starting worker pid=13568 on localhost:11045 at 00:52:19.137
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-11 00:53:36 Friends  : 99.4% at 30/sec for MicrosoftUK
+2017-11-11 00:53:43 Friends  : 98.5% at 37/sec for OGAuthority
+2017-11-11 00:54:20 Friends  : 99% at 43/sec for RegenSW
+2017-11-11 00:54:45 Favorites: Waiting for 4.7 minutes due to : Used up allowance in a loop
+2017-11-11 00:55:17 Friends  : 100% at 38/sec for TheBMA
+2017-11-11 00:56:35 Friends  : 98.6% at 40/sec for theCCCuk
+2017-11-11 00:56:42 Tweets   : 26.3% at 48/sec for MicrosoftUK
+2017-11-11 00:57:01 Tweets   : 100% at 34/sec for OGAuthority
+2017-11-11 00:58:16 Tweets   : 26.4% at 43/sec for RegenSW
+2017-11-11 00:58:40 Friends  : 99.7% at 40/sec for UKinItaly
+2017-11-11 00:58:49 Friends  : 99.7% at 31/sec for aa_direct
+2017-11-11 00:59:01 Friends  : 99.5% at 38/sec for bespokedarlo
+2017-11-11 00:59:28 Tweets   : 11% at 45/sec for TheBMA
+2017-11-11 00:59:34 Friends  : 98.1% at 36/sec for bigwindowfitter
+2017-11-11 01:00:13 Favorites: 50.6% at 6/sec for MicrosoftUK
+2017-11-11 01:00:18 Favorites: 94.3% at 35/sec for OGAuthority
+2017-11-11 01:00:32 Friends  : 100% at 34/sec for CenturionWindow
+2017-11-11 01:00:37 Favorites: 54.9% at 42/sec for RegenSW
+2017-11-11 01:00:40 Tweets   : 99.4% at 44/sec for theCCCuk
+2017-11-11 01:01:01 Friends  : 100% at 35/sec for ChatsworthWindo
+2017-11-11 01:01:02 Friends  : Waiting for 3.5 minutes
+2017-11-11 01:01:06 Favorites: 49.3% at 41/sec for TheBMA
+2017-11-11 01:01:36 Favorites: 50.9% at 42/sec for theCCCuk
+2017-11-11 01:02:02 Tweets   : 16.5% at 39/sec for UKinItaly
+2017-11-11 01:02:05 Favorites: 52.1% at 42/sec for UKinItaly
+2017-11-11 01:02:05 Favorites: 100% at 3/sec for aa_direct
+2017-11-11 01:02:06 Favorites: 100% at 53/sec for bespokedarlo
+2017-11-11 01:02:15 Tweets   : 100% at 26/sec for aa_direct
+2017-11-11 01:02:28 Tweets   : 100% at 23/sec for bespokedarlo
+2017-11-11 01:02:30 Favorites: Waiting for 12.1 minutes due to : Used up allowance in a loop
+2017-11-11 01:03:45 Tweets   : 12.6% at 41/sec for bigwindowfitter
+2017-11-11 01:04:24 Tweets   : 99.9% at 37/sec for CenturionWindow
+2017-11-11 01:04:38 Tweets   : 99.7% at 27/sec for ChatsworthWindo
+2017-11-11 01:05:39 Friends  : 98.4% at 8/sec for claireheywood6
+2017-11-11 01:05:55 Tweets   : 38.5% at 41/sec for claireheywood6
+2017-11-11 01:06:18 Friends  : 96.8% at 34/sec for GilhamandGilham
+2017-11-11 01:06:34 Friends  : 99.5% at 40/sec for Homesealwindows
+2017-11-11 01:06:46 Tweets   : 99.8% at 46/sec for GilhamandGilham
+2017-11-11 01:07:19 Friends  : 100% at 43/sec for Jake_DGCOS
+2017-11-11 01:07:56 Friends  : 99.5% at 39/sec for jfplastics
+2017-11-11 01:08:01 Tweets   : 86.6% at 43/sec for Homesealwindows
+2017-11-11 01:08:12 Tweets   : 100% at 20/sec for Jake_DGCOS
+2017-11-11 01:08:46 Friends  : 100% at 38/sec for LockRiteLock
+2017-11-11 01:09:02 Friends  : 99.2% at 38/sec for mozandmurray
+2017-11-11 01:09:06 Tweets   : 99.8% at 38/sec for jfplastics
+2017-11-11 01:10:06 Friends  : 99% at 36/sec for nwtraining11
+2017-11-11 01:10:14 Tweets   : 100% at 39/sec for LockRiteLock
+2017-11-11 01:11:03 Friends  : 99.7% at 35/sec for ProInstaller1
+2017-11-11 01:11:04 Tweets   : 99.7% at 43/sec for mozandmurray
+2017-11-11 01:11:54 Tweets   : 98.8% at 46/sec for nwtraining11
+2017-11-11 01:12:31 Tweets   : 100% at 38/sec for ProInstaller1
+2017-11-11 01:12:37 Friends  : 97.9% at 35/sec for pwgray
+2017-11-11 01:12:41 Friends  : 100% at 42/sec for refreshroof
+2017-11-11 01:12:43 Friends  : 100% at 3/sec for res1948
+2017-11-11 01:12:47 Friends  : 99.3% at 38/sec for RFM_Windows
+2017-11-11 01:13:31 Friends  : 99.2% at 39/sec for ShireDoors
+2017-11-11 01:13:46 Friends  : 98.6% at 39/sec for silikaltd
+2017-11-11 01:13:46 Friends  : Waiting for 5.9 minutes
+2017-11-11 01:13:47 Tweets   : 20.8% at 41/sec for pwgray
+2017-11-11 01:13:57 Tweets   : 100% at 18/sec for refreshroof
+2017-11-11 01:14:03 Tweets   : 100% at 2/sec for res1948
+2017-11-11 01:14:25 Tweets   : 99.7% at 35/sec for RFM_Windows
+2017-11-11 01:14:43 Tweets   : 99.8% at 34/sec for ShireDoors
+2017-11-11 01:15:50 Favorites: 20.3% at 4/sec for bigwindowfitter
+2017-11-11 01:15:51 Favorites: 100% at 11/sec for CenturionWindow
+2017-11-11 01:15:52 Favorites: 100% at 24/sec for ChatsworthWindo
+2017-11-11 01:16:01 Tweets   : 72.1% at 41/sec for silikaltd
+2017-11-11 01:17:07 Favorites: 40.9% at 42/sec for claireheywood6
+2017-11-11 01:17:07 Favorites: 100% at 23/sec for GilhamandGilham
+2017-11-11 01:17:18 Tweets   : 34.3% at 42/sec for SpectusWindows
+2017-11-11 01:17:33 Favorites: 50.6% at 45/sec for Homesealwindows
+2017-11-11 01:17:36 Favorites: 67.6% at 42/sec for Jake_DGCOS
+2017-11-11 01:17:43 Favorites: Waiting for 12.2 minutes due to : Used up allowance in a loop
+2017-11-11 01:18:28 Tweets   : 24.1% at 45/sec for TaverhamConserv
+2017-11-11 01:19:03 Tweets   : 99.9% at 42/sec for themediavillage
+2017-11-11 01:19:38 Tweets   : 99.9% at 37/sec for windowarehouse
+2017-11-11 01:20:26 Tweets   : 100% at 43/sec for WindowExchange
+2017-11-11 01:20:40 Tweets   : 100% at 23/sec for YourChoice_Uk
+2017-11-11 01:20:46 Tweets   : 100% at 11/sec for windowshereford
+2017-11-11 01:21:22 Friends  : 97% at 7/sec for SpectusWindows
+2017-11-11 01:21:37 Tweets   : 99.9% at 38/sec for _antonyoliver_
+2017-11-11 01:22:26 Tweets   : 99.9% at 34/sec for alanpenn
+2017-11-11 01:22:40 Friends  : 99.4% at 34/sec for TaverhamConserv
+2017-11-11 01:23:00 Friends  : 98.5% at 31/sec for themediavillage
+2017-11-11 01:23:39 Friends  : 99.7% at 30/sec for windowarehouse
+2017-11-11 01:23:41 Tweets   : 91.6% at 43/sec for cany_ash
+2017-11-11 01:24:06 Friends  : 98.6% at 40/sec for WindowExchange
+2017-11-11 01:24:23 Friends  : 100% at 36/sec for YourChoice_Uk
+2017-11-11 01:24:24 Friends  : 100% at 11/sec for windowshereford
+2017-11-11 01:24:33 Tweets   : 99.7% at 42/sec for nickygavron
+2017-11-11 01:24:44 Friends  : 99.8% at 42/sec for _antonyoliver_
+2017-11-11 01:24:45 Friends  : 97.9% at 27/sec for alanpenn
+2017-11-11 01:25:05 Tweets   : 99.9% at 38/sec for UniRdg_Arc
+2017-11-11 01:25:33 Tweets   : 100.1% at 37/sec for VercoAdvisory
+2017-11-11 01:25:43 Friends  : 99.7% at 39/sec for cany_ash
+2017-11-11 01:25:51 Tweets   : 100% at 31/sec for aeastlake
+2017-11-11 01:26:05 Friends  : 99.3% at 38/sec for nickygavron
+2017-11-11 01:26:25 Friends  : 98% at 36/sec for UniRdg_Arc
+2017-11-11 01:26:35 Friends  : 98.6% at 35/sec for VercoAdvisory
+2017-11-11 01:26:39 Friends  : 96.9% at 32/sec for aeastlake
+2017-11-11 01:27:08 Tweets   : 32.4% at 41/sec for ageukcampaigns
+2017-11-11 01:27:38 Friends  : 99.5% at 37/sec for ageukcampaigns
+2017-11-11 01:27:39 Friends  : Waiting for 7.3 minutes
+2017-11-11 01:28:32 Tweets   : 8.3% at 38/sec for alexharteco
+2017-11-11 01:28:46 Tweets   : 99.7% at 25/sec for Antonia_Dickman
+2017-11-11 01:29:21 Tweets   : 99.8% at 37/sec for APPCCG
+2017-11-11 01:30:15 Tweets   : 99.7% at 45/sec for BenergyEU
+2017-11-11 01:30:19 Favorites: 50.2% at 1/sec for jfplastics
+2017-11-11 01:30:22 Favorites: 53.1% at 51/sec for LockRiteLock
+2017-11-11 01:30:30 Tweets   : 99.8% at 33/sec for BoilerPlanUK
+2017-11-11 01:30:36 Favorites: 57.8% at 43/sec for mozandmurray
+2017-11-11 01:30:41 Favorites: 53.3% at 38/sec for nwtraining11
+2017-11-11 01:30:42 Favorites: 61% at 72/sec for ProInstaller1
+2017-11-11 01:31:08 Tweets   : 99.7% at 40/sec for CarolineSWatson
+[1] "Server error: (500) Internal Server Error"
+[1] "This error is likely transient, retrying up to 5 more times ..."
+2017-11-11 01:31:59 Favorites: 46.5% at 40/sec for pwgray
+2017-11-11 01:32:00 Favorites: 100% at 13/sec for refreshroof
+2017-11-11 01:32:00 Favorites: User res1948 has a protected account or no Favoritess to collect so skipping
+2017-11-11 01:32:05 Favorites: 86% at 37/sec for RFM_Windows
+2017-11-11 01:32:07 Favorites: 89% at 63/sec for ShireDoors
+2017-11-11 01:32:24 Tweets   : 54.6% at 43/sec for centre_alt_tech
+2017-11-11 01:32:32 Favorites: 50.4% at 43/sec for silikaltd
+2017-11-11 01:33:04 Favorites: Waiting for 12.2 minutes due to : Used up allowance in a loop
+2017-11-11 01:33:36 Tweets   : 20.1% at 44/sec for Chrisitv
+2017-11-11 01:34:49 Tweets   : 0.7% at 44/sec for Daily_Express
+2017-11-11 01:37:16 Friends  : 99.3% at 9/sec for alexharteco
+2017-11-11 01:37:21 Friends  : 100% at 41/sec for Antonia_Dickman
+2017-11-11 01:37:35 Friends  : 99.3% at 46/sec for APPCCG
+2017-11-11 01:38:36 Friends  : 99.2% at 46/sec for BenergyEU
+2017-11-11 01:38:46 Friends  : 98.7% at 41/sec for BoilerPlanUK
+2017-11-11 01:39:04 Friends  : 99.6% at 41/sec for CarolineSWatson
+2017-11-11 01:40:05 Friends  : 99.7% at 45/sec for centre_alt_tech
+2017-11-11 01:46:02 Favorites: 50.1% at 3/sec for SpectusWindows
+2017-11-11 01:46:19 Favorites: 56.7% at 41/sec for TaverhamConserv
+2017-11-11 01:46:28 Favorites: 57.8% at 47/sec for themediavillage
+2017-11-11 01:46:30 Favorites: 60.4% at 36/sec for windowarehouse
+2017-11-11 01:46:31 Favorites: 97.9% at 51/sec for WindowExchange
+2017-11-11 01:46:32 Favorites: 100% at 19/sec for YourChoice_Uk
+2017-11-11 01:46:32 Favorites: User windowshereford has a protected account or no Favoritess to collect so skipping
+2017-11-11 01:46:33 Favorites: 100% at 3/sec for _antonyoliver_
+2017-11-11 01:46:40 Favorites: 68.4% at 43/sec for alanpenn
+2017-11-11 01:46:47 Favorites: 68.2% at 41/sec for cany_ash
+2017-11-11 01:46:52 Favorites: 79.3% at 43/sec for nickygavron
+2017-11-11 01:47:04 Favorites: 51.4% at 43/sec for UniRdg_Arc
+2017-11-11 01:47:06 Favorites: 62.5% at 39/sec for VercoAdvisory
+2017-11-11 01:47:06 Favorites: 100% at 3/sec for aeastlake
+2017-11-11 01:47:23 Favorites: 50.4% at 42/sec for ageukcampaigns
+2017-11-11 01:48:27 Favorites: 51.4% at 41/sec for alexharteco
+2017-11-11 01:48:27 Favorites: Waiting for 12.1 minutes due to : Used up allowance in a loop
+2017-11-11 01:49:23 Friends  : 97.6% at 37/sec for Chrisitv
+2017-11-11 01:49:35 Friends  : 99.4% at 45/sec for Daily_Express
+2017-11-11 02:00:56 Favorites: 100% at 0/sec for Antonia_Dickman
+2017-11-11 02:01:00 Favorites: 71.5% at 50/sec for APPCCG
+2017-11-11 02:01:24 Favorites: 52.4% at 45/sec for BenergyEU
+2017-11-11 02:01:26 Favorites: 94.1% at 35/sec for BoilerPlanUK
+2017-11-11 02:01:32 Favorites: 70.7% at 47/sec for CarolineSWatson
+2017-11-11 02:01:39 Favorites: 50.4% at 47/sec for centre_alt_tech
+2017-11-11 02:01:53 Favorites: 50.1% at 46/sec for Chrisitv
+2017-11-11 02:01:55 Favorites: 76.5% at 8/sec for Daily_Express
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+package 'twitteR' was built under R version 3.4.1 

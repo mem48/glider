@@ -1,0 +1,174 @@
+starting worker pid=15596 on localhost:11045 at 00:45:50.258
+starting worker pid=14928 on localhost:11045 at 00:45:50.420
+starting worker pid=7548 on localhost:11045 at 00:45:50.582
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-14 00:49:15 Friends  : 98% at 35/sec for Hightowngroup
+2017-11-14 00:49:21 Friends  : 94.9% at 28/sec for HolmesKitchens
+2017-11-14 00:49:31 Friends  : 99.7% at 34/sec for homebuildcareer
+2017-11-14 00:49:39 Friends  : 100% at 29/sec for hwwilsonltd
+2017-11-14 00:49:48 Friends  : 100% at 40/sec for ICE_GSNet
+2017-11-14 00:50:20 Friends  : 99% at 40/sec for ICEScotland
+2017-11-14 00:50:29 Friends  : 99.3% at 32/sec for InspiringYNYER
+2017-11-14 00:50:44 Friends  : 98.3% at 39/sec for IoannaPapaniko5
+2017-11-14 00:50:56 Favorites: 53% at 31/sec for Hightowngroup
+2017-11-14 00:51:18 Favorites: 50% at 22/sec for HolmesKitchens
+2017-11-14 00:51:19 Favorites: 100% at 54/sec for homebuildcareer
+2017-11-14 00:51:23 Favorites: 102.9% at 8/sec for hwwilsonltd
+2017-11-14 00:51:24 Favorites: 102.4% at 46/sec for ICE_GSNet
+2017-11-14 00:51:44 Favorites: Waiting for 1.9 minutes due to : Used up allowance in a loop
+2017-11-14 00:51:56 Friends  : 98.2% at 36/sec for IOMworld
+2017-11-14 00:52:00 Friends  : 97.4% at 52/sec for ISL_Scaffolding
+2017-11-14 00:52:14 Friends  : 98.4% at 33/sec for jagwoodley
+2017-11-14 00:52:40 Friends  : 99.7% at 40/sec for JamesFord13
+2017-11-14 00:52:57 Friends  : 98.8% at 35/sec for jameslatham_
+2017-11-14 00:53:09 Friends  : 99.4% at 28/sec for JamesWardLtd
+2017-11-14 00:53:11 Friends  : 100% at 40/sec for JaneGleave
+2017-11-14 00:53:11 Friends  : Waiting for 10.2 minutes
+2017-11-14 00:53:40 Favorites: 52.9% at 7/sec for ICEScotland
+2017-11-14 00:53:45 Favorites: 98.8% at 18/sec for InspiringYNYER
+2017-11-14 00:53:54 Favorites: 58.6% at 42/sec for IoannaPapaniko5
+2017-11-14 00:54:00 Favorites: 54.1% at 33/sec for IOMworld
+2017-11-14 00:54:01 Favorites: 100% at 52/sec for ISL_Scaffolding
+2017-11-14 00:54:10 Tweets   : 99.9% at 35/sec for Hightowngroup
+2017-11-14 00:54:10 Favorites: 55.5% at 43/sec for jagwoodley
+2017-11-14 00:54:11 Favorites: 85.2% at 42/sec for JamesFord13
+2017-11-14 00:54:26 Favorites: 57.3% at 40/sec for jameslatham_
+2017-11-14 00:54:27 Favorites: 100% at 66/sec for JamesWardLtd
+2017-11-14 00:54:28 Favorites: 97.1% at 39/sec for JaneGleave
+2017-11-14 00:54:36 Favorites: 63.8% at 38/sec for jasonkitcat
+2017-11-14 00:54:37 Favorites: 100% at 41/sec for JeffCuthbert
+2017-11-14 00:54:37 Favorites: 100% at 14/sec for Jenjen_graham
+2017-11-14 00:54:43 Favorites: 61.3% at 31/sec for JennaFrudd
+2017-11-14 00:54:51 Favorites: 49.9% at 36/sec for jmedlerltd
+2017-11-14 00:55:08 Tweets   : 99.8% at 41/sec for HolmesKitchens
+2017-11-14 00:55:22 Tweets   : 100% at 34/sec for homebuildcareer
+2017-11-14 00:55:41 Tweets   : 99.9% at 35/sec for hwwilsonltd
+2017-11-14 00:55:56 Favorites: 50% at 41/sec for jobman
+2017-11-14 00:56:27 Favorites: 50.5% at 41/sec for John_WeaverLtd
+2017-11-14 00:56:35 Favorites: Waiting for 12.1 minutes due to : Used up allowance in a loop
+2017-11-14 00:56:51 Tweets   : 99.9% at 42/sec for ICE_GSNet
+2017-11-14 00:58:04 Tweets   : 81.4% at 44/sec for ICEScotland
+2017-11-14 00:59:03 Tweets   : 99.4% at 35/sec for InspiringYNYER
+2017-11-14 00:59:16 Tweets   : 100% at 26/sec for IoannaPapaniko5
+2017-11-14 01:00:29 Tweets   : 66.3% at 44/sec for IOMworld
+2017-11-14 01:00:37 Tweets   : 100% at 23/sec for ISL_Scaffolding
+2017-11-14 01:01:07 Tweets   : 100% at 37/sec for jagwoodley
+2017-11-14 01:01:19 Tweets   : 99% at 17/sec for JamesFord13
+2017-11-14 01:02:27 Tweets   : 68.9% at 46/sec for jameslatham_
+2017-11-14 01:02:41 Tweets   : 99.7% at 25/sec for JamesWardLtd
+2017-11-14 01:02:53 Tweets   : 99.4% at 16/sec for JaneGleave
+2017-11-14 01:03:30 Friends  : 99.5% at 1/sec for jasonkitcat
+2017-11-14 01:04:04 Friends  : 100% at 27/sec for JeffCuthbert
+2017-11-14 01:04:05 Friends  : 100% at 28/sec for Jenjen_graham
+2017-11-14 01:04:07 Tweets   : 19.8% at 43/sec for jasonkitcat
+2017-11-14 01:04:13 Friends  : 99.7% at 40/sec for JennaFrudd
+2017-11-14 01:04:22 Friends  : 95.6% at 38/sec for jmedlerltd
+2017-11-14 01:04:37 Tweets   : 99.8% at 37/sec for JeffCuthbert
+2017-11-14 01:04:43 Tweets   : 90.9% at 2/sec for Jenjen_graham
+2017-11-14 01:05:02 Tweets   : 99.5% at 30/sec for JennaFrudd
+2017-11-14 01:05:16 Tweets   : 100% at 26/sec for jmedlerltd
+2017-11-14 01:06:24 Friends  : 94.9% at 38/sec for jobman
+2017-11-14 01:06:35 Tweets   : 77.7% at 40/sec for jobman
+2017-11-14 01:06:36 Friends  : 97.8% at 32/sec for John_WeaverLtd
+2017-11-14 01:06:37 Friends  : 100% at 25/sec for JohnNicholRAF
+2017-11-14 01:06:39 Friends  : 100% at 38/sec for jondaviesCITB
+2017-11-14 01:06:56 Tweets   : 100% at 35/sec for John_WeaverLtd
+2017-11-14 01:07:01 Friends  : 99.5% at 36/sec for JuliaKollewe
+2017-11-14 01:07:38 Friends  : 100% at 41/sec for JuliaWordFire
+2017-11-14 01:07:43 Friends  : 100% at 19/sec for Julie47608868
+2017-11-14 01:07:45 Friends  : 100% at 19/sec for Just_Safety
+2017-11-14 01:07:47 Friends  : 100% at 48/sec for KarenHFS
+2017-11-14 01:07:55 Friends  : 100% at 28/sec for karlmccartney
+2017-11-14 01:07:55 Friends  : Waiting for 10.5 minutes
+2017-11-14 01:08:12 Tweets   : 24.5% at 43/sec for JohnNicholRAF
+2017-11-14 01:08:18 Tweets   : 100% at 2/sec for jondaviesCITB
+2017-11-14 01:09:36 Tweets   : 46.9% at 41/sec for JuliaKollewe
+2017-11-14 01:09:52 Favorites: 9.7% at 4/sec for JohnNicholRAF
+2017-11-14 01:09:52 Favorites: 100% at 9/sec for jondaviesCITB
+2017-11-14 01:09:54 Favorites: 99% at 63/sec for JuliaKollewe
+2017-11-14 01:09:55 Favorites: 98.8% at 55/sec for JuliaWordFire
+2017-11-14 01:09:59 Favorites: 100% at 6/sec for Julie47608868
+2017-11-14 01:09:59 Favorites: User Just_Safety has a protected account or no Favoritess to collect so skipping
+2017-11-14 01:10:00 Favorites: 100% at 60/sec for KarenHFS
+2017-11-14 01:10:00 Favorites: User karlmccartney has a protected account or no Favoritess to collect so skipping
+2017-11-14 01:10:01 Favorites: 100% at 36/sec for KatHealey78
+2017-11-14 01:10:02 Favorites: 100% at 37/sec for kc_nightingale
+2017-11-14 01:10:33 Favorites: 53% at 32/sec for kevinbusheca
+2017-11-14 01:10:34 Favorites: 100% at 50/sec for KevinLouch1
+2017-11-14 01:10:41 Favorites: 46.6% at 33/sec for Kinetic_Build
+2017-11-14 01:10:49 Favorites: 46.2% at 38/sec for LaRetraiteSW12
+2017-11-14 01:10:51 Favorites: 65.8% at 63/sec for LauraBradyCITB
+2017-11-14 01:10:51 Tweets   : 49.2% at 43/sec for JuliaWordFire
+2017-11-14 01:10:58 Tweets   : 100% at 9/sec for Julie47608868
+2017-11-14 01:11:05 Tweets   : 100% at 13/sec for Just_Safety
+2017-11-14 01:11:07 Favorites: 50.1% at 42/sec for LCB_Building
+2017-11-14 01:11:11 Favorites: 63.1% at 24/sec for lcbtiling
+2017-11-14 01:11:13 Favorites: 82.5% at 75/sec for LeifTarry
+2017-11-14 01:11:16 Tweets   : 98.7% at 14/sec for KarenHFS
+2017-11-14 01:11:36 Favorites: Waiting for 12.1 minutes due to : Used up allowance in a loop
+2017-11-14 01:12:35 Tweets   : 5.3% at 40/sec for karlmccartney
+2017-11-14 01:12:43 Tweets   : 100% at 12/sec for KatHealey78
+2017-11-14 01:12:55 Tweets   : 100% at 22/sec for kc_nightingale
+2017-11-14 01:14:15 Tweets   : 85.7% at 40/sec for kevinbusheca
+2017-11-14 01:14:30 Tweets   : 95.7% at 29/sec for KevinLouch1
+2017-11-14 01:15:00 Tweets   : 99.9% at 36/sec for Kinetic_Build
+2017-11-14 01:15:25 Tweets   : 99.4% at 21/sec for LaRetraiteSW12
+2017-11-14 01:15:31 Tweets   : 100% at 9/sec for LauraBradyCITB
+2017-11-14 01:16:36 Tweets   : 99.7% at 44/sec for LCB_Building
+2017-11-14 01:16:49 Tweets   : 99.3% at 21/sec for lcbtiling
+2017-11-14 01:17:01 Tweets   : 99.1% at 27/sec for LeifTarry
+2017-11-14 01:17:15 Tweets   : 99.5% at 29/sec for LeRouxEtienne
+2017-11-14 01:17:42 Tweets   : 99.7% at 37/sec for lewismith16
+2017-11-14 01:18:27 Friends  : 100% at 0/sec for KatHealey78
+2017-11-14 01:18:34 Friends  : 99.5% at 30/sec for kc_nightingale
+2017-11-14 01:18:50 Friends  : 97.2% at 36/sec for kevinbusheca
+2017-11-14 01:18:51 Tweets   : 36.1% at 46/sec for liftingcoolstuf
+2017-11-14 01:18:52 Friends  : 98.9% at 43/sec for KevinLouch1
+2017-11-14 01:19:19 Tweets   : 99.8% at 42/sec for LighthouseSafe
+2017-11-14 01:19:29 Tweets   : 100% at 4/sec for LincMaintenance
+2017-11-14 01:19:45 Tweets   : 99.2% at 37/sec for Lithodecor
+2017-11-14 01:19:46 Friends  : 98.2% at 38/sec for Kinetic_Build
+2017-11-14 01:19:53 Friends  : 97.8% at 26/sec for LaRetraiteSW12
+Error in twInterfaceObj$doAPICall(paste("users", "show", sep = "/"), params = params,  : 
+  Not Found (HTTP 404).
+In addition: Warning message:
+package 'twitteR' was built under R version 3.4.1 
+2017-11-14 01:19:54 Friends: Unable to find account LauraBradyCITB moving to next
+2017-11-14 01:19:54 Friends  : % at /sec for LauraBradyCITB
+2017-11-14 01:20:03 Tweets   : 98.8% at 28/sec for LlanelweddSch
+2017-11-14 01:20:10 Friends  : 99.1% at 41/sec for LCB_Building
+2017-11-14 01:20:19 Friends  : 98.4% at 35/sec for lcbtiling
+2017-11-14 01:20:20 Friends  : 92.3% at 20/sec for LeifTarry
+2017-11-14 01:20:24 Tweets   : 98.9% at 35/sec for LoveCornerstone
+2017-11-14 01:20:33 Friends  : 93.1% at 32/sec for LeRouxEtienne
+2017-11-14 01:20:34 Tweets   : 100% at 10/sec for lrctg
+2017-11-14 01:20:42 Friends  : 100% at 35/sec for lewismith16
+2017-11-14 01:20:59 Friends  : 99% at 41/sec for liftingcoolstuf
+2017-11-14 01:21:14 Friends  : 98.8% at 33/sec for LighthouseSafe
+2017-11-14 01:21:32 Friends  : 99.5% at 41/sec for LincMaintenance
+2017-11-14 01:21:34 Tweets   : 100% at 42/sec for LynneEEA
+2017-11-14 01:22:02 Friends  : 98.2% at 40/sec for Lithodecor
+2017-11-14 01:22:02 Friends  : Waiting for 11.5 minutes
+2017-11-14 01:23:40 Favorites: 12.9% at 1/sec for LeRouxEtienne
+2017-11-14 01:23:40 Favorites: Waiting for 0 minutes due to : Used up allowance in a loop
+2017-11-14 01:24:03 Favorites: 48.4% at 41/sec for lewismith16
+2017-11-14 01:24:10 Favorites: 65% at 42/sec for liftingcoolstuf
+2017-11-14 01:24:12 Favorites: 76.2% at 70/sec for LighthouseSafe
+2017-11-14 01:24:13 Favorites: 100% at 33/sec for LincMaintenance
+2017-11-14 01:24:17 Favorites: 95.2% at 22/sec for Lithodecor
+2017-11-14 01:24:18 Favorites: 92.2% at 54/sec for LlanelweddSch
+2017-11-14 01:24:20 Favorites: 93.9% at 62/sec for LoveCornerstone
+2017-11-14 01:24:21 Favorites: 100% at 26/sec for lrctg
+2017-11-14 01:24:26 Favorites: 87.1% at 33/sec for LynneEEA
+2017-11-14 01:33:32 Friends  : 96.6% at 0/sec for LlanelweddSch
+2017-11-14 01:36:42 Friends  : 99.7% at 38/sec for LoveCornerstone
+2017-11-14 01:36:43 Friends  : 97% at 41/sec for lrctg
+2017-11-14 01:36:50 Friends  : 98.6% at 32/sec for LynneEEA
+Warning messages:
+1: package 'twitteR' was built under R version 3.4.1 
+2: Warning message:
+package 'twitteR' was built under R version 3.4.1 
+In twInterfaceObj$doAPICall(cmd, params, method, ...) :
+  Rate limit encountered & retry limit reached - returning partial results

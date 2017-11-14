@@ -1,0 +1,220 @@
+starting worker pid=19020 on localhost:11045 at 08:11:05.946
+starting worker pid=13344 on localhost:11045 at 08:11:06.118
+starting worker pid=13824 on localhost:11045 at 08:11:06.274
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-10 08:12:22 Friends  : 96.6% at 43/sec for RedringUK
+2017-11-10 08:12:39 Friends  : 91.1% at 44/sec for SamBatchelder
+2017-11-10 08:12:40 Favorites: 55.2% at 36/sec for RedringUK
+2017-11-10 08:13:06 Favorites: 51.5% at 37/sec for SamBatchelder
+2017-11-10 08:13:16 Friends  : 90.5% at 43/sec for Titanheat
+2017-11-10 08:13:43 Friends  : 99.8% at 47/sec for VitalEnergi
+2017-11-10 08:13:54 Tweets   : 99.4% at 43/sec for RedringUK
+2017-11-10 08:13:59 Friends  : 95.3% at 42/sec for ambienteufh
+2017-11-10 08:14:17 Friends  : 97.9% at 39/sec for ClearChoiceCF
+2017-11-10 08:14:28 Favorites: 27.2% at 40/sec for Titanheat
+2017-11-10 08:14:32 Favorites: 70.6% at 42/sec for VitalEnergi
+2017-11-10 08:14:52 Tweets   : 93.4% at 55/sec for SamBatchelder
+2017-11-10 08:14:59 Favorites: Waiting for 8.7 minutes due to : Used up allowance in a loop
+2017-11-10 08:15:50 Friends  : 96.4% at 50/sec for GoonerKJP
+2017-11-10 08:15:56 Tweets   : 58.1% at 50/sec for Titanheat
+[1] "Server error: (500) Internal Server Error"
+[1] "This error is likely transient, retrying up to 5 more times ..."
+[1] "Server error: (500) Internal Server Error"
+[1] "This error is likely transient, retrying up to 4 more times ..."
+[1] "Server error: (500) Internal Server Error"
+[1] "This error is likely transient, retrying up to 3 more times ..."
+[1] "Server error: (500) Internal Server Error"
+[1] "This error is likely transient, retrying up to 2 more times ..."
+[1] "Server error: (500) Internal Server Error"
+[1] "This error is likely transient, retrying up to 1 more times ..."
+[1] "Server error: (500) Internal Server Error"
+[1] "This error is likely transient, retrying up to 0 more times ..."
+[1] "Server error: (500) Internal Server Error"
+[1] "This error is likely transient, retrying up to -1 more times ..."
+[1] "Server error: (500) Internal Server Error"
+[1] "This error is likely transient, retrying up to 5 more times ..."
+[1] "Server error: (500) Internal Server Error"
+[1] "This error is likely transient, retrying up to 4 more times ..."
+[1] "Server error: (500) Internal Server Error"
+[1] "This error is likely transient, retrying up to 3 more times ..."
+Error in twInterfaceObj$doAPICall(cmd, params, method, ...) : 
+  Service Unavailable (HTTP 503).
+In addition: Warning message:
+package 'twitteR' was built under R version 3.4.1 
+2017-11-10 08:16:11 Tweets: Unable to find account VitalEnergi moving to next
+2017-11-10 08:16:11 Tweets   : % at /sec for VitalEnergi
+2017-11-10 08:16:11 Friends  : 99.5% at 51/sec for HausProfiUK
+2017-11-10 08:16:22 Tweets   : 100% at 32/sec for ambienteufh
+2017-11-10 08:16:39 Tweets   : 99.7% at 37/sec for ClearChoiceCF
+2017-11-10 08:16:49 Friends  : 99.8% at 45/sec for Hep2O
+2017-11-10 08:17:40 Friends  : 99.4% at 41/sec for Intatec
+2017-11-10 08:17:45 Tweets   : 3.5% at 49/sec for GoonerKJP
+2017-11-10 08:17:55 Tweets   : 100% at 26/sec for HausProfiUK
+2017-11-10 08:17:56 Friends  : 98.6% at 43/sec for MoultonCollege
+2017-11-10 08:18:18 Friends  : 98.7% at 40/sec for WavinGroup
+2017-11-10 08:18:58 Tweets   : 57.9% at 51/sec for Hep2O
+2017-11-10 08:19:13 Friends  : 100% at 40/sec for 2080strategyex
+2017-11-10 08:19:31 Tweets   : 99.8% at 44/sec for Intatec
+2017-11-10 08:20:02 Friends  : 99.7% at 48/sec for abby_w_p
+2017-11-10 08:20:23 Friends  : 99.6% at 44/sec for AXELOS_GBP
+2017-11-10 08:20:24 Friends  : Waiting for 6.5 minutes
+2017-11-10 08:20:40 Tweets   : 53.5% at 46/sec for MoultonCollege
+2017-11-10 08:21:06 Tweets   : 99.8% at 46/sec for WavinGroup
+2017-11-10 08:22:01 Tweets   : 63.5% at 58/sec for 2080strategyex
+2017-11-10 08:23:00 Tweets   : 51.7% at 55/sec for abby_w_p
+2017-11-10 08:24:03 Tweets   : 30.5% at 51/sec for AXELOS_GBP
+2017-11-10 08:24:12 Tweets   : 100% at 25/sec for barry_spruce
+2017-11-10 08:24:28 Favorites: 50.5% at 4/sec for ambienteufh
+2017-11-10 08:24:43 Favorites: 53.8% at 39/sec for ClearChoiceCF
+2017-11-10 08:25:21 Tweets   : 55% at 46/sec for BillMcCluggage
+2017-11-10 08:26:01 Favorites: 7.8% at 41/sec for GoonerKJP
+2017-11-10 08:26:01 Favorites: 100% at 40/sec for HausProfiUK
+2017-11-10 08:26:14 Favorites: 57.6% at 36/sec for Hep2O
+2017-11-10 08:26:18 Favorites: 53.9% at 46/sec for Intatec
+2017-11-10 08:26:23 Tweets   : 34.3% at 51/sec for brionybragg
+2017-11-10 08:26:40 Favorites: 50.8% at 42/sec for MoultonCollege
+2017-11-10 08:26:50 Favorites: 57.2% at 39/sec for WavinGroup
+2017-11-10 08:26:52 Favorites: 100% at 40/sec for 2080strategyex
+2017-11-10 08:26:54 Favorites: Waiting for 12.1 minutes due to : Used up allowance in a loop
+2017-11-10 08:27:11 Tweets   : 99.8% at 51/sec for Caroline_McC
+2017-11-10 08:27:14 Friends  : 94.8% at 1/sec for barry_spruce
+2017-11-10 08:27:37 Friends  : 99.4% at 43/sec for BillMcCluggage
+2017-11-10 08:27:55 Friends  : 99.2% at 39/sec for brionybragg
+2017-11-10 08:28:14 Tweets   : 81.4% at 51/sec for CertesNews
+2017-11-10 08:28:21 Tweets   : 100% at 10/sec for changemakerPM
+2017-11-10 08:28:30 Friends  : 99.6% at 43/sec for Caroline_McC
+2017-11-10 08:28:39 Tweets   : 99.9% at 38/sec for ChloeStullLane
+2017-11-10 08:28:52 Tweets   : 98.6% at 31/sec for e2xLimited
+2017-11-10 08:29:02 Friends  : 99.8% at 42/sec for CertesNews
+2017-11-10 08:29:03 Friends  : 100% at 15/sec for changemakerPM
+2017-11-10 08:29:23 Friends  : 98.3% at 40/sec for ChloeStullLane
+2017-11-10 08:29:35 Friends  : 99.2% at 38/sec for e2xLimited
+2017-11-10 08:29:43 Friends  : 95.8% at 37/sec for EddieObeng
+2017-11-10 08:29:47 Friends  : 98.8% at 35/sec for EurOMA2017
+2017-11-10 08:30:02 Friends  : 99.6% at 39/sec for fgouldconnect
+2017-11-10 08:30:04 Tweets   : 65.7% at 44/sec for EddieObeng
+2017-11-10 08:30:09 Friends  : 99.6% at 35/sec for gonzoscott01
+2017-11-10 08:30:13 Friends  : 100% at 40/sec for GowerPMOT
+2017-11-10 08:30:21 Friends  : 100% at 36/sec for ICEEoE
+2017-11-10 08:30:30 Tweets   : 100% at 38/sec for EurOMA2017
+2017-11-10 08:30:38 Friends  : 99.1% at 38/sec for IT_Events
+2017-11-10 08:30:38 Friends  : Waiting for 11.5 minutes
+2017-11-10 08:31:33 Tweets   : 96% at 51/sec for fgouldconnect
+Error in twInterfaceObj$doAPICall(cmd, params, method, ...) : 
+  Service Unavailable (HTTP 503).
+2017-11-10 08:31:33 Tweets: Unable to find account gonzoscott01 moving to next
+2017-11-10 08:31:33 Tweets   : % at /sec for gonzoscott01
+[1] "Server error: (500) Internal Server Error"
+[1] "This error is likely transient, retrying up to 5 more times ..."
+[1] "Server error: (500) Internal Server Error"
+[1] "This error is likely transient, retrying up to 4 more times ..."
+[1] "Server error: (500) Internal Server Error"
+[1] "This error is likely transient, retrying up to 3 more times ..."
+[1] "Server error: (500) Internal Server Error"
+[1] "This error is likely transient, retrying up to 2 more times ..."
+[1] "Server error: (500) Internal Server Error"
+[1] "This error is likely transient, retrying up to 1 more times ..."
+[1] "Server error: (500) Internal Server Error"
+[1] "This error is likely transient, retrying up to 0 more times ..."
+[1] "Server error: (500) Internal Server Error"
+[1] "This error is likely transient, retrying up to -1 more times ..."
+[1] "Server error: (500) Internal Server Error"
+[1] "This error is likely transient, retrying up to -2 more times ..."
+[1] "Server error: (500) Internal Server Error"
+[1] "This error is likely transient, retrying up to -3 more times ..."
+[1] "Server error: (500) Internal Server Error"
+[1] "This error is likely transient, retrying up to -4 more times ..."
+[1] "Server error: (500) Internal Server Error"
+[1] "This error is likely transient, retrying up to -5 more times ..."
+[1] "Server error: (500) Internal Server Error"
+[1] "This error is likely transient, retrying up to -6 more times ..."
+2017-11-10 08:32:07 Tweets   : 100% at 21/sec for GowerPMOT
+2017-11-10 08:33:04 Tweets   : 57.1% at 56/sec for ICEEoE
+2017-11-10 08:34:12 Tweets   : 85.9% at 47/sec for IT_Events
+2017-11-10 08:35:24 Tweets   : 86.8% at 44/sec for jasonnickels2
+2017-11-10 08:35:47 Tweets   : 100% at 32/sec for JenniferKWhyte
+2017-11-10 08:36:24 Tweets   : 99.4% at 55/sec for LisaLStreet
+2017-11-10 08:36:34 Tweets   : 99.3% at 27/sec for loubowler
+2017-11-10 08:36:40 Tweets   : 100% at 2/sec for louisethomas91
+Error in twInterfaceObj$doAPICall(cmd, params, method, ...) : 
+  Service Unavailable (HTTP 503).
+2017-11-10 08:37:11 Tweets: Unable to find account madebymany moving to next
+2017-11-10 08:37:11 Tweets   : % at /sec for madebymany
+2017-11-10 08:37:39 Tweets   : 99.5% at 47/sec for MartynLoukes
+2017-11-10 08:37:51 Tweets   : 100% at 31/sec for meganryder89
+2017-11-10 08:37:57 Tweets   : 100% at 1/sec for NgageingNick
+2017-11-10 08:39:00 Tweets   : 69.2% at 50/sec for PathwayEnts
+2017-11-10 08:39:26 Favorites: 60.7% at 1/sec for abby_w_p
+2017-11-10 08:40:07 Tweets   : 68.1% at 46/sec for PentacleTheVBS
+2017-11-10 08:40:19 Favorites: 50.7% at 39/sec for AXELOS_GBP
+2017-11-10 08:40:25 Favorites: 85.1% at 38/sec for barry_spruce
+2017-11-10 08:40:36 Favorites: 50.1% at 42/sec for BillMcCluggage
+2017-11-10 08:40:42 Tweets   : 99.3% at 43/sec for ProjConExpo
+2017-11-10 08:40:49 Tweets   : 100% at 5/sec for ProjectManComms
+2017-11-10 08:40:58 Tweets   : 99.6% at 24/sec for Q2Associates
+2017-11-10 08:41:51 Favorites: 38.1% at 41/sec for brionybragg
+2017-11-10 08:42:07 Tweets   : 53.8% at 46/sec for QAtraining
+2017-11-10 08:42:18 Favorites: Waiting for 12 minutes due to : Used up allowance in a loop
+2017-11-10 08:42:48 Friends  : 99.2% at 1/sec for jasonnickels2
+2017-11-10 08:43:04 Friends  : 96.8% at 46/sec for JenniferKWhyte
+2017-11-10 08:43:05 Tweets   : 12.4% at 55/sec for raconteur
+2017-11-10 08:43:34 Friends  : 99.5% at 49/sec for LisaLStreet
+2017-11-10 08:43:42 Friends  : 100% at 45/sec for loubowler
+2017-11-10 08:43:44 Friends  : 98.8% at 42/sec for louisethomas91
+2017-11-10 08:44:09 Tweets   : 39.8% at 50/sec for SandersonPLC
+2017-11-10 08:44:48 Tweets   : 99.8% at 46/sec for Sarah54degrees
+2017-11-10 08:44:49 Friends  : 99.8% at 45/sec for madebymany
+2017-11-10 08:45:06 Tweets   : 100% at 38/sec for sarahschutte1
+2017-11-10 08:45:55 Friends  : 93.4% at 43/sec for MartynLoukes
+2017-11-10 08:46:00 Friends  : 99.5% at 37/sec for meganryder89
+2017-11-10 08:46:00 Friends  : User NgageingNick has a protected account or no Friendss to collect so skipping
+2017-11-10 08:46:34 Friends  : 99% at 45/sec for PathwayEnts
+2017-11-10 08:46:53 Friends  : 100% at 41/sec for PentacleTheVBS
+2017-11-10 08:47:01 Friends  : 99.7% at 41/sec for ProjConExpo
+2017-11-10 08:47:22 Friends  : 100% at 41/sec for ProjectManComms
+2017-11-10 08:47:29 Friends  : 100% at 35/sec for Q2Associates
+2017-11-10 08:48:19 Friends  : 99.9% at 39/sec for QAtraining
+2017-11-10 08:48:37 Friends  : 99.8% at 49/sec for raconteur
+2017-11-10 08:48:37 Friends  : Waiting for 9 minutes
+2017-11-10 08:54:48 Favorites: 49.3% at 2/sec for Caroline_McC
+2017-11-10 08:54:53 Favorites: 87.9% at 44/sec for CertesNews
+2017-11-10 08:54:53 Favorites: 100% at 6/sec for changemakerPM
+2017-11-10 08:54:59 Favorites: 52.7% at 48/sec for ChloeStullLane
+2017-11-10 08:55:01 Favorites: 100% at 42/sec for e2xLimited
+2017-11-10 08:55:23 Favorites: 50.5% at 42/sec for EddieObeng
+2017-11-10 08:55:38 Favorites: 52.8% at 45/sec for EurOMA2017
+2017-11-10 08:56:14 Favorites: 52.7% at 42/sec for fgouldconnect
+2017-11-10 08:57:27 Favorites: 49.9% at 42/sec for gonzoscott01
+2017-11-10 08:57:29 Favorites: 100% at 15/sec for GowerPMOT
+2017-11-10 08:57:30 Favorites: 98.2% at 58/sec for ICEEoE
+2017-11-10 08:57:30 Favorites: Waiting for 12.2 minutes due to : Used up allowance in a loop
+2017-11-10 08:57:57 Friends  : 98.5% at 0/sec for SandersonPLC
+2017-11-10 08:58:06 Friends  : 100% at 44/sec for Sarah54degrees
+2017-11-10 08:58:07 Friends  : 100% at 32/sec for sarahschutte1
+2017-11-10 09:10:04 Favorites: 100% at 0/sec for IT_Events
+2017-11-10 09:10:36 Favorites: 49.8% at 44/sec for jasonnickels2
+2017-11-10 09:10:59 Favorites: 49.8% at 43/sec for JenniferKWhyte
+2017-11-10 09:11:03 Favorites: 70.8% at 43/sec for LisaLStreet
+2017-11-10 09:11:05 Favorites: 97.1% at 21/sec for loubowler
+2017-11-10 09:11:05 Favorites: 100% at 18/sec for louisethomas91
+2017-11-10 09:11:19 Favorites: 50.6% at 43/sec for madebymany
+2017-11-10 09:11:33 Favorites: 51.3% at 43/sec for MartynLoukes
+2017-11-10 09:11:35 Favorites: 72.5% at 45/sec for meganryder89
+2017-11-10 09:11:35 Favorites: User NgageingNick has a protected account or no Favoritess to collect so skipping
+2017-11-10 09:11:42 Favorites: 67.1% at 41/sec for PathwayEnts
+2017-11-10 09:11:43 Favorites: 100% at 46/sec for PentacleTheVBS
+2017-11-10 09:11:54 Favorites: 58.2% at 46/sec for ProjConExpo
+2017-11-10 09:11:55 Favorites: 100% at 23/sec for ProjectManComms
+2017-11-10 09:11:56 Favorites: 100% at 28/sec for Q2Associates
+2017-11-10 09:12:00 Favorites: 92.4% at 44/sec for QAtraining
+2017-11-10 09:12:47 Favorites: Waiting for 12.3 minutes due to : Used up allowance in a loop
+2017-11-10 09:25:55 Favorites: 14.1% at 4/sec for raconteur
+2017-11-10 09:26:01 Favorites: 94.3% at 33/sec for SandersonPLC
+2017-11-10 09:26:02 Favorites: 100% at 24/sec for Sarah54degrees
+2017-11-10 09:26:03 Favorites: 94.8% at 34/sec for sarahschutte1
+Warning message:
+Warning message:
+was built under R version 3.4.1 
+package 'twitteR' was built under R version 3.4.1 

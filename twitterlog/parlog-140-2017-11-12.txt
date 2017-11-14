@@ -1,0 +1,171 @@
+starting worker pid=19792 on localhost:11045 at 15:11:12.613
+starting worker pid=13180 on localhost:11045 at 15:11:12.769
+starting worker pid=17648 on localhost:11045 at 15:11:12.941
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-12 15:13:26 Friends  : 99% at 35/sec for OfficialNAPIT
+2017-11-12 15:13:32 Friends  : 96.7% at 37/sec for OPGO1
+2017-11-12 15:13:41 Friends  : 99.3% at 51/sec for PBoilerServices
+2017-11-12 15:13:50 Friends  : 99.2% at 39/sec for PlumberLondon
+2017-11-12 15:14:02 Friends  : 95.6% at 48/sec for PlumbingCambria
+2017-11-12 15:14:42 Friends  : 99.9% at 43/sec for REI_digital
+2017-11-12 15:14:49 Favorites: 79.4% at 64/sec for OfficialNAPIT
+2017-11-12 15:14:50 Favorites: 100% at 54/sec for OPGO1
+2017-11-12 15:14:57 Favorites: 94.2% at 26/sec for PBoilerServices
+2017-11-12 15:14:58 Favorites: 100% at 53/sec for PlumberLondon
+2017-11-12 15:15:00 Favorites: 62.3% at 70/sec for PlumbingCambria
+2017-11-12 15:15:00 Favorites: 91.7% at 22/sec for REI_digital
+2017-11-12 15:15:10 Favorites: 51.6% at 19/sec for relations_group
+2017-11-12 15:15:14 Favorites: 57.5% at 26/sec for remlocplumbing
+2017-11-12 15:15:24 Friends  : 100% at 42/sec for relations_group
+2017-11-12 15:15:24 Favorites: Waiting for 4.4 minutes due to : Used up allowance in a loop
+2017-11-12 15:15:43 Friends  : 96.2% at 45/sec for remlocplumbing
+2017-11-12 15:16:41 Friends  : 97.1% at 41/sec for salamanderpumps
+2017-11-12 15:17:46 Tweets   : 38.5% at 47/sec for OfficialNAPIT
+2017-11-12 15:18:50 Tweets   : 99.8% at 49/sec for OPGO1
+2017-11-12 15:19:30 Tweets   : 99.8% at 47/sec for PBoilerServices
+2017-11-12 15:19:46 Tweets   : 100% at 33/sec for PlumberLondon
+2017-11-12 15:20:01 Tweets   : 100% at 24/sec for PlumbingCambria
+2017-11-12 15:20:23 Favorites: 50% at 4/sec for salamanderpumps
+2017-11-12 15:21:06 Tweets   : 100% at 45/sec for REI_digital
+2017-11-12 15:21:07 Friends  : 99.9% at 40/sec for Screwfix
+2017-11-12 15:21:34 Favorites: 48.7% at 36/sec for Screwfix
+2017-11-12 15:21:56 Tweets   : 99.7% at 45/sec for relations_group
+2017-11-12 15:21:58 Friends  : 99.4% at 40/sec for seddonltd
+2017-11-12 15:21:58 Friends  : Waiting for 6.1 minutes
+2017-11-12 15:22:06 Favorites: 51.4% at 37/sec for seddonltd
+2017-11-12 15:22:13 Favorites: 50.1% at 46/sec for Stelrad
+2017-11-12 15:22:18 Favorites: 66.8% at 41/sec for StuartPHPI
+2017-11-12 15:22:39 Tweets   : 100% at 43/sec for remlocplumbing
+2017-11-12 15:22:49 Favorites: 50.3% at 35/sec for stwater
+2017-11-12 15:22:50 Favorites: 66.2% at 65/sec for Surestop
+2017-11-12 15:22:54 Favorites: 78.2% at 29/sec for Total_Plumbing
+2017-11-12 15:22:55 Favorites: 64.5% at 69/sec for totalabilityltd
+2017-11-12 15:23:12 Favorites: 49% at 34/sec for Victorianplumb
+2017-11-12 15:23:13 Favorites: 96.8% at 40/sec for Vokera4Students
+2017-11-12 15:23:14 Favorites: 98% at 72/sec for WalsallTraining
+2017-11-12 15:23:14 Favorites: Waiting for 11.7 minutes due to : Used up allowance in a loop
+2017-11-12 15:23:47 Tweets   : 84% at 47/sec for salamanderpumps
+2017-11-12 15:24:45 Tweets   : 8.9% at 56/sec for Screwfix
+2017-11-12 15:25:47 Tweets   : 99.2% at 48/sec for seddonltd
+2017-11-12 15:26:50 Tweets   : 34% at 51/sec for Stelrad
+2017-11-12 15:27:00 Tweets   : 100% at 16/sec for StuartPHPI
+2017-11-12 15:28:01 Tweets   : 8% at 53/sec for stwater
+2017-11-12 15:28:24 Tweets   : 99.5% at 41/sec for Surestop
+2017-11-12 15:28:44 Tweets   : 99.9% at 35/sec for Total_Plumbing
+2017-11-12 15:28:58 Tweets   : 99.7% at 25/sec for totalabilityltd
+2017-11-12 15:30:05 Tweets   : 19% at 48/sec for Victorianplumb
+2017-11-12 15:30:35 Tweets   : 99.9% at 41/sec for Vokera4Students
+2017-11-12 15:30:47 Tweets   : 99.6% at 22/sec for WalsallTraining
+2017-11-12 15:30:59 Tweets   : 100% at 26/sec for watercompliance
+2017-11-12 15:32:12 Tweets   : 70.7% at 44/sec for WaxPR
+2017-11-12 15:32:19 Tweets   : 100% at 16/sec for Bathroomly
+2017-11-12 15:32:30 Tweets   : 100% at 18/sec for chsspares
+2017-11-12 15:32:42 Friends  : 94.1% at 15/sec for Stelrad
+2017-11-12 15:33:15 Friends  : 91.4% at 36/sec for StuartPHPI
+2017-11-12 15:33:21 Friends  : 99.3% at 42/sec for stwater
+2017-11-12 15:33:44 Tweets   : 83.4% at 44/sec for Croner
+2017-11-12 15:34:11 Friends  : 100% at 36/sec for Surestop
+2017-11-12 15:34:56 Tweets   : 42.6% at 44/sec for cyberawaregov
+2017-11-12 15:35:22 Favorites: 100% at 0/sec for watercompliance
+2017-11-12 15:35:29 Favorites: 61.3% at 44/sec for WaxPR
+2017-11-12 15:35:33 Favorites: 98% at 25/sec for Bathroomly
+2017-11-12 15:35:38 Favorites: 51% at 38/sec for chsspares
+2017-11-12 15:36:13 Favorites: 52.3% at 34/sec for Croner
+2017-11-12 15:36:14 Tweets   : 9.3% at 41/sec for FuelCardService
+2017-11-12 15:36:19 Favorites: 58.9% at 47/sec for cyberawaregov
+2017-11-12 15:36:32 Favorites: 64.4% at 31/sec for FuelCardService
+2017-11-12 15:36:34 Friends  : 87.4% at 32/sec for Total_Plumbing
+2017-11-12 15:36:49 Friends  : 96.8% at 16/sec for totalabilityltd
+2017-11-12 15:37:04 Tweets   : 99.9% at 50/sec for grohe
+2017-11-12 15:37:08 Favorites: 51.5% at 33/sec for grohe
+2017-11-12 15:37:12 Favorites: 60.6% at 27/sec for HunterPlastics
+2017-11-12 15:37:17 Favorites: 60.2% at 34/sec for MONARCHWATER
+2017-11-12 15:37:18 Friends  : 99.9% at 48/sec for Victorianplumb
+2017-11-12 15:37:22 Favorites: 56.2% at 41/sec for ok_appy
+2017-11-12 15:37:22 Friends  : 100% at 16/sec for Vokera4Students
+2017-11-12 15:37:33 Friends  : 98.6% at 47/sec for WalsallTraining
+2017-11-12 15:37:45 Friends  : 96.5% at 39/sec for watercompliance
+2017-11-12 15:37:48 Favorites: 53.4% at 37/sec for plumbcenterUK
+2017-11-12 15:37:51 Favorites: 100% at 23/sec for Proline_Group
+2017-11-12 15:38:13 Tweets   : 99.8% at 46/sec for HunterPlastics
+2017-11-12 15:38:26 Tweets   : 100% at 19/sec for MONARCHWATER
+2017-11-12 15:38:32 Friends  : 99.9% at 44/sec for WaxPR
+2017-11-12 15:38:47 Favorites: Waiting for 11.5 minutes due to : Used up allowance in a loop
+2017-11-12 15:38:48 Friends  : 99.7% at 37/sec for Bathroomly
+2017-11-12 15:38:48 Friends  : Waiting for 4.5 minutes
+2017-11-12 15:39:04 Tweets   : 99.9% at 44/sec for ok_appy
+2017-11-12 15:40:09 Tweets   : 49.9% at 49/sec for plumbcenterUK
+2017-11-12 15:40:25 Tweets   : 100% at 37/sec for Proline_Group
+2017-11-12 15:41:27 Tweets   : 5.4% at 51/sec for Sidrah98
+2017-11-12 15:42:07 Tweets   : 99.8% at 44/sec for Sime_Boilers
+2017-11-12 15:43:12 Tweets   : 74.4% at 48/sec for StewartyMartin
+2017-11-12 15:43:55 Friends  : 90.9% at 4/sec for chsspares
+2017-11-12 15:44:07 Tweets   : 100% at 46/sec for Zeta_Services
+2017-11-12 15:44:21 Tweets   : 100% at 27/sec for 4dementiacarers
+2017-11-12 15:44:40 Tweets   : 100% at 31/sec for adrianmalone
+2017-11-12 15:44:52 Friends  : 98.7% at 45/sec for Croner
+2017-11-12 15:45:09 Friends  : 99.7% at 42/sec for cyberawaregov
+2017-11-12 15:45:47 Tweets   : 37.6% at 48/sec for AdrianWhitwell
+2017-11-12 15:46:57 Tweets   : 21.4% at 45/sec for ajwilcox
+2017-11-12 15:46:57 Friends  : 93.1% at 43/sec for FuelCardService
+2017-11-12 15:47:03 Tweets   : 100% at 1/sec for AnaBertacchini
+2017-11-12 15:47:15 Tweets   : 100% at 22/sec for AndiePhoto
+2017-11-12 15:47:45 Tweets   : 100% at 34/sec for andymurray01
+2017-11-12 15:47:58 Tweets   : 100% at 31/sec for annabelleaw_ren
+2017-11-12 15:48:05 Tweets   : 100% at 4/sec for apm_president
+2017-11-12 15:48:05 Friends  : 99.8% at 41/sec for grohe
+2017-11-12 15:48:12 Friends  : 100% at 39/sec for HunterPlastics
+Error in twInterfaceObj$doAPICall(paste("users", "show", sep = "/"), params = params,  : 
+  Not Found (HTTP 404).
+In addition: Warning message:
+package 'twitteR' was built under R version 3.4.1 
+2017-11-12 15:48:13 Friends: Unable to find account MONARCHWATER moving to next
+2017-11-12 15:48:13 Friends  : % at /sec for MONARCHWATER
+2017-11-12 15:48:13 Tweets   : 100% at 7/sec for APM_Scot
+2017-11-12 15:48:19 Tweets   : 100% at 7/sec for apmrisk
+2017-11-12 15:49:02 Friends  : 94.7% at 43/sec for ok_appy
+2017-11-12 15:50:53 Friends  : 92.4% at 39/sec for plumbcenterUK
+2017-11-12 15:51:08 Favorites: 30.5% at 4/sec for Sidrah98
+2017-11-12 15:51:11 Favorites: 50.8% at 30/sec for Sime_Boilers
+2017-11-12 15:51:55 Favorites: 50.5% at 39/sec for StewartyMartin
+2017-11-12 15:51:59 Favorites: 55.2% at 27/sec for Zeta_Services
+2017-11-12 15:52:02 Favorites: 84.6% at 28/sec for 4dementiacarers
+2017-11-12 15:52:04 Favorites: 73.5% at 67/sec for adrianmalone
+2017-11-12 15:52:36 Favorites: 46.6% at 37/sec for AdrianWhitwell
+2017-11-12 15:52:36 Favorites: 100% at 15/sec for ajwilcox
+2017-11-12 15:52:37 Favorites: 100% at 15/sec for AnaBertacchini
+2017-11-12 15:52:38 Favorites: 63.3% at 68/sec for AndiePhoto
+2017-11-12 15:52:41 Favorites: 100% at 11/sec for andymurray01
+2017-11-12 15:52:46 Favorites: 58.9% at 39/sec for annabelleaw_ren
+2017-11-12 15:52:46 Favorites: User apm_president has a protected account or no Favoritess to collect so skipping
+2017-11-12 15:52:46 Favorites: 97.4% at 54/sec for APM_Scot
+2017-11-12 15:52:47 Favorites: 100% at 3/sec for apmrisk
+2017-11-12 15:52:55 Friends  : 95.1% at 37/sec for Proline_Group
+2017-11-12 15:54:46 Friends  : 96.8% at 44/sec for Sidrah98
+2017-11-12 15:55:27 Friends  : 97.9% at 45/sec for Sime_Boilers
+2017-11-12 15:55:36 Friends  : 97.1% at 33/sec for StewartyMartin
+2017-11-12 15:56:01 Friends  : 98.2% at 45/sec for Zeta_Services
+2017-11-12 15:56:08 Friends  : 100% at 42/sec for 4dementiacarers
+2017-11-12 15:56:22 Friends  : 100% at 42/sec for adrianmalone
+2017-11-12 15:56:22 Friends  : Waiting for 2.1 minutes
+2017-11-12 15:58:52 Friends  : 99.7% at 5/sec for AdrianWhitwell
+2017-11-12 15:59:42 Friends  : 100% at 42/sec for ajwilcox
+Error in twInterfaceObj$doAPICall(paste("users", "show", sep = "/"), params = params,  : 
+  Not Found (HTTP 404).
+2017-11-12 15:59:43 Friends: Unable to find account AnaBertacchini moving to next
+2017-11-12 15:59:43 Friends  : % at /sec for AnaBertacchini
+2017-11-12 15:59:53 Friends  : 99.8% at 40/sec for AndiePhoto
+2017-11-12 16:00:13 Friends  : 99.6% at 40/sec for andymurray01
+2017-11-12 16:00:27 Friends  : 94.6% at 46/sec for annabelleaw_ren
+2017-11-12 16:00:32 Friends  : 100% at 25/sec for apm_president
+Error in twInterfaceObj$doAPICall(paste("users", "show", sep = "/"), params = params,  : 
+  Not Found (HTTP 404).
+2017-11-12 16:00:32 Friends: Unable to find account APM_Scot moving to next
+2017-11-12 16:00:32 Friends  : % at /sec for APM_Scot
+2017-11-12 16:00:33 Friends  : 100% at 12/sec for apmrisk
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+Warning message:
+package 'twitteR' was built under R version 3.4.1 

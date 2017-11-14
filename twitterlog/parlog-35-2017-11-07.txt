@@ -1,0 +1,167 @@
+starting worker pid=3192 on localhost:11045 at 11:49:13.635
+starting worker pid=9988 on localhost:11045 at 11:49:13.802
+starting worker pid=15748 on localhost:11045 at 11:49:13.968
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-07 11:51:19 Favorites: Waiting for 8.8 minutes due to : Used up allowance in a loop
+2017-11-07 11:51:41 Friends  : 98% at 48/sec for sweetie_tweeter
+2017-11-07 11:52:13 Friends  : 99% at 44/sec for HaveringCollege
+2017-11-07 11:52:14 Friends  : 100% at 8/sec for BronwenThomas1
+2017-11-07 11:52:31 Friends  : 99.6% at 41/sec for ConstructingEq
+2017-11-07 11:52:35 Tweets   : 1.6% at 51/sec for sweetie_tweeter
+2017-11-07 11:53:00 Friends  : 99.8% at 43/sec for danielkemp21
+2017-11-07 11:53:05 Friends  : 99.5% at 35/sec for DianaGarnham
+2017-11-07 11:53:17 Friends  : 97.1% at 51/sec for EssexESB
+2017-11-07 11:53:37 Tweets   : 51.6% at 52/sec for HaveringCollege
+2017-11-07 11:53:44 Tweets   : 100% at 6/sec for BronwenThomas1
+2017-11-07 11:54:46 Tweets   : 74.2% at 51/sec for ConstructingEq
+2017-11-07 11:55:48 Tweets   : 56.3% at 51/sec for danielkemp21
+2017-11-07 11:56:08 Tweets   : 99.7% at 40/sec for DianaGarnham
+2017-11-07 11:56:49 Tweets   : 100% at 45/sec for EssexESB
+2017-11-07 11:57:35 Friends  : 99.6% at 42/sec for gmchamber
+2017-11-07 11:57:57 Tweets   : 10.4% at 47/sec for gmchamber
+2017-11-07 11:58:27 Friends  : 98.1% at 51/sec for JohnGilheaney
+2017-11-07 11:58:51 Friends  : 95.1% at 47/sec for katiecoleCITB
+2017-11-07 11:59:07 Friends  : 100% at 47/sec for ncslinky
+2017-11-07 11:59:11 Friends  : 92.8% at 36/sec for SarahForbesCITB
+2017-11-07 11:59:11 Tweets   : 39.7% at 43/sec for JohnGilheaney
+2017-11-07 11:59:30 Friends  : 95.2% at 45/sec for Scaffold_Assoc
+2017-11-07 11:59:30 Friends  : Waiting for 5.6 minutes
+2017-11-07 11:59:38 Tweets   : 99.8% at 35/sec for katiecoleCITB
+2017-11-07 11:59:54 Tweets   : 99.7% at 41/sec for ncslinky
+2017-11-07 12:00:06 Tweets   : 100% at 30/sec for SarahForbesCITB
+2017-11-07 12:00:57 Favorites: 22.3% at 5/sec for sweetie_tweeter
+2017-11-07 12:01:05 Tweets   : 52.1% at 54/sec for Scaffold_Assoc
+2017-11-07 12:01:11 Favorites: 51.9% at 41/sec for HaveringCollege
+2017-11-07 12:01:12 Favorites: 100% at 6/sec for BronwenThomas1
+2017-11-07 12:01:19 Favorites: 51.5% at 42/sec for ConstructingEq
+2017-11-07 12:01:21 Favorites: 59.5% at 43/sec for danielkemp21
+2017-11-07 12:01:21 Favorites: 100% at 27/sec for DianaGarnham
+2017-11-07 12:01:50 Favorites: 53.1% at 41/sec for EssexESB
+2017-11-07 12:02:12 Tweets   : 36.9% at 48/sec for sdcollege
+2017-11-07 12:02:48 Tweets   : 99.6% at 44/sec for SimonBrownLHT
+2017-11-07 12:02:49 Favorites: 50.1% at 40/sec for gmchamber
+2017-11-07 12:03:05 Favorites: Waiting for 12.1 minutes due to : Used up allowance in a loop
+2017-11-07 12:03:33 Tweets   : 100% at 45/sec for Big_Ideas_Co
+2017-11-07 12:04:40 Tweets   : 52.8% at 48/sec for eastridingphoto
+2017-11-07 12:04:57 Tweets   : 100% at 37/sec for CEBerks
+2017-11-07 12:05:02 Tweets   : 100% at 3/sec for clairecke
+2017-11-07 12:05:45 Friends  : 99.7% at 5/sec for sdcollege
+2017-11-07 12:06:03 Tweets   : 28.6% at 53/sec for Invennt_Ltd
+2017-11-07 12:06:11 Friends  : 98.6% at 45/sec for SimonBrownLHT
+2017-11-07 12:06:14 Tweets   : 100% at 22/sec for Jon_deSouza
+2017-11-07 12:06:20 Friends  : 97.7% at 46/sec for Big_Ideas_Co
+2017-11-07 12:06:38 Tweets   : 100% at 47/sec for myConsoleLtd
+2017-11-07 12:07:32 Friends  : 98.4% at 44/sec for eastridingphoto
+2017-11-07 12:07:41 Friends  : 98.8% at 38/sec for CEBerks
+2017-11-07 12:07:41 Friends  : User clairecke has a protected account or no Friendss to collect so skipping
+2017-11-07 12:07:48 Tweets   : 84.7% at 46/sec for ConstructionEU
+2017-11-07 12:08:09 Friends  : 98% at 45/sec for Invennt_Ltd
+2017-11-07 12:08:22 Friends  : 99.3% at 40/sec for Jon_deSouza
+2017-11-07 12:08:34 Friends  : 99.6% at 41/sec for myConsoleLtd
+2017-11-07 12:08:40 Friends  : 99.5% at 36/sec for ConstructionEU
+2017-11-07 12:08:57 Tweets   : 7.2% at 46/sec for ClimateGroup
+2017-11-07 12:09:48 Friends  : 99.6% at 45/sec for ClimateGroup
+2017-11-07 12:10:05 Tweets   : 14.4% at 47/sec for NHM_London
+2017-11-07 12:10:44 Friends  : 99.7% at 52/sec for NHM_London
+2017-11-07 12:11:07 Tweets   : 65.5% at 51/sec for GlassRepairUK
+2017-11-07 12:11:13 Friends  : 100% at 50/sec for GlassRepairUK
+2017-11-07 12:11:15 Tweets   : 100% at 13/sec for PrimeWindowsD
+2017-11-07 12:11:16 Friends  : 98.4% at 39/sec for PrimeWindowsD
+2017-11-07 12:11:24 Friends  : 96.6% at 50/sec for RoseviewWindows
+2017-11-07 12:11:34 Friends  : 98.8% at 44/sec for AproposUK
+2017-11-07 12:11:34 Friends  : Waiting for 8.6 minutes
+2017-11-07 12:12:18 Tweets   : 81.3% at 51/sec for RoseviewWindows
+2017-11-07 12:13:21 Tweets   : 55.2% at 50/sec for AproposUK
+2017-11-07 12:13:53 Tweets   : 99.5% at 42/sec for BristolBifold
+2017-11-07 12:14:46 Tweets   : 99.7% at 46/sec for lorchBRI
+2017-11-07 12:15:25 Favorites: 48.3% at 2/sec for JohnGilheaney
+2017-11-07 12:15:48 Tweets   : 95.7% at 51/sec for econnectcars
+2017-11-07 12:16:27 Favorites: 48.7% at 42/sec for katiecoleCITB
+2017-11-07 12:16:32 Favorites: 77.3% at 40/sec for ncslinky
+2017-11-07 12:16:41 Favorites: 53.1% at 41/sec for SarahForbesCITB
+2017-11-07 12:16:55 Tweets   : 30.3% at 47/sec for EcoTechShow
+2017-11-07 12:17:19 Favorites: 51.2% at 41/sec for Scaffold_Assoc
+2017-11-07 12:18:00 Favorites: 51.1% at 41/sec for sdcollege
+2017-11-07 12:18:03 Tweets   : 35.5% at 47/sec for ElectricBowman
+2017-11-07 12:18:05 Favorites: Waiting for 12.1 minutes due to : Used up allowance in a loop
+2017-11-07 12:18:45 Tweets   : 99.8% at 42/sec for GreenKVT
+2017-11-07 12:19:46 Tweets   : 86% at 53/sec for theLowCVP
+2017-11-07 12:20:17 Tweets   : 99.7% at 47/sec for DEI_Durham
+2017-11-07 12:20:34 Friends  : 100% at 2/sec for BristolBifold
+2017-11-07 12:20:47 Friends  : 99.8% at 44/sec for lorchBRI
+2017-11-07 12:21:06 Tweets   : 99.8% at 48/sec for Simonmarkall
+2017-11-07 12:21:54 Tweets   : 100% at 50/sec for HorndeanTW
+2017-11-07 12:22:27 Friends  : 99.5% at 48/sec for econnectcars
+2017-11-07 12:23:02 Tweets   : 61.3% at 47/sec for Ripton_Windows
+2017-11-07 12:23:13 Friends  : 100% at 46/sec for EcoTechShow
+2017-11-07 12:23:31 Friends  : 98.4% at 43/sec for ElectricBowman
+2017-11-07 12:23:51 Friends  : 96.5% at 41/sec for GreenKVT
+2017-11-07 12:23:55 Friends  : 95.9% at 45/sec for theLowCVP
+2017-11-07 12:24:00 Tweets   : 99.9% at 49/sec for RJMGlassLtd
+2017-11-07 12:24:08 Friends  : 99.3% at 41/sec for DEI_Durham
+2017-11-07 12:24:22 Friends  : 98.5% at 44/sec for Simonmarkall
+2017-11-07 12:24:26 Tweets   : 99.9% at 41/sec for MrTherm7
+2017-11-07 12:24:32 Friends  : 100% at 40/sec for HorndeanTW
+2017-11-07 12:24:38 Tweets   : 100% at 29/sec for nterry10
+2017-11-07 12:24:50 Tweets   : 100% at 32/sec for GGFIanYoung
+2017-11-07 12:24:54 Friends  : 100% at 36/sec for Ripton_Windows
+2017-11-07 12:25:03 Friends  : 100% at 47/sec for RJMGlassLtd
+2017-11-07 12:25:09 Friends  : 99.3% at 49/sec for MrTherm7
+2017-11-07 12:25:20 Friends  : 99.8% at 48/sec for nterry10
+2017-11-07 12:25:29 Friends  : 96.2% at 53/sec for GGFIanYoung
+2017-11-07 12:25:29 Friends  : Waiting for 9.8 minutes
+2017-11-07 12:25:50 Tweets   : 16% at 53/sec for AldermoreBank
+2017-11-07 12:26:52 Tweets   : 42.1% at 52/sec for avivaplc
+2017-11-07 12:27:54 Tweets   : 87.9% at 52/sec for trussliz
+2017-11-07 12:28:59 Tweets   : 99.5% at 47/sec for JohnHealey_MP
+2017-11-07 12:30:09 Favorites: 10% at 0/sec for SimonBrownLHT
+2017-11-07 12:30:09 Favorites: Waiting for 0 minutes due to : Used up allowance in a loop
+2017-11-07 12:30:20 Favorites: 57% at 37/sec for Big_Ideas_Co
+2017-11-07 12:30:26 Favorites: 49.3% at 45/sec for eastridingphoto
+2017-11-07 12:30:29 Favorites: 58.5% at 33/sec for CEBerks
+2017-11-07 12:30:29 Favorites: User clairecke has a protected account or no Favoritess to collect so skipping
+2017-11-07 12:30:35 Favorites: 80.9% at 32/sec for Invennt_Ltd
+2017-11-07 12:30:36 Favorites: 88.9% at 14/sec for Jon_deSouza
+2017-11-07 12:30:37 Favorites: 100% at 41/sec for myConsoleLtd
+2017-11-07 12:30:46 Favorites: 58.6% at 45/sec for ConstructionEU
+2017-11-07 12:31:21 Favorites: 51.6% at 43/sec for ClimateGroup
+2017-11-07 12:32:36 Favorites: 26.1% at 42/sec for NHM_London
+2017-11-07 12:32:38 Favorites: 58.6% at 49/sec for GlassRepairUK
+2017-11-07 12:32:40 Favorites: 100% at 25/sec for PrimeWindowsD
+2017-11-07 12:32:46 Favorites: 65.9% at 48/sec for RoseviewWindows
+2017-11-07 12:32:52 Favorites: 63.4% at 48/sec for AproposUK
+2017-11-07 12:32:55 Favorites: 58.9% at 33/sec for BristolBifold
+2017-11-07 12:33:00 Favorites: Waiting for 12.2 minutes due to : Used up allowance in a loop
+2017-11-07 12:36:08 Friends  : 99.7% at 4/sec for AldermoreBank
+2017-11-07 12:36:31 Friends  : 99.7% at 52/sec for avivaplc
+2017-11-07 12:36:52 Friends  : 99.5% at 48/sec for trussliz
+2017-11-07 12:36:56 Friends  : 99.5% at 49/sec for JohnHealey_MP
+2017-11-07 12:45:10 Favorites: 19.1% at 0/sec for lorchBRI
+2017-11-07 12:45:18 Favorites: 61% at 45/sec for econnectcars
+2017-11-07 12:45:21 Favorites: 80.6% at 35/sec for EcoTechShow
+2017-11-07 12:45:55 Favorites: 50.9% at 44/sec for ElectricBowman
+2017-11-07 12:45:56 Favorites: 100% at 39/sec for GreenKVT
+2017-11-07 12:45:59 Favorites: 95.2% at 35/sec for theLowCVP
+2017-11-07 12:46:03 Favorites: 67.2% at 45/sec for DEI_Durham
+2017-11-07 12:46:09 Favorites: 58.7% at 47/sec for Simonmarkall
+2017-11-07 12:46:11 Favorites: 100% at 34/sec for HorndeanTW
+2017-11-07 12:46:13 Favorites: 97.7% at 27/sec for Ripton_Windows
+2017-11-07 12:46:13 Favorites: 100% at 38/sec for RJMGlassLtd
+2017-11-07 12:46:20 Favorites: 67% at 43/sec for MrTherm7
+2017-11-07 12:46:21 Favorites: 100% at 21/sec for nterry10
+2017-11-07 12:46:25 Favorites: 87.3% at 49/sec for GGFIanYoung
+2017-11-07 12:46:36 Favorites: 50.1% at 43/sec for AldermoreBank
+2017-11-07 12:47:17 Favorites: 52.3% at 41/sec for avivaplc
+2017-11-07 12:47:18 Favorites: 100% at 32/sec for trussliz
+2017-11-07 12:47:19 Favorites: 100% at 13/sec for JohnHealey_MP
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+Warning messages:
+1: package 'twitteR' was built under R version 3.4.1 
+2: In twInterfaceObj$doAPICall(cmd, params, method, ...) :Warning message:
+ountered & retry limit reached - returning partial results
+3: package 'twitteR' was built under R version 3.4.1 
+In twInterfaceObj$doAPICall(cmd, params, method, ...) :
+  Rate limit encountered & retry limit reached - returning partial results

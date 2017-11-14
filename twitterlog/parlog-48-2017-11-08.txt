@@ -1,0 +1,166 @@
+starting worker pid=12352 on localhost:11045 at 03:31:05.168
+starting worker pid=8896 on localhost:11045 at 03:31:05.340
+starting worker pid=15636 on localhost:11045 at 03:31:05.496
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-08 03:32:22 Friends  : 97.9% at 23/sec for SusanBaroness
+2017-11-08 03:32:41 Friends  : 99.9% at 41/sec for BuiltEnviroHub
+2017-11-08 03:32:48 Friends  : 100% at 32/sec for ColmQuinnCE
+2017-11-08 03:33:23 Favorites: 91% at 25/sec for SusanBaroness
+2017-11-08 03:33:32 Friends  : 98.2% at 41/sec for djhreed67
+2017-11-08 03:33:37 Favorites: 53% at 30/sec for BuiltEnviroHub
+2017-11-08 03:33:37 Favorites: User ColmQuinnCE has a protected account or no Favoritess to collect so skipping
+2017-11-08 03:33:47 Friends  : 99.6% at 37/sec for JacqSchlangen
+2017-11-08 03:33:52 Friends  : 100% at 40/sec for mk50club
+2017-11-08 03:34:02 Friends  : 100% at 37/sec for UK_CCG
+2017-11-08 03:34:18 Friends  : 98.2% at 37/sec for WhitfieldBrown
+2017-11-08 03:34:24 Friends  : 96.5% at 37/sec for bfd_roofing
+2017-11-08 03:34:38 Friends  : 98.7% at 39/sec for lyndonscaffold
+2017-11-08 03:34:52 Friends  : 100% at 35/sec for RGLeverett
+2017-11-08 03:34:56 Favorites: 27.7% at 41/sec for djhreed67
+2017-11-08 03:34:57 Favorites: 98.9% at 66/sec for JacqSchlangen
+2017-11-08 03:34:57 Favorites: 100% at 17/sec for mk50club
+2017-11-08 03:34:58 Favorites: 100% at 3/sec for UK_CCG
+2017-11-08 03:35:03 Favorites: 67.5% at 38/sec for WhitfieldBrown
+2017-11-08 03:35:04 Favorites: 98.2% at 44/sec for bfd_roofing
+2017-11-08 03:35:05 Tweets   : 98.6% at 34/sec for SusanBaroness
+2017-11-08 03:35:13 Favorites: 54.3% at 45/sec for lyndonscaffold
+2017-11-08 03:35:13 Favorites: Waiting for 7.4 minutes due to : Used up allowance in a loop
+2017-11-08 03:35:30 Friends  : 99.2% at 41/sec for BricksUK
+2017-11-08 03:35:44 Friends  : 99.2% at 41/sec for constructionlca
+2017-11-08 03:36:12 Tweets   : 73.1% at 48/sec for BuiltEnviroHub
+2017-11-08 03:36:18 Tweets   : 100% at 6/sec for ColmQuinnCE
+2017-11-08 03:37:16 Friends  : 95.3% at 42/sec for Jonny_Will_28
+2017-11-08 03:37:34 Tweets   : 16.8% at 42/sec for djhreed67
+2017-11-08 03:38:29 Friends  : 98.1% at 39/sec for MySpecNews
+2017-11-08 03:38:29 Friends  : Waiting for 8.8 minutes
+2017-11-08 03:38:47 Tweets   : 47.9% at 44/sec for JacqSchlangen
+2017-11-08 03:38:54 Tweets   : 100% at 12/sec for mk50club
+2017-11-08 03:39:02 Tweets   : 100% at 10/sec for UK_CCG
+2017-11-08 03:39:16 Tweets   : 98.8% at 29/sec for WhitfieldBrown
+2017-11-08 03:39:23 Tweets   : 100% at 9/sec for bfd_roofing
+2017-11-08 03:40:29 Tweets   : 81.5% at 48/sec for lyndonscaffold
+2017-11-08 03:40:47 Tweets   : 100% at 33/sec for RGLeverett
+2017-11-08 03:41:58 Tweets   : 86.2% at 45/sec for BricksUK
+2017-11-08 03:42:51 Favorites: 96.2% at 0/sec for RGLeverett
+2017-11-08 03:42:55 Tweets   : 99.9% at 42/sec for constructionlca
+2017-11-08 03:43:09 Favorites: 51.3% at 44/sec for BricksUK
+2017-11-08 03:43:13 Favorites: 65.7% at 47/sec for constructionlca
+2017-11-08 03:43:37 Favorites: 49.6% at 41/sec for Jonny_Will_28
+2017-11-08 03:43:42 Favorites: 66.8% at 44/sec for MySpecNews
+2017-11-08 03:43:49 Favorites: 56.7% at 42/sec for TimberTradeFed
+2017-11-08 03:43:50 Favorites: 13.3% at 29/sec for BTBetterFuture
+2017-11-08 03:44:02 Favorites: 57.4% at 40/sec for FGRFC_Official
+2017-11-08 03:44:25 Tweets   : 22.9% at 36/sec for Jonny_Will_28
+2017-11-08 03:45:21 Favorites: 28.6% at 41/sec for FIAFormulaE
+2017-11-08 03:45:30 Favorites: 60.8% at 44/sec for Microsoft_Green
+2017-11-08 03:45:31 Favorites: 98.2% at 61/sec for UKOOGroup
+2017-11-08 03:45:32 Favorites: 100% at 67/sec for DesignbyDalziel
+2017-11-08 03:45:33 Tweets   : 32.9% at 47/sec for MySpecNews
+2017-11-08 03:45:38 Favorites: Waiting for 12.2 minutes due to : Used up allowance in a loop
+2017-11-08 03:46:21 Tweets   : 99.9% at 46/sec for TimberTradeFed
+2017-11-08 03:47:28 Tweets   : 36.2% at 48/sec for BTBetterFuture
+2017-11-08 03:47:44 Friends  : 99.1% at 1/sec for TimberTradeFed
+2017-11-08 03:47:45 Friends  : 100% at 25/sec for BTBetterFuture
+2017-11-08 03:47:52 Friends  : 99.1% at 34/sec for FGRFC_Official
+2017-11-08 03:48:09 Friends  : 99.2% at 36/sec for FIAFormulaE
+2017-11-08 03:48:28 Friends  : 99.7% at 36/sec for Microsoft_Green
+2017-11-08 03:48:31 Friends  : 98.8% at 25/sec for UKOOGroup
+2017-11-08 03:48:33 Friends  : 100% at 42/sec for DesignbyDalziel
+2017-11-08 03:48:39 Tweets   : 13.3% at 45/sec for FGRFC_Official
+2017-11-08 03:49:11 Friends  : 95.1% at 38/sec for HorsfordWindow
+2017-11-08 03:49:50 Friends  : 100% at 35/sec for ScotlanduPVC
+2017-11-08 03:50:02 Tweets   : 25.7% at 39/sec for FIAFormulaE
+2017-11-08 03:50:25 Friends  : 95.7% at 37/sec for SolidorLtd
+2017-11-08 03:51:11 Tweets   : 88% at 46/sec for Microsoft_Green
+2017-11-08 03:51:34 Tweets   : 99.9% at 37/sec for UKOOGroup
+2017-11-08 03:51:45 Tweets   : 100% at 18/sec for DesignbyDalziel
+2017-11-08 03:52:26 Friends  : 93.2% at 35/sec for TimberWindows
+2017-11-08 03:52:47 Friends  : 99.4% at 38/sec for lzmddngs
+2017-11-08 03:52:56 Friends  : 100% at 39/sec for TeambuildUK
+2017-11-08 03:53:01 Tweets   : 56.6% at 42/sec for HorsfordWindow
+2017-11-08 03:53:18 Tweets   : 100% at 32/sec for ScotlanduPVC
+2017-11-08 03:53:46 Friends  : 98.3% at 39/sec for turner_briony
+2017-11-08 03:54:38 Tweets   : 18.6% at 40/sec for SolidorLtd
+2017-11-08 03:54:57 Friends  : 99.7% at 36/sec for UCL_Energy
+2017-11-08 03:54:57 Friends  : Waiting for 7.7 minutes
+2017-11-08 03:55:55 Tweets   : 73.4% at 42/sec for TimberWindows
+2017-11-08 03:56:36 Tweets   : 99.9% at 36/sec for lzmddngs
+2017-11-08 03:57:05 Tweets   : 99.5% at 46/sec for TeambuildUK
+2017-11-08 03:58:16 Tweets   : 32% at 45/sec for turner_briony
+2017-11-08 03:58:30 Favorites: 52.8% at 1/sec for HorsfordWindow
+2017-11-08 03:58:31 Favorites: 100% at 79/sec for ScotlanduPVC
+2017-11-08 03:59:31 Tweets   : 87.3% at 43/sec for UCL_Energy
+2017-11-08 03:59:43 Favorites: 40.9% at 45/sec for SolidorLtd
+2017-11-08 03:59:49 Favorites: 72% at 45/sec for TimberWindows
+2017-11-08 03:59:52 Favorites: 99% at 37/sec for lzmddngs
+2017-11-08 03:59:59 Favorites: 59.8% at 43/sec for TeambuildUK
+2017-11-08 04:00:50 Tweets   : 46.6% at 40/sec for edielive
+2017-11-08 04:01:00 Favorites: Waiting for 12.2 minutes due to : Used up allowance in a loop
+2017-11-08 04:02:11 Tweets   : 66.6% at 40/sec for GreenFleetNews
+2017-11-08 04:03:17 Tweets   : 7.6% at 48/sec for thisismoney
+2017-11-08 04:03:36 Friends  : 99% at 3/sec for edielive
+2017-11-08 04:04:03 Tweets   : 99.8% at 41/sec for CopernicusECMWF
+2017-11-08 04:04:32 Friends  : 99.7% at 34/sec for GreenFleetNews
+2017-11-08 04:04:57 Tweets   : 99.7% at 40/sec for edfecareers
+2017-11-08 04:05:12 Friends  : 99.6% at 33/sec for thisismoney
+2017-11-08 04:05:21 Friends  : 99% at 34/sec for CopernicusECMWF
+2017-11-08 04:05:29 Friends  : 99.5% at 26/sec for edfecareers
+2017-11-08 04:05:52 Friends  : 98.5% at 34/sec for NEA_UKCharity
+2017-11-08 04:06:14 Tweets   : 48.9% at 42/sec for NEA_UKCharity
+2017-11-08 04:06:26 Friends  : 99.6% at 42/sec for theADEuk
+2017-11-08 04:07:36 Tweets   : 76.5% at 39/sec for theADEuk
+2017-11-08 04:07:52 Friends  : 97.2% at 39/sec for TheresaMEP
+2017-11-08 04:08:50 Tweets   : 25.8% at 44/sec for TheresaMEP
+2017-11-08 04:09:12 Friends  : 99.5% at 37/sec for Clearviewmag
+2017-11-08 04:09:39 Friends  : 100% at 35/sec for eurocellplc
+2017-11-08 04:09:43 Friends  : 100% at 32/sec for FenNews
+2017-11-08 04:09:55 Friends  : 97.9% at 33/sec for HowellsGlazing
+2017-11-08 04:10:00 Tweets   : 29.5% at 46/sec for Clearviewmag
+2017-11-08 04:11:11 Tweets   : 79.4% at 45/sec for eurocellplc
+2017-11-08 04:12:37 Tweets   : 55.6% at 37/sec for FenNews
+2017-11-08 04:13:37 Favorites: 51.4% at 3/sec for turner_briony
+2017-11-08 04:13:46 Favorites: 64.8% at 44/sec for UCL_Energy
+2017-11-08 04:13:56 Favorites: 51% at 38/sec for edielive
+2017-11-08 04:14:00 Tweets   : 90.1% at 39/sec for HowellsGlazing
+2017-11-08 04:14:06 Favorites: 56% at 39/sec for GreenFleetNews
+2017-11-08 04:14:07 Friends  : 97.8% at 34/sec for SWDEssex
+2017-11-08 04:14:10 Favorites: 72.1% at 48/sec for thisismoney
+2017-11-08 04:14:22 Favorites: 50.8% at 42/sec for CopernicusECMWF
+2017-11-08 04:14:37 Favorites: 51.8% at 40/sec for edfecareers
+2017-11-08 04:14:44 Tweets   : 99.7% at 45/sec for SWDEssex
+2017-11-08 04:14:57 Favorites: 54.6% at 39/sec for NEA_UKCharity
+2017-11-08 04:15:11 Favorites: 56.2% at 43/sec for theADEuk
+2017-11-08 04:15:25 Tweets   : 99.9% at 38/sec for AshIslandW4
+2017-11-08 04:15:37 Tweets   : 99.4% at 26/sec for brickbaron1
+2017-11-08 04:16:07 Tweets   : 99.4% at 36/sec for BWagstaffe
+2017-11-08 04:16:12 Tweets   : 100% at 5/sec for camberfordconst
+2017-11-08 04:16:27 Friends  : 99.5% at 35/sec for AshIslandW4
+2017-11-08 04:16:31 Favorites: 24.5% at 39/sec for TheresaMEP
+2017-11-08 04:16:36 Favorites: Waiting for 12 minutes due to : Used up allowance in a loop
+2017-11-08 04:16:43 Friends  : 95.9% at 37/sec for brickbaron1
+2017-11-08 04:16:55 Friends  : 97.7% at 35/sec for BWagstaffe
+2017-11-08 04:16:55 Friends  : Waiting for 2.7 minutes
+2017-11-08 04:17:26 Tweets   : 88.1% at 43/sec for EBC_SMEs
+2017-11-08 04:17:53 Tweets   : 99.9% at 38/sec for UrbanisCM
+2017-11-08 04:19:44 Friends  : 99% at 1/sec for camberfordconst
+2017-11-08 04:20:29 Friends  : 98.3% at 42/sec for EBC_SMEs
+2017-11-08 04:20:48 Friends  : 99.5% at 40/sec for UrbanisCM
+2017-11-08 04:28:58 Favorites: 65.4% at 0/sec for Clearviewmag
+2017-11-08 04:29:16 Favorites: 51.3% at 45/sec for eurocellplc
+2017-11-08 04:29:17 Favorites: 100% at 47/sec for FenNews
+2017-11-08 04:29:29 Favorites: 60% at 42/sec for HowellsGlazing
+2017-11-08 04:29:33 Favorites: 61.5% at 47/sec for SWDEssex
+2017-11-08 04:29:48 Favorites: 48.6% at 44/sec for AshIslandW4
+2017-11-08 04:29:48 Favorites: 100% at 38/sec for brickbaron1
+2017-11-08 04:29:50 Favorites: 90.5% at 12/sec for BWagstaffe
+2017-11-08 04:29:51 Favorites: 100% at 30/sec for camberfordconst
+2017-11-08 04:30:01 Favorites: 64.4% at 37/sec for EBC_SMEs
+2017-11-08 04:30:18 Favorites: 54.4% at 46/sec for UrbanisCM
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+Warning message:
+package 'twitteR' was built under R version 3.4.1 

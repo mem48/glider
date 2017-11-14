@@ -1,0 +1,177 @@
+starting worker pid=13832 on localhost:11045 at 07:13:49.226
+starting worker pid=6664 on localhost:11045 at 07:13:49.398
+starting worker pid=16352 on localhost:11045 at 07:13:49.554
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-13 07:15:53 Friends  : Waiting for 3.4 minutes
+2017-11-13 07:17:56 Favorites: 51.3% at 53/sec for FlaktGroup_UK
+2017-11-13 07:18:53 Favorites: 50.1% at 27/sec for FocusSB
+2017-11-13 07:18:55 Favorites: 90.9% at 84/sec for FritztopherLunn
+2017-11-13 07:19:33 Favorites: 51.1% at 39/sec for GarethKane
+2017-11-13 07:20:11 Favorites: 53% at 34/sec for GIRA_MuirBaxter
+2017-11-13 07:20:23 Favorites: 59.8% at 33/sec for GlynCash
+2017-11-13 07:20:29 Favorites: 78.3% at 33/sec for greenreccompany
+2017-11-13 07:20:30 Friends  : 99.9% at 7/sec for FlaktGroup_UK
+2017-11-13 07:20:31 Favorites: 60.2% at 68/sec for hawocol
+2017-11-13 07:21:02 Favorites: 49.1% at 31/sec for HealthCareersUK
+2017-11-13 07:21:03 Favorites: 100% at 29/sec for HerzValvesUK
+2017-11-13 07:21:03 Favorites: User hevasure_steve has a protected account or no Favoritess to collect so skipping
+2017-11-13 07:21:08 Tweets   : 99.8% at 30/sec for FlaktGroup_UK
+2017-11-13 07:21:08 Favorites: 73% at 35/sec for HovalUK
+2017-11-13 07:21:14 Favorites: 55.6% at 37/sec for HVROnlineEditor
+2017-11-13 07:21:21 Favorites: 54.8% at 42/sec for hydrocknews
+2017-11-13 07:21:32 Favorites: Waiting for 11.4 minutes due to : Used up allowance in a loop
+2017-11-13 07:22:38 Tweets   : 77.5% at 35/sec for FocusSB
+2017-11-13 07:22:41 Friends  : 98.3% at 37/sec for FocusSB
+2017-11-13 07:22:45 Tweets   : 100% at 14/sec for FritztopherLunn
+2017-11-13 07:22:54 Friends  : 98% at 46/sec for FritztopherLunn
+2017-11-13 07:23:26 Friends  : 99.9% at 42/sec for GarethKane
+2017-11-13 07:23:41 Friends  : 98.6% at 44/sec for GIRA_MuirBaxter
+2017-11-13 07:23:56 Friends  : 98.9% at 43/sec for GlynCash
+2017-11-13 07:24:01 Tweets   : 15.8% at 42/sec for GarethKane
+2017-11-13 07:24:37 Friends  : 95.7% at 46/sec for greenreccompany
+2017-11-13 07:24:43 Friends  : 99% at 30/sec for hawocol
+2017-11-13 07:24:58 Tweets   : 99.7% at 36/sec for GIRA_MuirBaxter
+2017-11-13 07:25:05 Friends  : 99.1% at 42/sec for HealthCareersUK
+2017-11-13 07:25:14 Friends  : 98.3% at 42/sec for HerzValvesUK
+2017-11-13 07:25:16 Friends  : 100% at 24/sec for hevasure_steve
+2017-11-13 07:25:19 Friends  : 100% at 55/sec for HovalUK
+2017-11-13 07:25:34 Tweets   : 99.9% at 38/sec for GlynCash
+2017-11-13 07:26:02 Friends  : 98.9% at 42/sec for HVROnlineEditor
+2017-11-13 07:26:05 Friends  : 99.5% at 54/sec for hydrocknews
+Error in twInterfaceObj$doAPICall(paste("users", "show", sep = "/"), params = params,  : 
+  Not Found (HTTP 404).
+In addition: Warning message:
+package 'twitteR' was built under R version 3.4.1 
+2017-11-13 07:26:06 Friends: Unable to find account IamAyeshaNazir moving to next
+2017-11-13 07:26:06 Friends  : % at /sec for IamAyeshaNazir
+2017-11-13 07:26:35 Friends  : 99.2% at 42/sec for ICELibrary
+2017-11-13 07:26:35 Friends  : Waiting for 7.9 minutes
+2017-11-13 07:26:51 Tweets   : 47% at 42/sec for greenreccompany
+2017-11-13 07:26:59 Tweets   : 100% at 12/sec for hawocol
+2017-11-13 07:28:17 Tweets   : 48.8% at 41/sec for HealthCareersUK
+2017-11-13 07:28:26 Tweets   : 100% at 5/sec for HerzValvesUK
+2017-11-13 07:28:31 Tweets   : 100% at 1/sec for hevasure_steve
+2017-11-13 07:28:56 Tweets   : 100% at 35/sec for HovalUK
+2017-11-13 07:30:14 Tweets   : 54.7% at 41/sec for HVROnlineEditor
+2017-11-13 07:30:46 Tweets   : 100% at 37/sec for hydrocknews
+2017-11-13 07:32:10 Tweets   : 66.8% at 38/sec for IamAyeshaNazir
+2017-11-13 07:33:35 Tweets   : 48.9% at 37/sec for ICELibrary
+2017-11-13 07:34:13 Favorites: 50.2% at 4/sec for IamAyeshaNazir
+2017-11-13 07:34:24 Favorites: 56.5% at 33/sec for ICELibrary
+2017-11-13 07:35:00 Favorites: 50.2% at 39/sec for IIDEX
+2017-11-13 07:35:12 Tweets   : 55.1% at 33/sec for IIDEX
+2017-11-13 07:35:18 Favorites: 57.2% at 33/sec for IlluminateYork
+2017-11-13 07:35:27 Friends  : 99.7% at 3/sec for IIDEX
+2017-11-13 07:35:35 Favorites: 57.9% at 35/sec for IMechEevents
+2017-11-13 07:35:35 Favorites: 100% at 2/sec for IndyPolitics
+2017-11-13 07:35:38 Favorites: 52.7% at 64/sec for IngeniousAir
+2017-11-13 07:35:49 Favorites: 50.9% at 27/sec for innova_scape
+2017-11-13 07:35:50 Favorites: 102% at 54/sec for Ivo_Deltares
+2017-11-13 07:35:52 Favorites: 66.7% at 62/sec for JbVaillant
+2017-11-13 07:35:55 Favorites: 100% at 8/sec for Jimshove
+2017-11-13 07:35:56 Friends  : 99.5% at 39/sec for IlluminateYork
+2017-11-13 07:36:03 Favorites: 74.1% at 40/sec for jocelynsmith90
+2017-11-13 07:36:03 Favorites: 88.9% at 33/sec for KassimLeslie
+2017-11-13 07:36:04 Favorites: 100% at 40/sec for kategg87
+2017-11-13 07:36:08 Friends  : 98% at 31/sec for IMechEevents
+2017-11-13 07:36:12 Friends  : 100% at 44/sec for IndyPolitics
+2017-11-13 07:36:22 Favorites: 58.2% at 34/sec for KatHayden_ZG
+2017-11-13 07:36:24 Favorites: Waiting for 11.8 minutes due to : Used up allowance in a loop
+2017-11-13 07:36:39 Tweets   : 86% at 36/sec for IlluminateYork
+2017-11-13 07:36:41 Friends  : 99.8% at 40/sec for IngeniousAir
+2017-11-13 07:36:42 Friends  : 100% at 40/sec for innova_scape
+2017-11-13 07:36:44 Friends  : 98.8% at 42/sec for Ivo_Deltares
+2017-11-13 07:36:47 Friends  : 93.5% at 41/sec for JbVaillant
+2017-11-13 07:36:48 Friends  : 96.2% at 25/sec for Jimshove
+2017-11-13 07:36:55 Friends  : 97.9% at 39/sec for jocelynsmith90
+2017-11-13 07:37:03 Friends  : 98.1% at 34/sec for KassimLeslie
+2017-11-13 07:37:04 Friends  : 100% at 41/sec for kategg87
+2017-11-13 07:37:13 Friends  : 98.4% at 34/sec for KatHayden_ZG
+2017-11-13 07:37:22 Friends  : 98.4% at 37/sec for KatherineHamm81
+2017-11-13 07:37:35 Tweets   : 100% at 37/sec for IMechEevents
+2017-11-13 07:37:50 Friends  : 99.2% at 42/sec for KensaHeatPumps
+2017-11-13 07:37:50 Friends  : Waiting for 11.9 minutes
+2017-11-13 07:38:53 Tweets   : 9.3% at 41/sec for IndyPolitics
+2017-11-13 07:39:27 Tweets   : 99.9% at 38/sec for IngeniousAir
+2017-11-13 07:40:57 Tweets   : 0.6% at 36/sec for innova_scape
+2017-11-13 07:41:07 Tweets   : 100% at 16/sec for Ivo_Deltares
+2017-11-13 07:41:17 Tweets   : 100% at 15/sec for JbVaillant
+2017-11-13 07:41:23 Tweets   : 100% at 7/sec for Jimshove
+2017-11-13 07:41:38 Tweets   : 100% at 27/sec for jocelynsmith90
+2017-11-13 07:41:50 Tweets   : 100% at 14/sec for KassimLeslie
+2017-11-13 07:41:57 Tweets   : 100% at 16/sec for kategg87
+2017-11-13 07:42:11 Tweets   : 100% at 21/sec for KatHayden_ZG
+2017-11-13 07:42:21 Tweets   : 92.4% at 16/sec for KatherineHamm81
+2017-11-13 07:43:02 Tweets   : 99.9% at 35/sec for KensaHeatPumps
+2017-11-13 07:44:31 Tweets   : 87.3% at 36/sec for kewelectrical
+2017-11-13 07:45:22 Tweets   : 99.8% at 32/sec for KFScotlandComm
+2017-11-13 07:45:46 Tweets   : 99.7% at 32/sec for laurenlewis91
+2017-11-13 07:46:04 Tweets   : 100% at 15/sec for lednxt
+2017-11-13 07:46:16 Tweets   : 99.3% at 25/sec for LeeDaviesCPW
+2017-11-13 07:46:45 Tweets   : 100% at 39/sec for LightingIndia
+2017-11-13 07:47:38 Tweets   : 99.9% at 43/sec for LightingProjs
+2017-11-13 07:47:48 Tweets   : 100% at 15/sec for lizayoung88
+2017-11-13 07:48:42 Favorites: 60.9% at 1/sec for KatherineHamm81
+2017-11-13 07:48:47 Favorites: 67.8% at 34/sec for KensaHeatPumps
+[1] "Server error: (500) Internal Server Error"
+[1] "This error is likely transient, retrying up to 5 more times ..."
+2017-11-13 07:49:07 Favorites: 52.9% at 31/sec for kewelectrical
+2017-11-13 07:49:09 Tweets   : 17.9% at 40/sec for LSBU
+2017-11-13 07:49:24 Favorites: 52.9% at 40/sec for KFScotlandComm
+2017-11-13 07:49:25 Favorites: 100% at 43/sec for laurenlewis91
+2017-11-13 07:49:26 Favorites: 71.9% at 75/sec for lednxt
+2017-11-13 07:49:27 Favorites: 91.3% at 41/sec for LeeDaviesCPW
+2017-11-13 07:49:27 Favorites: 100% at 22/sec for LightingIndia
+2017-11-13 07:49:39 Favorites: 51% at 34/sec for LightingProjs
+2017-11-13 07:49:39 Favorites: 100% at 11/sec for lizayoung88
+2017-11-13 07:50:06 Tweets   : 99.7% at 34/sec for M3Rclimate
+2017-11-13 07:50:13 Tweets   : 100% at 19/sec for MahoneyEmily
+2017-11-13 07:50:57 Friends  : 91.4% at 3/sec for kewelectrical
+2017-11-13 07:51:09 Favorites: 40.1% at 36/sec for LSBU
+2017-11-13 07:51:21 Friends  : 97.1% at 38/sec for KFScotlandComm
+2017-11-13 07:51:28 Favorites: 49.8% at 36/sec for M3Rclimate
+2017-11-13 07:51:30 Friends  : 99.7% at 34/sec for laurenlewis91
+2017-11-13 07:51:30 Favorites: 49.2% at 67/sec for MahoneyEmily
+2017-11-13 07:51:42 Tweets   : 45.6% at 36/sec for March8eight
+2017-11-13 07:51:47 Favorites: 56.9% at 34/sec for March8eight
+2017-11-13 07:51:49 Favorites: Waiting for 11.8 minutes due to : Used up allowance in a loop
+2017-11-13 07:51:52 Tweets   : 100% at 14/sec for mark_vaillant
+2017-11-13 07:52:04 Friends  : 99.4% at 45/sec for lednxt
+2017-11-13 07:52:10 Friends  : 99.4% at 28/sec for LeeDaviesCPW
+2017-11-13 07:52:56 Friends  : 94.5% at 41/sec for LightingIndia
+2017-11-13 07:53:19 Friends  : 99.7% at 38/sec for LightingProjs
+2017-11-13 07:53:21 Friends  : 99.2% at 50/sec for lizayoung88
+2017-11-13 07:53:22 Tweets   : 90.6% at 35/sec for MarkGJenkinson
+2017-11-13 07:53:42 Tweets   : 99.8% at 28/sec for MBS_magazine
+2017-11-13 07:54:24 Friends  : 97.2% at 39/sec for LSBU
+2017-11-13 07:54:38 Friends  : 97.7% at 36/sec for M3Rclimate
+2017-11-13 07:54:41 Friends  : 99.2% at 40/sec for MahoneyEmily
+2017-11-13 07:55:04 Friends  : 98.9% at 39/sec for March8eight
+Error in twInterfaceObj$doAPICall(paste("users", "show", sep = "/"), params = params,  : 
+  Not Found (HTTP 404).
+2017-11-13 07:55:04 Friends: Unable to find account mark_vaillant moving to next
+2017-11-13 07:55:04 Friends  : % at /sec for mark_vaillant
+2017-11-13 07:55:13 Tweets   : 37% at 35/sec for mduchenski
+2017-11-13 07:55:22 Tweets   : 100% at 3/sec for MedemUkLtd
+2017-11-13 07:55:29 Friends  : 99.6% at 45/sec for MarkGJenkinson
+2017-11-13 07:55:36 Friends  : 98.6% at 30/sec for MBS_magazine
+2017-11-13 07:55:48 Tweets   : 99.8% at 34/sec for MemComUK
+2017-11-13 07:56:06 Tweets   : 100% at 20/sec for MerriottUK
+2017-11-13 07:56:08 Friends  : 95.6% at 38/sec for mduchenski
+2017-11-13 07:56:09 Friends  : Waiting for 9.1 minutes
+2017-11-13 08:03:59 Favorites: 61.4% at 0/sec for mark_vaillant
+2017-11-13 08:04:13 Favorites: 51% at 43/sec for MarkGJenkinson
+2017-11-13 08:04:17 Favorites: 58.1% at 26/sec for MBS_magazine
+2017-11-13 08:05:32 Friends  : 92.9% at 0/sec for MedemUkLtd
+2017-11-13 08:05:39 Favorites: 35.4% at 39/sec for mduchenski
+2017-11-13 08:05:40 Favorites: 100% at 33/sec for MedemUkLtd
+2017-11-13 08:05:45 Favorites: 68.5% at 39/sec for MemComUK
+2017-11-13 08:05:46 Favorites: 100% at 43/sec for MerriottUK
+2017-11-13 08:07:01 Friends  : 98.9% at 42/sec for MemComUK
+2017-11-13 08:07:16 Friends  : 96.9% at 37/sec for MerriottUK
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+Warning message:
+package 'twitteR' was built under R version 3.4.1 

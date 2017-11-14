@@ -1,0 +1,166 @@
+starting worker pid=6660 on localhost:11045 at 20:10:42.599
+starting worker pid=19784 on localhost:11045 at 20:10:42.766
+starting worker pid=464 on localhost:11045 at 20:10:42.930
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-09 20:11:20 Friends  : 99.4% at 24/sec for EmmaL_Harrison
+2017-11-09 20:11:50 Favorites: 50.8% at 25/sec for EmmaL_Harrison
+2017-11-09 20:12:14 Favorites: 49.6% at 41/sec for EvolveLDN
+2017-11-09 20:12:18 Friends  : 96.3% at 42/sec for EvolveLDN
+2017-11-09 20:12:23 Favorites: 64.9% at 47/sec for EvolveLDNLee
+2017-11-09 20:12:27 Favorites: 78.7% at 45/sec for Fay_SVHousing
+2017-11-09 20:12:29 Favorites: 86.8% at 48/sec for ForumHousing
+2017-11-09 20:12:31 Favorites: 100% at 38/sec for Furniturescheme
+2017-11-09 20:12:36 Favorites: 54.3% at 42/sec for Gedling_Homes
+2017-11-09 20:12:37 Friends  : 98% at 40/sec for EvolveLDNLee
+2017-11-09 20:12:43 Favorites: 62.4% at 41/sec for GenesisHousing
+2017-11-09 20:12:50 Tweets   : 99.9% at 36/sec for EmmaL_Harrison
+2017-11-09 20:12:58 Friends  : 98.5% at 41/sec for Fay_SVHousing
+2017-11-09 20:13:04 Friends  : 98% at 35/sec for ForumHousing
+2017-11-09 20:13:14 Friends  : 99% at 40/sec for Furniturescheme
+2017-11-09 20:13:19 Friends  : 100% at 39/sec for Gedling_Homes
+2017-11-09 20:13:34 Favorites: 48.6% at 43/sec for gentoogroup
+2017-11-09 20:13:51 Friends  : 100% at 42/sec for GenesisHousing
+2017-11-09 20:13:53 Favorites: 49.8% at 45/sec for GGHTrust
+2017-11-09 20:14:01 Tweets   : 73.7% at 45/sec for EvolveLDN
+2017-11-09 20:14:28 Favorites: Waiting for 9.9 minutes due to : Used up allowance in a loop
+2017-11-09 20:14:33 Friends  : 99.6% at 39/sec for gentoogroup
+2017-11-09 20:14:56 Friends  : 99.9% at 40/sec for GGHTrust
+2017-11-09 20:15:09 Tweets   : 65.7% at 47/sec for EvolveLDNLee
+2017-11-09 20:15:22 Tweets   : 99.6% at 23/sec for Fay_SVHousing
+2017-11-09 20:15:31 Tweets   : 100% at 16/sec for ForumHousing
+2017-11-09 20:15:56 Tweets   : 100% at 36/sec for Furniturescheme
+2017-11-09 20:16:06 Friends  : 98.8% at 38/sec for GoldenLaneHouse
+2017-11-09 20:16:53 Tweets   : 100% at 41/sec for Gedling_Homes
+2017-11-09 20:17:57 Tweets   : 76% at 49/sec for GenesisHousing
+2017-11-09 20:18:00 Friends  : 99% at 39/sec for GreggatQuest
+2017-11-09 20:18:27 Friends  : 99.9% at 38/sec for GudrunBurnet
+2017-11-09 20:18:39 Friends  : 97.8% at 43/sec for Hallage123
+2017-11-09 20:18:56 Friends  : 97.1% at 39/sec for HeatherMiles84
+2017-11-09 20:19:05 Tweets   : 40.6% at 46/sec for gentoogroup
+2017-11-09 20:19:17 Friends  : 99.8% at 43/sec for HelenaPartnersh
+Error in twInterfaceObj$doAPICall(cmd, params, method, ...) : 
+  Service Unavailable (HTTP 503).
+In addition: Warning message:
+package 'twitteR' was built under R version 3.4.1 
+2017-11-09 20:19:26 Tweets: Unable to find account GGHTrust moving to next
+2017-11-09 20:19:26 Tweets   : % at /sec for GGHTrust
+2017-11-09 20:19:30 Friends  : 99.1% at 44/sec for HelloSanctuary
+2017-11-09 20:19:30 Friends  : Waiting for 7.9 minutes
+2017-11-09 20:20:31 Tweets   : 55.1% at 48/sec for GoldenLaneHouse
+2017-11-09 20:21:39 Tweets   : 7.4% at 47/sec for GreggatQuest
+2017-11-09 20:22:52 Tweets   : 26.7% at 44/sec for GudrunBurnet
+2017-11-09 20:23:15 Tweets   : 99.3% at 38/sec for Hallage123
+2017-11-09 20:23:52 Tweets   : 100% at 42/sec for HeatherMiles84
+2017-11-09 20:24:48 Favorites: 50.5% at 3/sec for GoldenLaneHouse
+2017-11-09 20:25:06 Tweets   : 89.9% at 43/sec for HelenaPartnersh
+2017-11-09 20:25:56 Favorites: 13.9% at 45/sec for GreggatQuest
+2017-11-09 20:26:10 Tweets   : 49.5% at 50/sec for HelloSanctuary
+2017-11-09 20:26:50 Tweets   : 99.5% at 43/sec for Housing4Women
+2017-11-09 20:27:04 Favorites: 37% at 47/sec for GudrunBurnet
+2017-11-09 20:27:12 Favorites: Waiting for 12.4 minutes due to : Used up allowance in a loop
+2017-11-09 20:27:21 Tweets   : 99.9% at 39/sec for ITinHousing
+2017-11-09 20:27:35 Tweets   : 100% at 24/sec for jacktweaver
+2017-11-09 20:27:43 Friends  : 99.8% at 1/sec for Housing4Women
+2017-11-09 20:27:51 Tweets   : 100% at 28/sec for jenny_luckett
+2017-11-09 20:28:00 Tweets   : 100% at 16/sec for Joe_MidHeart
+2017-11-09 20:28:34 Friends  : 99.9% at 44/sec for ITinHousing
+2017-11-09 20:28:37 Friends  : 96% at 30/sec for jacktweaver
+2017-11-09 20:28:40 Tweets   : 99.8% at 43/sec for KatieM_WMG
+2017-11-09 20:28:47 Friends  : 98.5% at 36/sec for jenny_luckett
+2017-11-09 20:28:52 Friends  : 99.5% at 37/sec for Joe_MidHeart
+2017-11-09 20:29:01 Tweets   : 100% at 37/sec for leaphousing
+2017-11-09 20:29:06 Friends  : 99.6% at 39/sec for KatieM_WMG
+2017-11-09 20:30:01 Tweets   : 99.4% at 46/sec for lmhinfo
+2017-11-09 20:30:19 Friends  : 94.4% at 37/sec for leaphousing
+2017-11-09 20:30:31 Friends  : 99.4% at 41/sec for lmhinfo
+2017-11-09 20:31:09 Tweets   : 99.6% at 42/sec for Louise__Howard
+2017-11-09 20:31:13 Friends  : 98.5% at 41/sec for Louise__Howard
+2017-11-09 20:31:16 Friends  : 97.7% at 38/sec for LuenThompson
+2017-11-09 20:31:40 Friends  : 99.5% at 41/sec for MerlinHousing
+2017-11-09 20:32:17 Tweets   : 28% at 45/sec for LuenThompson
+2017-11-09 20:32:35 Friends  : 99.1% at 39/sec for mlchandler01
+2017-11-09 20:32:38 Friends  : 98.7% at 30/sec for msolesbury
+2017-11-09 20:32:49 Friends  : 99% at 44/sec for natfedKate
+2017-11-09 20:33:03 Friends  : 93.2% at 40/sec for NewcFS
+2017-11-09 20:33:03 Friends  : Waiting for 9.5 minutes
+2017-11-09 20:33:20 Tweets   : 100% at 45/sec for MerlinHousing
+2017-11-09 20:34:35 Tweets   : 39.4% at 43/sec for mlchandler01
+2017-11-09 20:34:48 Tweets   : 99.3% at 33/sec for msolesbury
+2017-11-09 20:35:15 Tweets   : 99.8% at 43/sec for natfedKate
+2017-11-09 20:35:41 Tweets   : 100% at 37/sec for NewcFS
+2017-11-09 20:35:47 Tweets   : 100% at 7/sec for Nick_di_Paolo
+2017-11-09 20:36:21 Tweets   : 99.7% at 43/sec for paulbayly
+2017-11-09 20:37:38 Tweets   : 73.3% at 42/sec for pauldoe60
+2017-11-09 20:38:11 Tweets   : 99.3% at 42/sec for peaksplains
+2017-11-09 20:38:54 Tweets   : 99.3% at 47/sec for pjk68
+2017-11-09 20:39:55 Favorites: 59% at 1/sec for Hallage123
+2017-11-09 20:40:09 Tweets   : 46.3% at 42/sec for placeshapers
+2017-11-09 20:40:21 Favorites: 50.5% at 48/sec for HeatherMiles84
+2017-11-09 20:40:33 Favorites: 56.7% at 49/sec for HelenaPartnersh
+2017-11-09 20:40:57 Favorites: 49.9% at 45/sec for HelloSanctuary
+2017-11-09 20:41:03 Favorites: 60.1% at 50/sec for Housing4Women
+2017-11-09 20:41:10 Favorites: 54.6% at 46/sec for ITinHousing
+2017-11-09 20:41:12 Tweets   : 99.9% at 46/sec for PlymCommHomes
+2017-11-09 20:41:14 Favorites: 82.2% at 51/sec for jacktweaver
+2017-11-09 20:41:19 Favorites: 49.7% at 53/sec for jenny_luckett
+2017-11-09 20:41:21 Favorites: 100% at 8/sec for Joe_MidHeart
+2017-11-09 20:41:32 Favorites: 60.5% at 45/sec for KatieM_WMG
+2017-11-09 20:41:32 Tweets   : 100% at 35/sec for RossTogether
+2017-11-09 20:41:35 Favorites: 65.6% at 50/sec for leaphousing
+2017-11-09 20:41:39 Favorites: 51.4% at 54/sec for lmhinfo
+2017-11-09 20:41:51 Tweets   : 100% at 34/sec for rowanatk
+2017-11-09 20:42:09 Favorites: 49.9% at 46/sec for Louise__Howard
+2017-11-09 20:42:24 Favorites: Waiting for 12.4 minutes due to : Used up allowance in a loop
+2017-11-09 20:42:32 Tweets   : 99.9% at 42/sec for SalvationArmyHA
+2017-11-09 20:42:47 Tweets   : 100% at 32/sec for SFurzland
+2017-11-09 20:42:49 Friends  : 98.4% at 0/sec for Nick_di_Paolo
+2017-11-09 20:43:03 Friends  : 98.7% at 46/sec for paulbayly
+2017-11-09 20:43:08 Friends  : 98.8% at 45/sec for pauldoe60
+2017-11-09 20:43:19 Friends  : 98.6% at 46/sec for peaksplains
+2017-11-09 20:43:24 Tweets   : 99.4% at 39/sec for ShaunaM_BaH
+2017-11-09 20:43:34 Friends  : 98.7% at 43/sec for pjk68
+2017-11-09 20:43:41 Tweets   : 98.9% at 27/sec for SHLA_housing
+2017-11-09 20:44:03 Friends  : 99.7% at 43/sec for placeshapers
+2017-11-09 20:44:26 Friends  : 98.7% at 42/sec for PlymCommHomes
+2017-11-09 20:44:40 Friends  : 98.3% at 39/sec for RossTogether
+2017-11-09 20:44:49 Tweets   : 12.6% at 47/sec for sianberry
+2017-11-09 20:44:55 Friends  : 98.5% at 40/sec for rowanatk
+2017-11-09 20:45:08 Friends  : 99.8% at 43/sec for SalvationArmyHA
+2017-11-09 20:45:15 Friends  : 98.2% at 33/sec for SFurzland
+2017-11-09 20:45:27 Tweets   : 100% at 42/sec for sih_uk
+2017-11-09 20:45:39 Friends  : 95.3% at 39/sec for ShaunaM_BaH
+2017-11-09 20:45:45 Friends  : 98.1% at 33/sec for SHLA_housing
+2017-11-09 20:46:36 Tweets   : 1.2% at 46/sec for SkyNews
+2017-11-09 20:48:19 Friends  : 98.9% at 44/sec for sianberry
+2017-11-09 20:48:20 Friends  : Waiting for 9.4 minutes
+2017-11-09 20:55:06 Favorites: 50.8% at 2/sec for LuenThompson
+2017-11-09 20:55:10 Favorites: 55.7% at 50/sec for MerlinHousing
+2017-11-09 20:55:25 Favorites: 49.9% at 47/sec for mlchandler01
+2017-11-09 20:55:27 Favorites: 97.5% at 39/sec for msolesbury
+2017-11-09 20:55:33 Favorites: 60.4% at 49/sec for natfedKate
+2017-11-09 20:55:38 Favorites: 77.2% at 41/sec for NewcFS
+2017-11-09 20:55:39 Favorites: 100% at 49/sec for Nick_di_Paolo
+2017-11-09 20:55:45 Favorites: 67.3% at 45/sec for paulbayly
+2017-11-09 20:55:49 Favorites: 86% at 52/sec for pauldoe60
+2017-11-09 20:55:58 Favorites: 48.6% at 44/sec for peaksplains
+2017-11-09 20:56:13 Favorites: 53.2% at 44/sec for pjk68
+2017-11-09 20:56:34 Favorites: 49.7% at 47/sec for placeshapers
+2017-11-09 20:56:43 Favorites: 63.6% at 46/sec for PlymCommHomes
+2017-11-09 20:56:45 Favorites: 69.9% at 53/sec for RossTogether
+2017-11-09 20:56:47 Favorites: 100% at 42/sec for rowanatk
+2017-11-09 20:56:50 Favorites: 62.9% at 53/sec for SalvationArmyHA
+2017-11-09 20:56:53 Favorites: 57.5% at 48/sec for SFurzland
+2017-11-09 20:57:11 Favorites: 55.4% at 48/sec for ShaunaM_BaH
+2017-11-09 20:57:13 Favorites: 57.6% at 51/sec for SHLA_housing
+2017-11-09 20:57:33 Favorites: Waiting for 12.4 minutes due to : Used up allowance in a loop
+2017-11-09 20:57:56 Friends  : 98.5% at 0/sec for sih_uk
+2017-11-09 20:57:57 Friends  : 100% at 8/sec for SkyNews
+2017-11-09 21:10:48 Favorites: 32% at 4/sec for sianberry
+2017-11-09 21:10:50 Favorites: 59.5% at 49/sec for sih_uk
+2017-11-09 21:10:50 Favorites: 90% at 20/sec for SkyNews
+Warning message:
+Warning message:
+was built under R version 3.4.1 
+package 'twitteR' was built under R version 3.4.1 

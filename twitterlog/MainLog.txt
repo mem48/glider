@@ -1,0 +1,859 @@
+2017-11-05 17:40:01 To get 166693 accounts will require 3334 batches of up to 50
+2017-11-05 17:40:01 Doing batch 1: Getting account details
+2017-11-05 17:40:12 Users: Unable to find account CulturePlanning moving to next account
+2017-11-05 17:40:12 49/50 users  @ 4.7 users/second
+2017-11-05 17:40:12 Doing batch 1: Starting Cluster
+2017-11-05 18:57:41 Doing batch 1: Cleaning Results
+2017-11-05 18:57:46 Doing batch 2: Getting account details
+2017-11-05 18:57:53 Users: Unable to find account CIOBJacqueline moving to next account
+2017-11-05 18:57:53 Users: Unable to find account PHammondMP moving to next account
+2017-11-05 18:57:56 48/50 users  @ 4.8 users/second
+2017-11-05 18:57:56 Doing batch 2: Starting Cluster
+2017-11-05 20:15:36 Doing batch 2: Cleaning Results
+2017-11-05 20:15:46 Doing batch 3: Getting account details
+2017-11-05 20:15:55 50/50 users  @ 5.1 users/second
+2017-11-05 20:15:56 Doing batch 3: Starting Cluster
+2017-11-05 21:15:52 Doing batch 3: Cleaning Results
+2017-11-05 21:16:05 Doing batch 4: Getting account details
+2017-11-05 21:16:09 Users: Unable to find account JoJohnsonMP moving to next account
+2017-11-05 21:16:10 Users: Unable to find account HBaldwinMP moving to next account
+2017-11-05 21:16:13 Users: Unable to find account DebsAECBgroups moving to next account
+2017-11-05 21:16:15 47/50 users  @ 4.6 users/second
+2017-11-05 21:16:15 Doing batch 4: Starting Cluster
+2017-11-05 22:16:46 Doing batch 4: Cleaning Results
+2017-11-05 22:16:59 Doing batch 5: Getting account details
+2017-11-05 22:17:10 50/50 users  @ 4.8 users/second
+2017-11-05 22:17:10 Doing batch 5: Starting Cluster
+2017-11-06 00:01:20 Doing batch 5: Cleaning Results
+2017-11-06 00:01:36 Doing batch 6: Getting account details
+2017-11-06 00:01:46 50/50 users  @ 5 users/second
+2017-11-06 00:01:46 Doing batch 6: Starting Cluster
+2017-11-06 01:50:21 Doing batch 6: Cleaning Results
+2017-11-06 01:50:41 Doing batch 7: Getting account details
+2017-11-06 01:50:43 Users: Unable to find account bisgovuk moving to next account
+2017-11-06 01:50:51 49/50 users  @ 5.3 users/second
+2017-11-06 01:50:51 Doing batch 7: Starting Cluster
+2017-11-06 03:21:40 Doing batch 7: Cleaning Results
+2017-11-06 03:22:02 Doing batch 8: Getting account details
+2017-11-06 03:22:12 50/50 users  @ 5.4 users/second
+2017-11-06 03:22:12 Doing batch 8: Starting Cluster
+2017-11-06 04:53:52 Doing batch 8: Cleaning Results
+2017-11-06 04:54:19 Doing batch 9: Getting account details
+2017-11-06 04:54:28 50/50 users  @ 5.5 users/second
+2017-11-06 04:54:28 Doing batch 9: Starting Cluster
+2017-11-06 06:55:39 Doing batch 9: Cleaning Results
+2017-11-06 06:56:10 Doing batch 10: Getting account details
+2017-11-06 06:56:13 Users: Unable to find account natfedClaire moving to next account
+2017-11-06 06:56:14 Users: Unable to find account pm4girls moving to next account
+2017-11-06 06:56:16 Users: Unable to find account nick__bourne moving to next account
+2017-11-06 06:56:19 47/50 users  @ 5.5 users/second
+2017-11-06 06:56:19 Doing batch 10: Starting Cluster
+2017-11-06 08:11:17 Doing batch 10: Cleaning Results
+2017-11-06 08:11:51 Doing batch 11: Getting account details
+2017-11-06 08:11:53 Users: Unable to find account GavinBarwellMP moving to next account
+2017-11-06 08:12:00 49/50 users  @ 5.6 users/second
+2017-11-06 08:12:01 Doing batch 11: Starting Cluster
+2017-11-06 09:27:22 Doing batch 11: Cleaning Results
+2017-11-06 09:27:58 Doing batch 12: Getting account details
+2017-11-06 09:28:00 Users: Unable to find account housingJenny moving to next account
+2017-11-06 09:28:07 Users: Unable to find account EveshamHomeImp moving to next account
+2017-11-06 09:28:08 Users: Unable to find account nickatkin_hht moving to next account
+2017-11-06 09:28:09 47/50 users  @ 4.5 users/second
+2017-11-06 09:28:09 Doing batch 12: Starting Cluster
+2017-11-06 10:45:06 Doing batch 12: Cleaning Results
+2017-11-06 10:45:46 Doing batch 13: Getting account details
+2017-11-06 10:45:47 Users: Unable to find account AdamsScottPH moving to next account
+2017-11-06 10:45:49 Users: Unable to find account ERAPConsulting moving to next account
+2017-11-06 10:45:55 48/50 users  @ 5.4 users/second
+2017-11-06 10:45:55 Doing batch 13: Starting Cluster
+2017-11-06 11:33:51 Doing batch 13: Cleaning Results
+2017-11-06 11:34:34 Doing batch 14: Getting account details
+2017-11-06 11:34:39 Users: Unable to find account LewisBMJ moving to next account
+2017-11-06 11:34:43 49/50 users  @ 5.3 users/second
+2017-11-06 11:34:44 Doing batch 14: Starting Cluster
+2017-11-06 12:44:44 Doing batch 14: Cleaning Results
+2017-11-06 12:45:29 Doing batch 15: Getting account details
+2017-11-06 12:45:32 Users: Unable to find account JaneDuncanPRIBA moving to next account
+2017-11-06 12:45:34 Users: Unable to find account 1010 moving to next account
+2017-11-06 12:45:35 Users: Unable to find account BMJnet moving to next account
+2017-11-06 12:45:39 47/50 users  @ 4.8 users/second
+2017-11-06 12:45:39 Doing batch 15: Starting Cluster
+2017-11-06 13:44:56 Doing batch 15: Cleaning Results
+2017-11-06 13:45:55 Doing batch 16: Getting account details
+2017-11-06 13:45:57 Users: Unable to find account GGFTraining moving to next account
+2017-11-06 13:46:06 49/50 users  @ 4.4 users/second
+2017-11-06 13:46:07 Doing batch 16: Starting Cluster
+2017-11-06 14:37:33 Doing batch 16: Cleaning Results
+2017-11-06 14:38:38 Doing batch 17: Getting account details
+2017-11-06 14:38:46 Users: Unable to find account natfedGemma moving to next account
+2017-11-06 14:38:48 49/50 users  @ 4.7 users/second
+2017-11-06 14:38:48 Doing batch 17: Starting Cluster
+2017-11-06 15:46:10 Doing batch 17: Cleaning Results
+2017-11-06 15:47:05 Doing batch 18: Getting account details
+2017-11-06 15:47:16 50/50 users  @ 4.5 users/second
+2017-11-06 15:47:16 Doing batch 18: Starting Cluster
+2017-11-06 17:00:43 Doing batch 18: Cleaning Results
+2017-11-06 17:01:39 Doing batch 19: Getting account details
+2017-11-06 17:01:44 Users: Unable to find account pro_fiveconsult moving to next account
+2017-11-06 17:01:50 49/50 users  @ 4.5 users/second
+2017-11-06 17:01:50 Doing batch 19: Starting Cluster
+2017-11-06 18:31:44 Doing batch 19: Cleaning Results
+2017-11-06 18:32:44 Doing batch 20: Getting account details
+2017-11-06 18:32:54 50/50 users  @ 5 users/second
+2017-11-06 18:32:55 Doing batch 20: Starting Cluster
+2017-11-06 20:00:11 Doing batch 20: Cleaning Results
+2017-11-06 20:01:15 Doing batch 21: Getting account details
+2017-11-06 20:01:22 Users: Unable to find account petehambly moving to next account
+2017-11-06 20:01:26 Users: Unable to find account PRP_Sustain moving to next account
+2017-11-06 20:01:27 48/50 users  @ 4.2 users/second
+2017-11-06 20:01:27 Doing batch 21: Starting Cluster
+2017-11-06 21:15:30 Doing batch 21: Cleaning Results
+2017-11-06 21:16:36 Doing batch 22: Getting account details
+2017-11-06 21:16:46 50/50 users  @ 4.8 users/second
+2017-11-06 21:16:47 Doing batch 22: Starting Cluster
+2017-11-06 22:46:49 Doing batch 22: Cleaning Results
+2017-11-06 22:48:00 Doing batch 23: Getting account details
+2017-11-06 22:48:03 Users: Unable to find account NeighbsGreen moving to next account
+2017-11-06 22:48:11 49/50 users  @ 4.4 users/second
+2017-11-06 22:48:11 Doing batch 23: Starting Cluster
+2017-11-06 23:45:03 Doing batch 23: Cleaning Results
+2017-11-06 23:46:16 Doing batch 24: Getting account details
+2017-11-06 23:46:25 50/50 users  @ 5.3 users/second
+2017-11-06 23:46:25 Doing batch 24: Starting Cluster
+2017-11-07 01:02:02 Doing batch 24: Cleaning Results
+2017-11-07 01:03:16 Doing batch 25: Getting account details
+2017-11-07 01:03:19 Users: Unable to find account Jaxsuccesstrain moving to next account
+2017-11-07 01:03:20 Users: Unable to find account BritishGasMedia moving to next account
+2017-11-07 01:03:22 Users: Unable to find account comtecpres moving to next account
+2017-11-07 01:03:25 Users: Unable to find account DodsEngagement moving to next account
+2017-11-07 01:03:26 Users: Unable to find account NFBTraining moving to next account
+2017-11-07 01:03:26 45/50 users  @ 4.4 users/second
+2017-11-07 01:03:27 Doing batch 25: Starting Cluster
+2017-11-07 02:01:52 Doing batch 25: Cleaning Results
+2017-11-07 02:03:10 Doing batch 26: Getting account details
+2017-11-07 02:03:17 Users: Unable to find account The_Envist moving to next account
+2017-11-07 02:03:20 49/50 users  @ 4.8 users/second
+2017-11-07 02:03:23 Doing batch 26: Starting Cluster
+2017-11-07 03:16:48 Doing batch 26: Cleaning Results
+2017-11-07 03:18:09 Doing batch 27: Getting account details
+2017-11-07 03:18:18 50/50 users  @ 5.6 users/second
+2017-11-07 03:18:19 Doing batch 27: Starting Cluster
+2017-11-07 04:16:50 Doing batch 27: Cleaning Results
+2017-11-07 04:18:12 Doing batch 28: Getting account details
+2017-11-07 04:18:16 Users: Unable to find account cninsight moving to next account
+2017-11-07 04:18:16 Users: Unable to find account ScotlandOffice moving to next account
+2017-11-07 04:18:21 48/50 users  @ 5.1 users/second
+2017-11-07 04:18:22 Doing batch 28: Starting Cluster
+2017-11-07 05:16:01 Doing batch 28: Cleaning Results
+2017-11-07 05:17:26 Doing batch 29: Getting account details
+2017-11-07 05:17:28 Users: Unable to find account natfedPete moving to next account
+2017-11-07 05:17:35 49/50 users  @ 5.2 users/second
+2017-11-07 05:17:35 Doing batch 29: Starting Cluster
+2017-11-07 06:16:45 Doing batch 29: Cleaning Results
+2017-11-07 06:18:12 Doing batch 30: Getting account details
+2017-11-07 06:18:18 Users: Unable to find account JohnGiazzi moving to next account
+2017-11-07 06:18:19 Users: Unable to find account nickhurdmp moving to next account
+2017-11-07 06:18:21 48/50 users  @ 5.2 users/second
+2017-11-07 06:18:21 Doing batch 30: Starting Cluster
+2017-11-07 07:30:46 Doing batch 30: Cleaning Results
+2017-11-07 07:32:16 Doing batch 31: Getting account details
+2017-11-07 07:32:26 50/50 users  @ 5 users/second
+2017-11-07 07:32:26 Doing batch 31: Starting Cluster
+2017-11-07 08:31:20 Doing batch 31: Cleaning Results
+2017-11-07 08:32:52 Doing batch 32: Getting account details
+2017-11-07 08:33:02 50/50 users  @ 5.3 users/second
+2017-11-07 08:33:03 Doing batch 32: Starting Cluster
+2017-11-07 09:45:24 Doing batch 32: Cleaning Results
+2017-11-07 09:46:59 Doing batch 33: Getting account details
+2017-11-07 09:47:00 Users: Unable to find account LollyGee moving to next account
+2017-11-07 09:47:07 Users: Unable to find account Ian_BRE moving to next account
+2017-11-07 09:47:08 Users: Unable to find account bobirving99 moving to next account
+2017-11-07 09:47:09 47/50 users  @ 4.6 users/second
+2017-11-07 09:47:09 Doing batch 33: Starting Cluster
+2017-11-07 10:45:15 Doing batch 33: Cleaning Results
+2017-11-07 10:46:52 Doing batch 34: Getting account details
+2017-11-07 10:46:55 Users: Unable to find account BRE_C4R moving to next account
+2017-11-07 10:46:56 Users: Unable to find account BreEvents moving to next account
+2017-11-07 10:47:04 48/50 users  @ 4 users/second
+2017-11-07 10:47:04 Doing batch 34: Starting Cluster
+2017-11-07 11:47:23 Doing batch 34: Cleaning Results
+2017-11-07 11:49:03 Doing batch 35: Getting account details
+2017-11-07 11:49:08 Users: Unable to find account Summit2025 moving to next account
+2017-11-07 11:49:13 Users: Unable to find account RichardRentplus moving to next account
+2017-11-07 11:49:13 48/50 users  @ 4.8 users/second
+2017-11-07 11:49:13 Doing batch 35: Starting Cluster
+2017-11-07 12:47:19 Doing batch 35: Cleaning Results
+2017-11-07 12:49:01 Doing batch 36: Getting account details
+2017-11-07 12:49:07 Users: Unable to find account MarcusMcP_ moving to next account
+2017-11-07 12:49:12 49/50 users  @ 4.7 users/second
+2017-11-07 12:49:12 Doing batch 36: Starting Cluster
+2017-11-07 13:45:57 Doing batch 36: Cleaning Results
+2017-11-07 13:47:41 Doing batch 37: Getting account details
+2017-11-07 13:47:51 50/50 users  @ 5 users/second
+2017-11-07 13:47:51 Doing batch 37: Starting Cluster
+2017-11-07 15:00:26 Doing batch 37: Cleaning Results
+2017-11-07 15:02:14 Doing batch 38: Getting account details
+2017-11-07 15:02:22 Users: Unable to find account PRHullltd moving to next account
+2017-11-07 15:02:24 Users: Unable to find account GCS_SouthWest moving to next account
+2017-11-07 15:02:24 48/50 users  @ 4.6 users/second
+2017-11-07 15:02:24 Doing batch 38: Starting Cluster
+2017-11-07 16:02:12 Doing batch 38: Cleaning Results
+2017-11-07 16:04:03 Doing batch 39: Getting account details
+2017-11-07 16:04:14 50/50 users  @ 4.6 users/second
+2017-11-07 16:04:15 Doing batch 39: Starting Cluster
+2017-11-07 17:31:04 Doing batch 39: Cleaning Results
+2017-11-07 17:33:00 Doing batch 40: Getting account details
+2017-11-07 17:33:10 50/50 users  @ 4.7 users/second
+2017-11-07 17:33:11 Doing batch 40: Starting Cluster
+2017-11-07 19:19:09 Doing batch 40: Cleaning Results
+2017-11-07 19:21:06 Doing batch 41: Getting account details
+2017-11-07 19:21:18 50/50 users  @ 4.2 users/second
+2017-11-07 19:21:18 Doing batch 41: Starting Cluster
+2017-11-07 20:20:16 Doing batch 41: Cleaning Results
+2017-11-07 20:22:16 Doing batch 42: Getting account details
+2017-11-07 20:22:18 Users: Unable to find account natfedPippa moving to next account
+2017-11-07 20:22:22 Users: Unable to find account CNRebeccaEvans moving to next account
+2017-11-07 20:22:28 48/50 users  @ 4 users/second
+2017-11-07 20:22:28 Doing batch 42: Starting Cluster
+2017-11-07 21:09:53 Doing batch 42: Cleaning Results
+2017-11-07 21:11:54 Doing batch 43: Getting account details
+2017-11-07 21:12:03 Users: Unable to find account AdairAssociates moving to next account
+2017-11-07 21:12:08 49/50 users  @ 3.4 users/second
+2017-11-07 21:12:08 Doing batch 43: Starting Cluster
+2017-11-07 22:23:38 Doing batch 43: Cleaning Results
+2017-11-07 22:25:45 Doing batch 44: Getting account details
+2017-11-07 22:25:56 50/50 users  @ 4.8 users/second
+2017-11-07 22:25:56 Doing batch 44: Starting Cluster
+2017-11-07 23:22:30 Doing batch 44: Cleaning Results
+2017-11-07 23:24:36 Doing batch 45: Getting account details
+2017-11-07 23:24:37 Users: Unable to find account zchomes moving to next account
+2017-11-07 23:24:45 49/50 users  @ 5.3 users/second
+2017-11-07 23:24:47 Doing batch 45: Starting Cluster
+2017-11-08 00:34:06 Doing batch 45: Cleaning Results
+2017-11-08 00:36:18 Doing batch 46: Getting account details
+2017-11-08 00:36:27 Users: Unable to find account GordonPatAccent moving to next account
+2017-11-08 00:36:27 49/50 users  @ 5.2 users/second
+2017-11-08 00:36:27 Doing batch 46: Starting Cluster
+2017-11-08 01:42:36 Doing batch 46: Cleaning Results
+2017-11-08 01:44:49 Doing batch 47: Getting account details
+2017-11-08 01:44:53 Users: Unable to find account WalulasLap moving to next account
+2017-11-08 01:44:58 49/50 users  @ 5.5 users/second
+2017-11-08 01:44:58 Doing batch 47: Starting Cluster
+2017-11-08 03:28:36 Doing batch 47: Cleaning Results
+2017-11-08 03:30:55 Doing batch 48: Getting account details
+2017-11-08 03:30:59 Users: Unable to find account GreenInvBank moving to next account
+2017-11-08 03:31:04 49/50 users  @ 5.3 users/second
+2017-11-08 03:31:05 Doing batch 48: Starting Cluster
+2017-11-08 04:30:20 Doing batch 48: Cleaning Results
+2017-11-08 04:32:39 Doing batch 49: Getting account details
+2017-11-08 04:32:47 50/50 users  @ 5.9 users/second
+2017-11-08 04:32:49 Doing batch 49: Starting Cluster
+2017-11-08 05:32:55 Doing batch 49: Cleaning Results
+2017-11-08 05:35:17 Doing batch 50: Getting account details
+2017-11-08 05:35:26 Users: Unable to find account keepmoatgroup moving to next account
+2017-11-08 05:35:26 49/50 users  @ 5.7 users/second
+2017-11-08 05:35:27 Doing batch 50: Starting Cluster
+2017-11-08 06:32:02 Doing batch 50: Cleaning Results
+2017-11-08 06:34:26 Doing batch 51: Getting account details
+2017-11-08 06:34:39 50/50 users  @ 3.8 users/second
+2017-11-08 06:34:40 Doing batch 51: Starting Cluster
+2017-11-08 07:46:54 Doing batch 51: Cleaning Results
+2017-11-08 07:49:21 Doing batch 52: Getting account details
+2017-11-08 07:49:29 50/50 users  @ 5.9 users/second
+2017-11-08 07:49:30 Doing batch 52: Starting Cluster
+2017-11-08 08:49:09 Doing batch 52: Cleaning Results
+2017-11-08 08:51:38 Doing batch 53: Getting account details
+2017-11-08 08:51:48 50/50 users  @ 5 users/second
+2017-11-08 08:51:48 Doing batch 53: Starting Cluster
+2017-11-08 09:48:18 Doing batch 53: Cleaning Results
+2017-11-08 09:50:50 Doing batch 54: Getting account details
+2017-11-08 09:50:52 Users: Unable to find account wgcs_enviro moving to next account
+2017-11-08 09:50:58 Users: Unable to find account BeeStrawbridge moving to next account
+2017-11-08 09:50:59 48/50 users  @ 5.4 users/second
+2017-11-08 09:51:00 Doing batch 54: Starting Cluster
+2017-11-08 10:39:18 Doing batch 54: Cleaning Results
+2017-11-08 10:41:54 Doing batch 55: Getting account details
+2017-11-08 10:41:54 Users: Unable to find account CMasseyEX moving to next account
+2017-11-08 10:41:55 Users: Unable to find account pakster77 moving to next account
+2017-11-08 10:42:03 48/50 users  @ 5.3 users/second
+2017-11-08 10:42:03 Doing batch 55: Starting Cluster
+2017-11-08 11:49:36 Doing batch 55: Cleaning Results
+2017-11-08 11:52:14 Doing batch 56: Getting account details
+2017-11-08 11:52:23 Users: Unable to find account BRUFMA moving to next account
+2017-11-08 11:52:25 49/50 users  @ 4.6 users/second
+2017-11-08 11:52:25 Doing batch 56: Starting Cluster
+2017-11-08 13:03:30 Doing batch 56: Cleaning Results
+2017-11-08 13:06:11 Doing batch 57: Getting account details
+2017-11-08 13:06:12 Users: Unable to find account YellowJacketBRE moving to next account
+2017-11-08 13:06:20 49/50 users  @ 5.3 users/second
+2017-11-08 13:06:22 Doing batch 57: Starting Cluster
+2017-11-08 13:54:17 Doing batch 57: Cleaning Results
+2017-11-08 13:57:00 Doing batch 58: Getting account details
+2017-11-08 13:57:09 50/50 users  @ 5.1 users/second
+2017-11-08 13:57:10 Doing batch 58: Starting Cluster
+2017-11-08 15:33:57 Doing batch 58: Cleaning Results
+2017-11-08 15:36:49 Doing batch 59: Getting account details
+2017-11-08 15:36:53 Users: Unable to find account JonBIM4Water moving to next account
+2017-11-08 15:36:56 Users: Unable to find account EdwardDaveyMP moving to next account
+2017-11-08 15:36:57 Users: Unable to find account walesoffice moving to next account
+2017-11-08 15:36:58 47/50 users  @ 5.2 users/second
+2017-11-08 15:36:58 Doing batch 59: Starting Cluster
+2017-11-08 16:48:37 Doing batch 59: Cleaning Results
+2017-11-08 16:51:26 Doing batch 60: Getting account details
+2017-11-08 16:51:37 50/50 users  @ 4.7 users/second
+2017-11-08 16:51:37 Doing batch 60: Starting Cluster
+Error in checkForRemoteErrors(val) : 
+  one node produced an error: Invalid response from server - no 'resources' field in JSON
+In addition: Warning message:
+package ‘twitteR’ was built under R version 3.4.1 
+> results <- get.SNAdata(accounts, temp.fld = "F:/Twitter/SecondRoundParReRun", batch.start = 60, trim = TRUE)
+2017-11-08 17:49:10 To get 166693 accounts will require 3334 batches of up to 50
+2017-11-08 17:49:10 Doing batch 60: Getting account details
+2017-11-08 17:49:22 50/50 users  @ 4.3 users/second
+2017-11-08 17:49:22 Doing batch 60: Starting Cluster
+2017-11-08 18:36:26 Doing batch 60: Cleaning Results
+2017-11-08 18:36:28 Doing batch 61: Getting account details
+2017-11-08 18:36:39 Users: Unable to find account BuildersAkw moving to next account
+2017-11-08 18:36:39 49/50 users  @ 4.6 users/second
+2017-11-08 18:36:39 Doing batch 61: Starting Cluster
+2017-11-08 19:52:35 Doing batch 61: Cleaning Results
+2017-11-08 19:52:42 Doing batch 62: Getting account details
+2017-11-08 19:52:44 Users: Unable to find account bshf moving to next account
+2017-11-08 19:52:53 49/50 users  @ 4.3 users/second
+2017-11-08 19:52:53 Doing batch 62: Starting Cluster
+2017-11-08 20:39:37 Doing batch 62: Cleaning Results
+2017-11-08 20:39:46 Doing batch 63: Getting account details
+2017-11-08 20:39:57 50/50 users  @ 4.5 users/second
+2017-11-08 20:39:57 Doing batch 63: Starting Cluster
+2017-11-08 21:28:50 Doing batch 63: Cleaning Results
+2017-11-08 21:29:01 Doing batch 64: Getting account details
+2017-11-08 21:29:13 50/50 users  @ 4 users/second
+2017-11-08 21:29:13 Doing batch 64: Starting Cluster
+2017-11-08 22:41:54 Doing batch 64: Cleaning Results
+2017-11-08 22:42:07 Doing batch 65: Getting account details
+2017-11-08 22:42:21 50/50 users  @ 3.7 users/second
+2017-11-08 22:42:21 Doing batch 65: Starting Cluster
+2017-11-08 23:43:32 Doing batch 65: Cleaning Results
+2017-11-08 23:43:48 Doing batch 66: Getting account details
+2017-11-08 23:43:52 Users: Unable to find account CIOBWestMids moving to next account
+2017-11-08 23:43:59 49/50 users  @ 4.2 users/second
+2017-11-08 23:44:00 Doing batch 66: Starting Cluster
+2017-11-09 00:31:24 Doing batch 66: Cleaning Results
+2017-11-09 00:31:42 Doing batch 67: Getting account details
+2017-11-09 00:31:48 Users: Unable to find account scb_planning moving to next account
+2017-11-09 00:31:51 49/50 users  @ 5.1 users/second
+2017-11-09 00:31:52 Doing batch 67: Starting Cluster
+2017-11-09 01:46:55 Doing batch 67: Cleaning Results
+2017-11-09 01:47:17 Doing batch 68: Getting account details
+2017-11-09 01:47:24 Users: Unable to find account RickTSB moving to next account
+2017-11-09 01:47:27 49/50 users  @ 4.9 users/second
+2017-11-09 01:47:27 Doing batch 68: Starting Cluster
+2017-11-09 02:47:12 Doing batch 68: Cleaning Results
+2017-11-09 02:47:39 Doing batch 69: Getting account details
+2017-11-09 02:47:44 Users: Unable to find account FernoxMark moving to next account
+2017-11-09 02:47:45 Users: Unable to find account LogicCert moving to next account
+2017-11-09 02:47:49 48/50 users  @ 4.8 users/second
+2017-11-09 02:47:50 Doing batch 69: Starting Cluster
+2017-11-09 04:04:38 Doing batch 69: Cleaning Results
+2017-11-09 04:05:05 Doing batch 70: Getting account details
+2017-11-09 04:05:15 50/50 users  @ 5.3 users/second
+2017-11-09 04:05:15 Doing batch 70: Starting Cluster
+2017-11-09 05:36:37 Doing batch 70: Cleaning Results
+2017-11-09 05:37:07 Doing batch 71: Getting account details
+2017-11-09 05:37:17 50/50 users  @ 5.2 users/second
+2017-11-09 05:37:17 Doing batch 71: Starting Cluster
+2017-11-09 06:37:40 Doing batch 71: Cleaning Results
+2017-11-09 06:38:13 Doing batch 72: Getting account details
+2017-11-09 06:38:18 Users: Unable to find account TUVSUD_WW moving to next account
+2017-11-09 06:38:21 49/50 users  @ 5.7 users/second
+2017-11-09 06:38:21 Doing batch 72: Starting Cluster
+2017-11-09 07:24:48 Doing batch 72: Cleaning Results
+2017-11-09 07:25:23 Doing batch 73: Getting account details
+2017-11-09 07:25:29 Users: Unable to find account missecopland moving to next account
+2017-11-09 07:25:31 49/50 users  @ 5.7 users/second
+2017-11-09 07:25:31 Doing batch 73: Starting Cluster
+2017-11-09 09:11:54 Doing batch 73: Cleaning Results
+2017-11-09 09:12:32 Doing batch 74: Getting account details
+2017-11-09 09:12:34 Users: Unable to find account steve_hayes1 moving to next account
+2017-11-09 09:12:37 Users: Unable to find account evies_b moving to next account
+2017-11-09 09:12:42 48/50 users  @ 4.9 users/second
+2017-11-09 09:12:42 Doing batch 74: Starting Cluster
+2017-11-09 11:15:20 Doing batch 74: Cleaning Results
+2017-11-09 11:16:02 Doing batch 75: Getting account details
+2017-11-09 11:16:07 Users: Unable to find account STAwards17 moving to next account
+2017-11-09 11:16:12 49/50 users  @ 5.2 users/second
+2017-11-09 11:16:12 Doing batch 75: Starting Cluster
+2017-11-09 12:31:09 Doing batch 75: Cleaning Results
+2017-11-09 12:31:55 Doing batch 76: Getting account details
+2017-11-09 12:31:59 Users: Unable to find account CNAwards16 moving to next account
+2017-11-09 12:32:04 49/50 users  @ 5.2 users/second
+2017-11-09 12:32:05 Doing batch 76: Starting Cluster
+2017-11-09 13:18:51 Doing batch 76: Cleaning Results
+2017-11-09 13:19:38 Doing batch 77: Getting account details
+2017-11-09 13:19:48 50/50 users  @ 5.4 users/second
+2017-11-09 13:19:48 Doing batch 77: Starting Cluster
+2017-11-09 14:19:26 Doing batch 77: Cleaning Results
+2017-11-09 14:20:16 Doing batch 78: Getting account details
+2017-11-09 14:20:25 50/50 users  @ 5.5 users/second
+2017-11-09 14:20:25 Doing batch 78: Starting Cluster
+2017-11-09 15:50:03 Doing batch 78: Cleaning Results
+2017-11-09 15:50:56 Doing batch 79: Getting account details
+2017-11-09 15:51:07 50/50 users  @ 4.6 users/second
+2017-11-09 15:51:07 Doing batch 79: Starting Cluster
+2017-11-09 17:22:31 Doing batch 79: Cleaning Results
+2017-11-09 17:23:28 Doing batch 80: Getting account details
+2017-11-09 17:23:38 50/50 users  @ 5 users/second
+2017-11-09 17:23:39 Doing batch 80: Starting Cluster
+2017-11-09 19:09:54 Doing batch 80: Cleaning Results
+2017-11-09 19:10:56 Doing batch 81: Getting account details
+2017-11-09 19:10:57 Users: Unable to find account ArchitExEvents moving to next account
+2017-11-09 19:11:07 49/50 users  @ 4.4 users/second
+2017-11-09 19:11:07 Doing batch 81: Starting Cluster
+2017-11-09 20:09:29 Doing batch 81: Cleaning Results
+2017-11-09 20:10:32 Doing batch 82: Getting account details
+2017-11-09 20:10:37 Users: Unable to find account JohnPierceE2 moving to next account
+2017-11-09 20:10:38 Users: Unable to find account natfedjames moving to next account
+2017-11-09 20:10:42 48/50 users  @ 5 users/second
+2017-11-09 20:10:42 Doing batch 82: Starting Cluster
+2017-11-09 21:10:50 Doing batch 82: Cleaning Results
+2017-11-09 21:11:56 Doing batch 83: Getting account details
+2017-11-09 21:11:57 Users: Unable to find account SocialHousingEx moving to next account
+2017-11-09 21:12:07 49/50 users  @ 4.5 users/second
+2017-11-09 21:12:08 Doing batch 83: Starting Cluster
+2017-11-09 22:11:21 Doing batch 83: Cleaning Results
+2017-11-09 22:12:30 Doing batch 84: Getting account details
+2017-11-09 22:12:37 Users: Unable to find account retrofit_jm moving to next account
+2017-11-09 22:12:37 Users: Unable to find account retrofit_mb moving to next account
+2017-11-09 22:12:40 48/50 users  @ 5 users/second
+2017-11-09 22:12:40 Doing batch 84: Starting Cluster
+2017-11-09 22:58:07 Doing batch 84: Cleaning Results
+2017-11-09 22:59:32 Doing batch 85: Getting account details
+2017-11-09 22:59:43 50/50 users  @ 4.6 users/second
+2017-11-09 22:59:43 Doing batch 85: Starting Cluster
+2017-11-10 00:12:24 Doing batch 85: Cleaning Results
+2017-11-10 00:13:45 Doing batch 86: Getting account details
+2017-11-10 00:13:55 50/50 users  @ 5.3 users/second
+2017-11-10 00:13:56 Doing batch 86: Starting Cluster
+2017-11-10 01:44:13 Doing batch 86: Cleaning Results
+2017-11-10 01:45:32 Doing batch 87: Getting account details
+2017-11-10 01:45:41 50/50 users  @ 5.5 users/second
+2017-11-10 01:45:41 Doing batch 87: Starting Cluster
+2017-11-10 02:44:52 Doing batch 87: Cleaning Results
+2017-11-10 02:46:15 Doing batch 88: Getting account details
+2017-11-10 02:46:16 Users: Unable to find account jcp4employers moving to next account
+2017-11-10 02:46:25 49/50 users  @ 4.8 users/second
+2017-11-10 02:46:25 Doing batch 88: Starting Cluster
+2017-11-10 03:33:48 Doing batch 88: Cleaning Results
+2017-11-10 03:35:12 Doing batch 89: Getting account details
+2017-11-10 03:35:21 50/50 users  @ 5.6 users/second
+2017-11-10 03:35:21 Doing batch 89: Starting Cluster
+2017-11-10 04:23:08 Doing batch 89: Cleaning Results
+2017-11-10 04:24:32 Doing batch 90: Getting account details
+2017-11-10 04:24:42 50/50 users  @ 5.1 users/second
+2017-11-10 04:24:42 Doing batch 90: Starting Cluster
+2017-11-10 06:01:01 Doing batch 90: Cleaning Results
+2017-11-10 06:02:29 Doing batch 91: Getting account details
+2017-11-10 06:02:39 50/50 users  @ 5.1 users/second
+2017-11-10 06:02:39 Doing batch 91: Starting Cluster
+2017-11-10 06:49:49 Doing batch 91: Cleaning Results
+2017-11-10 06:51:19 Doing batch 92: Getting account details
+2017-11-10 06:51:20 Users: Unable to find account surfscotty87 moving to next account
+2017-11-10 06:51:27 49/50 users  @ 5.7 users/second
+2017-11-10 06:51:27 Doing batch 92: Starting Cluster
+2017-11-10 08:09:22 Doing batch 92: Cleaning Results
+2017-11-10 08:10:56 Doing batch 93: Getting account details
+2017-11-10 08:10:57 Users: Unable to find account baqqacreative moving to next account
+2017-11-10 08:11:05 49/50 users  @ 5.1 users/second
+2017-11-10 08:11:05 Doing batch 93: Starting Cluster
+2017-11-10 09:26:04 Doing batch 93: Cleaning Results
+2017-11-10 09:27:39 Doing batch 94: Getting account details
+2017-11-10 09:27:46 Users: Unable to find account bisnorthwest moving to next account
+2017-11-10 09:27:48 Users: Unable to find account GCSNorthWest moving to next account
+2017-11-10 09:27:49 48/50 users  @ 4.6 users/second
+2017-11-10 09:27:50 Doing batch 94: Starting Cluster
+2017-11-10 10:15:08 Doing batch 94: Cleaning Results
+2017-11-10 10:16:49 Doing batch 95: Getting account details
+2017-11-10 10:16:59 50/50 users  @ 5 users/second
+2017-11-10 10:16:59 Doing batch 95: Starting Cluster
+2017-11-10 11:55:53 Doing batch 95: Cleaning Results
+2017-11-10 11:57:38 Doing batch 96: Getting account details
+2017-11-10 11:57:47 50/50 users  @ 5.3 users/second
+2017-11-10 11:57:49 Doing batch 96: Starting Cluster
+2017-11-10 12:56:13 Doing batch 96: Cleaning Results
+2017-11-10 12:58:01 Doing batch 97: Getting account details
+2017-11-10 12:58:10 50/50 users  @ 5.4 users/second
+2017-11-10 12:58:11 Doing batch 97: Starting Cluster
+2017-11-10 13:56:47 Doing batch 97: Cleaning Results
+2017-11-10 13:58:36 Doing batch 98: Getting account details
+2017-11-10 13:58:44 Users: Unable to find account Christine_CYT moving to next account
+2017-11-10 13:58:47 49/50 users  @ 4.6 users/second
+2017-11-10 13:58:47 Doing batch 98: Starting Cluster
+2017-11-10 14:46:36 Doing batch 98: Cleaning Results
+2017-11-10 14:48:28 Doing batch 99: Getting account details
+2017-11-10 14:48:41 50/50 users  @ 3.9 users/second
+2017-11-10 14:48:41 Doing batch 99: Starting Cluster
+2017-11-10 16:08:16 Doing batch 99: Cleaning Results
+2017-11-10 16:10:11 Doing batch 100: Getting account details
+2017-11-10 16:10:22 50/50 users  @ 4.6 users/second
+2017-11-10 16:10:22 Doing batch 100: Starting Cluster
+2017-11-10 17:22:09 Doing batch 100: Cleaning Results
+2017-11-10 17:24:03 Doing batch 101: Getting account details
+2017-11-10 17:24:13 50/50 users  @ 4.7 users/second
+2017-11-10 17:24:14 Doing batch 101: Starting Cluster
+2017-11-10 20:05:46 Doing batch 101: Cleaning Results
+2017-11-10 20:07:46 Doing batch 102: Getting account details
+2017-11-10 20:07:57 50/50 users  @ 4.7 users/second
+2017-11-10 20:07:58 Doing batch 102: Starting Cluster
+2017-11-10 21:11:47 Doing batch 102: Cleaning Results
+Error in rbind(deparse.level, ...) : 
+  numbers of columns of arguments do not match
+In addition: Warning messages:
+1: In .Internal(unique(x, incomparables, fromLast, nmax)) :
+  closing unused connection 5 (<-LIDA-PC-104667.ds.leeds.ac.uk:11045)
+2: In .Internal(unique(x, incomparables, fromLast, nmax)) :
+  closing unused connection 4 (<-LIDA-PC-104667.ds.leeds.ac.uk:11045)
+3: In .Internal(unique(x, incomparables, fromLast, nmax)) :
+  closing unused connection 3 (<-LIDA-PC-104667.ds.leeds.ac.uk:11045)
+2017-11-10 21:11:47 Out1 Rbind Fail saving result
+2017-11-10 21:13:49 Doing batch 103: Getting account details
+2017-11-10 21:13:59 50/50 users  @ 4.7 users/second
+2017-11-10 21:14:00 Doing batch 103: Starting Cluster
+2017-11-10 22:13:21 Doing batch 103: Cleaning Results
+2017-11-10 22:15:28 Doing batch 104: Getting account details
+2017-11-10 22:15:39 50/50 users  @ 4.6 users/second
+2017-11-10 22:15:39 Doing batch 104: Starting Cluster
+2017-11-11 00:00:14 Doing batch 104: Cleaning Results
+2017-11-11 00:02:22 Doing batch 105: Getting account details
+2017-11-11 00:02:22 Users: Unable to find account TCAProjects moving to next account
+2017-11-11 00:02:37 49/50 users  @ 3.2 users/second
+2017-11-11 00:02:37 Doing batch 105: Starting Cluster
+2017-11-11 00:50:02 Doing batch 105: Cleaning Results
+2017-11-11 00:52:09 Doing batch 106: Getting account details
+2017-11-11 00:52:18 50/50 users  @ 5.6 users/second
+2017-11-11 00:52:18 Doing batch 106: Starting Cluster
+2017-11-11 02:01:55 Doing batch 106: Cleaning Results
+2017-11-11 02:04:05 Doing batch 107: Getting account details
+2017-11-11 02:04:16 50/50 users  @ 4.8 users/second
+2017-11-11 02:04:16 Doing batch 107: Starting Cluster
+2017-11-11 02:53:20 Doing batch 107: Cleaning Results
+2017-11-11 02:55:31 Doing batch 108: Getting account details
+2017-11-11 02:55:39 Users: Unable to find account EcoTiffinLtd moving to next account
+2017-11-11 02:55:40 49/50 users  @ 5.5 users/second
+2017-11-11 02:55:42 Doing batch 108: Starting Cluster
+2017-11-11 03:40:27 Doing batch 108: Cleaning Results
+2017-11-11 03:42:40 Doing batch 109: Getting account details
+2017-11-11 03:42:44 Users: Unable to find account APPCarbonMonGrp moving to next account
+2017-11-11 03:42:49 49/50 users  @ 5.5 users/second
+2017-11-11 03:42:49 Doing batch 109: Starting Cluster
+2017-11-11 04:48:07 Doing batch 109: Cleaning Results
+2017-11-11 04:50:23 Doing batch 110: Getting account details
+2017-11-11 04:50:32 Users: Unable to find account mytradetv moving to next account
+2017-11-11 04:50:34 49/50 users  @ 4.8 users/second
+2017-11-11 04:50:34 Doing batch 110: Starting Cluster
+2017-11-11 06:20:49 Doing batch 110: Cleaning Results
+2017-11-11 06:23:08 Doing batch 111: Getting account details
+2017-11-11 06:23:18 50/50 users  @ 5 users/second
+2017-11-11 06:23:18 Doing batch 111: Starting Cluster
+2017-11-11 07:35:11 Doing batch 111: Cleaning Results
+2017-11-11 07:37:33 Doing batch 112: Getting account details
+2017-11-11 07:37:42 50/50 users  @ 5.8 users/second
+2017-11-11 07:37:44 Doing batch 112: Starting Cluster
+2017-11-11 09:07:22 Doing batch 112: Cleaning Results
+Error in rbind(deparse.level, ...) : 
+  numbers of columns of arguments do not match
+2017-11-11 09:07:22 Out1 Rbind Fail saving result
+2017-11-11 09:09:49 Doing batch 113: Getting account details
+2017-11-11 09:09:57 50/50 users  @ 5.8 users/second
+2017-11-11 09:09:58 Doing batch 113: Starting Cluster
+2017-11-11 10:09:29 Doing batch 113: Cleaning Results
+2017-11-11 10:11:59 Doing batch 114: Getting account details
+2017-11-11 10:12:08 50/50 users  @ 5.6 users/second
+2017-11-11 10:12:08 Doing batch 114: Starting Cluster
+2017-11-11 11:26:25 Doing batch 114: Cleaning Results
+2017-11-11 11:28:57 Doing batch 115: Getting account details
+2017-11-11 11:29:08 50/50 users  @ 4.6 users/second
+2017-11-11 11:29:08 Doing batch 115: Starting Cluster
+2017-11-11 12:26:04 Doing batch 115: Cleaning Results
+2017-11-11 12:28:39 Doing batch 116: Getting account details
+2017-11-11 12:28:48 50/50 users  @ 5.5 users/second
+2017-11-11 12:28:50 Doing batch 116: Starting Cluster
+2017-11-11 13:26:34 Doing batch 116: Cleaning Results
+2017-11-11 13:29:11 Doing batch 117: Getting account details
+2017-11-11 13:29:14 Users: Unable to find account nhfRuth moving to next account
+2017-11-11 13:29:20 49/50 users  @ 5.5 users/second
+2017-11-11 13:29:23 Doing batch 117: Starting Cluster
+2017-11-11 14:29:20 Doing batch 117: Cleaning Results
+2017-11-11 14:31:59 Doing batch 118: Getting account details
+2017-11-11 14:32:08 Users: Unable to find account UIPI_Office moving to next account
+2017-11-11 14:32:08 49/50 users  @ 5.2 users/second
+2017-11-11 14:32:14 Doing batch 118: Starting Cluster
+2017-11-11 15:24:23 Doing batch 118: Cleaning Results
+2017-11-11 15:27:04 Doing batch 119: Getting account details
+2017-11-11 15:27:14 50/50 users  @ 5.1 users/second
+2017-11-11 15:27:14 Doing batch 119: Starting Cluster
+2017-11-11 16:07:43 Doing batch 119: Cleaning Results
+2017-11-11 16:10:27 Doing batch 120: Getting account details
+2017-11-11 16:10:38 50/50 users  @ 4.6 users/second
+2017-11-11 16:10:38 Doing batch 120: Starting Cluster
+2017-11-11 17:36:39 Doing batch 120: Cleaning Results
+2017-11-11 17:39:26 Doing batch 121: Getting account details
+2017-11-11 17:39:35 50/50 users  @ 5.5 users/second
+2017-11-11 17:39:35 Doing batch 121: Starting Cluster
+2017-11-11 18:28:21 Doing batch 121: Cleaning Results
+2017-11-11 18:31:10 Doing batch 122: Getting account details
+2017-11-11 18:31:21 50/50 users  @ 4.7 users/second
+2017-11-11 18:31:21 Doing batch 122: Starting Cluster
+2017-11-11 19:43:54 Doing batch 122: Cleaning Results
+2017-11-11 19:46:45 Doing batch 123: Getting account details
+2017-11-11 19:46:54 50/50 users  @ 5.5 users/second
+2017-11-11 19:46:54 Doing batch 123: Starting Cluster
+2017-11-11 21:01:50 Doing batch 123: Cleaning Results
+2017-11-11 21:04:43 Doing batch 124: Getting account details
+2017-11-11 21:04:53 50/50 users  @ 5.4 users/second
+2017-11-11 21:04:53 Doing batch 124: Starting Cluster
+2017-11-11 22:18:46 Doing batch 124: Cleaning Results
+2017-11-11 22:21:49 Doing batch 125: Getting account details
+2017-11-11 22:22:01 50/50 users  @ 4.4 users/second
+2017-11-11 22:22:01 Doing batch 125: Starting Cluster
+2017-11-11 23:20:05 Doing batch 125: Cleaning Results
+2017-11-11 23:23:03 Doing batch 126: Getting account details
+2017-11-11 23:23:13 50/50 users  @ 5.1 users/second
+2017-11-11 23:23:15 Doing batch 126: Starting Cluster
+2017-11-12 00:19:14 Doing batch 126: Cleaning Results
+2017-11-12 00:22:14 Doing batch 127: Getting account details
+2017-11-12 00:22:23 50/50 users  @ 5.6 users/second
+2017-11-12 00:22:23 Doing batch 127: Starting Cluster
+2017-11-12 01:19:55 Doing batch 127: Cleaning Results
+2017-11-12 01:22:58 Doing batch 128: Getting account details
+2017-11-12 01:23:07 Users: Unable to find account SCN_newsletter moving to next account
+2017-11-12 01:23:09 Users: Unable to find account cdkn_lac moving to next account
+2017-11-12 01:23:10 48/50 users  @ 4.1 users/second
+2017-11-12 01:23:10 Doing batch 128: Starting Cluster
+2017-11-12 02:18:36 Doing batch 128: Cleaning Results
+2017-11-12 02:21:41 Doing batch 129: Getting account details
+2017-11-12 02:21:52 50/50 users  @ 4.6 users/second
+2017-11-12 02:21:52 Doing batch 129: Starting Cluster
+2017-11-12 03:42:12 Doing batch 129: Cleaning Results
+2017-11-12 03:45:21 Doing batch 130: Getting account details
+2017-11-12 03:45:28 Users: Unable to find account CNSpecialists17 moving to next account
+2017-11-12 03:45:30 49/50 users  @ 5.7 users/second
+2017-11-12 03:45:32 Doing batch 130: Starting Cluster
+2017-11-12 04:34:18 Doing batch 130: Cleaning Results
+2017-11-12 04:37:28 Doing batch 131: Getting account details
+2017-11-12 04:37:29 Users: Unable to find account Ranelagh_intl moving to next account
+2017-11-12 04:37:36 49/50 users  @ 5.6 users/second
+2017-11-12 04:37:37 Doing batch 131: Starting Cluster
+2017-11-12 05:23:39 Doing batch 131: Cleaning Results
+2017-11-12 05:26:51 Doing batch 132: Getting account details
+2017-11-12 05:26:58 Users: Unable to find account AliceatPAS moving to next account
+2017-11-12 05:27:00 49/50 users  @ 5.6 users/second
+2017-11-12 05:27:00 Doing batch 132: Starting Cluster
+2017-11-12 06:18:44 Doing batch 132: Cleaning Results
+2017-11-12 06:21:59 Doing batch 133: Getting account details
+2017-11-12 06:22:10 Users: Unable to find account MarnixAG moving to next account
+2017-11-12 06:22:15 49/50 users  @ 3.1 users/second
+2017-11-12 06:22:15 Doing batch 133: Starting Cluster
+2017-11-12 07:33:12 Doing batch 133: Cleaning Results
+2017-11-12 07:36:30 Doing batch 134: Getting account details
+2017-11-12 07:36:31 Users: Unable to find account CNAwards17 moving to next account
+2017-11-12 07:36:33 Users: Unable to find account jonhighbury moving to next account
+2017-11-12 07:36:38 48/50 users  @ 5.7 users/second
+2017-11-12 07:36:38 Doing batch 134: Starting Cluster
+2017-11-12 08:35:28 Doing batch 134: Cleaning Results
+2017-11-12 08:38:49 Doing batch 135: Getting account details
+2017-11-12 08:38:50 Users: Unable to find account Crescent_BS moving to next account
+2017-11-12 08:38:52 Users: Unable to find account merchantwindows moving to next account
+2017-11-12 08:38:53 Users: Unable to find account SheepDrive2016 moving to next account
+2017-11-12 08:38:56 Users: Unable to find account ajrhayman moving to next account
+2017-11-12 08:38:57 Users: Unable to find account baldwincng moving to next account
+2017-11-12 08:39:00 45/50 users  @ 4.2 users/second
+2017-11-12 08:39:00 Doing batch 135: Starting Cluster
+2017-11-12 10:06:54 Doing batch 135: Cleaning Results
+2017-11-12 10:10:18 Doing batch 136: Getting account details
+2017-11-12 10:10:27 50/50 users  @ 5.7 users/second
+2017-11-12 10:10:27 Doing batch 136: Starting Cluster
+2017-11-12 11:31:33 Doing batch 136: Cleaning Results
+2017-11-12 11:35:02 Doing batch 137: Getting account details
+2017-11-12 11:35:13 50/50 users  @ 4.5 users/second
+2017-11-12 11:35:13 Doing batch 137: Starting Cluster
+2017-11-12 12:47:12 Doing batch 137: Cleaning Results
+2017-11-12 12:50:44 Doing batch 138: Getting account details
+2017-11-12 12:50:50 Users: Unable to find account IanAshmanHCC moving to next account
+2017-11-12 12:50:53 49/50 users  @ 5.5 users/second
+2017-11-12 12:50:53 Doing batch 138: Starting Cluster
+2017-11-12 14:05:46 Doing batch 138: Cleaning Results
+2017-11-12 14:09:22 Doing batch 139: Getting account details
+2017-11-12 14:09:33 50/50 users  @ 4.4 users/second
+2017-11-12 14:09:33 Doing batch 139: Starting Cluster
+2017-11-12 15:07:23 Doing batch 139: Cleaning Results
+2017-11-12 15:11:02 Doing batch 140: Getting account details
+2017-11-12 15:11:08 Users: Unable to find account cyberstreetwise moving to next account
+2017-11-12 15:11:12 Users: Unable to find account apmpmcsig moving to next account
+2017-11-12 15:11:12 48/50 users  @ 5 users/second
+2017-11-12 15:11:12 Doing batch 140: Starting Cluster
+2017-11-12 16:00:34 Doing batch 140: Cleaning Results
+2017-11-12 16:04:15 Doing batch 141: Getting account details
+2017-11-12 16:04:21 Users: Unable to find account CScullCA moving to next account
+2017-11-12 16:04:27 49/50 users  @ 4.3 users/second
+2017-11-12 16:04:27 Doing batch 141: Starting Cluster
+2017-11-12 17:10:07 Doing batch 141: Cleaning Results
+2017-11-12 17:13:51 Doing batch 142: Getting account details
+2017-11-12 17:13:52 Users: Unable to find account JWinLickey moving to next account
+2017-11-12 17:13:58 Users: Unable to find account MyPMOStrategies moving to next account
+2017-11-12 17:14:00 48/50 users  @ 5.4 users/second
+2017-11-12 17:14:02 Doing batch 142: Starting Cluster
+2017-11-12 18:10:58 Doing batch 142: Cleaning Results
+2017-11-12 18:14:44 Doing batch 143: Getting account details
+2017-11-12 18:14:46 Users: Unable to find account projectmag_ moving to next account
+2017-11-12 18:14:53 49/50 users  @ 5.4 users/second
+2017-11-12 18:14:53 Doing batch 143: Starting Cluster
+2017-11-12 19:03:48 Doing batch 143: Cleaning Results
+2017-11-12 19:07:36 Doing batch 144: Getting account details
+2017-11-12 19:07:45 Users: Unable to find account BBBinv moving to next account
+2017-11-12 19:07:47 49/50 users  @ 4.3 users/second
+2017-11-12 19:07:48 Doing batch 144: Starting Cluster
+2017-11-12 20:15:04 Doing batch 144: Cleaning Results
+2017-11-12 20:18:55 Doing batch 145: Getting account details
+2017-11-12 20:19:05 50/50 users  @ 5 users/second
+2017-11-12 20:19:05 Doing batch 145: Starting Cluster
+2017-11-12 21:31:30 Doing batch 145: Cleaning Results
+2017-11-12 21:35:27 Doing batch 146: Getting account details
+2017-11-12 21:35:37 50/50 users  @ 4.9 users/second
+2017-11-12 21:35:37 Doing batch 146: Starting Cluster
+2017-11-12 22:47:16 Doing batch 146: Cleaning Results
+2017-11-12 22:51:16 Doing batch 147: Getting account details
+2017-11-12 22:51:25 50/50 users  @ 5.1 users/second
+2017-11-12 22:51:26 Doing batch 147: Starting Cluster
+2017-11-13 00:05:14 Doing batch 147: Cleaning Results
+2017-11-13 00:09:13 Doing batch 148: Getting account details
+2017-11-13 00:09:28 50/50 users  @ 3.4 users/second
+2017-11-13 00:09:28 Doing batch 148: Starting Cluster
+2017-11-13 01:50:53 Doing batch 148: Cleaning Results
+2017-11-13 01:54:56 Doing batch 149: Getting account details
+2017-11-13 01:55:15 50/50 users  @ 2.8 users/second
+2017-11-13 01:55:15 Doing batch 149: Starting Cluster
+2017-11-13 02:43:28 Doing batch 149: Cleaning Results
+2017-11-13 02:47:33 Doing batch 150: Getting account details
+2017-11-13 02:47:38 Users: Unable to find account C4Resilience_ moving to next account
+2017-11-13 02:47:42 49/50 users  @ 5.5 users/second
+2017-11-13 02:47:42 Doing batch 150: Starting Cluster
+2017-11-13 03:30:47 Doing batch 150: Cleaning Results
+2017-11-13 03:34:54 Doing batch 151: Getting account details
+2017-11-13 03:34:57 Users: Unable to find account HMeese_IMechE moving to next account
+2017-11-13 03:35:00 Users: Unable to find account LboroCBE moving to next account
+2017-11-13 03:35:03 48/50 users  @ 5.1 users/second
+2017-11-13 03:35:03 Doing batch 151: Starting Cluster
+2017-11-13 04:41:45 Doing batch 151: Cleaning Results
+2017-11-13 04:45:54 Doing batch 152: Getting account details
+2017-11-13 04:46:06 50/50 users  @ 4.1 users/second
+2017-11-13 04:46:07 Doing batch 152: Starting Cluster
+2017-11-13 05:41:56 Doing batch 152: Cleaning Results
+2017-11-13 05:46:07 Doing batch 153: Getting account details
+2017-11-13 05:46:08 Users: Unable to find account BESA_CEO moving to next account
+2017-11-13 05:46:16 49/50 users  @ 5.6 users/second
+2017-11-13 05:46:16 Doing batch 153: Starting Cluster
+2017-11-13 07:09:22 Doing batch 153: Cleaning Results
+2017-11-13 07:13:37 Doing batch 154: Getting account details
+2017-11-13 07:13:46 50/50 users  @ 5.9 users/second
+2017-11-13 07:13:49 Doing batch 154: Starting Cluster
+2017-11-13 08:07:16 Doing batch 154: Cleaning Results
+2017-11-13 08:11:33 Doing batch 155: Getting account details
+2017-11-13 08:11:34 Users: Unable to find account MikeHardman_ moving to next account
+2017-11-13 08:11:40 Users: Unable to find account SP_BRI moving to next account
+2017-11-13 08:11:42 48/50 users  @ 5.3 users/second
+2017-11-13 08:11:42 Doing batch 155: Starting Cluster
+2017-11-13 08:44:44 Doing batch 155: Cleaning Results
+2017-11-13 08:49:02 Doing batch 156: Getting account details
+2017-11-13 08:49:11 Users: Unable to find account BIM2050 moving to next account
+2017-11-13 08:49:11 49/50 users  @ 5.6 users/second
+2017-11-13 08:49:11 Doing batch 156: Starting Cluster
+2017-11-13 09:40:14 Doing batch 156: Cleaning Results
+2017-11-13 09:44:35 Doing batch 157: Getting account details
+2017-11-13 09:44:44 Users: Unable to find account PatRussellAPM moving to next account
+2017-11-13 09:44:47 49/50 users  @ 4.1 users/second
+2017-11-13 09:44:47 Doing batch 157: Starting Cluster
+2017-11-13 10:50:42 Doing batch 157: Cleaning Results
+2017-11-13 10:55:07 Doing batch 158: Getting account details
+2017-11-13 10:55:13 Users: Unable to find account BorisOrbitGroup moving to next account
+2017-11-13 10:55:16 49/50 users  @ 5.6 users/second
+2017-11-13 10:55:16 Doing batch 158: Starting Cluster
+2017-11-13 11:52:18 Doing batch 158: Cleaning Results
+2017-11-13 11:56:47 Doing batch 159: Getting account details
+2017-11-13 11:56:58 Users: Unable to find account Eves_007 moving to next account
+2017-11-13 11:57:00 49/50 users  @ 3.8 users/second
+2017-11-13 11:57:00 Doing batch 159: Starting Cluster
+2017-11-13 13:04:07 Doing batch 159: Cleaning Results
+2017-11-13 13:08:39 Doing batch 160: Getting account details
+2017-11-13 13:08:49 50/50 users  @ 4.8 users/second
+2017-11-13 13:08:49 Doing batch 160: Starting Cluster
+2017-11-13 14:33:07 Doing batch 160: Cleaning Results
+2017-11-13 14:37:57 Doing batch 161: Getting account details
+2017-11-13 14:38:11 50/50 users  @ 3.5 users/second
+2017-11-13 14:38:11 Doing batch 161: Starting Cluster
+2017-11-13 15:34:14 Doing batch 161: Cleaning Results
+2017-11-13 15:38:59 Doing batch 162: Getting account details
+2017-11-13 15:39:12 50/50 users  @ 3.9 users/second
+2017-11-13 15:39:12 Doing batch 162: Starting Cluster
+2017-11-13 16:50:01 Doing batch 162: Cleaning Results
+2017-11-13 16:55:33 Doing batch 163: Getting account details
+2017-11-13 16:55:48 50/50 users  @ 3.3 users/second
+2017-11-13 16:55:49 Doing batch 163: Starting Cluster
+2017-11-13 18:33:57 Doing batch 163: Cleaning Results
+2017-11-13 18:39:32 Doing batch 164: Getting account details
+2017-11-13 18:39:42 50/50 users  @ 4.8 users/second
+2017-11-13 18:39:42 Doing batch 164: Starting Cluster
+2017-11-13 21:32:52 Doing batch 164: Cleaning Results
+2017-11-13 21:37:48 Doing batch 165: Getting account details
+2017-11-13 21:37:54 Users: Unable to find account M4ryLamont moving to next account
+2017-11-13 21:37:54 Users: Unable to find account SussexCoastPlum moving to next account
+2017-11-13 21:37:59 48/50 users  @ 4.5 users/second
+2017-11-13 21:37:59 Doing batch 165: Starting Cluster
+2017-11-13 22:49:52 Doing batch 165: Cleaning Results
+2017-11-13 22:54:55 Doing batch 166: Getting account details
+2017-11-13 22:55:06 50/50 users  @ 4.6 users/second
+2017-11-13 22:55:09 Doing batch 166: Starting Cluster
+2017-11-13 23:44:00 Doing batch 166: Cleaning Results
+2017-11-13 23:48:49 Doing batch 167: Getting account details
+2017-11-13 23:48:51 Users: Unable to find account covelllimited moving to next account
+2017-11-13 23:48:59 49/50 users  @ 4.9 users/second
+2017-11-13 23:48:59 Doing batch 167: Starting Cluster
+2017-11-14 00:40:44 Doing batch 167: Cleaning Results
+2017-11-14 00:45:36 Doing batch 168: Getting account details
+2017-11-14 00:45:49 50/50 users  @ 3.8 users/second
+2017-11-14 00:45:50 Doing batch 168: Starting Cluster
+2017-11-14 01:36:50 Doing batch 168: Cleaning Results
+2017-11-14 01:41:44 Doing batch 169: Getting account details
+2017-11-14 01:41:47 Users: Unable to find account MegMunnMP moving to next account
+2017-11-14 01:41:53 49/50 users  @ 5.4 users/second
+2017-11-14 01:41:53 Doing batch 169: Starting Cluster
+2017-11-14 02:33:24 Doing batch 169: Cleaning Results
+2017-11-14 02:38:20 Doing batch 170: Getting account details
+2017-11-14 02:38:39 50/50 users  @ 2.6 users/second
+2017-11-14 02:38:40 Doing batch 170: Starting Cluster
+2017-11-14 03:27:45 Doing batch 170: Cleaning Results
+2017-11-14 03:32:44 Doing batch 171: Getting account details
+2017-11-14 03:32:46 Users: Unable to find account wgcs_finlgov moving to next account
+2017-11-14 03:32:53 49/50 users  @ 5.4 users/second
+2017-11-14 03:32:53 Doing batch 171: Starting Cluster
+2017-11-14 04:38:09 Doing batch 171: Cleaning Results
+2017-11-14 04:43:11 Doing batch 172: Getting account details
+2017-11-14 04:43:19 50/50 users  @ 5.7 users/second
+2017-11-14 04:43:19 Doing batch 172: Starting Cluster
+2017-11-14 06:30:22 Doing batch 172: Cleaning Results
+2017-11-14 06:35:30 Doing batch 173: Getting account details
+2017-11-14 06:35:42 50/50 users  @ 4.1 users/second
+2017-11-14 06:35:42 Doing batch 173: Starting Cluster
+2017-11-14 08:12:18 Doing batch 173: Cleaning Results
+2017-11-14 08:17:31 Doing batch 174: Getting account details
+2017-11-14 08:17:38 Users: Unable to find account HostedbyVolvoCE moving to next account
+2017-11-14 08:17:40 49/50 users  @ 5.3 users/second
+2017-11-14 08:17:40 Doing batch 174: Starting Cluster
+2017-11-14 09:27:58 Doing batch 174: Cleaning Results
+2017-11-14 09:33:14 Doing batch 175: Getting account details
+2017-11-14 09:33:23 50/50 users  @ 5.6 users/second
+2017-11-14 09:33:23 Doing batch 175: Starting Cluster
+2017-11-14 10:42:21 Doing batch 175: Cleaning Results
+2017-11-14 10:47:39 Doing batch 176: Getting account details
+2017-11-14 10:47:47 Users: Unable to find account DesignMfgGrp moving to next account
+2017-11-14 10:47:52 49/50 users  @ 3.9 users/second
+2017-11-14 10:47:52 Doing batch 176: Starting Cluster

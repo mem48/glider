@@ -1,0 +1,167 @@
+starting worker pid=992 on localhost:11045 at 08:49:11.864
+starting worker pid=9784 on localhost:11045 at 08:49:12.036
+starting worker pid=14580 on localhost:11045 at 08:49:12.196
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+Error in twInterfaceObj$doAPICall(paste("users", "show", sep = "/"), params = params,  : 
+  Not Found (HTTP 404).
+In addition: Warning message:
+package 'twitteR' was built under R version 3.4.1 
+2017-11-13 08:51:30 Friends: Unable to find account UnivoltUK moving to next
+2017-11-13 08:51:30 Friends  : % at /sec for UnivoltUK
+2017-11-13 08:52:35 Friends  : 99.1% at 34/sec for UWEArchBuiltEnv
+2017-11-13 08:52:37 Friends  : 100% at 50/sec for Vida_Shield
+2017-11-13 08:52:42 Friends  : 97.3% at 26/sec for visialex
+2017-11-13 08:53:07 Friends  : 98% at 34/sec for VMarincioni
+2017-11-13 08:53:49 Friends  : 99.8% at 36/sec for waldeckconsult
+2017-11-13 08:54:03 Favorites: 50.6% at 40/sec for UnivoltUK
+2017-11-13 08:54:28 Friends  : 98% at 35/sec for walesepa
+2017-11-13 08:54:28 Favorites: 58.1% at 24/sec for UWEArchBuiltEnv
+2017-11-13 08:54:29 Favorites: 100% at 54/sec for Vida_Shield
+2017-11-13 08:54:35 Favorites: 49.2% at 35/sec for visialex
+2017-11-13 08:54:43 Favorites: 55.3% at 38/sec for VMarincioni
+2017-11-13 08:54:53 Favorites: 68.3% at 27/sec for waldeckconsult
+2017-11-13 08:54:57 Favorites: 76.5% at 58/sec for walesepa
+2017-11-13 08:55:00 Friends  : 99.3% at 32/sec for wasteheatuser
+2017-11-13 08:55:14 Favorites: 51.7% at 29/sec for wasteheatuser
+2017-11-13 08:55:14 Favorites: 100% at 11/sec for WESpresident
+2017-11-13 08:55:22 Friends  : 97.7% at 29/sec for WESpresident
+2017-11-13 08:55:22 Favorites: 55.6% at 39/sec for YMB1919
+2017-11-13 08:55:35 Favorites: 50.4% at 35/sec for AndrewDKinsey
+2017-11-13 08:55:36 Favorites: 100% at 15/sec for CarbonBuzzOrg
+2017-11-13 08:55:55 Favorites: 53.3% at 31/sec for chriswhite74
+2017-11-13 08:55:56 Favorites: 71.2% at 60/sec for derekmarkham
+2017-11-13 08:55:57 Favorites: 100% at 41/sec for DougKingConsult
+2017-11-13 08:55:59 Friends  : 95.3% at 28/sec for YMB1919
+2017-11-13 08:56:02 Favorites: 97.1% at 35/sec for EEperformance
+2017-11-13 08:56:04 Favorites: 70.9% at 62/sec for emtecnicaLLP
+2017-11-13 08:56:04 Favorites: 100% at 14/sec for ewenrose
+2017-11-13 08:56:08 Favorites: 100% at 10/sec for Gemco_ECS_Ltd
+2017-11-13 08:56:15 Favorites: 58.8% at 33/sec for hs275_henrik
+2017-11-13 08:56:15 Favorites: 96.2% at 36/sec for huntwriter
+2017-11-13 08:56:15 Friends  : 98.9% at 35/sec for AndrewDKinsey
+2017-11-13 08:56:20 Friends  : 100% at 11/sec for CarbonBuzzOrg
+2017-11-13 08:56:21 Favorites: 88.1% at 34/sec for HVACR_Online
+2017-11-13 08:56:23 Friends  : 100% at 46/sec for chriswhite74
+2017-11-13 08:56:54 Favorites: 53.1% at 36/sec for iGuzziniUK
+2017-11-13 08:57:21 Favorites: Waiting for 11.6 minutes due to : Used up allowance in a loop
+2017-11-13 08:57:50 Tweets   : 99.9% at 36/sec for UnivoltUK
+2017-11-13 08:57:55 Friends  : 99.8% at 34/sec for derekmarkham
+2017-11-13 08:58:01 Friends  : 100% at 36/sec for DougKingConsult
+2017-11-13 08:58:38 Friends  : 99.7% at 34/sec for EEperformance
+2017-11-13 08:58:38 Friends  : Waiting for 7.9 minutes
+2017-11-13 08:59:16 Tweets   : 52.4% at 37/sec for UWEArchBuiltEnv
+2017-11-13 08:59:26 Tweets   : 100% at 20/sec for Vida_Shield
+2017-11-13 08:59:45 Tweets   : 100% at 26/sec for visialex
+2017-11-13 09:00:01 Tweets   : 100% at 28/sec for VMarincioni
+2017-11-13 09:00:27 Tweets   : 100% at 34/sec for waldeckconsult
+2017-11-13 09:01:51 Tweets   : 58.5% at 38/sec for walesepa
+2017-11-13 09:02:49 Tweets   : 100% at 41/sec for wasteheatuser
+2017-11-13 09:03:52 Tweets   : 99.8% at 37/sec for WESpresident
+2017-11-13 09:04:17 Tweets   : 99.9% at 31/sec for YMB1919
+2017-11-13 09:05:15 Tweets   : 99.4% at 39/sec for AndrewDKinsey
+2017-11-13 09:05:29 Tweets   : 100% at 19/sec for CarbonBuzzOrg
+2017-11-13 09:05:54 Tweets   : 98.9% at 33/sec for chriswhite74
+2017-11-13 09:07:00 Friends  : 99.5% at 1/sec for emtecnicaLLP
+2017-11-13 09:07:08 Friends  : 100% at 29/sec for ewenrose
+2017-11-13 09:07:09 Friends  : 94.3% at 24/sec for Gemco_ECS_Ltd
+2017-11-13 09:07:21 Tweets   : 6.5% at 37/sec for derekmarkham
+2017-11-13 09:07:22 Friends  : 98.8% at 37/sec for hs275_henrik
+2017-11-13 09:07:50 Tweets   : 100% at 32/sec for DougKingConsult
+2017-11-13 09:08:30 Friends  : 99.9% at 34/sec for huntwriter
+2017-11-13 09:08:48 Friends  : 96.4% at 34/sec for HVACR_Online
+2017-11-13 09:09:03 Friends  : 99.3% at 39/sec for iGuzziniUK
+2017-11-13 09:09:22 Tweets   : 52.8% at 35/sec for EEperformance
+2017-11-13 09:09:33 Friends  : 99% at 30/sec for JazRabadia
+2017-11-13 09:09:37 Tweets   : 100% at 19/sec for emtecnicaLLP
+2017-11-13 09:09:40 Friends  : 100% at 34/sec for kaizenge
+2017-11-13 09:09:47 Tweets   : 100% at 14/sec for ewenrose
+2017-11-13 09:09:52 Friends  : 98.8% at 28/sec for makeken
+2017-11-13 09:09:58 Tweets   : 100% at 21/sec for Gemco_ECS_Ltd
+2017-11-13 09:10:03 Favorites: 49.8% at 3/sec for JazRabadia
+2017-11-13 09:10:04 Favorites: 100% at 30/sec for kaizenge
+2017-11-13 09:10:08 Favorites: 100% at 10/sec for makeken
+2017-11-13 09:10:11 Favorites: 87.2% at 60/sec for Manufacture2030
+2017-11-13 09:10:11 Favorites: 100% at 3/sec for mikeivanovich
+2017-11-13 09:10:18 Tweets   : 100% at 21/sec for hs275_henrik
+2017-11-13 09:10:22 Friends  : 99.5% at 32/sec for Manufacture2030
+2017-11-13 09:10:26 Friends  : 100% at 50/sec for mikeivanovich
+2017-11-13 09:10:37 Friends  : 97.4% at 24/sec for MShipworth
+2017-11-13 09:10:38 Friends  : 100% at 1/sec for msmariasp
+2017-11-13 09:10:39 Friends  : 100% at 47/sec for NuaireGroup
+2017-11-13 09:10:40 Friends  : Waiting for 11.2 minutes
+2017-11-13 09:10:40 Favorites: 54% at 27/sec for MShipworth
+2017-11-13 09:10:40 Favorites: User msmariasp has a protected account or no Favoritess to collect so skipping
+2017-11-13 09:10:42 Favorites: 57.1% at 63/sec for NuaireGroup
+2017-11-13 09:10:53 Favorites: 55.3% at 35/sec for PeterJLuff
+2017-11-13 09:10:59 Favorites: 87.2% at 33/sec for RodSweet1
+2017-11-13 09:11:53 Favorites: 49.4% at 36/sec for TEDTalks
+2017-11-13 09:11:54 Tweets   : 48% at 33/sec for huntwriter
+2017-11-13 09:12:07 Favorites: 17.6% at 37/sec for thecrowd
+2017-11-13 09:12:07 Favorites: 100% at 3/sec for tlanebuilding
+2017-11-13 09:12:34 Favorites: Waiting for 11.7 minutes due to : Used up allowance in a loop
+2017-11-13 09:13:20 Tweets   : 66.6% at 37/sec for HVACR_Online
+2017-11-13 09:14:38 Tweets   : 35.1% at 41/sec for iGuzziniUK
+2017-11-13 09:16:02 Tweets   : 47.4% at 38/sec for JazRabadia
+2017-11-13 09:16:13 Tweets   : 100% at 24/sec for kaizenge
+2017-11-13 09:17:37 Tweets   : 48.3% at 38/sec for makeken
+2017-11-13 09:18:56 Tweets   : 89.6% at 40/sec for Manufacture2030
+2017-11-13 09:19:19 Tweets   : 100% at 34/sec for mikeivanovich
+2017-11-13 09:20:18 Tweets   : 99.9% at 34/sec for MShipworth
+2017-11-13 09:20:18 Tweets   : User msmariasp has a protected account or no Tweetss to collect so skipping
+2017-11-13 09:20:33 Tweets   : 100% at 27/sec for NuaireGroup
+2017-11-13 09:22:02 Tweets   : 56.3% at 36/sec for PeterJLuff
+2017-11-13 09:22:31 Friends  : 99.1% at 1/sec for PeterJLuff
+2017-11-13 09:23:14 Tweets   : 99.9% at 35/sec for RodSweet1
+2017-11-13 09:24:32 Tweets   : 12.9% at 41/sec for TEDTalks
+2017-11-13 09:25:01 Favorites: 51.1% at 2/sec for 4architects
+2017-11-13 09:25:08 Favorites: 52.5% at 31/sec for accessadvice
+2017-11-13 09:25:08 Favorites: 100% at 33/sec for AmpEditUK
+2017-11-13 09:25:31 Favorites: 51.4% at 35/sec for ArcadisGlobal
+2017-11-13 09:25:56 Favorites: 52% at 32/sec for Ardvisory
+2017-11-13 09:25:58 Tweets   : 25.6% at 37/sec for thecrowd
+2017-11-13 09:26:09 Favorites: 54.4% at 36/sec for AtlasCloud
+2017-11-13 09:26:10 Tweets   : 100% at 20/sec for tlanebuilding
+2017-11-13 09:26:14 Favorites: 57.5% at 22/sec for BCIA_news
+2017-11-13 09:26:15 Favorites: 100% at 56/sec for behroutcomes
+2017-11-13 09:26:28 Favorites: 57.6% at 37/sec for BESSprogramme
+2017-11-13 09:26:35 Favorites: 73.3% at 32/sec for BigPurplePro
+2017-11-13 09:26:36 Favorites: 56.2% at 70/sec for BITCGender
+2017-11-13 09:26:43 Favorites: 69.1% at 30/sec for bud_maz
+2017-11-13 09:26:54 Favorites: 68.4% at 27/sec for BuildingCentre
+2017-11-13 09:27:40 Tweets   : 54.6% at 36/sec for 4architects
+2017-11-13 09:28:11 Tweets   : 99.5% at 29/sec for accessadvice
+2017-11-13 09:28:23 Tweets   : 100% at 24/sec for AmpEditUK
+2017-11-13 09:29:58 Tweets   : 95.4% at 33/sec for ArcadisGlobal
+2017-11-13 09:30:07 Friends  : 100% at 32/sec for RodSweet1
+2017-11-13 09:30:20 Friends  : 99.8% at 41/sec for TEDTalks
+2017-11-13 09:30:44 Friends  : 99.2% at 41/sec for thecrowd
+2017-11-13 09:30:49 Friends  : 100% at 16/sec for tlanebuilding
+2017-11-13 09:31:33 Tweets   : 97.2% at 33/sec for Ardvisory
+2017-11-13 09:32:03 Friends  : 99.8% at 37/sec for 4architects
+2017-11-13 09:32:35 Friends  : 98.2% at 37/sec for accessadvice
+2017-11-13 09:32:37 Friends  : 100% at 29/sec for AmpEditUK
+2017-11-13 09:32:52 Friends  : 99.5% at 38/sec for ArcadisGlobal
+2017-11-13 09:33:06 Tweets   : 40.1% at 34/sec for AtlasCloud
+2017-11-13 09:33:25 Tweets   : 100% at 27/sec for BCIA_news
+2017-11-13 09:34:57 Friends  : 98.1% at 36/sec for Ardvisory
+2017-11-13 09:35:07 Tweets   : 72.2% at 31/sec for behroutcomes
+2017-11-13 09:35:30 Friends  : 94.9% at 37/sec for AtlasCloud
+2017-11-13 09:35:47 Friends  : 94.8% at 29/sec for BCIA_news
+2017-11-13 09:35:55 Friends  : 98.9% at 33/sec for behroutcomes
+2017-11-13 09:35:55 Friends  : Waiting for 1.4 minutes
+2017-11-13 09:36:31 Tweets   : 98.2% at 38/sec for BESSprogramme
+2017-11-13 09:37:04 Tweets   : 99.8% at 35/sec for BigPurplePro
+2017-11-13 09:37:51 Friends  : 97.9% at 9/sec for BESSprogramme
+2017-11-13 09:38:19 Friends  : 99.3% at 35/sec for BigPurplePro
+2017-11-13 09:38:20 Tweets   : 34.7% at 42/sec for BITCGender
+2017-11-13 09:38:32 Friends  : 99.8% at 37/sec for BITCGender
+2017-11-13 09:38:39 Friends  : 99.2% at 32/sec for bud_maz
+2017-11-13 09:38:52 Friends  : 99.7% at 29/sec for BuildingCentre
+2017-11-13 09:39:10 Tweets   : 99.9% at 36/sec for bud_maz
+2017-11-13 09:40:14 Tweets   : 99.8% at 41/sec for BuildingCentre
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+Warning message:
+package 'twitteR' was built under R version 3.4.1 

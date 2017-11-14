@@ -1,0 +1,169 @@
+starting worker pid=4304 on localhost:11045 at 20:15:56.445
+starting worker pid=2320 on localhost:11045 at 20:15:56.668
+starting worker pid=6512 on localhost:11045 at 20:15:56.887
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-05 20:16:07 Friends  : 98.2% at 26/sec for simondixon1965
+2017-11-05 20:16:12 Favorites: 58.1% at 36/sec for simondixon1965
+2017-11-05 20:16:14 Favorites: 98.3% at 38/sec for APHCOnTap
+2017-11-05 20:16:14 Friends  : 95.7% at 40/sec for APHCOnTap
+2017-11-05 20:16:18 Friends  : 98.7% at 36/sec for TimberComposite
+2017-11-05 20:16:28 Favorites: Waiting for 11.8 minutes due to : Used up allowance in a loop
+2017-11-05 20:16:32 Friends  : 4541.7% at 40/sec for greenginger_UK
+2017-11-05 20:16:34 Friends  : 97.8% at 27/sec for APMEvents
+2017-11-05 20:16:43 Tweets   : 99.6% at 38/sec for simondixon1965
+2017-11-05 20:16:58 Tweets   : 99.8% at 28/sec for APHCOnTap
+2017-11-05 20:17:07 Friends  : 99.6% at 44/sec for Apprenticeships
+2017-11-05 20:17:46 Tweets   : 100% at 49/sec for TimberComposite
+2017-11-05 20:17:56 Friends  : 98% at 41/sec for petebond7
+2017-11-05 20:18:29 Friends  : 99.7% at 41/sec for KeepmoatHomes
+2017-11-05 20:18:29 Tweets   : 100% at 47/sec for greenginger_UK
+2017-11-05 20:18:32 Friends  : 98.8% at 28/sec for scottradbuild
+2017-11-05 20:19:02 Tweets   : 100% at 45/sec for APMEvents
+2017-11-05 20:20:13 Tweets   : 17.2% at 45/sec for Apprenticeships
+2017-11-05 20:21:04 Friends  : 95.8% at 45/sec for WiloUK
+2017-11-05 20:21:09 Friends  : 100% at 38/sec for bre_buzz
+2017-11-05 20:21:26 Tweets   : 21.7% at 44/sec for petebond7
+2017-11-05 20:22:24 Friends  : 96.2% at 45/sec for GoConstructUK
+2017-11-05 20:22:35 Tweets   : 40% at 46/sec for KeepmoatHomes
+2017-11-05 20:22:39 Friends  : 98.8% at 45/sec for GFTomlinson
+2017-11-05 20:23:35 Tweets   : 99.8% at 44/sec for scottradbuild
+2017-11-05 20:24:16 Friends  : 98.7% at 44/sec for RoofingToday
+2017-11-05 20:24:16 Friends  : Waiting for 6.8 minutes
+2017-11-05 20:24:39 Tweets   : 53.9% at 50/sec for WiloUK
+2017-11-05 20:25:05 Tweets   : 99.9% at 41/sec for bre_buzz
+2017-11-05 20:25:36 Tweets   : 99.9% at 39/sec for GoConstructUK
+2017-11-05 20:26:36 Tweets   : 99.6% at 48/sec for GFTomlinson
+2017-11-05 20:27:39 Tweets   : 51.6% at 50/sec for RoofingToday
+2017-11-05 20:28:39 Tweets   : 18.5% at 53/sec for cityandguilds
+2017-11-05 20:28:41 Favorites: 54.9% at 1/sec for TimberComposite
+2017-11-05 20:28:48 Favorites: 67% at 42/sec for greenginger_UK
+2017-11-05 20:28:50 Favorites: 74.6% at 49/sec for APMEvents
+2017-11-05 20:28:52 Tweets   : 100% at 28/sec for garywalpole
+2017-11-05 20:29:13 Favorites: 49.4% at 43/sec for Apprenticeships
+2017-11-05 20:29:31 Tweets   : 99.9% at 42/sec for JamesMcL
+2017-11-05 20:30:28 Favorites: 23.2% at 42/sec for petebond7
+2017-11-05 20:30:30 Tweets   : 39.8% at 54/sec for Swiftclean
+2017-11-05 20:30:42 Favorites: 51.3% at 43/sec for KeepmoatHomes
+2017-11-05 20:30:45 Tweets   : 99.8% at 31/sec for skayllm
+2017-11-05 20:30:48 Favorites: 59.6% at 46/sec for scottradbuild
+2017-11-05 20:31:01 Favorites: 48.7% at 45/sec for WiloUK
+2017-11-05 20:31:04 Favorites: 54.1% at 39/sec for bre_buzz
+2017-11-05 20:31:16 Favorites: 60.1% at 41/sec for GoConstructUK
+2017-11-05 20:31:25 Favorites: 50.6% at 41/sec for GFTomlinson
+2017-11-05 20:31:28 Favorites: Waiting for 12.1 minutes due to : Used up allowance in a loop
+2017-11-05 20:31:47 Tweets   : 19.7% at 52/sec for ONS
+2017-11-05 20:32:06 Friends  : 99.1% at 5/sec for cityandguilds
+2017-11-05 20:32:12 Friends  : 97.9% at 38/sec for garywalpole
+2017-11-05 20:32:28 Friends  : 99.1% at 47/sec for JamesMcL
+2017-11-05 20:32:48 Tweets   : 32% at 52/sec for BPEC1
+2017-11-05 20:33:07 Friends  : 99.5% at 46/sec for Swiftclean
+2017-11-05 20:33:22 Friends  : 99.8% at 42/sec for skayllm
+2017-11-05 20:33:49 Friends  : 99.7% at 50/sec for ONS
+2017-11-05 20:33:53 Tweets   : 32.7% at 49/sec for JSG2050
+2017-11-05 20:34:00 Friends  : 99.6% at 48/sec for BPEC1
+2017-11-05 20:34:21 Friends  : 99.8% at 44/sec for JSG2050
+2017-11-05 20:34:24 Tweets   : 99.8% at 40/sec for LRWAssociation
+2017-11-05 20:34:44 Friends  : 96.4% at 43/sec for LRWAssociation
+2017-11-05 20:35:01 Friends  : 100% at 42/sec for EY_UK_Energy
+2017-11-05 20:35:17 Friends  : 99.4% at 39/sec for Douglas_Haig
+2017-11-05 20:35:25 Tweets   : 45.6% at 52/sec for EY_UK_Energy
+2017-11-05 20:35:47 Friends  : 99.7% at 47/sec for WolseleyUK
+2017-11-05 20:36:24 Tweets   : 99.9% at 50/sec for Douglas_Haig
+2017-11-05 20:36:51 Tweets   : 99.8% at 41/sec for WolseleyUK
+2017-11-05 20:36:58 Friends  : 99.1% at 45/sec for ConstructionYT
+2017-11-05 20:37:09 Friends  : 98.5% at 39/sec for FayeGreavesCIH
+2017-11-05 20:37:31 Friends  : 99.3% at 48/sec for MyGreatPlace
+2017-11-05 20:37:31 Friends  : Waiting for 8.8 minutes
+2017-11-05 20:37:57 Tweets   : 39.1% at 48/sec for ConstructionYT
+2017-11-05 20:39:01 Tweets   : 69.9% at 50/sec for FayeGreavesCIH
+2017-11-05 20:40:02 Tweets   : 100% at 50/sec for MyGreatPlace
+2017-11-05 20:41:07 Tweets   : 99.6% at 49/sec for CIOBWales
+2017-11-05 20:41:24 Tweets   : 99.8% at 37/sec for eu_special
+2017-11-05 20:42:27 Tweets   : 59.7% at 51/sec for VRounding
+2017-11-05 20:43:33 Tweets   : 34.2% at 48/sec for lordnickbourne
+2017-11-05 20:43:51 Favorites: 60.3% at 1/sec for RoofingToday
+2017-11-05 20:43:52 Tweets   : 100% at 32/sec for SarahMcMonagle
+2017-11-05 20:44:07 Favorites: 52.7% at 43/sec for cityandguilds
+2017-11-05 20:44:10 Favorites: 100% at 37/sec for garywalpole
+2017-11-05 20:44:15 Favorites: 51.6% at 38/sec for JamesMcL
+2017-11-05 20:44:17 Favorites: 86.2% at 39/sec for Swiftclean
+2017-11-05 20:44:19 Favorites: 100% at 32/sec for skayllm
+2017-11-05 20:44:43 Tweets   : 100% at 44/sec for Vanessa_LABC
+2017-11-05 20:44:56 Favorites: 52.8% at 40/sec for ONS
+2017-11-05 20:45:03 Favorites: 50.5% at 41/sec for BPEC1
+2017-11-05 20:45:21 Favorites: 49.6% at 44/sec for JSG2050
+2017-11-05 20:45:24 Favorites: 50% at 37/sec for LRWAssociation
+2017-11-05 20:45:26 Favorites: 98.5% at 38/sec for EY_UK_Energy
+2017-11-05 20:45:32 Favorites: 67.6% at 44/sec for Douglas_Haig
+2017-11-05 20:45:37 Favorites: 52.6% at 41/sec for WolseleyUK
+2017-11-05 20:45:49 Tweets   : 61.4% at 49/sec for Houseplanhelp
+2017-11-05 20:45:58 Favorites: 51.5% at 42/sec for ConstructionYT
+2017-11-05 20:46:31 Favorites: 51.3% at 43/sec for FayeGreavesCIH
+2017-11-05 20:46:33 Favorites: 52.9% at 42/sec for MyGreatPlace
+2017-11-05 20:46:38 Favorites: Waiting for 12.1 minutes due to : Used up allowance in a loop
+2017-11-05 20:46:42 Friends  : 96% at 2/sec for CIOBWales
+2017-11-05 20:46:51 Friends  : 100% at 39/sec for eu_special
+2017-11-05 20:47:00 Tweets   : 92.6% at 45/sec for RICS_Europe
+2017-11-05 20:47:09 Friends  : 98.8% at 44/sec for VRounding
+2017-11-05 20:48:02 Friends  : 99.7% at 42/sec for lordnickbourne
+2017-11-05 20:48:09 Tweets   : 81.4% at 47/sec for ricsamericas
+2017-11-05 20:48:13 Friends  : 99.4% at 41/sec for SarahMcMonagle
+2017-11-05 20:48:36 Friends  : 98.2% at 49/sec for Vanessa_LABC
+2017-11-05 20:48:38 Friends  : 100% at 28/sec for Houseplanhelp
+2017-11-05 20:48:43 Tweets   : 99.9% at 42/sec for CISummit
+2017-11-05 20:49:04 Friends  : 99% at 48/sec for RICS_Europe
+2017-11-05 20:49:22 Friends  : 99.3% at 43/sec for ricsamericas
+2017-11-05 20:49:35 Friends  : 100% at 39/sec for CISummit
+2017-11-05 20:49:51 Tweets   : 32.8% at 47/sec for CIH_events
+2017-11-05 20:49:56 Friends  : 99.1% at 44/sec for CIH_events
+2017-11-05 20:50:15 Friends  : 98.9% at 40/sec for PCC_Build_Con
+2017-11-05 20:50:26 Tweets   : 99.6% at 44/sec for PCC_Build_Con
+2017-11-05 20:51:19 Friends  : 99.3% at 45/sec for SIGRoofing
+2017-11-05 20:51:36 Tweets   : 67.2% at 46/sec for SIGRoofing
+2017-11-05 20:52:18 Friends  : 99.6% at 45/sec for Ecobuild_Now
+2017-11-05 20:52:43 Tweets   : 25.1% at 47/sec for Ecobuild_Now
+2017-11-05 20:53:25 Friends  : 98.6% at 41/sec for BREAcademy
+2017-11-05 20:53:25 Friends  : Waiting for 8.1 minutes
+2017-11-05 20:53:50 Tweets   : 77.1% at 48/sec for BREAcademy
+2017-11-05 20:54:52 Tweets   : 12.2% at 52/sec for CalibreSimon
+2017-11-05 20:55:01 Tweets   : 98.8% at 18/sec for PresidentLDSA
+2017-11-05 20:55:59 Tweets   : 50.6% at 56/sec for dwppressoffice
+2017-11-05 20:56:46 Tweets   : 99.9% at 52/sec for harrypaticas
+2017-11-05 20:57:03 Tweets   : 99.4% at 38/sec for peterwarm
+2017-11-05 20:57:42 Tweets   : 99.5% at 48/sec for Eco_Connect
+2017-11-05 20:58:58 Favorites: 51.4% at 1/sec for CIOBWales
+2017-11-05 20:58:58 Favorites: 100% at 22/sec for eu_special
+2017-11-05 20:59:09 Favorites: 56.2% at 53/sec for VRounding
+2017-11-05 20:59:25 Favorites: 51.4% at 50/sec for lordnickbourne
+2017-11-05 20:59:27 Favorites: 98.4% at 38/sec for SarahMcMonagle
+2017-11-05 20:59:57 Favorites: 52.3% at 53/sec for Vanessa_LABC
+2017-11-05 21:00:05 Favorites: 64.8% at 47/sec for Houseplanhelp
+2017-11-05 21:00:15 Favorites: 50.1% at 49/sec for RICS_Europe
+2017-11-05 21:00:25 Favorites: 58% at 50/sec for ricsamericas
+2017-11-05 21:00:27 Favorites: 100% at 53/sec for CISummit
+2017-11-05 21:00:46 Favorites: 54.5% at 52/sec for CIH_events
+2017-11-05 21:00:55 Favorites: 53.6% at 53/sec for PCC_Build_Con
+2017-11-05 21:01:07 Favorites: Waiting for 12.6 minutes due to : Used up allowance in a loop
+2017-11-05 21:01:43 Friends  : 98.5% at 1/sec for CalibreSimon
+2017-11-05 21:01:45 Friends  : 91% at 37/sec for PresidentLDSA
+2017-11-05 21:02:04 Friends  : 100% at 51/sec for dwppressoffice
+2017-11-05 21:02:13 Friends  : 99.5% at 48/sec for harrypaticas
+2017-11-05 21:02:16 Friends  : 100% at 36/sec for peterwarm
+2017-11-05 21:02:47 Friends  : 99.2% at 49/sec for Eco_Connect
+2017-11-05 21:14:08 Favorites: 54.9% at 1/sec for SIGRoofing
+2017-11-05 21:15:04 Favorites: 50.9% at 43/sec for Ecobuild_Now
+2017-11-05 21:15:20 Favorites: 52.3% at 43/sec for BREAcademy
+2017-11-05 21:15:24 Favorites: 59.2% at 43/sec for CalibreSimon
+2017-11-05 21:15:31 Favorites: 60.9% at 46/sec for PresidentLDSA
+2017-11-05 21:15:33 Favorites: 95.5% at 40/sec for dwppressoffice
+2017-11-05 21:15:42 Favorites: 52.1% at 41/sec for harrypaticas
+2017-11-05 21:15:44 Favorites: 87.4% at 45/sec for peterwarm
+2017-11-05 21:15:51 Favorites: 64.6% at 44/sec for Eco_Connect
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+Warning message:
+package 'twitteR' was built under R version 3.4.1 

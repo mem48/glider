@@ -1,0 +1,171 @@
+starting worker pid=19312 on localhost:11045 at 11:29:08.928
+starting worker pid=14544 on localhost:11045 at 11:29:09.087
+starting worker pid=8168 on localhost:11045 at 11:29:09.243
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-11 11:30:26 Friends  : 88% at 17/sec for haydnlewis2
+2017-11-11 11:30:28 Friends  : 95.5% at 47/sec for HemblingMartin
+2017-11-11 11:30:37 Friends  : 98% at 39/sec for Hill_Group_UK
+2017-11-11 11:30:54 Friends  : 98.4% at 39/sec for hobsonporter
+2017-11-11 11:30:57 Friends  : 100% at 18/sec for hubarchitecture
+2017-11-11 11:31:05 Friends  : 98.6% at 41/sec for id_architecture
+2017-11-11 11:31:23 Friends  : 99.7% at 44/sec for JoanneMcNallyPR
+2017-11-11 11:31:25 Friends  : 97.8% at 46/sec for Jrl_18
+2017-11-11 11:31:25 Friends  : 100% at 5/sec for LABCCentral
+2017-11-11 11:31:29 Friends  : 100% at 34/sec for LABCCYMRU
+2017-11-11 11:31:30 Friends  : 100% at 2/sec for LABCRegDetails
+2017-11-11 11:31:41 Friends  : 98.4% at 42/sec for MasonryModern
+2017-11-11 11:31:44 Favorites: 100% at 27/sec for haydnlewis2
+2017-11-11 11:31:44 Favorites: Waiting for 7.2 minutes due to : Used up allowance in a loop
+2017-11-11 11:31:46 Friends  : 99% at 42/sec for NapperArchitect
+2017-11-11 11:31:50 Friends  : 99.4% at 40/sec for newhomesreview
+2017-11-11 11:31:56 Friends  : 99.5% at 39/sec for nvbarchitects
+2017-11-11 11:31:56 Friends  : Waiting for 13.6 minutes
+2017-11-11 11:33:02 Tweets   : 100% at 8/sec for haydnlewis2
+2017-11-11 11:33:12 Tweets   : 99.5% at 21/sec for HemblingMartin
+2017-11-11 11:33:52 Tweets   : 100% at 46/sec for Hill_Group_UK
+2017-11-11 11:34:13 Tweets   : 99.9% at 39/sec for hobsonporter
+2017-11-11 11:34:24 Tweets   : 100% at 27/sec for hubarchitecture
+2017-11-11 11:34:46 Tweets   : 99.9% at 37/sec for id_architecture
+2017-11-11 11:35:28 Tweets   : 100% at 48/sec for JoanneMcNallyPR
+2017-11-11 11:35:36 Tweets   : 99.1% at 14/sec for Jrl_18
+2017-11-11 11:35:43 Tweets   : 100% at 7/sec for LABCCentral
+2017-11-11 11:35:51 Tweets   : 100% at 12/sec for LABCCYMRU
+2017-11-11 11:35:57 Tweets   : 100% at 3/sec for LABCRegDetails
+2017-11-11 11:36:10 Tweets   : 100% at 32/sec for MasonryModern
+2017-11-11 11:36:25 Tweets   : 100% at 31/sec for NapperArchitect
+2017-11-11 11:36:33 Tweets   : 100% at 10/sec for newhomesreview
+2017-11-11 11:37:09 Tweets   : 99.9% at 44/sec for nvbarchitects
+2017-11-11 11:37:17 Tweets   : 100% at 19/sec for PelhamTeam
+2017-11-11 11:38:04 Tweets   : 97.7% at 51/sec for PeterDGrant
+2017-11-11 11:38:26 Tweets   : 100% at 41/sec for philippam2009
+2017-11-11 11:38:32 Tweets   : 100% at 4/sec for Real_martyw34
+2017-11-11 11:39:08 Favorites: 100% at 0/sec for HemblingMartin
+2017-11-11 11:39:15 Favorites: 62.4% at 41/sec for Hill_Group_UK
+2017-11-11 11:39:23 Favorites: 63.1% at 36/sec for hobsonporter
+2017-11-11 11:39:26 Favorites: 100% at 20/sec for hubarchitecture
+2017-11-11 11:39:32 Tweets   : 2.2% at 53/sec for RevRichardColes
+2017-11-11 11:39:35 Favorites: 54.1% at 52/sec for id_architecture
+2017-11-11 11:39:42 Favorites: 51.2% at 44/sec for JoanneMcNallyPR
+2017-11-11 11:39:43 Favorites: 98.6% at 61/sec for Jrl_18
+2017-11-11 11:39:43 Favorites: 100% at 19/sec for LABCCentral
+2017-11-11 11:39:44 Favorites: 100% at 35/sec for LABCCYMRU
+2017-11-11 11:39:44 Favorites: 100% at 11/sec for LABCRegDetails
+2017-11-11 11:39:44 Favorites: User MasonryModern has a protected account or no Favoritess to collect so skipping
+2017-11-11 11:39:48 Tweets   : 100% at 29/sec for RichardWood_MLM
+2017-11-11 11:39:49 Favorites: 68.4% at 45/sec for NapperArchitect
+2017-11-11 11:39:51 Favorites: 100% at 29/sec for newhomesreview
+2017-11-11 11:39:55 Favorites: 63.4% at 50/sec for nvbarchitects
+2017-11-11 11:39:56 Favorites: 100% at 27/sec for PelhamTeam
+2017-11-11 11:40:19 Favorites: 50.4% at 44/sec for PeterDGrant
+2017-11-11 11:40:25 Favorites: 63.7% at 53/sec for philippam2009
+2017-11-11 11:40:25 Favorites: 100% at 6/sec for Real_martyw34
+2017-11-11 11:40:29 Favorites: 78.8% at 47/sec for RevRichardColes
+2017-11-11 11:40:36 Favorites: 64.4% at 41/sec for RichardWood_MLM
+2017-11-11 11:41:00 Tweets   : 27.9% at 44/sec for SarahGalloway
+2017-11-11 11:41:15 Favorites: 51.7% at 45/sec for SarahGalloway
+2017-11-11 11:41:37 Favorites: 54% at 45/sec for SarahJaBuckley
+2017-11-11 11:41:40 Favorites: 97.3% at 27/sec for SBSTPgroup
+2017-11-11 11:41:40 Favorites: Waiting for 12.4 minutes due to : Used up allowance in a loop
+2017-11-11 11:41:58 Tweets   : 99.8% at 47/sec for SarahJaBuckley
+2017-11-11 11:42:26 Tweets   : 99.8% at 43/sec for SBSTPgroup
+2017-11-11 11:43:02 Tweets   : 99.9% at 43/sec for SGSA_UK
+2017-11-11 11:44:11 Tweets   : 78.1% at 46/sec for SocialBfly2
+2017-11-11 11:44:17 Tweets   : 100% at 1/sec for STAwards16
+2017-11-11 11:44:50 Tweets   : 99.7% at 34/sec for SteveMac_FB
+2017-11-11 11:44:58 Tweets   : 29.1% at 50/sec for StonewaterUK
+2017-11-11 11:44:59 Tweets   : Waiting for 3 minutes
+2017-11-11 11:45:57 Friends  : 100% at 0/sec for PelhamTeam
+2017-11-11 11:46:40 Friends  : 99% at 45/sec for PeterDGrant
+2017-11-11 11:46:50 Friends  : 99.6% at 45/sec for philippam2009
+2017-11-11 11:46:54 Friends  : 95% at 33/sec for Real_martyw34
+2017-11-11 11:47:56 Friends  : 99.8% at 42/sec for RevRichardColes
+2017-11-11 11:48:08 Friends  : 98.4% at 46/sec for RichardWood_MLM
+2017-11-11 11:48:11 Tweets   : 100% at 0/sec for TGSowerby
+2017-11-11 11:48:32 Tweets   : 99.8% at 41/sec for ThirdSpace2012
+2017-11-11 11:49:26 Friends  : 99.1% at 44/sec for SarahGalloway
+2017-11-11 11:49:43 Tweets   : 10.9% at 45/sec for TrevorHaynes575
+2017-11-11 11:49:52 Friends  : 99.4% at 40/sec for SarahJaBuckley
+2017-11-11 11:50:10 Tweets   : 98.9% at 44/sec for TyMawrLime
+2017-11-11 11:50:17 Tweets   : 90% at 6/sec for UBPltd
+2017-11-11 11:50:40 Friends  : 100% at 39/sec for SBSTPgroup
+2017-11-11 11:50:48 Friends  : 99.6% at 37/sec for SGSA_UK
+2017-11-11 11:51:12 Friends  : 99.8% at 38/sec for SocialBfly2
+2017-11-11 11:51:15 Friends  : 100% at 8/sec for STAwards16
+2017-11-11 11:51:22 Friends  : 98.9% at 34/sec for SteveMac_FB
+2017-11-11 11:51:24 Tweets   : 42.1% at 48/sec for Warwick_DC
+2017-11-11 11:51:50 Friends  : 99.8% at 40/sec for StonewaterUK
+2017-11-11 11:51:55 Friends  : 96.8% at 33/sec for TGSowerby
+2017-11-11 11:51:55 Friends  : Waiting for 9.1 minutes
+2017-11-11 11:52:08 Tweets   : 99.9% at 39/sec for Watsonbatty
+2017-11-11 11:52:22 Tweets   : 99.8% at 32/sec for WellingtonLtd
+2017-11-11 11:53:32 Tweets   : 60.4% at 46/sec for _FlagshipGroup
+2017-11-11 11:54:34 Favorites: 73% at 0/sec for SGSA_UK
+2017-11-11 11:54:46 Tweets   : 82.8% at 43/sec for AaronCHC
+2017-11-11 11:54:52 Favorites: 52.2% at 44/sec for SocialBfly2
+2017-11-11 11:54:52 Favorites: User STAwards16 has a protected account or no Favoritess to collect so skipping
+2017-11-11 11:54:58 Favorites: 55.7% at 51/sec for SteveMac_FB
+2017-11-11 11:55:04 Favorites: 100% at 14/sec for StonewaterUK
+2017-11-11 11:55:04 Favorites: 100% at 31/sec for TGSowerby
+2017-11-11 11:55:05 Tweets   : 100% at 32/sec for ACyarlington
+2017-11-11 11:55:08 Favorites: 79.1% at 51/sec for ThirdSpace2012
+2017-11-11 11:56:18 Favorites: 2.5% at 46/sec for TrevorHaynes575
+2017-11-11 11:56:21 Tweets   : 86.3% at 42/sec for AlanMakMP
+2017-11-11 11:56:22 Favorites: 50.4% at 48/sec for TyMawrLime
+2017-11-11 11:56:23 Favorites: 78.4% at 34/sec for UBPltd
+2017-11-11 11:56:27 Favorites: 69.8% at 50/sec for Warwick_DC
+2017-11-11 11:56:51 Favorites: 50.3% at 43/sec for Watsonbatty
+2017-11-11 11:56:52 Favorites: 52.4% at 75/sec for WellingtonLtd
+2017-11-11 11:56:56 Favorites: 60.1% at 47/sec for _FlagshipGroup
+2017-11-11 11:57:10 Favorites: 52.9% at 43/sec for AaronCHC
+2017-11-11 11:57:10 Favorites: Waiting for 12.3 minutes due to : Used up allowance in a loop
+2017-11-11 11:57:19 Tweets   : 99.5% at 46/sec for AntHanlon
+2017-11-11 11:57:26 Tweets   : 100% at 10/sec for ARobertshaw_NC
+2017-11-11 11:58:32 Tweets   : 83.7% at 48/sec for B3Living
+2017-11-11 11:59:40 Tweets   : 66% at 47/sec for BarryTuckwood
+2017-11-11 12:00:51 Tweets   : 5.4% at 45/sec for BBCCornwall
+2017-11-11 12:01:00 Tweets   : 98.2% at 14/sec for bdht
+2017-11-11 12:01:15 Tweets   : 100% at 31/sec for BecciYarlington
+2017-11-11 12:01:22 Friends  : 98% at 0/sec for ThirdSpace2012
+2017-11-11 12:02:29 Tweets   : 97.4% at 43/sec for BeckiePlusDane
+2017-11-11 12:03:44 Tweets   : 12.8% at 42/sec for benhowlettuk
+2017-11-11 12:07:29 Friends  : 91.3% at 37/sec for TrevorHaynes575
+2017-11-11 12:07:51 Friends  : 100% at 33/sec for TyMawrLime
+2017-11-11 12:08:03 Friends  : 93.9% at 41/sec for UBPltd
+2017-11-11 12:08:12 Friends  : 98.3% at 43/sec for Warwick_DC
+2017-11-11 12:08:31 Friends  : 99.4% at 46/sec for Watsonbatty
+2017-11-11 12:08:43 Friends  : 99.8% at 41/sec for WellingtonLtd
+2017-11-11 12:09:01 Friends  : 99.5% at 42/sec for _FlagshipGroup
+2017-11-11 12:09:27 Friends  : 97.7% at 46/sec for AaronCHC
+2017-11-11 12:09:34 Friends  : 98.3% at 33/sec for ACyarlington
+2017-11-11 12:09:53 Favorites: 77.3% at 0/sec for ACyarlington
+2017-11-11 12:09:58 Favorites: 54.7% at 53/sec for AlanMakMP
+2017-11-11 12:10:17 Favorites: 50.9% at 41/sec for AntHanlon
+2017-11-11 12:10:18 Favorites: 96.9% at 36/sec for ARobertshaw_NC
+2017-11-11 12:10:23 Friends  : 98.5% at 41/sec for AlanMakMP
+2017-11-11 12:10:26 Favorites: 48.7% at 46/sec for B3Living
+2017-11-11 12:10:28 Favorites: 96.2% at 66/sec for BarryTuckwood
+2017-11-11 12:10:43 Friends  : 98.7% at 38/sec for AntHanlon
+2017-11-11 12:10:49 Friends  : 98% at 38/sec for ARobertshaw_NC
+2017-11-11 12:10:49 Friends  : Waiting for 5.5 minutes
+2017-11-11 12:11:37 Favorites: 49.2% at 46/sec for BBCCornwall
+2017-11-11 12:11:39 Favorites: 100% at 2/sec for bdht
+2017-11-11 12:11:48 Favorites: 59.8% at 45/sec for BecciYarlington
+2017-11-11 12:12:12 Favorites: 54.1% at 49/sec for BeckiePlusDane
+2017-11-11 12:12:27 Favorites: Waiting for 12.4 minutes due to : Used up allowance in a loop
+2017-11-11 12:16:44 Friends  : 100% at 2/sec for B3Living
+2017-11-11 12:17:41 Friends  : 99.4% at 42/sec for BarryTuckwood
+2017-11-11 12:18:19 Friends  : 98.9% at 41/sec for BBCCornwall
+2017-11-11 12:18:22 Friends  : 100% at 9/sec for bdht
+2017-11-11 12:18:31 Friends  : 96.5% at 42/sec for BecciYarlington
+2017-11-11 12:18:56 Friends  : 97.4% at 39/sec for BeckiePlusDane
+2017-11-11 12:22:22 Friends  : 98.9% at 37/sec for benhowlettuk
+2017-11-11 12:26:04 Favorites: 35.8% at 4/sec for benhowlettuk
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+R version 3.4.1 
+Warning messages:
+1: package 'twitteR' was built under R version 3.4.1 
+2: In twInterfaceObj$doAPICall(cmd, params, method, ...) :
+  Rate limit encountered & retry limit reached - returning partial results

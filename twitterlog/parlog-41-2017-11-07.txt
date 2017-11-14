@@ -1,0 +1,176 @@
+starting worker pid=18316 on localhost:11045 at 19:21:18.787
+starting worker pid=13192 on localhost:11045 at 19:21:18.943
+starting worker pid=7252 on localhost:11045 at 19:21:19.115
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-07 19:22:57 Friends  : 99.9% at 40/sec for Daikinuk
+2017-11-07 19:23:14 Favorites: 51% at 42/sec for Daikinuk
+2017-11-07 19:23:19 Friends  : 98.8% at 37/sec for EclipseEnergyUK
+2017-11-07 19:23:21 Favorites: 75.8% at 26/sec for EclipseEnergyUK
+2017-11-07 19:23:25 Favorites: 84% at 52/sec for LoCITYUK
+2017-11-07 19:23:35 Favorites: 54.8% at 39/sec for MacKayHannah
+2017-11-07 19:23:45 Favorites: 58.8% at 43/sec for thecurlydon
+2017-11-07 19:23:46 Friends  : 97.6% at 41/sec for LoCITYUK
+2017-11-07 19:23:47 Favorites: 100% at 38/sec for Top10Energy
+2017-11-07 19:23:47 Favorites: Waiting for 8.3 minutes due to : Used up allowance in a loop
+2017-11-07 19:24:37 Friends  : 99.2% at 43/sec for MacKayHannah
+2017-11-07 19:25:03 Friends  : 98.2% at 43/sec for thecurlydon
+2017-11-07 19:25:11 Tweets   : 67% at 47/sec for Daikinuk
+2017-11-07 19:25:22 Friends  : 99.2% at 46/sec for Top10Energy
+2017-11-07 19:25:25 Friends  : 94.6% at 22/sec for trendinaliaGB
+2017-11-07 19:25:49 Tweets   : 99.9% at 42/sec for EclipseEnergyUK
+2017-11-07 19:26:20 Tweets   : 99.9% at 36/sec for LoCITYUK
+2017-11-07 19:26:24 Friends  : 98.6% at 41/sec for CreditServicesA
+2017-11-07 19:27:26 Friends  : 99.6% at 36/sec for natandoron
+2017-11-07 19:27:29 Tweets   : 36.8% at 46/sec for MacKayHannah
+2017-11-07 19:27:59 Tweets   : 100% at 37/sec for thecurlydon
+2017-11-07 19:28:10 Friends  : 93.4% at 42/sec for Affix_Windows
+2017-11-07 19:28:21 Tweets   : 99.9% at 35/sec for Top10Energy
+2017-11-07 19:28:47 Friends  : 97.8% at 44/sec for CambClassics
+2017-11-07 19:28:56 Friends  : 100% at 28/sec for ConservatoryEtc
+2017-11-07 19:29:09 Friends  : 100% at 32/sec for CoralWindowsUK
+2017-11-07 19:29:36 Tweets   : 0.4% at 42/sec for trendinaliaGB
+2017-11-07 19:29:44 Friends  : 100% at 39/sec for Handlestore
+2017-11-07 19:30:31 Friends  : 99.8% at 42/sec for rickytrips
+2017-11-07 19:30:31 Friends  : Waiting for 6.8 minutes
+2017-11-07 19:30:41 Tweets   : 99.7% at 36/sec for CreditServicesA
+2017-11-07 19:31:50 Tweets   : 14.6% at 46/sec for natandoron
+2017-11-07 19:32:09 Tweets   : 99.7% at 35/sec for Affix_Windows
+2017-11-07 19:32:20 Favorites: 100% at 0/sec for trendinaliaGB
+2017-11-07 19:32:24 Favorites: 50.9% at 44/sec for CreditServicesA
+2017-11-07 19:33:25 Tweets   : 84.4% at 42/sec for CambClassics
+2017-11-07 19:33:38 Favorites: 33.1% at 43/sec for natandoron
+2017-11-07 19:33:41 Favorites: 79.4% at 53/sec for Affix_Windows
+2017-11-07 19:33:42 Tweets   : 100% at 29/sec for ConservatoryEtc
+2017-11-07 19:34:54 Favorites: 40.5% at 44/sec for CambClassics
+2017-11-07 19:34:55 Tweets   : 99.7% at 41/sec for CoralWindowsUK
+2017-11-07 19:34:55 Favorites: 100% at 42/sec for ConservatoryEtc
+2017-11-07 19:34:59 Favorites: 53.5% at 47/sec for CoralWindowsUK
+2017-11-07 19:35:01 Favorites: Waiting for 12.3 minutes due to : Used up allowance in a loop
+2017-11-07 19:36:03 Tweets   : 93.7% at 46/sec for Handlestore
+2017-11-07 19:37:13 Tweets   : 73.4% at 46/sec for rickytrips
+2017-11-07 19:38:01 Tweets   : 99.5% at 42/sec for COHomeSafety
+2017-11-07 19:39:22 Tweets   : 33.2% at 39/sec for nwatchscotland
+2017-11-07 19:39:39 Friends  : 98.4% at 9/sec for COHomeSafety
+2017-11-07 19:40:28 Tweets   : 80.5% at 48/sec for OmbudsmanTweets
+2017-11-07 19:40:32 Friends  : 100% at 39/sec for nwatchscotland
+2017-11-07 19:41:15 Friends  : 99% at 42/sec for OmbudsmanTweets
+2017-11-07 19:41:41 Tweets   : 43.9% at 44/sec for taoallergymummy
+2017-11-07 19:42:11 Friends  : 97% at 39/sec for taoallergymummy
+2017-11-07 19:43:04 Tweets   : 20.2% at 39/sec for VTUK
+2017-11-07 19:43:31 Tweets   : 99.8% at 42/sec for SYDNEY221103
+2017-11-07 19:43:42 Tweets   : 100% at 24/sec for reelhomesfilm
+2017-11-07 19:44:57 Tweets   : 82.6% at 43/sec for WeAreVIVIDhomes
+2017-11-07 19:46:16 Tweets   : 99.1% at 41/sec for TGBUILDERSM
+2017-11-07 19:46:49 Tweets   : 100% at 34/sec for john_hocking
+2017-11-07 19:46:59 Friends  : 94.8% at 43/sec for VTUK
+2017-11-07 19:47:01 Friends  : 100% at 36/sec for SYDNEY221103
+2017-11-07 19:47:05 Friends  : 98.4% at 32/sec for reelhomesfilm
+2017-11-07 19:47:48 Favorites: 55.3% at 1/sec for Handlestore
+2017-11-07 19:47:58 Friends  : 99.4% at 37/sec for WeAreVIVIDhomes
+2017-11-07 19:48:01 Tweets   : 50.4% at 44/sec for LeedsCityRegion
+2017-11-07 19:48:02 Favorites: 50.1% at 43/sec for rickytrips
+2017-11-07 19:48:04 Favorites: 100% at 14/sec for COHomeSafety
+2017-11-07 19:48:14 Tweets   : 99.3% at 22/sec for MartynJamesHall
+2017-11-07 19:48:32 Friends  : 97.8% at 36/sec for TGBUILDERSM
+2017-11-07 19:48:34 Favorites: 51.6% at 42/sec for nwatchscotland
+2017-11-07 19:48:43 Favorites: 59.4% at 43/sec for OmbudsmanTweets
+2017-11-07 19:48:43 Friends  : 100% at 31/sec for john_hocking
+2017-11-07 19:49:10 Friends  : 98% at 36/sec for LeedsCityRegion
+2017-11-07 19:49:20 Friends  : 98.9% at 36/sec for MartynJamesHall
+2017-11-07 19:49:33 Tweets   : 39.1% at 41/sec for PressSteveH
+2017-11-07 19:49:57 Favorites: 22.9% at 43/sec for taoallergymummy
+2017-11-07 19:50:05 Friends  : 98.7% at 44/sec for PressSteveH
+2017-11-07 19:50:08 Favorites: 50.3% at 38/sec for VTUK
+2017-11-07 19:50:08 Favorites: 100% at 40/sec for SYDNEY221103
+2017-11-07 19:50:09 Favorites: 100% at 41/sec for reelhomesfilm
+2017-11-07 19:50:18 Favorites: 56.1% at 46/sec for WeAreVIVIDhomes
+2017-11-07 19:50:30 Favorites: 54.8% at 42/sec for TGBUILDERSM
+2017-11-07 19:50:30 Favorites: Waiting for 12.2 minutes due to : Used up allowance in a loop
+2017-11-07 19:50:55 Tweets   : 15% at 38/sec for RFMacDonald
+2017-11-07 19:51:11 Friends  : 98.6% at 46/sec for RFMacDonald
+2017-11-07 19:51:28 Tweets   : 99.5% at 35/sec for rob_trotter
+2017-11-07 19:51:35 Friends  : 100% at 45/sec for rob_trotter
+2017-11-07 19:51:43 Tweets   : 99.8% at 32/sec for sharongodwin10
+2017-11-07 19:51:48 Friends  : 98.4% at 48/sec for sharongodwin10
+2017-11-07 19:52:55 Tweets   : 28.3% at 44/sec for steve_hoey
+2017-11-07 19:53:28 Friends  : 99% at 44/sec for steve_hoey
+2017-11-07 19:53:47 Friends  : 99.9% at 45/sec for timesredbox
+2017-11-07 19:53:58 Friends  : 98.9% at 36/sec for tonystoller
+2017-11-07 19:54:08 Friends  : 97.5% at 37/sec for YorkCares
+2017-11-07 19:54:08 Friends  : Waiting for 7.9 minutes
+2017-11-07 19:54:08 Tweets   : 18.8% at 44/sec for timesredbox
+2017-11-07 19:54:38 Tweets   : 99.6% at 37/sec for tonystoller
+2017-11-07 19:55:53 Tweets   : 88.4% at 42/sec for YorkCares
+2017-11-07 19:56:24 Tweets   : 99.9% at 44/sec for BuildAviatorUK
+2017-11-07 19:56:31 Tweets   : 100% at 9/sec for BuildingBristol
+2017-11-07 19:57:07 Tweets   : 100% at 42/sec for CoopersFire
+2017-11-07 19:57:29 Tweets   : 100% at 38/sec for DGDesignLtd
+2017-11-07 19:58:38 Tweets   : 39.6% at 46/sec for ElecSafetyFirst
+2017-11-07 19:58:59 Tweets   : 99.8% at 31/sec for GasSafetyTrust
+2017-11-07 19:59:21 Tweets   : 100% at 33/sec for HillsHomes
+2017-11-07 19:59:33 Tweets   : 100% at 21/sec for Kentbuildingco1
+2017-11-07 19:59:39 Tweets   : 100% at 4/sec for kirstenwilt
+2017-11-07 20:00:53 Tweets   : 100% at 42/sec for roofinglinesUK
+[1] "Server error: (500) Internal Server Error"
+[1] "This error is likely transient, retrying up to 5 more times ..."
+2017-11-07 20:02:05 Tweets   : 46.4% at 44/sec for SedgemoorDC
+2017-11-07 20:02:33 Friends  : 100% at 1/sec for BuildAviatorUK
+Error in twInterfaceObj$doAPICall(paste("users", "show", sep = "/"), params = params,  : 
+  Not Found (HTTP 404).
+In addition: Warning message:
+package 'twitteR' was built under R version 3.4.1 
+2017-11-07 20:02:33 Friends: Unable to find account BuildingBristol moving to next
+2017-11-07 20:02:33 Friends  : % at /sec for BuildingBristol
+2017-11-07 20:02:58 Friends  : 99.6% at 41/sec for CoopersFire
+2017-11-07 20:03:04 Favorites: 100% at 0/sec for john_hocking
+2017-11-07 20:03:14 Friends  : 99.1% at 35/sec for DGDesignLtd
+2017-11-07 20:03:22 Tweets   : 66.4% at 42/sec for southribblebc
+2017-11-07 20:03:36 Tweets   : 100% at 21/sec for WinchBC
+2017-11-07 20:03:45 Favorites: 51.7% at 41/sec for LeedsCityRegion
+2017-11-07 20:03:48 Favorites: 69.9% at 39/sec for MartynJamesHall
+2017-11-07 20:03:57 Favorites: 55.8% at 43/sec for PressSteveH
+2017-11-07 20:03:58 Tweets   : 100% at 28/sec for Alliance_Homes
+2017-11-07 20:04:03 Friends  : 99.7% at 40/sec for ElecSafetyFirst
+2017-11-07 20:04:22 Friends  : 98.9% at 45/sec for GasSafetyTrust
+2017-11-07 20:04:23 Friends  : 100% at 36/sec for HillsHomes
+Error in twInterfaceObj$doAPICall(paste("users", "show", sep = "/"), params = params,  : 
+  Not Found (HTTP 404).
+2017-11-07 20:04:23 Friends: Unable to find account Kentbuildingco1 moving to next
+2017-11-07 20:04:23 Friends  : % at /sec for Kentbuildingco1
+2017-11-07 20:04:26 Friends  : 93% at 20/sec for kirstenwilt
+2017-11-07 20:04:28 Favorites: 48.4% at 43/sec for RFMacDonald
+2017-11-07 20:04:29 Favorites: 96.9% at 58/sec for rob_trotter
+2017-11-07 20:04:34 Favorites: 58.6% at 40/sec for sharongodwin10
+2017-11-07 20:04:52 Friends  : 99.5% at 43/sec for roofinglinesUK
+2017-11-07 20:04:58 Friends  : 98.2% at 51/sec for SedgemoorDC
+2017-11-07 20:05:12 Tweets   : 17.1% at 43/sec for CarolinePidgeon
+2017-11-07 20:05:14 Friends  : 99.4% at 39/sec for southribblebc
+2017-11-07 20:05:31 Friends  : 99.4% at 48/sec for WinchBC
+2017-11-07 20:05:37 Friends  : 96.3% at 42/sec for Alliance_Homes
+2017-11-07 20:05:54 Favorites: 44.9% at 41/sec for steve_hoey
+2017-11-07 20:05:56 Favorites: 53.8% at 43/sec for timesredbox
+2017-11-07 20:05:58 Favorites: Waiting for 12.1 minutes due to : Used up allowance in a loop
+2017-11-07 20:06:00 Friends  : 99.1% at 47/sec for CarolinePidgeon
+2017-11-07 20:18:31 Favorites: 63.9% at 0/sec for tonystoller
+2017-11-07 20:18:39 Favorites: 56.4% at 47/sec for YorkCares
+2017-11-07 20:18:44 Favorites: 77.8% at 46/sec for BuildAviatorUK
+2017-11-07 20:18:52 Favorites: 63.9% at 46/sec for BuildingBristol
+2017-11-07 20:18:57 Favorites: 65% at 45/sec for CoopersFire
+2017-11-07 20:19:02 Favorites: 87.9% at 39/sec for DGDesignLtd
+2017-11-07 20:19:17 Favorites: 53.5% at 44/sec for ElecSafetyFirst
+2017-11-07 20:19:19 Favorites: 69.4% at 45/sec for GasSafetyTrust
+2017-11-07 20:19:20 Favorites: 100% at 26/sec for HillsHomes
+2017-11-07 20:19:21 Favorites: 100% at 22/sec for Kentbuildingco1
+2017-11-07 20:19:23 Favorites: 73.5% at 46/sec for kirstenwilt
+2017-11-07 20:19:29 Favorites: 72% at 46/sec for roofinglinesUK
+2017-11-07 20:19:39 Favorites: 59.3% at 42/sec for SedgemoorDC
+2017-11-07 20:19:47 Favorites: 65% at 47/sec for southribblebc
+2017-11-07 20:19:49 Favorites: 96.4% at 17/sec for WinchBC
+2017-11-07 20:19:55 Favorites: 52.9% at 51/sec for Alliance_Homes
+2017-11-07 20:20:13 Favorites: 54.6% at 43/sec for CarolinePidgeon
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+Warning message:
+package 'twitteR' was built under R version 3.4.1 

@@ -1,0 +1,162 @@
+starting worker pid=19856 on localhost:11045 at 02:47:50.544
+starting worker pid=1288 on localhost:11045 at 02:47:50.805
+starting worker pid=14060 on localhost:11045 at 02:47:50.962
+[1] "Using direct authentication"
+2017-11-09 02:49:24 Favorites: 50% at 45/sec for barnetsouthgate
+2017-11-09 02:49:31 Tweets   : 19.6% at 52/sec for barnetsouthgate
+2017-11-09 02:49:35 Favorites: 55.3% at 43/sec for bbcollege
+2017-11-09 02:49:54 Favorites: Waiting for 11.3 minutes due to : Used up allowance in a loop
+2017-11-09 02:50:28 Tweets   : 30% at 56/sec for bbcollege
+2017-11-09 02:50:39 Friends  : 98.8% at 46/sec for barnetsouthgate
+2017-11-09 02:50:57 Friends  : 99.1% at 43/sec for bbcollege
+2017-11-09 02:51:28 Tweets   : 41.7% at 53/sec for E_T_Foundation
+2017-11-09 02:51:56 Friends  : 99.4% at 48/sec for E_T_Foundation
+2017-11-09 02:52:24 Friends  : 97.4% at 55/sec for EastCoast_Coll
+2017-11-09 02:52:33 Tweets   : 70.8% at 50/sec for EastCoast_Coll
+2017-11-09 02:53:37 Tweets   : 38.9% at 50/sec for HighburyCollege
+2017-11-09 02:54:06 Tweets   : 99.8% at 45/sec for IanAshmanSkills
+2017-11-09 02:54:27 Friends  : 92.1% at 46/sec for HighburyCollege
+2017-11-09 02:54:45 Friends  : 100% at 47/sec for IanAshmanSkills
+2017-11-09 02:55:11 Tweets   : 15.7% at 49/sec for LilianGreenwood
+2017-11-09 02:56:11 Friends  : 99.2% at 44/sec for LilianGreenwood
+2017-11-09 02:56:20 Tweets   : 93.8% at 46/sec for ParallelLondon
+2017-11-09 02:56:37 Friends  : 99.4% at 54/sec for ParallelLondon
+2017-11-09 02:57:14 Friends  : 99.2% at 44/sec for Reaseheath
+2017-11-09 02:57:20 Tweets   : 35.3% at 53/sec for Reaseheath
+2017-11-09 02:57:23 Friends  : 98.5% at 44/sec for Rocket_Rolfe
+2017-11-09 02:57:32 Tweets   : 99.7% at 29/sec for Rocket_Rolfe
+2017-11-09 02:57:39 Friends  : 100% at 45/sec for RunshawCollege
+2017-11-09 02:58:03 Friends  : 99.3% at 49/sec for RuT_College
+2017-11-09 02:58:18 Friends  : 98.9% at 49/sec for SeevicCollege
+2017-11-09 02:58:22 Friends  : 99.5% at 46/sec for tania_mathias
+2017-11-09 02:58:33 Friends  : 89.2% at 45/sec for york_college
+2017-11-09 02:58:34 Friends  : Waiting for 7.2 minutes
+2017-11-09 02:58:34 Tweets   : 82.9% at 51/sec for RunshawCollege
+2017-11-09 02:59:24 Tweets   : 99.7% at 53/sec for RuT_College
+2017-11-09 03:00:25 Tweets   : 61.1% at 51/sec for SeevicCollege
+2017-11-09 03:01:00 Tweets   : 99.8% at 47/sec for tania_mathias
+2017-11-09 03:01:34 Favorites: 50.6% at 1/sec for E_T_Foundation
+2017-11-09 03:02:00 Tweets   : 49% at 53/sec for york_college
+2017-11-09 03:02:22 Favorites: 51% at 46/sec for EastCoast_Coll
+2017-11-09 03:02:50 Tweets   : 99.9% at 51/sec for AskHorstmann
+2017-11-09 03:02:55 Favorites: 52.8% at 45/sec for HighburyCollege
+2017-11-09 03:02:57 Favorites: 67.8% at 51/sec for IanAshmanSkills
+2017-11-09 03:03:07 Tweets   : 100% at 35/sec for CorgiInsurance
+2017-11-09 03:03:39 Tweets   : 100% at 50/sec for HVNMagazine
+2017-11-09 03:04:05 Favorites: 47.9% at 47/sec for LilianGreenwood
+2017-11-09 03:04:12 Favorites: Waiting for 12.3 minutes due to : Used up allowance in a loop
+2017-11-09 03:04:39 Tweets   : 26.2% at 53/sec for IanPlumbing
+2017-11-09 03:05:19 Tweets   : 100% at 42/sec for IlikaCopeland
+2017-11-09 03:05:40 Tweets   : 100% at 47/sec for Princeenergyuk
+2017-11-09 03:06:05 Friends  : 98.7% at 1/sec for AskHorstmann
+2017-11-09 03:06:11 Friends  : 100% at 47/sec for CorgiInsurance
+2017-11-09 03:06:23 Friends  : 100% at 48/sec for HVNMagazine
+2017-11-09 03:06:32 Tweets   : 99.8% at 57/sec for Continental_UFH
+2017-11-09 03:06:44 Friends  : 89.4% at 48/sec for IanPlumbing
+2017-11-09 03:06:50 Friends  : 98.6% at 46/sec for IlikaCopeland
+2017-11-09 03:06:58 Friends  : 98.8% at 46/sec for Princeenergyuk
+2017-11-09 03:07:07 Tweets   : 99.7% at 45/sec for Flueboost
+2017-11-09 03:07:25 Friends  : 97.2% at 46/sec for Continental_UFH
+2017-11-09 03:07:33 Friends  : 98.7% at 44/sec for Flueboost
+2017-11-09 03:07:50 Friends  : 99.5% at 48/sec for LHPS_Ltd
+2017-11-09 03:08:00 Tweets   : 100% at 58/sec for LHPS_Ltd
+2017-11-09 03:08:02 Friends  : 100% at 45/sec for Multikwik
+2017-11-09 03:08:43 Friends  : 98.1% at 47/sec for steveclarke64
+2017-11-09 03:08:58 Friends  : 98.3% at 52/sec for WaterUK
+2017-11-09 03:09:02 Tweets   : 86.1% at 52/sec for Multikwik
+2017-11-09 03:09:25 Friends  : 97.3% at 52/sec for abitlikealexa
+2017-11-09 03:09:29 Friends  : 100% at 33/sec for APMHKBranch
+2017-11-09 03:09:43 Friends  : 99.7% at 45/sec for BAESystemsplc
+2017-11-09 03:09:43 Friends  : Waiting for 11.3 minutes
+2017-11-09 03:10:03 Tweets   : 31.9% at 52/sec for steveclarke64
+2017-11-09 03:10:50 Tweets   : 100% at 48/sec for WaterUK
+2017-11-09 03:11:46 Tweets   : 44.6% at 57/sec for abitlikealexa
+2017-11-09 03:11:54 Tweets   : 100% at 13/sec for APMHKBranch
+2017-11-09 03:12:57 Tweets   : 85.8% at 50/sec for BAESystemsplc
+2017-11-09 03:13:41 Tweets   : 99.7% at 48/sec for burofour
+2017-11-09 03:13:51 Tweets   : 100% at 20/sec for christine_uhb
+2017-11-09 03:14:25 Tweets   : 100% at 43/sec for CITILimited
+2017-11-09 03:15:20 Tweets   : 40.3% at 58/sec for darrenjaundrill
+2017-11-09 03:15:55 Tweets   : 99.6% at 49/sec for ejroden
+2017-11-09 03:16:08 Tweets   : 100% at 32/sec for evaintheuk
+2017-11-09 03:16:23 Tweets   : 99.8% at 34/sec for JamesDriver
+2017-11-09 03:17:18 Tweets   : 26.9% at 59/sec for JonnieJensen
+2017-11-09 03:17:43 Tweets   : 100% at 50/sec for markphillipspm
+2017-11-09 03:17:44 Favorites: 50.8% at 3/sec for ParallelLondon
+2017-11-09 03:18:10 Tweets   : 99.5% at 43/sec for p3mglobal
+2017-11-09 03:18:17 Favorites: 38.4% at 44/sec for Reaseheath
+2017-11-09 03:18:19 Tweets   : 99.4% at 17/sec for PeopleSIG
+2017-11-09 03:18:32 Tweets   : 100% at 30/sec for PLP_Central
+2017-11-09 03:18:34 Favorites: 52.6% at 46/sec for Rocket_Rolfe
+2017-11-09 03:18:40 Favorites: 50% at 47/sec for RunshawCollege
+2017-11-09 03:18:41 Tweets   : 100% at 25/sec for renlimm
+2017-11-09 03:18:49 Favorites: 63.1% at 47/sec for RuT_College
+2017-11-09 03:18:59 Favorites: 53.6% at 45/sec for SeevicCollege
+2017-11-09 03:19:04 Favorites: 90% at 42/sec for tania_mathias
+2017-11-09 03:19:05 Tweets   : 99.3% at 49/sec for RGeake
+2017-11-09 03:19:23 Favorites: 54.7% at 47/sec for york_college
+2017-11-09 03:19:32 Favorites: 63.9% at 47/sec for AskHorstmann
+2017-11-09 03:19:32 Favorites: 100% at 3/sec for CorgiInsurance
+2017-11-09 03:19:32 Favorites: Waiting for 12.4 minutes due to : Used up allowance in a loop
+2017-11-09 03:19:56 Tweets   : 99.7% at 50/sec for TidewayLondon
+2017-11-09 03:21:03 Tweets   : 46.4% at 48/sec for UKNorthernPower
+2017-11-09 03:21:52 Friends  : 99.6% at 2/sec for burofour
+2017-11-09 03:21:55 Friends  : 94.7% at 34/sec for christine_uhb
+2017-11-09 03:22:11 Friends  : 96.1% at 46/sec for CITILimited
+2017-11-09 03:22:12 Tweets   : 24.3% at 46/sec for uw_wbs
+2017-11-09 03:22:20 Friends  : 100% at 45/sec for darrenjaundrill
+2017-11-09 03:22:31 Friends  : 99.6% at 44/sec for ejroden
+2017-11-09 03:22:36 Friends  : 99.5% at 39/sec for evaintheuk
+2017-11-09 03:22:43 Friends  : 99.3% at 41/sec for JamesDriver
+2017-11-09 03:22:46 Tweets   : 100% at 49/sec for ABC_Awards
+2017-11-09 03:23:28 Friends  : 99.9% at 50/sec for JonnieJensen
+2017-11-09 03:23:30 Friends  : 100% at 19/sec for markphillipspm
+2017-11-09 03:23:44 Friends  : 98.8% at 48/sec for p3mglobal
+2017-11-09 03:23:55 Friends  : 100% at 50/sec for PeopleSIG
+2017-11-09 03:24:22 Friends  : 98.5% at 54/sec for PLP_Central
+2017-11-09 03:24:26 Friends  : 99.3% at 39/sec for renlimm
+2017-11-09 03:24:43 Friends  : 99.9% at 50/sec for RGeake
+2017-11-09 03:25:15 Friends  : 99.3% at 48/sec for TidewayLondon
+2017-11-09 03:25:15 Friends  : Waiting for 11.2 minutes
+2017-11-09 03:32:16 Favorites: 100% at 0/sec for HVNMagazine
+2017-11-09 03:33:21 Favorites: 8.2% at 49/sec for IanPlumbing
+2017-11-09 03:34:30 Favorites: 14.3% at 47/sec for IlikaCopeland
+2017-11-09 03:34:38 Favorites: 60.2% at 47/sec for Princeenergyuk
+2017-11-09 03:34:44 Favorites: 54.2% at 51/sec for Continental_UFH
+2017-11-09 03:34:46 Favorites: Waiting for 12.5 minutes due to : Used up allowance in a loop
+2017-11-09 03:38:25 Friends  : 98% at 6/sec for UKNorthernPower
+2017-11-09 03:38:58 Friends  : 98.3% at 45/sec for uw_wbs
+2017-11-09 03:39:14 Friends  : 97.9% at 44/sec for ABC_Awards
+2017-11-09 03:47:44 Favorites: 57.1% at 1/sec for Flueboost
+2017-11-09 03:47:48 Favorites: 95.7% at 48/sec for LHPS_Ltd
+2017-11-09 03:47:51 Favorites: 54.2% at 45/sec for Multikwik
+2017-11-09 03:48:03 Favorites: 49.9% at 46/sec for steveclarke64
+2017-11-09 03:48:12 Favorites: 60.7% at 46/sec for WaterUK
+2017-11-09 03:49:09 Favorites: 49.5% at 47/sec for abitlikealexa
+2017-11-09 03:49:09 Favorites: 100% at 3/sec for APMHKBranch
+2017-11-09 03:49:18 Favorites: 52.9% at 48/sec for BAESystemsplc
+2017-11-09 03:49:39 Favorites: 52.3% at 47/sec for burofour
+2017-11-09 03:49:43 Favorites: 67.1% at 47/sec for christine_uhb
+2017-11-09 03:49:49 Favorites: 65.6% at 46/sec for CITILimited
+2017-11-09 03:50:05 Favorites: 53.8% at 45/sec for darrenjaundrill
+2017-11-09 03:50:11 Favorites: 58% at 48/sec for ejroden
+2017-11-09 03:50:12 Favorites: 100% at 28/sec for evaintheuk
+2017-11-09 03:50:14 Favorites: Waiting for 12.4 minutes due to : Used up allowance in a loop
+2017-11-09 04:03:02 Favorites: 61.1% at 0/sec for JamesDriver
+2017-11-09 04:03:10 Favorites: 53% at 49/sec for JonnieJensen
+2017-11-09 04:03:10 Favorites: User markphillipspm has a protected account or no Favoritess to collect so skipping
+2017-11-09 04:03:14 Favorites: 66% at 49/sec for p3mglobal
+2017-11-09 04:03:14 Favorites: 100% at 21/sec for PeopleSIG
+2017-11-09 04:03:20 Favorites: 57% at 49/sec for PLP_Central
+2017-11-09 04:03:22 Favorites: 98.9% at 45/sec for renlimm
+2017-11-09 04:03:26 Favorites: 73.3% at 52/sec for RGeake
+2017-11-09 04:03:38 Favorites: 52.7% at 49/sec for TidewayLondon
+2017-11-09 04:04:00 Favorites: 52% at 46/sec for UKNorthernPower
+2017-11-09 04:04:34 Favorites: 49.5% at 46/sec for uw_wbs
+2017-11-09 04:04:38 Favorites: 53.5% at 48/sec for ABC_Awards
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+Warning message:
+package 'twitteR' was built under R version 3.4.1 

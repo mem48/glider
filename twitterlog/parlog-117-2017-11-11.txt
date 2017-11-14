@@ -1,0 +1,165 @@
+starting worker pid=14244 on localhost:11045 at 13:29:24.021
+starting worker pid=13436 on localhost:11045 at 13:29:24.177
+starting worker pid=3688 on localhost:11045 at 13:29:24.333
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-11 13:30:53 Friends  : 98.6% at 35/sec for KingStHousing
+2017-11-11 13:31:02 Friends  : 99.3% at 28/sec for Kittie_says
+2017-11-11 13:31:13 Friends  : 98.4% at 41/sec for leedsfederated
+2017-11-11 13:31:17 Friends  : 99.4% at 36/sec for lenchs_trust
+2017-11-11 13:31:29 Friends  : 100% at 39/sec for lisamoab
+2017-11-11 13:32:02 Favorites: 56.5% at 55/sec for KingStHousing
+2017-11-11 13:32:07 Favorites: 99% at 38/sec for Kittie_says
+2017-11-11 13:32:12 Favorites: 47.1% at 36/sec for leedsfederated
+2017-11-11 13:32:19 Favorites: 51.5% at 15/sec for lenchs_trust
+2017-11-11 13:32:24 Friends  : 98.5% at 39/sec for LonGreenParty
+2017-11-11 13:32:27 Friends  : 100% at 42/sec for Lydia_Dumont
+2017-11-11 13:32:31 Friends  : 96.8% at 22/sec for lyha_joanna
+2017-11-11 13:32:55 Favorites: 52.9% at 41/sec for lisamoab
+2017-11-11 13:33:01 Friends  : 99.8% at 43/sec for lynnelqr
+2017-11-11 13:33:10 Friends  : 99.3% at 32/sec for MarySfha
+2017-11-11 13:33:27 Friends  : 98.3% at 37/sec for MelissaCBarber
+2017-11-11 13:33:41 Friends  : 98.5% at 38/sec for MidlandsRural
+2017-11-11 13:33:42 Friends  : 100% at 5/sec for mrbha_nottm
+2017-11-11 13:33:50 Tweets   : 99.9% at 34/sec for KingStHousing
+2017-11-11 13:33:50 Friends  : 98.3% at 40/sec for myhousinghat
+2017-11-11 13:33:56 Friends  : 100% at 42/sec for natfedSara
+2017-11-11 13:34:06 Tweets   : 100% at 25/sec for Kittie_says
+2017-11-11 13:34:07 Friends  : 100% at 22/sec for NetworkRailPete
+2017-11-11 13:34:15 Favorites: 27.3% at 40/sec for LonGreenParty
+2017-11-11 13:34:16 Favorites: 100% at 49/sec for Lydia_Dumont
+2017-11-11 13:34:17 Friends  : 97.2% at 45/sec for ni_knowles
+2017-11-11 13:34:21 Favorites: 66.6% at 45/sec for lyha_joanna
+2017-11-11 13:34:33 Favorites: 61.9% at 39/sec for lynnelqr
+2017-11-11 13:34:34 Friends  : 95.9% at 42/sec for NicOceanHomeBuy
+2017-11-11 13:34:35 Tweets   : 99% at 39/sec for leedsfederated
+2017-11-11 13:34:36 Favorites: 90.1% at 35/sec for MarySfha
+2017-11-11 13:34:57 Friends  : 98.9% at 39/sec for NicsterComms
+2017-11-11 13:34:59 Favorites: Waiting for 6.5 minutes due to : Used up allowance in a loop
+2017-11-11 13:35:02 Tweets   : 99% at 38/sec for lenchs_trust
+2017-11-11 13:35:09 Friends  : 98.9% at 46/sec for NorthDevonHomes
+2017-11-11 13:35:21 Friends  : 99.8% at 40/sec for NottingHillHG
+2017-11-11 13:35:33 Friends  : 98.4% at 40/sec for nottmcityhomes
+2017-11-11 13:36:14 Tweets   : 62.2% at 45/sec for lisamoab
+2017-11-11 13:37:30 Tweets   : 12.1% at 42/sec for LonGreenParty
+2017-11-11 13:37:32 Friends  : 98.9% at 42/sec for onmybiketoo
+2017-11-11 13:37:40 Tweets   : 100% at 11/sec for Lydia_Dumont
+2017-11-11 13:37:55 Tweets   : 100% at 27/sec for lyha_joanna
+2017-11-11 13:38:16 Friends  : 99.8% at 39/sec for ovhousing
+2017-11-11 13:38:17 Friends  : Waiting for 9.8 minutes
+2017-11-11 13:39:04 Tweets   : 99.8% at 46/sec for lynnelqr
+2017-11-11 13:39:18 Tweets   : 100% at 30/sec for MarySfha
+2017-11-11 13:40:25 Tweets   : 99.9% at 46/sec for MelissaCBarber
+2017-11-11 13:40:54 Tweets   : 99.6% at 37/sec for MidlandsRural
+2017-11-11 13:41:00 Tweets   : 100% at 1/sec for mrbha_nottm
+2017-11-11 13:41:11 Tweets   : 100% at 15/sec for myhousinghat
+2017-11-11 13:41:25 Tweets   : 100% at 30/sec for natfedSara
+2017-11-11 13:41:43 Tweets   : 100% at 31/sec for NetworkRailPete
+2017-11-11 13:41:55 Favorites: 51.2% at 4/sec for MelissaCBarber
+2017-11-11 13:41:57 Favorites: 90.1% at 34/sec for MidlandsRural
+2017-11-11 13:41:57 Favorites: User mrbha_nottm has a protected account or no Favoritess to collect so skipping
+2017-11-11 13:42:03 Favorites: 100% at 15/sec for myhousinghat
+2017-11-11 13:42:04 Favorites: 88.9% at 31/sec for natfedSara
+2017-11-11 13:42:05 Favorites: 95.2% at 72/sec for NetworkRailPete
+2017-11-11 13:42:10 Tweets   : 99.9% at 32/sec for ni_knowles
+2017-11-11 13:42:14 Favorites: 60.3% at 44/sec for ni_knowles
+2017-11-11 13:42:19 Favorites: 85.5% at 49/sec for NicOceanHomeBuy
+2017-11-11 13:42:25 Tweets   : 99.7% at 25/sec for NicOceanHomeBuy
+2017-11-11 13:43:25 Favorites: 50.4% at 43/sec for NicsterComms
+2017-11-11 13:43:27 Favorites: 53.9% at 33/sec for NorthDevonHomes
+2017-11-11 13:43:35 Favorites: 51.4% at 40/sec for NottingHillHG
+2017-11-11 13:43:47 Tweets   : 45% at 39/sec for NicsterComms
+2017-11-11 13:43:50 Favorites: 55.1% at 47/sec for nottmcityhomes
+2017-11-11 13:44:16 Tweets   : 100% at 31/sec for NorthDevonHomes
+2017-11-11 13:44:31 Favorites: Waiting for 12.2 minutes due to : Used up allowance in a loop
+2017-11-11 13:45:25 Tweets   : 99.8% at 46/sec for NottingHillHG
+2017-11-11 13:46:34 Tweets   : 69.1% at 46/sec for nottmcityhomes
+2017-11-11 13:47:49 Tweets   : 5.7% at 43/sec for onmybiketoo
+2017-11-11 13:48:50 Tweets   : 99.6% at 40/sec for ovhousing
+2017-11-11 13:49:08 Friends  : 98.5% at 3/sec for owenjbennett
+2017-11-11 13:49:26 Friends  : 99.9% at 38/sec for ParadigmHousing
+2017-11-11 13:50:11 Tweets   : 14.1% at 40/sec for owenjbennett
+2017-11-11 13:50:45 Tweets   : 100% at 33/sec for ParadigmHousing
+2017-11-11 13:50:48 Friends  : 95.8% at 37/sec for PaulaW_BaH
+2017-11-11 13:51:02 Friends  : 96.3% at 34/sec for PaulGartlandHHA
+2017-11-11 13:51:17 Friends  : 100% at 34/sec for PeakValleyHA
+2017-11-11 13:51:35 Friends  : 97.8% at 32/sec for Peter_Dowd
+2017-11-11 13:51:39 Friends  : 100% at 25/sec for PFH_Hull
+2017-11-11 13:52:02 Tweets   : 18% at 42/sec for PaulaW_BaH
+2017-11-11 13:52:39 Tweets   : 99.9% at 41/sec for PaulGartlandHHA
+2017-11-11 13:53:08 Friends  : 99.3% at 40/sec for PioneersPost
+2017-11-11 13:53:29 Tweets   : 100% at 43/sec for PeakValleyHA
+2017-11-11 13:54:27 Friends  : 99.6% at 38/sec for RefugeCharity
+2017-11-11 13:54:46 Tweets   : 91.3% at 41/sec for Peter_Dowd
+2017-11-11 13:54:56 Friends  : 99.9% at 41/sec for richbramwell1
+2017-11-11 13:55:00 Friends  : 100% at 24/sec for RobCowley4
+2017-11-11 13:55:11 Tweets   : 100% at 36/sec for PFH_Hull
+2017-11-11 13:56:30 Tweets   : 11.5% at 40/sec for PioneersPost
+2017-11-11 13:57:13 Friends  : 98.8% at 34/sec for RobertBuckland
+2017-11-11 13:57:40 Favorites: 13.6% at 4/sec for onmybiketoo
+2017-11-11 13:57:47 Favorites: 67.5% at 44/sec for ovhousing
+2017-11-11 13:57:50 Favorites: 87% at 31/sec for owenjbennett
+2017-11-11 13:57:52 Favorites: 80% at 58/sec for ParadigmHousing
+2017-11-11 13:57:54 Friends  : 99% at 29/sec for RubySmith19
+2017-11-11 13:57:56 Tweets   : 18.3% at 37/sec for RefugeCharity
+2017-11-11 13:58:42 Friends  : 99.6% at 38/sec for RuralSolutions_
+2017-11-11 13:59:12 Friends  : 95.3% at 37/sec for RuralSussex
+2017-11-11 13:59:12 Friends  : Waiting for 4.3 minutes
+2017-11-11 13:59:12 Favorites: 27.2% at 39/sec for PaulaW_BaH
+2017-11-11 13:59:13 Tweets   : 71.3% at 42/sec for richbramwell1
+2017-11-11 13:59:20 Tweets   : 100% at 1/sec for RobCowley4
+2017-11-11 13:59:25 Favorites: 55.8% at 47/sec for PaulGartlandHHA
+2017-11-11 13:59:29 Favorites: 83.6% at 49/sec for PeakValleyHA
+2017-11-11 13:59:34 Favorites: 66.4% at 37/sec for Peter_Dowd
+2017-11-11 13:59:36 Favorites: 98.6% at 50/sec for PFH_Hull
+2017-11-11 14:00:01 Favorites: Waiting for 12 minutes due to : Used up allowance in a loop
+2017-11-11 14:00:29 Tweets   : 28% at 46/sec for RobertBuckland
+2017-11-11 14:01:39 Tweets   : 41% at 45/sec for RubySmith19
+2017-11-11 14:02:07 Tweets   : 99.4% at 36/sec for RuralSolutions_
+2017-11-11 14:02:31 Tweets   : 100% at 35/sec for RuralSussex
+2017-11-11 14:03:45 Friends  : 100% at 1/sec for SancSL
+2017-11-11 14:03:49 Tweets   : 86.5% at 41/sec for SancSL
+2017-11-11 14:03:55 Friends  : 98.9% at 44/sec for SarahPStaffsH
+2017-11-11 14:04:03 Tweets   : 99.4% at 23/sec for SarahPStaffsH
+2017-11-11 14:04:26 Friends  : 98.9% at 38/sec for SaranyaKog
+2017-11-11 14:04:33 Tweets   : 97.7% at 31/sec for SaranyaKog
+2017-11-11 14:04:37 Friends  : 100% at 33/sec for SazzerT
+2017-11-11 14:04:51 Tweets   : 99.1% at 26/sec for SazzerT
+2017-11-11 14:05:01 Friends  : 98.1% at 40/sec for seananstee
+2017-11-11 14:05:05 Friends  : 99.2% at 28/sec for SLHNews
+2017-11-11 14:05:15 Friends  : 99.2% at 37/sec for SouthwayHousing
+2017-11-11 14:05:22 Friends  : 98.7% at 31/sec for StephenMBull
+2017-11-11 14:05:34 Friends  : 98.9% at 38/sec for SunPolitics
+2017-11-11 14:06:01 Friends  : 99.2% at 38/sec for suzanne_DSmith
+2017-11-11 14:06:12 Tweets   : 83% at 39/sec for seananstee
+2017-11-11 14:06:23 Tweets   : 99.2% at 22/sec for SLHNews
+2017-11-11 14:07:07 Tweets   : 100% at 46/sec for SouthwayHousing
+2017-11-11 14:07:24 Tweets   : 100.4% at 33/sec for StephenMBull
+2017-11-11 14:08:28 Tweets   : 10.4% at 50/sec for SunPolitics
+2017-11-11 14:09:13 Tweets   : 99.7% at 40/sec for suzanne_DSmith
+2017-11-11 14:12:57 Favorites: 50.3% at 3/sec for PioneersPost
+2017-11-11 14:14:02 Favorites: 48.9% at 43/sec for RefugeCharity
+2017-11-11 14:14:12 Favorites: 60.9% at 52/sec for richbramwell1
+2017-11-11 14:14:12 Favorites: 100% at 14/sec for RobCowley4
+2017-11-11 14:14:36 Favorites: 53.5% at 45/sec for RobertBuckland
+2017-11-11 14:14:47 Favorites: 52.5% at 42/sec for RubySmith19
+2017-11-11 14:14:51 Favorites: 71.3% at 49/sec for RuralSolutions_
+2017-11-11 14:14:58 Favorites: 62.5% at 41/sec for RuralSussex
+2017-11-11 14:15:07 Favorites: Waiting for 12.3 minutes due to : Used up allowance in a loop
+2017-11-11 14:27:49 Favorites: 57.9% at 1/sec for SancSL
+2017-11-11 14:27:53 Favorites: 63.7% at 43/sec for SarahPStaffsH
+2017-11-11 14:28:10 Favorites: 48.1% at 45/sec for SaranyaKog
+2017-11-11 14:28:12 Favorites: 56.1% at 36/sec for SazzerT
+2017-11-11 14:28:33 Favorites: 52.3% at 42/sec for seananstee
+2017-11-11 14:28:35 Favorites: 87.7% at 39/sec for SLHNews
+2017-11-11 14:28:44 Favorites: 56.8% at 46/sec for SouthwayHousing
+2017-11-11 14:28:48 Favorites: 74.3% at 50/sec for StephenMBull
+2017-11-11 14:28:49 Favorites: 75% at 10/sec for SunPolitics
+2017-11-11 14:29:20 Favorites: 50% at 44/sec for suzanne_DSmith
+Warning message:
+Warning message:
+was built under R version 3.4.1 
+package 'twitteR' was built under R version 3.4.1 
+Warning message:
+package 'twitteR' was built under R version 3.4.1 

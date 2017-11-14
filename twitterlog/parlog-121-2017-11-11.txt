@@ -1,0 +1,174 @@
+starting worker pid=15696 on localhost:11045 at 17:39:35.731
+starting worker pid=16548 on localhost:11045 at 17:39:35.895
+starting worker pid=10200 on localhost:11045 at 17:39:36.052
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-11 17:41:29 Friends  : 99.8% at 35/sec for PHIUS1
+2017-11-11 17:42:16 Favorites: 64.5% at 50/sec for PHIUS1
+2017-11-11 17:42:49 Favorites: 53.1% at 30/sec for RDHBuildings
+2017-11-11 17:42:49 Favorites: 100% at 19/sec for retrofittcosy
+2017-11-11 17:42:55 Friends  : 99.6% at 35/sec for RDHBuildings
+2017-11-11 17:42:56 Friends  : 100% at 34/sec for retrofittcosy
+2017-11-11 17:43:02 Favorites: 54.5% at 39/sec for rgp_Ltd
+2017-11-11 17:43:05 Favorites: 100% at 25/sec for SarahEllenPrice
+2017-11-11 17:43:06 Favorites: 54.3% at 71/sec for sdtbell
+2017-11-11 17:43:09 Favorites: 100% at 15/sec for seesaw_studios
+2017-11-11 17:43:11 Favorites: 68% at 60/sec for SelfBuildDesign
+2017-11-11 17:43:14 Favorites: 65.4% at 31/sec for SIGA_UK_IE
+2017-11-11 17:43:17 Friends  : 99.1% at 33/sec for rgp_Ltd
+2017-11-11 17:43:24 Friends  : 98.3% at 26/sec for SarahEllenPrice
+2017-11-11 17:43:24 Favorites: 51.4% at 39/sec for SSoA_news
+2017-11-11 17:43:29 Friends  : 96.9% at 32/sec for sdtbell
+2017-11-11 17:43:40 Favorites: 52.3% at 37/sec for ThegreeneryLDN
+2017-11-11 17:43:41 Favorites: 20% at 21/sec for UArainbow
+2017-11-11 17:43:45 Favorites: 53.2% at 47/sec for UKCohousing
+2017-11-11 17:43:54 Friends  : 99.9% at 34/sec for seesaw_studios
+2017-11-11 17:44:10 Tweets   : 100% at 29/sec for PHIUS1
+2017-11-11 17:44:11 Favorites: 54.7% at 39/sec for UKRECltd
+2017-11-11 17:44:14 Favorites: 101% at 30/sec for warmcel
+2017-11-11 17:44:19 Favorites: 84.7% at 41/sec for whitehilldesign
+2017-11-11 17:44:19 Favorites: User WP_Housing has a protected account or no Favoritess to collect so skipping
+2017-11-11 17:44:25 Friends  : 100% at 35/sec for SelfBuildDesign
+2017-11-11 17:44:26 Favorites: 50.7% at 40/sec for LoLoCDT
+2017-11-11 17:44:27 Favorites: 100% at 55/sec for MEnS_H2020
+2017-11-11 17:44:28 Favorites: 100% at 47/sec for RetrofitScot
+2017-11-11 17:44:31 Favorites: 100% at 22/sec for ThermalEco
+2017-11-11 17:44:39 Friends  : 98.7% at 37/sec for SIGA_UK_IE
+2017-11-11 17:44:59 Friends  : 97.4% at 38/sec for SSoA_news
+2017-11-11 17:45:09 Friends  : 90.3% at 34/sec for ThegreeneryLDN
+2017-11-11 17:45:09 Friends  : Waiting for 5.8 minutes
+2017-11-11 17:45:25 Tweets   : 91% at 43/sec for RDHBuildings
+2017-11-11 17:45:26 Favorites: Waiting for 11.8 minutes due to : Used up allowance in a loop
+2017-11-11 17:45:32 Tweets   : 100% at 9/sec for retrofittcosy
+2017-11-11 17:46:02 Tweets   : 99.9% at 37/sec for rgp_Ltd
+2017-11-11 17:46:13 Tweets   : 100% at 23/sec for SarahEllenPrice
+2017-11-11 17:46:34 Tweets   : 100% at 30/sec for sdtbell
+2017-11-11 17:46:45 Tweets   : 100% at 22/sec for seesaw_studios
+2017-11-11 17:47:13 Tweets   : 99.5% at 32/sec for SelfBuildDesign
+2017-11-11 17:47:24 Tweets   : 100% at 16/sec for SIGA_UK_IE
+2017-11-11 17:48:37 Tweets   : 72.8% at 43/sec for SSoA_news
+2017-11-11 17:49:04 Tweets   : 100% at 37/sec for ThegreeneryLDN
+2017-11-11 17:50:13 Tweets   : 14.5% at 46/sec for UArainbow
+2017-11-11 17:51:28 Tweets   : 92.6% at 43/sec for UKCohousing
+2017-11-11 17:51:48 Friends  : 99.9% at 4/sec for UArainbow
+2017-11-11 17:52:16 Friends  : 99.4% at 40/sec for UKCohousing
+2017-11-11 17:52:52 Tweets   : 72.4% at 38/sec for UKRECltd
+2017-11-11 17:53:03 Tweets   : 100% at 13/sec for warmcel
+2017-11-11 17:53:19 Tweets   : 99.7% at 22/sec for whitehilldesign
+2017-11-11 17:53:25 Friends  : 96.9% at 37/sec for UKRECltd
+2017-11-11 17:53:26 Tweets   : 100% at 3/sec for WP_Housing
+2017-11-11 17:53:32 Friends  : 95.2% at 33/sec for warmcel
+2017-11-11 17:53:39 Friends  : 99.6% at 34/sec for whitehilldesign
+2017-11-11 17:53:41 Friends  : 95.9% at 41/sec for WP_Housing
+2017-11-11 17:54:26 Friends  : 99% at 35/sec for LoLoCDT
+2017-11-11 17:54:27 Tweets   : 100% at 31/sec for LoLoCDT
+2017-11-11 17:54:30 Friends  : 98.3% at 39/sec for MEnS_H2020
+2017-11-11 17:54:40 Tweets   : 100% at 29/sec for MEnS_H2020
+2017-11-11 17:54:43 Friends  : 100% at 33/sec for RetrofitScot
+2017-11-11 17:54:48 Friends  : 98.1% at 40/sec for ThermalEco
+2017-11-11 17:55:09 Tweets   : 99.8% at 35/sec for RetrofitScot
+2017-11-11 17:55:24 Friends  : 98.9% at 35/sec for 2017Hull
+2017-11-11 17:55:32 Tweets   : 99.9% at 38/sec for ThermalEco
+2017-11-11 17:56:45 Tweets   : 20.3% at 44/sec for 2017Hull
+2017-11-11 17:57:57 Favorites: 48.4% at 4/sec for 2017Hull
+2017-11-11 17:58:09 Tweets   : 12.8% at 38/sec for 78Derngate
+2017-11-11 17:58:16 Tweets   : 100% at 3/sec for ACE_President1
+2017-11-11 17:58:43 Favorites: 10.9% at 39/sec for 78Derngate
+2017-11-11 17:58:43 Favorites: 100% at 10/sec for ACE_President1
+2017-11-11 17:59:00 Favorites: 50.8% at 41/sec for AdremGroup
+2017-11-11 17:59:00 Friends  : 96% at 40/sec for 78Derngate
+2017-11-11 17:59:03 Favorites: 98% at 30/sec for AdrianDobson
+2017-11-11 17:59:04 Friends  : 97% at 8/sec for ACE_President1
+2017-11-11 17:59:04 Favorites: 100% at 62/sec for AdrianJamesArch
+2017-11-11 17:59:28 Favorites: 50.1% at 38/sec for AHMMArchitects
+2017-11-11 17:59:33 Favorites: 64.8% at 40/sec for AlexScottWhitby
+2017-11-11 17:59:41 Favorites: 72% at 38/sec for AliceP_BDP
+2017-11-11 17:59:41 Favorites: 100% at 29/sec for alisondarvill
+2017-11-11 17:59:47 Tweets   : 50.9% at 35/sec for AdremGroup
+2017-11-11 17:59:49 Favorites: 52.5% at 38/sec for alliesmorrison
+2017-11-11 17:59:54 Favorites: 55.9% at 43/sec for alsctt
+2017-11-11 17:59:57 Favorites: 81.3% at 32/sec for Arch_Today
+2017-11-11 17:59:58 Favorites: 100% at 34/sec for ArchitectLGBT
+2017-11-11 18:00:07 Friends  : 99.9% at 43/sec for AdremGroup
+2017-11-11 18:00:08 Friends  : Waiting for 6 minutes
+2017-11-11 18:00:12 Favorites: 53.6% at 42/sec for ArchReview
+2017-11-11 18:00:28 Favorites: Waiting for 11.9 minutes due to : Used up allowance in a loop
+2017-11-11 18:00:35 Tweets   : 100% at 33/sec for AdrianDobson
+2017-11-11 18:00:45 Tweets   : 100% at 10/sec for AdrianJamesArch
+2017-11-11 18:01:34 Tweets   : 99.9% at 35/sec for AHMMArchitects
+2017-11-11 18:02:09 Tweets   : 100% at 29/sec for AlexScottWhitby
+2017-11-11 18:02:23 Tweets   : 99.8% at 29/sec for AliceP_BDP
+2017-11-11 18:02:34 Tweets   : 100% at 18/sec for alisondarvill
+2017-11-11 18:02:59 Tweets   : 99.5% at 39/sec for alliesmorrison
+2017-11-11 18:03:09 Tweets   : 100% at 20/sec for alsctt
+2017-11-11 18:03:38 Tweets   : 99.9% at 41/sec for Arch_Today
+2017-11-11 18:03:45 Tweets   : 100% at 5/sec for ArchitectLGBT
+2017-11-11 18:04:57 Tweets   : 16.9% at 44/sec for ArchReview
+2017-11-11 18:06:11 Tweets   : 88.8% at 43/sec for ArperOfficial
+2017-11-11 18:06:16 Friends  : 100% at 0/sec for AdrianDobson
+2017-11-11 18:06:21 Friends  : 99.5% at 40/sec for AdrianJamesArch
+2017-11-11 18:06:39 Friends  : 98.9% at 41/sec for AHMMArchitects
+2017-11-11 18:06:39 Tweets   : 100% at 32/sec for ArupAssociates
+2017-11-11 18:06:53 Friends  : 98.9% at 44/sec for AlexScottWhitby
+2017-11-11 18:07:18 Friends  : 98.8% at 41/sec for AliceP_BDP
+2017-11-11 18:07:19 Friends  : 100% at 36/sec for alisondarvill
+2017-11-11 18:07:31 Tweets   : 100% at 37/sec for AssaelArchitect
+2017-11-11 18:07:33 Friends  : 99.3% at 39/sec for alliesmorrison
+2017-11-11 18:07:41 Friends  : 98.1% at 39/sec for alsctt
+2017-11-11 18:07:53 Tweets   : 100% at 31/sec for BaobabDevs
+2017-11-11 18:07:55 Friends  : 99.6% at 40/sec for Arch_Today
+Error in twInterfaceObj$doAPICall(paste("users", "show", sep = "/"), params = params,  : 
+  Not Found (HTTP 404).
+In addition: Warning message:
+package 'twitteR' was built under R version 3.4.1 
+2017-11-11 18:07:55 Friends: Unable to find account ArchitectLGBT moving to next
+2017-11-11 18:07:55 Friends  : % at /sec for ArchitectLGBT
+2017-11-11 18:08:03 Tweets   : 100% at 19/sec for BarbaraWeissArc
+2017-11-11 18:08:47 Friends  : 99.6% at 42/sec for ArchReview
+2017-11-11 18:09:23 Tweets   : 3.8% at 40/sec for basque_design
+2017-11-11 18:09:55 Friends  : 99.7% at 41/sec for ArperOfficial
+2017-11-11 18:10:08 Tweets   : 100% at 34/sec for basystemsUK
+2017-11-11 18:10:10 Friends  : 100% at 40/sec for ArupAssociates
+2017-11-11 18:10:27 Friends  : 99.7% at 40/sec for AssaelArchitect
+2017-11-11 18:10:49 Friends  : 99% at 36/sec for BaobabDevs
+2017-11-11 18:10:59 Friends  : 100% at 37/sec for BarbaraWeissArc
+2017-11-11 18:10:59 Friends  : Waiting for 10.3 minutes
+2017-11-11 18:11:28 Tweets   : 20% at 40/sec for bbcarts
+2017-11-11 18:12:42 Tweets   : 7.5% at 43/sec for bbcmerseyside
+2017-11-11 18:13:13 Favorites: 51.7% at 3/sec for ArperOfficial
+2017-11-11 18:13:24 Favorites: 57.9% at 37/sec for ArupAssociates
+2017-11-11 18:13:31 Favorites: 52.5% at 39/sec for AssaelArchitect
+2017-11-11 18:13:36 Favorites: 51.3% at 44/sec for BaobabDevs
+2017-11-11 18:13:37 Favorites: 100% at 68/sec for BarbaraWeissArc
+2017-11-11 18:13:39 Favorites: 100% at 19/sec for basque_design
+2017-11-11 18:13:41 Favorites: 100% at 65/sec for basystemsUK
+2017-11-11 18:14:07 Tweets   : 32.4% at 38/sec for benmcknight61
+2017-11-11 18:14:12 Favorites: 52.4% at 38/sec for bbcarts
+2017-11-11 18:14:16 Favorites: 84.8% at 48/sec for bbcmerseyside
+2017-11-11 18:14:34 Tweets   : 100% at 32/sec for bi_ozet
+2017-11-11 18:15:03 Tweets   : 99.2% at 30/sec for BlockWorksYT
+2017-11-11 18:15:30 Favorites: 50.7% at 40/sec for benmcknight61
+2017-11-11 18:15:31 Favorites: 100% at 56/sec for bi_ozet
+2017-11-11 18:15:39 Favorites: Waiting for 12 minutes due to : Used up allowance in a loop
+2017-11-11 18:16:22 Tweets   : 31.2% at 40/sec for BlueprintCSA
+2017-11-11 18:17:14 Tweets   : 99.9% at 36/sec for bowmanrileyarch
+Error in twInterfaceObj$doAPICall(paste("users", "show", sep = "/"), params = params,  : 
+  Not Found (HTTP 404).
+2017-11-11 18:21:25 Friends: Unable to find account basque_design moving to next
+2017-11-11 18:21:25 Friends  : % at /sec for basque_design
+2017-11-11 18:21:35 Friends  : 95% at 40/sec for basystemsUK
+2017-11-11 18:22:13 Friends  : 99.7% at 42/sec for bbcarts
+2017-11-11 18:23:01 Friends  : 99.2% at 38/sec for bbcmerseyside
+2017-11-11 18:23:46 Friends  : 98.7% at 40/sec for benmcknight61
+2017-11-11 18:23:56 Friends  : 99% at 41/sec for bi_ozet
+2017-11-11 18:24:07 Friends  : 99.2% at 44/sec for BlockWorksYT
+2017-11-11 18:25:51 Friends  : 97.1% at 46/sec for BlueprintCSA
+2017-11-11 18:26:30 Friends  : 97.3% at 45/sec for bowmanrileyarch
+2017-11-11 18:27:59 Favorites: 51.4% at 1/sec for BlockWorksYT
+2017-11-11 18:28:03 Favorites: 71.6% at 47/sec for BlueprintCSA
+2017-11-11 18:28:21 Favorites: 55.9% at 44/sec for bowmanrileyarch
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+Warning message:
+package 'twitteR' was built under R version 3.4.1 

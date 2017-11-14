@@ -1,0 +1,169 @@
+starting worker pid=10528 on localhost:11045 at 15:27:14.979
+starting worker pid=11012 on localhost:11045 at 15:27:15.136
+starting worker pid=8292 on localhost:11045 at 15:27:15.308
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-11 15:28:57 Friends  : 98.7% at 36/sec for AConnollyLtd
+Error in twInterfaceObj$doAPICall(paste("users", "show", sep = "/"), params = params,  : 
+  Not Found (HTTP 404).
+In addition: Warning message:
+package 'twitteR' was built under R version 3.4.1 
+2017-11-11 15:28:58 Friends: Unable to find account ADCLGROUPLONDON moving to next
+2017-11-11 15:28:58 Friends  : % at /sec for ADCLGROUPLONDON
+2017-11-11 15:30:08 Favorites: 54.2% at 32/sec for AConnollyLtd
+2017-11-11 15:30:11 Favorites: 98.9% at 27/sec for ADCLGROUPLONDON
+2017-11-11 15:31:35 Favorites: 36.5% at 38/sec for allaboutsuffolk
+2017-11-11 15:31:49 Favorites: 56.4% at 37/sec for angryfairycake
+2017-11-11 15:31:50 Tweets   : 99.4% at 30/sec for AConnollyLtd
+2017-11-11 15:31:52 Favorites: 97.6% at 27/sec for ApexMasonryLtd
+2017-11-11 15:31:53 Favorites: 65.8% at 75/sec for BFM_Magazine
+2017-11-11 15:31:58 Favorites: 60.4% at 40/sec for britcon_limited
+2017-11-11 15:31:58 Tweets   : 98.4% at 8/sec for ADCLGROUPLONDON
+2017-11-11 15:32:01 Favorites: 56.7% at 33/sec for CCIHWYAwards
+2017-11-11 15:32:05 Favorites: 85% at 46/sec for CCS_org
+2017-11-11 15:32:13 Favorites: 51.5% at 35/sec for childsafetyweek
+2017-11-11 15:32:15 Favorites: 98.4% at 54/sec for ConstructionCG
+2017-11-11 15:32:18 Favorites: 56.8% at 29/sec for CPPartnersLLP
+2017-11-11 15:32:19 Favorites: 100% at 34/sec for D_C_Awards
+2017-11-11 15:32:22 Favorites: 68% at 32/sec for dftoday
+2017-11-11 15:32:33 Friends  : 91% at 36/sec for allaboutsuffolk
+2017-11-11 15:32:39 Friends  : 96.4% at 37/sec for angryfairycake
+2017-11-11 15:32:44 Friends  : 96.6% at 31/sec for ApexMasonryLtd
+2017-11-11 15:33:03 Favorites: Waiting for 11.8 minutes due to : Used up allowance in a loop
+2017-11-11 15:33:05 Friends  : 98.5% at 46/sec for BFM_Magazine
+2017-11-11 15:33:09 Friends  : 98.1% at 37/sec for britcon_limited
+2017-11-11 15:33:09 Friends  : Waiting for 1.4 minutes
+2017-11-11 15:33:12 Tweets   : 74.2% at 43/sec for allaboutsuffolk
+2017-11-11 15:33:34 Tweets   : 100% at 33/sec for angryfairycake
+2017-11-11 15:33:44 Tweets   : 100% at 18/sec for ApexMasonryLtd
+2017-11-11 15:34:16 Tweets   : 99.9% at 41/sec for BFM_Magazine
+2017-11-11 15:34:30 Tweets   : 100% at 29/sec for britcon_limited
+2017-11-11 15:34:50 Tweets   : 98.4% at 30/sec for CCIHWYAwards
+2017-11-11 15:35:09 Friends  : 99.6% at 14/sec for CCIHWYAwards
+2017-11-11 15:35:29 Tweets   : 100% at 44/sec for CCS_org
+2017-11-11 15:36:37 Tweets   : 99.4% at 43/sec for childsafetyweek
+2017-11-11 15:36:46 Friends  : 97.1% at 46/sec for CCS_org
+2017-11-11 15:36:50 Tweets   : 99.7% at 26/sec for ConstructionCG
+2017-11-11 15:37:26 Tweets   : 99.5% at 41/sec for CPPartnersLLP
+2017-11-11 15:37:31 Friends  : 99.9% at 44/sec for childsafetyweek
+2017-11-11 15:37:33 Tweets   : 100% at 4/sec for D_C_Awards
+2017-11-11 15:37:39 Friends  : 98.5% at 35/sec for ConstructionCG
+2017-11-11 15:37:49 Friends  : 98% at 49/sec for CPPartnersLLP
+2017-11-11 15:38:01 Friends  : 98.7% at 37/sec for D_C_Awards
+2017-11-11 15:38:19 Friends  : 100% at 42/sec for dftoday
+2017-11-11 15:38:23 Friends  : 100% at 39/sec for DomLittlewood
+2017-11-11 15:38:27 Friends  : 95.9% at 29/sec for EstherMcVey1
+2017-11-11 15:38:44 Tweets   : 100% at 44/sec for dftoday
+2017-11-11 15:39:39 Tweets   : 99.6% at 42/sec for DomLittlewood
+2017-11-11 15:40:04 Tweets   : 99.8% at 32/sec for EstherMcVey1
+2017-11-11 15:40:21 Friends  : 97.8% at 43/sec for FinanceConrad
+2017-11-11 15:40:54 Friends  : 99.9% at 39/sec for guardiannews
+2017-11-11 15:41:01 Friends  : 100% at 32/sec for HenryBootPLC
+2017-11-11 15:41:21 Tweets   : 80.7% at 41/sec for FinanceConrad
+2017-11-11 15:41:28 Friends  : 100% at 40/sec for iainwithers
+2017-11-11 15:41:51 Friends  : 99.6% at 37/sec for iloveclaims
+2017-11-11 15:42:34 Tweets   : 2% at 44/sec for guardiannews
+2017-11-11 15:42:59 Tweets   : 99.9% at 28/sec for HenryBootPLC
+2017-11-11 15:43:09 Friends  : 97.6% at 38/sec for JackDromeyMP
+2017-11-11 15:43:09 Friends  : Waiting for 6.5 minutes
+2017-11-11 15:43:35 Tweets   : 99.8% at 47/sec for iainwithers
+2017-11-11 15:44:44 Tweets   : 74.2% at 47/sec for iloveclaims
+2017-11-11 15:45:16 Favorites: 47.8% at 2/sec for DomLittlewood
+2017-11-11 15:45:22 Favorites: 99% at 16/sec for EstherMcVey1
+2017-11-11 15:45:31 Favorites: 53.2% at 42/sec for FinanceConrad
+2017-11-11 15:45:32 Favorites: 100% at 25/sec for guardiannews
+2017-11-11 15:45:35 Favorites: 79.8% at 32/sec for HenryBootPLC
+2017-11-11 15:45:36 Favorites: 100% at 18/sec for iainwithers
+2017-11-11 15:45:48 Favorites: 58.6% at 41/sec for iloveclaims
+2017-11-11 15:45:54 Favorites: 51.6% at 50/sec for JackDromeyMP
+2017-11-11 15:45:54 Favorites: 100% at 29/sec for jgmolloy
+2017-11-11 15:45:55 Tweets   : 31% at 45/sec for JackDromeyMP
+2017-11-11 15:45:57 Favorites: 64.9% at 38/sec for jrp_info
+2017-11-11 15:45:58 Favorites: 100% at 39/sec for LangtonsLtd
+2017-11-11 15:46:03 Tweets   : 100% at 4/sec for jgmolloy
+2017-11-11 15:46:09 Favorites: 48.9% at 41/sec for Mecalac_CE
+2017-11-11 15:46:14 Favorites: 72.5% at 45/sec for MoultonWBL
+2017-11-11 15:46:23 Favorites: 58.9% at 44/sec for N_EnglandBuild
+2017-11-11 15:46:26 Favorites: 100% at 31/sec for NMLTD
+2017-11-11 15:46:29 Favorites: 55.9% at 34/sec for Ploughcroft
+2017-11-11 15:46:30 Favorites: 99% at 66/sec for PRIMEsystems
+2017-11-11 15:46:40 Favorites: 61.1% at 38/sec for ProjCompassEU
+2017-11-11 15:46:45 Favorites: 70.4% at 46/sec for PropertyAspects
+2017-11-11 15:46:49 Favorites: 55.7% at 45/sec for Rachel_wates
+2017-11-11 15:46:50 Favorites: 100% at 39/sec for Reside_construc
+2017-11-11 15:46:59 Favorites: 58% at 45/sec for RetrofitWorks
+2017-11-11 15:47:02 Favorites: 72.6% at 30/sec for RKMSUK
+2017-11-11 15:47:03 Favorites: 65.4% at 66/sec for Stepnellltd
+2017-11-11 15:47:03 Favorites: User threepinesbuild has a protected account or no Favoritess to collect so skipping
+2017-11-11 15:47:09 Favorites: 52.5% at 33/sec for TmdpGroup
+2017-11-11 15:47:11 Favorites: 56.9% at 56/sec for Trade_Bridge
+2017-11-11 15:47:16 Favorites: 61.2% at 45/sec for WallKatie
+2017-11-11 15:47:18 Tweets   : 31.2% at 43/sec for jrp_info
+2017-11-11 15:47:18 Favorites: 100% at 16/sec for WatsonClare51
+2017-11-11 15:47:19 Favorites: 92.3% at 23/sec for WynPrichard
+2017-11-11 15:47:19 Favorites: 100% at 23/sec for AcaraConcepts
+2017-11-11 15:47:20 Favorites: 100% at 44/sec for AdaptLowCarbon
+2017-11-11 15:47:27 Tweets   : 99.4% at 18/sec for LangtonsLtd
+2017-11-11 15:47:33 Favorites: 53.4% at 46/sec for AFL_tweet
+2017-11-11 15:47:39 Favorites: 51.6% at 34/sec for AlexMaurer99
+2017-11-11 15:47:40 Favorites: 100% at 67/sec for AlexWhitcroft
+2017-11-11 15:47:43 Favorites: 50% at 33/sec for AminaAriana
+2017-11-11 15:48:19 Tweets   : 99.9% at 40/sec for Mecalac_CE
+2017-11-11 15:48:42 Tweets   : 99.7% at 30/sec for MoultonWBL
+2017-11-11 15:49:25 Tweets   : 99.7% at 36/sec for N_EnglandBuild
+2017-11-11 15:49:52 Friends  : 100% at 0/sec for jgmolloy
+2017-11-11 15:50:16 Tweets   : 99.9% at 36/sec for NMLTD
+2017-11-11 15:50:51 Friends  : 99.3% at 48/sec for jrp_info
+2017-11-11 15:51:05 Tweets   : 100% at 44/sec for Ploughcroft
+2017-11-11 15:51:33 Friends  : 99.8% at 46/sec for LangtonsLtd
+2017-11-11 15:51:50 Friends  : 99.5% at 44/sec for Mecalac_CE
+2017-11-11 15:51:59 Friends  : 97.1% at 41/sec for MoultonWBL
+2017-11-11 15:52:13 Tweets   : 17.8% at 47/sec for PRIMEsystems
+2017-11-11 15:53:28 Tweets   : 65.2% at 43/sec for ProjCompassEU
+2017-11-11 15:53:31 Friends  : 98.8% at 44/sec for N_EnglandBuild
+2017-11-11 15:53:51 Friends  : 99.4% at 43/sec for NMLTD
+2017-11-11 15:54:27 Friends  : 99.6% at 41/sec for Ploughcroft
+2017-11-11 15:54:49 Tweets   : 18.7% at 40/sec for PropertyAspects
+2017-11-11 15:55:17 Friends  : 97.7% at 41/sec for PRIMEsystems
+2017-11-11 15:55:19 Tweets   : 99.8% at 32/sec for Rachel_wates
+2017-11-11 15:55:31 Friends  : 99.8% at 41/sec for ProjCompassEU
+2017-11-11 15:55:37 Tweets   : 100% at 28/sec for Reside_construc
+2017-11-11 15:56:11 Tweets   : 99.7% at 34/sec for RetrofitWorks
+2017-11-11 15:57:02 Tweets   : 99.6% at 35/sec for RKMSUK
+2017-11-11 15:57:11 Tweets   : 100% at 12/sec for Stepnellltd
+2017-11-11 15:57:20 Tweets   : 100% at 6/sec for threepinesbuild
+2017-11-11 15:57:32 Tweets   : 100% at 18/sec for TmdpGroup
+2017-11-11 15:57:47 Tweets   : 100% at 24/sec for Trade_Bridge
+2017-11-11 15:57:56 Tweets   : 100% at 15/sec for WallKatie
+2017-11-11 15:58:05 Tweets   : 100% at 9/sec for WatsonClare51
+2017-11-11 15:58:13 Friends  : 95.1% at 41/sec for PropertyAspects
+2017-11-11 15:58:30 Friends  : 96% at 38/sec for Rachel_wates
+2017-11-11 15:58:54 Friends  : 99.2% at 36/sec for Reside_construc
+2017-11-11 15:59:17 Tweets   : 29.8% at 45/sec for WynPrichard
+2017-11-11 15:59:26 Tweets   : 100% at 9/sec for AcaraConcepts
+2017-11-11 15:59:40 Tweets   : 100% at 25/sec for AdaptLowCarbon
+2017-11-11 15:59:49 Friends  : 98.8% at 37/sec for RetrofitWorks
+2017-11-11 15:59:50 Friends  : Waiting for 5 minutes
+2017-11-11 16:00:06 Tweets   : 100% at 38/sec for AFL_tweet
+2017-11-11 16:01:13 Tweets   : 94.5% at 48/sec for AlexMaurer99
+2017-11-11 16:01:30 Tweets   : 100% at 32/sec for AlexWhitcroft
+2017-11-11 16:01:40 Tweets   : 100% at 13/sec for AminaAriana
+2017-11-11 16:05:46 Friends  : 99% at 6/sec for RKMSUK
+2017-11-11 16:05:47 Friends  : 100% at 16/sec for Stepnellltd
+2017-11-11 16:05:49 Friends  : 100% at 28/sec for threepinesbuild
+2017-11-11 16:05:58 Friends  : 96% at 35/sec for TmdpGroup
+2017-11-11 16:06:12 Friends  : 99.7% at 50/sec for Trade_Bridge
+2017-11-11 16:06:19 Friends  : 96.2% at 37/sec for WallKatie
+2017-11-11 16:06:21 Friends  : 100% at 29/sec for WatsonClare51
+2017-11-11 16:06:46 Friends  : 98.8% at 45/sec for WynPrichard
+2017-11-11 16:06:48 Friends  : 99% at 50/sec for AcaraConcepts
+2017-11-11 16:06:54 Friends  : 100% at 40/sec for AdaptLowCarbon
+2017-11-11 16:07:18 Friends  : 98% at 49/sec for AFL_tweet
+2017-11-11 16:07:25 Friends  : 98.9% at 48/sec for AlexMaurer99
+2017-11-11 16:07:36 Friends  : 100% at 31/sec for AlexWhitcroft
+2017-11-11 16:07:42 Friends  : 99.6% at 43/sec for AminaAriana
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+Warning message:
+package 'twitteR' was built under R version 3.4.1 

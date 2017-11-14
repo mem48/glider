@@ -1,0 +1,168 @@
+starting worker pid=18420 on localhost:11045 at 00:22:23.667
+starting worker pid=16112 on localhost:11045 at 00:22:23.823
+starting worker pid=20624 on localhost:11045 at 00:22:23.989
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-12 00:24:03 Friends  : 99.2% at 26/sec for ParkinsonRE
+2017-11-12 00:25:09 Favorites: 77.2% at 35/sec for ParkinsonRE
+2017-11-12 00:26:05 Favorites: 51.1% at 35/sec for ParqEx
+2017-11-12 00:26:31 Favorites: 49.5% at 43/sec for passionforhomes
+2017-11-12 00:26:34 Favorites: 57.1% at 31/sec for PatersonLorella
+2017-11-12 00:26:38 Favorites: 88.4% at 42/sec for paulreaneycbs
+2017-11-12 00:26:45 Favorites: 52.3% at 46/sec for PenningtonCh
+2017-11-12 00:26:52 Favorites: 56.6% at 43/sec for PennycuickColl
+2017-11-12 00:26:53 Tweets   : 100% at 19/sec for ParkinsonRE
+2017-11-12 00:27:14 Favorites: 49.4% at 44/sec for PerezSoraya
+2017-11-12 00:27:18 Favorites: 76.3% at 29/sec for pjnross
+2017-11-12 00:27:21 Favorites: Waiting for 6.2 minutes due to : Used up allowance in a loop
+2017-11-12 00:28:00 Tweets   : 52.8% at 48/sec for ParqEx
+2017-11-12 00:29:11 Tweets   : 9.8% at 45/sec for passionforhomes
+2017-11-12 00:29:26 Tweets   : 100% at 32/sec for PatersonLorella
+2017-11-12 00:29:30 Friends  : 98.8% at 39/sec for ParqEx
+2017-11-12 00:30:09 Tweets   : 100% at 51/sec for paulreaneycbs
+2017-11-12 00:30:27 Tweets   : 99.7% at 40/sec for PenningtonCh
+2017-11-12 00:30:56 Tweets   : 100% at 44/sec for PennycuickColl
+2017-11-12 00:32:05 Tweets   : 44.6% at 46/sec for PerezSoraya
+2017-11-12 00:32:28 Tweets   : 99.7% at 35/sec for pjnross
+2017-11-12 00:33:40 Tweets   : 24.9% at 44/sec for plotr_uk
+2017-11-12 00:33:59 Favorites: 58.4% at 1/sec for plotr_uk
+2017-11-12 00:34:09 Favorites: 55.7% at 40/sec for Prettys_Law
+2017-11-12 00:34:50 Tweets   : 69.2% at 45/sec for Prettys_Law
+2017-11-12 00:35:03 Favorites: 50% at 42/sec for propnews
+2017-11-12 00:35:04 Favorites: 100% at 23/sec for PrykeAndrew
+2017-11-12 00:35:20 Favorites: 53% at 43/sec for Ragnarly
+2017-11-12 00:35:24 Favorites: 52.9% at 28/sec for remitaw
+2017-11-12 00:35:33 Friends  : 98.4% at 37/sec for passionforhomes
+2017-11-12 00:35:39 Friends  : 100% at 32/sec for PatersonLorella
+2017-11-12 00:35:42 Friends  : 100% at 42/sec for paulreaneycbs
+2017-11-12 00:36:09 Tweets   : 16.8% at 41/sec for propnews
+2017-11-12 00:36:19 Tweets   : 100% at 17/sec for PrykeAndrew
+2017-11-12 00:36:38 Friends  : 93.9% at 38/sec for PenningtonCh
+2017-11-12 00:36:39 Favorites: 20.9% at 43/sec for richardkendall
+2017-11-12 00:36:42 Favorites: 100% at 24/sec for RICSLatina
+2017-11-12 00:36:43 Favorites: 100% at 55/sec for RICSMatricsGlos
+2017-11-12 00:36:43 Favorites: Waiting for 12 minutes due to : Used up allowance in a loop
+2017-11-12 00:37:09 Friends  : 99.7% at 38/sec for PennycuickColl
+2017-11-12 00:37:22 Friends  : 98.2% at 34/sec for PerezSoraya
+2017-11-12 00:37:29 Friends  : 98.1% at 33/sec for pjnross
+2017-11-12 00:37:34 Tweets   : 24.7% at 43/sec for Ragnarly
+2017-11-12 00:38:38 Friends  : 100% at 35/sec for plotr_uk
+2017-11-12 00:38:47 Tweets   : 93.9% at 44/sec for remitaw
+2017-11-12 00:39:27 Friends  : 98.3% at 37/sec for Prettys_Law
+2017-11-12 00:40:02 Tweets   : 6.6% at 42/sec for richardkendall
+2017-11-12 00:40:15 Friends  : 98% at 36/sec for propnews
+2017-11-12 00:40:16 Friends  : 100% at 25/sec for PrykeAndrew
+2017-11-12 00:40:28 Tweets   : 100% at 40/sec for RICSLatina
+2017-11-12 00:40:28 Friends  : 95.2% at 32/sec for Ragnarly
+2017-11-12 00:40:34 Tweets   : 100% at 11/sec for RICSMatricsGlos
+2017-11-12 00:40:49 Friends  : 99.9% at 34/sec for remitaw
+2017-11-12 00:40:49 Friends  : Waiting for 3.8 minutes
+2017-11-12 00:40:59 Tweets   : 100% at 38/sec for RICSNI
+2017-11-12 00:41:24 Tweets   : 100% at 39/sec for RICSNorthWest
+2017-11-12 00:41:45 Tweets   : 100% at 37/sec for rm_kearney
+2017-11-12 00:42:50 Tweets   : 99.9% at 44/sec for RobMahoney50
+2017-11-12 00:43:09 Tweets   : 99.9% at 37/sec for RunSmartRich
+2017-11-12 00:43:51 Tweets   : 99.7% at 47/sec for samsurveyor
+2017-11-12 00:45:00 Tweets   : 96.4% at 47/sec for sarahrocklaw
+2017-11-12 00:45:40 Tweets   : 99.6% at 40/sec for SheiladeCordova
+2017-11-12 00:46:07 Tweets   : 99.2% at 32/sec for SheSurveys
+2017-11-12 00:46:22 Friends  : 99.4% at 10/sec for richardkendall
+2017-11-12 00:46:33 Friends  : 100% at 14/sec for RICSLatina
+2017-11-12 00:46:35 Friends  : 100% at 38/sec for RICSMatricsGlos
+2017-11-12 00:46:47 Friends  : 96.3% at 45/sec for RICSNI
+2017-11-12 00:47:22 Tweets   : 8.7% at 43/sec for SimonMoores
+2017-11-12 00:47:38 Friends  : 96.3% at 43/sec for RICSNorthWest
+2017-11-12 00:47:49 Friends  : 98.5% at 40/sec for rm_kearney
+2017-11-12 00:47:54 Friends  : 98.7% at 31/sec for RobMahoney50
+2017-11-12 00:48:12 Friends  : 99.2% at 43/sec for RunSmartRich
+2017-11-12 00:48:38 Tweets   : 28% at 42/sec for SimplyLetLtd
+2017-11-12 00:48:48 Friends  : 99.3% at 42/sec for samsurveyor
+2017-11-12 00:49:12 Favorites: 82.2% at 0/sec for RICSNI
+2017-11-12 00:49:13 Favorites: 74.1% at 63/sec for RICSNorthWest
+2017-11-12 00:49:32 Favorites: 51.6% at 41/sec for rm_kearney
+2017-11-12 00:49:33 Tweets   : 99.9% at 38/sec for skimmod
+2017-11-12 00:49:37 Favorites: 49.7% at 40/sec for RobMahoney50
+2017-11-12 00:49:43 Favorites: 51.4% at 38/sec for RunSmartRich
+2017-11-12 00:49:43 Tweets   : 100% at 15/sec for SLofthouseMRICS
+2017-11-12 00:49:47 Friends  : 98% at 38/sec for sarahrocklaw
+2017-11-12 00:49:54 Favorites: 46.8% at 43/sec for samsurveyor
+2017-11-12 00:49:59 Tweets   : 99.8% at 36/sec for SoniaDesloges
+2017-11-12 00:50:01 Friends  : 99% at 36/sec for SheiladeCordova
+2017-11-12 00:50:16 Favorites: 50.1% at 44/sec for sarahrocklaw
+2017-11-12 00:50:30 Favorites: 51.7% at 37/sec for SheiladeCordova
+2017-11-12 00:50:36 Tweets   : 99.9% at 41/sec for StefanMordue
+2017-11-12 00:50:50 Tweets   : 98.4% at 31/sec for stephenalbin
+2017-11-12 00:50:59 Favorites: 52.2% at 43/sec for SheSurveys
+2017-11-12 00:51:01 Tweets   : 100% at 23/sec for stuart_coy
+2017-11-12 00:51:11 Friends  : 98% at 40/sec for SheSurveys
+2017-11-12 00:51:25 Friends  : 99.1% at 41/sec for SimonMoores
+2017-11-12 00:51:26 Tweets   : 100% at 36/sec for stwoods12
+2017-11-12 00:51:34 Friends  : 98.1% at 35/sec for SimplyLetLtd
+2017-11-12 00:51:51 Friends  : 95.8% at 34/sec for skimmod
+2017-11-12 00:51:51 Friends  : Waiting for 7.9 minutes
+2017-11-12 00:51:58 Favorites: Waiting for 12.2 minutes due to : Used up allowance in a loop
+2017-11-12 00:52:04 Tweets   : 99.6% at 44/sec for Survey_Solution
+2017-11-12 00:52:13 Tweets   : 100% at 11/sec for TA_Stevens
+2017-11-12 00:52:19 Tweets   : 100% at 1/sec for tashtalks_
+2017-11-12 00:52:42 Tweets   : 100% at 38/sec for tenny_RT
+2017-11-12 00:53:20 Tweets   : 100% at 45/sec for TheFMJ
+2017-11-12 00:54:15 Tweets   : 98.8% at 50/sec for tomble22
+2017-11-12 00:55:19 Tweets   : 56.1% at 49/sec for TomLefek
+2017-11-12 00:55:39 Tweets   : 100% at 35/sec for TomW_ARCADIS
+2017-11-12 00:55:53 Tweets   : 99.8% at 31/sec for tpughwgc
+2017-11-12 00:56:56 Tweets   : 99.4% at 47/sec for ukseennotseen
+2017-11-12 00:57:37 Tweets   : 100% at 40/sec for URBaNEregen
+2017-11-12 00:57:48 Tweets   : 100% at 22/sec for uswbuilt
+2017-11-12 00:57:57 Tweets   : 100% at 17/sec for victoriabelk86
+2017-11-12 00:58:44 Tweets   : 100% at 41/sec for Watts_Group
+2017-11-12 01:00:07 Friends  : 99.6% at 0/sec for SLofthouseMRICS
+2017-11-12 01:00:12 Friends  : 99.4% at 31/sec for SoniaDesloges
+2017-11-12 01:00:52 Friends  : 98.6% at 39/sec for StefanMordue
+2017-11-12 01:01:07 Friends  : 98.6% at 40/sec for stephenalbin
+2017-11-12 01:01:13 Friends  : 99.5% at 36/sec for stuart_coy
+2017-11-12 01:01:22 Friends  : 98.9% at 40/sec for stwoods12
+2017-11-12 01:02:00 Friends  : 98.5% at 41/sec for Survey_Solution
+2017-11-12 01:02:04 Friends  : 98.9% at 23/sec for TA_Stevens
+2017-11-12 01:02:07 Friends  : 99.1% at 41/sec for tashtalks_
+2017-11-12 01:02:36 Friends  : 98.9% at 38/sec for tenny_RT
+2017-11-12 01:02:52 Friends  : 99.8% at 37/sec for TheFMJ
+2017-11-12 01:03:45 Friends  : 99.4% at 38/sec for tomble22
+2017-11-12 01:04:02 Friends  : 98.2% at 39/sec for TomLefek
+2017-11-12 01:04:10 Friends  : 98.5% at 32/sec for TomW_ARCADIS
+2017-11-12 01:04:15 Friends  : 98% at 30/sec for tpughwgc
+2017-11-12 01:04:15 Friends  : Waiting for 10.8 minutes
+2017-11-12 01:04:42 Favorites: 23% at 4/sec for SimonMoores
+2017-11-12 01:05:08 Favorites: 53.4% at 45/sec for SimplyLetLtd
+2017-11-12 01:05:29 Favorites: 54.4% at 47/sec for skimmod
+2017-11-12 01:05:32 Favorites: 69.4% at 36/sec for SLofthouseMRICS
+2017-11-12 01:05:33 Favorites: 80.6% at 67/sec for SoniaDesloges
+2017-11-12 01:05:52 Favorites: 53.2% at 44/sec for StefanMordue
+2017-11-12 01:05:52 Favorites: 96.3% at 43/sec for stephenalbin
+2017-11-12 01:05:56 Favorites: 85% at 46/sec for stuart_coy
+2017-11-12 01:06:04 Favorites: 58.6% at 50/sec for stwoods12
+2017-11-12 01:06:09 Favorites: 84.9% at 44/sec for Survey_Solution
+2017-11-12 01:06:10 Favorites: 95.1% at 45/sec for TA_Stevens
+2017-11-12 01:06:10 Favorites: 100% at 8/sec for tashtalks_
+2017-11-12 01:06:18 Favorites: 58.4% at 38/sec for tenny_RT
+2017-11-12 01:06:25 Favorites: 57.6% at 54/sec for TheFMJ
+2017-11-12 01:06:33 Favorites: 53.4% at 39/sec for tomble22
+2017-11-12 01:06:40 Favorites: 62.3% at 55/sec for TomLefek
+2017-11-12 01:06:43 Favorites: 75.8% at 34/sec for TomW_ARCADIS
+2017-11-12 01:06:44 Favorites: 82.6% at 71/sec for tpughwgc
+2017-11-12 01:06:54 Favorites: 48.9% at 39/sec for ukseennotseen
+2017-11-12 01:06:57 Favorites: 70.1% at 64/sec for URBaNEregen
+2017-11-12 01:07:02 Favorites: 55.1% at 45/sec for uswbuilt
+2017-11-12 01:07:03 Favorites: 100% at 37/sec for victoriabelk86
+2017-11-12 01:07:03 Favorites: Waiting for 12.4 minutes due to : Used up allowance in a loop
+2017-11-12 01:15:36 Friends  : 99% at 1/sec for ukseennotseen
+2017-11-12 01:15:54 Friends  : 99.8% at 35/sec for URBaNEregen
+2017-11-12 01:16:22 Friends  : 96.5% at 37/sec for uswbuilt
+2017-11-12 01:16:28 Friends  : 96.1% at 33/sec for victoriabelk86
+2017-11-12 01:16:52 Friends  : 99.1% at 33/sec for Watts_Group
+2017-11-12 01:19:55 Favorites: 55.1% at 0/sec for Watts_Group
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+package 'twitteR' was built under R version 3.4.1 
+Warning message:
+package 'twitteR' was built under R version 3.4.1 

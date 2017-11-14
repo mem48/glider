@@ -1,0 +1,165 @@
+starting worker pid=14680 on localhost:11045 at 21:12:08.178
+starting worker pid=5852 on localhost:11045 at 21:12:08.348
+starting worker pid=19108 on localhost:11045 at 21:12:08.516
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-09 21:12:52 Friends  : 98.6% at 34/sec for Staffshousing
+2017-11-09 21:13:14 Favorites: 50.3% at 26/sec for Staffshousing
+2017-11-09 21:13:26 Favorites: 53.1% at 34/sec for surreyca
+2017-11-09 21:13:28 Favorites: 71.9% at 48/sec for SusieRogers12
+2017-11-09 21:13:29 Friends  : 98.4% at 42/sec for surreyca
+2017-11-09 21:13:31 Favorites: 93.5% at 42/sec for SxHousingCare
+2017-11-09 21:13:35 Friends  : 97.2% at 34/sec for SusieRogers12
+2017-11-09 21:13:38 Favorites: 55% at 41/sec for ThamesValleyHA
+2017-11-09 21:13:39 Friends  : 99% at 43/sec for SxHousingCare
+2017-11-09 21:14:14 Friends  : 99.5% at 39/sec for ThamesValleyHA
+2017-11-09 21:14:20 Tweets   : 99.9% at 37/sec for Staffshousing
+2017-11-09 21:14:24 Favorites: 50% at 45/sec for TheReubenYoung
+2017-11-09 21:14:28 Favorites: 64.8% at 41/sec for togetherkath
+2017-11-09 21:14:32 Friends  : 98.2% at 43/sec for TheReubenYoung
+2017-11-09 21:14:42 Friends  : 98.5% at 40/sec for togetherkath
+2017-11-09 21:15:03 Friends  : 98.8% at 42/sec for TraceyLees2
+2017-11-09 21:15:05 Favorites: Waiting for 9.9 minutes due to : Used up allowance in a loop
+2017-11-09 21:15:23 Friends  : 98.8% at 42/sec for tridentgrp
+2017-11-09 21:15:30 Tweets   : 83.1% at 45/sec for surreyca
+2017-11-09 21:15:49 Friends  : 98.9% at 43/sec for LandlordBB
+2017-11-09 21:15:50 Tweets   : 100% at 37/sec for SusieRogers12
+2017-11-09 21:15:59 Tweets   : 100% at 20/sec for SxHousingCare
+2017-11-09 21:17:09 Tweets   : 57.5% at 46/sec for ThamesValleyHA
+2017-11-09 21:17:35 Friends  : 99.2% at 43/sec for LandlordInShow
+2017-11-09 21:17:49 Friends  : 96.3% at 44/sec for lhlife
+2017-11-09 21:17:54 Tweets   : 98.2% at 40/sec for TheReubenYoung
+2017-11-09 21:18:08 Tweets   : 100% at 23/sec for togetherkath
+2017-11-09 21:18:08 Friends  : 98.9% at 50/sec for LisaHudson309
+2017-11-09 21:19:14 Friends  : 99.3% at 45/sec for MoorgateMermaid
+2017-11-09 21:19:17 Friends  : 100% at 34/sec for propertyjourno
+2017-11-09 21:19:20 Tweets   : 36.9% at 44/sec for TraceyLees2
+2017-11-09 21:19:57 Friends  : 99.9% at 43/sec for PropertyRedress
+2017-11-09 21:19:58 Friends  : Waiting for 8 minutes
+2017-11-09 21:20:33 Tweets   : 90.6% at 43/sec for tridentgrp
+2017-11-09 21:20:59 Tweets   : 100% at 34/sec for LandlordBB
+2017-11-09 21:22:05 Tweets   : 53.9% at 48/sec for LandlordInShow
+2017-11-09 21:23:16 Tweets   : 21.4% at 45/sec for lhlife
+2017-11-09 21:24:11 Tweets   : 100% at 48/sec for LisaHudson309
+2017-11-09 21:25:16 Favorites: 51.8% at 3/sec for TraceyLees2
+2017-11-09 21:25:19 Tweets   : 25.6% at 47/sec for MoorgateMermaid
+2017-11-09 21:25:27 Favorites: 56.9% at 45/sec for tridentgrp
+2017-11-09 21:25:30 Favorites: 72.2% at 54/sec for LandlordBB
+2017-11-09 21:25:42 Favorites: 50.6% at 49/sec for LandlordInShow
+2017-11-09 21:25:55 Favorites: 57.4% at 47/sec for lhlife
+2017-11-09 21:26:02 Favorites: 66.4% at 43/sec for LisaHudson309
+2017-11-09 21:26:34 Tweets   : 69.5% at 42/sec for propertyjourno
+2017-11-09 21:27:13 Favorites: 49.1% at 45/sec for MoorgateMermaid
+2017-11-09 21:27:13 Favorites: 100% at 11/sec for propertyjourno
+2017-11-09 21:27:16 Favorites: 51.6% at 39/sec for PropertyRedress
+2017-11-09 21:27:17 Favorites: 98.6% at 66/sec for SouthPrestonCBS
+2017-11-09 21:27:18 Tweets   : 100% at 47/sec for PropertyRedress
+2017-11-09 21:27:21 Favorites: 60.8% at 43/sec for Upad
+2017-11-09 21:27:28 Favorites: 52.9% at 48/sec for _arbordeck
+2017-11-09 21:27:28 Tweets   : 98.9% at 18/sec for SouthPrestonCBS
+2017-11-09 21:27:38 Favorites: 57.7% at 48/sec for _fiveconsult
+2017-11-09 21:27:39 Favorites: 96.4% at 37/sec for AliSeabrooke
+2017-11-09 21:27:41 Favorites: 100% at 37/sec for BaldwinConstruc
+2017-11-09 21:27:43 Favorites: Waiting for 12.4 minutes due to : Used up allowance in a loop
+2017-11-09 21:28:07 Friends  : 92.1% at 0/sec for SouthPrestonCBS
+2017-11-09 21:28:35 Tweets   : 51% at 47/sec for Upad
+2017-11-09 21:29:25 Tweets   : 99.7% at 36/sec for _arbordeck
+2017-11-09 21:29:59 Friends  : 99.9% at 43/sec for Upad
+2017-11-09 21:30:17 Tweets   : 100% at 47/sec for _fiveconsult
+2017-11-09 21:30:48 Tweets   : 99.9% at 42/sec for AliSeabrooke
+2017-11-09 21:30:56 Tweets   : 100% at 10/sec for BaldwinConstruc
+2017-11-09 21:31:14 Friends  : 95.3% at 46/sec for _arbordeck
+2017-11-09 21:31:26 Friends  : 99.8% at 41/sec for _fiveconsult
+2017-11-09 21:31:38 Friends  : 99.6% at 40/sec for AliSeabrooke
+2017-11-09 21:31:41 Friends  : 96.5% at 39/sec for BaldwinConstruc
+2017-11-09 21:32:06 Tweets   : 24.9% at 46/sec for businessevents1
+2017-11-09 21:32:39 Tweets   : 100% at 35/sec for CBH_scheme
+2017-11-09 21:33:08 Friends  : 97.4% at 41/sec for businessevents1
+2017-11-09 21:33:21 Friends  : 100% at 48/sec for CBH_scheme
+2017-11-09 21:33:30 Tweets   : 99.7% at 46/sec for CLC_binsey
+2017-11-09 21:33:37 Friends  : 98.7% at 46/sec for CLC_binsey
+2017-11-09 21:33:45 Friends  : 98.7% at 38/sec for DarushDodds
+2017-11-09 21:33:46 Friends  : 100% at 26/sec for GippingC
+2017-11-09 21:33:49 Tweets   : 99.7% at 32/sec for DarushDodds
+2017-11-09 21:33:55 Friends  : 100% at 48/sec for Golden_Houses
+2017-11-09 21:33:57 Tweets   : 100% at 9/sec for GippingC
+2017-11-09 21:34:08 Friends  : 97.5% at 46/sec for jamesbloom12
+2017-11-09 21:34:09 Tweets   : 100% at 25/sec for Golden_Houses
+2017-11-09 21:35:01 Friends  : 95.4% at 45/sec for LondonYIMBY
+2017-11-09 21:35:17 Friends  : 100% at 43/sec for PAS91portal
+2017-11-09 21:35:17 Friends  : Waiting for 7.9 minutes
+2017-11-09 21:35:27 Tweets   : 42.4% at 41/sec for jamesbloom12
+2017-11-09 21:36:36 Tweets   : 41.9% at 46/sec for LondonYIMBY
+2017-11-09 21:36:49 Tweets   : 100% at 29/sec for PAS91portal
+2017-11-09 21:37:20 Tweets   : 99.9% at 39/sec for PBSConstruct
+2017-11-09 21:38:34 Tweets   : 57.8% at 43/sec for RobertsonGroup
+2017-11-09 21:38:43 Tweets   : 100% at 11/sec for TMannersandsons
+2017-11-09 21:39:56 Tweets   : 41.2% at 44/sec for WalterMenteth
+2017-11-09 21:40:30 Favorites: 60.8% at 1/sec for businessevents1
+2017-11-09 21:40:30 Favorites: 100% at 20/sec for CBH_scheme
+2017-11-09 21:40:37 Favorites: 59.8% at 44/sec for CLC_binsey
+2017-11-09 21:40:43 Favorites: 54.2% at 48/sec for DarushDodds
+2017-11-09 21:40:44 Favorites: 100% at 2/sec for GippingC
+2017-11-09 21:40:46 Favorites: 75.8% at 38/sec for Golden_Houses
+2017-11-09 21:40:59 Favorites: 55.1% at 46/sec for jamesbloom12
+2017-11-09 21:41:06 Tweets   : 96.2% at 43/sec for alseccoUK
+2017-11-09 21:41:41 Tweets   : 99.8% at 34/sec for Benniesdevelop
+2017-11-09 21:42:11 Favorites: 42.7% at 44/sec for LondonYIMBY
+2017-11-09 21:42:11 Favorites: 100% at 13/sec for PAS91portal
+2017-11-09 21:42:18 Favorites: 66.4% at 44/sec for PBSConstruct
+2017-11-09 21:42:32 Tweets   : 100% at 43/sec for CatRuddell
+2017-11-09 21:42:48 Favorites: 51.4% at 46/sec for RobertsonGroup
+2017-11-09 21:42:48 Favorites: User TMannersandsons has a protected account or no Favoritess to collect so skipping
+2017-11-09 21:43:00 Favorites: Waiting for 12.3 minutes due to : Used up allowance in a loop
+2017-11-09 21:43:26 Friends  : 98.7% at 1/sec for PBSConstruct
+2017-11-09 21:43:35 Tweets   : 100% at 46/sec for CG_Fry
+2017-11-09 21:44:44 Tweets   : 99.7% at 37/sec for Collective_Arch
+2017-11-09 21:44:50 Friends  : 97.7% at 40/sec for RobertsonGroup
+2017-11-09 21:44:52 Friends  : 98% at 24/sec for TMannersandsons
+2017-11-09 21:45:04 Friends  : 99.8% at 36/sec for WalterMenteth
+2017-11-09 21:45:45 Friends  : 98.9% at 41/sec for alseccoUK
+2017-11-09 21:45:50 Friends  : 96.7% at 39/sec for Benniesdevelop
+2017-11-09 21:45:58 Tweets   : 35.7% at 43/sec for crawleybc
+2017-11-09 21:45:59 Friends  : 99.2% at 47/sec for CatRuddell
+2017-11-09 21:46:02 Friends  : 100% at 45/sec for CG_Fry
+2017-11-09 21:46:25 Friends  : 99.7% at 47/sec for Collective_Arch
+2017-11-09 21:46:31 Friends  : 98.1% at 43/sec for crawleybc
+2017-11-09 21:46:57 Friends  : 98.3% at 47/sec for CroftArchitects
+2017-11-09 21:47:19 Tweets   : 14.1% at 40/sec for CroftArchitects
+2017-11-09 21:48:25 Friends  : 99.2% at 44/sec for CynnalCymru
+2017-11-09 21:48:31 Tweets   : 32% at 44/sec for CynnalCymru
+2017-11-09 21:49:29 Friends  : 99.5% at 40/sec for DavidDurant
+2017-11-09 21:49:33 Friends  : 100% at 29/sec for DoraVarszegi
+2017-11-09 21:49:50 Tweets   : 38% at 41/sec for DavidDurant
+2017-11-09 21:50:00 Tweets   : 100% at 20/sec for DoraVarszegi
+2017-11-09 21:50:56 Friends  : 99.9% at 46/sec for environmentguru
+2017-11-09 21:50:56 Friends  : Waiting for 7.4 minutes
+2017-11-09 21:51:05 Tweets   : 0.3% at 49/sec for environmentguru
+2017-11-09 21:51:23 Tweets   : 100% at 33/sec for ESECONSULTANCY
+2017-11-09 21:51:33 Tweets   : 100% at 21/sec for greencorehomes
+2017-11-09 21:51:42 Tweets   : 100% at 17/sec for GT_Associates
+2017-11-09 21:56:22 Favorites: 49.2% at 4/sec for WalterMenteth
+2017-11-09 21:56:26 Favorites: 61.8% at 50/sec for alseccoUK
+2017-11-09 21:56:53 Favorites: 48.9% at 46/sec for Benniesdevelop
+2017-11-09 21:57:14 Favorites: 54.1% at 47/sec for CatRuddell
+2017-11-09 21:57:17 Favorites: 54.1% at 44/sec for CG_Fry
+2017-11-09 21:57:25 Favorites: 52.8% at 47/sec for Collective_Arch
+2017-11-09 21:57:27 Favorites: 59.4% at 53/sec for crawleybc
+2017-11-09 21:58:08 Favorites: Waiting for 12.4 minutes due to : Used up allowance in a loop
+2017-11-09 21:58:31 Friends  : 100% at 0/sec for ESECONSULTANCY
+2017-11-09 21:58:37 Friends  : 94.1% at 42/sec for greencorehomes
+2017-11-09 21:58:39 Friends  : 98.5% at 32/sec for GT_Associates
+2017-11-09 22:10:34 Favorites: 51.5% at 3/sec for CroftArchitects
+2017-11-09 22:10:53 Favorites: 49.9% at 48/sec for CynnalCymru
+2017-11-09 22:11:17 Favorites: 51.2% at 46/sec for DavidDurant
+2017-11-09 22:11:18 Favorites: 100% at 48/sec for DoraVarszegi
+2017-11-09 22:11:19 Favorites: 100% at 12/sec for environmentguru
+2017-11-09 22:11:19 Favorites: 100% at 7/sec for ESECONSULTANCY
+2017-11-09 22:11:20 Favorites: 96.8% at 59/sec for greencorehomes
+2017-11-09 22:11:21 Favorites: 100% at 2/sec for GT_Associates
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+R version 3.4.1 
+Warning message:
+package 'twitteR' was built under R version 3.4.1 

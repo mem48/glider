@@ -1,0 +1,166 @@
+starting worker pid=17548 on localhost:11045 at 05:35:27.752
+starting worker pid=9640 on localhost:11045 at 05:35:27.924
+starting worker pid=10284 on localhost:11045 at 05:35:28.083
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-08 05:36:55 Friends  : 97.6% at 35/sec for RavenHT
+2017-11-08 05:37:15 Friends  : 100% at 43/sec for rldconstruction
+2017-11-08 05:37:37 Friends  : 97.2% at 37/sec for SDALtd
+2017-11-08 05:37:51 Favorites: Waiting for 7.4 minutes due to : Used up allowance in a loop
+2017-11-08 05:37:54 Friends  : 98.2% at 39/sec for wandbc
+2017-11-08 05:38:06 Friends  : 99.2% at 40/sec for wycombedc
+2017-11-08 05:38:10 Friends  : 95.2% at 39/sec for AllisterYoung
+2017-11-08 05:38:37 Friends  : 98.7% at 40/sec for Anchor_Trust
+2017-11-08 05:38:50 Friends  : 99.1% at 34/sec for Andrew_Contour
+2017-11-08 05:39:33 Friends  : 99.6% at 41/sec for BBCNewsnight
+2017-11-08 05:40:05 Tweets   : 69.8% at 45/sec for RavenHT
+2017-11-08 05:40:20 Friends  : 99.2% at 37/sec for CardboardCitz
+2017-11-08 05:40:21 Tweets   : 100% at 29/sec for rldconstruction
+2017-11-08 05:40:27 Friends  : 98.6% at 41/sec for CHPhomes
+2017-11-08 05:40:36 Friends  : 99.3% at 44/sec for CommonsCLG
+2017-11-08 05:40:58 Friends  : 97.8% at 42/sec for community_land
+2017-11-08 05:41:17 Friends  : 99.5% at 39/sec for CrownSimmons
+2017-11-08 05:41:25 Friends  : 99.6% at 39/sec for DerventioHT
+2017-11-08 05:41:32 Tweets   : 99.9% at 45/sec for SDALtd
+2017-11-08 05:41:45 Friends  : 99.4% at 44/sec for electricputty
+2017-11-08 05:41:52 Friends  : 99.7% at 41/sec for emhgroup
+2017-11-08 05:42:17 Friends  : 99.5% at 38/sec for EmilyClareBird
+2017-11-08 05:42:17 Friends  : Waiting for 10.4 minutes
+2017-11-08 05:42:44 Tweets   : 18.9% at 44/sec for wandbc
+2017-11-08 05:43:49 Tweets   : 47% at 48/sec for wycombedc
+2017-11-08 05:44:16 Tweets   : 100% at 35/sec for AllisterYoung
+2017-11-08 05:45:37 Tweets   : 30.5% at 39/sec for Anchor_Trust
+2017-11-08 05:45:39 Favorites: 50.1% at 1/sec for RavenHT
+2017-11-08 05:45:43 Favorites: 57.1% at 47/sec for rldconstruction
+2017-11-08 05:45:52 Favorites: 64.1% at 42/sec for SDALtd
+2017-11-08 05:45:55 Favorites: 89.3% at 36/sec for wandbc
+2017-11-08 05:45:58 Favorites: 57.6% at 35/sec for wycombedc
+2017-11-08 05:45:59 Favorites: 71.4% at 70/sec for AllisterYoung
+2017-11-08 05:46:20 Tweets   : 99.7% at 34/sec for Andrew_Contour
+2017-11-08 05:46:20 Favorites: 49.8% at 42/sec for Anchor_Trust
+2017-11-08 05:46:29 Favorites: 51.2% at 44/sec for Andrew_Contour
+2017-11-08 05:46:49 Favorites: 50.1% at 39/sec for BBCNewsnight
+2017-11-08 05:47:28 Favorites: 50.3% at 41/sec for CardboardCitz
+2017-11-08 05:47:29 Favorites: 81.8% at 70/sec for CHPhomes
+2017-11-08 05:47:29 Favorites: 71.4% at 13/sec for CommonsCLG
+2017-11-08 05:47:33 Tweets   : 10% at 44/sec for BBCNewsnight
+2017-11-08 05:47:53 Favorites: 53.7% at 42/sec for community_land
+2017-11-08 05:47:59 Favorites: 67.6% at 34/sec for CrownSimmons
+2017-11-08 05:47:59 Favorites: 100% at 36/sec for DerventioHT
+2017-11-08 05:48:04 Favorites: 55% at 48/sec for electricputty
+2017-11-08 05:48:07 Favorites: 75.8% at 34/sec for emhgroup
+2017-11-08 05:48:11 Favorites: 74.9% at 46/sec for EmilyClareBird
+2017-11-08 05:48:21 Favorites: 60.2% at 41/sec for EquityHousing
+2017-11-08 05:48:26 Favorites: Waiting for 12.1 minutes due to : Used up allowance in a loop
+2017-11-08 05:48:44 Tweets   : 42.9% at 45/sec for CardboardCitz
+2017-11-08 05:49:37 Tweets   : 100% at 46/sec for CHPhomes
+2017-11-08 05:50:50 Tweets   : 85.5% at 44/sec for CommonsCLG
+2017-11-08 05:52:10 Tweets   : 90.7% at 40/sec for community_land
+2017-11-08 05:53:01 Tweets   : 99.9% at 43/sec for CrownSimmons
+2017-11-08 05:53:14 Friends  : 99.6% at 1/sec for EquityHousing
+2017-11-08 05:53:27 Tweets   : 99.9% at 39/sec for DerventioHT
+2017-11-08 05:53:39 Friends  : 99% at 40/sec for forviva_group
+2017-11-08 05:53:58 Friends  : 98.3% at 38/sec for GUACjobs
+2017-11-08 05:54:09 Friends  : 96.7% at 34/sec for JamesAPrestwich
+2017-11-08 05:54:38 Tweets   : 79.2% at 45/sec for electricputty
+2017-11-08 05:54:48 Friends  : 99% at 40/sec for joesarling
+2017-11-08 05:54:55 Friends  : 100% at 30/sec for KatLHart
+2017-11-08 05:55:07 Tweets   : 100% at 37/sec for emhgroup
+2017-11-08 05:55:26 Friends  : 97.4% at 37/sec for LCHousingltd
+2017-11-08 05:55:29 Tweets   : 100% at 32/sec for EmilyClareBird
+2017-11-08 05:56:11 Friends  : 99.8% at 38/sec for Lucy_Grove
+2017-11-08 05:56:27 Tweets   : 99.8% at 40/sec for EquityHousing
+2017-11-08 05:56:58 Friends  : 99.5% at 37/sec for MattNewell_
+2017-11-08 05:57:07 Friends  : 99.7% at 31/sec for Mervyn_yhousing
+2017-11-08 05:57:14 Friends  : 98.6% at 31/sec for MscChris
+2017-11-08 05:57:52 Tweets   : 67.2% at 37/sec for forviva_group
+2017-11-08 05:58:03 Friends  : 99.7% at 35/sec for optivohomes
+2017-11-08 05:58:22 Tweets   : 100% at 40/sec for GUACjobs
+2017-11-08 05:58:23 Friends  : 99% at 39/sec for PatrickMurray23
+2017-11-08 05:58:31 Friends  : 100% at 35/sec for peter_aldous
+2017-11-08 05:58:34 Tweets   : 100% at 28/sec for JamesAPrestwich
+2017-11-08 05:59:48 Tweets   : 11.3% at 44/sec for joesarling
+2017-11-08 05:59:57 Tweets   : 100% at 14/sec for KatLHart
+2017-11-08 06:00:09 Friends  : 97.9% at 38/sec for ppvernon
+2017-11-08 06:00:09 Friends  : Waiting for 7.9 minutes
+2017-11-08 06:00:24 Tweets   : 99.8% at 39/sec for LCHousingltd
+2017-11-08 06:00:59 Favorites: 57.4% at 1/sec for forviva_group
+2017-11-08 06:01:07 Tweets   : 99.9% at 40/sec for Lucy_Grove
+2017-11-08 06:01:09 Favorites: 55.4% at 41/sec for GUACjobs
+2017-11-08 06:01:12 Favorites: 25.8% at 34/sec for JamesAPrestwich
+2017-11-08 06:02:25 Tweets   : 74.1% at 41/sec for MattNewell_
+2017-11-08 06:02:30 Favorites: 32.4% at 40/sec for joesarling
+2017-11-08 06:02:31 Favorites: 100% at 45/sec for KatLHart
+2017-11-08 06:02:36 Favorites: 64.4% at 37/sec for LCHousingltd
+2017-11-08 06:02:37 Favorites: 92.5% at 71/sec for Lucy_Grove
+2017-11-08 06:02:50 Favorites: 49.1% at 40/sec for MattNewell_
+2017-11-08 06:02:54 Favorites: 94.8% at 45/sec for Mervyn_yhousing
+2017-11-08 06:02:58 Favorites: 76.6% at 48/sec for MscChris
+2017-11-08 06:03:14 Tweets   : 100% at 37/sec for Mervyn_yhousing
+2017-11-08 06:03:14 Favorites: 50.6% at 38/sec for optivohomes
+2017-11-08 06:03:30 Tweets   : 100% at 26/sec for MscChris
+2017-11-08 06:03:32 Favorites: 49.5% at 44/sec for PatrickMurray23
+2017-11-08 06:03:34 Favorites: 98.7% at 33/sec for peter_aldous
+2017-11-08 06:03:41 Favorites: Waiting for 12.2 minutes due to : Used up allowance in a loop
+2017-11-08 06:04:45 Tweets   : 76.4% at 42/sec for optivohomes
+2017-11-08 06:05:58 Tweets   : 72.4% at 44/sec for PatrickMurray23
+2017-11-08 06:06:28 Tweets   : 99.6% at 40/sec for peter_aldous
+2017-11-08 06:07:49 Tweets   : 51.7% at 40/sec for ppvernon
+2017-11-08 06:08:10 Tweets   : 99.7% at 29/sec for recovery_focus
+2017-11-08 06:08:18 Friends  : 98.9% at 0/sec for recovery_focus
+2017-11-08 06:08:43 Friends  : 98.7% at 36/sec for RioOverton
+2017-11-08 06:09:03 Friends  : 99.4% at 32/sec for SohaHousing
+2017-11-08 06:09:17 Tweets   : 99.9% at 35/sec for RioOverton
+2017-11-08 06:10:24 Tweets   : 73.8% at 47/sec for SohaHousing
+2017-11-08 06:11:40 Tweets   : 27% at 42/sec for StMungos
+2017-11-08 06:12:47 Friends  : 99.7% at 41/sec for StMungos
+2017-11-08 06:12:49 Tweets   : 99.9% at 40/sec for TaDHousing
+2017-11-08 06:12:59 Friends  : 99.4% at 46/sec for TaDHousing
+2017-11-08 06:13:02 Friends  : 100% at 23/sec for TRHousing
+2017-11-08 06:13:19 Friends  : 99.3% at 34/sec for TrishAtAspire
+2017-11-08 06:13:33 Tweets   : 99% at 37/sec for TRHousing
+2017-11-08 06:13:36 Friends  : 98.5% at 46/sec for TrustVAHT
+2017-11-08 06:14:37 Tweets   : 99.5% at 36/sec for TrishAtAspire
+2017-11-08 06:15:23 Friends  : 99.9% at 44/sec for UKIP
+2017-11-08 06:15:53 Tweets   : 62.9% at 42/sec for TrustVAHT
+2017-11-08 06:15:55 Friends  : 99.7% at 46/sec for WAMidlands
+2017-11-08 06:16:18 Friends  : 98.5% at 42/sec for wcmtuk
+2017-11-08 06:16:19 Friends  : 100% at 9/sec for HMRCcustomers
+2017-11-08 06:16:25 Friends  : 99.6% at 39/sec for SylvanaWalcott
+2017-11-08 06:16:35 Favorites: 51.9% at 2/sec for ppvernon
+2017-11-08 06:16:36 Favorites: 98.1% at 61/sec for recovery_focus
+2017-11-08 06:16:42 Friends  : 98.5% at 38/sec for BernardWatsonUK
+2017-11-08 06:16:42 Friends  : Waiting for 6.6 minutes
+2017-11-08 06:17:00 Favorites: 52.1% at 41/sec for RioOverton
+2017-11-08 06:17:03 Tweets   : 8.4% at 42/sec for UKIP
+2017-11-08 06:17:16 Favorites: 54.6% at 42/sec for SohaHousing
+2017-11-08 06:17:55 Tweets   : 100% at 40/sec for WAMidlands
+2017-11-08 06:18:32 Favorites: 45.5% at 42/sec for StMungos
+2017-11-08 06:18:36 Favorites: 58.7% at 47/sec for TaDHousing
+2017-11-08 06:18:39 Favorites: 45.2% at 33/sec for TRHousing
+2017-11-08 06:18:51 Favorites: 57.8% at 41/sec for TrishAtAspire
+2017-11-08 06:18:58 Favorites: Waiting for 12.1 minutes due to : Used up allowance in a loop
+2017-11-08 06:19:13 Tweets   : 54% at 41/sec for wcmtuk
+2017-11-08 06:20:24 Tweets   : 1.8% at 45/sec for HMRCcustomers
+2017-11-08 06:20:52 Tweets   : 100% at 44/sec for SylvanaWalcott
+2017-11-08 06:21:03 Tweets   : 100% at 28/sec for BernardWatsonUK
+2017-11-08 06:21:21 Tweets   : 99.5% at 34/sec for HawesBuilding
+2017-11-08 06:22:30 Tweets   : 94.4% at 46/sec for hbuildingnews
+2017-11-08 06:23:33 Friends  : 99.4% at 1/sec for HawesBuilding
+2017-11-08 06:25:07 Friends  : 96.6% at 45/sec for hbuildingnews
+2017-11-08 06:31:17 Favorites: 54% at 1/sec for TrustVAHT
+2017-11-08 06:31:17 Favorites: 100% at 11/sec for UKIP
+2017-11-08 06:31:28 Favorites: 56.4% at 46/sec for WAMidlands
+2017-11-08 06:31:53 Favorites: 51.1% at 43/sec for wcmtuk
+2017-11-08 06:31:54 Favorites: 100% at 38/sec for HMRCcustomers
+2017-11-08 06:31:54 Favorites: 100% at 38/sec for SylvanaWalcott
+2017-11-08 06:32:00 Favorites: 79.5% at 37/sec for BernardWatsonUK
+2017-11-08 06:32:01 Favorites: 63.2% at 63/sec for HawesBuilding
+2017-11-08 06:32:01 Favorites: User hbuildingnews has a protected account or no Favoritess to collect so skipping
+Warning message:
+Warning message:
+was built under R version 3.4.1 
+Warning message:
+was built under R version 3.4.1 
+package 'twitteR' was built under R version 3.4.1 

@@ -1,0 +1,167 @@
+starting worker pid=8312 on localhost:11045 at 06:22:15.902
+starting worker pid=21156 on localhost:11045 at 06:22:16.059
+starting worker pid=5808 on localhost:11045 at 06:22:16.230
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-12 06:24:09 Friends  : 99.8% at 31/sec for CommonsEAC
+2017-11-12 06:24:16 Friends  : 99.3% at 44/sec for ebbsfleetdc
+2017-11-12 06:24:22 Friends  : 96.8% at 37/sec for EPlanna
+2017-11-12 06:24:51 Friends  : 98.6% at 39/sec for FieldDuncan
+2017-11-12 06:25:30 Favorites: 86.1% at 32/sec for CommonsEAC
+2017-11-12 06:25:32 Favorites: 98.8% at 61/sec for ebbsfleetdc
+2017-11-12 06:25:39 Favorites: 51% at 42/sec for EPlanna
+2017-11-12 06:25:47 Favorites: Waiting for 5.5 minutes due to : Used up allowance in a loop
+2017-11-12 06:26:09 Friends  : 99.9% at 39/sec for futerra
+2017-11-12 06:26:45 Friends  : 98.5% at 39/sec for GendlinsMuse
+2017-11-12 06:27:45 Friends  : 99.5% at 40/sec for genrentuk
+2017-11-12 06:27:50 Tweets   : 99.9% at 41/sec for CommonsEAC
+2017-11-12 06:27:58 Friends  : 96.4% at 42/sec for HCD2017
+2017-11-12 06:28:28 Friends  : 99.1% at 40/sec for hortweek
+2017-11-12 06:28:29 Tweets   : 100% at 42/sec for ebbsfleetdc
+2017-11-12 06:28:37 Friends  : 98.9% at 40/sec for IrishPlanInst
+2017-11-12 06:28:38 Friends  : 100% at 11/sec for ivmoorselaar
+2017-11-12 06:29:02 Tweets   : 99.6% at 42/sec for EPlanna
+2017-11-12 06:29:13 Friends  : 99.3% at 42/sec for jamesgleave1
+2017-11-12 06:30:18 Tweets   : 28.4% at 42/sec for FieldDuncan
+2017-11-12 06:30:33 Friends  : 99.4% at 40/sec for jamesrbuk
+2017-11-12 06:30:53 Friends  : 100% at 40/sec for LfPHWM
+2017-11-12 06:31:33 Tweets   : 23.9% at 42/sec for futerra
+2017-11-12 06:31:59 Friends  : 99.2% at 39/sec for Living_Cities
+2017-11-12 06:31:59 Friends  : Waiting for 6.9 minutes
+2017-11-12 06:32:38 Favorites: 47.6% at 8/sec for FieldDuncan
+2017-11-12 06:32:44 Tweets   : 42.4% at 45/sec for GendlinsMuse
+2017-11-12 06:32:57 Favorites: 55.5% at 42/sec for futerra
+2017-11-12 06:33:24 Favorites: 47.8% at 43/sec for GendlinsMuse
+2017-11-12 06:33:29 Favorites: 51% at 42/sec for genrentuk
+2017-11-12 06:33:30 Favorites: 53.2% at 65/sec for HCD2017
+2017-11-12 06:33:33 Favorites: 54.8% at 29/sec for hortweek
+2017-11-12 06:33:38 Favorites: 68.3% at 43/sec for IrishPlanInst
+2017-11-12 06:33:38 Favorites: 100% at 5/sec for ivmoorselaar
+2017-11-12 06:33:59 Tweets   : 40.8% at 43/sec for genrentuk
+2017-11-12 06:34:06 Favorites: 51.3% at 44/sec for jamesgleave1
+2017-11-12 06:34:12 Tweets   : 100% at 27/sec for HCD2017
+2017-11-12 06:34:15 Favorites: Waiting for 12.2 minutes due to : Used up allowance in a loop
+2017-11-12 06:35:22 Tweets   : 13.5% at 45/sec for hortweek
+2017-11-12 06:36:31 Tweets   : 99.4% at 44/sec for IrishPlanInst
+2017-11-12 06:36:38 Tweets   : 100% at 2/sec for ivmoorselaar
+2017-11-12 06:37:55 Tweets   : 6.8% at 41/sec for jamesgleave1
+2017-11-12 06:39:17 Tweets   : 2% at 39/sec for jamesrbuk
+2017-11-12 06:39:25 Friends  : 99.6% at 2/sec for livingspaceproj
+2017-11-12 06:40:11 Friends  : 99.2% at 37/sec for lucyallan
+2017-11-12 06:40:32 Tweets   : 92.2% at 42/sec for LfPHWM
+2017-11-12 06:40:37 Friends  : 98.4% at 37/sec for markcwalton
+2017-11-12 06:40:51 Friends  : 98% at 41/sec for MarkHammill
+2017-11-12 06:41:28 Friends  : 99.5% at 34/sec for mbedarchitects
+2017-11-12 06:41:41 Tweets   : 16.1% at 46/sec for Living_Cities
+2017-11-12 06:42:00 Friends  : 98.9% at 37/sec for mikeharris1981
+2017-11-12 06:42:17 Friends  : 98.3% at 35/sec for MillsandReeve
+2017-11-12 06:42:33 Friends  : 100% at 31/sec for mitchell_silver
+2017-11-12 06:42:35 Tweets   : 99.8% at 41/sec for livingspaceproj
+2017-11-12 06:43:00 Friends  : 99.6% at 37/sec for NEF
+2017-11-12 06:43:46 Tweets   : 28.8% at 45/sec for lucyallan
+2017-11-12 06:44:19 Friends  : 99.1% at 35/sec for nick_forbes
+2017-11-12 06:44:49 Friends  : 98.4% at 33/sec for NickyMorgan01
+2017-11-12 06:45:05 Friends  : 98.5% at 40/sec for NikolaMiller
+2017-11-12 06:45:08 Tweets   : 45.6% at 39/sec for markcwalton
+2017-11-12 06:45:46 Friends  : 98.2% at 39/sec for PINSgov
+2017-11-12 06:46:00 Tweets   : 99.8% at 37/sec for MarkHammill
+2017-11-12 06:46:10 Friends  : 95.3% at 41/sec for PlanPotential
+2017-11-12 06:46:43 Tweets   : 99.1% at 34/sec for mbedarchitects
+2017-11-12 06:46:55 Friends  : 99.7% at 40/sec for PRASEG
+2017-11-12 06:46:55 Friends  : Waiting for 7.3 minutes
+2017-11-12 06:47:44 Tweets   : 99.9% at 38/sec for mikeharris1981
+2017-11-12 06:47:55 Favorites: 5.4% at 4/sec for jamesrbuk
+2017-11-12 06:47:58 Favorites: 97.1% at 25/sec for LfPHWM
+2017-11-12 06:48:38 Favorites: 51.7% at 42/sec for Living_Cities
+2017-11-12 06:48:46 Favorites: 51.4% at 51/sec for livingspaceproj
+2017-11-12 06:49:02 Tweets   : 60.5% at 41/sec for MillsandReeve
+2017-11-12 06:49:42 Favorites: Waiting for 12.1 minutes due to : Used up allowance in a loop
+2017-11-12 06:50:10 Tweets   : 36.9% at 47/sec for mitchell_silver
+2017-11-12 06:51:18 Tweets   : 28.9% at 47/sec for NEF
+2017-11-12 06:52:31 Tweets   : 30.3% at 44/sec for nick_forbes
+2017-11-12 06:53:43 Tweets   : 35.1% at 44/sec for NickyMorgan01
+2017-11-12 06:54:42 Friends  : 99.6% at 1/sec for ProfKevinFenton
+2017-11-12 06:54:57 Tweets   : 99.7% at 42/sec for NikolaMiller
+2017-11-12 06:55:02 Friends  : 99.7% at 37/sec for RTPI_LONDON
+2017-11-12 06:55:28 Tweets   : 99.9% at 35/sec for PINSgov
+2017-11-12 06:55:32 Friends  : 98% at 38/sec for RTPINorthEast
+2017-11-12 06:56:01 Friends  : 98.7% at 39/sec for RTPIScotland
+2017-11-12 06:56:08 Friends  : 97.3% at 32/sec for samuel_stafford
+2017-11-12 06:56:14 Friends  : 96.7% at 36/sec for samuellfoxton
+2017-11-12 06:56:29 Friends  : 98.6% at 38/sec for SheffGreenComm
+2017-11-12 06:56:40 Friends  : 98.8% at 39/sec for stephenwalford1
+2017-11-12 06:56:43 Friends  : 97.8% at 24/sec for StephPollittBPF
+2017-11-12 06:56:48 Tweets   : 100% at 38/sec for PlanPotential
+2017-11-12 06:56:54 Friends  : 97% at 39/sec for StuartNatkus
+2017-11-12 06:56:59 Friends  : 97% at 33/sec for stumactweet
+2017-11-12 06:57:24 Friends  : 99.1% at 36/sec for ThamesEstPart
+2017-11-12 06:57:55 Tweets   : 99.8% at 45/sec for PRASEG
+2017-11-12 06:59:09 Tweets   : 57.1% at 43/sec for ProfKevinFenton
+2017-11-12 06:59:22 Friends  : 99% at 36/sec for tobyblume
+2017-11-12 06:59:57 Friends  : 99.5% at 35/sec for tom_hiles
+2017-11-12 07:00:06 Friends  : 99.6% at 31/sec for alexedds_
+2017-11-12 07:00:06 Friends  : Waiting for 9.4 minutes
+2017-11-12 07:00:19 Tweets   : 71.2% at 46/sec for RTPI_LONDON
+2017-11-12 07:01:01 Tweets   : 99.9% at 42/sec for RTPINorthEast
+2017-11-12 07:02:11 Tweets   : 22.3% at 46/sec for RTPIScotland
+2017-11-12 07:02:25 Favorites: 40.6% at 4/sec for lucyallan
+2017-11-12 07:02:53 Favorites: 49.5% at 42/sec for markcwalton
+2017-11-12 07:03:23 Favorites: 52.6% at 43/sec for MarkHammill
+2017-11-12 07:03:24 Favorites: 94.3% at 67/sec for mbedarchitects
+2017-11-12 07:03:33 Tweets   : 12.7% at 39/sec for samuel_stafford
+2017-11-12 07:03:37 Favorites: 60.9% at 39/sec for mikeharris1981
+2017-11-12 07:03:42 Favorites: 63.1% at 42/sec for MillsandReeve
+2017-11-12 07:04:16 Tweets   : 99.4% at 36/sec for samuellfoxton
+2017-11-12 07:04:18 Favorites: 50.9% at 41/sec for mitchell_silver
+2017-11-12 07:04:22 Favorites: 55.3% at 44/sec for NEF
+2017-11-12 07:04:23 Favorites: 68.3% at 71/sec for nick_forbes
+2017-11-12 07:04:25 Favorites: 4.5% at 59/sec for NickyMorgan01
+2017-11-12 07:04:42 Favorites: 54.3% at 42/sec for NikolaMiller
+2017-11-12 07:04:43 Favorites: 88.2% at 57/sec for PINSgov
+2017-11-12 07:04:47 Favorites: 86.1% at 30/sec for PlanPotential
+2017-11-12 07:04:48 Favorites: 75% at 66/sec for PRASEG
+2017-11-12 07:04:57 Favorites: Waiting for 12.2 minutes due to : Used up allowance in a loop
+2017-11-12 07:05:12 Tweets   : 100% at 35/sec for SheffGreenComm
+2017-11-12 07:05:45 Tweets   : 99.9% at 36/sec for stephenwalford1
+2017-11-12 07:05:56 Tweets   : 100% at 20/sec for StephPollittBPF
+2017-11-12 07:06:25 Tweets   : 100% at 34/sec for StuartNatkus
+2017-11-12 07:06:39 Tweets   : 99.8% at 29/sec for stumactweet
+2017-11-12 07:07:47 Tweets   : 92.1% at 47/sec for ThamesEstPart
+2017-11-12 07:08:54 Tweets   : 11.2% at 48/sec for tobyblume
+2017-11-12 07:09:51 Friends  : 100% at 0/sec for AndreaCharlson
+2017-11-12 07:10:00 Tweets   : 76% at 48/sec for tom_hiles
+2017-11-12 07:10:08 Friends  : 98.9% at 36/sec for ASmallAMount
+2017-11-12 07:10:12 Friends  : 100% at 17/sec for BBCScienceNews
+2017-11-12 07:10:22 Friends  : 99.7% at 34/sec for Biotecture_
+2017-11-12 07:10:29 Tweets   : 99.8% at 39/sec for alexedds_
+2017-11-12 07:10:46 Tweets   : 100% at 33/sec for AndreaCharlson
+2017-11-12 07:11:52 Tweets   : 99.7% at 43/sec for ASmallAMount
+2017-11-12 07:12:59 Tweets   : 13.7% at 48/sec for BBCScienceNews
+2017-11-12 07:13:27 Tweets   : 99.6% at 35/sec for Biotecture_
+2017-11-12 07:18:02 Favorites: 50.2% at 2/sec for ProfKevinFenton
+2017-11-12 07:18:07 Favorites: 61.9% at 44/sec for RTPI_LONDON
+2017-11-12 07:18:10 Favorites: 62.6% at 68/sec for RTPINorthEast
+2017-11-12 07:18:52 Favorites: 52.3% at 45/sec for RTPIScotland
+2017-11-12 07:19:10 Favorites: 49.7% at 42/sec for samuel_stafford
+2017-11-12 07:19:11 Favorites: 100% at 53/sec for samuellfoxton
+2017-11-12 07:19:25 Favorites: 54.5% at 44/sec for SheffGreenComm
+2017-11-12 07:19:29 Favorites: 75.2% at 43/sec for stephenwalford1
+2017-11-12 07:19:30 Favorites: 100% at 8/sec for StephPollittBPF
+2017-11-12 07:19:33 Favorites: 58.5% at 34/sec for StuartNatkus
+2017-11-12 07:19:34 Favorites: 70.2% at 65/sec for stumactweet
+2017-11-12 07:19:50 Favorites: 51.9% at 46/sec for ThamesEstPart
+2017-11-12 07:20:02 Favorites: 53.6% at 40/sec for tobyblume
+2017-11-12 07:20:03 Favorites: 100% at 60/sec for tom_hiles
+2017-11-12 07:20:06 Favorites: 100% at 31/sec for alexedds_
+2017-11-12 07:20:07 Favorites: 100% at 53/sec for AndreaCharlson
+2017-11-12 07:20:12 Favorites: Waiting for 12.3 minutes due to : Used up allowance in a loop
+2017-11-12 07:32:54 Favorites: 54.6% at 1/sec for ASmallAMount
+2017-11-12 07:32:56 Favorites: 100% at 58/sec for BBCScienceNews
+2017-11-12 07:33:11 Favorites: 54.4% at 45/sec for Biotecture_
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+Warning message:
+package 'twitteR' was built under R version 3.4.1 

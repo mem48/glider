@@ -1,0 +1,171 @@
+starting worker pid=17072 on localhost:11045 at 13:06:22.667
+starting worker pid=8236 on localhost:11045 at 13:06:22.833
+starting worker pid=8288 on localhost:11045 at 13:06:22.998
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-08 13:09:08 Favorites: 66.7% at 43/sec for Oliver_Heath
+2017-11-08 13:09:45 Friends  : 99.7% at 42/sec for Oliver_Heath
+2017-11-08 13:09:47 Favorites: 52.9% at 38/sec for SarahCary
+2017-11-08 13:09:53 Favorites: 54.9% at 53/sec for The_CIEH
+2017-11-08 13:09:53 Favorites: 100% at 3/sec for InsulationIF
+2017-11-08 13:10:05 Favorites: 56.6% at 40/sec for AtelierTen
+2017-11-08 13:10:07 Friends  : 99.8% at 38/sec for SarahCary
+2017-11-08 13:10:10 Favorites: 90.8% at 44/sec for AvestaFSM
+2017-11-08 13:10:11 Favorites: 100% at 62/sec for CIBSE_Cities
+2017-11-08 13:10:12 Favorites: 100% at 62/sec for e3tweeter
+2017-11-08 13:10:24 Friends  : 99.4% at 40/sec for The_CIEH
+2017-11-08 13:10:24 Favorites: 56.2% at 40/sec for elenikalyva
+2017-11-08 13:10:29 Friends  : 100% at 38/sec for InsulationIF
+2017-11-08 13:10:32 Favorites: 49.4% at 43/sec for EngineerPeter
+2017-11-08 13:10:40 Friends  : 99.5% at 38/sec for AtelierTen
+2017-11-08 13:10:53 Friends  : 99.4% at 27/sec for AvestaFSM
+2017-11-08 13:10:54 Favorites: 51.1% at 45/sec for Facilities_Show
+2017-11-08 13:10:57 Friends  : 98.1% at 34/sec for CIBSE_Cities
+2017-11-08 13:10:59 Friends  : 100% at 28/sec for e3tweeter
+2017-11-08 13:11:11 Friends  : 98.7% at 43/sec for elenikalyva
+2017-11-08 13:11:16 Friends  : 100% at 35/sec for EngineerPeter
+2017-11-08 13:11:33 Tweets   : 83.9% at 47/sec for Oliver_Heath
+2017-11-08 13:11:42 Favorites: Waiting for 6.7 minutes due to : Used up allowance in a loop
+2017-11-08 13:11:59 Friends  : 96.5% at 46/sec for Facilities_Show
+2017-11-08 13:12:17 Friends  : 98.2% at 40/sec for HWU_archi
+2017-11-08 13:12:18 Friends  : 95.9% at 42/sec for jim_shove
+2017-11-08 13:12:30 Friends  : 99.5% at 35/sec for lauranolan2010
+2017-11-08 13:12:30 Friends  : Waiting for 10.3 minutes
+2017-11-08 13:12:41 Tweets   : 46.4% at 47/sec for SarahCary
+2017-11-08 13:13:48 Tweets   : 48.7% at 47/sec for The_CIEH
+2017-11-08 13:13:57 Tweets   : 100% at 15/sec for InsulationIF
+2017-11-08 13:14:32 Tweets   : 100% at 45/sec for AtelierTen
+2017-11-08 13:15:09 Tweets   : 99.2% at 44/sec for AvestaFSM
+2017-11-08 13:15:25 Tweets   : 100% at 30/sec for CIBSE_Cities
+2017-11-08 13:15:34 Tweets   : 100% at 20/sec for e3tweeter
+2017-11-08 13:15:50 Tweets   : 100% at 30/sec for elenikalyva
+2017-11-08 13:17:02 Tweets   : 25.1% at 44/sec for EngineerPeter
+2017-11-08 13:18:11 Tweets   : 30.3% at 46/sec for Facilities_Show
+2017-11-08 13:18:36 Favorites: 50.8% at 6/sec for HWU_archi
+2017-11-08 13:18:40 Favorites: 88.4% at 47/sec for jim_shove
+2017-11-08 13:18:45 Favorites: 57.5% at 45/sec for lauranolan2010
+2017-11-08 13:18:48 Favorites: 57.5% at 33/sec for PCAarchaeology
+2017-11-08 13:18:52 Favorites: 73.3% at 42/sec for peterfoldbjerg
+2017-11-08 13:18:53 Favorites: 100% at 57/sec for PFM_Magazine
+2017-11-08 13:18:54 Favorites: 100% at 23/sec for rachelcapon
+2017-11-08 13:19:12 Tweets   : 99.5% at 39/sec for HWU_archi
+2017-11-08 13:19:20 Favorites: 53.3% at 38/sec for Stephencgill
+2017-11-08 13:19:21 Favorites: 100% at 9/sec for CIBSEchpdh
+2017-11-08 13:19:27 Favorites: 67.3% at 51/sec for DemandLogicUK
+2017-11-08 13:19:29 Tweets   : 100% at 26/sec for jim_shove
+2017-11-08 13:19:46 Tweets   : 99.4% at 29/sec for lauranolan2010
+2017-11-08 13:19:46 Favorites: 55.3% at 45/sec for DruCrawley
+2017-11-08 13:19:46 Favorites: User TimCDwyer has a protected account or no Favoritess to collect so skipping
+2017-11-08 13:19:52 Favorites: 58% at 52/sec for ACE_Updates
+2017-11-08 13:20:05 Tweets   : 100% at 30/sec for PCAarchaeology
+2017-11-08 13:20:06 Favorites: 54.7% at 44/sec for benjaminkidd
+2017-11-08 13:20:07 Favorites: 100% at 23/sec for BSRIA_Clair
+2017-11-08 13:20:09 Favorites: 100% at 21/sec for cfeglobal
+2017-11-08 13:20:11 Favorites: 51.9% at 59/sec for CharteredICES
+2017-11-08 13:20:17 Tweets   : 100% at 25/sec for peterfoldbjerg
+2017-11-08 13:20:42 Favorites: 51.5% at 48/sec for CIATpresident
+2017-11-08 13:20:42 Favorites: 100% at 16/sec for CIPR_CAPSIG
+2017-11-08 13:20:43 Favorites: 100% at 29/sec for construct_uk
+2017-11-08 13:20:43 Favorites: 100% at 15/sec for FinancialTimes
+2017-11-08 13:20:44 Favorites: 72.5% at 69/sec for infra_intel
+2017-11-08 13:20:52 Favorites: 52% at 40/sec for olivercolvile
+2017-11-08 13:20:56 Favorites: 67.2% at 46/sec for PLACEmaking_uk
+2017-11-08 13:20:58 Favorites: Waiting for 12.4 minutes due to : Used up allowance in a loop
+2017-11-08 13:21:28 Tweets   : 100% at 40/sec for PFM_Magazine
+2017-11-08 13:21:41 Tweets   : 99.8% at 32/sec for rachelcapon
+2017-11-08 13:22:44 Tweets   : 92.8% at 51/sec for Stephencgill
+2017-11-08 13:22:53 Friends  : 99.5% at 1/sec for PCAarchaeology
+2017-11-08 13:22:58 Friends  : 98.2% at 35/sec for peterfoldbjerg
+2017-11-08 13:23:16 Tweets   : 99.7% at 44/sec for CIBSEchpdh
+2017-11-08 13:23:33 Tweets   : 99.8% at 31/sec for DemandLogicUK
+2017-11-08 13:23:57 Friends  : 99.6% at 42/sec for PFM_Magazine
+2017-11-08 13:24:13 Friends  : 99.6% at 42/sec for rachelcapon
+2017-11-08 13:24:40 Tweets   : 27.9% at 47/sec for DruCrawley
+2017-11-08 13:24:50 Tweets   : 100% at 20/sec for TimCDwyer
+2017-11-08 13:26:01 Tweets   : 49.6% at 45/sec for ACE_Updates
+2017-11-08 13:26:50 Tweets   : 99.7% at 39/sec for benjaminkidd
+2017-11-08 13:26:54 Friends  : 92.5% at 42/sec for Stephencgill
+2017-11-08 13:26:57 Friends  : 100% at 35/sec for CIBSEchpdh
+2017-11-08 13:27:05 Tweets   : 100% at 27/sec for BSRIA_Clair
+2017-11-08 13:27:08 Friends  : 99.1% at 39/sec for DemandLogicUK
+2017-11-08 13:28:16 Tweets   : 21.4% at 45/sec for cfeglobal
+2017-11-08 13:28:17 Friends  : 94% at 39/sec for DruCrawley
+2017-11-08 13:28:18 Friends  : 100% at 16/sec for TimCDwyer
+2017-11-08 13:28:32 Friends  : 99.8% at 37/sec for ACE_Updates
+2017-11-08 13:28:59 Friends  : 97.6% at 36/sec for benjaminkidd
+2017-11-08 13:29:10 Friends  : 98.4% at 33/sec for BSRIA_Clair
+2017-11-08 13:29:18 Tweets   : 99.7% at 37/sec for CharteredICES
+2017-11-08 13:29:45 Friends  : 100% at 35/sec for cfeglobal
+2017-11-08 13:29:55 Friends  : 100% at 43/sec for CharteredICES
+2017-11-08 13:29:55 Friends  : Waiting for 7.9 minutes
+2017-11-08 13:30:02 Tweets   : 99.9% at 46/sec for CIATpresident
+2017-11-08 13:30:23 Tweets   : 100% at 37/sec for CIPR_CAPSIG
+2017-11-08 13:31:22 Tweets   : 89.8% at 54/sec for construct_uk
+2017-11-08 13:32:21 Tweets   : 1.5% at 55/sec for FinancialTimes
+2017-11-08 13:33:28 Tweets   : 95.2% at 48/sec for infra_intel
+2017-11-08 13:33:39 Favorites: 53% at 1/sec for AnnaEOHalloran
+2017-11-08 13:33:48 Favorites: 50.6% at 51/sec for BroadlandHsg
+2017-11-08 13:33:53 Favorites: 61% at 45/sec for CIHLondon
+2017-11-08 13:34:02 Favorites: 50.2% at 45/sec for CIHmembership
+2017-11-08 13:34:04 Favorites: 98.6% at 27/sec for clivegreenwd
+2017-11-08 13:34:09 Favorites: 80.7% at 43/sec for ColberAT
+2017-11-08 13:34:20 Favorites: 50.7% at 46/sec for collinscsl
+2017-11-08 13:34:24 Favorites: 60.1% at 46/sec for CroftonsLegal
+2017-11-08 13:34:39 Favorites: 54% at 39/sec for Curo_Group
+2017-11-08 13:34:39 Tweets   : 89.9% at 45/sec for olivercolvile
+2017-11-08 13:34:47 Favorites: 53.5% at 47/sec for DanielleRegenda
+2017-11-08 13:35:00 Favorites: 57.9% at 47/sec for ElizCH15
+2017-11-08 13:35:31 Tweets   : 100% at 39/sec for PLACEmaking_uk
+2017-11-08 13:36:07 Favorites: Waiting for 12.3 minutes due to : Used up allowance in a loop
+2017-11-08 13:36:14 Tweets   : 100% at 36/sec for AnnaEOHalloran
+2017-11-08 13:36:52 Tweets   : 99.9% at 38/sec for BroadlandHsg
+2017-11-08 13:37:59 Tweets   : 73.6% at 48/sec for CIHLondon
+2017-11-08 13:38:01 Friends  : 98.6% at 1/sec for CIATpresident
+2017-11-08 13:38:16 Friends  : 99.8% at 39/sec for CIPR_CAPSIG
+2017-11-08 13:38:18 Friends  : 100% at 42/sec for construct_uk
+2017-11-08 13:38:23 Tweets   : 100% at 37/sec for CIHmembership
+2017-11-08 13:38:36 Friends  : 99.4% at 45/sec for FinancialTimes
+2017-11-08 13:38:40 Tweets   : 100% at 35/sec for clivegreenwd
+2017-11-08 13:38:48 Friends  : 98.8% at 47/sec for infra_intel
+2017-11-08 13:39:07 Tweets   : 100% at 37/sec for ColberAT
+2017-11-08 13:39:09 Friends  : 99.8% at 42/sec for olivercolvile
+2017-11-08 13:39:47 Tweets   : 99.8% at 44/sec for collinscsl
+2017-11-08 13:40:53 Friends  : 96.1% at 44/sec for PLACEmaking_uk
+2017-11-08 13:40:55 Tweets   : 99.9% at 46/sec for CroftonsLegal
+2017-11-08 13:41:04 Friends  : 96.7% at 42/sec for AnnaEOHalloran
+2017-11-08 13:41:13 Friends  : 93.1% at 45/sec for BroadlandHsg
+2017-11-08 13:41:33 Friends  : 95.6% at 34/sec for CIHLondon
+Error in twInterfaceObj$doAPICall(paste("users", "show", sep = "/"), params = params,  : 
+  Not Found (HTTP 404).
+In addition: Warning message:
+package 'twitteR' was built under R version 3.4.1 
+2017-11-08 13:41:33 Friends: Unable to find account CIHmembership moving to next
+2017-11-08 13:41:33 Friends  : % at /sec for CIHmembership
+2017-11-08 13:41:47 Friends  : 97.8% at 40/sec for clivegreenwd
+2017-11-08 13:42:00 Friends  : 98.7% at 40/sec for ColberAT
+2017-11-08 13:42:08 Tweets   : 51.4% at 44/sec for Curo_Group
+2017-11-08 13:42:11 Friends  : 99.5% at 34/sec for collinscsl
+2017-11-08 13:42:28 Friends  : 98.8% at 41/sec for CroftonsLegal
+2017-11-08 13:42:44 Tweets   : 99.7% at 41/sec for DanielleRegenda
+2017-11-08 13:43:31 Tweets   : 99.9% at 38/sec for ElizCH15
+2017-11-08 13:44:32 Friends  : 99.3% at 39/sec for Curo_Group
+2017-11-08 13:44:32 Friends  : Waiting for 8.4 minutes
+2017-11-08 13:44:48 Tweets   : 19.9% at 41/sec for ESpringW11
+2017-11-08 13:45:16 Tweets   : 99.9% at 37/sec for HelenCollins12
+2017-11-08 13:45:23 Tweets   : 100% at 11/sec for housingevidence
+2017-11-08 13:48:28 Favorites: 30.4% at 4/sec for ESpringW11
+2017-11-08 13:48:32 Favorites: 85.8% at 45/sec for HelenCollins12
+2017-11-08 13:48:33 Favorites: 100% at 63/sec for housingevidence
+2017-11-08 13:53:17 Friends  : 99.6% at 1/sec for DanielleRegenda
+2017-11-08 13:53:22 Friends  : 98.3% at 35/sec for ElizCH15
+2017-11-08 13:53:59 Friends  : 97.3% at 36/sec for ESpringW11
+2017-11-08 13:54:16 Friends  : 99.6% at 42/sec for HelenCollins12
+Error in twInterfaceObj$doAPICall(paste("users", "show", sep = "/"), params = params,  : 
+  Not Found (HTTP 404).
+2017-11-08 13:54:17 Friends: Unable to find account housingevidence moving to next
+2017-11-08 13:54:17 Friends  : % at /sec for housingevidence
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+Warning message:
+package 'twitteR' was built under R version 3.4.1 

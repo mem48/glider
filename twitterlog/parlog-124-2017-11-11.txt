@@ -1,0 +1,170 @@
+starting worker pid=600 on localhost:11045 at 21:04:53.451
+starting worker pid=6760 on localhost:11045 at 21:04:53.607
+starting worker pid=5724 on localhost:11045 at 21:04:53.764
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-11 21:06:31 Friends  : 100% at 27/sec for Shankari_Raj
+2017-11-11 21:06:35 Friends  : 99.2% at 29/sec for SimonBayliss1
+2017-11-11 21:06:35 Friends  : User simonedegale has a protected account or no Friendss to collect so skipping
+2017-11-11 21:06:43 Friends  : 97.8% at 38/sec for SimpsonHaugh
+2017-11-11 21:06:48 Friends  : 98.3% at 43/sec for SJohnstonP
+2017-11-11 21:06:52 Friends  : 97.3% at 29/sec for SpheronArch
+2017-11-11 21:07:36 Favorites: 60.7% at 59/sec for Shankari_Raj
+2017-11-11 21:07:36 Favorites: 100% at 16/sec for SimonBayliss1
+2017-11-11 21:07:40 Favorites: 79.4% at 25/sec for simonedegale
+2017-11-11 21:07:58 Friends  : 99.3% at 37/sec for squirepartners
+2017-11-11 21:08:01 Favorites: 54.8% at 28/sec for SimpsonHaugh
+2017-11-11 21:08:04 Favorites: 89.3% at 46/sec for SJohnstonP
+2017-11-11 21:08:12 Friends  : 98.2% at 28/sec for steph_ed_
+2017-11-11 21:08:15 Favorites: 50.9% at 35/sec for SpheronArch
+2017-11-11 21:08:18 Favorites: Waiting for 6.2 minutes due to : Used up allowance in a loop
+2017-11-11 21:08:30 Friends  : 97.2% at 35/sec for stevekav_arch
+2017-11-11 21:08:34 Friends  : 100% at 29/sec for SteveTVPR
+2017-11-11 21:08:39 Friends  : 97.7% at 36/sec for studiomcleod
+2017-11-11 21:09:43 Friends  : 98.3% at 42/sec for suzigrala
+2017-11-11 21:09:58 Friends  : 98.7% at 46/sec for TamsieThomson
+2017-11-11 21:10:02 Tweets   : 99.6% at 43/sec for Shankari_Raj
+2017-11-11 21:10:09 Tweets   : 100% at 14/sec for SimonBayliss1
+2017-11-11 21:10:48 Tweets   : 99.9% at 46/sec for simonedegale
+2017-11-11 21:10:50 Friends  : 99.7% at 45/sec for The_ModernHouse
+2017-11-11 21:11:11 Tweets   : 99.2% at 42/sec for SimpsonHaugh
+2017-11-11 21:11:18 Tweets   : 100% at 16/sec for SJohnstonP
+2017-11-11 21:11:33 Tweets   : 100% at 32/sec for SpheronArch
+2017-11-11 21:12:17 Tweets   : 99.9% at 45/sec for squirepartners
+2017-11-11 21:12:27 Tweets   : 100% at 12/sec for steph_ed_
+2017-11-11 21:12:38 Tweets   : 99.6% at 26/sec for stevekav_arch
+2017-11-11 21:12:43 Friends  : 99.5% at 45/sec for The_RHS
+2017-11-11 21:12:44 Friends  : Waiting for 8.6 minutes
+2017-11-11 21:13:00 Tweets   : 99.7% at 36/sec for SteveTVPR
+2017-11-11 21:13:10 Tweets   : 100% at 17/sec for studiomcleod
+2017-11-11 21:14:12 Tweets   : 79.5% at 51/sec for suzigrala
+2017-11-11 21:14:46 Favorites: 59.3% at 1/sec for squirepartners
+2017-11-11 21:14:47 Favorites: 52.9% at 82/sec for steph_ed_
+2017-11-11 21:14:53 Favorites: 64.5% at 33/sec for stevekav_arch
+2017-11-11 21:14:54 Favorites: 73% at 74/sec for SteveTVPR
+2017-11-11 21:14:57 Favorites: 101.1% at 32/sec for studiomcleod
+2017-11-11 21:15:21 Tweets   : 97.9% at 47/sec for TamsieThomson
+2017-11-11 21:15:23 Favorites: 53.6% at 38/sec for suzigrala
+2017-11-11 21:15:58 Favorites: 49.8% at 39/sec for TamsieThomson
+2017-11-11 21:16:27 Tweets   : 33% at 48/sec for The_ModernHouse
+2017-11-11 21:16:47 Favorites: 48.8% at 38/sec for The_ModernHouse
+2017-11-11 21:17:34 Tweets   : 9.1% at 48/sec for The_RHS
+2017-11-11 21:17:52 Favorites: Waiting for 11.8 minutes due to : Used up allowance in a loop
+2017-11-11 21:17:52 Tweets   : 100% at 32/sec for The_SaLADS
+2017-11-11 21:18:53 Tweets   : 99.7% at 48/sec for the15hfloor
+2017-11-11 21:20:00 Tweets   : 14.1% at 47/sec for thehistoryguy
+2017-11-11 21:20:23 Tweets   : 100% at 36/sec for theleweshome
+2017-11-11 21:21:36 Tweets   : 46.6% at 44/sec for thomholbrook
+2017-11-11 21:21:41 Friends  : 99.6% at 1/sec for The_SaLADS
+2017-11-11 21:21:53 Tweets   : 100% at 36/sec for threefoldarch
+2017-11-11 21:21:57 Friends  : 99.3% at 45/sec for the15hfloor
+2017-11-11 21:22:18 Friends  : 98.7% at 41/sec for thehistoryguy
+2017-11-11 21:22:30 Friends  : 96% at 45/sec for theleweshome
+2017-11-11 21:22:43 Friends  : 99% at 42/sec for thomholbrook
+2017-11-11 21:22:59 Tweets   : 94.5% at 48/sec for timatxsite
+2017-11-11 21:23:08 Friends  : 96.6% at 42/sec for threefoldarch
+2017-11-11 21:23:32 Friends  : 98.7% at 43/sec for timatxsite
+2017-11-11 21:24:02 Friends  : 99.2% at 43/sec for tomdyckhoff
+2017-11-11 21:24:10 Tweets   : 28.9% at 45/sec for tomdyckhoff
+2017-11-11 21:25:00 Friends  : 99% at 37/sec for TOWIWoolwich
+2017-11-11 21:25:17 Tweets   : 10.2% at 47/sec for TOWIWoolwich
+2017-11-11 21:25:50 Friends  : 99% at 42/sec for tradegovukIND
+2017-11-11 21:26:08 Friends  : 99.3% at 34/sec for uncommonmartyn
+2017-11-11 21:26:11 Friends  : 95.4% at 46/sec for uslarchitects
+2017-11-11 21:26:24 Friends  : 98.4% at 34/sec for vfarrow16
+2017-11-11 21:26:25 Friends  : 100% at 29/sec for videoprods
+2017-11-11 21:26:25 Tweets   : 21.3% at 47/sec for tradegovukIND
+2017-11-11 21:27:12 Tweets   : 99.9% at 45/sec for uncommonmartyn
+2017-11-11 21:27:20 Tweets   : 100% at 18/sec for uslarchitects
+2017-11-11 21:28:13 Friends  : 99.7% at 39/sec for visitlondon
+2017-11-11 21:28:13 Friends  : Waiting for 8.4 minutes
+2017-11-11 21:28:20 Tweets   : 99.9% at 42/sec for vfarrow16
+2017-11-11 21:28:26 Tweets   : 100% at 2/sec for videoprods
+2017-11-11 21:29:31 Tweets   : 6.6% at 49/sec for visitlondon
+2017-11-11 21:29:42 Tweets   : 100% at 24/sec for w_hawkins
+2017-11-11 21:30:15 Tweets   : 99.9% at 37/sec for WebbYates
+2017-11-11 21:30:19 Favorites: 7.2% at 4/sec for The_RHS
+2017-11-11 21:30:32 Favorites: 60.7% at 40/sec for The_SaLADS
+2017-11-11 21:30:41 Tweets   : 99.7% at 36/sec for WilkinsonEyre
+2017-11-11 21:31:04 Favorites: 50.1% at 40/sec for the15hfloor
+2017-11-11 21:31:48 Favorites: 51.6% at 38/sec for thehistoryguy
+2017-11-11 21:31:58 Tweets   : 93.2% at 42/sec for WofInteriors
+2017-11-11 21:32:21 Tweets   : 100% at 40/sec for womentalkRE
+2017-11-11 21:32:27 Favorites: 51.8% at 40/sec for theleweshome
+2017-11-11 21:32:38 Favorites: 54.8% at 36/sec for thomholbrook
+2017-11-11 21:32:46 Favorites: 66.8% at 38/sec for threefoldarch
+2017-11-11 21:32:54 Tweets   : 99.6% at 44/sec for ZHA_News
+2017-11-11 21:32:58 Favorites: 52.4% at 41/sec for timatxsite
+2017-11-11 21:33:05 Favorites: Waiting for 11.9 minutes due to : Used up allowance in a loop
+2017-11-11 21:33:37 Tweets   : 99.5% at 50/sec for Zoe_Hooton
+2017-11-11 21:34:41 Tweets   : 82% at 50/sec for Adam_Challis
+2017-11-11 21:34:51 Tweets   : 100% at 19/sec for AlasdairHumph
+2017-11-11 21:35:38 Tweets   : 99.9% at 48/sec for alinea_LLP
+2017-11-11 21:36:00 Tweets   : 99.9% at 41/sec for AlisonFS5
+2017-11-11 21:36:13 Tweets   : 100% at 25/sec for AngleSurveys
+2017-11-11 21:36:24 Tweets   : 100% at 30/sec for AnnaLandmark
+2017-11-11 21:36:58 Friends  : 100% at 1/sec for w_hawkins
+2017-11-11 21:37:20 Friends  : 99.3% at 46/sec for WebbYates
+2017-11-11 21:37:34 Tweets   : 71.7% at 46/sec for arch_lintel
+2017-11-11 21:37:40 Friends  : 99.9% at 41/sec for WilkinsonEyre
+2017-11-11 21:38:08 Friends  : 99.8% at 48/sec for WofInteriors
+2017-11-11 21:38:24 Friends  : 96.2% at 43/sec for womentalkRE
+2017-11-11 21:38:33 Friends  : 99.1% at 35/sec for ZHA_News
+2017-11-11 21:38:44 Tweets   : 79.9% at 45/sec for ArchTechs
+2017-11-11 21:39:09 Tweets   : 100% at 35/sec for bcucebe
+2017-11-11 21:39:11 Friends  : 98.9% at 44/sec for Zoe_Hooton
+2017-11-11 21:39:25 Friends  : 99.6% at 47/sec for Adam_Challis
+2017-11-11 21:39:28 Friends  : 100% at 17/sec for AlasdairHumph
+2017-11-11 21:40:05 Friends  : 98.3% at 39/sec for alinea_LLP
+2017-11-11 21:40:22 Tweets   : 70.3% at 44/sec for Beccasianhunt
+2017-11-11 21:40:31 Friends  : 99.5% at 41/sec for AlisonFS5
+2017-11-11 21:40:34 Friends  : 100% at 53/sec for AngleSurveys
+2017-11-11 21:40:39 Friends  : 96.9% at 37/sec for AnnaLandmark
+2017-11-11 21:41:23 Friends  : 99.1% at 39/sec for arch_lintel
+2017-11-11 21:41:36 Friends  : 98.6% at 40/sec for ArchTechs
+2017-11-11 21:41:36 Friends  : Waiting for 10.3 minutes
+2017-11-11 21:41:37 Tweets   : 18.3% at 43/sec for becdecicco
+2017-11-11 21:41:50 Tweets   : 100% at 27/sec for bellrockprop
+2017-11-11 21:42:27 Tweets   : 99.9% at 38/sec for bettesworths
+2017-11-11 21:45:46 Favorites: 51.9% at 1/sec for tomdyckhoff
+2017-11-11 21:46:51 Favorites: 48.5% at 41/sec for TOWIWoolwich
+2017-11-11 21:46:57 Favorites: 85.4% at 32/sec for tradegovukIND
+2017-11-11 21:47:02 Favorites: 94.7% at 46/sec for uncommonmartyn
+2017-11-11 21:47:04 Favorites: 52.6% at 36/sec for uslarchitects
+2017-11-11 21:47:27 Favorites: 54.8% at 44/sec for vfarrow16
+2017-11-11 21:47:27 Favorites: User videoprods has a protected account or no Favoritess to collect so skipping
+2017-11-11 21:48:26 Favorites: Waiting for 11.9 minutes due to : Used up allowance in a loop
+2017-11-11 21:52:22 Friends  : 92.9% at 0/sec for bcucebe
+2017-11-11 21:53:02 Friends  : 99.3% at 46/sec for Beccasianhunt
+2017-11-11 21:53:43 Friends  : 98.8% at 42/sec for becdecicco
+2017-11-11 21:54:08 Friends  : 99.7% at 46/sec for bellrockprop
+2017-11-11 21:54:49 Friends  : 98.6% at 43/sec for bettesworths
+2017-11-11 22:00:52 Favorites: 50.5% at 3/sec for visitlondon
+2017-11-11 22:00:53 Favorites: 99% at 57/sec for w_hawkins
+2017-11-11 22:01:03 Favorites: 55.6% at 40/sec for WebbYates
+2017-11-11 22:01:13 Favorites: 58.4% at 40/sec for WilkinsonEyre
+2017-11-11 22:01:24 Favorites: 62.8% at 37/sec for WofInteriors
+2017-11-11 22:01:31 Favorites: 64.6% at 41/sec for womentalkRE
+2017-11-11 22:01:45 Favorites: 56.2% at 30/sec for ZHA_News
+2017-11-11 22:02:11 Favorites: 49.3% at 41/sec for Zoe_Hooton
+2017-11-11 22:02:21 Favorites: 61.7% at 40/sec for Adam_Challis
+2017-11-11 22:02:21 Favorites: 100% at 12/sec for AlasdairHumph
+2017-11-11 22:03:09 Favorites: 51.2% at 42/sec for alinea_LLP
+2017-11-11 22:03:28 Favorites: 49.4% at 41/sec for AlisonFS5
+2017-11-11 22:03:45 Favorites: Waiting for 11.9 minutes due to : Used up allowance in a loop
+2017-11-11 22:16:13 Favorites: 53.9% at 1/sec for AngleSurveys
+2017-11-11 22:16:21 Favorites: 56.4% at 48/sec for AnnaLandmark
+2017-11-11 22:16:40 Favorites: 54.6% at 42/sec for arch_lintel
+2017-11-11 22:16:50 Favorites: 66% at 39/sec for ArchTechs
+2017-11-11 22:16:55 Favorites: 64.7% at 44/sec for bcucebe
+2017-11-11 22:17:09 Favorites: 51% at 41/sec for Beccasianhunt
+2017-11-11 22:18:25 Favorites: 34.4% at 41/sec for becdecicco
+2017-11-11 22:18:29 Favorites: 97.6% at 47/sec for bellrockprop
+2017-11-11 22:18:44 Favorites: 51.7% at 39/sec for bettesworths
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+Warning message:
+package 'twitteR' was built under R version 3.4.1 

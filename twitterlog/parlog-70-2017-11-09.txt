@@ -1,0 +1,170 @@
+starting worker pid=10552 on localhost:11045 at 04:05:15.769
+starting worker pid=16860 on localhost:11045 at 04:05:15.932
+starting worker pid=11488 on localhost:11045 at 04:05:16.089
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-09 04:05:41 Friends  : 100% at 41/sec for adsectech
+2017-11-09 04:05:45 Favorites: 100% at 25/sec for adsectech
+2017-11-09 04:06:01 Favorites: 55.3% at 42/sec for ASDANeducation
+2017-11-09 04:06:04 Favorites: 84% at 42/sec for BTLGroup
+2017-11-09 04:06:06 Favorites: 85.3% at 44/sec for foegrant
+2017-11-09 04:06:13 Favorites: 56.8% at 43/sec for HaguePrintUK
+2017-11-09 04:06:32 Friends  : 99.9% at 41/sec for ASDANeducation
+2017-11-09 04:06:35 Tweets   : 100% at 42/sec for adsectech
+2017-11-09 04:06:46 Favorites: Waiting for 11.2 minutes due to : Used up allowance in a loop
+2017-11-09 04:06:57 Friends  : 98.1% at 47/sec for BTLGroup
+2017-11-09 04:07:00 Friends  : 99% at 35/sec for foegrant
+2017-11-09 04:07:15 Friends  : 97.8% at 43/sec for HaguePrintUK
+2017-11-09 04:07:37 Tweets   : 39.1% at 52/sec for ASDANeducation
+2017-11-09 04:07:59 Tweets   : 99.8% at 42/sec for BTLGroup
+2017-11-09 04:08:04 Friends  : 96.9% at 42/sec for martin_ocnni
+2017-11-09 04:08:07 Tweets   : 99.2% at 15/sec for foegrant
+2017-11-09 04:08:25 Friends  : 99.8% at 45/sec for BBarrington
+2017-11-09 04:08:37 Friends  : 99.4% at 43/sec for Ofstednews
+2017-11-09 04:08:50 Friends  : 99.8% at 43/sec for BBCStargazing
+2017-11-09 04:09:06 Tweets   : 93.6% at 54/sec for HaguePrintUK
+2017-11-09 04:09:23 Tweets   : 100% at 34/sec for martin_ocnni
+2017-11-09 04:09:32 Friends  : 99.2% at 44/sec for BeddyMike
+2017-11-09 04:10:22 Friends  : 99.9% at 46/sec for betonykelly
+2017-11-09 04:10:24 Tweets   : 79.6% at 52/sec for BBarrington
+2017-11-09 04:11:06 Friends  : 99.9% at 43/sec for BigBangFair
+2017-11-09 04:11:10 Friends  : 99.4% at 38/sec for blholroyd
+2017-11-09 04:11:24 Tweets   : 23.7% at 53/sec for Ofstednews
+2017-11-09 04:12:27 Tweets   : 63.2% at 51/sec for BBCStargazing
+2017-11-09 04:12:39 Friends  : 100% at 42/sec for BusinessZone
+2017-11-09 04:12:52 Friends  : 98% at 50/sec for citydaduk
+2017-11-09 04:12:52 Friends  : Waiting for 7.7 minutes
+2017-11-09 04:13:32 Tweets   : 68.5% at 49/sec for BeddyMike
+2017-11-09 04:14:32 Tweets   : 27.2% at 53/sec for betonykelly
+2017-11-09 04:15:37 Tweets   : 38.9% at 49/sec for BigBangFair
+2017-11-09 04:15:51 Tweets   : 100% at 32/sec for blholroyd
+2017-11-09 04:16:54 Tweets   : 7.3% at 51/sec for BusinessZone
+2017-11-09 04:17:43 Tweets   : 99.9% at 52/sec for citydaduk
+2017-11-09 04:18:22 Favorites: 50.7% at 2/sec for martin_ocnni
+2017-11-09 04:18:23 Tweets   : 99.9% at 45/sec for ClaireLGott
+2017-11-09 04:18:28 Favorites: 60% at 49/sec for BBarrington
+2017-11-09 04:18:37 Favorites: 54.8% at 46/sec for Ofstednews
+2017-11-09 04:18:48 Favorites: 55.9% at 44/sec for BBCStargazing
+2017-11-09 04:19:20 Tweets   : 6.8% at 56/sec for dhlexpressuk
+2017-11-09 04:19:22 Favorites: 49.2% at 43/sec for BeddyMike
+2017-11-09 04:20:01 Favorites: 51.1% at 43/sec for betonykelly
+2017-11-09 04:20:17 Favorites: 54.4% at 42/sec for BigBangFair
+2017-11-09 04:20:27 Favorites: 51.4% at 43/sec for blholroyd
+2017-11-09 04:20:28 Tweets   : 34.6% at 47/sec for EEF_Insights
+2017-11-09 04:20:40 Favorites: 55.2% at 43/sec for BusinessZone
+2017-11-09 04:21:00 Friends  : 99.4% at 1/sec for ClaireLGott
+2017-11-09 04:21:04 Favorites: 51.2% at 42/sec for citydaduk
+2017-11-09 04:21:11 Favorites: Waiting for 12.2 minutes due to : Used up allowance in a loop
+2017-11-09 04:21:37 Tweets   : 14.4% at 46/sec for emmaljones
+2017-11-09 04:22:40 Tweets   : 30% at 51/sec for EY_UKI
+2017-11-09 04:23:04 Tweets   : 99.8% at 40/sec for franmblopez
+2017-11-09 04:23:42 Tweets   : 99.4% at 45/sec for geesehmi
+2017-11-09 04:24:01 Tweets   : 99.9% at 41/sec for GregClarkMP
+2017-11-09 04:24:47 Friends  : 99% at 46/sec for dhlexpressuk
+2017-11-09 04:25:04 Tweets   : 6.1% at 50/sec for HullsEnterprise
+2017-11-09 04:25:27 Friends  : 97% at 51/sec for EEF_Insights
+2017-11-09 04:26:05 Tweets   : 18.1% at 52/sec for ICAEW
+2017-11-09 04:26:44 Friends  : 99.1% at 50/sec for emmaljones
+2017-11-09 04:27:00 Friends  : 99.5% at 52/sec for EY_UKI
+2017-11-09 04:27:08 Tweets   : 30.4% at 51/sec for InsideGovt
+2017-11-09 04:27:08 Friends  : 99.7% at 37/sec for franmblopez
+2017-11-09 04:27:23 Friends  : 98.6% at 53/sec for geesehmi
+2017-11-09 04:27:23 Tweets   : 100% at 37/sec for intouchcare
+2017-11-09 04:27:29 Friends  : 99.3% at 49/sec for GregClarkMP
+2017-11-09 04:27:55 Friends  : 98.5% at 51/sec for HullsEnterprise
+2017-11-09 04:28:01 Tweets   : 99.9% at 46/sec for JLR_News
+2017-11-09 04:28:13 Friends  : 99.7% at 52/sec for ICAEW
+2017-11-09 04:28:44 Friends  : 99.9% at 51/sec for InsideGovt
+2017-11-09 04:28:59 Friends  : 100% at 52/sec for intouchcare
+2017-11-09 04:29:06 Tweets   : 15.2% at 49/sec for joswinson
+2017-11-09 04:29:11 Friends  : 99.8% at 48/sec for JLR_News
+2017-11-09 04:29:11 Friends  : Waiting for 6.7 minutes
+2017-11-09 04:30:07 Tweets   : 38.7% at 52/sec for LSEplc
+2017-11-09 04:30:26 Tweets   : 99.7% at 39/sec for mcallister_d
+2017-11-09 04:31:32 Tweets   : 95.2% at 48/sec for MoJGovUK
+2017-11-09 04:32:36 Tweets   : 25.6% at 50/sec for NationalCareers
+2017-11-09 04:33:35 Tweets   : 37.3% at 54/sec for QEPrize
+2017-11-09 04:33:53 Favorites: 49.1% at 1/sec for ClaireLGott
+2017-11-09 04:34:31 Tweets   : 99.9% at 50/sec for RekhaMehr
+2017-11-09 04:34:40 Favorites: 49.5% at 43/sec for dhlexpressuk
+2017-11-09 04:35:34 Tweets   : 25.5% at 51/sec for research_uk
+2017-11-09 04:35:55 Favorites: 46.1% at 43/sec for EEF_Insights
+2017-11-09 04:36:00 Favorites: 84.2% at 43/sec for emmaljones
+2017-11-09 04:36:30 Favorites: 53% at 43/sec for EY_UKI
+2017-11-09 04:36:32 Favorites: Waiting for 12.2 minutes due to : Used up allowance in a loop
+2017-11-09 04:36:40 Tweets   : 64.7% at 48/sec for RussellGroup
+2017-11-09 04:36:54 Friends  : 99% at 5/sec for joswinson
+2017-11-09 04:36:56 Tweets   : 100% at 33/sec for SamWhiteGov
+2017-11-09 04:37:01 Friends  : 99.3% at 43/sec for LSEplc
+2017-11-09 04:37:06 Friends  : 99.5% at 38/sec for mcallister_d
+2017-11-09 04:37:36 Friends  : 99.6% at 45/sec for MoJGovUK
+2017-11-09 04:37:59 Friends  : 98.3% at 47/sec for NationalCareers
+2017-11-09 04:38:02 Tweets   : 18% at 49/sec for SarahplusLaura
+2017-11-09 04:38:32 Friends  : 99.5% at 51/sec for QEPrize
+2017-11-09 04:38:58 Friends  : 99.7% at 54/sec for RekhaMehr
+2017-11-09 04:39:00 Friends  : 97% at 41/sec for research_uk
+2017-11-09 04:39:09 Tweets   : 61.2% at 47/sec for sciencecampaign
+2017-11-09 04:39:20 Friends  : 99.4% at 50/sec for RussellGroup
+2017-11-09 04:39:24 Friends  : 100% at 45/sec for SamWhiteGov
+2017-11-09 04:39:32 Friends  : 97.9% at 44/sec for SarahplusLaura
+2017-11-09 04:39:45 Friends  : 100% at 52/sec for sciencecampaign
+2017-11-09 04:40:12 Tweets   : 9.7% at 51/sec for sciencemuseum
+2017-11-09 04:41:11 Tweets   : 2.6% at 54/sec for SF_England
+2017-11-09 04:41:23 Tweets   : 99.2% at 31/sec for spring_project
+2017-11-09 04:42:36 Tweets   : 17.8% at 44/sec for stuart_rock
+2017-11-09 04:42:39 Friends  : 99.9% at 45/sec for sciencemuseum
+2017-11-09 04:43:15 Friends  : 95.9% at 46/sec for SF_England
+2017-11-09 04:43:15 Friends  : Waiting for 7.9 minutes
+2017-11-09 04:43:43 Tweets   : 17% at 48/sec for TechCityUK
+2017-11-09 04:44:27 Tweets   : 99.9% at 48/sec for TeraPauliina
+2017-11-09 04:45:31 Tweets   : 4.5% at 50/sec for timeshighered
+2017-11-09 04:46:40 Tweets   : 57.6% at 46/sec for UKinJapan
+2017-11-09 04:47:21 Tweets   : 99.8% at 49/sec for uksciencechief
+2017-11-09 04:48:30 Tweets   : 40% at 47/sec for UniAlliance
+2017-11-09 04:49:08 Favorites: 54.4% at 0/sec for franmblopez
+2017-11-09 04:49:39 Favorites: 49.5% at 44/sec for geesehmi
+2017-11-09 04:49:43 Favorites: 54.3% at 45/sec for GregClarkMP
+2017-11-09 04:50:55 Favorites: 17.4% at 44/sec for HullsEnterprise
+2017-11-09 04:51:25 Friends  : 100% at 0/sec for spring_project
+2017-11-09 04:51:43 Favorites: 49.9% at 43/sec for ICAEW
+2017-11-09 04:51:50 Favorites: Waiting for 12.2 minutes due to : Used up allowance in a loop
+2017-11-09 04:52:22 Friends  : 99.5% at 48/sec for stuart_rock
+2017-11-09 04:54:42 Friends  : 99.4% at 51/sec for TechCityUK
+2017-11-09 04:54:47 Friends  : 98.7% at 44/sec for TeraPauliina
+2017-11-09 04:55:54 Friends  : 99.9% at 50/sec for timeshighered
+2017-11-09 04:55:57 Friends  : 98.6% at 46/sec for UKinJapan
+2017-11-09 04:56:10 Friends  : 99.5% at 50/sec for uksciencechief
+2017-11-09 04:57:40 Friends  : 98.6% at 49/sec for UniAlliance
+2017-11-09 05:04:33 Favorites: 49.9% at 1/sec for InsideGovt
+2017-11-09 05:04:35 Favorites: 100% at 44/sec for intouchcare
+2017-11-09 05:04:40 Favorites: 64.1% at 45/sec for JLR_News
+2017-11-09 05:05:06 Favorites: 51.9% at 45/sec for joswinson
+2017-11-09 05:05:06 Favorites: 100% at 3/sec for LSEplc
+2017-11-09 05:05:09 Favorites: 51.5% at 43/sec for mcallister_d
+2017-11-09 05:05:11 Favorites: 75.2% at 45/sec for MoJGovUK
+2017-11-09 05:05:32 Favorites: 51.3% at 47/sec for NationalCareers
+2017-11-09 05:05:48 Favorites: 56% at 43/sec for QEPrize
+2017-11-09 05:05:57 Favorites: 55.2% at 46/sec for RekhaMehr
+2017-11-09 05:06:01 Favorites: 54.8% at 48/sec for research_uk
+2017-11-09 05:06:06 Favorites: 50.4% at 41/sec for RussellGroup
+2017-11-09 05:06:06 Favorites: User SamWhiteGov has a protected account or no Favoritess to collect so skipping
+2017-11-09 05:07:08 Favorites: Waiting for 12.3 minutes due to : Used up allowance in a loop
+2017-11-09 05:19:56 Favorites: 43.9% at 4/sec for SarahplusLaura
+2017-11-09 05:19:58 Favorites: 98.3% at 27/sec for sciencecampaign
+2017-11-09 05:21:11 Favorites: 33.1% at 44/sec for sciencemuseum
+2017-11-09 05:21:19 Favorites: 47.1% at 46/sec for SF_England
+2017-11-09 05:21:19 Favorites: User spring_project has a protected account or no Favoritess to collect so skipping
+2017-11-09 05:21:40 Favorites: 55% at 42/sec for stuart_rock
+2017-11-09 05:22:31 Favorites: Waiting for 12.3 minutes due to : Used up allowance in a loop
+2017-11-09 05:35:30 Favorites: 46.5% at 4/sec for TechCityUK
+2017-11-09 05:35:34 Favorites: 83.3% at 45/sec for TeraPauliina
+2017-11-09 05:36:24 Favorites: 51.1% at 43/sec for timeshighered
+2017-11-09 05:36:24 Favorites: 100% at 18/sec for UKinJapan
+2017-11-09 05:36:26 Favorites: 100% at 39/sec for uksciencechief
+2017-11-09 05:36:37 Favorites: 52.3% at 45/sec for UniAlliance
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+package 'twitteR' was built under R version 3.4.1 
+Warning message:
+package 'twitteR' was built under R version 3.4.1 

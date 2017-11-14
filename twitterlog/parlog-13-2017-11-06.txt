@@ -1,0 +1,164 @@
+starting worker pid=10668 on localhost:11045 at 10:45:55.377
+starting worker pid=7960 on localhost:11045 at 10:45:55.537
+starting worker pid=9600 on localhost:11045 at 10:45:55.693
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-06 10:46:26 Friends  : 99.3% at 31/sec for ruthj89
+2017-11-06 10:46:33 Friends  : 99% at 38/sec for SaffronHousing
+2017-11-06 10:46:34 Favorites: 100% at 14/sec for ruthj89
+2017-11-06 10:46:36 Favorites: 80% at 47/sec for SaffronHousing
+2017-11-06 10:46:44 Favorites: 50.2% at 37/sec for builderengineer
+2017-11-06 10:46:50 Friends  : 99.8% at 40/sec for builderengineer
+2017-11-06 10:46:57 Favorites: 57.7% at 45/sec for ConstructExpo
+2017-11-06 10:46:59 Tweets   : 100% at 12/sec for ruthj89
+2017-11-06 10:46:59 Favorites: 100% at 39/sec for WoodheadGroup
+2017-11-06 10:47:41 Friends  : 96.7% at 46/sec for ConstructExpo
+2017-11-06 10:47:42 Favorites: Waiting for 10.9 minutes due to : Used up allowance in a loop
+2017-11-06 10:48:02 Friends  : 99.1% at 47/sec for WoodheadGroup
+2017-11-06 10:48:02 Tweets   : 88.9% at 51/sec for SaffronHousing
+2017-11-06 10:48:27 Friends  : 99.3% at 46/sec for 55n
+2017-11-06 10:48:48 Friends  : 99.3% at 39/sec for HTADesignLLP
+2017-11-06 10:48:59 Tweets   : 35% at 56/sec for builderengineer
+2017-11-06 10:49:07 Friends  : 99.9% at 39/sec for james7baker
+2017-11-06 10:49:16 Friends  : 99% at 54/sec for aleyn
+2017-11-06 10:49:17 Friends  : 100% at 23/sec for PWedg
+2017-11-06 10:49:22 Friends  : 100% at 45/sec for NSCCSpecialists
+2017-11-06 10:49:32 Friends  : 99.8% at 48/sec for RoofingRacers
+2017-11-06 10:50:02 Tweets   : 53.8% at 51/sec for ConstructExpo
+2017-11-06 10:50:19 Friends  : 100% at 49/sec for edie
+2017-11-06 10:50:31 Friends  : 98.2% at 45/sec for EightAssociates
+2017-11-06 10:50:43 Friends  : 97.5% at 44/sec for lordmayors_show
+2017-11-06 10:50:44 Friends  : Waiting for 10.6 minutes
+2017-11-06 10:50:46 Tweets   : 99.7% at 53/sec for WoodheadGroup
+2017-11-06 10:51:54 Tweets   : 30.9% at 46/sec for 55n
+2017-11-06 10:52:39 Tweets   : 99.9% at 50/sec for HTADesignLLP
+2017-11-06 10:53:41 Tweets   : 20.3% at 51/sec for james7baker
+2017-11-06 10:53:57 Tweets   : 100% at 38/sec for aleyn
+2017-11-06 10:54:10 Tweets   : 99.5% at 33/sec for PWedg
+2017-11-06 10:54:31 Tweets   : 100% at 49/sec for NSCCSpecialists
+2017-11-06 10:54:44 Tweets   : 100% at 33/sec for RoofingRacers
+2017-11-06 10:55:46 Tweets   : 27.5% at 52/sec for edie
+2017-11-06 10:56:11 Tweets   : 100% at 42/sec for EightAssociates
+2017-11-06 10:56:25 Tweets   : 99.8% at 31/sec for lordmayors_show
+2017-11-06 10:57:22 Tweets   : 91.5% at 57/sec for TestoLimited
+2017-11-06 10:58:26 Tweets   : 92.8% at 49/sec for EdWallington
+2017-11-06 10:59:09 Favorites: 50.9% at 4/sec for 55n
+2017-11-06 10:59:16 Favorites: 59% at 45/sec for HTADesignLLP
+2017-11-06 10:59:23 Tweets   : 53.6% at 57/sec for PARNglobal
+2017-11-06 10:59:25 Favorites: 52.9% at 46/sec for james7baker
+2017-11-06 10:59:31 Favorites: 74.1% at 46/sec for aleyn
+2017-11-06 10:59:39 Favorites: 63.4% at 47/sec for PWedg
+2017-11-06 10:59:41 Favorites: 100% at 40/sec for NSCCSpecialists
+2017-11-06 10:59:45 Favorites: 96.2% at 46/sec for RoofingRacers
+2017-11-06 10:59:59 Favorites: 50% at 43/sec for edie
+2017-11-06 11:00:03 Favorites: 61.5% at 43/sec for EightAssociates
+2017-11-06 11:00:08 Favorites: 63.7% at 42/sec for lordmayors_show
+2017-11-06 11:00:21 Favorites: 51.2% at 45/sec for TestoLimited
+2017-11-06 11:00:26 Favorites: 54.8% at 42/sec for EdWallington
+2017-11-06 11:00:28 Tweets   : 13.4% at 49/sec for fsb_policy
+2017-11-06 11:00:33 Favorites: 72.2% at 41/sec for PARNglobal
+2017-11-06 11:00:47 Tweets   : 100% at 42/sec for OrivaldoBarros
+2017-11-06 11:00:48 Favorites: 51% at 45/sec for fsb_policy
+2017-11-06 11:00:50 Favorites: 82.6% at 51/sec for OrivaldoBarros
+2017-11-06 11:01:10 Favorites: 51.8% at 45/sec for SustainWorld
+2017-11-06 11:01:17 Favorites: 65.5% at 44/sec for ashraenews
+2017-11-06 11:01:19 Favorites: 100% at 37/sec for CIBSEANZ
+2017-11-06 11:01:19 Tweets   : 100% at 50/sec for SustainWorld
+2017-11-06 11:01:35 Favorites: 52.7% at 43/sec for DMather4
+2017-11-06 11:01:38 Favorites: Waiting for 12.2 minutes due to : Used up allowance in a loop
+2017-11-06 11:01:49 Tweets   : 99.9% at 47/sec for ashraenews
+2017-11-06 11:01:59 Tweets   : 100% at 20/sec for CIBSEANZ
+2017-11-06 11:02:31 Friends  : 95.6% at 4/sec for TestoLimited
+2017-11-06 11:03:04 Tweets   : 56.2% at 49/sec for DMather4
+2017-11-06 11:03:14 Friends  : 99.6% at 44/sec for EdWallington
+2017-11-06 11:03:53 Friends  : 99.6% at 43/sec for PARNglobal
+2017-11-06 11:04:08 Tweets   : 60.3% at 50/sec for RemehaUK
+2017-11-06 11:04:30 Friends  : 99.5% at 50/sec for fsb_policy
+2017-11-06 11:04:44 Friends  : 99.8% at 44/sec for OrivaldoBarros
+2017-11-06 11:05:07 Tweets   : 29.4% at 53/sec for CIHTUK
+2017-11-06 11:05:54 Friends  : 99.1% at 44/sec for SustainWorld
+2017-11-06 11:06:07 Friends  : 100% at 45/sec for ashraenews
+2017-11-06 11:06:14 Tweets   : 90.1% at 48/sec for CIRIAnetwork
+2017-11-06 11:06:35 Friends  : 99.8% at 47/sec for CIBSEANZ
+2017-11-06 11:06:54 Friends  : 99.4% at 43/sec for DMather4
+2017-11-06 11:07:05 Tweets   : 100% at 50/sec for CIHScotland
+2017-11-06 11:07:49 Friends  : 98.3% at 44/sec for RemehaUK
+2017-11-06 11:08:02 Friends  : 98.5% at 50/sec for CIHTUK
+2017-11-06 11:08:14 Tweets   : 10.4% at 46/sec for MrASingh
+2017-11-06 11:08:16 Friends  : 99.7% at 47/sec for CIRIAnetwork
+2017-11-06 11:08:21 Tweets   : 100% at 14/sec for citbcareerlynne
+2017-11-06 11:09:01 Friends  : 97.9% at 46/sec for CIHScotland
+2017-11-06 11:09:26 Tweets   : 87.6% at 50/sec for OpenDoorsWeek
+2017-11-06 11:09:49 Friends  : 99.7% at 42/sec for MrASingh
+2017-11-06 11:09:53 Friends  : 98.7% at 38/sec for citbcareerlynne
+2017-11-06 11:09:53 Friends  : Waiting for 6.8 minutes
+2017-11-06 11:09:58 Tweets   : 100% at 43/sec for antonio_pisano
+2017-11-06 11:10:09 Tweets   : 100% at 21/sec for ConstructCE
+2017-11-06 11:10:51 Tweets   : 100% at 52/sec for VictoryWindow
+2017-11-06 11:10:58 Tweets   : 100% at 16/sec for FMBNorth_Steve
+2017-11-06 11:11:40 Tweets   : 99.9% at 52/sec for DavidGauke
+2017-11-06 11:12:14 Tweets   : 99.9% at 44/sec for ilonahaslewood
+2017-11-06 11:13:09 Tweets   : 99.7% at 52/sec for katherineblaker
+2017-11-06 11:14:13 Tweets   : 17.4% at 50/sec for patrickjbutler
+2017-11-06 11:14:16 Favorites: 51% at 1/sec for RemehaUK
+2017-11-06 11:14:33 Favorites: 55.2% at 41/sec for CIHTUK
+2017-11-06 11:14:40 Favorites: 49.9% at 41/sec for CIRIAnetwork
+2017-11-06 11:14:42 Tweets   : 99.9% at 40/sec for comtec_live
+2017-11-06 11:14:49 Favorites: 50.6% at 43/sec for CIHScotland
+2017-11-06 11:14:56 Tweets   : 100% at 32/sec for LABCacoustics
+[1] "Server error: (500) Internal Server Error"
+[1] "This error is likely transient, retrying up to 5 more times ..."
+2017-11-06 11:16:08 Tweets   : 16.8% at 44/sec for PancreaticCanUK
+2017-11-06 11:16:10 Favorites: 13.1% at 39/sec for MrASingh
+2017-11-06 11:16:11 Favorites: 100% at 33/sec for citbcareerlynne
+2017-11-06 11:16:27 Favorites: 53.3% at 43/sec for OpenDoorsWeek
+2017-11-06 11:16:33 Favorites: 79.9% at 38/sec for antonio_pisano
+2017-11-06 11:16:33 Favorites: 100% at 45/sec for ConstructCE
+2017-11-06 11:16:39 Favorites: 81.7% at 36/sec for VictoryWindow
+2017-11-06 11:16:40 Favorites: 100% at 14/sec for FMBNorth_Steve
+2017-11-06 11:16:45 Favorites: 58.6% at 37/sec for DavidGauke
+2017-11-06 11:16:46 Favorites: 100% at 44/sec for ilonahaslewood
+2017-11-06 11:16:53 Friends  : 98.2% at 1/sec for OpenDoorsWeek
+2017-11-06 11:16:57 Tweets   : 99.9% at 40/sec for greensquare_grp
+2017-11-06 11:16:57 Favorites: 49.8% at 37/sec for katherineblaker
+2017-11-06 11:17:07 Tweets   : 100% at 13/sec for JessMullins90
+2017-11-06 11:17:07 Favorites: Waiting for 12.1 minutes due to : Used up allowance in a loop
+2017-11-06 11:17:07 Friends  : 99.7% at 41/sec for antonio_pisano
+2017-11-06 11:17:12 Friends  : 97.2% at 35/sec for ConstructCE
+2017-11-06 11:17:22 Friends  : 99.8% at 44/sec for VictoryWindow
+2017-11-06 11:17:26 Friends  : 98% at 35/sec for FMBNorth_Steve
+2017-11-06 11:17:34 Friends  : 100% at 39/sec for DavidGauke
+2017-11-06 11:17:53 Friends  : 99% at 42/sec for ilonahaslewood
+2017-11-06 11:18:04 Tweets   : 100% at 50/sec for LYHAtweets
+2017-11-06 11:18:16 Tweets   : 100% at 25/sec for RebeccaMurphy7
+2017-11-06 11:18:32 Friends  : 97.9% at 40/sec for katherineblaker
+2017-11-06 11:19:21 Friends  : 99.7% at 43/sec for patrickjbutler
+2017-11-06 11:19:27 Tweets   : 56.1% at 45/sec for SalixHomes
+2017-11-06 11:19:30 Friends  : 100% at 40/sec for comtec_live
+2017-11-06 11:19:33 Friends  : 96.1% at 30/sec for LABCacoustics
+2017-11-06 11:20:29 Tweets   : 74.5% at 51/sec for mydeposits
+2017-11-06 11:21:48 Friends  : 98.6% at 42/sec for PancreaticCanUK
+2017-11-06 11:21:55 Friends  : 99.4% at 46/sec for greensquare_grp
+2017-11-06 11:22:02 Friends  : 98.9% at 50/sec for JessMullins90
+2017-11-06 11:22:03 Friends  : Waiting for 9.8 minutes
+2017-11-06 11:29:45 Favorites: 50.2% at 2/sec for patrickjbutler
+2017-11-06 11:29:47 Favorites: 56.2% at 49/sec for comtec_live
+2017-11-06 11:29:51 Favorites: 88.1% at 45/sec for LABCacoustics
+2017-11-06 11:31:05 Favorites: 19.7% at 43/sec for PancreaticCanUK
+2017-11-06 11:31:09 Favorites: 59.3% at 45/sec for greensquare_grp
+2017-11-06 11:31:11 Favorites: 84.7% at 45/sec for JessMullins90
+2017-11-06 11:31:38 Favorites: 53.9% at 44/sec for LYHAtweets
+2017-11-06 11:31:41 Favorites: 76.6% at 41/sec for RebeccaMurphy7
+2017-11-06 11:31:54 Favorites: 53.7% at 43/sec for SalixHomes
+2017-11-06 11:31:58 Favorites: 88.7% at 47/sec for mydeposits
+2017-11-06 11:32:08 Friends  : 99.2% at 1/sec for LYHAtweets
+2017-11-06 11:32:12 Friends  : 95.9% at 41/sec for RebeccaMurphy7
+2017-11-06 11:32:38 Friends  : 99.7% at 46/sec for SalixHomes
+2017-11-06 11:33:50 Friends  : 99.7% at 42/sec for mydeposits
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+Warning message:
+package 'twitteR' was built under R version 3.4.1 

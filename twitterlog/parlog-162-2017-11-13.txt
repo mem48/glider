@@ -1,0 +1,176 @@
+starting worker pid=18708 on localhost:11045 at 15:39:12.705
+starting worker pid=2920 on localhost:11045 at 15:39:12.886
+starting worker pid=7552 on localhost:11045 at 15:39:13.071
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-13 15:42:59 Friends  : 99% at 36/sec for POST_UK
+2017-11-13 15:45:01 Friends  : 98.3% at 38/sec for psmith
+2017-11-13 15:45:02 Favorites: 50.6% at 31/sec for POST_UK
+2017-11-13 15:45:10 Friends  : 97.6% at 31/sec for r_m_meredith
+2017-11-13 15:45:17 Friends  : 99.6% at 35/sec for rachelmanners1
+2017-11-13 15:45:36 Favorites: Waiting for 1.3 minutes due to : Used up allowance in a loop
+2017-11-13 15:46:05 Friends  : 99.8% at 39/sec for RaeWatson_
+2017-11-13 15:46:37 Friends  : 97.8% at 42/sec for rajhousing
+2017-11-13 15:46:53 Favorites: 11.3% at 12/sec for psmith
+2017-11-13 15:46:53 Favorites: Waiting for 0 minutes due to : Used up allowance in a loop
+2017-11-13 15:47:03 Friends  : 94.6% at 38/sec for rebeccac_CIH
+2017-11-13 15:47:12 Friends  : 97% at 40/sec for redkitetodd
+2017-11-13 15:47:13 Favorites: 50.3% at 44/sec for r_m_meredith
+2017-11-13 15:47:19 Favorites: 86.8% at 36/sec for rachelmanners1
+2017-11-13 15:47:34 Favorites: 57.5% at 40/sec for RaeWatson_
+2017-11-13 15:48:02 Tweets   : 99.9% at 38/sec for POST_UK
+2017-11-13 15:48:07 Friends  : 99.6% at 36/sec for resolveasb
+2017-11-13 15:48:24 Friends  : 98.9% at 44/sec for RH_OneHousing
+2017-11-13 15:48:52 Favorites: 22.9% at 40/sec for rajhousing
+2017-11-13 15:48:54 Favorites: 50.3% at 71/sec for rebeccac_CIH
+2017-11-13 15:48:59 Friends  : 97.2% at 40/sec for RHoneyJones
+2017-11-13 15:49:01 Favorites: 52.9% at 39/sec for redkitetodd
+2017-11-13 15:49:10 Favorites: 67.8% at 36/sec for resolveasb
+2017-11-13 15:49:14 Tweets   : 4.8% at 45/sec for psmith
+2017-11-13 15:49:31 Friends  : 99.7% at 37/sec for richardbjames
+2017-11-13 15:49:32 Friends  : 100% at 37/sec for RichAtWDH
+2017-11-13 15:49:39 Friends  : 99.5% at 29/sec for Richiebrookes
+2017-11-13 15:49:45 Favorites: 51.8% at 42/sec for RH_OneHousing
+2017-11-13 15:49:53 Favorites: Waiting for 12 minutes due to : Used up allowance in a loop
+2017-11-13 15:50:09 Tweets   : 99.9% at 37/sec for r_m_meredith
+2017-11-13 15:50:14 Friends  : 95.5% at 38/sec for RMachinStaffs
+2017-11-13 15:50:14 Friends  : Waiting for 6.7 minutes
+2017-11-13 15:50:15 Tweets   : 100% at 4/sec for rachelmanners1
+2017-11-13 15:51:22 Tweets   : 38.3% at 48/sec for RaeWatson_
+2017-11-13 15:52:03 Tweets   : 100% at 39/sec for rajhousing
+2017-11-13 15:52:27 Tweets   : 100% at 19/sec for rebeccac_CIH
+2017-11-13 15:52:48 Tweets   : 100% at 34/sec for redkitetodd
+2017-11-13 15:53:56 Tweets   : 96.4% at 46/sec for resolveasb
+2017-11-13 15:55:14 Tweets   : 81.3% at 41/sec for RH_OneHousing
+2017-11-13 15:56:28 Tweets   : 21.9% at 43/sec for RHoneyJones
+2017-11-13 15:57:08 Friends  : 98.1% at 1/sec for Robclements5
+2017-11-13 15:57:47 Tweets   : 57.7% at 40/sec for richardbjames
+2017-11-13 15:58:02 Friends  : 99.8% at 39/sec for RonanBrowne26
+2017-11-13 15:58:23 Friends  : 99.5% at 38/sec for RonDHousing
+2017-11-13 15:58:40 Friends  : 96.8% at 31/sec for RosieGregg1
+2017-11-13 15:59:01 Tweets   : 11.2% at 43/sec for RichAtWDH
+2017-11-13 15:59:17 Tweets   : 99.5% at 23/sec for Richiebrookes
+2017-11-13 15:59:26 Friends  : 99.3% at 35/sec for Ross_Williams79
+2017-11-13 15:59:36 Tweets   : 100% at 21/sec for RMachinStaffs
+2017-11-13 16:00:06 Friends  : 97.5% at 36/sec for rotherfed
+2017-11-13 16:00:15 Friends  : 99.1% at 24/sec for RustBh
+2017-11-13 16:00:26 Friends  : 99.7% at 35/sec for SadehLok
+2017-11-13 16:00:44 Tweets   : 99.3% at 36/sec for Robclements5
+2017-11-13 16:01:19 Friends  : 96.9% at 37/sec for Sales_Aster
+2017-11-13 16:01:30 Friends  : 99.6% at 44/sec for salliebridgen
+2017-11-13 16:01:43 Friends  : 98.4% at 28/sec for samstronach83
+2017-11-13 16:01:45 Friends  : 99.2% at 50/sec for sarah_c_d
+2017-11-13 16:01:52 Friends  : 100% at 26/sec for sarah_huseyin
+2017-11-13 16:01:57 Friends  : 95.5% at 44/sec for sarahroweleg
+2017-11-13 16:02:04 Tweets   : 57.6% at 40/sec for RonanBrowne26
+2017-11-13 16:02:53 Favorites: 51% at 3/sec for RHoneyJones
+2017-11-13 16:03:06 Friends  : 99% at 36/sec for Semakaleng
+2017-11-13 16:03:06 Friends  : Waiting for 8.8 minutes
+2017-11-13 16:03:24 Favorites: 51.2% at 41/sec for richardbjames
+2017-11-13 16:03:24 Favorites: 100% at 12/sec for RichAtWDH
+2017-11-13 16:03:28 Tweets   : 61.4% at 38/sec for RonDHousing
+2017-11-13 16:03:34 Favorites: 95.7% at 9/sec for Richiebrookes
+2017-11-13 16:03:42 Tweets   : 100% at 27/sec for RosieGregg1
+2017-11-13 16:03:43 Favorites: 56.9% at 46/sec for RMachinStaffs
+2017-11-13 16:03:50 Favorites: 62.7% at 43/sec for Robclements5
+2017-11-13 16:04:06 Favorites: 48.5% at 41/sec for RonanBrowne26
+2017-11-13 16:04:09 Favorites: 54.6% at 67/sec for RonDHousing
+2017-11-13 16:04:16 Favorites: 67.8% at 40/sec for RosieGregg1
+2017-11-13 16:04:19 Favorites: 12.2% at 50/sec for Ross_Williams79
+2017-11-13 16:04:35 Favorites: 56.6% at 42/sec for rotherfed
+2017-11-13 16:04:49 Favorites: 58.5% at 36/sec for RustBh
+2017-11-13 16:04:52 Favorites: 53.6% at 67/sec for SadehLok
+2017-11-13 16:04:52 Favorites: Waiting for 12 minutes due to : Used up allowance in a loop
+2017-11-13 16:04:58 Tweets   : 23.6% at 42/sec for Ross_Williams79
+2017-11-13 16:06:12 Tweets   : 74.6% at 43/sec for rotherfed
+2017-11-13 16:07:01 Tweets   : 99.8% at 39/sec for RustBh
+2017-11-13 16:07:18 Tweets   : 100% at 23/sec for SadehLok
+2017-11-13 16:08:39 Tweets   : 23.9% at 39/sec for Sales_Aster
+2017-11-13 16:09:35 Tweets   : 99.8% at 35/sec for salliebridgen
+2017-11-13 16:09:51 Tweets   : 100% at 34/sec for samstronach83
+2017-11-13 16:10:02 Tweets   : 100% at 3/sec for sarah_c_d
+2017-11-13 16:10:11 Tweets   : 98.8% at 26/sec for sarah_huseyin
+2017-11-13 16:10:31 Tweets   : 100% at 33/sec for sarahroweleg
+2017-11-13 16:11:40 Tweets   : 51.1% at 46/sec for Semakaleng
+2017-11-13 16:12:23 Friends  : 99.2% at 1/sec for shorelinehp
+2017-11-13 16:12:39 Friends  : 98.3% at 43/sec for SixTownHousing
+2017-11-13 16:12:56 Tweets   : 85.8% at 42/sec for shorelinehp
+2017-11-13 16:13:15 Friends  : 97.4% at 34/sec for SkillsLaura
+2017-11-13 16:13:41 Friends  : 98.8% at 35/sec for SLH_Claire
+2017-11-13 16:14:06 Friends  : 97.7% at 35/sec for sng_paul
+2017-11-13 16:14:15 Tweets   : 88.4% at 40/sec for SixTownHousing
+2017-11-13 16:14:24 Friends  : 98% at 37/sec for SolaceWomensAid
+2017-11-13 16:15:02 Friends  : 99.1% at 34/sec for somecallme_Jem
+2017-11-13 16:15:30 Friends  : 98.6% at 33/sec for sophieevebarnes
+2017-11-13 16:15:37 Friends  : 97.3% at 30/sec for SpringHousing
+2017-11-13 16:15:39 Friends  : 100% at 36/sec for SquareBenefits
+2017-11-13 16:15:41 Tweets   : 96.1% at 37/sec for SkillsLaura
+2017-11-13 16:16:19 Friends  : 98.5% at 37/sec for StaffsUni
+2017-11-13 16:16:26 Friends  : 99.3% at 22/sec for StaffsUniSWLaw
+2017-11-13 16:16:51 Friends  : 97.9% at 39/sec for StephKelleyCIH
+2017-11-13 16:16:52 Friends  : 97% at 25/sec for Steve_Altair
+2017-11-13 16:17:01 Tweets   : 98.5% at 40/sec for SLH_Claire
+2017-11-13 16:17:12 Friends  : 98% at 37/sec for Steve_HouseMark
+2017-11-13 16:17:12 Friends  : Waiting for 9.8 minutes
+2017-11-13 16:18:19 Favorites: 28.3% at 4/sec for Sales_Aster
+2017-11-13 16:18:27 Tweets   : 29.4% at 37/sec for sng_paul
+2017-11-13 16:18:29 Favorites: 53% at 43/sec for salliebridgen
+2017-11-13 16:18:32 Favorites: 85.8% at 66/sec for samstronach83
+2017-11-13 16:18:33 Favorites: 100% at 48/sec for sarah_c_d
+2017-11-13 16:18:38 Favorites: 78.1% at 20/sec for sarah_huseyin
+2017-11-13 16:18:41 Favorites: 51.2% at 63/sec for sarahroweleg
+2017-11-13 16:18:58 Favorites: 48.9% at 38/sec for Semakaleng
+2017-11-13 16:19:07 Favorites: 65.4% at 44/sec for shorelinehp
+2017-11-13 16:19:13 Favorites: 57.3% at 34/sec for SixTownHousing
+2017-11-13 16:19:46 Tweets   : 68.9% at 40/sec for SolaceWomensAid
+2017-11-13 16:19:46 Favorites: 48.4% at 40/sec for SkillsLaura
+2017-11-13 16:19:57 Favorites: Waiting for 12 minutes due to : Used up allowance in a loop
+2017-11-13 16:21:11 Tweets   : 52.5% at 37/sec for somecallme_Jem
+2017-11-13 16:22:31 Tweets   : 97.1% at 40/sec for sophieevebarnes
+2017-11-13 16:22:51 Tweets   : 100% at 23/sec for SpringHousing
+2017-11-13 16:23:26 Tweets   : 99.9% at 38/sec for SquareBenefits
+2017-11-13 16:24:51 Tweets   : 10.4% at 38/sec for StaffsUni
+2017-11-13 16:25:16 Tweets   : 100% at 26/sec for StaffsUniSWLaw
+2017-11-13 16:25:25 Tweets   : 100.6% at 18/sec for StephKelleyCIH
+2017-11-13 16:25:38 Tweets   : 100% at 18/sec for Steve_Altair
+2017-11-13 16:26:55 Tweets   : 99.8% at 37/sec for Steve_HouseMark
+2017-11-13 16:27:20 Friends  : 98.5% at 1/sec for SteveHayesCIH
+2017-11-13 16:27:26 Friends  : 97.6% at 26/sec for steviegreen21
+2017-11-13 16:27:40 Tweets   : 99.8% at 42/sec for SteveHayesCIH
+2017-11-13 16:27:52 Tweets   : 100% at 17/sec for steviegreen21
+2017-11-13 16:29:05 Tweets   : 13.4% at 43/sec for Stewart4Pboro
+2017-11-13 16:29:16 Tweets   : 100% at 11/sec for stormywatson
+2017-11-13 16:29:34 Friends  : 98.5% at 36/sec for Stewart4Pboro
+2017-11-13 16:29:39 Friends  : 97.3% at 13/sec for stormywatson
+2017-11-13 16:30:19 Tweets   : 99.8% at 39/sec for stuart_chc
+2017-11-13 16:30:50 Friends  : 98.2% at 37/sec for stuart_chc
+2017-11-13 16:31:55 Favorites: 5.7% at 1/sec for SLH_Claire
+2017-11-13 16:31:55 Favorites: Waiting for 0 minutes due to : Used up allowance in a loop
+2017-11-13 16:32:54 Favorites: 49.6% at 36/sec for sng_paul
+2017-11-13 16:33:22 Favorites: 52.2% at 39/sec for SolaceWomensAid
+2017-11-13 16:34:21 Favorites: 50.5% at 37/sec for somecallme_Jem
+2017-11-13 16:34:24 Favorites: 63.3% at 59/sec for sophieevebarnes
+2017-11-13 16:34:32 Favorites: 60.6% at 39/sec for SpringHousing
+2017-11-13 16:34:33 Favorites: 78.6% at 75/sec for SquareBenefits
+2017-11-13 16:35:08 Favorites: Waiting for 11.8 minutes due to : Used up allowance in a loop
+2017-11-13 16:47:56 Favorites: 26.5% at 4/sec for StaffsUni
+2017-11-13 16:47:58 Favorites: 78.7% at 51/sec for StaffsUniSWLaw
+2017-11-13 16:48:00 Favorites: 60.4% at 53/sec for StephKelleyCIH
+2017-11-13 16:48:02 Favorites: 100% at 42/sec for Steve_Altair
+2017-11-13 16:48:21 Favorites: 50.1% at 31/sec for Steve_HouseMark
+2017-11-13 16:48:29 Favorites: 51.7% at 27/sec for SteveHayesCIH
+2017-11-13 16:48:30 Favorites: 100% at 49/sec for steviegreen21
+2017-11-13 16:49:39 Favorites: 50.9% at 35/sec for Stewart4Pboro
+2017-11-13 16:49:40 Favorites: 97.3% at 37/sec for stormywatson
+2017-11-13 16:49:57 Favorites: 54% at 34/sec for stuart_chc
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+Warning messages:
+1: package 'twitteR' was built under R version 3.4.1 
+2: In twInterfaceObj$doAPICall(cmd, params, method, ...) :
+  Rate limit encountered & retry limit reached - returning partial results
+3: In twInterfaceObj$doAPICall(cmd, params, method, ...) :
+  Rate limit encountered & retry limit reached - returning partial results
+Warning message:
+package 'twitteR' was built under R version 3.4.1 

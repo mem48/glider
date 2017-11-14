@@ -1,0 +1,171 @@
+starting worker pid=15264 on localhost:11045 at 17:33:12.142
+starting worker pid=8220 on localhost:11045 at 17:33:12.314
+starting worker pid=18072 on localhost:11045 at 17:33:12.488
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-07 17:34:32 Friends  : 98.2% at 38/sec for maiellamipiace
+2017-11-07 17:34:51 Friends  : 98.3% at 39/sec for mel_smith17
+2017-11-07 17:35:55 Friends  : 99.4% at 38/sec for MichReid2014
+2017-11-07 17:36:23 Favorites: 48.4% at 40/sec for maiellamipiace
+2017-11-07 17:36:32 Favorites: 56.4% at 40/sec for mel_smith17
+2017-11-07 17:36:48 Friends  : 99% at 36/sec for paulwdiggory
+2017-11-07 17:37:18 Tweets   : 17.5% at 43/sec for maiellamipiace
+2017-11-07 17:37:21 Favorites: Waiting for 8 minutes due to : Used up allowance in a loop
+2017-11-07 17:37:51 Tweets   : 99.8% at 39/sec for mel_smith17
+2017-11-07 17:37:51 Friends  : 98.2% at 40/sec for think_architect
+2017-11-07 17:38:08 Friends  : 99.1% at 41/sec for westkentvoice
+2017-11-07 17:39:07 Tweets   : 18.4% at 42/sec for MichReid2014
+2017-11-07 17:40:14 Friends  : 98.5% at 39/sec for blondeminniekt
+2017-11-07 17:40:22 Tweets   : 23.7% at 42/sec for paulwdiggory
+2017-11-07 17:40:24 Friends  : 98% at 36/sec for collegeplumb
+2017-11-07 17:41:13 Friends  : 100% at 39/sec for DMLfreedom
+2017-11-07 17:41:31 Tweets   : 99.4% at 40/sec for think_architect
+2017-11-07 17:42:19 Tweets   : 98.8% at 38/sec for westkentvoice
+2017-11-07 17:43:40 Tweets   : 2.4% at 39/sec for blondeminniekt
+2017-11-07 17:43:59 Tweets   : 99.6% at 35/sec for collegeplumb
+2017-11-07 17:45:19 Tweets   : 22.2% at 40/sec for DMLfreedom
+2017-11-07 17:45:37 Favorites: 49.9% at 5/sec for MichReid2014
+2017-11-07 17:46:43 Tweets   : 0.9% at 38/sec for lisanorfolk
+2017-11-07 17:46:56 Favorites: 42.4% at 41/sec for paulwdiggory
+2017-11-07 17:47:14 Friends  : 97.3% at 42/sec for lisanorfolk
+2017-11-07 17:48:00 Favorites: 49.3% at 40/sec for think_architect
+2017-11-07 17:48:09 Tweets   : 2.6% at 37/sec for maryh1980
+2017-11-07 17:48:09 Favorites: 60.2% at 43/sec for westkentvoice
+2017-11-07 17:48:23 Favorites: Waiting for 12 minutes due to : Used up allowance in a loop
+2017-11-07 17:49:07 Friends  : 96.7% at 41/sec for maryh1980
+2017-11-07 17:49:18 Tweets   : 3.8% at 46/sec for MrsJTea
+2017-11-07 17:50:34 Tweets   : 0.6% at 42/sec for Natalie41783835
+2017-11-07 17:50:46 Friends  : 97.6% at 50/sec for MrsJTea
+2017-11-07 17:51:51 Tweets   : 0.5% at 42/sec for SMOKEYFORMBY
+2017-11-07 17:52:29 Tweets   : 100% at 39/sec for chy_uk
+2017-11-07 17:52:39 Tweets   : 100% at 18/sec for ConstructionSCC
+2017-11-07 17:52:47 Tweets   : 100% at 9/sec for DonnaSkillBuild
+2017-11-07 17:52:55 Tweets   : 100% at 10/sec for JohnBondCITB
+2017-11-07 17:53:34 Tweets   : 100% at 42/sec for Kat_healey
+2017-11-07 17:53:46 Tweets   : 100% at 18/sec for KJteamacademy
+2017-11-07 17:54:28 Tweets   : 100% at 40/sec for morgansindallci
+2017-11-07 17:55:48 Tweets   : 57.1% at 40/sec for NPTCGroup
+2017-11-07 17:57:10 Tweets   : 77.3% at 39/sec for RedrowHomes
+2017-11-07 17:58:20 Tweets   : 12% at 46/sec for ScoConstructNow
+2017-11-07 17:58:49 Tweets   : 99.3% at 37/sec for SimonThemis
+2017-11-07 17:59:49 Tweets   : 99.8% at 43/sec for UKConstructColl
+2017-11-07 18:00:15 Friends  : 97.9% at 45/sec for Natalie41783835
+2017-11-07 18:01:11 Tweets   : 53.7% at 39/sec for WatesGroup
+2017-11-07 18:01:25 Favorites: 43.7% at 4/sec for blondeminniekt
+2017-11-07 18:01:36 Tweets   : 99.6% at 27/sec for HMGLocalGrowth
+2017-11-07 18:01:38 Favorites: 52% at 38/sec for collegeplumb
+2017-11-07 18:01:39 Favorites: 100% at 7/sec for DMLfreedom
+2017-11-07 18:01:54 Tweets   : 99.5% at 24/sec for RightToBuy
+2017-11-07 18:02:44 Friends  : 97.1% at 45/sec for SMOKEYFORMBY
+2017-11-07 18:02:54 Favorites: 15.7% at 42/sec for lisanorfolk
+2017-11-07 18:03:08 Tweets   : 4% at 43/sec for TellMamaUK
+2017-11-07 18:03:15 Friends  : 99.3% at 43/sec for chy_uk
+2017-11-07 18:03:16 Favorites: Waiting for 12.1 minutes due to : Used up allowance in a loop
+2017-11-07 18:03:19 Friends  : 97.5% at 32/sec for ConstructionSCC
+2017-11-07 18:03:21 Friends  : 87.9% at 27/sec for DonnaSkillBuild
+2017-11-07 18:03:22 Friends  : 100% at 37/sec for JohnBondCITB
+2017-11-07 18:03:33 Friends  : 93.7% at 36/sec for Kat_healey
+2017-11-07 18:03:36 Friends  : 95.7% at 25/sec for KJteamacademy
+2017-11-07 18:03:46 Friends  : 99% at 30/sec for morgansindallci
+2017-11-07 18:03:46 Friends  : Waiting for 2.1 minutes
+2017-11-07 18:04:19 Tweets   : 40.1% at 45/sec for UKCivilService
+2017-11-07 18:05:34 Tweets   : 58.9% at 43/sec for ukinisrael
+2017-11-07 18:05:58 Tweets   : 100% at 33/sec for CEBristolClub
+2017-11-07 18:06:11 Friends  : 98.3% at 8/sec for NPTCGroup
+2017-11-07 18:06:18 Friends  : 98.7% at 44/sec for RedrowHomes
+2017-11-07 18:06:40 Friends  : 97.3% at 54/sec for ScoConstructNow
+2017-11-07 18:06:42 Friends  : 97.4% at 24/sec for SimonThemis
+2017-11-07 18:06:45 Tweets   : 99.9% at 34/sec for ProtechRoofing_
+2017-11-07 18:07:03 Friends  : 87.4% at 49/sec for UKConstructColl
+2017-11-07 18:07:24 Friends  : 98.5% at 51/sec for WatesGroup
+2017-11-07 18:07:33 Friends  : 99.3% at 49/sec for HMGLocalGrowth
+2017-11-07 18:07:34 Friends  : 100% at 22/sec for RightToBuy
+2017-11-07 18:07:53 Tweets   : 31.3% at 47/sec for resi_analyst
+2017-11-07 18:09:09 Tweets   : 46% at 42/sec for SykesChris
+2017-11-07 18:09:27 Friends  : 99.2% at 49/sec for TellMamaUK
+2017-11-07 18:09:36 Friends  : 97.6% at 41/sec for UKCivilService
+2017-11-07 18:09:52 Friends  : 99.6% at 50/sec for ukinisrael
+2017-11-07 18:09:53 Friends  : 98% at 33/sec for CEBristolClub
+2017-11-07 18:10:31 Tweets   : 42.4% at 39/sec for ClimateCLG
+2017-11-07 18:11:18 Friends  : 96.8% at 48/sec for ProtechRoofing_
+2017-11-07 18:11:36 Friends  : 99.7% at 49/sec for resi_analyst
+2017-11-07 18:11:36 Friends  : Waiting for 9.3 minutes
+2017-11-07 18:11:46 Tweets   : 5.9% at 42/sec for ClimateReality
+2017-11-07 18:12:53 Tweets   : 5.6% at 48/sec for Natures_Voice
+2017-11-07 18:13:50 Tweets   : 100% at 42/sec for PwCclimateready
+2017-11-07 18:15:12 Tweets   : 14.9% at 39/sec for UKinUSA
+2017-11-07 18:15:19 Tweets   : 100% at 10/sec for GAPhomeimprove
+2017-11-07 18:16:27 Favorites: 4.4% at 4/sec for maryh1980
+2017-11-07 18:16:31 Tweets   : 19% at 44/sec for JoeMartoccia
+2017-11-07 18:16:44 Tweets   : 99.7% at 26/sec for PDSWindows
+2017-11-07 18:16:49 Favorites: 51.9% at 47/sec for MrsJTea
+2017-11-07 18:17:57 Tweets   : 32.1% at 44/sec for StJohnsWindows
+2017-11-07 18:17:59 Favorites: 1.7% at 45/sec for Natalie41783835
+2017-11-07 18:18:00 Favorites: 71.9% at 74/sec for SMOKEYFORMBY
+2017-11-07 18:18:10 Favorites: 61.6% at 44/sec for chy_uk
+2017-11-07 18:18:12 Favorites: 59.9% at 41/sec for ConstructionSCC
+2017-11-07 18:18:13 Favorites: 94.1% at 45/sec for DonnaSkillBuild
+2017-11-07 18:18:13 Favorites: 100% at 11/sec for JohnBondCITB
+2017-11-07 18:18:13 Favorites: Waiting for 12.3 minutes due to : Used up allowance in a loop
+2017-11-07 18:18:27 Tweets   : 99.5% at 37/sec for StrattonGlass
+2017-11-07 18:18:38 Tweets   : 100% at 17/sec for PandPWindows
+2017-11-07 18:19:12 Tweets   : 100% at 37/sec for AndyFord6
+2017-11-07 18:19:40 Tweets   : 100% at 31/sec for EllieForward
+2017-11-07 18:20:47 Tweets   : 85.5% at 48/sec for cleanairdayuk
+2017-11-07 18:21:20 Friends  : 99.5% at 1/sec for SykesChris
+2017-11-07 18:22:15 Friends  : 100% at 53/sec for ClimateCLG
+2017-11-07 18:23:27 Friends  : 99.7% at 50/sec for ClimateReality
+2017-11-07 18:24:23 Friends  : 99.8% at 48/sec for Natures_Voice
+2017-11-07 18:24:34 Friends  : 99.5% at 49/sec for PwCclimateready
+2017-11-07 18:26:23 Friends  : 99.8% at 48/sec for UKinUSA
+2017-11-07 18:26:24 Friends  : 100% at 23/sec for GAPhomeimprove
+2017-11-07 18:26:55 Friends  : 98% at 48/sec for JoeMartoccia
+2017-11-07 18:27:06 Friends  : 98% at 46/sec for PDSWindows
+2017-11-07 18:28:27 Friends  : 97.5% at 48/sec for StJohnsWindows
+2017-11-07 18:28:43 Friends  : 100% at 47/sec for StrattonGlass
+2017-11-07 18:28:58 Friends  : 99.7% at 51/sec for PandPWindows
+2017-11-07 18:29:15 Friends  : 98.7% at 53/sec for AndyFord6
+2017-11-07 18:29:19 Friends  : 98% at 51/sec for EllieForward
+2017-11-07 18:29:20 Friends  : Waiting for 7 minutes
+2017-11-07 18:31:16 Favorites: 52.6% at 1/sec for Kat_healey
+2017-11-07 18:31:18 Favorites: 92.3% at 11/sec for KJteamacademy
+2017-11-07 18:31:22 Favorites: 80.2% at 43/sec for morgansindallci
+2017-11-07 18:31:55 Favorites: 49.9% at 46/sec for NPTCGroup
+2017-11-07 18:32:12 Favorites: 55.9% at 45/sec for RedrowHomes
+2017-11-07 18:32:13 Favorites: 100% at 40/sec for ScoConstructNow
+2017-11-07 18:32:14 Favorites: 93.3% at 31/sec for SimonThemis
+2017-11-07 18:32:47 Favorites: 51.3% at 47/sec for UKConstructColl
+2017-11-07 18:33:12 Favorites: 52.5% at 48/sec for WatesGroup
+2017-11-07 18:33:13 Favorites: 97.5% at 24/sec for HMGLocalGrowth
+2017-11-07 18:33:14 Favorites: 100% at 7/sec for RightToBuy
+2017-11-07 18:33:29 Favorites: Waiting for 12.4 minutes due to : Used up allowance in a loop
+2017-11-07 18:36:46 Friends  : 98.6% at 2/sec for cleanairdayuk
+2017-11-07 18:47:16 Favorites: 9.6% at 4/sec for TellMamaUK
+2017-11-07 18:47:35 Favorites: 50.9% at 46/sec for UKCivilService
+2017-11-07 18:47:39 Favorites: 83.5% at 52/sec for ukinisrael
+2017-11-07 18:47:40 Favorites: 100% at 26/sec for CEBristolClub
+2017-11-07 18:47:41 Favorites: 100% at 40/sec for ProtechRoofing_
+2017-11-07 18:48:28 Favorites: 47.1% at 45/sec for resi_analyst
+2017-11-07 18:48:54 Favorites: 52.9% at 46/sec for SykesChris
+2017-11-07 18:48:56 Favorites: Waiting for 12.4 minutes due to : Used up allowance in a loop
+2017-11-07 19:01:46 Favorites: 58.1% at 0/sec for ClimateCLG
+2017-11-07 19:02:55 Favorites: 10.9% at 47/sec for ClimateReality
+2017-11-07 19:04:05 Favorites: 9.7% at 45/sec for Natures_Voice
+2017-11-07 19:04:10 Favorites: 77% at 44/sec for PwCclimateready
+2017-11-07 19:04:20 Favorites: Waiting for 12.3 minutes due to : Used up allowance in a loop
+2017-11-07 19:17:06 Favorites: 57.4% at 1/sec for UKinUSA
+2017-11-07 19:17:06 Favorites: 100% at 23/sec for GAPhomeimprove
+2017-11-07 19:18:20 Favorites: 21.3% at 43/sec for JoeMartoccia
+2017-11-07 19:18:24 Favorites: 50.4% at 49/sec for PDSWindows
+2017-11-07 19:18:37 Favorites: 54% at 47/sec for StJohnsWindows
+2017-11-07 19:18:38 Favorites: 97.7% at 46/sec for StrattonGlass
+2017-11-07 19:18:39 Favorites: 100% at 6/sec for PandPWindows
+2017-11-07 19:18:45 Favorites: 58.8% at 47/sec for AndyFord6
+2017-11-07 19:18:47 Favorites: 85.5% at 44/sec for EllieForward
+2017-11-07 19:19:08 Favorites: 54.5% at 47/sec for cleanairdayuk
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+package 'twitteR' was built under R version 3.4.1 
+Warning message:
+package 'twitteR' was built under R version 3.4.1 

@@ -1,0 +1,169 @@
+starting worker pid=8392 on localhost:11045 at 22:42:21.516
+starting worker pid=136 on localhost:11045 at 22:42:21.688
+starting worker pid=10776 on localhost:11045 at 22:42:21.859
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-08 22:42:49 Friends  : 98.8% at 38/sec for Dan_McShane1979
+2017-11-08 22:42:51 Friends  : 98.5% at 29/sec for DaveWilsonFM
+2017-11-08 22:42:54 Friends  : 100% at 36/sec for ElspethRumary
+2017-11-08 22:42:55 Favorites: 51% at 44/sec for Dan_McShane1979
+2017-11-08 22:42:57 Favorites: 92.6% at 48/sec for DaveWilsonFM
+2017-11-08 22:42:58 Favorites: 100% at 13/sec for ElspethRumary
+2017-11-08 22:43:09 Friends  : 98.4% at 45/sec for EmmaM_FGould
+2017-11-08 22:43:19 Friends  : 98.8% at 43/sec for HenryRileyLLP
+2017-11-08 22:43:22 Tweets   : 98.3% at 49/sec for Dan_McShane1979
+2017-11-08 22:43:27 Favorites: 49.5% at 46/sec for EmmaM_FGould
+2017-11-08 22:43:34 Favorites: 59.7% at 46/sec for HenryRileyLLP
+2017-11-08 22:43:40 Favorites: 56.8% at 49/sec for HowdenPii
+2017-11-08 22:43:41 Favorites: 98.4% at 37/sec for jamesweirhbc
+2017-11-08 22:43:44 Favorites: 88.4% at 45/sec for keegansltd
+2017-11-08 22:43:44 Tweets   : 100% at 43/sec for DaveWilsonFM
+2017-11-08 22:43:48 Favorites: 92.1% at 45/sec for kemilabinjo
+2017-11-08 22:43:54 Favorites: Waiting for 11.6 minutes due to : Used up allowance in a loop
+2017-11-08 22:43:59 Tweets   : 99.8% at 33/sec for ElspethRumary
+2017-11-08 22:43:59 Friends  : 97.8% at 48/sec for HowdenPii
+2017-11-08 22:44:13 Friends  : 99.5% at 46/sec for jamesweirhbc
+2017-11-08 22:44:20 Friends  : 99% at 41/sec for keegansltd
+2017-11-08 22:44:23 Friends  : 92% at 32/sec for kemilabinjo
+2017-11-08 22:44:30 Tweets   : 99.4% at 40/sec for EmmaM_FGould
+2017-11-08 22:44:56 Tweets   : 99.8% at 49/sec for HenryRileyLLP
+2017-11-08 22:45:24 Tweets   : 99.7% at 46/sec for HowdenPii
+2017-11-08 22:45:32 Friends  : 96.3% at 50/sec for lee_wilkinson2
+2017-11-08 22:45:54 Friends  : 99.5% at 53/sec for LordCHolmes
+2017-11-08 22:46:06 Friends  : 96.7% at 43/sec for MarciaMFerrari
+2017-11-08 22:46:27 Tweets   : 67.7% at 51/sec for jamesweirhbc
+2017-11-08 22:46:44 Tweets   : 100% at 41/sec for keegansltd
+2017-11-08 22:47:01 Tweets   : 100% at 39/sec for kemilabinjo
+2017-11-08 22:47:40 Friends  : 97.4% at 51/sec for MJHoldenFRICS
+2017-11-08 22:47:59 Tweets   : 9.9% at 55/sec for lee_wilkinson2
+2017-11-08 22:49:03 Tweets   : 93.2% at 50/sec for LordCHolmes
+2017-11-08 22:49:14 Friends  : 96.8% at 50/sec for mpsl
+2017-11-08 22:49:27 Friends  : 98.7% at 51/sec for my_spd
+2017-11-08 22:49:27 Friends  : Waiting for 8.1 minutes
+2017-11-08 22:50:05 Tweets   : 75.7% at 52/sec for MarciaMFerrari
+2017-11-08 22:51:01 Tweets   : 51.4% at 57/sec for MJHoldenFRICS
+2017-11-08 22:51:57 Tweets   : 24.9% at 57/sec for mpsl
+2017-11-08 22:52:30 Tweets   : 99.9% at 49/sec for my_spd
+2017-11-08 22:53:28 Tweets   : 43% at 55/sec for pambhandal
+2017-11-08 22:53:51 Tweets   : 99.9% at 48/sec for Pexhurst
+2017-11-08 22:54:13 Tweets   : 99.9% at 38/sec for pheyesmh
+2017-11-08 22:54:20 Tweets   : 100% at 9/sec for PhilH_MH
+2017-11-08 22:54:38 Tweets   : 99.9% at 44/sec for pm_strat
+2017-11-08 22:54:58 Tweets   : 100% at 41/sec for R_P_Moore
+2017-11-08 22:55:07 Tweets   : 100% at 19/sec for richstokes_rts
+2017-11-08 22:55:20 Tweets   : 100% at 30/sec for RICSNederland
+2017-11-08 22:55:48 Tweets   : 99.9% at 52/sec for RICSScotland
+2017-11-08 22:56:34 Tweets   : 99.1% at 52/sec for Sharkholio
+2017-11-08 22:56:47 Tweets   : 100% at 31/sec for TheBldgPeople
+2017-11-08 22:56:52 Favorites: 24.3% at 4/sec for lee_wilkinson2
+2017-11-08 22:57:16 Favorites: 50.7% at 49/sec for LordCHolmes
+2017-11-08 22:57:32 Favorites: 55.8% at 50/sec for MarciaMFerrari
+2017-11-08 22:57:49 Tweets   : 63.1% at 51/sec for theBPCC
+2017-11-08 22:57:49 Favorites: 51.4% at 50/sec for MJHoldenFRICS
+2017-11-08 22:58:04 Tweets   : 100% at 34/sec for TheOldFireStat
+2017-11-08 22:58:08 Favorites: 51.2% at 48/sec for mpsl
+2017-11-08 22:58:14 Favorites: 55.3% at 47/sec for my_spd
+2017-11-08 22:58:23 Favorites: Waiting for 12.5 minutes due to : Used up allowance in a loop
+2017-11-08 22:58:28 Friends  : 98.3% at 4/sec for pambhandal
+2017-11-08 22:58:50 Friends  : 99.4% at 44/sec for Pexhurst
+2017-11-08 22:59:04 Tweets   : 64.2% at 53/sec for Timwillcocks
+2017-11-08 22:59:11 Friends  : 98.1% at 55/sec for pheyesmh
+2017-11-08 22:59:13 Friends  : 96.9% at 44/sec for PhilH_MH
+2017-11-08 22:59:20 Friends  : 99.2% at 51/sec for pm_strat
+2017-11-08 22:59:34 Friends  : 97.9% at 54/sec for R_P_Moore
+2017-11-08 22:59:37 Friends  : 100% at 42/sec for richstokes_rts
+2017-11-08 22:59:40 Friends  : 100% at 37/sec for RICSNederland
+2017-11-08 22:59:46 Friends  : 99.7% at 51/sec for RICSScotland
+2017-11-08 22:59:52 Friends  : 98.7% at 46/sec for Sharkholio
+2017-11-08 22:59:59 Tweets   : 27.5% at 58/sec for emmalunn
+2017-11-08 23:00:23 Tweets   : 100% at 43/sec for inventoryG
+2017-11-08 23:00:26 Friends  : 99.9% at 49/sec for TheBldgPeople
+2017-11-08 23:00:38 Friends  : 98.2% at 51/sec for theBPCC
+2017-11-08 23:00:41 Friends  : 97.5% at 47/sec for TheOldFireStat
+2017-11-08 23:01:01 Friends  : 98.9% at 57/sec for Timwillcocks
+2017-11-08 23:01:13 Friends  : 99.5% at 49/sec for emmalunn
+2017-11-08 23:01:13 Friends  : Waiting for 11.7 minutes
+2017-11-08 23:01:17 Tweets   : 22.2% at 59/sec for PropertyMA_
+2017-11-08 23:02:13 Tweets   : 23.4% at 57/sec for propertyr
+2017-11-08 23:03:12 Tweets   : 43.6% at 54/sec for TenancyDeposits
+2017-11-08 23:04:10 Tweets   : 13.8% at 55/sec for TessaShepperson
+2017-11-08 23:05:13 Tweets   : 43.2% at 50/sec for edinburghcoll
+2017-11-08 23:06:05 Tweets   : 99.7% at 52/sec for Juliecroberts
+2017-11-08 23:07:04 Tweets   : 26.9% at 54/sec for niwnews
+2017-11-08 23:07:24 Tweets   : 100% at 42/sec for ScotProcurement
+2017-11-08 23:08:10 Tweets   : 99.8% at 55/sec for TradePointUK
+2017-11-08 23:08:39 Tweets   : 99.9% at 49/sec for EdinburghFire
+2017-11-08 23:09:39 Tweets   : 18.1% at 54/sec for _busnescymru
+2017-11-08 23:10:36 Tweets   : 53% at 56/sec for adamwoodhall
+2017-11-08 23:11:35 Tweets   : 70.2% at 54/sec for B4ESummit
+2017-11-08 23:12:00 Favorites: 51.1% at 3/sec for pambhandal
+2017-11-08 23:12:03 Favorites: 76.9% at 40/sec for Pexhurst
+2017-11-08 23:12:09 Favorites: 55.7% at 46/sec for pheyesmh
+2017-11-08 23:12:11 Favorites: 100% at 48/sec for PhilH_MH
+2017-11-08 23:12:20 Favorites: 61.8% at 47/sec for pm_strat
+2017-11-08 23:12:20 Tweets   : 99.9% at 50/sec for CareWithoutCO2
+2017-11-08 23:12:28 Favorites: 54.1% at 45/sec for R_P_Moore
+2017-11-08 23:12:30 Favorites: 88.2% at 51/sec for richstokes_rts
+2017-11-08 23:12:32 Favorites: 68% at 53/sec for RICSNederland
+2017-11-08 23:12:38 Favorites: 62.2% at 50/sec for RICSScotland
+2017-11-08 23:12:52 Favorites: 51.6% at 49/sec for Sharkholio
+2017-11-08 23:12:54 Favorites: 100% at 37/sec for TheBldgPeople
+2017-11-08 23:13:20 Friends  : 98.9% at 0/sec for inventoryG
+2017-11-08 23:13:24 Tweets   : 53.9% at 50/sec for Cat_Early76
+2017-11-08 23:13:30 Friends  : 99.3% at 52/sec for PropertyMA_
+2017-11-08 23:13:32 Favorites: 52.5% at 46/sec for theBPCC
+2017-11-08 23:13:33 Favorites: 100% at 37/sec for TheOldFireStat
+2017-11-08 23:13:35 Friends  : 98.8% at 49/sec for propertyr
+2017-11-08 23:13:48 Favorites: Waiting for 12.4 minutes due to : Used up allowance in a loop
+2017-11-08 23:14:04 Friends  : 98.6% at 50/sec for TenancyDeposits
+2017-11-08 23:14:12 Friends  : 100% at 35/sec for TessaShepperson
+2017-11-08 23:14:21 Tweets   : 18% at 57/sec for CharnwoodBC
+2017-11-08 23:14:43 Friends  : 99.3% at 49/sec for edinburghcoll
+2017-11-08 23:14:51 Tweets   : 99.7% at 53/sec for edieconference
+2017-11-08 23:15:22 Tweets   : 100% at 47/sec for environpromar
+2017-11-08 23:15:32 Friends  : 99.5% at 53/sec for Juliecroberts
+2017-11-08 23:16:08 Friends  : 99.3% at 44/sec for niwnews
+2017-11-08 23:16:16 Friends  : 99.5% at 48/sec for ScotProcurement
+2017-11-08 23:16:17 Tweets   : 8.5% at 58/sec for FarmingFutures
+2017-11-08 23:16:23 Friends  : 99.7% at 55/sec for TradePointUK
+2017-11-08 23:16:28 Friends  : 100% at 44/sec for EdinburghFire
+2017-11-08 23:17:10 Friends  : 96.7% at 53/sec for _busnescymru
+2017-11-08 23:17:29 Friends  : 99% at 52/sec for adamwoodhall
+2017-11-08 23:17:39 Friends  : 100% at 44/sec for B4ESummit
+2017-11-08 23:17:50 Friends  : 99.4% at 45/sec for CareWithoutCO2
+2017-11-08 23:17:50 Friends  : Waiting for 10.5 minutes
+2017-11-08 23:26:40 Favorites: 48.8% at 1/sec for Timwillcocks
+2017-11-08 23:26:44 Favorites: 61.3% at 46/sec for emmalunn
+2017-11-08 23:26:45 Favorites: 98.4% at 48/sec for inventoryG
+2017-11-08 23:26:51 Favorites: 64.9% at 49/sec for PropertyMA_
+2017-11-08 23:26:51 Favorites: User propertyr has a protected account or no Favoritess to collect so skipping
+2017-11-08 23:27:02 Favorites: 50.9% at 47/sec for TenancyDeposits
+2017-11-08 23:27:03 Favorites: 92.7% at 30/sec for TessaShepperson
+2017-11-08 23:27:24 Favorites: 49.5% at 46/sec for edinburghcoll
+2017-11-08 23:28:00 Favorites: 49.9% at 47/sec for Juliecroberts
+2017-11-08 23:28:01 Favorites: 96.7% at 29/sec for niwnews
+2017-11-08 23:28:03 Favorites: 86.2% at 46/sec for ScotProcurement
+2017-11-08 23:28:07 Favorites: 60.9% at 47/sec for TradePointUK
+2017-11-08 23:28:09 Favorites: 98.8% at 48/sec for EdinburghFire
+2017-11-08 23:28:55 Favorites: 50.4% at 45/sec for _busnescymru
+2017-11-08 23:29:03 Favorites: 62.2% at 48/sec for adamwoodhall
+2017-11-08 23:29:05 Favorites: 61.7% at 57/sec for B4ESummit
+2017-11-08 23:29:09 Friends  : 98.3% at 3/sec for Cat_Early76
+2017-11-08 23:29:09 Favorites: Waiting for 12.4 minutes due to : Used up allowance in a loop
+2017-11-08 23:29:26 Friends  : 99.3% at 50/sec for CharnwoodBC
+2017-11-08 23:30:29 Friends  : 98.6% at 47/sec for edieconference
+2017-11-08 23:30:38 Friends  : 98.1% at 48/sec for environpromar
+2017-11-08 23:30:50 Friends  : 98.1% at 49/sec for FarmingFutures
+2017-11-08 23:42:07 Favorites: 53.8% at 1/sec for CareWithoutCO2
+2017-11-08 23:42:24 Favorites: 50.9% at 45/sec for Cat_Early76
+2017-11-08 23:42:45 Favorites: 51.8% at 48/sec for CharnwoodBC
+2017-11-08 23:42:53 Favorites: 65.4% at 47/sec for edieconference
+2017-11-08 23:43:31 Favorites: 51% at 47/sec for environpromar
+2017-11-08 23:43:32 Favorites: 100% at 29/sec for FarmingFutures
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+Warning message:
+package 'twitteR' was built under R version 3.4.1 

@@ -1,0 +1,170 @@
+starting worker pid=6396 on localhost:11045 at 02:38:40.306
+starting worker pid=18356 on localhost:11045 at 02:38:40.468
+starting worker pid=14788 on localhost:11045 at 02:38:40.630
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-14 02:42:46 Friends  : 99.5% at 36/sec for PrincesTrust
+2017-11-14 02:43:57 Friends  : 97.5% at 36/sec for protradeuk
+2017-11-14 02:44:04 Friends  : 99.1% at 17/sec for RDGEngineering
+2017-11-14 02:44:05 Friends  : 100% at 16/sec for reebs42
+2017-11-14 02:44:19 Friends  : 94.8% at 33/sec for RefptUK
+2017-11-14 02:44:23 Friends  : 100% at 39/sec for rhuvaternish
+2017-11-14 02:44:29 Friends  : 99% at 28/sec for RobinsonRoofs
+2017-11-14 02:44:58 Favorites: Waiting for 1.6 minutes due to : Used up allowance in a loop
+2017-11-14 02:46:49 Favorites: 24.8% at 17/sec for PrincesTrust
+2017-11-14 02:47:00 Favorites: 49.8% at 46/sec for protradeuk
+2017-11-14 02:47:04 Favorites: 100% at 7/sec for RDGEngineering
+2017-11-14 02:47:04 Favorites: 75% at 13/sec for reebs42
+2017-11-14 02:47:08 Favorites: 67.2% at 63/sec for RefptUK
+2017-11-14 02:47:15 Favorites: 56.4% at 34/sec for rhuvaternish
+2017-11-14 02:47:16 Favorites: 100% at 50/sec for RobinsonRoofs
+2017-11-14 02:47:22 Favorites: 72.1% at 30/sec for RogerFrancis1
+2017-11-14 02:47:26 Favorites: 83.9% at 53/sec for RSykesISS
+2017-11-14 02:47:35 Tweets   : 13.5% at 36/sec for PrincesTrust
+2017-11-14 02:47:51 Favorites: 49.7% at 39/sec for sarah4811
+2017-11-14 02:48:22 Favorites: 48.4% at 36/sec for SaraHartill
+2017-11-14 02:48:38 Favorites: 54.3% at 37/sec for sarathiam
+2017-11-14 02:48:45 Favorites: 65% at 28/sec for SBCSGroup
+2017-11-14 02:48:46 Favorites: 100% at 40/sec for SBTsummit
+2017-11-14 02:48:48 Favorites: 90.1% at 56/sec for SCAlliance3
+2017-11-14 02:48:53 Tweets   : 69.3% at 41/sec for protradeuk
+2017-11-14 02:49:11 Favorites: 52.2% at 38/sec for Science_Council
+2017-11-14 02:49:12 Tweets   : 100% at 30/sec for RDGEngineering
+2017-11-14 02:49:13 Favorites: 100% at 61/sec for sdrury4
+2017-11-14 02:49:14 Favorites: 100% at 40/sec for SeddonTraining
+2017-11-14 02:49:15 Favorites: 100% at 55/sec for SENDinFE
+2017-11-14 02:49:18 Tweets   : 100% at 5/sec for reebs42
+2017-11-14 02:49:21 Favorites: 84.2% at 31/sec for SESscaffolding
+2017-11-14 02:49:30 Tweets   : 100% at 17/sec for RefptUK
+2017-11-14 02:49:37 Favorites: Waiting for 11.9 minutes due to : Used up allowance in a loop
+2017-11-14 02:49:43 Tweets   : 97.7% at 30/sec for rhuvaternish
+2017-11-14 02:49:53 Tweets   : 100% at 9/sec for RobinsonRoofs
+2017-11-14 02:51:06 Tweets   : 4.1% at 44/sec for RogerFrancis1
+2017-11-14 02:51:10 Friends  : 98.8% at 34/sec for RogerFrancis1
+2017-11-14 02:51:30 Friends  : 99.7% at 40/sec for RSykesISS
+2017-11-14 02:52:08 Friends  : 99.4% at 33/sec for sarah4811
+2017-11-14 02:52:25 Tweets   : 71.8% at 40/sec for RSykesISS
+2017-11-14 02:53:42 Tweets   : 80.7% at 41/sec for sarah4811
+2017-11-14 02:54:54 Tweets   : 74.4% at 44/sec for SaraHartill
+2017-11-14 02:55:25 Friends  : 100% at 32/sec for SaraHartill
+2017-11-14 02:55:40 Tweets   : 99.9% at 37/sec for sarathiam
+2017-11-14 02:55:52 Tweets   : 98.5% at 22/sec for SBCSGroup
+2017-11-14 02:55:59 Tweets   : 100% at 12/sec for SBTsummit
+2017-11-14 02:56:10 Friends  : 98.9% at 31/sec for sarathiam
+2017-11-14 02:56:19 Friends  : 95.5% at 35/sec for SBCSGroup
+Error in twInterfaceObj$doAPICall(paste("users", "show", sep = "/"), params = params,  : 
+  Not Found (HTTP 404).
+In addition: Warning message:
+package 'twitteR' was built under R version 3.4.1 
+2017-11-14 02:56:19 Friends: Unable to find account SBTsummit moving to next
+2017-11-14 02:56:19 Friends  : % at /sec for SBTsummit
+2017-11-14 02:56:39 Tweets   : 99.8% at 34/sec for SCAlliance3
+2017-11-14 02:56:42 Friends  : 99.5% at 29/sec for SCAlliance3
+2017-11-14 02:57:23 Friends  : 97.6% at 30/sec for Science_Council
+2017-11-14 02:57:35 Friends  : 98.1% at 26/sec for sdrury4
+2017-11-14 02:57:35 Friends  : User SeddonTraining has a protected account or no Friendss to collect so skipping
+2017-11-14 02:57:41 Friends  : 97.9% at 23/sec for SENDinFE
+2017-11-14 02:57:54 Friends  : 98.4% at 29/sec for SESscaffolding
+2017-11-14 02:57:56 Tweets   : 61.3% at 42/sec for Science_Council
+2017-11-14 02:58:12 Tweets   : 100% at 23/sec for sdrury4
+2017-11-14 02:58:19 Tweets   : 100% at 14/sec for SeddonTraining
+2017-11-14 02:58:46 Tweets   : 99.8% at 32/sec for SENDinFE
+2017-11-14 02:58:57 Tweets   : 100% at 13/sec for SESscaffolding
+2017-11-14 03:00:17 Friends  : 98.4% at 34/sec for SharonWalpole
+2017-11-14 03:00:20 Tweets   : 56.4% at 38/sec for SharonWalpole
+2017-11-14 03:00:21 Friends  : 98.6% at 53/sec for SharplineLtd
+2017-11-14 03:00:22 Friends  : 100% at 20/sec for shirleyrat
+2017-11-14 03:00:27 Tweets   : 100% at 11/sec for SharplineLtd
+2017-11-14 03:00:33 Friends  : 99% at 27/sec for ShoesmithKate
+2017-11-14 03:00:33 Tweets   : 100% at 1/sec for shirleyrat
+2017-11-14 03:00:43 Friends  : 97.9% at 40/sec for SiBowKL
+2017-11-14 03:01:22 Friends  : 99.9% at 37/sec for simonwillins
+2017-11-14 03:01:33 Tweets   : 99.8% at 38/sec for ShoesmithKate
+2017-11-14 03:01:36 Favorites: 53.8% at 1/sec for SharonWalpole
+2017-11-14 03:01:36 Favorites: 83.3% at 11/sec for SharplineLtd
+2017-11-14 03:01:37 Favorites: 100% at 13/sec for shirleyrat
+2017-11-14 03:01:42 Favorites: 96.5% at 35/sec for ShoesmithKate
+2017-11-14 03:02:05 Favorites: 52.4% at 37/sec for SiBowKL
+2017-11-14 03:02:10 Favorites: 74.3% at 64/sec for simonwillins
+2017-11-14 03:02:57 Tweets   : 88.4% at 38/sec for SiBowKL
+2017-11-14 03:03:27 Friends  : 96.1% at 34/sec for simplystairs
+2017-11-14 03:03:45 Favorites: 33.9% at 34/sec for simplystairs
+2017-11-14 03:03:47 Favorites: 56.8% at 63/sec for singletonsmart1
+2017-11-14 03:03:49 Friends  : 96.5% at 35/sec for singletonsmart1
+2017-11-14 03:03:56 Favorites: 50% at 42/sec for SLCek
+2017-11-14 03:04:06 Friends  : 99.3% at 32/sec for SLCek
+2017-11-14 03:04:07 Friends  : Waiting for 7.1 minutes
+2017-11-14 03:04:21 Tweets   : 51.6% at 38/sec for simonwillins
+2017-11-14 03:04:46 Favorites: Waiting for 11.8 minutes due to : Used up allowance in a loop
+2017-11-14 03:05:42 Tweets   : 76.2% at 39/sec for simplystairs
+2017-11-14 03:05:52 Tweets   : 100% at 14/sec for singletonsmart1
+2017-11-14 03:06:39 Tweets   : 99.8% at 36/sec for SLCek
+2017-11-14 03:07:57 Tweets   : 10.9% at 41/sec for snowarchitects
+2017-11-14 03:08:28 Tweets   : 98.8% at 36/sec for SoNorthernEdge
+2017-11-14 03:08:58 Tweets   : 99.6% at 40/sec for sosaviuk
+2017-11-14 03:09:30 Tweets   : 99.7% at 39/sec for sovinigroup
+2017-11-14 03:09:42 Tweets   : 100% at 24/sec for SoviniPropServ
+2017-11-14 03:09:48 Tweets   : 97.8% at 14/sec for StaffsCTG
+2017-11-14 03:10:00 Tweets   : 100% at 18/sec for stevesweeney82
+2017-11-14 03:11:18 Tweets   : 27.8% at 41/sec for stodgeblog
+2017-11-14 03:11:51 Tweets   : 99.9% at 40/sec for SusanneStent
+2017-11-14 03:13:09 Tweets   : 72.4% at 41/sec for SwindonCollege
+2017-11-14 03:14:25 Friends  : 99.5% at 10/sec for snowarchitects
+2017-11-14 03:14:29 Tweets   : 19.5% at 40/sec for talatyaqoob
+2017-11-14 03:14:39 Tweets   : 98.6% at 13/sec for TaliesinConserv
+2017-11-14 03:15:18 Tweets   : 99.9% at 39/sec for TeamKentDemo
+2017-11-14 03:15:26 Friends  : 97.9% at 34/sec for SoNorthernEdge
+2017-11-14 03:15:58 Friends  : 99.4% at 34/sec for sosaviuk
+2017-11-14 03:15:59 Tweets   : 100% at 35/sec for technical_kev
+2017-11-14 03:16:14 Friends  : 99.3% at 33/sec for sovinigroup
+2017-11-14 03:16:36 Friends  : 100% at 31/sec for SoviniPropServ
+2017-11-14 03:16:39 Favorites: 50.5% at 3/sec for snowarchitects
+2017-11-14 03:16:42 Friends  : 99.3% at 22/sec for StaffsCTG
+2017-11-14 03:16:51 Favorites: 54.4% at 47/sec for SoNorthernEdge
+2017-11-14 03:16:52 Friends  : 98.3% at 35/sec for stevesweeney82
+2017-11-14 03:16:56 Favorites: 98.8% at 19/sec for sosaviuk
+2017-11-14 03:17:04 Favorites: 50.7% at 38/sec for sovinigroup
+2017-11-14 03:17:05 Favorites: 80.6% at 63/sec for SoviniPropServ
+2017-11-14 03:17:06 Favorites: 91.4% at 41/sec for StaffsCTG
+2017-11-14 03:17:07 Favorites: 58.1% at 72/sec for stevesweeney82
+2017-11-14 03:17:13 Friends  : 98.6% at 27/sec for stodgeblog
+2017-11-14 03:17:14 Friends  : 96.3% at 18/sec for SusanneStent
+2017-11-14 03:17:19 Tweets   : 3.9% at 40/sec for telebusiness
+2017-11-14 03:17:20 Favorites: 55.9% at 32/sec for stodgeblog
+2017-11-14 03:17:23 Favorites: 57.5% at 61/sec for SusanneStent
+2017-11-14 03:17:24 Friends  : 99.7% at 37/sec for SwindonCollege
+2017-11-14 03:17:28 Favorites: 80.7% at 35/sec for SwindonCollege
+2017-11-14 03:17:53 Favorites: 50.8% at 36/sec for talatyaqoob
+2017-11-14 03:17:56 Favorites: 73.9% at 63/sec for TaliesinConserv
+2017-11-14 03:18:02 Favorites: 84.7% at 30/sec for TeamKentDemo
+2017-11-14 03:18:06 Friends  : 99.1% at 28/sec for talatyaqoob
+2017-11-14 03:18:11 Friends  : 97.5% at 43/sec for TaliesinConserv
+2017-11-14 03:18:11 Favorites: 55.3% at 43/sec for technical_kev
+2017-11-14 03:18:12 Favorites: 96.3% at 33/sec for telebusiness
+2017-11-14 03:18:13 Favorites: 50.5% at 72/sec for theCDI
+2017-11-14 03:18:16 Friends  : 100% at 15/sec for TeamKentDemo
+2017-11-14 03:18:29 Favorites: 49.8% at 33/sec for TheGardenBridge
+2017-11-14 03:18:33 Friends  : 97.5% at 35/sec for technical_kev
+2017-11-14 03:18:33 Friends  : Waiting for 7.8 minutes
+2017-11-14 03:18:35 Favorites: 81.1% at 30/sec for ThePurvisGroup
+2017-11-14 03:18:36 Favorites: 98.7% at 62/sec for thesquareconst
+2017-11-14 03:18:38 Favorites: 100% at 60/sec for TICAChiefExec
+2017-11-14 03:18:41 Tweets   : 53.6% at 39/sec for theCDI
+2017-11-14 03:18:45 Favorites: 70.9% at 40/sec for TMurray_BusDev
+2017-11-14 03:19:27 Tweets   : 100% at 38/sec for TheGardenBridge
+2017-11-14 03:19:40 Tweets   : 100% at 22/sec for ThePurvisGroup
+2017-11-14 03:19:50 Tweets   : 100% at 12/sec for thesquareconst
+2017-11-14 03:20:09 Tweets   : 100% at 34/sec for TICAChiefExec
+2017-11-14 03:20:26 Tweets   : 98.4% at 25/sec for TMurray_BusDev
+2017-11-14 03:26:44 Friends  : 99.8% at 1/sec for telebusiness
+2017-11-14 03:26:50 Friends  : 100% at 32/sec for theCDI
+2017-11-14 03:27:19 Friends  : 99.3% at 42/sec for TheGardenBridge
+2017-11-14 03:27:23 Friends  : 96.7% at 53/sec for ThePurvisGroup
+2017-11-14 03:27:30 Friends  : 98.5% at 31/sec for thesquareconst
+2017-11-14 03:27:31 Friends  : 96.7% at 46/sec for TICAChiefExec
+2017-11-14 03:27:45 Friends  : 100% at 34/sec for TMurray_BusDev
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+Warning message:
+package 'twitteR' was built under R version 3.4.1 

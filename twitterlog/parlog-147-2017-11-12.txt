@@ -1,0 +1,190 @@
+starting worker pid=19812 on localhost:11045 at 22:51:26.323
+starting worker pid=19776 on localhost:11045 at 22:51:26.480
+starting worker pid=20060 on localhost:11045 at 22:51:26.637
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-12 22:53:28 Friends  : 100% at 33/sec for MarchmontObs
+2017-11-12 22:53:38 Friends  : 99.8% at 43/sec for markboleat
+2017-11-12 22:53:59 Friends  : 98.4% at 30/sec for MarkRavenhall
+2017-11-12 22:54:32 Friends  : 99.3% at 41/sec for Michael_Rabone
+2017-11-12 22:54:33 Friends  : 96.7% at 36/sec for MICleanEnergyRD
+2017-11-12 22:55:25 Favorites: 60.6% at 38/sec for MarchmontObs
+2017-11-12 22:55:26 Favorites: 96.8% at 31/sec for markboleat
+2017-11-12 22:55:44 Favorites: 57.7% at 27/sec for MarkRavenhall
+2017-11-12 22:55:53 Friends  : 99.7% at 39/sec for mojomums
+2017-11-12 22:55:59 Favorites: 55.3% at 39/sec for Michael_Rabone
+2017-11-12 22:56:05 Favorites: 57.3% at 34/sec for MICleanEnergyRD
+2017-11-12 22:56:05 Friends  : 100% at 32/sec for mollywebb
+2017-11-12 22:56:06 Favorites: 73.3% at 55/sec for mojomums
+2017-11-12 22:56:07 Favorites: 100% at 36/sec for mollywebb
+2017-11-12 22:56:08 Favorites: 96.3% at 42/sec for mrbladerunner
+2017-11-12 22:56:19 Friends  : 99.1% at 41/sec for mrbladerunner
+2017-11-12 22:57:05 Favorites: Waiting for 4.1 minutes due to : Used up allowance in a loop
+2017-11-12 22:57:24 Friends  : 95.8% at 39/sec for MrEwanMorrison
+2017-11-12 22:57:30 Friends  : 97.5% at 36/sec for MrMorrisDWP
+2017-11-12 22:57:44 Friends  : 98.6% at 39/sec for MyBCU
+2017-11-12 22:58:19 Friends  : 99.6% at 37/sec for NakedScientists
+2017-11-12 22:58:32 Tweets   : 34.6% at 46/sec for MarchmontObs
+2017-11-12 22:59:04 Friends  : 99.9% at 42/sec for NeelieKroesEU
+2017-11-12 22:59:16 Friends  : 98.5% at 41/sec for news_ub
+2017-11-12 22:59:22 Friends  : 98.9% at 33/sec for NewtonFund
+2017-11-12 22:59:22 Friends  : Waiting for 9.1 minutes
+2017-11-12 22:59:29 Tweets   : 99.6% at 47/sec for markboleat
+2017-11-12 23:00:22 Tweets   : 99.9% at 45/sec for MarkRavenhall
+2017-11-12 23:01:11 Tweets   : 99.8% at 47/sec for Michael_Rabone
+2017-11-12 23:01:31 Tweets   : 100% at 20/sec for MICleanEnergyRD
+2017-11-12 23:01:39 Favorites: 14.1% at 10/sec for MrEwanMorrison
+2017-11-12 23:01:55 Favorites: 52.9% at 41/sec for MrMorrisDWP
+2017-11-12 23:02:36 Tweets   : 18.2% at 49/sec for mojomums
+2017-11-12 23:02:39 Favorites: 49.8% at 40/sec for MyBCU
+2017-11-12 23:02:47 Favorites: 53.2% at 49/sec for NakedScientists
+2017-11-12 23:02:58 Tweets   : 99.6% at 36/sec for mollywebb
+2017-11-12 23:03:10 Favorites: 53.5% at 39/sec for NeelieKroesEU
+2017-11-12 23:03:12 Tweets   : 99.7% at 24/sec for mrbladerunner
+2017-11-12 23:03:22 Favorites: 51% at 42/sec for news_ub
+2017-11-12 23:03:41 Favorites: 50.7% at 42/sec for NewtonFund
+2017-11-12 23:03:44 Favorites: 74.3% at 72/sec for nickhar
+2017-11-12 23:03:44 Favorites: 100% at 37/sec for nickimoore1
+2017-11-12 23:03:53 Favorites: 62.1% at 34/sec for NissanMotor
+2017-11-12 23:04:02 Favorites: 54.2% at 48/sec for NPL
+2017-11-12 23:04:12 Favorites: 53.6% at 20/sec for NSA_Nuclear
+2017-11-12 23:04:17 Favorites: Waiting for 12 minutes due to : Used up allowance in a loop
+2017-11-12 23:04:20 Tweets   : 13.1% at 47/sec for MrEwanMorrison
+2017-11-12 23:05:06 Tweets   : 99.9% at 42/sec for MrMorrisDWP
+2017-11-12 23:06:16 Tweets   : 15.9% at 45/sec for MyBCU
+2017-11-12 23:07:24 Tweets   : 15.4% at 47/sec for NakedScientists
+2017-11-12 23:08:37 Tweets   : 30.2% at 44/sec for NeelieKroesEU
+2017-11-12 23:08:54 Friends  : 99.8% at 1/sec for nickhar
+2017-11-12 23:08:56 Friends  : 100% at 41/sec for nickimoore1
+2017-11-12 23:09:27 Friends  : 99.6% at 37/sec for NissanMotor
+2017-11-12 23:09:55 Tweets   : 92.5% at 41/sec for news_ub
+2017-11-12 23:10:32 Friends  : 99.8% at 42/sec for NPL
+2017-11-12 23:11:03 Tweets   : 100% at 38/sec for NewtonFund
+2017-11-12 23:11:10 Friends  : 98.2% at 39/sec for NSA_Nuclear
+2017-11-12 23:11:31 Tweets   : 99.2% at 32/sec for nickhar
+2017-11-12 23:11:34 Friends  : 99.6% at 41/sec for OwlsFlyingHigh
+2017-11-12 23:11:39 Tweets   : 100% at 16/sec for nickimoore1
+2017-11-12 23:12:05 Friends  : 99.6% at 40/sec for oxford_brookes
+2017-11-12 23:13:00 Tweets   : 86.2% at 39/sec for NissanMotor
+2017-11-12 23:14:12 Tweets   : 62% at 45/sec for NPL
+2017-11-12 23:14:43 Friends  : 99.7% at 38/sec for PhilJones40
+2017-11-12 23:14:46 Friends  : 100% at 51/sec for PhilOrford
+2017-11-12 23:15:21 Tweets   : 99.8% at 42/sec for NSA_Nuclear
+2017-11-12 23:15:31 Friends  : 98.8% at 37/sec for PlymUni
+2017-11-12 23:15:35 Friends  : 98.3% at 14/sec for PMDAnalysis
+2017-11-12 23:15:39 Tweets   : 100% at 32/sec for OwlsFlyingHigh
+2017-11-12 23:15:52 Friends  : 99% at 39/sec for QMUL
+2017-11-12 23:16:13 Friends  : 99% at 37/sec for rachel_mulvey
+2017-11-12 23:16:49 Favorites: 48.7% at 1/sec for OwlsFlyingHigh
+2017-11-12 23:16:53 Tweets   : 42.3% at 43/sec for oxford_brookes
+2017-11-12 23:17:19 Favorites: 50.5% at 39/sec for oxford_brookes
+2017-11-12 23:18:01 Friends  : 99.9% at 32/sec for RECPress
+2017-11-12 23:18:01 Friends  : Waiting for 5.7 minutes
+2017-11-12 23:18:11 Favorites: 51.2% at 40/sec for PhilJones40
+2017-11-12 23:18:11 Tweets   : 13.1% at 41/sec for PhilJones40
+2017-11-12 23:18:12 Favorites: 80.7% at 62/sec for PhilOrford
+2017-11-12 23:19:18 Tweets   : 99.8% at 44/sec for PhilOrford
+2017-11-12 23:19:27 Favorites: 25.3% at 42/sec for PlymUni
+2017-11-12 23:19:27 Favorites: 100% at 14/sec for PMDAnalysis
+2017-11-12 23:19:32 Favorites: Waiting for 12.1 minutes due to : Used up allowance in a loop
+2017-11-12 23:20:35 Tweets   : 9.5% at 41/sec for PlymUni
+2017-11-12 23:20:49 Tweets   : 100% at 23/sec for PMDAnalysis
+2017-11-12 23:22:01 Tweets   : 27.7% at 45/sec for QMUL
+2017-11-12 23:23:16 Tweets   : 96.8% at 42/sec for rachel_mulvey
+2017-11-12 23:24:05 Friends  : 99.3% at 1/sec for RegDelivery
+2017-11-12 23:24:36 Friends  : 99.1% at 23/sec for RenewableUK
+2017-11-12 23:24:38 Tweets   : 35% at 39/sec for RECPress
+2017-11-12 23:25:49 Tweets   : 50.5% at 43/sec for RegDelivery
+2017-11-12 23:25:54 Friends  : 98.9% at 32/sec for RogerHighfield
+2017-11-12 23:26:12 Friends  : 96.8% at 38/sec for RoryFitzESS
+2017-11-12 23:26:35 Friends  : 99.3% at 36/sec for Rothamsted
+2017-11-12 23:26:56 Friends  : 99.4% at 38/sec for Rover416SLi
+2017-11-12 23:27:01 Tweets   : 74.1% at 44/sec for RenewableUK
+2017-11-12 23:27:35 Friends  : 99.5% at 40/sec for RoyalSocBio
+2017-11-12 23:27:37 Friends  : 97.4% at 34/sec for roykr
+2017-11-12 23:28:16 Tweets   : 5.9% at 43/sec for RogerHighfield
+2017-11-12 23:29:32 Tweets   : 98.1% at 42/sec for RoryFitzESS
+2017-11-12 23:29:54 Friends  : 99.7% at 36/sec for ruskin147
+2017-11-12 23:30:03 Friends  : 97% at 37/sec for s_beeko
+2017-11-12 23:30:48 Tweets   : 89.1% at 42/sec for Rothamsted
+2017-11-12 23:32:14 Tweets   : 9.6% at 37/sec for Rover416SLi
+2017-11-12 23:32:49 Favorites: 49.5% at 3/sec for QMUL
+2017-11-12 23:32:50 Favorites: 98.6% at 58/sec for rachel_mulvey
+2017-11-12 23:32:56 Favorites: 84% at 34/sec for RECPress
+2017-11-12 23:33:03 Favorites: 69.3% at 40/sec for RegDelivery
+2017-11-12 23:33:14 Favorites: 59.6% at 34/sec for RenewableUK
+2017-11-12 23:33:19 Friends  : 99.7% at 33/sec for sageuk
+2017-11-12 23:33:41 Tweets   : 22.2% at 37/sec for RoyalSocBio
+2017-11-12 23:33:42 Favorites: 54% at 40/sec for RogerHighfield
+2017-11-12 23:34:02 Friends  : 98.5% at 30/sec for Samuelship
+2017-11-12 23:34:03 Tweets   : 99.1% at 27/sec for roykr
+2017-11-12 23:34:14 Favorites: 50.6% at 40/sec for RoryFitzESS
+2017-11-12 23:34:14 Friends  : 100% at 27/sec for ScottNolanSmith
+2017-11-12 23:34:14 Friends  : Waiting for 4.8 minutes
+2017-11-12 23:34:36 Favorites: 54% at 45/sec for Rothamsted
+2017-11-12 23:35:01 Favorites: 51.4% at 39/sec for Rover416SLi
+2017-11-12 23:35:07 Favorites: Waiting for 11.9 minutes due to : Used up allowance in a loop
+2017-11-12 23:35:23 Tweets   : 6% at 40/sec for ruskin147
+2017-11-12 23:35:38 Tweets   : 99.7% at 27/sec for s_beeko
+2017-11-12 23:37:01 Tweets   : 10.6% at 38/sec for sageuk
+2017-11-12 23:38:13 Tweets   : 10.3% at 45/sec for Samuelship
+2017-11-12 23:39:16 Friends  : 98.9% at 1/sec for SharEconUK
+2017-11-12 23:39:28 Tweets   : 20.8% at 43/sec for ScottNolanSmith
+2017-11-12 23:39:45 Tweets   : 99.4% at 26/sec for SharEconUK
+2017-11-12 23:39:53 Friends  : 98.7% at 33/sec for SheffCityRegion
+2017-11-12 23:40:46 Friends  : 98.4% at 31/sec for SJSEdmonds
+2017-11-12 23:41:03 Friends  : 98.8% at 30/sec for SKA_telescope
+2017-11-12 23:41:08 Tweets   : 63.3% at 38/sec for SheffCityRegion
+2017-11-12 23:41:59 Friends  : 99.7% at 32/sec for SkillsetSSC
+2017-11-12 23:42:18 Friends  : 99.5% at 30/sec for Skillstories
+2017-11-12 23:42:20 Friends  : 98.7% at 39/sec for SLCComms
+2017-11-12 23:42:33 Tweets   : 42.9% at 38/sec for SJSEdmonds
+2017-11-12 23:42:51 Friends  : 100% at 29/sec for SMECornwall
+2017-11-12 23:43:23 Tweets   : 99.7% at 38/sec for SKA_telescope
+2017-11-12 23:44:42 Tweets   : 7.8% at 40/sec for SkillsetSSC
+2017-11-12 23:46:07 Tweets   : 72.2% at 38/sec for Skillstories
+2017-11-12 23:46:17 Tweets   : 100% at 12/sec for SLCComms
+2017-11-12 23:47:19 Tweets   : 100% at 38/sec for SMECornwall
+2017-11-12 23:47:35 Favorites: 52.7% at 1/sec for RoyalSocBio
+2017-11-12 23:47:35 Favorites: 100% at 39/sec for roykr
+2017-11-12 23:48:32 Favorites: 49.4% at 44/sec for ruskin147
+2017-11-12 23:48:35 Favorites: 52.7% at 28/sec for s_beeko
+2017-11-12 23:49:49 Favorites: 45.4% at 43/sec for sageuk
+2017-11-12 23:50:13 Favorites: Waiting for 12.2 minutes due to : Used up allowance in a loop
+2017-11-13 00:03:35 Favorites: 45.4% at 4/sec for Samuelship
+2017-11-13 00:03:51 Favorites: Unable to find account ScottNolanSmith during loop number 7 moving to next loop
+2017-11-13 00:03:52 Favorites: Unable to find account ScottNolanSmith during loop number 8 moving to next loop
+2017-11-13 00:03:53 Favorites: Unable to find account ScottNolanSmith during loop number 9 moving to next loop
+2017-11-13 00:03:53 Favorites: Unable to find account ScottNolanSmith during loop number 10 moving to next loop
+2017-11-13 00:03:54 Favorites: Unable to find account ScottNolanSmith during loop number 11 moving to next loop
+2017-11-13 00:03:54 Favorites: 28.1% at 31/sec for ScottNolanSmith
+2017-11-13 00:03:54 Favorites: Unable to find account SharEconUK during loop number 1 moving to next loop
+2017-11-13 00:03:54 Favorites: % at /sec for SharEconUK
+2017-11-13 00:03:58 Favorites: Unable to find account SheffCityRegion during loop number 3 moving to next loop
+2017-11-13 00:03:58 Favorites: 46.5% at 60/sec for SheffCityRegion
+2017-11-13 00:03:58 Favorites: Unable to find account SJSEdmonds during loop number 1 moving to next loop
+2017-11-13 00:03:59 Favorites: Unable to find account SJSEdmonds during loop number 2 moving to next loop
+2017-11-13 00:04:00 Favorites: Unable to find account SJSEdmonds during loop number 3 moving to next loop
+2017-11-13 00:04:00 Favorites: % at /sec for SJSEdmonds
+[1] "Server error: (500) Internal Server Error"
+[1] "This error is likely transient, retrying up to 5 more times ..."
+[1] "Server error: (500) Internal Server Error"
+[1] "This error is likely transient, retrying up to 4 more times ..."
+[1] "Server error: (500) Internal Server Error"
+[1] "This error is likely transient, retrying up to 3 more times ..."
+[1] "Server error: (500) Internal Server Error"
+[1] "This error is likely transient, retrying up to 2 more times ..."
+2017-11-13 00:04:11 Favorites: Unable to find account SKA_telescope during loop number 3 moving to next loop
+2017-11-13 00:04:12 Favorites: Unable to find account SKA_telescope during loop number 4 moving to next loop
+2017-11-13 00:04:13 Favorites: Unable to find account SKA_telescope during loop number 5 moving to next loop
+2017-11-13 00:04:29 Favorites: 37.4% at 30/sec for SKA_telescope
+2017-11-13 00:04:53 Favorites: 51% at 42/sec for SkillsetSSC
+2017-11-13 00:05:06 Favorites: 50.9% at 45/sec for Skillstories
+2017-11-13 00:05:07 Favorites: 100% at 56/sec for SLCComms
+2017-11-13 00:05:13 Favorites: 66.4% at 47/sec for SMECornwall
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+package 'twitteR' was built under R version 3.4.1 
+Warning message:
+package 'twitteR' was built under R version 3.4.1 

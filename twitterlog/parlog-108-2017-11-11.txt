@@ -1,0 +1,170 @@
+starting worker pid=12232 on localhost:11045 at 02:55:42.544
+starting worker pid=21356 on localhost:11045 at 02:55:42.692
+starting worker pid=16376 on localhost:11045 at 02:55:42.864
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-11 02:57:04 Friends  : 97.4% at 32/sec for MarkCoyleUK
+2017-11-11 02:57:12 Friends  : 99% at 38/sec for MattleyVW
+2017-11-11 02:57:27 Friends  : 99.8% at 39/sec for offshorewinduk
+2017-11-11 02:57:42 Friends  : 99.7% at 41/sec for RESGroup
+2017-11-11 02:58:06 Friends  : 100% at 37/sec for SkyIanKingLive
+2017-11-11 02:58:13 Friends  : 99.6% at 34/sec for StefaniaBortolo
+2017-11-11 02:58:16 Favorites: 53.9% at 34/sec for MarkCoyleUK
+2017-11-11 02:58:19 Favorites: 56.5% at 65/sec for MattleyVW
+2017-11-11 02:58:21 Favorites: 98.6% at 29/sec for offshorewinduk
+2017-11-11 02:58:26 Favorites: 72% at 43/sec for RESGroup
+2017-11-11 02:58:26 Favorites: 100% at 25/sec for SkyIanKingLive
+2017-11-11 02:58:29 Favorites: 55% at 36/sec for StefaniaBortolo
+2017-11-11 02:58:40 Favorites: 52.7% at 44/sec for switchmybiz
+2017-11-11 02:58:43 Favorites: 93.3% at 23/sec for TakeFive
+2017-11-11 02:58:44 Favorites: 100% at 49/sec for 3_SolutionsLtd
+2017-11-11 02:58:47 Favorites: 84% at 34/sec for AjWindowsanddo4
+2017-11-11 02:58:47 Favorites: 94.1% at 25/sec for CarrsWindowsLtd
+2017-11-11 02:58:48 Favorites: 100% at 57/sec for Core_S_Windows
+2017-11-11 02:58:54 Favorites: 54.9% at 33/sec for DHFramesBristol
+2017-11-11 02:58:55 Favorites: 92.9% at 27/sec for DImprovements
+2017-11-11 02:58:56 Favorites: 100% at 39/sec for EwennyGroup
+2017-11-11 02:58:56 Favorites: 100% at 14/sec for HamiltonWindowz
+2017-11-11 02:58:57 Favorites: 100% at 28/sec for jonfoldesi
+2017-11-11 02:58:59 Favorites: 100% at 14/sec for MagdenLtd
+2017-11-11 02:59:01 Favorites: 100% at 58/sec for MajDesignsUK
+2017-11-11 02:59:04 Favorites: 100% at 31/sec for MartinABevan
+2017-11-11 02:59:26 Favorites: Waiting for 2.4 minutes due to : Used up allowance in a loop
+2017-11-11 02:59:34 Tweets   : 99.4% at 33/sec for MarkCoyleUK
+2017-11-11 02:59:40 Friends  : 99.9% at 39/sec for switchmybiz
+2017-11-11 02:59:48 Friends  : 99.7% at 40/sec for TakeFive
+2017-11-11 02:59:48 Tweets   : 99.5% at 28/sec for MattleyVW
+2017-11-11 02:59:56 Friends  : 98.6% at 33/sec for 3_SolutionsLtd
+Error in twInterfaceObj$doAPICall(paste("users", "show", sep = "/"), params = params,  : 
+  Not Found (HTTP 404).
+In addition: Warning message:
+package 'twitteR' was built under R version 3.4.1 
+2017-11-11 02:59:57 Friends: Unable to find account AjWindowsanddo4 moving to next
+2017-11-11 02:59:57 Friends  : % at /sec for AjWindowsanddo4
+2017-11-11 02:59:59 Tweets   : 99.2% at 23/sec for offshorewinduk
+2017-11-11 03:00:01 Friends  : 98.1% at 35/sec for CarrsWindowsLtd
+2017-11-11 03:00:01 Friends  : Waiting for 6.4 minutes
+2017-11-11 03:00:34 Tweets   : 99.9% at 40/sec for RESGroup
+2017-11-11 03:01:39 Tweets   : 16.9% at 49/sec for SkyIanKingLive
+2017-11-11 03:02:06 Tweets   : 99.9% at 35/sec for StefaniaBortolo
+2017-11-11 03:02:49 Favorites: 15.4% at 14/sec for mcdermottwindow
+2017-11-11 03:02:59 Favorites: 51.1% at 38/sec for mrmaxglass
+2017-11-11 03:03:04 Favorites: 61.9% at 45/sec for PaulJWatsonSol
+2017-11-11 03:03:18 Tweets   : 18.7% at 44/sec for switchmybiz
+2017-11-11 03:03:21 Favorites: 55.8% at 40/sec for Sarah_ECR
+2017-11-11 03:03:23 Favorites: 89.3% at 37/sec for SashWindowUK
+2017-11-11 03:03:26 Favorites: 57.6% at 38/sec for TitonUK
+2017-11-11 03:03:33 Favorites: 72% at 45/sec for VastPaul
+2017-11-11 03:03:33 Favorites: User WoodhamWindows has a protected account or no Favoritess to collect so skipping
+2017-11-11 03:03:34 Favorites: 100% at 12/sec for abandcltd
+2017-11-11 03:03:42 Favorites: 61.6% at 38/sec for BBCgmu
+2017-11-11 03:03:48 Tweets   : 98.4% at 33/sec for TakeFive
+2017-11-11 03:03:49 Favorites: 53.4% at 40/sec for BelindaGordon49
+2017-11-11 03:03:59 Tweets   : 100% at 21/sec for 3_SolutionsLtd
+2017-11-11 03:04:00 Favorites: 58.6% at 36/sec for Brandon_Hire
+2017-11-11 03:04:00 Favorites: 100% at 9/sec for bristolbuild4
+2017-11-11 03:04:02 Favorites: 100% at 61/sec for carebuilds
+2017-11-11 03:04:10 Favorites: 65.3% at 34/sec for CaseyNCalista
+2017-11-11 03:04:11 Tweets   : 100% at 23/sec for AjWindowsanddo4
+2017-11-11 03:04:11 Favorites: 100% at 38/sec for chewtonbespoke
+2017-11-11 03:04:12 Favorites: 100% at 53/sec for ChrisReevesLaw
+2017-11-11 03:04:14 Favorites: 98.4% at 26/sec for CityHospSund
+2017-11-11 03:04:15 Favorites: 100% at 41/sec for CNAndyRen
+2017-11-11 03:04:18 Tweets   : 98.2% at 7/sec for CarrsWindowsLtd
+2017-11-11 03:04:28 Favorites: 60.2% at 31/sec for ConciergeatCare
+2017-11-11 03:04:30 Tweets   : 99.7% at 29/sec for Core_S_Windows
+2017-11-11 03:04:35 Favorites: 62% at 42/sec for ConstructionGL
+2017-11-11 03:04:49 Favorites: Waiting for 12 minutes due to : Used up allowance in a loop
+2017-11-11 03:05:06 Tweets   : 99.9% at 39/sec for DHFramesBristol
+2017-11-11 03:05:18 Tweets   : 100% at 22/sec for DImprovements
+2017-11-11 03:05:27 Tweets   : 100% at 14/sec for EwennyGroup
+2017-11-11 03:06:10 Tweets   : 100% at 40/sec for HamiltonWindowz
+2017-11-11 03:06:16 Tweets   : 98.5% at 10/sec for jonfoldesi
+2017-11-11 03:06:46 Friends  : 99.7% at 1/sec for Core_S_Windows
+2017-11-11 03:06:48 Tweets   : 100% at 37/sec for MagdenLtd
+2017-11-11 03:07:01 Friends  : 99.3% at 36/sec for DHFramesBristol
+2017-11-11 03:07:05 Tweets   : 100% at 31/sec for MajDesignsUK
+2017-11-11 03:07:43 Friends  : 98.1% at 37/sec for DImprovements
+2017-11-11 03:07:43 Friends  : User EwennyGroup has a protected account or no Friendss to collect so skipping
+2017-11-11 03:08:10 Friends  : 99.7% at 40/sec for HamiltonWindowz
+2017-11-11 03:08:16 Tweets   : 99.4% at 41/sec for MartinABevan
+2017-11-11 03:08:17 Friends  : 99.6% at 34/sec for jonfoldesi
+2017-11-11 03:08:38 Friends  : 100% at 41/sec for MagdenLtd
+2017-11-11 03:08:44 Friends  : 98.1% at 32/sec for MajDesignsUK
+2017-11-11 03:09:41 Tweets   : 19.9% at 38/sec for mcdermottwindow
+2017-11-11 03:10:08 Tweets   : 99.3% at 33/sec for mrmaxglass
+2017-11-11 03:10:26 Friends  : 98% at 39/sec for MartinABevan
+2017-11-11 03:11:12 Friends  : 96.2% at 35/sec for mcdermottwindow
+2017-11-11 03:11:16 Friends  : 97.4% at 28/sec for mrmaxglass
+2017-11-11 03:11:17 Tweets   : 42% at 46/sec for PaulJWatsonSol
+2017-11-11 03:12:24 Friends  : 99.7% at 34/sec for PaulJWatsonSol
+2017-11-11 03:12:30 Tweets   : 15.1% at 44/sec for Sarah_ECR
+2017-11-11 03:13:40 Tweets   : 100% at 44/sec for SashWindowUK
+2017-11-11 03:14:32 Tweets   : 100% at 37/sec for TitonUK
+2017-11-11 03:15:18 Friends  : 99.6% at 36/sec for Sarah_ECR
+2017-11-11 03:15:33 Friends  : 100% at 35/sec for SashWindowUK
+2017-11-11 03:15:48 Tweets   : 99.7% at 34/sec for VastPaul
+2017-11-11 03:15:55 Tweets   : 100% at 5/sec for WoodhamWindows
+2017-11-11 03:16:02 Tweets   : 100% at 9/sec for abandcltd
+2017-11-11 03:16:12 Friends  : 95.7% at 36/sec for TitonUK
+2017-11-11 03:16:12 Friends  : Waiting for 5.5 minutes
+2017-11-11 03:17:12 Tweets   : 11.6% at 46/sec for BBCgmu
+2017-11-11 03:17:23 Favorites: 49% at 1/sec for coxformat
+2017-11-11 03:17:35 Favorites: 49.6% at 43/sec for EN11RGY
+2017-11-11 03:17:40 Favorites: 75.8% at 35/sec for EntForumUK
+2017-11-11 03:17:59 Tweets   : 99.9% at 37/sec for BelindaGordon49
+2017-11-11 03:18:18 Favorites: 51.1% at 42/sec for euroloo
+2017-11-11 03:18:25 Favorites: 52.6% at 42/sec for H_F_S
+2017-11-11 03:18:28 Favorites: 91.7% at 34/sec for KellawayBS
+2017-11-11 03:18:33 Favorites: 94.3% at 47/sec for LeonLivermore
+2017-11-11 03:18:38 Favorites: 75.4% at 36/sec for maire_nawaz
+2017-11-11 03:18:43 Tweets   : 99.9% at 41/sec for Brandon_Hire
+2017-11-11 03:18:54 Tweets   : 100% at 21/sec for bristolbuild4
+2017-11-11 03:19:04 Tweets   : 99.5% at 19/sec for carebuilds
+2017-11-11 03:19:37 Tweets   : 99.6% at 38/sec for CaseyNCalista
+2017-11-11 03:19:45 Tweets   : 99.5% at 22/sec for chewtonbespoke
+2017-11-11 03:19:56 Tweets   : 100% at 17/sec for ChrisReevesLaw
+2017-11-11 03:20:06 Tweets   : 100% at 20/sec for CityHospSund
+2017-11-11 03:20:23 Tweets   : 100% at 30/sec for CNAndyRen
+2017-11-11 03:20:34 Tweets   : 100% at 21/sec for ConciergeatCare
+2017-11-11 03:21:54 Tweets   : 41.8% at 40/sec for ConstructionGL
+2017-11-11 03:22:34 Friends  : 96.5% at 4/sec for VastPaul
+2017-11-11 03:22:35 Friends  : 100% at 9/sec for WoodhamWindows
+2017-11-11 03:22:41 Friends  : 93.3% at 28/sec for abandcltd
+2017-11-11 03:23:17 Tweets   : 65.4% at 38/sec for coxformat
+2017-11-11 03:23:39 Tweets   : 99.9% at 35/sec for EN11RGY
+2017-11-11 03:24:20 Tweets   : 99% at 38/sec for EntForumUK
+2017-11-11 03:24:21 Friends  : 99.3% at 36/sec for BBCgmu
+2017-11-11 03:24:28 Friends  : 98.9% at 39/sec for BelindaGordon49
+2017-11-11 03:24:36 Friends  : 99.7% at 38/sec for Brandon_Hire
+2017-11-11 03:24:40 Friends  : 99.2% at 31/sec for bristolbuild4
+2017-11-11 03:25:06 Friends  : 99% at 37/sec for carebuilds
+2017-11-11 03:25:37 Tweets   : 61.4% at 42/sec for euroloo
+2017-11-11 03:25:58 Friends  : 99.3% at 36/sec for CaseyNCalista
+2017-11-11 03:26:09 Friends  : 99.7% at 34/sec for chewtonbespoke
+2017-11-11 03:26:13 Friends  : 97.8% at 23/sec for ChrisReevesLaw
+2017-11-11 03:26:18 Friends  : 94.1% at 36/sec for CityHospSund
+2017-11-11 03:26:25 Friends  : 100% at 36/sec for CNAndyRen
+Error in twInterfaceObj$doAPICall(paste("users", "show", sep = "/"), params = params,  : 
+  Not Found (HTTP 404).
+2017-11-11 03:26:26 Friends: Unable to find account ConciergeatCare moving to next
+2017-11-11 03:26:26 Friends  : % at /sec for ConciergeatCare
+2017-11-11 03:26:38 Friends  : 98% at 35/sec for ConstructionGL
+2017-11-11 03:26:44 Tweets   : 99.9% at 39/sec for H_F_S
+2017-11-11 03:27:27 Tweets   : 100% at 34/sec for KellawayBS
+2017-11-11 03:27:42 Friends  : 98.7% at 35/sec for coxformat
+2017-11-11 03:27:42 Friends  : Waiting for 9.2 minutes
+2017-11-11 03:28:17 Tweets   : 99.8% at 35/sec for LeonLivermore
+2017-11-11 03:28:27 Tweets   : 100% at 14/sec for maire_nawaz
+2017-11-11 03:37:33 Friends  : 98.7% at 2/sec for EN11RGY
+2017-11-11 03:38:08 Friends  : 99.8% at 35/sec for EntForumUK
+2017-11-11 03:39:37 Friends  : 92.3% at 38/sec for euroloo
+2017-11-11 03:39:45 Friends  : 99.4% at 38/sec for H_F_S
+2017-11-11 03:39:59 Friends  : 99.6% at 39/sec for KellawayBS
+2017-11-11 03:40:23 Friends  : 98.1% at 35/sec for LeonLivermore
+2017-11-11 03:40:27 Friends  : 98.5% at 33/sec for maire_nawaz
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+Warning message:
+package 'twitteR' was built under R version 3.4.1 

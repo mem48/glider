@@ -1,0 +1,177 @@
+starting worker pid=19476 on localhost:11045 at 06:35:42.912
+starting worker pid=17324 on localhost:11045 at 06:35:43.074
+starting worker pid=19924 on localhost:11045 at 06:35:43.235
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-14 06:39:23 Friends  : 99.4% at 34/sec for nctacademy
+2017-11-14 06:40:10 Friends  : 99.5% at 37/sec for Nelson_Portas
+2017-11-14 06:40:37 Friends  : 97.6% at 34/sec for NewAngliaLEP
+2017-11-14 06:40:41 Friends  : 97.1% at 52/sec for northyorkscc
+2017-11-14 06:41:11 Friends  : 98.9% at 31/sec for OldhamCouncil
+2017-11-14 06:41:13 Favorites: 51.7% at 21/sec for nctacademy
+2017-11-14 06:41:15 Favorites: 64.3% at 70/sec for Nelson_Portas
+2017-11-14 06:41:24 Favorites: 68.8% at 35/sec for NewAngliaLEP
+2017-11-14 06:41:30 Favorites: 57.1% at 30/sec for northyorkscc
+2017-11-14 06:41:34 Friends  : 99.9% at 35/sec for OpenPolicyUK
+2017-11-14 06:41:52 Favorites: 53.5% at 36/sec for OldhamCouncil
+2017-11-14 06:42:05 Favorites: 50.8% at 46/sec for OpenPolicyUK
+2017-11-14 06:42:37 Friends  : 97.5% at 35/sec for OurAltrincham
+2017-11-14 06:43:31 Favorites: 24.8% at 37/sec for OurAltrincham
+2017-11-14 06:43:41 Favorites: 59.5% at 40/sec for OurBigGig
+2017-11-14 06:43:45 Friends  : 100% at 32/sec for OurBigGig
+2017-11-14 06:43:55 Favorites: 50.1% at 36/sec for ParliaMentors
+2017-11-14 06:43:56 Favorites: 100% at 41/sec for PeterBazalgette
+2017-11-14 06:44:12 Favorites: Waiting for 11.6 minutes due to : Used up allowance in a loop
+2017-11-14 06:44:39 Friends  : 99% at 38/sec for ParliaMentors
+2017-11-14 06:44:46 Tweets   : 99.9% at 35/sec for nctacademy
+2017-11-14 06:45:09 Tweets   : 99.7% at 35/sec for Nelson_Portas
+2017-11-14 06:46:28 Tweets   : 43.1% at 41/sec for NewAngliaLEP
+2017-11-14 06:46:34 Friends  : 98.9% at 38/sec for PeterBazalgette
+2017-11-14 06:46:48 Friends  : 97.6% at 31/sec for PitshangerW5
+2017-11-14 06:47:45 Tweets   : 14.7% at 41/sec for northyorkscc
+2017-11-14 06:47:52 Friends  : 97.5% at 36/sec for PlaceManagement
+2017-11-14 06:47:59 Friends  : 99.2% at 33/sec for portsmouthtoday
+2017-11-14 06:49:06 Tweets   : 6% at 40/sec for OldhamCouncil
+2017-11-14 06:49:17 Friends  : 99.8% at 34/sec for PremierRadio
+2017-11-14 06:50:21 Tweets   : 99.9% at 41/sec for OpenPolicyUK
+2017-11-14 06:50:51 Friends  : 98.7% at 36/sec for Propertyshe
+2017-11-14 06:50:51 Friends  : Waiting for 2.4 minutes
+2017-11-14 06:51:37 Tweets   : 7.5% at 42/sec for OurAltrincham
+2017-11-14 06:52:52 Tweets   : 74.4% at 42/sec for OurBigGig
+2017-11-14 06:53:28 Friends  : 98.3% at 3/sec for RBCparklife
+2017-11-14 06:54:11 Tweets   : 80.8% at 40/sec for ParliaMentors
+2017-11-14 06:54:25 Friends  : 99.2% at 34/sec for RBKCMarkets
+2017-11-14 06:54:42 Friends  : 99.1% at 34/sec for RedbridgeLive
+2017-11-14 06:54:55 Friends  : 97.9% at 28/sec for RibbleValleyBC
+2017-11-14 06:54:58 Friends  : 99.3% at 44/sec for RotherDC
+2017-11-14 06:55:11 Tweets   : 99.8% at 38/sec for PeterBazalgette
+2017-11-14 06:55:24 Friends  : 98.3% at 29/sec for RothTownCentre
+2017-11-14 06:55:39 Friends  : 99.3% at 35/sec for Rushcliffe
+2017-11-14 06:55:53 Favorites: 53% at 1/sec for PitshangerW5
+2017-11-14 06:56:15 Favorites: 55.5% at 35/sec for PlaceManagement
+2017-11-14 06:56:17 Favorites: 91.7% at 61/sec for portsmouthtoday
+2017-11-14 06:56:42 Tweets   : 49.9% at 35/sec for PitshangerW5
+2017-11-14 06:56:50 Favorites: 50.1% at 38/sec for PremierRadio
+2017-11-14 06:57:02 Friends  : 99.5% at 32/sec for Safeagent
+2017-11-14 06:57:18 Friends  : 96.4% at 28/sec for SalfordCouncil
+2017-11-14 06:57:36 Favorites: 52.3% at 37/sec for Propertyshe
+2017-11-14 06:58:07 Friends  : 97.1% at 31/sec for SalfordCVS
+2017-11-14 06:58:15 Tweets   : 48.9% at 35/sec for PlaceManagement
+2017-11-14 06:59:03 Favorites: 50.9% at 35/sec for RBCparklife
+2017-11-14 06:59:09 Favorites: Waiting for 11.6 minutes due to : Used up allowance in a loop
+2017-11-14 06:59:16 Friends  : 98.4% at 31/sec for SamLP
+2017-11-14 06:59:36 Friends  : 99.7% at 29/sec for SikhCouncilUK
+2017-11-14 06:59:44 Friends  : 100% at 29/sec for sikhsiyasat
+2017-11-14 06:59:44 Tweets   : 48.5% at 36/sec for portsmouthtoday
+2017-11-14 07:00:03 Friends  : 99.3% at 31/sec for SolihullCouncil
+2017-11-14 07:01:13 Tweets   : 7.4% at 36/sec for PremierRadio
+2017-11-14 07:01:57 Friends  : 98.2% at 31/sec for SrebrenicaUK
+2017-11-14 07:01:57 Friends  : Waiting for 6.4 minutes
+2017-11-14 07:02:46 Tweets   : 8.4% at 35/sec for Propertyshe
+2017-11-14 07:04:03 Tweets   : 50.6% at 42/sec for RBCparklife
+2017-11-14 07:05:24 Tweets   : 12.9% at 39/sec for RBKCMarkets
+2017-11-14 07:06:36 Tweets   : 15.5% at 44/sec for RedbridgeLive
+2017-11-14 07:07:48 Tweets   : 54.2% at 45/sec for RibbleValleyBC
+2017-11-14 07:09:06 Tweets   : 63.3% at 41/sec for RotherDC
+2017-11-14 07:10:16 Tweets   : 99.4% at 40/sec for RothTownCentre
+2017-11-14 07:11:44 Tweets   : 22.8% at 36/sec for Rushcliffe
+2017-11-14 07:12:07 Favorites: 31.6% at 4/sec for RBKCMarkets
+2017-11-14 07:12:15 Favorites: 62.9% at 36/sec for RedbridgeLive
+2017-11-14 07:12:37 Favorites: 55.4% at 37/sec for RibbleValleyBC
+2017-11-14 07:12:38 Favorites: 97.6% at 45/sec for RotherDC
+2017-11-14 07:12:48 Friends  : 99.3% at 14/sec for SRTRC_England
+2017-11-14 07:12:54 Favorites: 55.7% at 37/sec for RothTownCentre
+2017-11-14 07:12:54 Friends  : 99.3% at 23/sec for StAlbansCouncil
+[1] "Server error: (500) Internal Server Error"
+[1] "This error is likely transient, retrying up to 5 more times ..."
+2017-11-14 07:13:05 Favorites: 56.9% at 34/sec for Rushcliffe
+2017-11-14 07:13:06 Favorites: 100% at 27/sec for Safeagent
+2017-11-14 07:13:11 Tweets   : 61.2% at 37/sec for Safeagent
+2017-11-14 07:13:15 Favorites: 53.4% at 43/sec for SalfordCouncil
+2017-11-14 07:13:21 Friends  : 99.2% at 28/sec for StephenCurryUK
+2017-11-14 07:13:43 Favorites: 51.9% at 39/sec for SalfordCVS
+2017-11-14 07:13:59 Favorites: Waiting for 11.8 minutes due to : Used up allowance in a loop
+2017-11-14 07:14:36 Tweets   : 13.7% at 38/sec for SalfordCouncil
+2017-11-14 07:15:41 Friends  : 99.5% at 31/sec for stjohnambulance
+2017-11-14 07:16:06 Tweets   : 51.5% at 36/sec for SalfordCVS
+2017-11-14 07:16:18 Friends  : 99.4% at 31/sec for stonewalluk
+2017-11-14 07:17:02 Friends  : 100% at 28/sec for streetlife_uk
+2017-11-14 07:17:02 Friends: Request of 17 exceeds the maximum of 15. Making an attemp
+Waiting will increase the number of results returned
+2017-11-14 07:17:02 Friends  : Waiting for 6.4 minutes
+2017-11-14 07:17:29 Tweets   : 26.6% at 38/sec for SamLP
+2017-11-14 07:18:13 Tweets   : 99.6% at 41/sec for SikhCouncilUK
+2017-11-14 07:19:23 Tweets   : 7.6% at 46/sec for sikhsiyasat
+2017-11-14 07:20:38 Tweets   : 17.9% at 43/sec for SolihullCouncil
+2017-11-14 07:21:52 Tweets   : 49.9% at 43/sec for SrebrenicaUK
+2017-11-14 07:23:14 Tweets   : 11% at 39/sec for SRTRC_England
+2017-11-14 07:24:32 Tweets   : 45.4% at 41/sec for StAlbansCouncil
+2017-11-14 07:25:48 Tweets   : 62.9% at 42/sec for StephenCurryUK
+2017-11-14 07:26:56 Favorites: 27.5% at 4/sec for SamLP
+2017-11-14 07:26:57 Favorites: 55% at 67/sec for SikhCouncilUK
+2017-11-14 07:26:59 Favorites: 65.1% at 62/sec for sikhsiyasat
+2017-11-14 07:27:04 Favorites: 58.1% at 21/sec for SolihullCouncil
+2017-11-14 07:27:10 Tweets   : 28.6% at 39/sec for stjohnambulance
+2017-11-14 07:27:55 Favorites: 49.2% at 39/sec for SrebrenicaUK
+2017-11-14 07:28:33 Favorites: 52.1% at 40/sec for SRTRC_England
+2017-11-14 07:28:36 Tweets   : 9.1% at 37/sec for stonewalluk
+2017-11-14 07:28:37 Favorites: 97.4% at 10/sec for StAlbansCouncil
+2017-11-14 07:28:44 Favorites: 56.6% at 40/sec for StephenCurryUK
+2017-11-14 07:28:54 Favorites: Waiting for 11.9 minutes due to : Used up allowance in a loop
+2017-11-14 07:29:51 Tweets   : 99.8% at 40/sec for streetlife_uk
+2017-11-14 07:31:12 Tweets   : 6.5% at 39/sec for StuartAllenFCMI
+2017-11-14 07:32:31 Tweets   : 46.1% at 41/sec for SuffolkCoastal
+2017-11-14 07:33:51 Tweets   : 46.9% at 40/sec for superact_uk
+2017-11-14 07:35:13 Tweets   : 18.8% at 39/sec for Surrey_Matters
+2017-11-14 07:35:50 Tweets   : 100% at 37/sec for tchgroup
+2017-11-14 07:37:16 Tweets   : 44.7% at 37/sec for TeamBID
+2017-11-14 07:38:04 Tweets   : 99.6% at 36/sec for Tell_StreetLink
+2017-11-14 07:39:30 Tweets   : 4.1% at 37/sec for TenterdenTown
+2017-11-14 07:39:41 Tweets   : 100.4% at 21/sec for TheGTP_
+2017-11-14 07:41:08 Tweets   : 54.5% at 37/sec for tradegovukUSA
+2017-11-14 07:42:00 Favorites: 36.9% at 4/sec for stjohnambulance
+2017-11-14 07:42:39 Tweets   : 27% at 35/sec for TraffordCouncil
+2017-11-14 07:42:57 Tweets   : 100% at 25/sec for true_vision_hc
+2017-11-14 07:43:27 Favorites: 32.1% at 36/sec for stonewalluk
+2017-11-14 07:43:35 Favorites: 63.6% at 38/sec for streetlife_uk
+2017-11-14 07:44:06 Favorites: Waiting for 11.7 minutes due to : Used up allowance in a loop
+2017-11-14 07:44:29 Tweets   : 51% at 35/sec for ukalocaldigital
+2017-11-14 07:44:47 Tweets   : 100% at 28/sec for UKBahaiOPA
+2017-11-14 07:54:46 Friends  : 87% at 32/sec for StuartAllenFCMI
+2017-11-14 07:54:59 Friends  : 98% at 46/sec for SuffolkCoastal
+2017-11-14 07:55:47 Favorites: 5.4% at 1/sec for StuartAllenFCMI
+2017-11-14 07:56:03 Favorites: 54.6% at 38/sec for SuffolkCoastal
+2017-11-14 07:56:26 Favorites: 49.7% at 39/sec for superact_uk
+2017-11-14 07:56:33 Friends  : 97.9% at 45/sec for superact_uk
+2017-11-14 07:56:34 Favorites: 62.4% at 38/sec for Surrey_Matters
+2017-11-14 07:56:34 Favorites: 98.2% at 60/sec for tchgroup
+2017-11-14 07:57:47 Favorites: 50.1% at 42/sec for TeamBID
+2017-11-14 07:57:59 Favorites: 58% at 33/sec for Tell_StreetLink
+2017-11-14 07:58:22 Friends  : 99.6% at 41/sec for Surrey_Matters
+2017-11-14 07:58:26 Friends  : 98.5% at 50/sec for tchgroup
+2017-11-14 07:58:52 Favorites: Waiting for 11.9 minutes due to : Used up allowance in a loop
+2017-11-14 07:59:05 Friends  : 98.8% at 42/sec for TeamBID
+2017-11-14 07:59:18 Friends  : 99.8% at 43/sec for Tell_StreetLink
+2017-11-14 08:04:06 Friends  : 97% at 40/sec for TenterdenTown
+2017-11-14 08:04:16 Friends  : 95% at 33/sec for TheGTP_
+2017-11-14 08:05:01 Friends  : 99.4% at 32/sec for tradegovukUSA
+2017-11-14 08:05:09 Friends  : 97.3% at 53/sec for TraffordCouncil
+2017-11-14 08:05:12 Friends  : 100% at 46/sec for true_vision_hc
+2017-11-14 08:06:08 Friends  : 94.9% at 47/sec for ukalocaldigital
+2017-11-14 08:06:17 Friends  : 98.6% at 37/sec for UKBahaiOPA
+2017-11-14 08:11:09 Favorites: 49.8% at 4/sec for TenterdenTown
+2017-11-14 08:11:10 Favorites: 100% at 74/sec for TheGTP_
+2017-11-14 08:12:08 Favorites: 50.7% at 39/sec for tradegovukUSA
+2017-11-14 08:12:11 Favorites: 74% at 67/sec for TraffordCouncil
+2017-11-14 08:12:11 Favorites: 100% at 21/sec for true_vision_hc
+2017-11-14 08:12:15 Favorites: 97.5% at 18/sec for ukalocaldigital
+2017-11-14 08:12:18 Favorites: 78.7% at 73/sec for UKBahaiOPA
+Warning message:
+
+1: package 'twitteR' was built under R version 3.4.1 
+1: package 'twitteR' was built under R version 3.4.1 
+2: In twInterfaceObj$doAPICall(cmd, params, method, ...) :
+  Rate limit encountered & retry limit reached - returning partial results
+2: In twInterfaceObj$doAPICall(cmd, params, method, ...) :
+  Rate limit encountered & retry limit reached - returning partial results

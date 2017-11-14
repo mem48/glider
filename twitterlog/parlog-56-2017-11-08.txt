@@ -1,0 +1,169 @@
+starting worker pid=8992 on localhost:11045 at 11:52:25.484
+starting worker pid=17392 on localhost:11045 at 11:52:25.650
+starting worker pid=13452 on localhost:11045 at 11:52:25.815
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-08 11:54:26 Friends  : 99.9% at 36/sec for UKOCN
+2017-11-08 11:54:43 Friends  : 99.7% at 40/sec for UniWestminster
+2017-11-08 11:54:51 Favorites: 100% at 23/sec for UKOCN
+2017-11-08 11:55:03 Friends  : 98.6% at 42/sec for CraigPotter_1
+2017-11-08 11:55:12 Friends  : 97.6% at 37/sec for jeremycarter72
+2017-11-08 11:55:35 Favorites: 50.9% at 29/sec for UniWestminster
+2017-11-08 11:55:46 Friends  : 99.7% at 44/sec for smartassessor
+2017-11-08 11:55:48 Favorites: 56.8% at 36/sec for CraigPotter_1
+2017-11-08 11:55:54 Favorites: 63.9% at 34/sec for jeremycarter72
+2017-11-08 11:56:00 Favorites: 51% at 35/sec for smartassessor
+2017-11-08 11:56:04 Favorites: 55.3% at 41/sec for TimBurnett_UK
+2017-11-08 11:56:43 Favorites: 50.8% at 36/sec for acasorguk
+2017-11-08 11:56:49 Friends  : 97.6% at 41/sec for TimBurnett_UK
+2017-11-08 11:56:54 Favorites: Waiting for 6.4 minutes due to : Used up allowance in a loop
+2017-11-08 11:57:12 Friends  : 98.5% at 36/sec for acasorguk
+2017-11-08 11:57:18 Tweets   : 54.5% at 45/sec for UKOCN
+2017-11-08 11:57:43 Friends  : 99.8% at 46/sec for BioSciFan
+2017-11-08 11:57:52 Friends  : 99.8% at 47/sec for businessisgreat
+2017-11-08 11:58:20 Tweets   : 27.3% at 51/sec for UniWestminster
+2017-11-08 11:58:43 Tweets   : 99.3% at 37/sec for CraigPotter_1
+2017-11-08 11:59:16 Tweets   : 99.9% at 40/sec for jeremycarter72
+2017-11-08 12:00:16 Tweets   : 67.8% at 53/sec for smartassessor
+2017-11-08 12:00:44 Tweets   : 99.9% at 38/sec for TimBurnett_UK
+2017-11-08 12:01:47 Tweets   : 28.3% at 50/sec for acasorguk
+2017-11-08 12:02:56 Tweets   : 70.5% at 47/sec for BioSciFan
+2017-11-08 12:03:45 Tweets   : 99.9% at 41/sec for businessisgreat
+2017-11-08 12:04:06 Favorites: 49.2% at 5/sec for BioSciFan
+2017-11-08 12:04:09 Favorites: 59.8% at 32/sec for businessisgreat
+2017-11-08 12:04:58 Favorites: 51% at 46/sec for Catapult_UK
+2017-11-08 12:04:59 Favorites: 100% at 23/sec for CBIBizVoice
+2017-11-08 12:04:59 Tweets   : 31% at 43/sec for Catapult_UK
+2017-11-08 12:04:59 Favorites: 100% at 29/sec for DHgovuk
+2017-11-08 12:05:34 Favorites: 50.2% at 45/sec for freshbusiness
+2017-11-08 12:05:35 Tweets   : 100% at 39/sec for CBIBizVoice
+2017-11-08 12:05:37 Favorites: 56.2% at 36/sec for GCSEast
+2017-11-08 12:05:39 Favorites: 58.5% at 74/sec for GCSLondonSE
+2017-11-08 12:05:41 Favorites: 97.8% at 35/sec for GOVUK
+2017-11-08 12:05:55 Favorites: 20.9% at 43/sec for jasonneylon
+2017-11-08 12:05:56 Favorites: 100% at 30/sec for JohnWomersley
+2017-11-08 12:06:02 Favorites: 63.8% at 47/sec for JoJohnsonUK
+2017-11-08 12:06:06 Favorites: Waiting for 12.2 minutes due to : Used up allowance in a loop
+2017-11-08 12:06:34 Friends  : 95.9% at 43/sec for Catapult_UK
+2017-11-08 12:06:46 Friends  : 99.7% at 53/sec for CBIBizVoice
+2017-11-08 12:06:47 Friends  : Waiting for 1.9 minutes
+2017-11-08 12:06:48 Tweets   : 46.8% at 44/sec for DHgovuk
+2017-11-08 12:07:56 Tweets   : 6.2% at 47/sec for freshbusiness
+2017-11-08 12:08:55 Friends  : 100% at 5/sec for DHgovuk
+2017-11-08 12:09:03 Tweets   : 69.3% at 48/sec for GCSEast
+2017-11-08 12:10:11 Tweets   : 73.4% at 47/sec for GCSLondonSE
+2017-11-08 12:11:16 Tweets   : 34.5% at 49/sec for GOVUK
+2017-11-08 12:11:34 Friends  : 99.9% at 45/sec for freshbusiness
+2017-11-08 12:11:55 Friends  : 99.8% at 49/sec for GCSEast
+2017-11-08 12:12:10 Friends  : 99.4% at 45/sec for GCSLondonSE
+2017-11-08 12:12:28 Tweets   : 31.5% at 44/sec for jasonneylon
+2017-11-08 12:12:48 Friends  : 99.7% at 45/sec for GOVUK
+2017-11-08 12:12:59 Friends  : 100% at 38/sec for jasonneylon
+2017-11-08 12:13:09 Friends  : 98.9% at 34/sec for JohnWomersley
+2017-11-08 12:13:21 Friends  : 99.6% at 43/sec for JoJohnsonUK
+2017-11-08 12:13:40 Tweets   : 73.6% at 45/sec for JohnWomersley
+2017-11-08 12:14:19 Friends  : 99.7% at 42/sec for marilyneb
+2017-11-08 12:14:21 Tweets   : 99.7% at 42/sec for JoJohnsonUK
+2017-11-08 12:14:29 Friends  : 99.3% at 40/sec for NCCUKComms
+2017-11-08 12:14:36 Friends  : 98.7% at 34/sec for ncsc
+2017-11-08 12:15:33 Tweets   : 26.4% at 45/sec for marilyneb
+2017-11-08 12:15:49 Friends  : 99.8% at 40/sec for nusuk
+2017-11-08 12:15:59 Tweets   : 100% at 44/sec for NCCUKComms
+2017-11-08 12:16:18 Friends  : 99.2% at 34/sec for philipkingicm
+2017-11-08 12:16:50 Tweets   : 100% at 49/sec for ncsc
+2017-11-08 12:17:03 Friends  : 100% at 54/sec for ScienceWeekUK
+2017-11-08 12:17:03 Friends  : Waiting for 6.7 minutes
+2017-11-08 12:17:57 Tweets   : 14.9% at 48/sec for nusuk
+2017-11-08 12:18:18 Favorites: 4.1% at 0/sec for marilyneb
+2017-11-08 12:18:18 Favorites: Waiting for 0 minutes due to : Used up allowance in a loop
+2017-11-08 12:18:20 Favorites: 98% at 42/sec for NCCUKComms
+2017-11-08 12:18:50 Favorites: 51.1% at 44/sec for ncsc
+2017-11-08 12:19:06 Tweets   : 41.8% at 46/sec for philipkingicm
+2017-11-08 12:19:20 Favorites: 48.9% at 47/sec for nusuk
+2017-11-08 12:19:31 Favorites: 50.3% at 45/sec for philipkingicm
+2017-11-08 12:20:09 Favorites: 52.1% at 46/sec for ScienceWeekUK
+2017-11-08 12:20:20 Tweets   : 46.6% at 43/sec for ScienceWeekUK
+2017-11-08 12:20:30 Favorites: 54.7% at 46/sec for SemtaSkills
+2017-11-08 12:20:40 Favorites: 55.7% at 53/sec for simondevonshire
+2017-11-08 12:21:00 Favorites: Waiting for 12.3 minutes due to : Used up allowance in a loop
+2017-11-08 12:21:33 Tweets   : 13% at 44/sec for SemtaSkills
+2017-11-08 12:22:44 Tweets   : 45.3% at 45/sec for simondevonshire
+2017-11-08 12:23:40 Tweets   : 99.3% at 50/sec for STEMAmbassadors
+2017-11-08 12:24:19 Friends  : 99.6% at 4/sec for SemtaSkills
+2017-11-08 12:24:46 Tweets   : 17.2% at 49/sec for timolloyd
+2017-11-08 12:25:30 Friends  : 99.5% at 53/sec for simondevonshire
+2017-11-08 12:25:51 Friends  : 99.7% at 49/sec for STEMAmbassadors
+2017-11-08 12:25:53 Tweets   : 79.1% at 47/sec for BSupplies
+2017-11-08 12:26:40 Friends  : 99.8% at 49/sec for timolloyd
+2017-11-08 12:26:54 Friends  : 96.1% at 52/sec for BSupplies
+2017-11-08 12:26:54 Friends  : User iQDesignProduct has a protected account or no Friendss to collect so skipping
+2017-11-08 12:27:00 Tweets   : 9.4% at 48/sec for iQDesignProduct
+2017-11-08 12:27:19 Friends  : 99.3% at 53/sec for jakrigg
+2017-11-08 12:27:32 Friends  : 99.3% at 46/sec for KentBlaxill
+2017-11-08 12:27:37 Friends  : 99.3% at 49/sec for merchantgrass
+2017-11-08 12:27:51 Friends  : 94.2% at 50/sec for NationalMerch
+2017-11-08 12:27:59 Friends  : 99.5% at 47/sec for NeilHolloway1
+2017-11-08 12:28:00 Friends  : 100% at 18/sec for RichardEllitho1
+2017-11-08 12:28:14 Tweets   : 19.4% at 43/sec for jakrigg
+2017-11-08 12:28:28 Friends  : 97.1% at 50/sec for SouthallsSafety
+2017-11-08 12:28:34 Friends  : 98.6% at 36/sec for theflta
+2017-11-08 12:28:47 Friends  : 96.8% at 49/sec for TudorGriffiths
+2017-11-08 12:28:53 Friends  : 100% at 42/sec for Vipsealcoupling
+2017-11-08 12:28:53 Friends  : Waiting for 10 minutes
+2017-11-08 12:29:09 Tweets   : 99.8% at 42/sec for KentBlaxill
+2017-11-08 12:29:17 Tweets   : 100% at 4/sec for merchantgrass
+2017-11-08 12:30:27 Tweets   : 99.9% at 45/sec for NationalMerch
+2017-11-08 12:31:16 Tweets   : 100% at 52/sec for NeilHolloway1
+2017-11-08 12:31:29 Tweets   : 100% at 29/sec for RichardEllitho1
+2017-11-08 12:32:31 Tweets   : 44% at 51/sec for SouthallsSafety
+2017-11-08 12:33:19 Tweets   : 99.7% at 46/sec for theflta
+2017-11-08 12:33:38 Tweets   : 100% at 38/sec for TudorGriffiths
+2017-11-08 12:33:42 Favorites: 49.4% at 2/sec for STEMAmbassadors
+2017-11-08 12:33:45 Tweets   : 100% at 8/sec for Vipsealcoupling
+2017-11-08 12:34:02 Tweets   : 99.8% at 30/sec for airtoinnovation
+2017-11-08 12:34:28 Favorites: 50.2% at 46/sec for timolloyd
+2017-11-08 12:34:50 Favorites: 50.6% at 45/sec for BSupplies
+2017-11-08 12:34:50 Favorites: User iQDesignProduct has a protected account or no Favoritess to collect so skipping
+2017-11-08 12:35:11 Tweets   : 60.9% at 47/sec for DavidIngUK
+2017-11-08 12:35:21 Tweets   : 100% at 18/sec for EmjayPRLtd
+2017-11-08 12:35:54 Favorites: 50% at 47/sec for jakrigg
+2017-11-08 12:36:00 Favorites: Waiting for 12.3 minutes due to : Used up allowance in a loop
+2017-11-08 12:36:32 Tweets   : 82% at 45/sec for GVAViews
+2017-11-08 12:37:52 Tweets   : 55.3% at 40/sec for josmitwrites
+2017-11-08 12:38:33 Tweets   : 99.9% at 42/sec for JPAFurniture
+2017-11-08 12:38:44 Tweets   : 99.3% at 26/sec for landtradeuk
+2017-11-08 12:39:06 Friends  : 99.7% at 1/sec for airtoinnovation
+2017-11-08 12:39:46 Friends  : 99.7% at 51/sec for DavidIngUK
+2017-11-08 12:39:50 Tweets   : 47.7% at 48/sec for nick_tune
+2017-11-08 12:39:51 Friends  : 100% at 54/sec for EmjayPRLtd
+2017-11-08 12:40:14 Friends  : 99.4% at 49/sec for GVAViews
+2017-11-08 12:40:49 Friends  : 99.2% at 54/sec for josmitwrites
+2017-11-08 12:40:53 Friends  : 99.5% at 50/sec for JPAFurniture
+2017-11-08 12:41:05 Friends  : 99.6% at 46/sec for landtradeuk
+2017-11-08 12:41:21 Friends  : 99.6% at 46/sec for nick_tune
+2017-11-08 12:48:27 Favorites: 56.8% at 1/sec for KentBlaxill
+2017-11-08 12:48:28 Favorites: 100% at 58/sec for merchantgrass
+2017-11-08 12:48:36 Favorites: 63.7% at 47/sec for NationalMerch
+2017-11-08 12:48:58 Favorites: 50.3% at 50/sec for NeilHolloway1
+2017-11-08 12:49:01 Favorites: 56.5% at 39/sec for RichardEllitho1
+2017-11-08 12:49:09 Favorites: 50.6% at 46/sec for SouthallsSafety
+2017-11-08 12:49:18 Favorites: 58.4% at 48/sec for theflta
+2017-11-08 12:49:22 Favorites: 84.7% at 52/sec for TudorGriffiths
+2017-11-08 12:49:22 Favorites: 100% at 7/sec for Vipsealcoupling
+2017-11-08 12:49:23 Favorites: 100% at 53/sec for airtoinnovation
+2017-11-08 12:49:25 Favorites: 81.3% at 37/sec for DavidIngUK
+2017-11-08 12:49:26 Favorites: 100% at 34/sec for EmjayPRLtd
+2017-11-08 12:49:43 Favorites: 55.4% at 48/sec for GVAViews
+2017-11-08 12:49:50 Favorites: 51.3% at 42/sec for josmitwrites
+2017-11-08 12:50:28 Favorites: 51.7% at 44/sec for JPAFurniture
+2017-11-08 12:50:29 Favorites: 53.6% at 66/sec for landtradeuk
+2017-11-08 12:50:54 Favorites: Waiting for 12.4 minutes due to : Used up allowance in a loop
+2017-11-08 13:03:30 Favorites: 50.9% at 2/sec for nick_tune
+Warning messages:
+package 'twitteR' was built under R version 3.4.1 
+1: package 'twitteR' was built under R version 3.4.1 
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+In twInterfaceObj$doAPICall(cmd, params, method, ...) :
+  Rate limit encountered & retry limit reached - returning partial results

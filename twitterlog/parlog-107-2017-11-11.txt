@@ -1,0 +1,167 @@
+starting worker pid=18864 on localhost:11045 at 02:04:16.622
+starting worker pid=7376 on localhost:11045 at 02:04:16.779
+starting worker pid=16056 on localhost:11045 at 02:04:16.950
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-11 02:05:46 Friends  : 99.5% at 36/sec for ECOS_Standard
+2017-11-11 02:06:00 Friends  : 99.4% at 38/sec for edrees123
+2017-11-11 02:06:02 Friends  : 100% at 8/sec for ElectrekCo
+2017-11-11 02:06:20 Friends  : 99.6% at 42/sec for EllipseEnergy
+2017-11-11 02:06:32 Friends  : 99.8% at 38/sec for EnergySussex
+2017-11-11 02:06:41 Favorites: 62.6% at 31/sec for ECOS_Standard
+2017-11-11 02:06:46 Friends  : 99.6% at 37/sec for ENWORKS2001
+2017-11-11 02:07:13 Favorites: 50.5% at 39/sec for edrees123
+2017-11-11 02:07:18 Favorites: 70.9% at 42/sec for ElectrekCo
+2017-11-11 02:07:25 Favorites: 85.3% at 26/sec for EllipseEnergy
+2017-11-11 02:07:26 Favorites: 50% at 65/sec for EnergySussex
+2017-11-11 02:07:29 Favorites: 53.2% at 35/sec for ENWORKS2001
+2017-11-11 02:07:31 Friends  : 99.4% at 40/sec for farmdrop
+2017-11-11 02:07:42 Friends  : 99% at 34/sec for gnf_iec
+2017-11-11 02:08:00 Friends  : 98.9% at 38/sec for GreenHForum
+2017-11-11 02:08:17 Tweets   : 100% at 39/sec for ECOS_Standard
+2017-11-11 02:08:25 Favorites: Waiting for 7.5 minutes due to : Used up allowance in a loop
+2017-11-11 02:09:09 Friends  : 99.5% at 37/sec for groundworkuk
+2017-11-11 02:09:15 Tweets   : 98.5% at 40/sec for edrees123
+2017-11-11 02:09:21 Friends  : 95.5% at 43/sec for icvue
+2017-11-11 02:09:25 Friends  : 100% at 39/sec for ILiveAtNumber13
+2017-11-11 02:09:34 Friends  : 99.7% at 38/sec for IRENA
+2017-11-11 02:09:41 Friends  : 100% at 40/sec for janrosenow
+2017-11-11 02:10:03 Friends  : 97.9% at 39/sec for jim_metcalfe
+2017-11-11 02:10:03 Friends  : Waiting for 10.4 minutes
+2017-11-11 02:10:24 Tweets   : 54.1% at 46/sec for ElectrekCo
+2017-11-11 02:10:45 Tweets   : 98.8% at 38/sec for EllipseEnergy
+2017-11-11 02:11:13 Tweets   : 100% at 32/sec for EnergySussex
+2017-11-11 02:12:05 Tweets   : 100% at 50/sec for ENWORKS2001
+2017-11-11 02:13:14 Tweets   : 35.3% at 47/sec for farmdrop
+2017-11-11 02:14:07 Tweets   : 100% at 44/sec for gnf_iec
+2017-11-11 02:14:29 Tweets   : 99.9% at 36/sec for GreenHForum
+2017-11-11 02:15:45 Tweets   : 45.9% at 42/sec for groundworkuk
+2017-11-11 02:15:59 Tweets   : 99.7% at 27/sec for icvue
+2017-11-11 02:16:31 Favorites: 41.2% at 6/sec for farmdrop
+2017-11-11 02:16:35 Tweets   : 99.9% at 37/sec for ILiveAtNumber13
+2017-11-11 02:16:45 Favorites: 56.9% at 44/sec for gnf_iec
+2017-11-11 02:16:46 Favorites: 100% at 62/sec for GreenHForum
+2017-11-11 02:17:25 Favorites: 51.7% at 40/sec for groundworkuk
+2017-11-11 02:17:27 Favorites: 100% at 8/sec for icvue
+2017-11-11 02:17:34 Favorites: 72.8% at 43/sec for ILiveAtNumber13
+2017-11-11 02:17:52 Tweets   : 33.5% at 42/sec for IRENA
+2017-11-11 02:18:01 Favorites: 51.2% at 44/sec for IRENA
+2017-11-11 02:18:21 Favorites: 56.1% at 39/sec for janrosenow
+2017-11-11 02:18:36 Favorites: 58.1% at 40/sec for jim_metcalfe
+2017-11-11 02:18:37 Favorites: 100% at 62/sec for johngortonKEP
+2017-11-11 02:18:44 Favorites: 62.7% at 43/sec for KenDooley
+2017-11-11 02:18:48 Favorites: 79.1% at 49/sec for KiraD_GGHTrust
+2017-11-11 02:18:54 Tweets   : 99.9% at 43/sec for janrosenow
+2017-11-11 02:18:55 Favorites: 49.3% at 44/sec for Lakehouseplc
+2017-11-11 02:18:59 Favorites: 73.3% at 41/sec for LondonAssembly
+2017-11-11 02:19:02 Favorites: Waiting for 12.1 minutes due to : Used up allowance in a loop
+2017-11-11 02:20:01 Tweets   : 99.7% at 43/sec for jim_metcalfe
+2017-11-11 02:20:10 Tweets   : 100% at 8/sec for johngortonKEP
+2017-11-11 02:20:43 Tweets   : 100% at 38/sec for KenDooley
+2017-11-11 02:20:45 Friends  : 100% at 0/sec for johngortonKEP
+2017-11-11 02:20:52 Friends  : 98.9% at 36/sec for KenDooley
+2017-11-11 02:21:00 Friends  : 100% at 34/sec for KiraD_GGHTrust
+2017-11-11 02:21:20 Tweets   : 100% at 37/sec for KiraD_GGHTrust
+2017-11-11 02:21:36 Friends  : 99.9% at 40/sec for Lakehouseplc
+2017-11-11 02:22:21 Tweets   : 99.6% at 36/sec for Lakehouseplc
+2017-11-11 02:22:26 Friends  : 99.5% at 39/sec for LondonAssembly
+2017-11-11 02:22:54 Friends  : 99.7% at 38/sec for Madeleine_BG
+2017-11-11 02:23:12 Friends  : 100% at 37/sec for MarketWatch_UK
+2017-11-11 02:23:35 Friends  : 99.4% at 35/sec for Microlise
+2017-11-11 02:23:39 Tweets   : 30.2% at 41/sec for LondonAssembly
+2017-11-11 02:24:10 Friends  : 98.6% at 37/sec for MoneyMagpie
+2017-11-11 02:24:53 Tweets   : 82.2% at 43/sec for Madeleine_BG
+2017-11-11 02:25:02 Tweets   : 100% at 19/sec for MarketWatch_UK
+2017-11-11 02:25:11 Friends  : 100% at 36/sec for MoneyTelegraph
+2017-11-11 02:25:42 Friends  : 98.5% at 36/sec for Muirkowski
+2017-11-11 02:25:48 Tweets   : 99.9% at 38/sec for Microlise
+2017-11-11 02:25:54 Friends  : 97.4% at 35/sec for NatureEnergyJnl
+2017-11-11 02:26:01 Friends  : 99.3% at 40/sec for paulakivim
+2017-11-11 02:26:25 Friends  : 99.9% at 29/sec for QaResearch
+2017-11-11 02:27:11 Tweets   : 19.2% at 38/sec for MoneyMagpie
+2017-11-11 02:27:15 Friends  : 99.8% at 40/sec for RBSIF
+2017-11-11 02:27:15 Friends  : Waiting for 8.6 minutes
+2017-11-11 02:28:29 Tweets   : 16.9% at 41/sec for MoneyTelegraph
+2017-11-11 02:28:51 Tweets   : 100% at 35/sec for Muirkowski
+2017-11-11 02:29:26 Tweets   : 100% at 42/sec for NatureEnergyJnl
+2017-11-11 02:30:04 Tweets   : 99.9% at 42/sec for paulakivim
+2017-11-11 02:31:09 Tweets   : 100% at 46/sec for QaResearch
+2017-11-11 02:31:34 Favorites: 62.1% at 1/sec for Madeleine_BG
+2017-11-11 02:31:34 Favorites: 100% at 24/sec for MarketWatch_UK
+2017-11-11 02:31:36 Favorites: 67.3% at 63/sec for Microlise
+2017-11-11 02:32:28 Tweets   : 63.4% at 40/sec for RBSIF
+2017-11-11 02:32:44 Tweets   : 100% at 26/sec for RolingSandra
+2017-11-11 02:32:50 Favorites: 38.7% at 42/sec for MoneyMagpie
+2017-11-11 02:32:52 Favorites: 48.7% at 63/sec for MoneyTelegraph
+2017-11-11 02:32:58 Favorites: 64.1% at 45/sec for Muirkowski
+2017-11-11 02:33:01 Favorites: 82% at 35/sec for NatureEnergyJnl
+2017-11-11 02:33:09 Favorites: 56.1% at 40/sec for paulakivim
+2017-11-11 02:33:09 Favorites: 100% at 29/sec for QaResearch
+2017-11-11 02:33:14 Favorites: 58.3% at 43/sec for RBSIF
+2017-11-11 02:33:17 Favorites: 97.9% at 33/sec for RolingSandra
+2017-11-11 02:33:34 Favorites: 54.3% at 40/sec for sammy_mcf
+2017-11-11 02:33:34 Favorites: 100% at 19/sec for SophiePunte
+2017-11-11 02:33:49 Favorites: 56.8% at 40/sec for SouthernWater
+2017-11-11 02:33:52 Favorites: 99% at 34/sec for sumantbhatia
+2017-11-11 02:33:52 Favorites: 100% at 28/sec for theWSBF
+2017-11-11 02:33:53 Favorites: 100% at 45/sec for UCLanGreenTeam
+2017-11-11 02:33:53 Favorites: User wfpevents has a protected account or no Favoritess to collect so skipping
+2017-11-11 02:34:06 Tweets   : 52.9% at 39/sec for sammy_mcf
+2017-11-11 02:34:14 Tweets   : 100% at 8/sec for SophiePunte
+2017-11-11 02:34:14 Favorites: 51.9% at 39/sec for WiltshireCAB
+2017-11-11 02:34:14 Favorites: Waiting for 12.2 minutes due to : Used up allowance in a loop
+2017-11-11 02:35:22 Tweets   : 19.3% at 47/sec for SouthernWater
+2017-11-11 02:36:06 Friends  : 99.1% at 0/sec for RolingSandra
+2017-11-11 02:36:36 Tweets   : 56.6% at 43/sec for sumantbhatia
+2017-11-11 02:36:43 Friends  : 97.7% at 40/sec for sammy_mcf
+2017-11-11 02:36:44 Friends  : 100% at 30/sec for SophiePunte
+2017-11-11 02:37:39 Friends  : 99.8% at 36/sec for SouthernWater
+2017-11-11 02:37:51 Tweets   : 63.2% at 43/sec for theWSBF
+2017-11-11 02:38:16 Friends  : 99.7% at 40/sec for sumantbhatia
+2017-11-11 02:38:36 Tweets   : 99.7% at 36/sec for UCLanGreenTeam
+2017-11-11 02:38:39 Friends  : 100% at 35/sec for theWSBF
+2017-11-11 02:38:46 Friends  : 99.3% at 41/sec for UCLanGreenTeam
+2017-11-11 02:38:49 Friends  : 100% at 19/sec for wfpevents
+2017-11-11 02:39:55 Tweets   : 13.8% at 40/sec for wfpevents
+2017-11-11 02:40:39 Friends  : 97.7% at 35/sec for WiltshireCAB
+2017-11-11 02:40:40 Friends  : 100% at 16/sec for WiredUK
+2017-11-11 02:40:46 Friends  : 99.4% at 27/sec for ZTech_Control
+2017-11-11 02:40:50 Friends  : 95.5% at 28/sec for _paulbuxton
+2017-11-11 02:41:11 Tweets   : 39.3% at 42/sec for WiltshireCAB
+2017-11-11 02:41:22 Friends  : 99.9% at 31/sec for edfenergycs
+2017-11-11 02:42:23 Tweets   : 4.5% at 44/sec for WiredUK
+2017-11-11 02:42:28 Friends  : 98.5% at 37/sec for EIC_UK
+2017-11-11 02:42:41 Tweets   : 99.8% at 32/sec for ZTech_Control
+2017-11-11 02:42:57 Tweets   : 100% at 24/sec for _paulbuxton
+2017-11-11 02:43:14 Friends  : 99.1% at 40/sec for ESBGroup
+2017-11-11 02:43:14 Friends  : Waiting for 7.9 minutes
+2017-11-11 02:44:10 Tweets   : 16.4% at 44/sec for edfenergycs
+2017-11-11 02:45:16 Tweets   : 99.8% at 39/sec for EIC_UK
+2017-11-11 02:46:34 Tweets   : 74.2% at 41/sec for ESBGroup
+2017-11-11 02:47:01 Favorites: 50.4% at 1/sec for WiredUK
+2017-11-11 02:47:02 Favorites: 97.3% at 63/sec for ZTech_Control
+2017-11-11 02:47:07 Favorites: 58.6% at 36/sec for _paulbuxton
+2017-11-11 02:47:11 Tweets   : 99.9% at 44/sec for Gemserv
+2017-11-11 02:47:25 Favorites: 55% at 44/sec for edfenergycs
+2017-11-11 02:47:32 Favorites: 66.4% at 42/sec for EIC_UK
+2017-11-11 02:47:40 Tweets   : 100% at 37/sec for Gentrack
+2017-11-11 02:47:51 Favorites: 49.7% at 42/sec for ESBGroup
+2017-11-11 02:47:52 Favorites: 100% at 43/sec for Gemserv
+2017-11-11 02:47:54 Favorites: 100% at 14/sec for Gentrack
+2017-11-11 02:47:58 Favorites: 94.3% at 47/sec for kesh_maharaj
+2017-11-11 02:48:01 Favorites: 98% at 36/sec for kiwipowered
+2017-11-11 02:48:01 Favorites: 100% at 21/sec for LordsEUCom
+2017-11-11 02:48:14 Tweets   : 99.9% at 39/sec for kesh_maharaj
+2017-11-11 02:49:06 Tweets   : 100% at 43/sec for kiwipowered
+2017-11-11 02:49:55 Tweets   : 100% at 42/sec for LordsEUCom
+2017-11-11 02:51:33 Friends  : 99.4% at 1/sec for Gemserv
+2017-11-11 02:52:19 Friends  : 100% at 37/sec for Gentrack
+2017-11-11 02:52:32 Friends  : 98.5% at 37/sec for kesh_maharaj
+2017-11-11 02:53:03 Friends  : 95.8% at 39/sec for kiwipowered
+2017-11-11 02:53:20 Friends  : 99.8% at 37/sec for LordsEUCom
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+package 'twitteR' was built under R version 3.4.1 
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
