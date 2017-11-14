@@ -8,3 +8,5 @@ Glider/.Rproj.user/3454D484/sdb/s-6A4410C8/5C9BEF3B
 .Rproj.user
 Glider/twitter/secrets.R
 *.RData
+twitter_code/secrets.R
+twitter_code/secrets_rtweet.R
