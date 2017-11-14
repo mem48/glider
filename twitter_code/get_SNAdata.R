@@ -1,5 +1,5 @@
 #Load in the core functions
-source("twitter/functions.R")
+source("functions.R")
 
 #Get the original core accounts
 acc.core <- read.csv("twitter/accounts_cores.csv")

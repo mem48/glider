@@ -435,7 +435,7 @@ get.SNAdata <- function(ids, temp.fld, batch.start = 1, trim = FALSE){
     message(paste0(Sys.time()," Doing batch ",b,": Starting Cluster"))
     cl <- makeCluster( length(tasks), outfile = paste0("twitterlog/parlog-",b,"-",Sys.Date(),".txt") )
     clusterExport(cl=cl, varlist=c("batch.accounts"), envir=environment())
-    clusterEvalQ(cl, {library(twitteR); source("twitter/functions.R"); source("twitter/secrets.R")})
+    clusterEvalQ(cl, {library(twitteR); source("functions.R"); source("secrets.R")})
     out <- clusterApply( 
       cl,
       tasks,

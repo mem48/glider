@@ -1,11 +1,11 @@
 # Second round of data gathering
 #Load in the core functions
-source("twitter/secrets.R")
-source("twitter/functions.R")
+source("secrets.R")
+source("functions.R")
 
 # Get output of the first round
 
-conn.simple <- readRDS("twitter/data/parReRun/FirstRoundConnections.Rds")
+conn.simple <- readRDS("../twitter_data/parReRun/FirstRoundConnections.Rds")
 
 #sort by importance
 conn.simple <- conn.simple[order(-conn.simple$weight),]
