@@ -1,0 +1,36 @@
+"The next tab has about the top 10,000 twitter accounts from the data collected so far.",
+,
+"It has some descriptive statistics e.g. degree, strength and several normalised measures of centrality",
+Finally it have degree: strength ratios for both in and out,
+,
+The last two columns are for you to fill in (in green),
+Account Category,Should this bee in the network for analysis
+Account Type,In this a person or organisation
+,
+These two columns can only be filled in with the value from the drop down lists,
+(see descriptions below),
+,
+You can also sort the resutls using the filter button next to the column names,
+,
+,
+,
+,
+,
+Allowed Values: Account Category ,
+Keep,For accounts that a definitely on topic
+Related,"For accounts that are related to retrofit but not directly e.g. Energy Utility. They are for ""grey area"" accounts"
+Media,"For General News Media and Journalists, not specific trade publications which should go in KEEP or Related"
+Government,"For Government, MPs and Political Organisations, think tanks etc."
+Charity,For charity and similar organisation
+Junk,Completely off topic (cat Videos etc.)
+Other,Does not fit the list above
+,
+,
+Allowed Values: Account Type,
+Individual,A person
+Government,A government organisation
+Business,A company
+Charity,A charity of non profit organisation
+News,Any news or information aggregating accounts
+Other,Does not fit the list above
+Twitter,An account that does not represent a real world organisation or person but a only exists on twitter
