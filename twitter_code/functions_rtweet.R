@@ -66,7 +66,6 @@ get.data <- function(x, type = c("Friends","Followers","Tweets","Favorites")){
   
   start.time <- Sys.time()
   type.fixed <- paste0(type, paste(rep(" ",9 - nchar(type)), collapse = '')) # Put Spaces on the end of the type for the log
-  
   # Check if given a id or a user objects
   if(class(x)[1] == "user"){
     user <- x
@@ -78,7 +77,7 @@ get.data <- function(x, type = c("Friends","Followers","Tweets","Favorites")){
     message(paste0(Sys.time()," ",type.fixed,": Unknown type of input ",class(x)[1], " in function get.friends"))
     stop()
   }
-  #message(paste0(Sys.time()," starting ",type," call for ",id))
+  
   #Check if we can do this accounts
   if(type == "Friends"){
     proceed <- (user$friendsCount == 0)
@@ -107,37 +106,36 @@ get.data <- function(x, type = c("Friends","Followers","Tweets","Favorites")){
     #Go and get the data
     if(type == "Friends"){
       friends <- try(user$getFriends())
-      if(class(friends) == "try-error"){
+      if(class(favs) == "try-error"){
         friends <- NULL
-        data.df <- NULL
         message(paste0(Sys.time()," Friends: Unable to find account ",user$screenName," moving to next"))
       }else{
-        friends <- friends[sapply(friends,class)=="user"] # remove any non data frame rows
         data.df <- do.call("rbind", lapply(friends, as.data.frame))
         data.df$friendof <- id
         data.df$followerof <- NA
       }
       data.total <- user$friendsCount
     }else if(type == "Followers"){
-      follower <- try(user$getFollowers()) # who followers this user
-      if(class(follower) == "try-error"){
+      follower <- user$getFollowers() # who followers this user
+      if(class(favs) == "try-error"){
         follower <- NULL
-        data.df <- NULL
         message(paste0(Sys.time()," Followers: Unable to find account ",user$screenName," moving to next"))
       }else{
-        follower <- follower[sapply(follower,class)=="user"] # remove any non data frame rows
         data.df <- do.call("rbind", lapply(follower, as.data.frame))
         data.df$friendof <- NA
         data.df$followerof <- id
       }
       data.total <- user$followersCount
     }else if(type == "Tweets"){
-      tweets <- try(userTimeline(id, n = 3200, includeRts=TRUE, excludeReplies=FALSE))
-      if(class(tweets) == "try-error"){
+      tweets <- userTimeline(id, n = 3200, includeRts=TRUE, excludeReplies=FALSE)
+      data.df <- twListToDF(tweets)
+      data.df <- data.df[!duplicated(data.df$id),]
+      tweets <- userTimeline(id, n = 3200, includeRts=TRUE, excludeReplies=FALSE)
+      if(class(favs) == "try-error"){
         tweets <- NULL
-        data.df <- NULL
         message(paste0(Sys.time()," Tweets: Unable to find account ",user$screenName," moving to next"))
       }else{
+        tweets <- userTimeline(id, n = 3200, includeRts=TRUE, excludeReplies=FALSE)
         data.df <- twListToDF(tweets)
         data.df <- data.df[!duplicated(data.df$id),]
       }
@@ -354,7 +352,7 @@ get.users <- function(ids, output = c("data.frame","list")){
 
 ########################################################################################################################
 
-get.SNAdata <- function(ids, temp.fld, batch.start = 1, trim = FALSE){
+get.SNAdata <- function(ids,temp.fld){
   #Grand fucntion which gathers mulitple forms of data using the waiting time of one request to make other requests
   
   #Get user object
@@ -397,7 +395,7 @@ get.SNAdata <- function(ids, temp.fld, batch.start = 1, trim = FALSE){
   
   
   #Loop over the batches
-  for(b in seq(from = batch.start, to = length(loops))){
+  for(b in seq(from = 1, to = length(loops))){
     # Make a vector of the ids to do in this batch
     if(b == 1){
       idnos <- 1:loops[1]
@@ -455,69 +453,29 @@ get.SNAdata <- function(ids, temp.fld, batch.start = 1, trim = FALSE){
     out2 <- out2[lapply(out2,length)>0] #favorite
     out3 <- out3[lapply(out3,length)>0] #tweets
     
-    #Some times the rbind fails and I don't know why
-    out1.bind <-  try(do.call("rbind",out1))
-    if(class(out1.bind) != "data.frame"){
-      message(paste0(Sys.time()," Out1 Rbind Fail saving result"))
-      saveRDS(out1,paste0(temp.fld,"/RbindFail-out1-",b,"-",Sys.Date(),".Rds"))
-      out1.bind <- NULL
-    }else{
-      if(trim){
-        out1.bind <- out1.bind[,c("description","statusesCount","followersCount","favoritesCount","friendsCount","name",
-                                  "created","protected","verified","screenName","location","lang","id",
-                                  "listedCount","friendof","followerof")]
-      }
-    }
-    
-    out2.bind <-  try(do.call("rbind",out2))
-    if(class(out2.bind) != "data.frame"){
-      message(paste0(Sys.time()," Out2 Rbind Fail saving result"))
-      saveRDS(out2,paste0(temp.fld,"/RbindFail-out2-",b,"-",Sys.Date(),".Rds"))
-      out2.bind <- NULL
-    }else{
-      if(trim){
-        out2.bind <- out2.bind[,c("text","favorited","favoriteCount","replyToSN","created","truncated","replyToSID","id","replyToUID",
-                                  "statusSource","screenName","retweetCount","isRetweet","retweeted","favOf")]
-      }
-    }
-    
-    out3.bind <-  try(do.call("rbind",out3))
-    if(class(out3.bind) != "data.frame"){
-      message(paste0(Sys.time()," Out3 Rbind Fail saving result"))
-      saveRDS(out3,paste0(temp.fld,"/RbindFail-out3-",b,"-",Sys.Date(),".Rds"))
-      out3.bind <- NULL
-    }else{
-      if(trim){
-        out3.bind <- out3.bind[,c("text","favorited","favoriteCount","replyToSN","created","truncated","replyToSID","id","replyToUID",
-                                  "statusSource","screenName","retweetCount","isRetweet","retweeted")]
-      }
-    }
-    
-    
-    friends.list[[b]] <- out1.bind
-    favorites.list[[b]] <- out2.bind
-    tweets.list[[b]] <- out3.bind
-    
-    rm(out,out1,out2,out3,out1.bind,out3.bind,out2.bind)
+    friends.list[[b]] <- do.call("rbind",out1) 
+    favorites.list[[b]] <- do.call("rbind",out2) 
+    tweets.list[[b]] <- do.call("rbind",out3) 
+    rm(out,out1,out2,out3)
     
     if(!is.null(temp.fld)){
-      saveRDS(friends.list,paste0(temp.fld,"/FriendsList-",Sys.Date(),"-bs-",batch.start,".Rds"))
-      saveRDS(favorites.list,paste0(temp.fld,"/FavoritesList-",Sys.Date(),"-bs-",batch.start,".Rds"))
-      saveRDS(tweets.list,paste0(temp.fld,"/TweetsList-",Sys.Date(),"-bs-",batch.start,".Rds"))
-      saveRDS(accounts.list,paste0(temp.fld,"/AccountsList-",Sys.Date(),"-bs-",batch.start,".Rds"))
+      saveRDS(friends.list,paste0(temp.fld,"/FriendsList-",Sys.Date(),".Rds"))
+      saveRDS(favorites.list,paste0(temp.fld,"/FavoritesList-",Sys.Date(),".Rds"))
+      saveRDS(tweets.list,paste0(temp.fld,"/TweetsList-",Sys.Date(),".Rds"))
+      saveRDS(accounts.list,paste0(temp.fld,"/AccountsList-",Sys.Date(),".Rds"))
     }
   
   } # End of Outer Loop
-  #accounts.list
+  accounts.list
   #Combine the master lists
-  #accounts <- do.call("rbind",accounts.list)
-  #friends <- do.call("rbind",friends.list)
-  #favorites <- do.call("rbind",favorites.list)
-  #tweets <- do.call("rbind",tweets.list)
+  accounts <- do.call("rbind",accounts.list)
+  friends <- do.call("rbind",friends.list)
+  favorites <- do.call("rbind",favorites.list)
+  tweets <- do.call("rbind",tweets.list)
   
   #Put data frames into a big list to return to user
-  #result <- list(accounts = accounts, friends = friends, favorites = favorites, tweets = tweets)
+  result <- list(accounts = accounts, friends = friends, favorites = favorites, tweets = tweets)
   end.time <- Sys.time()
   message(paste0(Sys.time(), " data gathered for ",length(ids), " users "))
-  return(NULL)
+  return(result)
 }
