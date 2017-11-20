@@ -1,15 +1,18 @@
-g <- readRDS("twitter/data/parRerun/MidDataColectionGraph.Rds")
+library(igraph)
+
+g <- readRDS("../twitter_data/parRerun/MidDataColectionGraph.Rds")
 gorder(g)
 
 #Remove the Junk Accounts
 common <- readxl::read_xlsx("D:/Users/earmmor/OneDrive - University of Leeds/GLIDER/03 Work Packages/WP3 Institutional incumbents/TwitterAccountsReview_withDescAnal_malcolm.xlsx", sheet =  "TwitterAccountsReview_withDescA")
 common <- common[,c("name","Account Category","Account Type")]
 common <- common[!is.na(common$`Account Category`),]
-remove <- common$name[common$`Account Category` %in% c("Junk","Media")]
+remove <- common$name[common$`Account Category` %in% c("Junk","Media","Government")]
 
 
-g.trim <- delete.vertices(g, which(V(g.trim)$name %in% remove)) # Discard the junk
-g.trim <- delete.vertices(g, which(degree(g.trim) < 1000)) # Discard the junk
+gorder(g)
+g.trim <- delete.vertices(g, which(V(g)$name %in% remove)) # Discard the junk
+g.trim <- delete.vertices(g.trim, which(degree(g.trim) < 100)) # Trim down to a manageable amount
 gorder(g.trim)
 
 
@@ -31,39 +34,45 @@ V(g.trim)$between <- betweenness(g.trim)
 #Produce Summary Table
 verts <- igraph::as_data_frame(g.trim, what="vertices")
 
-g.test <- delete.vertices(g.trim, which(V(g.trim)$degree.out == 0))
-gorder(g.test)
-g.test <- delete.vertices(g.test, which(V(g.test)$degree.total < 2000 ))
-gorder(g.test)
+#clus = cluster_infomap(g.trim, e.weights = E(g.trim)$weight, modularity = FALSE, nb.trials = 3) # Used both directed and weight info
+#clus = cluster_edge_betweenness(g.trim, weights = E(g.trim)$weight, directed = TRUE)
+#https://bommaritollc.com/2012/06/17/summary-community-detection-algorithms-igraph-0-6/
+clus = cluster_walktrap(g.trim, weights = E(g.trim)$weight, steps = 4, merges = TRUE, modularity = TRUE, membership = TRUE)
+V(g.trim)$member <- membership(clus)
 
+# Make a slimed down version for plotting
 
-clus = cluster_walktrap(g.test, weights = E(g.test)$weight, steps = 4, merges = TRUE, modularity = TRUE, membership = TRUE)
-V(g.test)$mebership <- membership(clus)
-layout =  layout_with_drl(g.test, weights = E(g.test)$weight, options=list(simmer.attraction=0), dim = 2)
-
-colours = sample ( rainbow ( max ( V(g.test)$mebership )  + 1) )
-V(g.test)$color2 = colours[V(g.test)$mebership +1]
-
-ecount(g.test)
-g.plot <- delete.edges(g.test, which(E(g.test)$weight <5))
+ecount(g.trim)
+gorder(g.trim)
+g.plot <- delete.vertices(g.trim, which(degree(g.trim) < 100))
+g.plot <- delete.edges(g.plot, which(E(g.plot)$weight <10))
+g.plot <- delete.vertices(g.plot, which(degree(g.plot) < 1))
 ecount(g.plot)
+gorder(g.plot)
 
-svg(filename="MidParReRun-Clusters.svg", 
-    width=30, 
-    height=15, 
-    pointsize=8)
-par(mar = c(1,1,1,1))
-plot(g.plot, 
-     edge.width = E(g.plot)$weight/ 50,
-     vertex.size = V(g.plot)$strength.in / 2000 ,
+#clus = cluster_edge_betweenness(g.plot, weights = E(g.plot)$weight, directed = TRUE)
+#clus = cluster_walktrap(g.plot, weights = E(g.plot)$weight, steps = 4, merges = TRUE, modularity = TRUE, membership = TRUE)
+#V(g.plot)$member <- membership(clus)
+
+layout =  layout_with_drl(g.plot, weights = E(g.plot)$weight, options=list(simmer.attraction=0), dim = 2)
+
+colours = sample ( rainbow ( max ( V(g.plot)$member, na.rm= T )  + 1) )
+V(g.plot)$color = colours[V(g.plot)$member +1]
+
+
+#svg(filename="../twitter_plots/MidParReRun-Clusters3.svg", width=30, height=15, pointsize=4)
+jpeg(filename="../twitter_plots/MidParReRun-Clusters3.jpeg", width=15, height=15, units = 'in', res = 1200, pointsize=2)   
+par(mar = c(0.01,0.01,0.01,0.01)); plot(g.plot,
+     edge.width = E(g.plot)$weight/ 100,
+     vertex.size = ifelse((V(g.plot)$strength.total / 2000) < 5, (V(g.plot)$strength.total / 2000) ,5 ),
      edge.arrow.size = 0.2,
      edge.curved=0.2,
-     vertex.color = V(g.plot)$color2,
-     vertex.label = ifelse(V(g.plot)$strength.in > 2000, V(g.plot)$name, NA),
-     vertex.label.family= "Arial Bold",
+     vertex.color = V(g.plot)$color,
+     vertex.label = ifelse(V(g.plot)$between > 10000, V(g.plot)$name, NA),
+     vertex.label.family= "Arial",
      vertex.label.color = "black",
-     vertex.frame.color = V(g.plot)$color2,
+     vertex.frame.color = V(g.plot)$color,
      layout = layout, 
      rescale = T, 
-     axes = F)
-dev.off()
+     axes = F); dev.off()
+
