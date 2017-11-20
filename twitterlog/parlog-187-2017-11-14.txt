@@ -1,0 +1,181 @@
+starting worker pid=11176 on localhost:11271 at 23:47:55.593
+starting worker pid=10176 on localhost:11271 at 23:47:55.843
+starting worker pid=11324 on localhost:11271 at 23:47:56.086
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-14 23:48:19 Friends  : 100% at 5/sec for spencermonaco3
+2017-11-14 23:48:25 Friends  : 98.6% at 25/sec for StrongbondGroup
+2017-11-14 23:48:28 Friends  : 96.8% at 24/sec for swanhomes
+2017-11-14 23:48:34 Friends  : 95.8% at 31/sec for tom_chance
+2017-11-14 23:48:38 Favorites: User spencermonaco3 has a protected account or no Favoritess to collect so skipping
+2017-11-14 23:48:42 Favorites: 100% at 16/sec for StrongbondGroup
+2017-11-14 23:48:45 Favorites: 100% at 21/sec for swanhomes
+2017-11-14 23:48:45 Friends  : 99.7% at 29/sec for wcastle_events
+2017-11-14 23:48:51 Favorites: 52% at 31/sec for tom_chance
+2017-11-14 23:49:05 Friends  : 100% at 30/sec for WeaverandCo
+2017-11-14 23:49:11 Tweets   : 100% at 1/sec for spencermonaco3
+2017-11-14 23:49:21 Tweets   : 100% at 6/sec for StrongbondGroup
+2017-11-14 23:49:30 Tweets   : 100% at 9/sec for swanhomes
+2017-11-14 23:49:34 Friends  : 99.5% at 32/sec for wgcs_economy
+[1] "Server error: (500) Internal Server Error"
+[1] "This error is likely transient, retrying up to 5 more times ..."
+2017-11-14 23:50:26 Friends  : 99.3% at 29/sec for WYEConstruction
+2017-11-14 23:50:39 Favorites: 44.7% at 29/sec for wcastle_events
+2017-11-14 23:50:40 Favorites: 94.1% at 22/sec for WeaverandCo
+2017-11-14 23:50:46 Favorites: 56.5% at 32/sec for wgcs_economy
+2017-11-14 23:51:10 Tweets   : 23% at 32/sec for tom_chance
+2017-11-14 23:51:44 Favorites: 40.9% at 31/sec for WYEConstruction
+2017-11-14 23:52:01 Favorites: Waiting for 9.5 minutes due to : Used up allowance in a loop
+2017-11-14 23:52:59 Friends  : 98.4% at 32/sec for 0LoyLakes
+2017-11-14 23:53:01 Tweets   : 83.9% at 28/sec for wcastle_events
+2017-11-14 23:53:27 Friends  : 99.6% at 30/sec for 247homerescue
+2017-11-14 23:53:32 Tweets   : 99.9% at 29/sec for WeaverandCo
+2017-11-14 23:53:45 Friends  : 100% at 34/sec for 24Heating
+2017-11-14 23:53:57 Friends  : 95.2% at 32/sec for ABrackenborough
+2017-11-14 23:54:11 Friends  : 100% at 31/sec for Accent_MR
+2017-11-14 23:54:28 Friends  : 99.2% at 31/sec for ACS_SouthEast
+2017-11-14 23:54:50 Friends  : 99.3% at 30/sec for ActiveHeating1
+2017-11-14 23:54:51 Friends  : Waiting for 8.5 minutes
+2017-11-14 23:55:06 Tweets   : 94.6% at 34/sec for wgcs_economy
+2017-11-14 23:56:38 Tweets   : 99% at 34/sec for WYEConstruction
+2017-11-14 23:58:04 Tweets   : 3.6% at 37/sec for 0LoyLakes
+2017-11-14 23:59:33 Tweets   : 65.2% at 36/sec for 247homerescue
+2017-11-14 23:59:43 Tweets   : 99.4% at 15/sec for 24Heating
+2017-11-15 00:00:32 Tweets   : 99.6% at 35/sec for ABrackenborough
+2017-11-15 00:00:56 Tweets   : 100% at 28/sec for Accent_MR
+2017-11-15 00:01:18 Tweets   : 99.8% at 26/sec for ACS_SouthEast
+2017-11-15 00:01:59 Tweets   : 100% at 34/sec for ActiveHeating1
+2017-11-15 00:02:49 Favorites: 19.1% at 5/sec for 0LoyLakes
+2017-11-15 00:03:11 Favorites: 53.4% at 35/sec for 247homerescue
+2017-11-15 00:03:12 Favorites: 100% at 25/sec for 24Heating
+2017-11-15 00:03:33 Favorites: 52.2% at 37/sec for ABrackenborough
+2017-11-15 00:03:36 Favorites: 97.6% at 31/sec for Accent_MR
+2017-11-15 00:03:37 Tweets   : 42% at 33/sec for AdcoChester
+2017-11-15 00:03:39 Favorites: 92.5% at 33/sec for ACS_SouthEast
+2017-11-15 00:03:42 Favorites: 92.5% at 34/sec for ActiveHeating1
+2017-11-15 00:03:59 Favorites: 53.7% at 36/sec for AdcoChester
+2017-11-15 00:04:10 Friends  : 98.6% at 3/sec for AdcoChester
+2017-11-15 00:04:11 Tweets   : 99.9% at 31/sec for Ali_delame
+2017-11-15 00:04:40 Friends  : 91.4% at 36/sec for Ali_delame
+2017-11-15 00:05:01 Favorites: Waiting for 11.5 minutes due to : Used up allowance in a loop
+2017-11-15 00:05:48 Tweets   : 17.5% at 33/sec for angiwass
+2017-11-15 00:06:02 Tweets   : 100% at 18/sec for AntonIndustrial
+2017-11-15 00:06:57 Tweets   : 99.7% at 35/sec for atagheating
+2017-11-15 00:06:58 Friends  : 97.4% at 35/sec for angiwass
+2017-11-15 00:07:13 Friends  : 89.5% at 30/sec for AntonIndustrial
+2017-11-15 00:08:10 Friends  : 91.8% at 35/sec for atagheating
+2017-11-15 00:08:10 Tweets   : 99.7% at 33/sec for AvantiGas
+2017-11-15 00:08:26 Tweets   : 100% at 21/sec for BainPlumbing
+2017-11-15 00:08:43 Tweets   : 99.8% at 26/sec for BarcErskine
+2017-11-15 00:10:13 Tweets   : 8% at 36/sec for BarrySheerman
+2017-11-15 00:10:30 Friends  : 92.1% at 33/sec for AvantiGas
+2017-11-15 00:10:31 Tweets   : 99.8% at 24/sec for BaxiPlatinum
+2017-11-15 00:10:39 Friends  : 96.9% at 34/sec for BainPlumbing
+2017-11-15 00:10:44 Friends  : 99.4% at 36/sec for BarcErskine
+2017-11-15 00:12:06 Tweets   : 2.6% at 34/sec for BBCEngland
+2017-11-15 00:12:24 Friends  : 99.8% at 31/sec for BarrySheerman
+2017-11-15 00:12:53 Tweets   : 99.9% at 30/sec for BlueflameColch
+2017-11-15 00:13:17 Friends  : 113% at 30/sec for BaxiPlatinum
+2017-11-15 00:13:24 Friends  : 100% at 33/sec for BBCEngland
+2017-11-15 00:13:41 Tweets   : 99.9% at 31/sec for BSLheatingBen
+2017-11-15 00:13:44 Friends  : 99.6% at 36/sec for BlueflameColch
+2017-11-15 00:14:00 Friends  : 94.6% at 33/sec for BSLheatingBen
+2017-11-15 00:14:42 Friends  : 99.9% at 32/sec for CapitaProperty
+2017-11-15 00:15:19 Tweets   : 74.8% at 33/sec for CapitaProperty
+2017-11-15 00:15:43 Friends  : 100% at 32/sec for CAPTcharity
+2017-11-15 00:15:43 Friends  : Waiting for 2.7 minutes
+2017-11-15 00:16:49 Tweets   : 90.8% at 36/sec for CAPTcharity
+2017-11-15 00:17:03 Favorites: 49.2% at 4/sec for Ali_delame
+2017-11-15 00:18:26 Tweets   : 7.8% at 33/sec for caroline_b_84
+2017-11-15 00:18:32 Favorites: 44.1% at 36/sec for angiwass
+2017-11-15 00:18:37 Favorites: 73.4% at 41/sec for AntonIndustrial
+2017-11-15 00:19:06 Favorites: 50.9% at 35/sec for atagheating
+2017-11-15 00:19:33 Favorites: 51% at 33/sec for AvantiGas
+2017-11-15 00:19:42 Favorites: 74% at 32/sec for BainPlumbing
+2017-11-15 00:19:43 Favorites: 100% at 20/sec for BarcErskine
+2017-11-15 00:19:52 Favorites: 70.9% at 33/sec for BarrySheerman
+2017-11-15 00:19:58 Favorites: Waiting for 11.6 minutes due to : Used up allowance in a loop
+2017-11-15 00:20:05 Tweets   : 36.3% at 32/sec for CarolynneAsh
+2017-11-15 00:20:44 Friends  : 97.7% at 15/sec for caroline_b_84
+2017-11-15 00:21:37 Tweets   : 3.9% at 35/sec for CateMcAlin
+2017-11-15 00:22:05 Friends  : 99.2% at 31/sec for CarolynneAsh
+2017-11-15 00:23:12 Tweets   : 14.8% at 34/sec for CheshireFire
+2017-11-15 00:24:11 Friends  : 98.2% at 34/sec for CateMcAlin
+2017-11-15 00:24:21 Friends  : 98.7% at 30/sec for CheshireFire
+2017-11-15 00:24:43 Tweets   : 18.3% at 35/sec for CornwallCouncil
+2017-11-15 00:24:45 Friends  : 98.7% at 29/sec for CornwallCouncil
+2017-11-15 00:25:22 Friends  : 98% at 35/sec for CornwallFRS
+2017-11-15 00:26:10 Friends  : 94.5% at 34/sec for CupcakeMumma11
+2017-11-15 00:26:20 Tweets   : 33.8% at 33/sec for CornwallFRS
+2017-11-15 00:26:37 Friends  : 100% at 35/sec for D_Times
+2017-11-15 00:26:46 Friends  : 97% at 30/sec for DamianJWalters
+2017-11-15 00:26:53 Friends  : 100% at 30/sec for DanWag1
+Error in twInterfaceObj$doAPICall(paste("users", "show", sep = "/"), params = params,  : 
+  Not Found (HTTP 404).
+In addition: Warning message:
+package 'twitteR' was built under R version 3.4.1 
+2017-11-15 00:26:54 Friends: Unable to find account Direct__Heating moving to next
+2017-11-15 00:26:54 Friends  : % at /sec for Direct__Heating
+2017-11-15 00:27:53 Tweets   : 6.7% at 35/sec for CupcakeMumma11
+2017-11-15 00:28:22 Friends  : 100% at 31/sec for DonnyFreePress
+2017-11-15 00:28:32 Friends  : 100% at 25/sec for DrHilaryJones
+2017-11-15 00:29:28 Tweets   : 6.8% at 33/sec for D_Times
+2017-11-15 00:29:35 Friends  : 98% at 35/sec for EasySafetyCert
+2017-11-15 00:29:43 Friends  : 99.3% at 34/sec for EHSCLimited
+2017-11-15 00:29:43 Tweets   : 100% at 22/sec for DamianJWalters
+2017-11-15 00:30:21 Tweets   : 99.5% at 34/sec for DanWag1
+2017-11-15 00:30:27 Tweets   : 100% at 1/sec for Direct__Heating
+2017-11-15 00:31:34 Favorites: 52.3% at 0/sec for BaxiPlatinum
+2017-11-15 00:31:40 Favorites: 93.8% at 33/sec for BBCEngland
+2017-11-15 00:31:43 Favorites: 76.3% at 32/sec for BlueflameColch
+2017-11-15 00:31:58 Favorites: 54.3% at 33/sec for BSLheatingBen
+2017-11-15 00:32:02 Tweets   : 5.6% at 34/sec for DonnyFreePress
+2017-11-15 00:32:04 Favorites: 73.3% at 32/sec for CapitaProperty
+2017-11-15 00:32:13 Favorites: 57.1% at 33/sec for CAPTcharity
+2017-11-15 00:32:16 Friends  : 97.3% at 32/sec for emmmaaa26
+2017-11-15 00:32:16 Friends  : Waiting for 1.2 minutes
+2017-11-15 00:32:18 Favorites: 56.8% at 37/sec for caroline_b_84
+2017-11-15 00:32:38 Favorites: 50.7% at 35/sec for CarolynneAsh
+2017-11-15 00:33:25 Tweets   : 98.7% at 31/sec for DrHilaryJones
+2017-11-15 00:34:06 Favorites: 15.3% at 36/sec for CateMcAlin
+2017-11-15 00:34:21 Tweets   : 99.9% at 35/sec for EasySafetyCert
+2017-11-15 00:35:03 Favorites: Waiting for 11.5 minutes due to : Used up allowance in a loop
+2017-11-15 00:35:41 Tweets   : 100% at 31/sec for EHSCLimited
+2017-11-15 00:35:59 Friends  : 93.1% at 20/sec for EPHGLimited
+2017-11-15 00:36:01 Friends  : 98.5% at 29/sec for EvansHeatingUk
+2017-11-15 00:36:19 Friends  : 100% at 32/sec for FailsafeHeating
+Error in twInterfaceObj$doAPICall(paste("users", "show", sep = "/"), params = params,  : 
+  Not Found (HTTP 404).
+2017-11-15 00:36:19 Friends: Unable to find account fusionheatingni moving to next
+2017-11-15 00:36:19 Friends  : % at /sec for fusionheatingni
+2017-11-15 00:37:14 Tweets   : 21.3% at 34/sec for emmmaaa26
+2017-11-15 00:38:33 Tweets   : 25.4% at 41/sec for EPHGLimited
+2017-11-15 00:38:53 Tweets   : 100% at 28/sec for EvansHeatingUk
+2017-11-15 00:39:08 Tweets   : 99.7% at 20/sec for FailsafeHeating
+2017-11-15 00:39:18 Tweets   : 100% at 14/sec for fusionheatingni
+2017-11-15 00:46:31 Favorites: 23.1% at 3/sec for CheshireFire
+2017-11-15 00:46:31 Favorites: Waiting for 0 minutes due to : Used up allowance in a loop
+2017-11-15 00:46:45 Favorites: 61.1% at 36/sec for CornwallCouncil
+2017-11-15 00:47:59 Favorites: 49.8% at 37/sec for CornwallFRS
+2017-11-15 00:48:22 Favorites: 48.5% at 39/sec for CupcakeMumma11
+2017-11-15 00:48:30 Favorites: 56.7% at 37/sec for D_Times
+2017-11-15 00:48:37 Favorites: 73.6% at 38/sec for DamianJWalters
+2017-11-15 00:48:47 Favorites: 50.1% at 37/sec for DanWag1
+2017-11-15 00:48:48 Favorites: 76.9% at 21/sec for Direct__Heating
+2017-11-15 00:48:49 Favorites: 100% at 21/sec for DonnyFreePress
+2017-11-15 00:48:49 Favorites: 93.8% at 26/sec for DrHilaryJones
+2017-11-15 00:48:55 Favorites: 62% at 37/sec for EasySafetyCert
+2017-11-15 00:49:00 Favorites: 71.6% at 37/sec for EHSCLimited
+2017-11-15 00:49:41 Favorites: Waiting for 11.8 minutes due to : Used up allowance in a loop
+2017-11-15 01:01:48 Favorites: 51.8% at 3/sec for emmmaaa26
+2017-11-15 01:01:49 Favorites: 90.9% at 15/sec for EPHGLimited
+2017-11-15 01:01:49 Favorites: 81.8% at 20/sec for EvansHeatingUk
+2017-11-15 01:01:52 Favorites: 85.5% at 39/sec for FailsafeHeating
+2017-11-15 01:01:54 Favorites: 100% at 33/sec for fusionheatingni
+Warning messages:
+1: package 'twitteR' was built under R version 3.4.1 
+2: In twInterfaceObj$doAPICall(cmd, params, method, ...) :
+  Rate limit encountered & retry limit reached - returning partial results
+Warning message:
+package 'twitteR' was built under R version 3.4.1 

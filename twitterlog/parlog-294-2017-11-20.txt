@@ -1,0 +1,165 @@
+starting worker pid=7800 on localhost:11271 at 06:49:26.380
+starting worker pid=13644 on localhost:11271 at 06:49:26.583
+starting worker pid=3420 on localhost:11271 at 06:49:26.833
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-20 06:52:49 Friends  : 100% at 43/sec for DC_PLUMBING
+2017-11-20 06:53:09 Friends  : 96.9% at 18/sec for DefraWater
+2017-11-20 06:54:15 Friends  : 100% at 21/sec for DEMinstallation
+2017-11-20 06:54:25 Friends  : 100% at 26/sec for DevaHomesUK
+2017-11-20 06:54:27 Friends  : 91.4% at 35/sec for DickiesStore
+2017-11-20 06:55:01 Friends  : 99.8% at 25/sec for DimplexUK
+2017-11-20 06:55:05 Friends  : 100% at 35/sec for DJGPlumbing
+2017-11-20 06:55:32 Friends  : 100% at 26/sec for DMCGASBOLTON
+2017-11-20 06:56:11 Favorites: 66.7% at 3/sec for DC_PLUMBING
+2017-11-20 06:56:13 Favorites: 74.1% at 46/sec for DefraWater
+2017-11-20 06:56:13 Favorites: 100% at 7/sec for DEMinstallation
+2017-11-20 06:56:14 Favorites: 97.5% at 35/sec for DevaHomesUK
+2017-11-20 06:56:28 Friends  : 93.8% at 26/sec for Doitlikedenbo
+2017-11-20 06:56:40 Favorites: 50% at 23/sec for DickiesStore
+2017-11-20 06:56:56 Friends  : 100% at 17/sec for DontFreezeUp
+2017-11-20 06:57:06 Favorites: 65.4% at 15/sec for DimplexUK
+2017-11-20 06:57:08 Favorites: 95.2% at 46/sec for DJGPlumbing
+2017-11-20 06:57:08 Favorites: 100% at 23/sec for DMCGASBOLTON
+2017-11-20 06:57:25 Friends  : 100% at 26/sec for DormouseHeating
+2017-11-20 06:59:14 Favorites: 42.9% at 25/sec for Doitlikedenbo
+2017-11-20 06:59:14 Favorites: User DontFreezeUp has a protected account or no Favoritess to collect so skipping
+2017-11-20 06:59:14 Favorites: 100% at 2/sec for DormouseHeating
+2017-11-20 06:59:25 Favorites: 8.2% at 18/sec for drain247
+2017-11-20 06:59:25 Favorites: User DrainCleanPro has a protected account or no Favoritess to collect so skipping
+2017-11-20 06:59:25 Favorites: 100% at 8/sec for DryWaterproofin
+2017-11-20 06:59:27 Favorites: 100% at 41/sec for DWSHeating
+2017-11-20 06:59:33 Favorites: 100% at 13/sec for DynamelecLtd
+2017-11-20 06:59:34 Favorites: 97.9% at 38/sec for dysonsheating
+2017-11-20 06:59:34 Favorites: User eandkcontracto1 has a protected account or no Favoritess to collect so skipping
+2017-11-20 06:59:35 Favorites: 93.5% at 38/sec for EarlsdonHeating
+2017-11-20 06:59:36 Favorites: 100% at 23/sec for EarthCareSolar
+2017-11-20 06:59:37 Favorites: 96.2% at 40/sec for EasiBleed
+2017-11-20 06:59:37 Favorites: User EasternGas has a protected account or no Favoritess to collect so skipping
+2017-11-20 06:59:43 Favorites: 65.4% at 15/sec for EasyGreenDeal
+2017-11-20 06:59:44 Friends  : 91.4% at 27/sec for drain247
+2017-11-20 06:59:45 Friends  : 95.5% at 18/sec for DrainCleanPro
+2017-11-20 06:59:45 Favorites: 58.5% at 55/sec for EasyMCSLtd
+2017-11-20 06:59:53 Tweets   : 96.3% at 8/sec for DC_PLUMBING
+2017-11-20 06:59:55 Favorites: 60.9% at 30/sec for ec1bathrooms
+2017-11-20 06:59:55 Favorites: 100% at 7/sec for ecolifeshow
+2017-11-20 07:00:00 Friends  : 100% at 21/sec for DryWaterproofin
+2017-11-20 07:00:02 Friends  : 96.7% at 37/sec for DWSHeating
+2017-11-20 07:00:20 Favorites: 49.5% at 16/sec for EdwardesBros
+2017-11-20 07:00:20 Friends  : 96.4% at 21/sec for DynamelecLtd
+2017-11-20 07:00:22 Favorites: Waiting for 10.8 minutes due to : Used up allowance in a loop
+2017-11-20 07:00:24 Friends  : 99.5% at 42/sec for dysonsheating
+2017-11-20 07:00:31 Friends  : 100% at 11/sec for eandkcontracto1
+2017-11-20 07:01:02 Friends  : 99.8% at 29/sec for EarlsdonHeating
+2017-11-20 07:01:10 Tweets   : 100% at 20/sec for DefraWater
+2017-11-20 07:01:23 Tweets   : 100% at 18/sec for DEMinstallation
+2017-11-20 07:01:45 Tweets   : 100% at 24/sec for DevaHomesUK
+2017-11-20 07:02:03 Friends  : 99.5% at 28/sec for EarthCareSolar
+2017-11-20 07:03:25 Tweets   : 95.7% at 32/sec for DickiesStore
+2017-11-20 07:05:15 Tweets   : 57.3% at 29/sec for DimplexUK
+2017-11-20 07:05:28 Tweets   : 100% at 13/sec for DJGPlumbing
+2017-11-20 07:05:34 Tweets   : 100% at 11/sec for DMCGASBOLTON
+2017-11-20 07:07:03 Friends  : 99.9% at 26/sec for EasiBleed
+2017-11-20 07:07:21 Friends  : 100% at 24/sec for EasternGas
+2017-11-20 07:07:22 Tweets   : 53.1% at 30/sec for Doitlikedenbo
+2017-11-20 07:07:29 Tweets   : 100% at 19/sec for DontFreezeUp
+2017-11-20 07:07:58 Tweets   : 99.4% at 24/sec for DormouseHeating
+2017-11-20 07:08:18 Friends  : 100% at 24/sec for EasyGreenDeal
+2017-11-20 07:09:34 Friends  : 100% at 24/sec for EasyMCSLtd
+2017-11-20 07:09:34 Friends  : Waiting for 2.4 minutes
+2017-11-20 07:09:46 Tweets   : 4.4% at 29/sec for drain247
+2017-11-20 07:09:52 Tweets   : 100% at 2/sec for DrainCleanPro
+2017-11-20 07:10:03 Tweets   : 100% at 8/sec for DryWaterproofin
+2017-11-20 07:10:10 Tweets   : 100% at 11/sec for DWSHeating
+2017-11-20 07:11:53 Tweets   : 32.3% at 31/sec for DynamelecLtd
+2017-11-20 07:12:10 Tweets   : 100% at 26/sec for dysonsheating
+2017-11-20 07:12:11 Favorites: 52.2% at 2/sec for EEandHHAwards
+2017-11-20 07:12:16 Tweets   : 100% at 1/sec for eandkcontracto1
+2017-11-20 07:12:16 Favorites: 100% at 5/sec for elitehull
+2017-11-20 07:12:16 Favorites: 100% at 21/sec for ellisstudley
+2017-11-20 07:12:18 Favorites: 85.5% at 56/sec for Elpadgetto
+2017-11-20 07:12:19 Favorites: 90.5% at 51/sec for EmbrassPeerless
+2017-11-20 07:12:20 Favorites: 100% at 19/sec for EndFuelPoverty
+2017-11-20 07:12:20 Favorites: 100% at 7/sec for Energ4Free
+2017-11-20 07:12:21 Favorites: 100% at 33/sec for Energize_EHP
+2017-11-20 07:12:26 Favorites: 98.4% at 11/sec for EnergyCarbonMg
+2017-11-20 07:12:27 Favorites: 100% at 14/sec for energytrainingh
+2017-11-20 07:12:27 Favorites: 100% at 7/sec for Enfield_maint
+2017-11-20 07:12:28 Favorites: 100% at 49/sec for EnfieldPlumbing
+2017-11-20 07:12:29 Tweets   : 100% at 17/sec for EarlsdonHeating
+2017-11-20 07:12:30 Favorites: 78.1% at 59/sec for EsiControls
+2017-11-20 07:12:36 Favorites: 51.3% at 16/sec for eua_marc
+2017-11-20 07:12:36 Favorites: 100% at 27/sec for everflowpdh
+2017-11-20 07:12:38 Favorites: 66.9% at 54/sec for ExpressNathan
+2017-11-20 07:12:46 Favorites: 55% at 26/sec for featureradiator
+2017-11-20 07:12:47 Favorites: 100% at 53/sec for FernoxRichardT
+2017-11-20 07:12:49 Favorites: 100% at 50/sec for FetaNews
+2017-11-20 07:12:50 Favorites: 100% at 2/sec for FieldForceSol
+2017-11-20 07:12:58 Favorites: 84.4% at 23/sec for fionahodgson9
+2017-11-20 07:12:59 Favorites: 100% at 24/sec for Firechecktank
+2017-11-20 07:12:59 Favorites: User FiredOil has a protected account or no Favoritess to collect so skipping
+2017-11-20 07:14:18 Tweets   : 51.6% at 29/sec for EarthCareSolar
+2017-11-20 07:14:37 Tweets   : 97.4% at 16/sec for EasiBleed
+2017-11-20 07:14:43 Tweets   : 100% at 4/sec for EasternGas
+2017-11-20 07:15:23 Friends  : 98.6% at 13/sec for ec1bathrooms
+2017-11-20 07:15:52 Friends  : 100% at 21/sec for ecolifeshow
+2017-11-20 07:16:35 Tweets   : 35.9% at 28/sec for EasyGreenDeal
+2017-11-20 07:16:48 Friends  : 100% at 22/sec for EdwardesBros
+2017-11-20 07:18:31 Tweets   : 28.2% at 27/sec for EasyMCSLtd
+2017-11-20 07:19:02 Tweets   : 99.7% at 25/sec for ec1bathrooms
+2017-11-20 07:19:13 Tweets   : 100% at 6/sec for ecolifeshow
+2017-11-20 07:19:30 Friends  : 97.2% at 32/sec for EEandHHAwards
+2017-11-20 07:19:59 Friends  : 99.4% at 35/sec for elitehull
+2017-11-20 07:20:22 Tweets   : 99.8% at 28/sec for EdwardesBros
+2017-11-20 07:20:36 Friends  : 99.4% at 34/sec for ellisstudley
+2017-11-20 07:20:43 Friends  : 96.7% at 16/sec for Elpadgetto
+2017-11-20 07:20:54 Friends  : 98.5% at 29/sec for EmbrassPeerless
+2017-11-20 07:21:08 Friends  : 99.5% at 33/sec for EndFuelPoverty
+2017-11-20 07:21:22 Friends  : 98.8% at 35/sec for Energ4Free
+2017-11-20 07:21:31 Friends  : 95.6% at 22/sec for Energize_EHP
+2017-11-20 07:22:16 Tweets   : 41.7% at 28/sec for EEandHHAwards
+2017-11-20 07:22:45 Tweets   : 99.8% at 17/sec for elitehull
+2017-11-20 07:23:42 Friends  : 98.8% at 32/sec for EnergyCarbonMg
+2017-11-20 07:23:51 Tweets   : 100% at 31/sec for ellisstudley
+2017-11-20 07:24:07 Tweets   : 99.8% at 25/sec for Elpadgetto
+2017-11-20 07:24:17 Friends  : 100% at 32/sec for energytrainingh
+2017-11-20 07:24:23 Friends  : 100% at 41/sec for Enfield_maint
+2017-11-20 07:24:23 Friends  : Waiting for 2.8 minutes
+2017-11-20 07:24:27 Tweets   : 96.8% at 20/sec for EmbrassPeerless
+2017-11-20 07:25:09 Tweets   : 99.9% at 31/sec for EndFuelPoverty
+2017-11-20 07:25:20 Tweets   : 100% at 7/sec for Energ4Free
+2017-11-20 07:25:27 Tweets   : 100% at 12/sec for Energize_EHP
+2017-11-20 07:25:56 Tweets   : 100% at 28/sec for EnergyCarbonMg
+2017-11-20 07:26:07 Tweets   : 100% at 13/sec for energytrainingh
+2017-11-20 07:26:13 Tweets   : 100% at 8/sec for Enfield_maint
+2017-11-20 07:26:25 Tweets   : 100% at 12/sec for EnfieldPlumbing
+2017-11-20 07:26:38 Tweets   : 100% at 19/sec for EsiControls
+2017-11-20 07:27:22 Tweets   : 99.9% at 29/sec for eua_marc
+2017-11-20 07:27:36 Tweets   : 100% at 22/sec for everflowpdh
+2017-11-20 07:27:42 Friends  : 99.5% at 4/sec for EnfieldPlumbing
+2017-11-20 07:28:06 Friends  : 97.1% at 32/sec for EsiControls
+2017-11-20 07:28:30 Friends  : 99.3% at 31/sec for eua_marc
+2017-11-20 07:28:35 Friends  : 100% at 41/sec for everflowpdh
+2017-11-20 07:29:23 Tweets   : 43.6% at 30/sec for ExpressNathan
+2017-11-20 07:29:43 Friends  : 99.9% at 30/sec for ExpressNathan
+2017-11-20 07:30:47 Tweets   : 100% at 30/sec for featureradiator
+2017-11-20 07:30:54 Tweets   : 100% at 9/sec for FernoxRichardT
+2017-11-20 07:31:06 Tweets   : 100% at 12/sec for FetaNews
+2017-11-20 07:31:12 Friends  : 98.4% at 30/sec for featureradiator
+2017-11-20 07:31:14 Friends  : 97.3% at 33/sec for FernoxRichardT
+2017-11-20 07:31:21 Tweets   : 100% at 23/sec for FieldForceSol
+2017-11-20 07:31:43 Tweets   : 99.8% at 22/sec for fionahodgson9
+2017-11-20 07:31:47 Friends  : 91.2% at 30/sec for FetaNews
+2017-11-20 07:31:55 Tweets   : 100% at 9/sec for Firechecktank
+2017-11-20 07:31:56 Friends  : 100% at 21/sec for FieldForceSol
+2017-11-20 07:31:58 Friends  : 98.5% at 33/sec for fionahodgson9
+2017-11-20 07:32:00 Tweets   : 100% at 1/sec for FiredOil
+2017-11-20 07:32:21 Friends  : 99.7% at 29/sec for Firechecktank
+2017-11-20 07:32:22 Friends  : 100% at 21/sec for FiredOil
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+Warning message:
+package 'twitteR' was built under R version 3.4.1 

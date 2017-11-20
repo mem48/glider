@@ -1,0 +1,164 @@
+starting worker pid=6608 on localhost:11271 at 15:54:39.054
+starting worker pid=10664 on localhost:11271 at 15:54:39.248
+starting worker pid=5572 on localhost:11271 at 15:54:39.428
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-18 15:57:03 Friends  : 100% at 15/sec for mikehannis
+2017-11-18 15:57:11 Friends  : 99.6% at 29/sec for milanhutera
+2017-11-18 15:57:21 Friends  : 99.3% at 39/sec for MIMA_UK
+2017-11-18 15:59:22 Favorites: User mikehannis has a protected account or no Favoritess to collect so skipping
+2017-11-18 15:59:23 Favorites: 100% at 40/sec for milanhutera
+2017-11-18 15:59:25 Favorites: 100% at 34/sec for MIMA_UK
+2017-11-18 15:59:25 Favorites: User mindfuleveryday has a protected account or no Favoritess to collect so skipping
+2017-11-18 15:59:32 Favorites: 51% at 27/sec for mobarch
+2017-11-18 15:59:43 Favorites: 52.8% at 35/sec for ModernToss
+2017-11-18 15:59:43 Favorites: 100% at 11/sec for MonGeomatics
+2017-11-18 15:59:44 Favorites: 100% at 24/sec for monthinFM
+2017-11-18 16:00:05 Favorites: 55.5% at 23/sec for morrisonbrink
+2017-11-18 16:00:13 Friends  : 100% at 33/sec for mindfuleveryday
+2017-11-18 16:00:26 Friends  : 100% at 28/sec for mobarch
+2017-11-18 16:00:40 Friends  : 99.6% at 33/sec for ModernToss
+2017-11-18 16:01:24 Friends  : 98.6% at 33/sec for MonGeomatics
+2017-11-18 16:01:38 Favorites: 6.1% at 34/sec for MrMirth
+2017-11-18 16:01:59 Tweets   : 100% at 1/sec for mikehannis
+2017-11-18 16:02:56 Favorites: Waiting for 11.4 minutes due to : Used up allowance in a loop
+2017-11-18 16:03:04 Friends  : 100% at 33/sec for monthinFM
+2017-11-18 16:03:26 Tweets   : 99.8% at 36/sec for milanhutera
+2017-11-18 16:03:38 Friends  : 99.4% at 36/sec for morrisonbrink
+2017-11-18 16:03:50 Tweets   : 100% at 37/sec for MIMA_UK
+2017-11-18 16:05:02 Friends  : 96.4% at 34/sec for MrMirth
+2017-11-18 16:05:06 Tweets   : 13.6% at 42/sec for mindfuleveryday
+2017-11-18 16:05:24 Tweets   : 94% at 27/sec for mobarch
+2017-11-18 16:06:51 Tweets   : 54.3% at 37/sec for ModernToss
+2017-11-18 16:07:02 Tweets   : 100% at 23/sec for MonGeomatics
+2017-11-18 16:07:23 Friends  : 98.2% at 30/sec for MuchMind
+2017-11-18 16:08:19 Tweets   : 62.3% at 42/sec for monthinFM
+2017-11-18 16:09:16 Friends  : 97.6% at 29/sec for mwt2008
+2017-11-18 16:09:45 Friends  : 100% at 24/sec for MyEcobuilder
+2017-11-18 16:09:45 Tweets   : 55.1% at 37/sec for morrisonbrink
+2017-11-18 16:10:02 Friends  : 99.8% at 28/sec for MyHouseSucks
+2017-11-18 16:10:02 Friends  : Waiting for 2.1 minutes
+2017-11-18 16:11:01 Tweets   : 10.1% at 37/sec for MrMirth
+2017-11-18 16:12:21 Tweets   : 5.5% at 40/sec for MuchMind
+2017-11-18 16:13:51 Tweets   : 3.4% at 35/sec for mwt2008
+2017-11-18 16:13:58 Tweets   : 98.4% at 8/sec for MyEcobuilder
+2017-11-18 16:14:28 Tweets   : 97.7% at 30/sec for MyHouseSucks
+2017-11-18 16:14:36 Favorites: 34.2% at 4/sec for MuchMind
+2017-11-18 16:14:56 Favorites: 53.5% at 35/sec for mwt2008
+2017-11-18 16:14:56 Favorites: User MyEcobuilder has a protected account or no Favoritess to collect so skipping
+2017-11-18 16:15:02 Favorites: 66.7% at 31/sec for MyHouseSucks
+2017-11-18 16:15:10 Favorites: 67.6% at 35/sec for mykkym1
+2017-11-18 16:16:12 Tweets   : 3% at 31/sec for mykkym1
+2017-11-18 16:16:37 Favorites: 19.6% at 37/sec for NafeezAhmed
+2017-11-18 16:17:15 Favorites: 52.3% at 36/sec for NatCapForum
+2017-11-18 16:17:16 Favorites: 100% at 28/sec for National_Domes
+2017-11-18 16:17:16 Favorites: 100% at 14/sec for Natsol1
+2017-11-18 16:17:16 Favorites: User Natural_Floors has a protected account or no Favoritess to collect so skipping
+2017-11-18 16:17:23 Friends  : 98.3% at 18/sec for mykkym1
+2017-11-18 16:17:36 Favorites: Waiting for 11.8 minutes due to : Used up allowance in a loop
+2017-11-18 16:17:54 Tweets   : 6.4% at 31/sec for NafeezAhmed
+2017-11-18 16:19:04 Friends  : 99.7% at 29/sec for NafeezAhmed
+2017-11-18 16:19:34 Tweets   : 69.3% at 32/sec for NatCapForum
+2017-11-18 16:19:54 Friends  : 99.7% at 37/sec for NatCapForum
+2017-11-18 16:19:56 Tweets   : 100% at 23/sec for National_Domes
+2017-11-18 16:20:08 Tweets   : 100% at 15/sec for Natsol1
+2017-11-18 16:20:14 Friends  : 99.9% at 34/sec for National_Domes
+2017-11-18 16:20:21 Friends  : 100% at 33/sec for Natsol1
+2017-11-18 16:20:26 Tweets   : 97.8% at 23/sec for Natural_Floors
+2017-11-18 16:21:10 Friends  : 100% at 36/sec for Natural_Floors
+2017-11-18 16:21:50 Friends  : 98% at 35/sec for naturallycyclin
+2017-11-18 16:21:50 Friends  : User nelderini has a protected account or no Friendss to collect so skipping
+2017-11-18 16:21:55 Tweets   : 28.7% at 36/sec for naturallycyclin
+2017-11-18 16:22:01 Tweets   : 100% at 0/sec for nelderini
+2017-11-18 16:23:22 Friends  : 99.5% at 34/sec for NewClimateEcon
+2017-11-18 16:23:23 Tweets   : 42.6% at 39/sec for NewClimateEcon
+2017-11-18 16:23:49 Friends  : 94.1% at 36/sec for NewHomesExpert1
+2017-11-18 16:24:37 Tweets   : 35.6% at 43/sec for NewHomesExpert1
+2017-11-18 16:25:56 Tweets   : 20.6% at 41/sec for NewportVet
+2017-11-18 16:27:16 Tweets   : 12.2% at 40/sec for NewsClimate
+2017-11-18 16:27:16 Tweets   : User NIALtd has a protected account or no Tweetss to collect so skipping
+2017-11-18 16:27:33 Tweets   : 100% at 23/sec for NLC_HOMES
+2017-11-18 16:29:01 Tweets   : 37.4% at 36/sec for NLPwarrior
+2017-11-18 16:29:13 Tweets   : 100% at 13/sec for NMorrin
+2017-11-18 16:29:24 Tweets   : 98.5% at 12/sec for NorthumbriaPM
+2017-11-18 16:29:43 Tweets   : 100.2% at 25/sec for NottsYGreens
+2017-11-18 16:29:50 Tweets   : 100% at 0/sec for OccupyChicago
+2017-11-18 16:30:15 Favorites: 49.6% at 4/sec for naturallycyclin
+2017-11-18 16:30:15 Favorites: User nelderini has a protected account or no Favoritess to collect so skipping
+2017-11-18 16:30:49 Favorites: 50.6% at 37/sec for NewClimateEcon
+2017-11-18 16:30:59 Favorites: 72.8% at 30/sec for NewHomesExpert1
+2017-11-18 16:31:25 Tweets   : 6.5% at 34/sec for OccupyLondon
+2017-11-18 16:31:32 Tweets   : 100% at 4/sec for OgeeSupplies
+2017-11-18 16:31:40 Favorites: 16.3% at 39/sec for NewportVet
+2017-11-18 16:31:40 Favorites: User NewsClimate has a protected account or no Favoritess to collect so skipping
+2017-11-18 16:31:40 Favorites: User NIALtd has a protected account or no Favoritess to collect so skipping
+2017-11-18 16:31:40 Favorites: 100% at 12/sec for NLC_HOMES
+2017-11-18 16:31:43 Tweets   : 100% at 13/sec for oilbuying
+2017-11-18 16:31:51 Tweets   : 100% at 19/sec for olcoo
+2017-11-18 16:32:01 Favorites: 53.4% at 44/sec for NLPwarrior
+2017-11-18 16:32:01 Favorites: User NMorrin has a protected account or no Favoritess to collect so skipping
+2017-11-18 16:32:01 Favorites: 100% at 3/sec for NorthumbriaPM
+2017-11-18 16:32:02 Favorites: 100% at 6/sec for NottsYGreens
+2017-11-18 16:32:02 Favorites: User OccupyChicago has a protected account or no Favoritess to collect so skipping
+2017-11-18 16:32:28 Favorites: Waiting for 12 minutes due to : Used up allowance in a loop
+2017-11-18 16:33:22 Tweets   : 73.1% at 35/sec for oldbasingtweets
+2017-11-18 16:33:29 Tweets   : 100% at 10/sec for oldmanr1ver
+2017-11-18 16:33:30 Friends  : 99.1% at 34/sec for NewportVet
+2017-11-18 16:34:04 Tweets   : 100% at 32/sec for OLearySluddsArc
+2017-11-18 16:34:04 Tweets   : User oliverjamestodd has a protected account or no Tweetss to collect so skipping
+2017-11-18 16:35:25 Tweets   : 99.8% at 38/sec for olylowe
+2017-11-18 16:35:37 Tweets   : 99.7% at 28/sec for ondulineUK
+2017-11-18 16:36:29 Tweets   : 100% at 40/sec for Onepv
+2017-11-18 16:37:48 Tweets   : 68.9% at 41/sec for Openenergymon
+2017-11-18 16:37:59 Tweets   : 100% at 11/sec for OPTIWIN
+2017-11-18 16:38:28 Tweets   : 99.7% at 33/sec for OriginalThing
+2017-11-18 16:38:36 Tweets   : 100% at 17/sec for osmosis_jm
+2017-11-18 16:38:43 Tweets   : 100% at 0/sec for OSullivanDerrie
+2017-11-18 16:41:25 Friends  : 100% at 32/sec for NewsClimate
+2017-11-18 16:41:25 Friends  : User NIALtd has a protected account or no Friendss to collect so skipping
+2017-11-18 16:41:31 Friends  : 100% at 28/sec for NLC_HOMES
+2017-11-18 16:42:27 Friends  : 100% at 36/sec for NLPwarrior
+2017-11-18 16:42:29 Friends  : 100% at 33/sec for NMorrin
+2017-11-18 16:42:31 Friends  : 100% at 44/sec for NorthumbriaPM
+2017-11-18 16:42:37 Friends  : 100% at 22/sec for NottsYGreens
+2017-11-18 16:42:37 Friends  : User OccupyChicago has a protected account or no Friendss to collect so skipping
+2017-11-18 16:43:38 Friends  : 99.5% at 43/sec for OccupyLondon
+2017-11-18 16:43:41 Friends  : 99.3% at 45/sec for OgeeSupplies
+2017-11-18 16:44:22 Friends  : 100% at 43/sec for oilbuying
+2017-11-18 16:44:27 Friends  : 99.6% at 54/sec for olcoo
+2017-11-18 16:44:48 Favorites: 50.8% at 2/sec for OccupyLondon
+2017-11-18 16:44:49 Favorites: 100% at 23/sec for OgeeSupplies
+2017-11-18 16:44:49 Favorites: 100% at 2/sec for oilbuying
+2017-11-18 16:44:52 Friends  : 99.4% at 42/sec for oldbasingtweets
+2017-11-18 16:44:54 Favorites: 61.8% at 40/sec for olcoo
+2017-11-18 16:44:59 Friends  : 100% at 33/sec for oldmanr1ver
+2017-11-18 16:44:59 Friends  : Waiting for 3.6 minutes
+2017-11-18 16:44:59 Favorites: 56.7% at 37/sec for oldbasingtweets
+2017-11-18 16:45:00 Favorites: 100% at 5/sec for oldmanr1ver
+2017-11-18 16:45:01 Favorites: 50% at 70/sec for OLearySluddsArc
+2017-11-18 16:45:01 Favorites: User oliverjamestodd has a protected account or no Favoritess to collect so skipping
+2017-11-18 16:45:17 Favorites: 56.7% at 38/sec for olylowe
+2017-11-18 16:45:18 Favorites: 100% at 41/sec for ondulineUK
+2017-11-18 16:45:18 Favorites: User Onepv has a protected account or no Favoritess to collect so skipping
+2017-11-18 16:45:25 Favorites: 53.2% at 43/sec for Openenergymon
+2017-11-18 16:45:26 Favorites: 100% at 52/sec for OPTIWIN
+2017-11-18 16:45:26 Favorites: 100% at 49/sec for OriginalThing
+2017-11-18 16:45:32 Favorites: 90.4% at 36/sec for osmosis_jm
+2017-11-18 16:45:32 Favorites: 100% at 3/sec for OSullivanDerrie
+2017-11-18 16:48:46 Friends  : 96.9% at 2/sec for OLearySluddsArc
+2017-11-18 16:48:46 Friends  : User oliverjamestodd has a protected account or no Friendss to collect so skipping
+2017-11-18 16:48:54 Friends  : 97.5% at 36/sec for olylowe
+2017-11-18 16:49:24 Friends  : 99.5% at 43/sec for ondulineUK
+2017-11-18 16:49:25 Friends  : 100% at 7/sec for Onepv
+2017-11-18 16:49:32 Friends  : 96.6% at 33/sec for Openenergymon
+2017-11-18 16:49:33 Friends  : 100% at 32/sec for OPTIWIN
+2017-11-18 16:50:07 Friends  : 98.3% at 39/sec for OriginalThing
+2017-11-18 16:50:16 Friends  : 96.7% at 37/sec for osmosis_jm
+2017-11-18 16:50:18 Friends  : 100% at 28/sec for OSullivanDerrie
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+Warning message:
+package 'twitteR' was built under R version 3.4.1 

@@ -1,0 +1,172 @@
+starting worker pid=5116 on localhost:11271 at 12:39:50.229
+starting worker pid=9484 on localhost:11271 at 12:39:50.447
+starting worker pid=14472 on localhost:11271 at 12:39:50.647
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-19 12:43:56 Friends  : 100% at 19/sec for KECNuneaton
+2017-11-19 12:44:07 Friends  : 99.7% at 27/sec for kedst
+2017-11-19 12:44:34 Friends  : 99.2% at 34/sec for KeeleyMP
+2017-11-19 12:44:44 Friends  : 98.5% at 27/sec for Keir_Starmer
+2017-11-19 12:46:37 Favorites: 96.6% at 26/sec for KECNuneaton
+2017-11-19 12:46:39 Favorites: 92.5% at 41/sec for kedst
+2017-11-19 12:47:12 Friends  : 99.1% at 28/sec for kelley_temple
+2017-11-19 12:47:26 Favorites: 52.4% at 21/sec for KeeleyMP
+2017-11-19 12:47:27 Favorites: 93.8% at 40/sec for Keir_Starmer
+2017-11-19 12:47:58 Favorites: 51.5% at 28/sec for kelley_temple
+2017-11-19 12:48:02 Friends  : 99.6% at 27/sec for KellyTolhurst
+2017-11-19 12:48:16 Favorites: 61.1% at 27/sec for KellyTolhurst
+2017-11-19 12:48:43 Friends  : 99% at 27/sec for KendalCollege
+2017-11-19 12:48:50 Favorites: 53.5% at 32/sec for KendalCollege
+2017-11-19 12:48:53 Favorites: 51% at 46/sec for Kent_Online
+2017-11-19 12:49:31 Favorites: 52.9% at 28/sec for kerriahall
+2017-11-19 12:49:32 Favorites: 97.4% at 37/sec for KevanJonesMP
+2017-11-19 12:49:38 Friends  : 99.7% at 28/sec for Kent_Online
+2017-11-19 12:50:28 Favorites: 50.7% at 30/sec for kevin_j_foster
+2017-11-19 12:50:42 Favorites: 51.7% at 34/sec for KevinBrennanMP
+2017-11-19 12:50:58 Tweets   : 100% at 22/sec for KECNuneaton
+2017-11-19 12:50:58 Favorites: 57.6% at 24/sec for KidderminstColl
+2017-11-19 12:50:58 Favorites: User kilmarnockcol has a protected account or no Favoritess to collect so skipping
+2017-11-19 12:50:59 Friends  : 99.3% at 26/sec for kerriahall
+2017-11-19 12:51:20 Favorites: 53% at 31/sec for kimwilde
+2017-11-19 12:51:38 Tweets   : 99.9% at 30/sec for kedst
+2017-11-19 12:52:34 Favorites: Waiting for 11 minutes due to : Used up allowance in a loop
+2017-11-19 12:53:19 Tweets   : 10.1% at 32/sec for KeeleyMP
+2017-11-19 12:54:39 Tweets   : 99.4% at 31/sec for Keir_Starmer
+2017-11-19 12:56:21 Tweets   : 15.3% at 31/sec for kelley_temple
+2017-11-19 12:56:21 Friends  : 99.3% at 28/sec for KevanJonesMP
+2017-11-19 12:56:39 Friends  : 99.2% at 27/sec for kevin_j_foster
+2017-11-19 12:57:23 Tweets   : 99.2% at 29/sec for KellyTolhurst
+2017-11-19 12:57:33 Friends  : 99.3% at 28/sec for KevinBrennanMP
+2017-11-19 12:58:18 Friends  : 99.5% at 25/sec for KidderminstColl
+2017-11-19 12:58:19 Friends  : 100% at 1/sec for kilmarnockcol
+2017-11-19 12:58:59 Tweets   : 77.1% at 33/sec for KendalCollege
+2017-11-19 12:59:20 Friends  : 99.3% at 26/sec for kimwilde
+2017-11-19 13:00:36 Tweets   : 4.3% at 33/sec for Kent_Online
+2017-11-19 13:01:28 Friends  : 98.4% at 26/sec for kirstenoswald
+2017-11-19 13:02:13 Tweets   : 99.5% at 33/sec for kerriahall
+2017-11-19 13:02:42 Friends  : 97.9% at 24/sec for KirstySNP
+2017-11-19 13:02:59 Friends  : 98.4% at 24/sec for kitmalthouse
+2017-11-19 13:03:10 Friends  : 98.5% at 29/sec for KNOWOSFC
+2017-11-19 13:03:51 Tweets   : 30.1% at 32/sec for KevanJonesMP
+2017-11-19 13:04:18 Favorites: 48.1% at 4/sec for kirstenoswald
+2017-11-19 13:04:32 Friends  : 99.9% at 23/sec for KnowsleyCollege
+2017-11-19 13:05:02 Friends  : 99.7% at 26/sec for kyletagg
+2017-11-19 13:05:29 Friends  : 98.9% at 23/sec for L6FC
+2017-11-19 13:05:38 Tweets   : 12.4% at 30/sec for kevin_j_foster
+2017-11-19 13:06:09 Favorites: 37.5% at 28/sec for KirstySNP
+2017-11-19 13:06:15 Favorites: 95.7% at 12/sec for kitmalthouse
+2017-11-19 13:06:19 Favorites: 86.9% at 53/sec for KNOWOSFC
+2017-11-19 13:06:25 Favorites: 55.6% at 16/sec for KnowsleyCollege
+2017-11-19 13:06:26 Friends  : 99.6% at 23/sec for labourpress
+2017-11-19 13:06:37 Favorites: 61.9% at 33/sec for kyletagg
+2017-11-19 13:06:37 Friends  : 100% at 27/sec for labourtransport
+2017-11-19 13:06:47 Favorites: 49.2% at 29/sec for L6FC
+2017-11-19 13:06:48 Favorites: 97% at 43/sec for labourpress
+2017-11-19 13:06:50 Favorites: 100% at 25/sec for labourtransport
+2017-11-19 13:06:50 Favorites: 100% at 13/sec for labourwhips
+2017-11-19 13:06:52 Favorites: 97.4% at 47/sec for labpolicyforum
+2017-11-19 13:07:10 Favorites: 51.9% at 27/sec for LadyBasildon
+2017-11-19 13:07:14 Favorites: 66.6% at 44/sec for lakescollege
+2017-11-19 13:07:24 Tweets   : 21.5% at 30/sec for KevinBrennanMP
+2017-11-19 13:07:25 Favorites: 58.8% at 29/sec for LambethCollege
+Error in twInterfaceObj$doAPICall(cmd, params, method, ...) : 
+  Service Unavailable (HTTP 503).
+In addition: Warning message:
+package 'twitteR' was built under R version 3.4.1 
+2017-11-19 13:07:31 Tweets: Unable to find account KidderminstColl moving to next
+2017-11-19 13:07:31 Tweets   : % at /sec for KidderminstColl
+2017-11-19 13:07:37 Tweets   : 100% at 0/sec for kilmarnockcol
+2017-11-19 13:07:53 Favorites: Waiting for 10.9 minutes due to : Used up allowance in a loop
+2017-11-19 13:08:51 Friends  : 98.9% at 23/sec for labourwhips
+2017-11-19 13:09:19 Tweets   : 36% at 31/sec for kimwilde
+2017-11-19 13:10:23 Friends  : 98.8% at 23/sec for labpolicyforum
+2017-11-19 13:11:03 Tweets   : 47.1% at 31/sec for kirstenoswald
+2017-11-19 13:11:14 Friends  : 98.9% at 30/sec for LadyBasildon
+2017-11-19 13:11:47 Friends  : 99.3% at 28/sec for lakescollege
+2017-11-19 13:11:47 Friends  : Waiting for 1.6 minutes
+2017-11-19 13:12:43 Tweets   : 30.9% at 32/sec for KirstySNP
+[1] "Server error: (500) Internal Server Error"
+[1] "This error is likely transient, retrying up to 5 more times ..."
+2017-11-19 13:13:49 Tweets   : 99.5% at 29/sec for kitmalthouse
+2017-11-19 13:13:55 Friends  : 99.5% at 7/sec for LambethCollege
+2017-11-19 13:14:09 Friends  : 96.6% at 31/sec for LancsSkillsHub
+2017-11-19 13:14:39 Tweets   : 99.9% at 29/sec for KNOWOSFC
+2017-11-19 13:14:57 Friends  : 96.1% at 29/sec for Landexnews
+2017-11-19 13:15:30 Friends  : 98.8% at 28/sec for laura_ham28
+2017-11-19 13:15:55 Tweets   : 99.2% at 30/sec for KnowsleyCollege
+2017-11-19 13:16:51 Friends  : 99.3% at 28/sec for laurapitel
+2017-11-19 13:17:22 Tweets   : 98.3% at 26/sec for kyletagg
+2017-11-19 13:17:22 Friends  : 99.1% at 26/sec for Lborocollege
+2017-11-19 13:17:44 Friends  : 100% at 28/sec for LCC_ESS
+2017-11-19 13:18:43 Friends  : 99.2% at 28/sec for LearnWorkCymru
+2017-11-19 13:18:59 Tweets   : 64.5% at 33/sec for L6FC
+2017-11-19 13:19:12 Favorites: 53.1% at 2/sec for LancsSkillsHub
+2017-11-19 13:19:16 Favorites: 62.9% at 47/sec for Landexnews
+2017-11-19 13:19:23 Favorites: 81.3% at 16/sec for laura_ham28
+2017-11-19 13:19:50 Favorites: 52.6% at 32/sec for laurapitel
+2017-11-19 13:20:26 Favorites: 53.2% at 28/sec for Lborocollege
+2017-11-19 13:20:27 Favorites: 91.2% at 56/sec for LCC_ESS
+2017-11-19 13:20:35 Tweets   : 6.2% at 33/sec for labourpress
+2017-11-19 13:20:56 Favorites: 50.6% at 35/sec for LearnWorkCymru
+2017-11-19 13:21:29 Friends  : 99.9% at 29/sec for LeedsArtsUni
+2017-11-19 13:21:32 Favorites: 50.2% at 35/sec for LeedsArtsUni
+2017-11-19 13:21:59 Friends  : 98% at 25/sec for LeedsArtsUnion
+2017-11-19 13:22:00 Friends  : 100% at 16/sec for leighmp
+2017-11-19 13:22:02 Favorites: 54.3% at 30/sec for LeedsArtsUnion
+2017-11-19 13:22:02 Favorites: User leighmp has a protected account or no Favoritess to collect so skipping
+2017-11-19 13:22:09 Tweets   : 50.4% at 34/sec for labourtransport
+2017-11-19 13:22:10 Favorites: 64% at 35/sec for lentildsley
+2017-11-19 13:22:14 Favorites: 68% at 55/sec for lewismoonie
+2017-11-19 13:22:15 Favorites: 90.6% at 37/sec for LexieCurling
+2017-11-19 13:22:18 Friends  : 100% at 30/sec for lentildsley
+2017-11-19 13:22:26 Friends  : 100% at 25/sec for lewismoonie
+2017-11-19 13:22:32 Favorites: 50.1% at 39/sec for LiamByrneMP
+2017-11-19 13:22:46 Friends  : 99.9% at 34/sec for LexieCurling
+2017-11-19 13:22:46 Favorites: 55.7% at 28/sec for LiamFox
+2017-11-19 13:22:47 Favorites: Waiting for 11.3 minutes due to : Used up allowance in a loop
+2017-11-19 13:23:28 Tweets   : 31% at 40/sec for labourwhips
+2017-11-19 13:23:59 Tweets   : 99% at 31/sec for labpolicyforum
+2017-11-19 13:24:50 Friends  : 99.3% at 33/sec for LiamByrneMP
+2017-11-19 13:24:50 Friends  : Waiting for 3.7 minutes
+2017-11-19 13:25:21 Tweets   : 32.4% at 39/sec for LadyBasildon
+2017-11-19 13:26:39 Tweets   : 87.1% at 41/sec for lakescollege
+2017-11-19 13:27:58 Tweets   : 86.4% at 41/sec for LambethCollege
+2017-11-19 13:28:47 Tweets   : 99.9% at 37/sec for LancsSkillsHub
+2017-11-19 13:29:10 Friends  : 99.7% at 5/sec for LiamFox
+2017-11-19 13:29:22 Tweets   : 99.4% at 32/sec for Landexnews
+2017-11-19 13:29:35 Friends  : 99.3% at 34/sec for LibDemPress
+2017-11-19 13:30:42 Tweets   : 56.8% at 40/sec for laura_ham28
+2017-11-19 13:32:04 Friends  : 99.9% at 31/sec for LibDems
+2017-11-19 13:32:12 Tweets   : 85.7% at 36/sec for laurapitel
+2017-11-19 13:32:52 Friends  : 98.1% at 35/sec for LindsayHoyle_MP
+2017-11-19 13:33:41 Tweets   : 24.2% at 36/sec for Lborocollege
+2017-11-19 13:34:08 Friends  : 98.7% at 30/sec for LizMcInnes_MP
+2017-11-19 13:34:28 Favorites: 53.1% at 1/sec for LibDemPress
+2017-11-19 13:34:30 Tweets   : 97.8% at 35/sec for LCC_ESS
+2017-11-19 13:35:20 Friends  : 99.2% at 30/sec for ljrawlings
+2017-11-19 13:35:47 Friends  : 100% at 32/sec for ll_uk
+2017-11-19 13:35:52 Tweets   : 35.9% at 39/sec for LearnWorkCymru
+2017-11-19 13:35:55 Favorites: 39.3% at 36/sec for LibDems
+2017-11-19 13:35:56 Favorites: 100% at 62/sec for LindsayHoyle_MP
+2017-11-19 13:36:53 Favorites: 49.4% at 38/sec for LizMcInnes_MP
+2017-11-19 13:37:12 Favorites: 53.9% at 31/sec for ljrawlings
+2017-11-19 13:37:12 Favorites: User ll_uk has a protected account or no Favoritess to collect so skipping
+2017-11-19 13:37:16 Tweets   : 56.7% at 38/sec for LeedsArtsUni
+2017-11-19 13:38:45 Tweets   : 94.4% at 36/sec for LeedsArtsUnion
+2017-11-19 13:38:51 Tweets   : 100% at 1/sec for leighmp
+2017-11-19 13:39:22 Tweets   : 99.8% at 31/sec for lentildsley
+2017-11-19 13:40:35 Tweets   : 99.7% at 35/sec for lewismoonie
+2017-11-19 13:41:06 Tweets   : 99.9% at 34/sec for LexieCurling
+2017-11-19 13:42:44 Tweets   : 41.4% at 33/sec for LiamByrneMP
+2017-11-19 13:44:06 Tweets   : 99.8% at 35/sec for LiamFox
+2017-11-19 13:45:44 Tweets   : 14.3% at 33/sec for LibDemPress
+2017-11-19 13:47:19 Tweets   : 10.2% at 34/sec for LibDems
+2017-11-19 13:48:28 Tweets   : 99.6% at 34/sec for LindsayHoyle_MP
+2017-11-19 13:50:04 Tweets   : 37.6% at 33/sec for LizMcInnes_MP
+2017-11-19 13:51:36 Tweets   : 100% at 33/sec for ljrawlings
+2017-11-19 13:51:50 Tweets   : 100% at 23/sec for ll_uk
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+Warning message:
+package 'twitteR' was built under R version 3.4.1 

@@ -1,0 +1,167 @@
+starting worker pid=8852 on localhost:11271 at 08:43:13.447
+starting worker pid=4580 on localhost:11271 at 08:43:13.619
+starting worker pid=14156 on localhost:11271 at 08:43:13.775
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-19 08:46:11 Friends  : 99.1% at 26/sec for GwynneMP
+2017-11-19 08:46:30 Friends  : 99.3% at 40/sec for HackneyAbbott
+2017-11-19 08:46:37 Friends  : 99.3% at 36/sec for Hadlow_College
+2017-11-19 08:46:46 Friends  : 99.4% at 37/sec for halesowencoll
+2017-11-19 08:47:29 Friends  : 99.4% at 42/sec for hammersmithandy
+2017-11-19 08:48:03 Friends  : 99.8% at 37/sec for HarrietHarman
+2017-11-19 08:48:05 Friends  : 100% at 42/sec for Harry4BH
+2017-11-19 08:48:28 Friends  : 99.3% at 30/sec for Hartpury
+2017-11-19 08:48:40 Friends  : 99.1% at 45/sec for HavantSFCollege
+2017-11-19 08:48:41 Friends  : 100% at 14/sec for havering6thform
+2017-11-19 08:48:44 Favorites: Waiting for 2.3 minutes due to : Used up allowance in a loop
+2017-11-19 08:48:48 Friends  : 98.2% at 31/sec for HayteratLords
+2017-11-19 08:48:51 Friends  : 100% at 50/sec for HazelBlears2
+2017-11-19 08:50:07 Friends  : 98.5% at 39/sec for hbaldwin
+2017-11-19 08:50:15 Friends  : 99.3% at 34/sec for HCFEAdvisers
+2017-11-19 08:50:18 Friends  : 100% at 57/sec for HCUK_Harrogate
+2017-11-19 08:50:19 Friends  : Waiting for 10.4 minutes
+2017-11-19 08:51:54 Favorites: 7.3% at 14/sec for GwynneMP
+2017-11-19 08:51:56 Tweets   : 5.3% at 40/sec for GwynneMP
+2017-11-19 08:53:08 Tweets   : 9.5% at 45/sec for HackneyAbbott
+2017-11-19 08:53:12 Favorites: 44.8% at 41/sec for HackneyAbbott
+2017-11-19 08:53:22 Favorites: 49.7% at 50/sec for Hadlow_College
+2017-11-19 08:53:23 Favorites: 100% at 21/sec for halesowencoll
+2017-11-19 08:53:37 Favorites: 51.2% at 41/sec for hammersmithandy
+2017-11-19 08:53:38 Favorites: 98.2% at 45/sec for HarrietHarman
+2017-11-19 08:53:39 Favorites: 97.8% at 70/sec for Harry4BH
+2017-11-19 08:53:54 Favorites: Waiting for 12.2 minutes due to : Used up allowance in a loop
+2017-11-19 08:54:17 Tweets   : 78.2% at 46/sec for Hadlow_College
+2017-11-19 08:55:01 Tweets   : 98.8% at 42/sec for halesowencoll
+2017-11-19 08:56:15 Tweets   : 16.7% at 43/sec for hammersmithandy
+2017-11-19 08:57:22 Tweets   : 39.4% at 48/sec for HarrietHarman
+2017-11-19 08:57:36 Tweets   : 99.8% at 34/sec for Harry4BH
+2017-11-19 08:58:45 Tweets   : 29.3% at 45/sec for Hartpury
+2017-11-19 08:59:20 Tweets   : 99.9% at 43/sec for HavantSFCollege
+2017-11-19 08:59:43 Tweets   : 99.9% at 40/sec for havering6thform
+2017-11-19 09:00:58 Tweets   : 67% at 43/sec for HayteratLords
+2017-11-19 09:01:00 Friends  : 98.3% at 0/sec for HealthFitnessKC
+2017-11-19 09:01:02 Friends  : 100% at 26/sec for heather_smithUK
+2017-11-19 09:01:06 Tweets   : 100% at 19/sec for HazelBlears2
+2017-11-19 09:01:17 Friends  : 99.2% at 37/sec for HeatherWheeler
+2017-11-19 09:01:40 Friends  : 99.2% at 43/sec for helenapozniak
+2017-11-19 09:01:47 Friends  : 100% at 33/sec for HelenFitzhenry
+2017-11-19 09:02:12 Friends  : 99.6% at 34/sec for HelenGrantMP
+2017-11-19 09:02:26 Tweets   : 27% at 39/sec for hbaldwin
+2017-11-19 09:02:34 Friends  : 99.8% at 40/sec for helenwarrell
+2017-11-19 09:02:51 Friends  : 99% at 42/sec for henleycol
+2017-11-19 09:02:56 Friends  : 95.6% at 21/sec for HenrySmithUK
+2017-11-19 09:03:23 Tweets   : 99.7% at 40/sec for HCFEAdvisers
+2017-11-19 09:03:40 Tweets   : 99.8% at 31/sec for HCUK_Harrogate
+2017-11-19 09:03:52 Friends  : 98.8% at 41/sec for HEPI_news
+2017-11-19 09:03:53 Tweets   : 99.6% at 22/sec for HealthFitnessKC
+2017-11-19 09:04:22 Tweets   : 99.9% at 36/sec for heather_smithUK
+2017-11-19 09:04:30 Friends  : 98.9% at 39/sec for HerefordArtsCol
+2017-11-19 09:04:48 Friends  : 99.7% at 40/sec for HerefordSFC
+2017-11-19 09:05:04 Friends  : 99.3% at 36/sec for HertRegCollege
+2017-11-19 09:05:08 Tweets   : 99.8% at 40/sec for HeatherWheeler
+2017-11-19 09:05:29 Tweets   : 99.8% at 29/sec for helenapozniak
+2017-11-19 09:05:35 Tweets   : 100% at 12/sec for HelenFitzhenry
+2017-11-19 09:05:46 Friends  : 96.8% at 40/sec for HollyLynch5
+2017-11-19 09:05:54 Friends  : 100% at 38/sec for HollyWelham
+2017-11-19 09:05:54 Friends  : Waiting for 10.1 minutes
+2017-11-19 09:06:52 Tweets   : 82.8% at 42/sec for HelenGrantMP
+2017-11-19 09:07:01 Favorites: 50% at 3/sec for Hartpury
+2017-11-19 09:07:07 Favorites: 81.1% at 34/sec for HavantSFCollege
+2017-11-19 09:07:07 Favorites: 100% at 8/sec for havering6thform
+2017-11-19 09:07:08 Favorites: 100% at 10/sec for HayteratLords
+2017-11-19 09:07:08 Favorites: 50% at 2/sec for HazelBlears2
+2017-11-19 09:07:17 Favorites: 58.5% at 45/sec for hbaldwin
+2017-11-19 09:07:24 Favorites: 51.8% at 40/sec for HCFEAdvisers
+2017-11-19 09:07:24 Favorites: User HCUK_Harrogate has a protected account or no Favoritess to collect so skipping
+2017-11-19 09:07:25 Favorites: 100% at 53/sec for HealthFitnessKC
+2017-11-19 09:07:31 Favorites: 90% at 34/sec for heather_smithUK
+2017-11-19 09:07:31 Favorites: 91.7% at 22/sec for HeatherWheeler
+2017-11-19 09:07:34 Tweets   : 99.9% at 40/sec for helenwarrell
+2017-11-19 09:07:34 Favorites: 77.6% at 67/sec for helenapozniak
+2017-11-19 09:07:35 Favorites: 100% at 3/sec for HelenFitzhenry
+2017-11-19 09:07:48 Favorites: 58.6% at 43/sec for HelenGrantMP
+2017-11-19 09:07:50 Favorites: 98.8% at 63/sec for helenwarrell
+2017-11-19 09:08:06 Favorites: 52.2% at 43/sec for henleycol
+2017-11-19 09:08:36 Favorites: 49.6% at 33/sec for HenrySmithUK
+2017-11-19 09:08:43 Favorites: 60.8% at 39/sec for HEPI_news
+2017-11-19 09:08:52 Tweets   : 63.3% at 41/sec for henleycol
+2017-11-19 09:09:12 Favorites: Waiting for 12.2 minutes due to : Used up allowance in a loop
+2017-11-19 09:10:18 Tweets   : 23.8% at 37/sec for HenrySmithUK
+2017-11-19 09:11:21 Tweets   : 72% at 50/sec for HEPI_news
+2017-11-19 09:12:29 Tweets   : 35.6% at 47/sec for HerefordArtsCol
+2017-11-19 09:13:37 Tweets   : 28.4% at 47/sec for HerefordSFC
+2017-11-19 09:14:47 Tweets   : 69% at 45/sec for HertRegCollege
+2017-11-19 09:15:43 Tweets   : 99.8% at 45/sec for HollyLynch5
+2017-11-19 09:16:20 Friends  : 98.8% at 0/sec for HolyCrossBury
+2017-11-19 09:16:23 Tweets   : 100% at 45/sec for HollyWelham
+2017-11-19 09:16:36 Friends  : 99.5% at 40/sec for HOW_College
+2017-11-19 09:16:45 Friends  : 97% at 41/sec for hpoolsfc
+2017-11-19 09:17:10 Friends  : 100% at 38/sec for HTIacademies
+2017-11-19 09:17:36 Tweets   : 60.1% at 44/sec for HolyCrossBury
+2017-11-19 09:17:42 Friends  : 99.4% at 41/sec for HuddlestonNigel
+2017-11-19 09:18:07 Friends  : 98.7% at 37/sec for hullcollegegrp
+2017-11-19 09:18:31 Tweets   : 99.7% at 41/sec for HOW_College
+2017-11-19 09:18:45 Friends  : 99.1% at 42/sec for huw4ogmore
+2017-11-19 09:19:02 Friends  : 97.2% at 37/sec for HywelPlaidCymru
+2017-11-19 09:19:13 Friends  : 99.1% at 39/sec for iainastewart
+2017-11-19 09:19:15 Tweets   : 99.7% at 40/sec for hpoolsfc
+2017-11-19 09:19:58 Tweets   : 99.7% at 37/sec for HTIacademies
+2017-11-19 09:19:59 Friends  : 99.3% at 36/sec for IanAustinMP
+2017-11-19 09:20:10 Friends  : 100% at 39/sec for IanBlackfordMP
+2017-11-19 09:20:49 Friends  : 99.4% at 35/sec for IanCLucas
+2017-11-19 09:21:14 Tweets   : 98.9% at 42/sec for HuddlestonNigel
+2017-11-19 09:21:52 Favorites: 51.8% at 2/sec for HerefordArtsCol
+2017-11-19 09:22:06 Favorites: 49.8% at 35/sec for HerefordSFC
+2017-11-19 09:22:14 Favorites: 68.8% at 37/sec for HertRegCollege
+2017-11-19 09:22:41 Tweets   : 48.8% at 37/sec for hullcollegegrp
+2017-11-19 09:23:05 Favorites: 49.3% at 40/sec for HollyLynch5
+2017-11-19 09:23:06 Favorites: % at /sec for HollyWelham
+2017-11-19 09:23:07 Favorites: 100% at 48/sec for HolyCrossBury
+2017-11-19 09:23:15 Favorites: 63.7% at 37/sec for HOW_College
+2017-11-19 09:23:24 Favorites: 63.3% at 41/sec for hpoolsfc
+2017-11-19 09:23:24 Favorites: 100% at 3/sec for HTIacademies
+2017-11-19 09:23:36 Friends  : 99.4% at 35/sec for IanLaveryMP
+2017-11-19 09:23:55 Favorites: 51.8% at 39/sec for HuddlestonNigel
+2017-11-19 09:24:07 Tweets   : 15.6% at 37/sec for huw4ogmore
+2017-11-19 09:24:14 Favorites: 53.2% at 42/sec for hullcollegegrp
+2017-11-19 09:24:39 Favorites: Waiting for 12 minutes due to : Used up allowance in a loop
+2017-11-19 09:24:45 Friends  : 99.5% at 36/sec for IanMurrayMP
+2017-11-19 09:24:45 Friends  : Waiting for 6.5 minutes
+2017-11-19 09:25:31 Tweets   : 27.5% at 38/sec for HywelPlaidCymru
+2017-11-19 09:26:15 Tweets   : 99.7% at 47/sec for iainastewart
+2017-11-19 09:27:21 Tweets   : 17.9% at 49/sec for IanAustinMP
+2017-11-19 09:28:32 Tweets   : 44.3% at 45/sec for IanBlackfordMP
+2017-11-19 09:29:45 Tweets   : 16.3% at 44/sec for IanCLucas
+2017-11-19 09:30:52 Tweets   : 98.1% at 48/sec for IanLaveryMP
+2017-11-19 09:31:43 Friends  : 98.9% at 1/sec for IanPretty1
+2017-11-19 09:32:03 Tweets   : 42.9% at 45/sec for IanMurrayMP
+2017-11-19 09:32:12 Friends  : 99.4% at 37/sec for idea_award
+2017-11-19 09:32:45 Friends  : 100% at 37/sec for IFL_Members
+2017-11-19 09:33:21 Tweets   : 50.2% at 41/sec for IanPretty1
+2017-11-19 09:34:15 Friends  : 99.4% at 35/sec for imperialcollege
+2017-11-19 09:34:32 Friends  : 98.8% at 41/sec for Imran_HussainMP
+2017-11-19 09:34:34 Tweets   : 73.6% at 43/sec for idea_award
+2017-11-19 09:35:44 Tweets   : 90.5% at 45/sec for IFL_Members
+2017-11-19 09:36:54 Tweets   : 34.2% at 46/sec for imperialcollege
+2017-11-19 09:37:49 Favorites: 43.6% at 4/sec for huw4ogmore
+2017-11-19 09:37:52 Tweets   : 99.4% at 37/sec for Imran_HussainMP
+2017-11-19 09:38:31 Favorites: 50.3% at 47/sec for HywelPlaidCymru
+2017-11-19 09:38:38 Favorites: 62.3% at 44/sec for iainastewart
+2017-11-19 09:38:44 Favorites: 54.8% at 44/sec for IanAustinMP
+2017-11-19 09:39:14 Favorites: 51.1% at 43/sec for IanBlackfordMP
+2017-11-19 09:39:20 Favorites: 75.3% at 36/sec for IanCLucas
+2017-11-19 09:39:21 Favorites: 53.6% at 68/sec for IanLaveryMP
+2017-11-19 09:39:22 Favorites: 100% at 50/sec for IanMurrayMP
+2017-11-19 09:39:42 Favorites: Waiting for 12.2 minutes due to : Used up allowance in a loop
+2017-11-19 09:52:13 Favorites: 51.2% at 1/sec for IanPretty1
+2017-11-19 09:52:34 Favorites: 49.9% at 42/sec for idea_award
+2017-11-19 09:52:37 Favorites: 78.6% at 77/sec for IFL_Members
+2017-11-19 09:53:22 Favorites: 50.4% at 41/sec for imperialcollege
+2017-11-19 09:53:31 Favorites: 60.3% at 45/sec for Imran_HussainMP
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+Warning message:
+package 'twitteR' was built under R version 3.4.1 

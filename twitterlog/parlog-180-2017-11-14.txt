@@ -1,0 +1,177 @@
+starting worker pid=5876 on localhost:11271 at 17:00:55.368
+starting worker pid=2952 on localhost:11271 at 17:00:55.532
+starting worker pid=9408 on localhost:11271 at 17:00:55.698
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-14 17:01:09 Friends  : 100% at 41/sec for platinumlochlev
+2017-11-14 17:01:10 Favorites: 69.4% at 32/sec for platinumlochlev
+2017-11-14 17:01:12 Favorites: 79.4% at 48/sec for Polyframetrade
+2017-11-14 17:01:20 Favorites: 50.2% at 48/sec for prefixsystems
+2017-11-14 17:01:23 Favorites: 50.3% at 46/sec for Premdor
+2017-11-14 17:01:23 Tweets   : 96.4% at 18/sec for platinumlochlev
+2017-11-14 17:01:31 Friends  : 99.7% at 46/sec for Polyframetrade
+2017-11-14 17:01:47 Tweets   : 98.9% at 41/sec for Polyframetrade
+2017-11-14 17:02:04 Favorites: 52.1% at 48/sec for PremierWindows_
+2017-11-14 17:02:26 Favorites: 53.5% at 44/sec for roberts_robbo
+2017-11-14 17:02:27 Favorites: 100% at 23/sec for sashwoodwindows
+2017-11-14 17:02:27 Favorites: 100% at 10/sec for SealtiteGroup
+2017-11-14 17:02:28 Favorites: 100% at 4/sec for SedgefieldWindo
+2017-11-14 17:02:33 Favorites: 69.7% at 38/sec for SGP_Ltd
+2017-11-14 17:02:34 Favorites: 100% at 18/sec for SidcupWindows
+2017-11-14 17:02:36 Friends  : 98.2% at 48/sec for prefixsystems
+2017-11-14 17:02:38 Tweets   : 99.7% at 49/sec for prefixsystems
+2017-11-14 17:02:42 Friends  : 99.7% at 53/sec for Premdor
+2017-11-14 17:02:44 Friends  : 99.1% at 37/sec for PremierWindows_
+2017-11-14 17:03:14 Tweets   : 100% at 51/sec for Premdor
+2017-11-14 17:03:39 Favorites: Waiting for 12.5 minutes due to : Used up allowance in a loop
+2017-11-14 17:04:06 Tweets   : 100% at 53/sec for PremierWindows_
+2017-11-14 17:04:23 Friends  : 97.6% at 49/sec for roberts_robbo
+2017-11-14 17:04:27 Friends  : 100% at 44/sec for sashwoodwindows
+2017-11-14 17:04:45 Friends  : 100% at 45/sec for SealtiteGroup
+2017-11-14 17:04:49 Friends  : 100% at 35/sec for SedgefieldWindo
+2017-11-14 17:04:55 Tweets   : 99.7% at 52/sec for roberts_robbo
+2017-11-14 17:05:03 Tweets   : 100% at 10/sec for sashwoodwindows
+2017-11-14 17:05:16 Friends  : 99.8% at 55/sec for SGP_Ltd
+2017-11-14 17:05:16 Tweets   : 99.7% at 31/sec for SealtiteGroup
+2017-11-14 17:05:21 Friends  : 93.2% at 52/sec for SidcupWindows
+2017-11-14 17:05:23 Tweets   : 100% at 9/sec for SedgefieldWindo
+2017-11-14 17:05:42 Tweets   : 100% at 36/sec for SGP_Ltd
+2017-11-14 17:05:50 Tweets   : 100% at 12/sec for SidcupWindows
+2017-11-14 17:06:48 Tweets   : 10.3% at 55/sec for SkintDad
+2017-11-14 17:07:29 Friends  : 99.5% at 49/sec for SkintDad
+2017-11-14 17:07:50 Tweets   : 89% at 52/sec for SocGlassTech
+2017-11-14 17:08:29 Friends  : 97.9% at 58/sec for SocGlassTech
+2017-11-14 17:08:29 Friends  : Waiting for 6.7 minutes
+2017-11-14 17:08:40 Tweets   : 77% at 64/sec for Solar_Vite
+2017-11-14 17:09:10 Tweets   : 99.5% at 55/sec for SunRoomCeilings
+2017-11-14 17:09:19 Tweets   : 99.5% at 20/sec for sussex_surrey
+2017-11-14 17:09:27 Tweets   : 100% at 11/sec for Sussex_Windows
+2017-11-14 17:09:47 Tweets   : 99.9% at 44/sec for Tickitape
+2017-11-14 17:10:05 Tweets   : 99.8% at 46/sec for TitanTWderby
+2017-11-14 17:10:28 Tweets   : 100% at 50/sec for UKTradeSupplies
+2017-11-14 17:10:45 Tweets   : 99.6% at 42/sec for ukwindowssurrey
+2017-11-14 17:10:58 Tweets   : 99.8% at 40/sec for UniqueWindows
+2017-11-14 17:11:23 Tweets   : 99.8% at 50/sec for UniqueWindowsUK
+2017-11-14 17:11:31 Tweets   : 100% at 17/sec for urban_door
+2017-11-14 17:12:24 Tweets   : 51% at 60/sec for ValueDoorsUK
+2017-11-14 17:12:31 Tweets   : 100% at 4/sec for viewpointfleet
+2017-11-14 17:13:22 Tweets   : 92.4% at 62/sec for Vision_Mags
+2017-11-14 17:13:40 Tweets   : 99.7% at 39/sec for weGlaze_
+2017-11-14 17:13:46 Tweets   : 100% at 65/sec for wimbledonwindow
+2017-11-14 17:13:46 Tweets   : Waiting for 2.5 minutes
+2017-11-14 17:16:09 Favorites: 47.1% at 4/sec for SkintDad
+2017-11-14 17:16:30 Tweets   : 100% at 2/sec for Win_Dor
+2017-11-14 17:16:37 Friends  : 94% at 9/sec for Solar_Vite
+2017-11-14 17:16:41 Favorites: 52.3% at 46/sec for SocGlassTech
+2017-11-14 17:16:46 Favorites: 88.4% at 42/sec for Solar_Vite
+2017-11-14 17:16:48 Friends  : 100% at 47/sec for SunRoomCeilings
+2017-11-14 17:16:49 Favorites: 54.6% at 41/sec for SunRoomCeilings
+2017-11-14 17:16:51 Favorites: 62.1% at 42/sec for sussex_surrey
+2017-11-14 17:16:52 Friends  : 100% at 44/sec for sussex_surrey
+2017-11-14 17:16:52 Favorites: 100% at 4/sec for Sussex_Windows
+2017-11-14 17:16:54 Favorites: 78.1% at 51/sec for Tickitape
+2017-11-14 17:16:56 Friends  : 100% at 41/sec for Sussex_Windows
+2017-11-14 17:16:58 Favorites: 49.5% at 40/sec for TitanTWderby
+2017-11-14 17:17:05 Tweets   : 99.6% at 53/sec for WindowFixBLK
+2017-11-14 17:17:09 Friends  : 95.5% at 47/sec for Tickitape
+2017-11-14 17:17:26 Favorites: 48.6% at 44/sec for UKTradeSupplies
+2017-11-14 17:17:28 Favorites: 58.8% at 43/sec for ukwindowssurrey
+2017-11-14 17:17:29 Favorites: 100% at 16/sec for UniqueWindows
+2017-11-14 17:17:30 Friends  : 97.4% at 51/sec for TitanTWderby
+2017-11-14 17:17:42 Favorites: 58.1% at 47/sec for UniqueWindowsUK
+2017-11-14 17:17:44 Favorites: 66.7% at 47/sec for urban_door
+2017-11-14 17:17:52 Friends  : 97.8% at 51/sec for UKTradeSupplies
+2017-11-14 17:17:57 Tweets   : 99.7% at 52/sec for Windowwidgets
+2017-11-14 17:17:57 Favorites: 55% at 44/sec for ValueDoorsUK
+2017-11-14 17:17:58 Favorites: 100% at 25/sec for viewpointfleet
+2017-11-14 17:18:12 Friends  : 99.8% at 53/sec for ukwindowssurrey
+2017-11-14 17:18:15 Favorites: 50.6% at 47/sec for Vision_Mags
+2017-11-14 17:18:15 Tweets   : 100% at 41/sec for WwUpvc
+2017-11-14 17:18:17 Favorites: 88.5% at 53/sec for weGlaze_
+2017-11-14 17:18:17 Favorites: 100% at 12/sec for wimbledonwindow
+2017-11-14 17:18:18 Favorites: 100% at 36/sec for Win_Dor
+2017-11-14 17:18:28 Friends  : 100% at 47/sec for UniqueWindows
+2017-11-14 17:18:31 Tweets   : 100% at 40/sec for HIES_Scheme
+2017-11-14 17:18:43 Favorites: Waiting for 12.4 minutes due to : Used up allowance in a loop
+2017-11-14 17:18:47 Friends  : 95.3% at 57/sec for UniqueWindowsUK
+2017-11-14 17:18:52 Friends  : 99.5% at 42/sec for urban_door
+2017-11-14 17:19:14 Friends  : 100% at 44/sec for ValueDoorsUK
+2017-11-14 17:19:17 Friends  : 100% at 32/sec for viewpointfleet
+2017-11-14 17:19:34 Tweets   : 87.3% at 50/sec for AlisonParker
+2017-11-14 17:19:54 Tweets   : 99.8% at 44/sec for askewarchitects
+2017-11-14 17:20:03 Friends  : 99% at 54/sec for Vision_Mags
+2017-11-14 17:20:09 Tweets   : 100% at 39/sec for clrhcks
+2017-11-14 17:20:14 Friends  : 100% at 53/sec for weGlaze_
+2017-11-14 17:20:14 Friends  : Waiting for 10 minutes
+2017-11-14 17:20:18 Tweets   : 100% at 18/sec for dremmawilcox
+2017-11-14 17:21:16 Tweets   : 10.8% at 56/sec for Greenhouse_PR
+2017-11-14 17:21:24 Tweets   : 100% at 12/sec for samcrichton3
+2017-11-14 17:22:26 Tweets   : 60.4% at 52/sec for SocEnv_HQ
+2017-11-14 17:23:01 Tweets   : 99.8% at 49/sec for stsmith1975
+2017-11-14 17:23:31 Tweets   : 99.9% at 40/sec for alexiskeech
+2017-11-14 17:24:23 Tweets   : 99.7% at 60/sec for AmberRuddHR
+2017-11-14 17:25:17 Tweets   : 19.4% at 60/sec for AMchatter
+2017-11-14 17:25:44 Tweets   : 100% at 45/sec for ANGETERRY
+2017-11-14 17:25:50 Tweets   : 100% at 0/sec for AngliaFarmers
+2017-11-14 17:26:44 Tweets   : 19.1% at 60/sec for AnglianHome
+2017-11-14 17:27:38 Tweets   : 24.9% at 59/sec for anthonysbaxter
+2017-11-14 17:28:32 Tweets   : 92.3% at 59/sec for AristonUK
+2017-11-14 17:30:17 Friends  : 100% at 0/sec for wimbledonwindow
+2017-11-14 17:30:22 Friends  : 93.9% at 54/sec for Win_Dor
+2017-11-14 17:30:56 Friends  : 99.4% at 52/sec for WindowFixBLK
+2017-11-14 17:31:08 Favorites: 28% at 1/sec for WindowFixBLK
+2017-11-14 17:31:08 Favorites: Waiting for 0 minutes due to : Used up allowance in a loop
+2017-11-14 17:31:36 Friends  : 98.7% at 50/sec for Windowwidgets
+2017-11-14 17:31:40 Favorites: 52.3% at 43/sec for Windowwidgets
+2017-11-14 17:31:40 Favorites: User WwUpvc has a protected account or no Favoritess to collect so skipping
+2017-11-14 17:31:41 Favorites: 97.7% at 39/sec for HIES_Scheme
+2017-11-14 17:31:43 Friends  : 100% at 51/sec for WwUpvc
+2017-11-14 17:31:51 Favorites: 51.3% at 48/sec for AlisonParker
+2017-11-14 17:31:58 Favorites: 69% at 44/sec for askewarchitects
+2017-11-14 17:32:03 Favorites: 70.6% at 41/sec for clrhcks
+2017-11-14 17:32:05 Favorites: 74.1% at 45/sec for dremmawilcox
+2017-11-14 17:32:13 Friends  : 98.5% at 54/sec for HIES_Scheme
+2017-11-14 17:32:45 Friends  : 99.1% at 51/sec for AlisonParker
+2017-11-14 17:32:56 Friends  : 98.4% at 49/sec for askewarchitects
+2017-11-14 17:33:05 Friends  : 100% at 48/sec for clrhcks
+2017-11-14 17:33:06 Favorites: 50.4% at 45/sec for Greenhouse_PR
+2017-11-14 17:33:07 Favorites: 97.2% at 32/sec for samcrichton3
+2017-11-14 17:33:08 Friends  : 97.9% at 46/sec for dremmawilcox
+2017-11-14 17:33:20 Favorites: 58.1% at 48/sec for SocEnv_HQ
+2017-11-14 17:33:26 Favorites: 52.1% at 47/sec for stsmith1975
+2017-11-14 17:33:27 Favorites: 100% at 31/sec for alexiskeech
+2017-11-14 17:33:29 Favorites: 68.5% at 53/sec for AmberRuddHR
+2017-11-14 17:33:49 Favorites: Waiting for 12.3 minutes due to : Used up allowance in a loop
+2017-11-14 17:34:38 Friends  : 99.5% at 55/sec for Greenhouse_PR
+2017-11-14 17:34:44 Friends  : 99.1% at 48/sec for samcrichton3
+2017-11-14 17:35:23 Friends  : 99.6% at 51/sec for SocEnv_HQ
+2017-11-14 17:35:55 Friends  : 97.7% at 50/sec for stsmith1975
+2017-11-14 17:36:01 Friends  : 97% at 56/sec for alexiskeech
+2017-11-14 17:36:02 Friends  : Waiting for 9.3 minutes
+2017-11-14 17:45:58 Friends  : 99.5% at 4/sec for AmberRuddHR
+2017-11-14 17:46:09 Favorites: 42.9% at 1/sec for AMchatter
+2017-11-14 17:46:09 Favorites: Waiting for 0 minutes due to : Used up allowance in a loop
+2017-11-14 17:46:16 Friends  : 99.3% at 48/sec for AMchatter
+2017-11-14 17:46:27 Friends  : 98.5% at 50/sec for ANGETERRY
+2017-11-14 17:46:27 Friends  : User AngliaFarmers has a protected account or no Friendss to collect so skipping
+2017-11-14 17:46:37 Favorites: 53.8% at 46/sec for ANGETERRY
+2017-11-14 17:46:37 Favorites: User AngliaFarmers has a protected account or no Favoritess to collect so skipping
+2017-11-14 17:46:56 Friends  : 99.6% at 49/sec for AnglianHome
+2017-11-14 17:47:00 Favorites: 50.8% at 47/sec for AnglianHome
+2017-11-14 17:47:13 Friends  : 99.6% at 48/sec for anthonysbaxter
+2017-11-14 17:47:27 Friends  : 99.1% at 51/sec for AristonUK
+2017-11-14 17:47:38 Favorites: 49.6% at 47/sec for anthonysbaxter
+2017-11-14 17:47:42 Favorites: 59.9% at 52/sec for AristonUK
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+Warning messages:
+1: package 'twitteR' was built under R version 3.4.1 
+2: In twInterfaceObj$doAPICall(cmd, params, method, ...) :
+  Rate limit encountered & retry limit reached - returning partial results
+3: In twInterfaceObj$doAPICall(cmd, params, method, ...) :
+  Rate limit encountered & retry limit reached - returning partial results
+Warning messages:
+1: package 'twitteR' was built under R version 3.4.1 
+2: In twInterfaceObj$doAPICall(cmd, params, method, ...) :
+  Rate limit encountered & retry limit reached - returning partial results

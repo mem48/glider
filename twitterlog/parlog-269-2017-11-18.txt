@@ -1,0 +1,170 @@
+starting worker pid=10036 on localhost:11271 at 23:20:27.283
+starting worker pid=10140 on localhost:11271 at 23:20:27.447
+starting worker pid=1216 on localhost:11271 at 23:20:27.607
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-18 23:22:35 Friends  : 100% at 41/sec for YorkYoungGreens
+2017-11-18 23:23:36 Friends  : 99% at 30/sec for YoungGreenParty
+2017-11-18 23:23:38 Friends  : 100% at 35/sec for YoungGreensMK
+2017-11-18 23:24:13 Friends  : 100% at 38/sec for zeproject
+2017-11-18 23:24:42 Favorites: 100% at 5/sec for YorkYoungGreens
+2017-11-18 23:25:14 Favorites: 50.3% at 22/sec for YoungGreenParty
+2017-11-18 23:25:14 Favorites: 100% at 13/sec for YoungGreensMK
+2017-11-18 23:25:15 Favorites: 100% at 4/sec for zeproject
+2017-11-18 23:25:53 Favorites: 53% at 36/sec for Zerochamp
+2017-11-18 23:25:56 Favorites: 100% at 5/sec for ZeticaLtd
+2017-11-18 23:25:57 Favorites: 100% at 14/sec for _jess_hall
+2017-11-18 23:26:11 Favorites: 52% at 35/sec for 1SVN
+2017-11-18 23:26:12 Favorites: 76.9% at 44/sec for AberdeenCollege
+2017-11-18 23:26:12 Favorites: 100% at 51/sec for ABridgen
+2017-11-18 23:26:14 Friends  : 99.9% at 32/sec for Zerochamp
+2017-11-18 23:26:46 Favorites: 49% at 34/sec for accrosscollege
+2017-11-18 23:26:55 Favorites: 52.3% at 35/sec for ACERupdate
+2017-11-18 23:26:55 Favorites: 100% at 2/sec for ActionforESOL
+2017-11-18 23:26:56 Favorites: 100% at 13/sec for AdamAfriyie
+2017-11-18 23:26:56 Favorites: 91.7% at 22/sec for AdamSmithCol
+2017-11-18 23:26:56 Friends  : 100% at 30/sec for ZeticaLtd
+2017-11-18 23:27:03 Favorites: 87.7% at 30/sec for Adviza_Careers
+2017-11-18 23:27:12 Tweets   : 99.4% at 17/sec for YorkYoungGreens
+2017-11-18 23:27:23 Friends  : 100% at 28/sec for _jess_hall
+2017-11-18 23:27:30 Friends  : 96.8% at 33/sec for 1SVN
+2017-11-18 23:27:32 Friends  : 100% at 42/sec for AberdeenCollege
+2017-11-18 23:28:05 Favorites: Waiting for 11.6 minutes due to : Used up allowance in a loop
+2017-11-18 23:28:09 Friends  : 99.5% at 32/sec for ABridgen
+2017-11-18 23:28:36 Friends  : 99.8% at 37/sec for accrosscollege
+2017-11-18 23:28:44 Tweets   : 32.5% at 35/sec for YoungGreenParty
+2017-11-18 23:28:49 Friends  : 100% at 38/sec for ACERupdate
+2017-11-18 23:28:50 Tweets   : 100% at 6/sec for YoungGreensMK
+2017-11-18 23:28:54 Friends  : 100% at 28/sec for ActionforESOL
+2017-11-18 23:29:05 Tweets   : 99.7% at 26/sec for zeproject
+2017-11-18 23:29:12 Friends  : 99.1% at 36/sec for AdamAfriyie
+2017-11-18 23:29:24 Friends  : 100% at 35/sec for AdamSmithCol
+2017-11-18 23:29:42 Friends  : 98.6% at 31/sec for Adviza_Careers
+2017-11-18 23:30:24 Tweets   : 38.3% at 40/sec for Zerochamp
+2017-11-18 23:30:54 Friends  : 98.8% at 35/sec for ajcdeane
+2017-11-18 23:31:00 Tweets   : 99.7% at 33/sec for ZeticaLtd
+2017-11-18 23:31:05 Friends  : 100% at 28/sec for alancampbellmp
+2017-11-18 23:31:19 Friends  : 100% at 30/sec for alandavies1
+2017-11-18 23:31:21 Friends  : 97.7% at 31/sec for AlanDuncanMP
+2017-11-18 23:31:21 Friends  : Waiting for 10 minutes
+2017-11-18 23:31:22 Tweets   : 99.8% at 30/sec for _jess_hall
+2017-11-18 23:31:55 Tweets   : 98.8% at 31/sec for 1SVN
+2017-11-18 23:32:05 Tweets   : 98.1% at 16/sec for AberdeenCollege
+2017-11-18 23:32:35 Tweets   : 99.7% at 36/sec for ABridgen
+2017-11-18 23:33:50 Tweets   : 56.8% at 42/sec for accrosscollege
+2017-11-18 23:34:40 Tweets   : 99.8% at 39/sec for ACERupdate
+2017-11-18 23:35:12 Tweets   : 99.1% at 36/sec for ActionforESOL
+2017-11-18 23:35:50 Tweets   : 99.9% at 38/sec for AdamAfriyie
+2017-11-18 23:36:31 Tweets   : 99.3% at 37/sec for AdamSmithCol
+2017-11-18 23:37:49 Tweets   : 43.9% at 41/sec for Adviza_Careers
+2017-11-18 23:39:09 Tweets   : 6.2% at 40/sec for ajcdeane
+2017-11-18 23:39:50 Tweets   : 99.5% at 35/sec for alancampbellmp
+2017-11-18 23:40:26 Favorites: 3.6% at 4/sec for ajcdeane
+2017-11-18 23:40:26 Favorites: 95.7% at 54/sec for alancampbellmp
+2017-11-18 23:40:32 Favorites: 52.3% at 33/sec for alandavies1
+2017-11-18 23:40:33 Favorites: 100% at 32/sec for AlanDuncanMP
+2017-11-18 23:40:39 Favorites: 91.9% at 34/sec for AlbertoCostaMP
+2017-11-18 23:41:16 Tweets   : 21.3% at 37/sec for alandavies1
+2017-11-18 23:41:34 Favorites: 51.2% at 33/sec for AlbertOwenMP
+2017-11-18 23:41:40 Friends  : 97.2% at 0/sec for AlbertoCostaMP
+2017-11-18 23:41:42 Favorites: 68% at 37/sec for AlexChalkChelt
+2017-11-18 23:41:42 Tweets   : 100% at 28/sec for AlanDuncanMP
+2017-11-18 23:42:25 Friends  : 98.8% at 32/sec for AlbertOwenMP
+2017-11-18 23:42:41 Friends  : 99.8% at 31/sec for AlexChalkChelt
+2017-11-18 23:42:44 Tweets   : 99.2% at 32/sec for AlbertoCostaMP
+2017-11-18 23:43:08 Friends  : 99.4% at 36/sec for alicewoolley1
+2017-11-18 23:43:14 Favorites: 26.3% at 35/sec for alicewoolley1
+2017-11-18 23:43:22 Favorites: Waiting for 11.6 minutes due to : Used up allowance in a loop
+2017-11-18 23:44:19 Tweets   : 24.9% at 33/sec for AlbertOwenMP
+2017-11-18 23:44:52 Tweets   : 98.5% at 34/sec for AlexChalkChelt
+2017-11-18 23:46:19 Tweets   : 13.6% at 36/sec for alicewoolley1
+2017-11-18 23:46:20 Friends  : 99% at 32/sec for Alison_McGovern
+2017-11-18 23:47:51 Tweets   : 16.9% at 35/sec for Alison_McGovern
+2017-11-18 23:49:23 Friends  : 98.4% at 29/sec for alisonthewliss
+2017-11-18 23:49:26 Tweets   : 9.8% at 34/sec for alisonthewliss
+2017-11-18 23:49:43 Friends  : 99.3% at 28/sec for AlistairBurtUK
+2017-11-18 23:49:59 Friends  : 99.5% at 26/sec for alsthom
+2017-11-18 23:50:44 Friends  : 98.5% at 30/sec for AlunCairns
+2017-11-18 23:50:56 Friends  : 97.6% at 31/sec for amanda_spielman
+2017-11-18 23:51:02 Tweets   : 39.7% at 33/sec for AlistairBurtUK
+2017-11-18 23:51:28 Friends  : 99.1% at 35/sec for amandamilling
+2017-11-18 23:52:04 Friends  : 98.9% at 33/sec for AmberITVNews
+2017-11-18 23:52:04 Friends  : Waiting for 4.5 minutes
+2017-11-18 23:52:40 Tweets   : 32.9% at 32/sec for alsthom
+2017-11-18 23:54:17 Tweets   : 37.6% at 33/sec for AlunCairns
+2017-11-18 23:54:27 Tweets   : 100% at 12/sec for amanda_spielman
+2017-11-18 23:55:20 Tweets   : 99.5% at 34/sec for amandamilling
+2017-11-18 23:55:50 Favorites: 52% at 2/sec for Alison_McGovern
+2017-11-18 23:56:39 Tweets   : 56.4% at 40/sec for AmberITVNews
+2017-11-18 23:57:15 Favorites: 19.8% at 37/sec for alisonthewliss
+2017-11-18 23:57:40 Favorites: 52% at 32/sec for AlistairBurtUK
+2017-11-18 23:58:05 Tweets   : 23.2% at 37/sec for AmbitiousAutism
+2017-11-18 23:58:36 Favorites: 50.7% at 35/sec for alsthom
+2017-11-18 23:58:41 Favorites: Waiting for 11.6 minutes due to : Used up allowance in a loop
+2017-11-18 23:59:23 Tweets   : 99.8% at 35/sec for amcarmichaelMP
+2017-11-18 23:59:47 Friends  : 99.9% at 13/sec for AmbitiousAutism
+2017-11-19 00:00:16 Tweets   : 99.8% at 34/sec for amy_finch
+2017-11-19 00:00:21 Friends  : 98.5% at 31/sec for amcarmichaelMP
+2017-11-19 00:00:46 Tweets   : 99.5% at 32/sec for AmyLalla
+2017-11-19 00:00:57 Friends  : 98.6% at 32/sec for amy_finch
+2017-11-19 00:01:43 Friends  : 99% at 31/sec for AmyLalla
+2017-11-19 00:02:19 Friends  : 99.2% at 31/sec for Andovercollege
+2017-11-19 00:02:19 Tweets   : 71% at 34/sec for Andovercollege
+2017-11-19 00:03:53 Tweets   : 18.4% at 34/sec for Andrew4Pendle
+2017-11-19 00:04:45 Friends  : 99.3% at 28/sec for Andrew4Pendle
+2017-11-19 00:05:13 Friends  : 99% at 25/sec for AndrewGriffiths
+2017-11-19 00:05:22 Friends  : 98.9% at 31/sec for AndrewSmithOx
+2017-11-19 00:05:26 Tweets   : 25.9% at 34/sec for AndrewGriffiths
+2017-11-19 00:05:54 Tweets   : 100% at 26/sec for AndrewSmithOx
+2017-11-19 00:06:29 Friends  : 98.9% at 28/sec for AndyWWestwood
+2017-11-19 00:07:18 Tweets   : 18.5% at 38/sec for AndyWWestwood
+2017-11-19 00:07:22 Friends  : 98.9% at 28/sec for angelaeagle
+2017-11-19 00:07:30 Friends  : 100% at 32/sec for AngusCollege
+2017-11-19 00:08:45 Tweets   : 24.5% at 37/sec for angelaeagle
+2017-11-19 00:09:13 Tweets   : 99.6% at 32/sec for AngusCollege
+2017-11-19 00:09:21 Friends  : 99% at 33/sec for annaturley
+2017-11-19 00:09:51 Friends  : 97.9% at 33/sec for AnnClwyd
+2017-11-19 00:10:28 Friends  : 98.9% at 30/sec for anncoffey_mp
+2017-11-19 00:10:28 Friends  : Waiting for 1.3 minutes
+2017-11-19 00:10:32 Favorites: 67.8% at 0/sec for AlunCairns
+2017-11-19 00:10:37 Favorites: 79.4% at 23/sec for amanda_spielman
+2017-11-19 00:10:38 Tweets   : 7.9% at 37/sec for annaturley
+2017-11-19 00:10:50 Favorites: 58.9% at 43/sec for amandamilling
+2017-11-19 00:10:56 Favorites: 83% at 34/sec for AmberITVNews
+2017-11-19 00:11:25 Tweets   : 99.8% at 34/sec for AnnClwyd
+2017-11-19 00:11:58 Favorites: 49.3% at 35/sec for AmbitiousAutism
+2017-11-19 00:12:01 Favorites: 77.9% at 67/sec for amcarmichaelMP
+2017-11-19 00:12:12 Favorites: 52.3% at 28/sec for amy_finch
+2017-11-19 00:12:23 Tweets   : 99.4% at 34/sec for anncoffey_mp
+2017-11-19 00:12:26 Favorites: 48.5% at 40/sec for AmyLalla
+2017-11-19 00:12:45 Favorites: 51.7% at 36/sec for Andovercollege
+2017-11-19 00:14:00 Favorites: Waiting for 11.5 minutes due to : Used up allowance in a loop
+2017-11-19 00:14:02 Tweets   : 99.7% at 32/sec for AnneCMcIntosh
+2017-11-19 00:15:09 Tweets   : 99.7% at 33/sec for AnneMarieMorris
+2017-11-19 00:15:24 Friends  : 99.8% at 21/sec for AnneCMcIntosh
+2017-11-19 00:15:46 Friends  : 99.8% at 28/sec for AnneMarieMorris
+2017-11-19 00:16:10 Friends  : 100% at 26/sec for AnneMilton
+2017-11-19 00:16:38 Tweets   : 83.3% at 36/sec for AnneMilton
+2017-11-19 00:17:43 Friends  : 98.9% at 30/sec for annietrev
+2017-11-19 00:18:14 Tweets   : 18.6% at 33/sec for annietrev
+2017-11-19 00:26:05 Favorites: 46.8% at 4/sec for Andrew4Pendle
+2017-11-19 00:26:16 Favorites: 50.8% at 35/sec for AndrewGriffiths
+2017-11-19 00:26:17 Favorites: 68.8% at 72/sec for AndrewSmithOx
+2017-11-19 00:27:05 Favorites: 50.4% at 39/sec for AndyWWestwood
+2017-11-19 00:27:11 Favorites: 68.3% at 37/sec for angelaeagle
+2017-11-19 00:27:11 Favorites: 100% at 5/sec for AngusCollege
+2017-11-19 00:28:33 Favorites: 9.5% at 38/sec for annaturley
+2017-11-19 00:28:40 Favorites: 49.7% at 42/sec for AnnClwyd
+2017-11-19 00:28:42 Favorites: 56% at 68/sec for anncoffey_mp
+2017-11-19 00:28:51 Favorites: Waiting for 11.9 minutes due to : Used up allowance in a loop
+2017-11-19 00:41:11 Favorites: 54.3% at 1/sec for AnneCMcIntosh
+2017-11-19 00:41:15 Favorites: 86.8% at 26/sec for AnneMarieMorris
+2017-11-19 00:41:16 Favorites: 95.2% at 50/sec for AnneMilton
+2017-11-19 00:41:34 Favorites: 53.5% at 39/sec for annietrev
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+Warning message:
+package 'twitteR' was built under R version 3.4.1 

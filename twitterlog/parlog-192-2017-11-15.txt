@@ -1,0 +1,172 @@
+starting worker pid=10356 on localhost:11271 at 06:31:29.610
+starting worker pid=4384 on localhost:11271 at 06:31:29.815
+starting worker pid=9748 on localhost:11271 at 06:31:30.069
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-15 06:32:49 Friends  : 99.5% at 30/sec for Ageing_Better
+2017-11-15 06:33:08 Friends  : 99.7% at 30/sec for Aging_Society
+2017-11-15 06:33:14 Favorites: 50% at 30/sec for Ageing_Better
+2017-11-15 06:33:14 Friends  : 98.6% at 22/sec for Al_Schofield
+2017-11-15 06:33:20 Favorites: 96.1% at 32/sec for Aging_Society
+2017-11-15 06:33:20 Favorites: 100% at 13/sec for Al_Schofield
+2017-11-15 06:33:28 Friends  : 100% at 29/sec for alex_mjs
+2017-11-15 06:33:31 Favorites: 48% at 34/sec for alex_mjs
+2017-11-15 06:33:34 Favorites: 71.7% at 32/sec for alexburghart
+2017-11-15 06:33:41 Favorites: 86.9% at 31/sec for AlisonHolt1
+2017-11-15 06:34:01 Friends  : 98.8% at 32/sec for alexburghart
+2017-11-15 06:34:15 Tweets   : 90.3% at 39/sec for Ageing_Better
+2017-11-15 06:34:22 Favorites: 52.9% at 31/sec for alisonksmith
+2017-11-15 06:34:34 Friends  : 99.8% at 31/sec for AlisonHolt1
+2017-11-15 06:34:34 Favorites: 59.1% at 34/sec for Alliancemag
+2017-11-15 06:34:34 Favorites: 100% at 5/sec for AlyJar
+2017-11-15 06:35:35 Favorites: Waiting for 9.2 minutes due to : Used up allowance in a loop
+2017-11-15 06:35:37 Friends  : 99.2% at 32/sec for alisonksmith
+2017-11-15 06:35:38 Tweets   : 82.1% at 39/sec for Aging_Society
+2017-11-15 06:35:50 Tweets   : 99.3% at 23/sec for Al_Schofield
+2017-11-15 06:35:55 Friends  : 99.9% at 38/sec for Alliancemag
+2017-11-15 06:36:01 Friends  : 100% at 37/sec for AlyJar
+2017-11-15 06:37:06 Tweets   : 14.7% at 42/sec for alex_mjs
+2017-11-15 06:38:33 Tweets   : 86% at 36/sec for alexburghart
+2017-11-15 06:39:51 Tweets   : 99.7% at 38/sec for AlisonHolt1
+2017-11-15 06:40:02 Friends  : 98.6% at 35/sec for Amina_Lone
+2017-11-15 06:40:42 Friends  : 99.3% at 36/sec for andrew_harrop
+2017-11-15 06:41:05 Friends  : 99.8% at 38/sec for AndrewPurkis
+2017-11-15 06:41:22 Friends  : 98.7% at 35/sec for andy_hillier
+2017-11-15 06:41:27 Friends  : 98.5% at 30/sec for andyricketts
+2017-11-15 06:41:27 Friends  : Waiting for 5.6 minutes
+2017-11-15 06:41:28 Tweets   : 18.9% at 33/sec for alisonksmith
+2017-11-15 06:42:43 Tweets   : 36.3% at 43/sec for Alliancemag
+2017-11-15 06:42:53 Tweets   : 99.4% at 17/sec for AlyJar
+2017-11-15 06:44:21 Tweets   : 7.9% at 36/sec for Amina_Lone
+2017-11-15 06:44:48 Favorites: 2.4% at 3/sec for Amina_Lone
+2017-11-15 06:44:48 Favorites: Waiting for 0 minutes due to : Used up allowance in a loop
+2017-11-15 06:45:20 Favorites: 49.1% at 30/sec for andrew_harrop
+2017-11-15 06:45:32 Favorites: 54.5% at 32/sec for AndrewPurkis
+2017-11-15 06:45:44 Favorites: 58.8% at 33/sec for andy_hillier
+2017-11-15 06:45:45 Tweets   : 31.7% at 38/sec for andrew_harrop
+2017-11-15 06:45:45 Favorites: 100% at 4/sec for andyricketts
+2017-11-15 06:45:57 Favorites: 61.7% at 34/sec for andywoodgt
+2017-11-15 06:46:12 Favorites: 55.4% at 34/sec for AnnaBros
+2017-11-15 06:46:14 Favorites: 94.7% at 35/sec for annemariestewa5
+2017-11-15 06:46:21 Favorites: 57.2% at 28/sec for Anti_Slavery
+2017-11-15 06:46:30 Favorites: 54.5% at 34/sec for AntiSlaveryDay
+2017-11-15 06:46:36 Favorites: 81.9% at 32/sec for AoCNorthWest
+2017-11-15 06:47:14 Tweets   : 71.6% at 36/sec for AndrewPurkis
+2017-11-15 06:47:17 Friends  : 96.8% at 1/sec for andywoodgt
+2017-11-15 06:47:18 Favorites: 51% at 32/sec for archiebland
+2017-11-15 06:47:41 Friends  : 99.6% at 34/sec for AnnaBros
+2017-11-15 06:48:03 Tweets   : 99.9% at 35/sec for andy_hillier
+2017-11-15 06:48:09 Friends  : 99.8% at 33/sec for annemariestewa5
+2017-11-15 06:48:27 Tweets   : 99.7% at 33/sec for andyricketts
+2017-11-15 06:48:27 Favorites: 49.4% at 31/sec for asgharlab
+2017-11-15 06:48:33 Favorites: 78.2% at 33/sec for asmithinnotts
+2017-11-15 06:48:35 Favorites: 100% at 37/sec for AvivaPride
+2017-11-15 06:48:35 Favorites: Waiting for 11.2 minutes due to : Used up allowance in a loop
+2017-11-15 06:48:55 Tweets   : 99.9% at 30/sec for andywoodgt
+2017-11-15 06:49:30 Friends  : 99.5% at 37/sec for Anti_Slavery
+2017-11-15 06:49:38 Friends  : 100% at 36/sec for AntiSlaveryDay
+2017-11-15 06:49:52 Friends  : 98.2% at 37/sec for AoCNorthWest
+2017-11-15 06:50:17 Tweets   : 49.3% at 39/sec for AnnaBros
+2017-11-15 06:50:32 Tweets   : 100% at 20/sec for annemariestewa5
+2017-11-15 06:51:36 Friends  : 99.7% at 37/sec for archiebland
+2017-11-15 06:51:57 Tweets   : 26.4% at 38/sec for Anti_Slavery
+2017-11-15 06:52:29 Friends  : 98.4% at 35/sec for asgharlab
+2017-11-15 06:52:45 Friends  : 99.4% at 32/sec for asmithinnotts
+2017-11-15 06:52:55 Friends  : 99.3% at 32/sec for AvivaPride
+2017-11-15 06:53:03 Friends  : 99.6% at 31/sec for Bags_of_Taste
+2017-11-15 06:53:22 Tweets   : 67.1% at 38/sec for AntiSlaveryDay
+2017-11-15 06:54:05 Friends  : 99.9% at 33/sec for bahhumbugs
+2017-11-15 06:54:25 Friends  : 99.4% at 39/sec for bakers39
+2017-11-15 06:54:54 Tweets   : 99.8% at 35/sec for AoCNorthWest
+2017-11-15 06:55:21 Friends  : 99.4% at 40/sec for BarrowCadbury
+2017-11-15 06:55:31 Friends  : 99.5% at 37/sec for BBCCymruFyw
+2017-11-15 06:55:32 Friends  : Waiting for 6.6 minutes
+2017-11-15 06:56:10 Tweets   : 10.4% at 42/sec for archiebland
+2017-11-15 06:57:37 Tweets   : 45.4% at 36/sec for asgharlab
+2017-11-15 06:58:20 Tweets   : 99.2% at 38/sec for asmithinnotts
+2017-11-15 06:58:53 Tweets   : 99.7% at 39/sec for AvivaPride
+2017-11-15 06:59:14 Tweets   : 99.7% at 32/sec for Bags_of_Taste
+2017-11-15 06:59:53 Favorites: 69.4% at 0/sec for Bags_of_Taste
+2017-11-15 07:00:00 Favorites: 63.6% at 30/sec for bahhumbugs
+2017-11-15 07:00:03 Favorites: 66.9% at 31/sec for bakers39
+2017-11-15 07:00:12 Favorites: 62.2% at 32/sec for BarrowCadbury
+2017-11-15 07:00:21 Favorites: 64.7% at 33/sec for BBCCymruFyw
+2017-11-15 07:00:22 Favorites: 92.6% at 19/sec for BBCfileon4
+2017-11-15 07:00:24 Favorites: 97.7% at 35/sec for BBCNewsNI
+2017-11-15 07:00:27 Favorites: 100% at 25/sec for BBCNormanS
+2017-11-15 07:00:30 Favorites: 86.7% at 33/sec for bbcquestiontime
+2017-11-15 07:00:33 Tweets   : 23.8% at 40/sec for bahhumbugs
+2017-11-15 07:01:06 Tweets   : 98.9% at 31/sec for bakers39
+2017-11-15 07:02:05 Favorites: 10.1% at 33/sec for bbcthree
+2017-11-15 07:02:18 Friends  : 99.5% at 1/sec for BBCfileon4
+2017-11-15 07:02:18 Favorites: 57.3% at 30/sec for BBCWalesNews
+2017-11-15 07:02:29 Tweets   : 71.2% at 39/sec for BarrowCadbury
+2017-11-15 07:02:42 Favorites: 49.2% at 33/sec for BBCWiltshire
+2017-11-15 07:02:44 Favorites: 97.5% at 31/sec for becgray2
+2017-11-15 07:02:57 Friends  : 99.6% at 36/sec for BBCNewsNI
+2017-11-15 07:03:06 Favorites: 50.5% at 32/sec for beckymbarrow
+2017-11-15 07:03:28 Friends  : 99.9% at 34/sec for BBCNormanS
+2017-11-15 07:03:33 Favorites: Waiting for 11.3 minutes due to : Used up allowance in a loop
+2017-11-15 07:03:41 Friends  : 99.6% at 35/sec for bbcquestiontime
+2017-11-15 07:03:51 Tweets   : 4.1% at 39/sec for BBCCymruFyw
+2017-11-15 07:04:43 Tweets   : 99.9% at 39/sec for BBCfileon4
+2017-11-15 07:05:56 Tweets   : 3.6% at 44/sec for BBCNewsNI
+2017-11-15 07:07:15 Tweets   : 14.1% at 40/sec for BBCNormanS
+2017-11-15 07:08:42 Tweets   : 19.3% at 37/sec for bbcquestiontime
+2017-11-15 07:10:09 Tweets   : 4.9% at 37/sec for bbcthree
+2017-11-15 07:10:50 Friends  : 100% at 33/sec for bbcthree
+2017-11-15 07:10:59 Friends  : 99.3% at 36/sec for BBCWalesNews
+2017-11-15 07:11:26 Friends  : 99.1% at 35/sec for BBCWiltshire
+2017-11-15 07:11:37 Tweets   : 7% at 36/sec for BBCWalesNews
+2017-11-15 07:11:59 Friends  : 99.8% at 38/sec for becgray2
+2017-11-15 07:12:16 Friends  : 99.7% at 35/sec for beckymbarrow
+2017-11-15 07:12:39 Friends  : 99.3% at 33/sec for belfastnomad
+2017-11-15 07:12:56 Tweets   : 5.7% at 40/sec for BBCWiltshire
+2017-11-15 07:13:21 Tweets   : 100% at 30/sec for becgray2
+2017-11-15 07:14:25 Friends  : 99.7% at 34/sec for BendyGirl
+2017-11-15 07:14:28 Tweets   : 100% at 34/sec for beckymbarrow
+2017-11-15 07:14:41 Friends  : 99.9% at 43/sec for BenendenUK
+2017-11-15 07:14:45 Friends  : 98.7% at 36/sec for Benjerama82
+2017-11-15 07:14:45 Friends  : Waiting for 2.4 minutes
+2017-11-15 07:15:39 Favorites: 49.4% at 3/sec for belfastnomad
+2017-11-15 07:15:45 Tweets   : 47.3% at 42/sec for belfastnomad
+2017-11-15 07:16:52 Favorites: 49.3% at 35/sec for BendyGirl
+2017-11-15 07:17:08 Tweets   : 2.9% at 39/sec for BendyGirl
+2017-11-15 07:17:25 Friends  : 100% at 3/sec for beth_hurrell
+2017-11-15 07:17:25 Favorites: 53.6% at 32/sec for BenendenUK
+2017-11-15 07:17:26 Favorites: 100% at 28/sec for Benjerama82
+2017-11-15 07:17:26 Friends  : 100% at 23/sec for bex_pritchard
+2017-11-15 07:17:29 Favorites: 55.1% at 33/sec for beth_hurrell
+2017-11-15 07:17:32 Favorites: 100% at 32/sec for bex_pritchard
+2017-11-15 07:17:44 Friends  : 97.2% at 37/sec for biancarobinson
+2017-11-15 07:18:08 Friends  : 99.5% at 36/sec for Bill_Davies_87
+2017-11-15 07:18:34 Favorites: Waiting for 11.3 minutes due to : Used up allowance in a loop
+2017-11-15 07:18:38 Tweets   : 43.7% at 36/sec for BenendenUK
+2017-11-15 07:19:04 Friends  : 99.4% at 39/sec for birminghammail
+2017-11-15 07:19:06 Tweets   : 99.8% at 33/sec for Benjerama82
+2017-11-15 07:19:31 Friends  : 99% at 37/sec for BITC_Education
+2017-11-15 07:19:48 Tweets   : 99.9% at 36/sec for beth_hurrell
+2017-11-15 07:19:55 Friends  : 100% at 37/sec for blsocialwelfare
+2017-11-15 07:20:03 Tweets   : 99.7% at 21/sec for bex_pritchard
+2017-11-15 07:20:08 Friends  : 96.9% at 38/sec for BoEYorkshire
+2017-11-15 07:21:37 Tweets   : 35% at 34/sec for biancarobinson
+2017-11-15 07:22:25 Tweets   : 99.6% at 39/sec for Bill_Davies_87
+2017-11-15 07:23:41 Tweets   : 1.6% at 43/sec for birminghammail
+2017-11-15 07:24:27 Tweets   : 99.9% at 33/sec for BITC_Education
+2017-11-15 07:25:12 Tweets   : 99.9% at 36/sec for blsocialwelfare
+2017-11-15 07:25:27 Tweets   : 100% at 29/sec for BoEYorkshire
+2017-11-15 07:30:28 Favorites: 36% at 4/sec for biancarobinson
+2017-11-15 07:30:31 Favorites: 76.9% at 32/sec for Bill_Davies_87
+2017-11-15 07:30:48 Favorites: 52.2% at 35/sec for birminghammail
+2017-11-15 07:30:53 Favorites: 58.1% at 37/sec for BITC_Education
+2017-11-15 07:30:55 Favorites: 100% at 38/sec for blsocialwelfare
+2017-11-15 07:30:57 Favorites: 52.6% at 36/sec for BoEYorkshire
+Warning message:
+Warning messages:
+as built under R version 3.4.1 
+1: package 'twitteR' was built under R version 3.4.1 
+2: In twInterfaceObj$doAPICall(cmd, params, method, ...) :
+  Rate limit encountered & retry limit reached - returning partial results
+Warning message:
+package 'twitteR' was built under R version 3.4.1 

@@ -1,0 +1,175 @@
+starting worker pid=14056 on localhost:11271 at 11:32:30.448
+starting worker pid=14272 on localhost:11271 at 11:32:30.618
+starting worker pid=14576 on localhost:11271 at 11:32:30.797
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-15 11:33:42 Friends  : 99% at 38/sec for HampdenThompson
+2017-11-15 11:33:58 Favorites: 56.7% at 35/sec for HampdenThompson
+2017-11-15 11:34:09 Favorites: 52.1% at 38/sec for HannahGousy
+2017-11-15 11:34:09 Friends  : 99.3% at 37/sec for HannahGousy
+2017-11-15 11:34:09 Favorites: 90.9% at 18/sec for HannahOGrady
+2017-11-15 11:34:10 Favorites: 100% at 8/sec for HannahTitley
+2017-11-15 11:34:27 Friends  : 99.9% at 40/sec for HannahOGrady
+2017-11-15 11:34:31 Friends  : 100% at 29/sec for HannahTitley
+2017-11-15 11:34:45 Friends  : 98.2% at 36/sec for HarrietWoodcock
+2017-11-15 11:35:00 Favorites: 50.8% at 42/sec for HarrietWoodcock
+2017-11-15 11:35:07 Friends  : 99% at 35/sec for harry_qp
+2017-11-15 11:35:10 Favorites: 56.7% at 38/sec for harry_qp
+2017-11-15 11:35:12 Favorites: Waiting for 9.8 minutes due to : Used up allowance in a loop
+2017-11-15 11:35:25 Friends  : 98% at 40/sec for Heath_Monk
+2017-11-15 11:35:27 Tweets   : 31.1% at 44/sec for HampdenThompson
+2017-11-15 11:35:52 Friends  : 98.6% at 45/sec for HebdenTownHall
+2017-11-15 11:35:56 Friends  : 97.9% at 36/sec for Helen_Whately
+2017-11-15 11:35:59 Tweets   : 99.9% at 40/sec for HannahGousy
+2017-11-15 11:36:19 Tweets   : 99.4% at 40/sec for HannahOGrady
+2017-11-15 11:36:24 Friends  : 97.8% at 44/sec for henrimurison
+2017-11-15 11:36:30 Tweets   : 100% at 25/sec for HannahTitley
+2017-11-15 11:36:54 Friends  : 100% at 43/sec for heraldscotland
+2017-11-15 11:37:02 Friends  : 100% at 36/sec for hilarybennmp
+2017-11-15 11:37:39 Tweets   : 96.9% at 46/sec for HarrietWoodcock
+2017-11-15 11:37:56 Friends  : 98.6% at 38/sec for HLHEtheridge
+2017-11-15 11:38:33 Tweets   : 99.6% at 40/sec for harry_qp
+2017-11-15 11:38:37 Friends  : 99.1% at 36/sec for HolyroodLiam
+2017-11-15 11:38:54 Friends  : 98% at 34/sec for holyroodmandy
+2017-11-15 11:38:54 Friends  : Waiting for 9.2 minutes
+2017-11-15 11:39:18 Tweets   : 99.5% at 42/sec for Heath_Monk
+2017-11-15 11:40:29 Tweets   : 40.9% at 45/sec for HebdenTownHall
+2017-11-15 11:41:10 Tweets   : 99.9% at 43/sec for Helen_Whately
+2017-11-15 11:42:17 Tweets   : 99.6% at 40/sec for henrimurison
+2017-11-15 11:43:29 Tweets   : 2.7% at 45/sec for heraldscotland
+2017-11-15 11:44:33 Tweets   : 77.5% at 50/sec for hilarybennmp
+2017-11-15 11:45:08 Favorites: 53.4% at 0/sec for Heath_Monk
+2017-11-15 11:45:43 Favorites: 52.3% at 34/sec for HebdenTownHall
+2017-11-15 11:45:46 Favorites: 76.9% at 38/sec for Helen_Whately
+2017-11-15 11:46:09 Tweets   : 9.3% at 33/sec for HLHEtheridge
+2017-11-15 11:46:16 Favorites: 50.9% at 36/sec for henrimurison
+2017-11-15 11:46:21 Favorites: 60.1% at 40/sec for heraldscotland
+2017-11-15 11:46:24 Favorites: 78.7% at 36/sec for hilarybennmp
+2017-11-15 11:47:40 Tweets   : 24% at 35/sec for HolyroodLiam
+2017-11-15 11:47:54 Favorites: 7.2% at 35/sec for HLHEtheridge
+2017-11-15 11:48:32 Favorites: Waiting for 11.5 minutes due to : Used up allowance in a loop
+2017-11-15 11:49:08 Friends  : 99% at 3/sec for HolyroodTom
+2017-11-15 11:49:15 Tweets   : 9.9% at 34/sec for holyroodmandy
+[1] "Server error: (500) Internal Server Error"
+[1] "This error is likely transient, retrying up to 5 more times ..."
+2017-11-15 11:50:23 Friends  : 98.8% at 32/sec for HomesForGood
+2017-11-15 11:50:32 Friends  : 97.1% at 26/sec for HopkinsonJim
+2017-11-15 11:50:55 Tweets   : 22.4% at 32/sec for HolyroodTom
+2017-11-15 11:51:57 Tweets   : 99.9% at 39/sec for HomesForGood
+2017-11-15 11:52:34 Tweets   : 99.9% at 36/sec for HopkinsonJim
+2017-11-15 11:53:14 Friends  : 99.1% at 37/sec for HowarthsLaw
+2017-11-15 11:53:15 Friends  : 100% at 7/sec for hrmagazine
+2017-11-15 11:53:48 Friends  : 97.4% at 41/sec for HullRePublic
+2017-11-15 11:53:51 Tweets   : 93.6% at 41/sec for HowarthsLaw
+2017-11-15 11:54:58 Tweets   : 14.2% at 48/sec for hrmagazine
+2017-11-15 11:56:08 Friends  : 97.3% at 40/sec for Hyvast
+2017-11-15 11:56:11 Tweets   : 10.5% at 43/sec for HullRePublic
+2017-11-15 11:57:18 Friends  : 98.7% at 44/sec for IanMearnsMP
+2017-11-15 11:57:23 Friends  : 99.1% at 45/sec for IBTimesUKBiz
+2017-11-15 11:57:27 Tweets   : 5% at 42/sec for Hyvast
+2017-11-15 11:58:24 Friends  : 100% at 46/sec for ideas4thefuture
+2017-11-15 11:58:32 Tweets   : 19.6% at 49/sec for IanMearnsMP
+2017-11-15 11:58:44 Friends  : 99.6% at 48/sec for iealondon
+2017-11-15 11:58:44 Friends  : Waiting for 4.5 minutes
+2017-11-15 11:59:34 Tweets   : 14% at 52/sec for IBTimesUKBiz
+2017-11-15 12:00:02 Favorites: 37% at 2/sec for HolyroodLiam
+2017-11-15 12:00:11 Favorites: 60% at 46/sec for holyroodmandy
+2017-11-15 12:00:31 Favorites: 52.1% at 43/sec for HolyroodTom
+2017-11-15 12:00:41 Tweets   : 0.4% at 47/sec for ideas4thefuture
+2017-11-15 12:00:54 Favorites: 54% at 47/sec for HomesForGood
+2017-11-15 12:01:00 Favorites: 51.4% at 46/sec for HopkinsonJim
+2017-11-15 12:01:09 Favorites: 57.4% at 45/sec for HowarthsLaw
+2017-11-15 12:01:17 Favorites: 56.1% at 46/sec for hrmagazine
+2017-11-15 12:01:21 Favorites: 80.5% at 47/sec for HullRePublic
+2017-11-15 12:01:44 Tweets   : 21.7% at 51/sec for iealondon
+2017-11-15 12:02:30 Favorites: 19.9% at 47/sec for Hyvast
+2017-11-15 12:02:40 Favorites: Waiting for 12.4 minutes due to : Used up allowance in a loop
+2017-11-15 12:02:56 Tweets   : 3.4% at 45/sec for ImmyKaur
+2017-11-15 12:03:42 Tweets   : 99.9% at 38/sec for improvserv
+2017-11-15 12:04:45 Tweets   : 14.3% at 51/sec for inclusionist
+2017-11-15 12:06:00 Tweets   : 30.4% at 43/sec for InclusionScot
+2017-11-15 12:07:17 Tweets   : 80.1% at 41/sec for indep_lives
+2017-11-15 12:08:24 Tweets   : 22.7% at 48/sec for InfoDailyNews
+2017-11-15 12:09:19 Friends  : 98.9% at 24/sec for ImmyKaur
+2017-11-15 12:09:23 Friends  : 97.3% at 45/sec for improvserv
+2017-11-15 12:09:41 Tweets   : 7.8% at 42/sec for informed_edu
+2017-11-15 12:09:49 Friends  : 98.5% at 44/sec for inclusionist
+2017-11-15 12:10:04 Friends  : 98% at 45/sec for InclusionScot
+2017-11-15 12:10:16 Tweets   : 100% at 47/sec for interkatie
+2017-11-15 12:10:44 Friends  : 98.5% at 48/sec for indep_lives
+2017-11-15 12:10:49 Friends  : 100% at 31/sec for InfoDailyNews
+2017-11-15 12:11:27 Tweets   : 81.4% at 45/sec for iris_elliott
+2017-11-15 12:12:47 Tweets   : 34.5% at 40/sec for isaby
+2017-11-15 12:13:54 Tweets   : 100% at 48/sec for iseressex
+2017-11-15 12:14:43 Friends  : 98.7% at 43/sec for informed_edu
+2017-11-15 12:15:11 Tweets   : 62% at 41/sec for ITVTonight
+2017-11-15 12:15:12 Favorites: 49.5% at 1/sec for IanMearnsMP
+2017-11-15 12:15:12 Favorites: 100% at 21/sec for IBTimesUKBiz
+2017-11-15 12:15:13 Favorites: 92.3% at 44/sec for ideas4thefuture
+2017-11-15 12:15:16 Friends  : 99.1% at 45/sec for interkatie
+2017-11-15 12:15:18 Favorites: 63.7% at 44/sec for iealondon
+2017-11-15 12:15:29 Tweets   : 100% at 26/sec for jacquiedale
+2017-11-15 12:15:33 Friends  : 98.6% at 42/sec for iris_elliott
+2017-11-15 12:16:13 Friends  : 98.7% at 41/sec for isaby
+2017-11-15 12:16:13 Friends  : Waiting for 2.1 minutes
+2017-11-15 12:16:31 Favorites: 4.5% at 44/sec for ImmyKaur
+2017-11-15 12:16:33 Favorites: 100% at 45/sec for improvserv
+2017-11-15 12:16:36 Tweets   : 71.4% at 47/sec for JamiePolitics
+2017-11-15 12:17:42 Favorites: 21% at 46/sec for inclusionist
+2017-11-15 12:17:42 Favorites: Waiting for 12.3 minutes due to : Used up allowance in a loop
+2017-11-15 12:17:46 Tweets   : 43.2% at 46/sec for janemansour
+2017-11-15 12:18:46 Friends  : 99.3% at 8/sec for iseressex
+2017-11-15 12:18:59 Tweets   : 33.7% at 44/sec for JasonRosam
+2017-11-15 12:19:22 Friends  : 99.4% at 44/sec for ITVTonight
+2017-11-15 12:19:28 Friends  : 100% at 37/sec for jacquiedale
+2017-11-15 12:20:10 Tweets   : 27.9% at 45/sec for JavedKhanCEO
+2017-11-15 12:20:32 Friends  : 99.7% at 42/sec for JamiePolitics
+2017-11-15 12:20:54 Friends  : 97.8% at 43/sec for janemansour
+2017-11-15 12:21:27 Tweets   : 46.8% at 42/sec for jdeanknight
+2017-11-15 12:21:35 Friends  : 99% at 49/sec for JasonRosam
+2017-11-15 12:21:56 Friends  : 99.5% at 51/sec for JavedKhanCEO
+2017-11-15 12:22:04 Friends  : 99.2% at 50/sec for jdeanknight
+2017-11-15 12:22:19 Friends  : 99.5% at 50/sec for jehangirmalik
+2017-11-15 12:22:39 Tweets   : 35.9% at 44/sec for jehangirmalik
+2017-11-15 12:22:59 Friends  : 99.2% at 50/sec for Jen_CarnegieUK
+2017-11-15 12:23:23 Friends  : 98.3% at 42/sec for jenniferpanting
+2017-11-15 12:23:35 Friends  : 99.5% at 47/sec for jenniviitanen
+2017-11-15 12:23:47 Friends  : 99.7% at 47/sec for JennyBloomfield
+2017-11-15 12:23:52 Tweets   : 72.4% at 44/sec for Jen_CarnegieUK
+2017-11-15 12:25:03 Tweets   : 84.2% at 45/sec for jenniferpanting
+2017-11-15 12:26:10 Tweets   : 85.7% at 48/sec for jenniviitanen
+Error in twInterfaceObj$doAPICall(cmd, params, method, ...) : 
+  Service Unavailable (HTTP 503).
+In addition: Warning message:
+package 'twitteR' was built under R version 3.4.1 
+2017-11-15 12:26:16 Tweets: Unable to find account JennyBloomfield moving to next
+2017-11-15 12:26:16 Tweets   : % at /sec for JennyBloomfield
+2017-11-15 12:30:11 Favorites: 55.7% at 1/sec for InclusionScot
+2017-11-15 12:30:29 Favorites: 49.4% at 48/sec for indep_lives
+2017-11-15 12:30:31 Favorites: 63.1% at 54/sec for InfoDailyNews
+2017-11-15 12:31:37 Favorites: 14.5% at 49/sec for informed_edu
+2017-11-15 12:31:53 Favorites: 51.5% at 49/sec for interkatie
+2017-11-15 12:32:17 Favorites: 53.5% at 48/sec for iris_elliott
+2017-11-15 12:32:34 Favorites: Waiting for 12.5 minutes due to : Used up allowance in a loop
+2017-11-15 12:45:14 Favorites: 49.2% at 2/sec for isaby
+2017-11-15 12:45:18 Favorites: 75.3% at 50/sec for iseressex
+2017-11-15 12:45:37 Favorites: 49.9% at 48/sec for ITVTonight
+2017-11-15 12:45:37 Favorites: 90% at 13/sec for jacquiedale
+2017-11-15 12:45:44 Favorites: 57% at 47/sec for JamiePolitics
+2017-11-15 12:46:34 Favorites: 50.2% at 49/sec for janemansour
+2017-11-15 12:46:45 Favorites: 52.4% at 48/sec for JasonRosam
+2017-11-15 12:47:37 Favorites: Waiting for 12.4 minutes due to : Used up allowance in a loop
+2017-11-15 13:00:09 Favorites: 48.9% at 3/sec for JavedKhanCEO
+2017-11-15 13:00:24 Favorites: 51.3% at 50/sec for jdeanknight
+2017-11-15 13:00:41 Favorites: 51.5% at 49/sec for jehangirmalik
+2017-11-15 13:00:57 Favorites: 53.8% at 48/sec for Jen_CarnegieUK
+2017-11-15 13:01:15 Favorites: 49.5% at 48/sec for jenniferpanting
+2017-11-15 13:01:21 Favorites: 49.3% at 49/sec for jenniviitanen
+2017-11-15 13:01:25 Favorites: 67.9% at 49/sec for JennyBloomfield
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+Warning messages:
+1: package 'twitteR' was built under R version 3.4.1 
+2: In twInterfaceObj$doAPICall(cmd, params, method, ...) :
+  Rate limit encountered & retry limit reached - returning partial results

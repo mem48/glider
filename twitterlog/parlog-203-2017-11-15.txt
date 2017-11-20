@@ -1,0 +1,172 @@
+starting worker pid=9260 on localhost:11271 at 21:33:25.598
+starting worker pid=11864 on localhost:11271 at 21:33:25.761
+starting worker pid=6672 on localhost:11271 at 21:33:25.922
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-15 21:34:20 Friends  : 99.8% at 30/sec for TUCEquality
+2017-11-15 21:34:36 Friends  : 99.6% at 35/sec for TUCnews
+2017-11-15 21:34:48 Favorites: 81.7% at 24/sec for TUCEquality
+2017-11-15 21:34:52 Favorites: 68.5% at 23/sec for TUCnews
+2017-11-15 21:34:52 Friends  : 98.9% at 38/sec for TUCNorthWest
+2017-11-15 21:34:54 Favorites: 97.1% at 22/sec for TUCNorthWest
+2017-11-15 21:34:54 Favorites: User tweetminster has a protected account or no Favoritess to collect so skipping
+2017-11-15 21:36:09 Favorites: 24.9% at 43/sec for ty_goddard
+2017-11-15 21:36:11 Favorites: 100% at 28/sec for unherd
+2017-11-15 21:36:15 Favorites: 82.2% at 45/sec for uni_scot
+2017-11-15 21:36:15 Favorites: User unionnewswire has a protected account or no Favoritess to collect so skipping
+2017-11-15 21:36:24 Tweets   : 99.7% at 42/sec for TUCEquality
+2017-11-15 21:36:51 Favorites: 49.5% at 44/sec for unisontweets
+2017-11-15 21:36:59 Favorites: 62.3% at 38/sec for urbantweetUK
+2017-11-15 21:37:01 Favorites: 50.5% at 46/sec for VanessaOnAir
+2017-11-15 21:37:09 Favorites: 58.9% at 40/sec for vasnews
+2017-11-15 21:37:09 Favorites: Waiting for 9.2 minutes due to : Used up allowance in a loop
+2017-11-15 21:37:34 Tweets   : 51.9% at 47/sec for TUCnews
+2017-11-15 21:38:06 Friends  : 100% at 44/sec for tweetminster
+2017-11-15 21:38:47 Tweets   : 57.2% at 44/sec for TUCNorthWest
+[1] "Server error: (500) Internal Server Error"
+[1] "This error is likely transient, retrying up to 5 more times ..."
+2017-11-15 21:39:18 Friends  : 98.1% at 42/sec for ty_goddard
+2017-11-15 21:39:20 Friends  : 96.5% at 21/sec for unherd
+2017-11-15 21:39:45 Friends  : 98.7% at 40/sec for uni_scot
+2017-11-15 21:39:51 Friends  : 100% at 33/sec for unionnewswire
+2017-11-15 21:40:03 Tweets   : 13.3% at 42/sec for tweetminster
+2017-11-15 21:40:53 Friends  : 99.1% at 44/sec for unisontweets
+2017-11-15 21:41:06 Tweets   : 45.5% at 51/sec for ty_goddard
+2017-11-15 21:41:21 Friends  : 99.8% at 47/sec for urbantweetUK
+2017-11-15 21:41:35 Tweets   : 99.9% at 47/sec for unherd
+2017-11-15 21:42:29 Friends  : 100% at 44/sec for VanessaOnAir
+2017-11-15 21:42:39 Tweets   : 48.3% at 50/sec for uni_scot
+2017-11-15 21:42:47 Friends  : 98.1% at 44/sec for vasnews
+2017-11-15 21:42:47 Friends  : Waiting for 6.4 minutes
+2017-11-15 21:43:41 Tweets   : 28.2% at 52/sec for unionnewswire
+2017-11-15 21:44:53 Tweets   : 10.1% at 44/sec for unisontweets
+2017-11-15 21:45:51 Tweets   : 68.1% at 55/sec for urbantweetUK
+2017-11-15 21:46:50 Tweets   : 43.3% at 54/sec for VanessaOnAir
+2017-11-15 21:47:31 Favorites: 5.2% at 5/sec for vickybeeching
+2017-11-15 21:47:45 Tweets   : 99.9% at 50/sec for vasnews
+2017-11-15 21:48:12 Favorites: 47.4% at 42/sec for voicesthatSHAKE
+2017-11-15 21:48:16 Favorites: 71.8% at 43/sec for VONNENews
+2017-11-15 21:48:50 Tweets   : 6% at 49/sec for vickybeeching
+2017-11-15 21:49:08 Favorites: Waiting for 12.2 minutes due to : Used up allowance in a loop
+2017-11-15 21:49:57 Tweets   : 22.4% at 47/sec for voicesthatSHAKE
+2017-11-15 21:50:55 Tweets   : 75.8% at 55/sec for VONNENews
+2017-11-15 21:51:57 Tweets   : 8.2% at 51/sec for wake_uk
+2017-11-15 21:52:59 Tweets   : 2.1% at 51/sec for WalesOnline
+2017-11-15 21:54:11 Tweets   : 8.7% at 44/sec for Welfare_Weekly
+2017-11-15 21:55:15 Tweets   : 35.7% at 50/sec for WendyPMitchell
+2017-11-15 21:56:22 Tweets   : 3.9% at 48/sec for wesstreeting
+2017-11-15 21:56:43 Tweets   : 99.5% at 39/sec for wheelywonky
+2017-11-15 21:57:52 Tweets   : 3.2% at 47/sec for WhoseShoes
+2017-11-15 21:58:48 Tweets   : 99.7% at 47/sec for Wigdortz
+2017-11-15 21:59:58 Tweets   : 12.1% at 45/sec for WindleshamRich
+2017-11-15 22:01:00 Tweets   : 1.1% at 52/sec for WingsScotland
+2017-11-15 22:01:11 Friends  : 98.9% at 28/sec for vickybeeching
+2017-11-15 22:01:44 Friends  : 98.8% at 45/sec for voicesthatSHAKE
+2017-11-15 22:01:45 Favorites: 39.4% at 4/sec for wake_uk
+2017-11-15 22:02:08 Friends  : 98.6% at 44/sec for VONNENews
+2017-11-15 22:02:11 Favorites: 52% at 34/sec for WalesOnline
+2017-11-15 22:02:11 Tweets   : 6.1% at 45/sec for Wonkypolicywonk
+2017-11-15 22:02:13 Favorites: 82.5% at 47/sec for Welfare_Weekly
+2017-11-15 22:02:36 Friends  : 99.4% at 48/sec for wake_uk
+2017-11-15 22:03:11 Friends  : 99.9% at 43/sec for WalesOnline
+2017-11-15 22:03:23 Tweets   : 25.4% at 44/sec for workingfamUK
+2017-11-15 22:03:30 Favorites: 20.8% at 42/sec for WendyPMitchell
+2017-11-15 22:03:32 Tweets   : 99.3% at 15/sec for YF_Matt
+2017-11-15 22:03:36 Friends  : 99.9% at 46/sec for Welfare_Weekly
+2017-11-15 22:03:59 Friends  : 99.2% at 42/sec for WendyPMitchell
+2017-11-15 22:04:17 Favorites: Waiting for 12.1 minutes due to : Used up allowance in a loop
+2017-11-15 22:04:42 Tweets   : 99.7% at 42/sec for YorkBikeBelles
+2017-11-15 22:05:40 Tweets   : 46% at 55/sec for YorkStJohn
+2017-11-15 22:06:02 Tweets   : 100% at 44/sec for YouGovCam
+2017-11-15 22:06:32 Tweets   : 99.4% at 41/sec for YoungGasteiners
+2017-11-15 22:06:39 Friends  : 99.2% at 49/sec for wesstreeting
+2017-11-15 22:06:42 Friends  : 100% at 51/sec for wheelywonky
+2017-11-15 22:06:46 Tweets   : 100% at 31/sec for your_climate
+2017-11-15 22:06:52 Friends  : 3% at 50/sec for WhoseShoes
+2017-11-15 22:06:59 Friends  : 98.6% at 41/sec for Wigdortz
+2017-11-15 22:07:02 Tweets   : 100% at 35/sec for ysjequality
+2017-11-15 22:07:23 Tweets   : 99.9% at 45/sec for YUMIYork
+2017-11-15 22:07:36 Friends  : 98.7% at 52/sec for WindleshamRich
+2017-11-15 22:07:41 Friends  : 99% at 44/sec for WingsScotland
+2017-11-15 22:07:48 Friends  : 99.4% at 50/sec for Wonkypolicywonk
+2017-11-15 22:08:13 Friends  : 98.6% at 56/sec for workingfamUK
+2017-11-15 22:08:17 Friends  : 100% at 43/sec for YF_Matt
+2017-11-15 22:08:28 Tweets   : 30.4% at 49/sec for YWTrust
+2017-11-15 22:08:46 Friends  : 97.9% at 52/sec for YorkBikeBelles
+2017-11-15 22:08:58 Friends  : 99.4% at 53/sec for YorkStJohn
+2017-11-15 22:09:16 Friends  : 99.9% at 45/sec for YouGovCam
+2017-11-15 22:09:32 Friends  : 99.9% at 53/sec for YoungGasteiners
+2017-11-15 22:09:38 Tweets   : 13.4% at 46/sec for Yyadiloh
+2017-11-15 22:09:44 Friends  : 100% at 54/sec for your_climate
+2017-11-15 22:09:48 Tweets   : 99.4% at 17/sec for AbbeyPynfordFS
+2017-11-15 22:09:49 Friends  : 98.9% at 55/sec for ysjequality
+2017-11-15 22:09:54 Friends  : 99% at 40/sec for YUMIYork
+2017-11-15 22:09:54 Friends  : Waiting for 11.8 minutes
+2017-11-15 22:09:56 Tweets   : 99.2% at 14/sec for AGSArchiServs
+2017-11-15 22:10:19 Tweets   : 99.6% at 35/sec for AlexFordpc
+2017-11-15 22:10:45 Tweets   : 100% at 39/sec for AllDoneDesign
+2017-11-15 22:11:39 Tweets   : 99.7% at 39/sec for andy_studs
+2017-11-15 22:11:51 Tweets   : 100% at 13/sec for AndyTaylorMagic
+2017-11-15 22:11:57 Tweets   : 100% at 1/sec for ashbrookhomesuk
+2017-11-15 22:12:50 Tweets   : 99.5% at 37/sec for AssociatedA
+2017-11-15 22:13:00 Tweets   : 100% at 15/sec for Atelier3Ltd
+2017-11-15 22:14:24 Tweets   : 34.2% at 38/sec for BarnsleyCouncil
+2017-11-15 22:15:57 Tweets   : 44.3% at 34/sec for bdp_com
+2017-11-15 22:16:20 Tweets   : 99.7% at 27/sec for BerniciaGroup
+2017-11-15 22:16:34 Favorites: 14.8% at 3/sec for wesstreeting
+2017-11-15 22:16:43 Favorites: 55.9% at 34/sec for wheelywonky
+2017-11-15 22:17:08 Tweets   : 99.6% at 33/sec for bespokebuilders
+2017-11-15 22:18:21 Favorites: 4.6% at 33/sec for WhoseShoes
+2017-11-15 22:18:24 Favorites: 60.6% at 33/sec for Wigdortz
+2017-11-15 22:19:55 Favorites: 49.1% at 34/sec for WindleshamRich
+2017-11-15 22:19:58 Favorites: Waiting for 11.4 minutes due to : Used up allowance in a loop
+2017-11-15 22:22:45 Friends  : 98.5% at 3/sec for YWTrust
+2017-11-15 22:23:33 Friends  : 99% at 41/sec for Yyadiloh
+2017-11-15 22:23:45 Friends  : 99.8% at 37/sec for AbbeyPynfordFS
+2017-11-15 22:23:50 Friends  : 99.5% at 33/sec for AGSArchiServs
+2017-11-15 22:23:53 Friends  : 96.4% at 33/sec for AlexFordpc
+2017-11-15 22:23:59 Friends  : 88.5% at 35/sec for AllDoneDesign
+2017-11-15 22:24:21 Friends  : 97.9% at 39/sec for andy_studs
+2017-11-15 22:24:27 Friends  : 99.5% at 29/sec for AndyTaylorMagic
+2017-11-15 22:24:28 Friends  : 90.9% at 17/sec for ashbrookhomesuk
+2017-11-15 22:24:40 Friends  : 98.4% at 36/sec for AssociatedA
+2017-11-15 22:24:45 Friends  : 100% at 27/sec for Atelier3Ltd
+2017-11-15 22:25:53 Friends  : 99.5% at 38/sec for BarnsleyCouncil
+2017-11-15 22:26:04 Friends  : 99.3% at 38/sec for bdp_com
+2017-11-15 22:26:22 Friends  : 99% at 38/sec for BerniciaGroup
+2017-11-15 22:27:16 Friends  : 99.9% at 37/sec for bespokebuilders
+2017-11-15 22:32:56 Favorites: 17.4% at 4/sec for WingsScotland
+2017-11-15 22:34:34 Favorites: 24.1% at 33/sec for Wonkypolicywonk
+2017-11-15 22:35:05 Favorites: 53.4% at 33/sec for workingfamUK
+2017-11-15 22:35:05 Favorites: Waiting for 11.3 minutes due to : Used up allowance in a loop
+2017-11-15 22:46:27 Favorites: 100% at 0/sec for YF_Matt
+2017-11-15 22:47:00 Favorites: 53.3% at 33/sec for YorkBikeBelles
+2017-11-15 22:47:23 Favorites: 49.9% at 33/sec for YorkStJohn
+2017-11-15 22:47:23 Favorites: 100% at 6/sec for YouGovCam
+2017-11-15 22:47:37 Favorites: 54.8% at 35/sec for YoungGasteiners
+2017-11-15 22:47:37 Favorites: 100% at 11/sec for your_climate
+2017-11-15 22:47:41 Favorites: 57.8% at 25/sec for ysjequality
+2017-11-15 22:47:42 Favorites: 100% at 38/sec for YUMIYork
+2017-11-15 22:48:17 Favorites: 52.5% at 34/sec for YWTrust
+2017-11-15 22:49:33 Favorites: 44% at 42/sec for Yyadiloh
+2017-11-15 22:49:35 Favorites: 61.7% at 45/sec for AbbeyPynfordFS
+2017-11-15 22:49:35 Favorites: Waiting for 11.9 minutes due to : Used up allowance in a loop
+2017-11-15 23:01:38 Favorites: 96.8% at 0/sec for AGSArchiServs
+2017-11-15 23:01:51 Favorites: 51.6% at 46/sec for AlexFordpc
+2017-11-15 23:01:54 Favorites: 37.9% at 30/sec for AllDoneDesign
+2017-11-15 23:02:48 Favorites: 49.6% at 44/sec for andy_studs
+2017-11-15 23:02:50 Favorites: 59.5% at 49/sec for AndyTaylorMagic
+2017-11-15 23:02:50 Favorites: 100% at 6/sec for ashbrookhomesuk
+2017-11-15 23:02:57 Favorites: 56.4% at 46/sec for AssociatedA
+2017-11-15 23:02:58 Favorites: 100% at 26/sec for Atelier3Ltd
+2017-11-15 23:03:19 Favorites: 52.4% at 43/sec for BarnsleyCouncil
+2017-11-15 23:03:32 Favorites: 53.4% at 47/sec for bdp_com
+2017-11-15 23:03:45 Favorites: 52.6% at 44/sec for BerniciaGroup
+2017-11-15 23:03:47 Favorites: 67.9% at 43/sec for bespokebuilders
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+Warning message:
+package 'twitteR' was built under R version 3.4.1 

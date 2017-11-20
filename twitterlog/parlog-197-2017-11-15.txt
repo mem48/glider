@@ -1,0 +1,174 @@
+starting worker pid=12536 on localhost:11271 at 13:02:38.795
+starting worker pid=14904 on localhost:11271 at 13:02:38.961
+starting worker pid=11652 on localhost:11271 at 13:02:39.126
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-15 13:03:24 Friends  : 98.1% at 35/sec for JessicaLennard
+2017-11-15 13:03:53 Friends  : 102.8% at 40/sec for JezzaNeumann
+2017-11-15 13:04:09 Favorites: 49% at 37/sec for JessicaLennard
+2017-11-15 13:04:10 Favorites: 93.3% at 28/sec for JezzaNeumann
+2017-11-15 13:04:15 Favorites: 73.3% at 42/sec for Jimcoleman33
+2017-11-15 13:04:20 Friends  : 99.8% at 41/sec for Jimcoleman33
+2017-11-15 13:04:58 Favorites: 48.1% at 41/sec for jmalexander1982
+2017-11-15 13:04:59 Favorites: 100% at 5/sec for JoanConcannon
+2017-11-15 13:05:01 Favorites: 70.4% at 44/sec for JoBibbyTHF
+2017-11-15 13:05:03 Favorites: Waiting for 10 minutes due to : Used up allowance in a loop
+2017-11-15 13:05:28 Tweets   : 33.9% at 45/sec for JessicaLennard
+2017-11-15 13:05:29 Friends  : 99.7% at 41/sec for jmalexander1982
+2017-11-15 13:05:31 Friends  : 100% at 30/sec for JoanConcannon
+2017-11-15 13:05:34 Friends  : 98.9% at 28/sec for JoBibbyTHF
+2017-11-15 13:05:38 Friends  : 96.6% at 38/sec for JOHNDLEWIS54
+2017-11-15 13:05:56 Tweets   : 99.2% at 43/sec for JezzaNeumann
+2017-11-15 13:06:24 Friends  : 99.2% at 41/sec for JohnnyCov
+2017-11-15 13:06:33 Friends  : 100% at 33/sec for JohnSentamu
+2017-11-15 13:07:05 Tweets   : 51.2% at 46/sec for Jimcoleman33
+2017-11-15 13:07:05 Friends  : 99.1% at 37/sec for JohnSwallow4
+2017-11-15 13:08:15 Tweets   : 14.4% at 46/sec for jmalexander1982
+2017-11-15 13:08:38 Tweets   : 100% at 32/sec for JoanConcannon
+2017-11-15 13:08:51 Friends  : 99.7% at 43/sec for johnycassidy
+2017-11-15 13:08:57 Friends  : 99% at 37/sec for JonathanEley
+2017-11-15 13:09:23 Tweets   : 100% at 42/sec for JoBibbyTHF
+2017-11-15 13:09:52 Friends  : 99.6% at 39/sec for jonathanflowers
+2017-11-15 13:09:58 Friends  : 98.9% at 29/sec for jonathanpow
+2017-11-15 13:10:30 Friends  : 98.3% at 34/sec for JonWilcox_
+2017-11-15 13:10:30 Friends  : Waiting for 7.8 minutes
+2017-11-15 13:10:30 Tweets   : 4.8% at 48/sec for JOHNDLEWIS54
+2017-11-15 13:11:34 Tweets   : 8.9% at 44/sec for JohnnyCov
+2017-11-15 13:12:38 Tweets   : 48.3% at 50/sec for JohnSentamu
+2017-11-15 13:13:46 Tweets   : 86.7% at 47/sec for JohnSwallow4
+2017-11-15 13:14:57 Tweets   : 9% at 45/sec for johnycassidy
+2017-11-15 13:16:05 Tweets   : 39.1% at 47/sec for JonathanEley
+2017-11-15 13:16:15 Favorites: 26.7% at 5/sec for JOHNDLEWIS54
+2017-11-15 13:17:18 Favorites: 49.8% at 44/sec for JohnnyCov
+2017-11-15 13:17:18 Favorites: 100% at 15/sec for JohnSentamu
+2017-11-15 13:17:19 Tweets   : 15.6% at 43/sec for jonathanflowers
+2017-11-15 13:17:49 Favorites: Waiting for 12.3 minutes due to : Used up allowance in a loop
+2017-11-15 13:18:15 Tweets   : 100% at 45/sec for jonathanpow
+2017-11-15 13:19:03 Friends  : 99.1% at 3/sec for jopyrah
+2017-11-15 13:19:27 Tweets   : 24.5% at 44/sec for JonWilcox_
+2017-11-15 13:19:32 Friends  : 97% at 43/sec for JosephSurtees
+2017-11-15 13:19:35 Friends  : 100% at 36/sec for JRF_ilse
+2017-11-15 13:19:37 Friends  : 100% at 31/sec for jrfRachel
+2017-11-15 13:19:50 Friends  : 99.1% at 42/sec for JRFShaun
+2017-11-15 13:19:55 Friends  : 99.1% at 38/sec for JudyRob9
+2017-11-15 13:20:01 Friends  : 99.2% at 42/sec for JuliaHB1
+2017-11-15 13:20:46 Tweets   : 19.7% at 41/sec for jopyrah
+2017-11-15 13:21:56 Tweets   : 38.4% at 45/sec for JosephSurtees
+2017-11-15 13:22:08 Tweets   : 100% at 23/sec for JRF_ilse
+2017-11-15 13:22:12 Friends  : 98.2% at 37/sec for JuliaHines
+2017-11-15 13:22:14 Tweets   : 100% at 4/sec for jrfRachel
+2017-11-15 13:22:31 Tweets   : 99.6% at 29/sec for JRFShaun
+2017-11-15 13:22:34 Friends  : 99.3% at 33/sec for JuliaRuane
+2017-11-15 13:22:50 Tweets   : 100% at 32/sec for JudyRob9
+2017-11-15 13:23:07 Friends  : 99% at 43/sec for juliebentley
+2017-11-15 13:23:45 Friends  : 98.4% at 42/sec for JustFairUK
+2017-11-15 13:24:09 Tweets   : 4.5% at 41/sec for JuliaHB1
+2017-11-15 13:24:32 Friends  : 99% at 42/sec for karenwhatever
+2017-11-15 13:24:35 Friends  : 96.6% at 26/sec for KateT109
+2017-11-15 13:24:41 Friends  : 99.5% at 33/sec for katewilkinson
+2017-11-15 13:25:20 Tweets   : 6.7% at 45/sec for JuliaHines
+2017-11-15 13:26:18 Tweets   : 99% at 40/sec for JuliaRuane
+2017-11-15 13:26:29 Friends  : 98.5% at 38/sec for katewilloughby8
+2017-11-15 13:26:29 Friends  : Waiting for 6.8 minutes
+2017-11-15 13:27:29 Tweets   : 19.8% at 45/sec for juliebentley
+2017-11-15 13:28:43 Tweets   : 55.3% at 44/sec for JustFairUK
+2017-11-15 13:29:53 Tweets   : 41.5% at 46/sec for karenwhatever
+2017-11-15 13:30:00 Tweets   : 98.8% at 11/sec for KateT109
+2017-11-15 13:30:16 Tweets   : 100% at 29/sec for katewilkinson
+2017-11-15 13:30:44 Favorites: 43.5% at 4/sec for JohnSwallow4
+2017-11-15 13:31:25 Favorites: 50.4% at 44/sec for johnycassidy
+2017-11-15 13:31:30 Tweets   : 12.6% at 43/sec for katewilloughby8
+2017-11-15 13:31:32 Favorites: 51.9% at 46/sec for JonathanEley
+2017-11-15 13:32:18 Tweets   : 99.7% at 39/sec for katie_boswell
+2017-11-15 13:32:35 Favorites: 50.3% at 45/sec for jonathanflowers
+2017-11-15 13:32:43 Favorites: 57.2% at 46/sec for jonathanpow
+2017-11-15 13:32:46 Favorites: Waiting for 12.3 minutes due to : Used up allowance in a loop
+2017-11-15 13:33:13 Tweets   : 99.9% at 42/sec for KatieAllenGdn
+2017-11-15 13:33:35 Tweets   : 99.9% at 39/sec for KatyJones88
+2017-11-15 13:33:53 Tweets   : 99.8% at 35/sec for Kayte_Lawton
+2017-11-15 13:33:56 Friends  : 98.2% at 3/sec for katie_boswell
+2017-11-15 13:34:37 Friends  : 99.6% at 37/sec for KatieAllenGdn
+2017-11-15 13:34:59 Friends  : 98.9% at 42/sec for KatyJones88
+2017-11-15 13:35:05 Tweets   : 67.9% at 45/sec for KeithAubrey
+2017-11-15 13:35:52 Friends  : 99.7% at 40/sec for Kayte_Lawton
+2017-11-15 13:36:30 Tweets   : 35.2% at 38/sec for KeithBrownSNP
+2017-11-15 13:36:34 Friends  : 99.2% at 38/sec for KeithAubrey
+2017-11-15 13:36:49 Friends  : 98.1% at 34/sec for KeithBrownSNP
+2017-11-15 13:37:35 Tweets   : 5.4% at 49/sec for KerronCross
+2017-11-15 13:37:55 Friends  : 99.3% at 35/sec for KerronCross
+2017-11-15 13:38:54 Tweets   : 47.4% at 41/sec for kindlingtrust
+2017-11-15 13:39:35 Tweets   : 99.7% at 41/sec for kirkbydj
+2017-11-15 13:39:38 Friends  : 99.7% at 38/sec for kindlingtrust
+2017-11-15 13:40:00 Friends  : 99.6% at 33/sec for kirkbydj
+2017-11-15 13:40:45 Tweets   : 52.3% at 45/sec for kirstystyles1
+2017-11-15 13:41:24 Friends  : 98.7% at 43/sec for kirstystyles1
+2017-11-15 13:41:44 Friends  : 98.9% at 46/sec for KlockworksKate
+2017-11-15 13:42:08 Tweets   : 98.7% at 39/sec for KlockworksKate
+2017-11-15 13:42:09 Friends  : 98.5% at 43/sec for KofTheTriffids
+2017-11-15 13:42:56 Friends  : 99.5% at 40/sec for kritikalyork
+2017-11-15 13:43:18 Friends  : 99.5% at 38/sec for KTrebeck
+2017-11-15 13:43:21 Tweets   : 58.3% at 44/sec for KofTheTriffids
+2017-11-15 13:43:40 Friends  : 98.9% at 44/sec for LAHFArtsHealth
+2017-11-15 13:43:40 Friends  : Waiting for 4.8 minutes
+2017-11-15 13:44:32 Tweets   : 64.1% at 45/sec for kritikalyork
+2017-11-15 13:45:45 Tweets   : 37.6% at 44/sec for KTrebeck
+2017-11-15 13:46:15 Favorites: 43% at 4/sec for JonWilcox_
+2017-11-15 13:46:49 Favorites: 50.9% at 46/sec for jopyrah
+2017-11-15 13:47:01 Tweets   : 30.9% at 42/sec for LAHFArtsHealth
+2017-11-15 13:47:15 Tweets   : 99% at 23/sec for LanaNorthey
+2017-11-15 13:47:29 Favorites: 51.9% at 44/sec for JosephSurtees
+2017-11-15 13:47:29 Favorites: 100% at 8/sec for JRF_ilse
+2017-11-15 13:47:30 Favorites: 100% at 9/sec for jrfRachel
+2017-11-15 13:47:31 Favorites: 100% at 31/sec for JRFShaun
+2017-11-15 13:47:32 Favorites: 100% at 47/sec for JudyRob9
+2017-11-15 13:47:44 Favorites: Waiting for 12.4 minutes due to : Used up allowance in a loop
+2017-11-15 13:48:24 Tweets   : 55% at 46/sec for laurabillings
+2017-11-15 13:48:45 Friends  : 99.7% at 3/sec for LanaNorthey
+2017-11-15 13:49:10 Tweets   : 99.9% at 42/sec for lauracgardiner
+2017-11-15 13:50:04 Friends  : 99.5% at 39/sec for laurabillings
+2017-11-15 13:50:25 Friends  : 99.9% at 37/sec for lauracgardiner
+2017-11-15 13:50:33 Tweets   : 77.1% at 39/sec for LawCentreNI
+2017-11-15 13:51:01 Friends  : 99.2% at 49/sec for LawCentreNI
+2017-11-15 13:51:32 Friends  : 99% at 45/sec for LawCentres
+2017-11-15 13:51:47 Tweets   : 26% at 43/sec for LawCentres
+2017-11-15 14:00:06 Favorites: 3.6% at 1/sec for JuliaHB1
+2017-11-15 14:00:06 Favorites: Waiting for 0 minutes due to : Used up allowance in a loop
+2017-11-15 14:00:11 Favorites: 84% at 37/sec for JuliaHines
+2017-11-15 14:00:33 Favorites: 49.8% at 43/sec for JuliaRuane
+2017-11-15 14:01:12 Favorites: 51.6% at 46/sec for juliebentley
+2017-11-15 14:01:19 Favorites: 55% at 44/sec for JustFairUK
+2017-11-15 14:01:36 Favorites: 50.4% at 46/sec for karenwhatever
+2017-11-15 14:01:38 Favorites: 98% at 50/sec for KateT109
+2017-11-15 14:01:39 Favorites: 100% at 31/sec for katewilkinson
+2017-11-15 14:02:48 Favorites: Waiting for 12.3 minutes due to : Used up allowance in a loop
+2017-11-15 14:15:09 Favorites: 42.1% at 4/sec for katewilloughby8
+2017-11-15 14:15:13 Favorites: 50.9% at 48/sec for katie_boswell
+2017-11-15 14:15:24 Favorites: 50.4% at 44/sec for KatieAllenGdn
+2017-11-15 14:15:40 Favorites: 54.9% at 43/sec for KatyJones88
+2017-11-15 14:15:41 Favorites: 96.4% at 34/sec for Kayte_Lawton
+2017-11-15 14:15:52 Favorites: 50.3% at 45/sec for KeithAubrey
+2017-11-15 14:15:56 Favorites: 72.3% at 43/sec for KeithBrownSNP
+2017-11-15 14:16:03 Favorites: 69.6% at 43/sec for KerronCross
+2017-11-15 14:16:26 Favorites: 52.5% at 43/sec for kindlingtrust
+2017-11-15 14:16:34 Favorites: 57.8% at 46/sec for kirkbydj
+2017-11-15 14:16:46 Favorites: 58.9% at 41/sec for kirstystyles1
+2017-11-15 14:17:10 Favorites: 49.8% at 41/sec for KlockworksKate
+2017-11-15 14:17:47 Favorites: 50.6% at 45/sec for KofTheTriffids
+2017-11-15 14:17:54 Favorites: Waiting for 12.2 minutes due to : Used up allowance in a loop
+2017-11-15 14:30:13 Favorites: 54.9% at 1/sec for kritikalyork
+2017-11-15 14:30:41 Favorites: 52.5% at 41/sec for KTrebeck
+2017-11-15 14:31:11 Favorites: 52.5% at 41/sec for LAHFArtsHealth
+2017-11-15 14:31:12 Favorites: 97.1% at 37/sec for LanaNorthey
+2017-11-15 14:31:17 Favorites: 51.2% at 41/sec for laurabillings
+2017-11-15 14:31:18 Favorites: 100% at 3/sec for lauracgardiner
+2017-11-15 14:31:23 Favorites: 53.6% at 43/sec for LawCentreNI
+2017-11-15 14:32:00 Favorites: 52.1% at 42/sec for LawCentres
+Warning messages:
+1: package 'twitteR' was built under R version 3.4.1 
+2: In twInterfaceObj$doAPICall(cmd, params, method, ...) :
+  Rate limit encountered & retry limit reached - returning partial results
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+Warning message:
+package 'twitteR' was built under R version 3.4.1 

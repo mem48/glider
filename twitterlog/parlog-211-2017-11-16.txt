@@ -1,0 +1,169 @@
+starting worker pid=2040 on localhost:11271 at 06:26:55.337
+starting worker pid=14352 on localhost:11271 at 06:26:55.493
+starting worker pid=15056 on localhost:11271 at 06:26:55.650
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-16 06:28:19 Friends  : 97.6% at 34/sec for MerthyrRanter
+2017-11-16 06:28:23 Friends  : 96.3% at 33/sec for Met_Notts
+2017-11-16 06:29:22 Friends  : 93.5% at 36/sec for MGP_Ltd
+2017-11-16 06:29:32 Friends  : 96.9% at 42/sec for MHRD_13
+2017-11-16 06:29:51 Friends  : 98.8% at 39/sec for Michael_Jary
+2017-11-16 06:29:54 Favorites: 40.5% at 37/sec for MerthyrRanter
+2017-11-16 06:29:55 Favorites: 94.1% at 27/sec for Met_Notts
+2017-11-16 06:30:03 Favorites: 81.9% at 26/sec for MGP_Ltd
+2017-11-16 06:30:07 Friends  : 97.5% at 38/sec for mickeyhynes
+2017-11-16 06:30:08 Favorites: 52.1% at 38/sec for MHRD_13
+2017-11-16 06:30:12 Favorites: 75.9% at 47/sec for Michael_Jary
+2017-11-16 06:30:18 Friends  : 98.8% at 36/sec for mickkent2
+2017-11-16 06:30:31 Friends  : 98.3% at 35/sec for migrationwork
+2017-11-16 06:30:36 Friends  : 99% at 43/sec for MirrorMoney
+2017-11-16 06:30:42 Tweets   : 28.5% at 40/sec for MerthyrRanter
+2017-11-16 06:30:53 Friends  : 99.2% at 37/sec for mja_owl
+2017-11-16 06:31:00 Tweets   : 99.8% at 33/sec for Met_Notts
+2017-11-16 06:31:02 Friends  : 99.7% at 38/sec for mollyannepass
+2017-11-16 06:31:13 Favorites: Waiting for 8.3 minutes due to : Used up allowance in a loop
+2017-11-16 06:31:34 Friends  : 99.2% at 40/sec for mollybish0p
+2017-11-16 06:32:04 Friends  : 99.1% at 39/sec for mosscarehg
+2017-11-16 06:32:11 Tweets   : 87.2% at 45/sec for MGP_Ltd
+2017-11-16 06:32:12 Friends  : 99.4% at 37/sec for MoveMakerApp
+2017-11-16 06:32:15 Friends  : 252.8% at 39/sec for MrsFlickH
+2017-11-16 06:32:16 Friends  : Waiting for 10.5 minutes
+2017-11-16 06:32:50 Tweets   : 99.7% at 42/sec for MHRD_13
+2017-11-16 06:33:15 Tweets   : 100% at 38/sec for Michael_Jary
+2017-11-16 06:34:25 Tweets   : 18.6% at 46/sec for mickeyhynes
+2017-11-16 06:35:32 Tweets   : 75.6% at 48/sec for mickkent2
+2017-11-16 06:35:48 Tweets   : 100% at 34/sec for migrationwork
+2017-11-16 06:36:57 Tweets   : 13.8% at 47/sec for MirrorMoney
+2017-11-16 06:38:10 Tweets   : 65.2% at 44/sec for mja_owl
+2017-11-16 06:38:33 Tweets   : 99.5% at 34/sec for mollyannepass
+2017-11-16 06:39:08 Tweets   : 100% at 38/sec for mollybish0p
+2017-11-16 06:39:33 Tweets   : 99.3% at 41/sec for mosscarehg
+2017-11-16 06:39:45 Tweets   : 100% at 30/sec for MoveMakerApp
+2017-11-16 06:39:53 Tweets   : 100% at 14/sec for MrsFlickH
+2017-11-16 06:39:56 Favorites: 29.2% at 5/sec for mickeyhynes
+2017-11-16 06:40:11 Favorites: 51.8% at 46/sec for mickkent2
+2017-11-16 06:40:13 Favorites: 81.3% at 42/sec for migrationwork
+2017-11-16 06:40:15 Favorites: 98.2% at 28/sec for MirrorMoney
+2017-11-16 06:40:22 Favorites: 65.3% at 46/sec for mja_owl
+2017-11-16 06:40:30 Favorites: 56.6% at 44/sec for mollyannepass
+2017-11-16 06:40:48 Tweets   : 99.7% at 46/sec for Mubin_Haq
+2017-11-16 06:40:49 Favorites: 53% at 43/sec for mollybish0p
+2017-11-16 06:40:56 Favorites: 57.9% at 43/sec for mosscarehg
+2017-11-16 06:40:57 Favorites: 78.7% at 63/sec for MoveMakerApp
+2017-11-16 06:40:59 Favorites: 73.5% at 45/sec for MrsFlickH
+2017-11-16 06:41:04 Favorites: 58.3% at 42/sec for Mubin_Haq
+2017-11-16 06:41:11 Favorites: 51.9% at 41/sec for MyWakefield
+2017-11-16 06:41:18 Favorites: 67.6% at 47/sec for natashamay24
+2017-11-16 06:41:20 Favorites: 97.6% at 36/sec for NCBuildingCo
+2017-11-16 06:41:57 Tweets   : 18% at 46/sec for MyWakefield
+2017-11-16 06:42:01 Favorites: 51.7% at 44/sec for NCFsharon
+2017-11-16 06:42:27 Tweets   : 99.7% at 35/sec for natashamay24
+2017-11-16 06:42:28 Favorites: Waiting for 12.2 minutes due to : Used up allowance in a loop
+2017-11-16 06:42:43 Tweets   : 99.4% at 30/sec for NCBuildingCo
+2017-11-16 06:43:27 Friends  : 99% at 1/sec for Mubin_Haq
+2017-11-16 06:44:01 Friends  : 99.2% at 37/sec for MyWakefield
+2017-11-16 06:44:08 Tweets   : 30.2% at 37/sec for NCFsharon
+2017-11-16 06:44:14 Friends  : 99.8% at 37/sec for natashamay24
+2017-11-16 06:44:19 Friends  : 100% at 33/sec for NCBuildingCo
+2017-11-16 06:44:59 Friends  : 96.4% at 36/sec for NCFsharon
+2017-11-16 06:45:18 Tweets   : 33.9% at 46/sec for Neogeta82
+2017-11-16 06:45:25 Friends  : 99.1% at 32/sec for Neogeta82
+2017-11-16 06:46:22 Tweets   : 6.3% at 50/sec for NetworkBolton
+2017-11-16 06:47:43 Tweets   : 80.8% at 40/sec for networkhomesuk
+2017-11-16 06:48:25 Tweets   : 100% at 35/sec for NewlonHT
+2017-11-16 06:49:04 Friends  : 100% at 38/sec for NetworkBolton
+2017-11-16 06:49:32 Friends  : 98.3% at 45/sec for networkhomesuk
+2017-11-16 06:49:36 Tweets   : 50.4% at 45/sec for NHFederation
+2017-11-16 06:49:41 Friends  : 95.9% at 45/sec for NewlonHT
+2017-11-16 06:50:11 Friends  : 100% at 42/sec for NHFederation
+2017-11-16 06:50:47 Friends  : 99.4% at 46/sec for nhsalliance
+2017-11-16 06:50:49 Tweets   : 26.6% at 44/sec for nhsalliance
+2017-11-16 06:50:53 Friends  : 97.3% at 44/sec for nicston
+2017-11-16 06:51:00 Friends  : 97.3% at 49/sec for NorthDorset
+2017-11-16 06:51:10 Friends  : 98.7% at 44/sec for OC_MattA
+2017-11-16 06:51:10 Friends  : Waiting for 7 minutes
+2017-11-16 06:51:26 Tweets   : 99.2% at 39/sec for nicston
+2017-11-16 06:51:40 Tweets   : 100% at 28/sec for NorthDorset
+2017-11-16 06:51:54 Tweets   : 100% at 29/sec for OC_MattA
+2017-11-16 06:53:03 Tweets   : 55.8% at 46/sec for oliie678
+2017-11-16 06:54:10 Tweets   : 33.8% at 48/sec for Papworth_Trust
+2017-11-16 06:55:01 Tweets   : 100% at 45/sec for PapworthPolicy
+2017-11-16 06:55:43 Favorites: 49% at 4/sec for Neogeta82
+2017-11-16 06:55:46 Favorites: 96.2% at 33/sec for NetworkBolton
+2017-11-16 06:55:51 Tweets   : 99.4% at 40/sec for Parkwaydean
+2017-11-16 06:55:52 Favorites: 55.8% at 49/sec for networkhomesuk
+2017-11-16 06:55:56 Favorites: 91.3% at 43/sec for NewlonHT
+2017-11-16 06:55:58 Tweets   : 100% at 5/sec for PatrickMertonJ
+2017-11-16 06:56:21 Favorites: 53.7% at 44/sec for NHFederation
+2017-11-16 06:56:41 Tweets   : 99.8% at 35/sec for Paul_SLG
+2017-11-16 06:56:44 Favorites: 50.2% at 38/sec for nhsalliance
+2017-11-16 06:56:54 Favorites: 58.2% at 48/sec for nicston
+2017-11-16 06:56:56 Favorites: 100% at 34/sec for NorthDorset
+2017-11-16 06:56:57 Favorites: 54.1% at 62/sec for OC_MattA
+2017-11-16 06:57:09 Favorites: 54.9% at 42/sec for oliie678
+2017-11-16 06:57:18 Favorites: 60.1% at 45/sec for Papworth_Trust
+2017-11-16 06:57:20 Favorites: 71.4% at 40/sec for PapworthPolicy
+2017-11-16 06:57:29 Favorites: 59.2% at 45/sec for Parkwaydean
+2017-11-16 06:57:30 Favorites: 100% at 57/sec for PatrickMertonJ
+2017-11-16 06:57:34 Favorites: 58.2% at 42/sec for Paul_SLG
+2017-11-16 06:57:48 Favorites: Waiting for 12.2 minutes due to : Used up allowance in a loop
+2017-11-16 06:57:52 Tweets   : 51.9% at 45/sec for paulamreid
+2017-11-16 06:58:58 Friends  : 99.8% at 4/sec for oliie678
+2017-11-16 06:59:04 Tweets   : 79.2% at 45/sec for PenguinRHUK
+2017-11-16 07:00:07 Friends  : 99.9% at 46/sec for Papworth_Trust
+2017-11-16 07:00:29 Tweets   : 47.7% at 38/sec for peoplemattershr
+2017-11-16 07:00:54 Tweets   : 100% at 30/sec for peters1477
+2017-11-16 07:01:13 Friends  : 99.1% at 47/sec for PapworthPolicy
+2017-11-16 07:01:46 Friends  : 98.9% at 42/sec for Parkwaydean
+Error in twInterfaceObj$doAPICall(paste("users", "show", sep = "/"), params = params,  : 
+  Not Found (HTTP 404).
+In addition: Warning message:
+package 'twitteR' was built under R version 3.4.1 
+2017-11-16 07:01:47 Friends: Unable to find account PatrickMertonJ moving to next
+2017-11-16 07:01:47 Friends  : % at /sec for PatrickMertonJ
+2017-11-16 07:02:05 Friends  : 97.6% at 41/sec for Paul_SLG
+2017-11-16 07:02:06 Tweets   : 70.3% at 42/sec for PhoenixFutures1
+2017-11-16 07:02:43 Friends  : 99.1% at 40/sec for paulamreid
+2017-11-16 07:02:49 Tweets   : 97.9% at 39/sec for PineCourtHA
+2017-11-16 07:03:13 Tweets   : 100% at 35/sec for PippaJBell
+2017-11-16 07:03:20 Friends  : 99.4% at 42/sec for PenguinRHUK
+2017-11-16 07:03:46 Tweets   : 99.7% at 39/sec for Prima_Grp
+2017-11-16 07:03:47 Friends  : 95.9% at 39/sec for peoplemattershr
+2017-11-16 07:04:09 Friends  : 96.9% at 40/sec for peters1477
+2017-11-16 07:04:12 Tweets   : 99.9% at 37/sec for ProdoHousing
+2017-11-16 07:05:06 Friends  : 99.5% at 42/sec for PhoenixFutures1
+2017-11-16 07:05:16 Friends  : 99.5% at 44/sec for PineCourtHA
+2017-11-16 07:05:21 Friends  : 98.8% at 44/sec for PippaJBell
+2017-11-16 07:05:32 Tweets   : 62.3% at 39/sec for prwhittle
+2017-11-16 07:05:35 Friends  : 99.8% at 45/sec for Prima_Grp
+2017-11-16 07:05:55 Friends  : 93.4% at 43/sec for ProdoHousing
+2017-11-16 07:05:57 Tweets   : 100% at 40/sec for rachaelwaccent
+2017-11-16 07:06:07 Friends  : 97.9% at 44/sec for prwhittle
+2017-11-16 07:06:07 Friends  : Waiting for 7.2 minutes
+2017-11-16 07:07:04 Tweets   : 74.5% at 48/sec for Rachel_Tomo
+2017-11-16 07:07:17 Tweets   : 100% at 28/sec for RailwayHousing
+2017-11-16 07:08:31 Tweets   : 54.5% at 43/sec for rbhousing
+2017-11-16 07:10:30 Favorites: 51% at 1/sec for paulamreid
+2017-11-16 07:10:43 Favorites: 51.5% at 45/sec for PenguinRHUK
+2017-11-16 07:11:53 Favorites: 24.6% at 46/sec for peoplemattershr
+2017-11-16 07:11:58 Favorites: 63.8% at 42/sec for peters1477
+2017-11-16 07:12:19 Favorites: 53.2% at 47/sec for PhoenixFutures1
+2017-11-16 07:12:21 Favorites: 55.2% at 47/sec for PineCourtHA
+2017-11-16 07:12:22 Favorites: 100% at 41/sec for PippaJBell
+2017-11-16 07:12:24 Favorites: 74.1% at 44/sec for Prima_Grp
+2017-11-16 07:12:32 Favorites: 51.3% at 49/sec for ProdoHousing
+2017-11-16 07:12:43 Favorites: 57.2% at 44/sec for prwhittle
+2017-11-16 07:12:56 Favorites: 51% at 46/sec for rachaelwaccent
+2017-11-16 07:12:57 Favorites: Waiting for 12.4 minutes due to : Used up allowance in a loop
+2017-11-16 07:13:39 Friends  : 98.2% at 1/sec for rachaelwaccent
+2017-11-16 07:13:53 Friends  : 99.7% at 44/sec for Rachel_Tomo
+2017-11-16 07:13:57 Friends  : 99.1% at 47/sec for RailwayHousing
+2017-11-16 07:14:21 Friends  : 98.6% at 46/sec for rbhousing
+2017-11-16 07:25:51 Favorites: 52.4% at 1/sec for Rachel_Tomo
+2017-11-16 07:25:53 Favorites: 96.2% at 29/sec for RailwayHousing
+2017-11-16 07:25:53 Favorites: User rbhousing has a protected account or no Favoritess to collect so skipping
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+Warning message:
+package 'twitteR' was built under R version 3.4.1 

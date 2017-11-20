@@ -1,0 +1,165 @@
+starting worker pid=14588 on localhost:11271 at 09:01:26.073
+starting worker pid=14416 on localhost:11271 at 09:01:26.236
+starting worker pid=12280 on localhost:11271 at 09:01:26.398
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-17 09:03:13 Friends  : 99.3% at 36/sec for NJLConsulting
+2017-11-17 09:03:40 Friends  : 97.9% at 43/sec for NolanRedshaw
+2017-11-17 09:04:09 Favorites: 79.5% at 37/sec for NJLConsulting
+2017-11-17 09:04:14 Favorites: 66.6% at 38/sec for NolanRedshaw
+2017-11-17 09:04:14 Friends  : 98.8% at 40/sec for NTsouthlakes
+2017-11-17 09:04:25 Friends  : 100% at 38/sec for NYUSchack
+2017-11-17 09:04:25 Friends  : Waiting for 0.3 minutes
+2017-11-17 09:04:56 Friends  : 99.4% at 16/sec for oakesy999
+2017-11-17 09:05:11 Friends  : 99.5% at 36/sec for oneillandbarton
+2017-11-17 09:05:23 Friends  : 100% at 36/sec for OrtusProperty
+2017-11-17 09:05:28 Friends  : 100% at 37/sec for P_Smiley
+2017-11-17 09:05:35 Favorites: 49.8% at 39/sec for NTsouthlakes
+2017-11-17 09:05:39 Favorites: 60.6% at 46/sec for NYUSchack
+2017-11-17 09:05:52 Friends  : 99.6% at 39/sec for PAauctions
+2017-11-17 09:05:52 Favorites: 48.8% at 43/sec for oakesy999
+2017-11-17 09:05:53 Favorites: 100% at 21/sec for oneillandbarton
+2017-11-17 09:05:56 Favorites: 100% at 34/sec for OrtusProperty
+2017-11-17 09:06:00 Favorites: 63.2% at 41/sec for P_Smiley
+2017-11-17 09:06:02 Favorites: 51.3% at 59/sec for PAauctions
+2017-11-17 09:06:18 Favorites: Waiting for 6.6 minutes due to : Used up allowance in a loop
+2017-11-17 09:06:20 Friends  : 98.2% at 37/sec for PalfreyN
+2017-11-17 09:06:23 Friends  : 100% at 11/sec for ParrRichard
+2017-11-17 09:06:38 Tweets   : 87.8% at 44/sec for NJLConsulting
+2017-11-17 09:07:07 Friends  : 99.2% at 43/sec for patsymcglone
+2017-11-17 09:07:08 Tweets   : 100% at 40/sec for NolanRedshaw
+2017-11-17 09:08:25 Tweets   : 76% at 41/sec for NTsouthlakes
+2017-11-17 09:08:34 Friends  : 98.5% at 41/sec for paulcarder
+2017-11-17 09:09:32 Tweets   : 72% at 48/sec for NYUSchack
+2017-11-17 09:10:21 Friends  : 98% at 36/sec for paulchynoweth
+2017-11-17 09:10:25 Friends  : 99.1% at 29/sec for PC_PeterFolwell
+2017-11-17 09:10:41 Tweets   : 65.5% at 46/sec for oakesy999
+2017-11-17 09:10:48 Friends  : 100% at 37/sec for PenfoldAssoc
+2017-11-17 09:10:55 Tweets   : 99.8% at 32/sec for oneillandbarton
+2017-11-17 09:11:14 Friends  : 98.5% at 35/sec for PeterAiers
+2017-11-17 09:11:21 Tweets   : 99.9% at 38/sec for OrtusProperty
+2017-11-17 09:11:32 Tweets   : 99.6% at 19/sec for P_Smiley
+2017-11-17 09:11:39 Friends  : 98.9% at 34/sec for PeterBrettLLP
+2017-11-17 09:12:10 Friends  : 99.2% at 32/sec for PFpolicy
+2017-11-17 09:12:10 Friends  : Waiting for 7.6 minutes
+2017-11-17 09:12:46 Tweets   : 92% at 43/sec for PAauctions
+2017-11-17 09:13:03 Favorites: 52.3% at 2/sec for PalfreyN
+2017-11-17 09:13:04 Favorites: 96.8% at 39/sec for ParrRichard
+2017-11-17 09:13:10 Tweets   : 99.9% at 30/sec for PalfreyN
+2017-11-17 09:13:25 Tweets   : 99.3% at 26/sec for ParrRichard
+2017-11-17 09:13:34 Favorites: 51.8% at 42/sec for patsymcglone
+2017-11-17 09:13:57 Favorites: 52.1% at 37/sec for paulcarder
+2017-11-17 09:14:18 Favorites: 49.3% at 43/sec for paulchynoweth
+2017-11-17 09:14:18 Favorites: 100% at 7/sec for PC_PeterFolwell
+2017-11-17 09:14:30 Favorites: 54% at 43/sec for PenfoldAssoc
+2017-11-17 09:14:44 Tweets   : 36.5% at 40/sec for patsymcglone
+2017-11-17 09:14:46 Favorites: 52.9% at 42/sec for PeterAiers
+2017-11-17 09:15:00 Favorites: 56.5% at 43/sec for PeterBrettLLP
+2017-11-17 09:15:03 Favorites: 74.6% at 37/sec for PFpolicy
+2017-11-17 09:15:04 Favorites: 84% at 85/sec for pfrenchUK
+2017-11-17 09:15:23 Favorites: 55.7% at 40/sec for pinkylilani
+2017-11-17 09:15:25 Favorites: 72.8% at 71/sec for PinnacleSurvey
+2017-11-17 09:15:28 Favorites: 71.9% at 33/sec for PlanQUB
+2017-11-17 09:15:41 Favorites: 52.8% at 44/sec for property_whore
+2017-11-17 09:15:44 Favorites: 56.2% at 34/sec for propertyelitej
+2017-11-17 09:15:47 Favorites: Waiting for 12.1 minutes due to : Used up allowance in a loop
+2017-11-17 09:16:05 Tweets   : 23.8% at 39/sec for paulcarder
+2017-11-17 09:16:24 Tweets   : 99.2% at 34/sec for paulchynoweth
+2017-11-17 09:16:36 Tweets   : 100% at 28/sec for PC_PeterFolwell
+2017-11-17 09:17:48 Tweets   : 78.3% at 45/sec for PenfoldAssoc
+2017-11-17 09:19:03 Tweets   : 73.6% at 42/sec for PeterAiers
+2017-11-17 09:19:53 Tweets   : 99.8% at 41/sec for PeterBrettLLP
+2017-11-17 09:20:16 Tweets   : 99.9% at 30/sec for PFpolicy
+2017-11-17 09:20:24 Friends  : 99.3% at 2/sec for pfrenchUK
+2017-11-17 09:20:47 Tweets   : 100% at 34/sec for pfrenchUK
+2017-11-17 09:20:48 Friends  : 99.5% at 32/sec for pinkylilani
+2017-11-17 09:21:36 Friends  : 100% at 39/sec for PinnacleSurvey
+2017-11-17 09:21:55 Friends  : 99.3% at 37/sec for PlanQUB
+2017-11-17 09:22:08 Friends  : 99.6% at 42/sec for property_whore
+2017-11-17 09:22:18 Tweets   : 66.7% at 35/sec for pinkylilani
+2017-11-17 09:22:30 Friends  : 97.9% at 44/sec for propertyelitej
+2017-11-17 09:22:50 Friends  : 99.1% at 38/sec for PropLitigation
+2017-11-17 09:22:57 Friends  : 97.5% at 36/sec for PVitalija
+2017-11-17 09:23:04 Tweets   : 99.7% at 40/sec for PinnacleSurvey
+2017-11-17 09:23:32 Friends  : 100% at 39/sec for QEDRoss
+2017-11-17 09:23:33 Friends  : 100% at 22/sec for QSStudentDiary
+2017-11-17 09:23:52 Tweets   : 99.8% at 41/sec for PlanQUB
+2017-11-17 09:23:58 Friends  : 99.8% at 39/sec for ra_rhodes
+2017-11-17 09:24:13 Friends  : 99.3% at 37/sec for RachLacklison
+2017-11-17 09:25:03 Tweets   : 71.4% at 45/sec for property_whore
+2017-11-17 09:25:05 Friends  : 99.8% at 35/sec for Rapid5D
+2017-11-17 09:25:23 Friends  : 98.5% at 36/sec for RavCheemaUK
+2017-11-17 09:25:27 Tweets   : 100% at 34/sec for propertyelitej
+2017-11-17 09:25:33 Friends  : 99.7% at 35/sec for rbhodge
+2017-11-17 09:25:33 Friends  : Waiting for 9.3 minutes
+2017-11-17 09:26:21 Tweets   : 99.8% at 45/sec for PropLitigation
+2017-11-17 09:26:29 Tweets   : 100% at 14/sec for PVitalija
+2017-11-17 09:26:45 Tweets   : 99.8% at 29/sec for QEDRoss
+2017-11-17 09:26:51 Tweets   : 100% at 5/sec for QSStudentDiary
+2017-11-17 09:27:39 Tweets   : 99.9% at 43/sec for ra_rhodes
+2017-11-17 09:28:03 Favorites: 52.8% at 1/sec for PropLitigation
+2017-11-17 09:28:11 Favorites: 54.1% at 41/sec for PVitalija
+2017-11-17 09:28:12 Favorites: 100% at 69/sec for QEDRoss
+2017-11-17 09:28:12 Favorites: 100% at 14/sec for QSStudentDiary
+2017-11-17 09:28:16 Favorites: 51.7% at 48/sec for ra_rhodes
+2017-11-17 09:28:30 Tweets   : 98.9% at 44/sec for RachLacklison
+2017-11-17 09:28:30 Favorites: 44.7% at 39/sec for RachLacklison
+2017-11-17 09:28:31 Favorites: 51.3% at 69/sec for Rapid5D
+2017-11-17 09:29:11 Tweets   : 99.9% at 43/sec for Rapid5D
+2017-11-17 09:29:47 Favorites: 23% at 42/sec for RavCheemaUK
+2017-11-17 09:29:48 Favorites: 96.4% at 40/sec for rbhodge
+2017-11-17 09:30:03 Favorites: 50.2% at 40/sec for realla_co
+2017-11-17 09:30:09 Favorites: 61.4% at 48/sec for reallymoving
+2017-11-17 09:30:12 Favorites: 100% at 32/sec for REalyse_UK
+2017-11-17 09:30:18 Tweets   : 99.7% at 41/sec for RavCheemaUK
+2017-11-17 09:30:40 Tweets   : 100% at 28/sec for rbhodge
+2017-11-17 09:30:42 Favorites: Waiting for 12.2 minutes due to : Used up allowance in a loop
+2017-11-17 09:30:57 Tweets   : 99.8% at 33/sec for realla_co
+2017-11-17 09:32:02 Tweets   : 52.5% at 49/sec for reallymoving
+2017-11-17 09:32:16 Tweets   : 100% at 26/sec for REalyse_UK
+2017-11-17 09:33:05 Tweets   : 99.9% at 46/sec for redeclimited
+2017-11-17 09:33:46 Tweets   : 99.9% at 43/sec for ReesRichards
+2017-11-17 09:34:09 Tweets   : 99.8% at 36/sec for REIPMCR
+2017-11-17 09:34:24 Tweets   : 100% at 31/sec for RemitMT
+2017-11-17 09:35:42 Tweets   : 66.7% at 41/sec for rewomenorg
+2017-11-17 09:37:03 Tweets   : 88.5% at 39/sec for RHChelsea
+2017-11-17 09:37:11 Friends  : 97.9% at 7/sec for realla_co
+2017-11-17 09:38:03 Friends  : 99.2% at 39/sec for reallymoving
+2017-11-17 09:38:16 Friends  : 96.9% at 33/sec for REalyse_UK
+2017-11-17 09:38:28 Tweets   : 78.9% at 38/sec for richardlaing123
+2017-11-17 09:39:07 Tweets   : 100% at 39/sec for RichardSansom_
+2017-11-17 09:39:08 Friends  : 99.9% at 40/sec for redeclimited
+2017-11-17 09:39:38 Friends  : 98.9% at 37/sec for ReesRichards
+2017-11-17 09:40:11 Friends  : 97.1% at 36/sec for REIPMCR
+2017-11-17 09:40:14 Friends  : 98.1% at 39/sec for RemitMT
+2017-11-17 09:40:23 Tweets   : 92.4% at 42/sec for Richbonner
+2017-11-17 09:40:34 Tweets   : 100% at 17/sec for RicsList
+2017-11-17 09:40:43 Tweets   : 100% at 18/sec for RICSMatricsDC
+2017-11-17 09:40:51 Tweets   : 100% at 10/sec for RICSMatricsEdin
+2017-11-17 09:41:49 Friends  : 99.5% at 37/sec for rewomenorg
+2017-11-17 09:43:41 Favorites: 45.9% at 4/sec for redeclimited
+2017-11-17 09:43:45 Favorites: 76.8% at 43/sec for ReesRichards
+2017-11-17 09:43:48 Favorites: 98.4% at 25/sec for REIPMCR
+2017-11-17 09:43:48 Favorites: 100% at 28/sec for RemitMT
+2017-11-17 09:44:06 Friends  : 97.7% at 32/sec for RHChelsea
+2017-11-17 09:44:12 Favorites: 54.8% at 43/sec for rewomenorg
+2017-11-17 09:44:45 Friends  : 99% at 38/sec for richardlaing123
+2017-11-17 09:45:00 Friends  : 98.4% at 36/sec for RichardSansom_
+2017-11-17 09:45:13 Friends  : 99.8% at 35/sec for Richbonner
+2017-11-17 09:45:18 Friends  : 97.7% at 28/sec for RicsList
+2017-11-17 09:45:25 Friends  : 96.8% at 34/sec for RICSMatricsDC
+2017-11-17 09:45:27 Friends  : 98% at 48/sec for RICSMatricsEdin
+2017-11-17 09:45:28 Favorites: 40.3% at 42/sec for RHChelsea
+2017-11-17 09:45:45 Favorites: Waiting for 12.2 minutes due to : Used up allowance in a loop
+2017-11-17 09:58:10 Favorites: 50.6% at 2/sec for richardlaing123
+2017-11-17 09:58:21 Favorites: 55.9% at 44/sec for RichardSansom_
+2017-11-17 09:58:44 Favorites: 50.3% at 39/sec for Richbonner
+2017-11-17 09:58:46 Favorites: 92.7% at 19/sec for RicsList
+2017-11-17 09:58:47 Favorites: 50.8% at 73/sec for RICSMatricsDC
+2017-11-17 09:58:49 Favorites: 100% at 23/sec for RICSMatricsEdin
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+package 'twitteR' was built under R version 3.4.1 
+Warning message:
+package 'twitteR' was built under R version 3.4.1 

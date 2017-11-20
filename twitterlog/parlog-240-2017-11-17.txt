@@ -1,0 +1,166 @@
+starting worker pid=7968 on localhost:11271 at 14:01:28.003
+starting worker pid=10232 on localhost:11271 at 14:01:28.182
+starting worker pid=980 on localhost:11271 at 14:01:28.367
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-17 14:03:35 Friends  : 99.5% at 29/sec for PeteWishart
+2017-11-17 14:03:47 Friends  : 99.5% at 32/sec for plumbersayr
+2017-11-17 14:04:31 Favorites: 98.2% at 43/sec for PeteWishart
+2017-11-17 14:04:37 Favorites: 87% at 31/sec for plumbersayr
+2017-11-17 14:04:42 Favorites: 57.5% at 22/sec for plumbpart
+2017-11-17 14:05:05 Favorites: 56.5% at 25/sec for RecoilKneepads
+2017-11-17 14:05:06 Favorites: 100% at 28/sec for RichmondsPHM
+2017-11-17 14:05:11 Favorites: 70.8% at 38/sec for ScotGovPlanning
+2017-11-17 14:05:19 Favorites: 76% at 26/sec for SECGroupEsca
+2017-11-17 14:05:19 Favorites: 100% at 22/sec for showerdoc
+2017-11-17 14:05:19 Favorites: User Vtec_TomTom has a protected account or no Favoritess to collect so skipping
+2017-11-17 14:05:21 Favorites: 70.7% at 57/sec for WaverleyHousing
+2017-11-17 14:05:38 Favorites: 59% at 29/sec for Business_Stream
+2017-11-17 14:05:44 Favorites: 84.6% at 37/sec for ClarkThomsonCIB
+2017-11-17 14:05:47 Favorites: 98.9% at 22/sec for DundeeTS
+2017-11-17 14:06:16 Favorites: 49.6% at 35/sec for FalkirkBiz
+2017-11-17 14:06:16 Favorites: 100% at 10/sec for klein_rudi
+2017-11-17 14:06:17 Friends  : 96.2% at 30/sec for plumbpart
+2017-11-17 14:06:22 Favorites: 85.3% at 32/sec for niexecutive
+2017-11-17 14:06:22 Favorites: User ofgem_eserve has a protected account or no Favoritess to collect so skipping
+2017-11-17 14:06:23 Favorites: 100% at 5/sec for SUGPLUMB
+2017-11-17 14:06:31 Favorites: 52.2% at 38/sec for THCL_Builders
+2017-11-17 14:07:13 Favorites: 50.8% at 33/sec for UKATA_Official
+2017-11-17 14:07:18 Favorites: 95.7% at 35/sec for _NLCCE
+2017-11-17 14:07:18 Friends  : 96.2% at 28/sec for RecoilKneepads
+2017-11-17 14:07:22 Favorites: 100% at 24/sec for 4energy_group
+2017-11-17 14:07:23 Friends  : 98.2% at 31/sec for RichmondsPHM
+2017-11-17 14:07:29 Tweets   : 12.5% at 40/sec for PeteWishart
+2017-11-17 14:07:36 Friends  : 98.6% at 17/sec for ScotGovPlanning
+2017-11-17 14:07:44 Friends  : 96.3% at 28/sec for SECGroupEsca
+2017-11-17 14:08:02 Tweets   : 99.8% at 38/sec for plumbersayr
+2017-11-17 14:08:08 Favorites: Waiting for 5.1 minutes due to : Used up allowance in a loop
+2017-11-17 14:08:17 Tweets   : 100% at 29/sec for plumbpart
+2017-11-17 14:08:20 Friends  : 99.8% at 34/sec for showerdoc
+2017-11-17 14:08:24 Friends  : 100% at 29/sec for Vtec_TomTom
+2017-11-17 14:08:29 Friends  : 99.4% at 31/sec for WaverleyHousing
+2017-11-17 14:08:43 Tweets   : 99.9% at 37/sec for RecoilKneepads
+2017-11-17 14:08:54 Tweets   : 100% at 15/sec for RichmondsPHM
+2017-11-17 14:09:13 Friends  : 99.5% at 34/sec for Business_Stream
+2017-11-17 14:09:19 Friends  : 100% at 35/sec for ClarkThomsonCIB
+2017-11-17 14:09:31 Friends  : 98.8% at 27/sec for DundeeTS
+2017-11-17 14:10:06 Friends  : 98.3% at 30/sec for FalkirkBiz
+2017-11-17 14:10:08 Friends  : 100% at 13/sec for klein_rudi
+2017-11-17 14:10:08 Friends  : Waiting for 7.9 minutes
+2017-11-17 14:10:10 Tweets   : 81.4% at 42/sec for ScotGovPlanning
+2017-11-17 14:10:25 Tweets   : 100% at 28/sec for SECGroupEsca
+[1] "Server error: (500) Internal Server Error"
+[1] "This error is likely transient, retrying up to 5 more times ..."
+2017-11-17 14:11:39 Tweets   : 73.7% at 43/sec for showerdoc
+2017-11-17 14:12:04 Tweets   : 100% at 36/sec for Vtec_TomTom
+2017-11-17 14:12:38 Tweets   : 99.9% at 35/sec for WaverleyHousing
+2017-11-17 14:13:45 Tweets   : 54.4% at 48/sec for Business_Stream
+2017-11-17 14:13:59 Tweets   : 100% at 16/sec for ClarkThomsonCIB
+2017-11-17 14:14:07 Favorites: 29.9% at 8/sec for AbydKarmali1967
+2017-11-17 14:14:19 Favorites: 61.8% at 32/sec for ActionSurrey
+2017-11-17 14:14:19 Tweets   : 100% at 33/sec for DundeeTS
+2017-11-17 14:15:07 Favorites: 49.9% at 31/sec for AdamDyster
+2017-11-17 14:15:35 Tweets   : 71.1% at 42/sec for FalkirkBiz
+2017-11-17 14:15:45 Tweets   : 100% at 15/sec for klein_rudi
+2017-11-17 14:15:51 Favorites: 49.9% at 34/sec for adrianjcoles
+2017-11-17 14:15:56 Favorites: 84.6% at 39/sec for AlliesAssemble
+2017-11-17 14:16:01 Favorites: 86.2% at 39/sec for alok_choudhary
+2017-11-17 14:16:55 Favorites: 52.1% at 33/sec for Angus4FalkirkE
+2017-11-17 14:16:57 Tweets   : 25.8% at 44/sec for niexecutive
+2017-11-17 14:16:57 Tweets   : User ofgem_eserve has a protected account or no Tweetss to collect so skipping
+2017-11-17 14:16:59 Favorites: Waiting for 11.3 minutes due to : Used up allowance in a loop
+2017-11-17 14:17:07 Tweets   : 100% at 13/sec for SUGPLUMB
+2017-11-17 14:17:27 Tweets   : 100% at 31/sec for THCL_Builders
+2017-11-17 14:18:46 Tweets   : 21.8% at 41/sec for UKATA_Official
+2017-11-17 14:18:57 Friends  : 99.9% at 3/sec for niexecutive
+2017-11-17 14:18:57 Friends  : User ofgem_eserve has a protected account or no Friendss to collect so skipping
+2017-11-17 14:19:02 Friends  : 100% at 22/sec for SUGPLUMB
+2017-11-17 14:19:29 Friends  : 98.8% at 28/sec for THCL_Builders
+2017-11-17 14:19:48 Tweets   : 99% at 39/sec for _NLCCE
+2017-11-17 14:19:58 Tweets   : 100% at 14/sec for 4energy_group
+2017-11-17 14:20:09 Friends  : 99.7% at 29/sec for UKATA_Official
+2017-11-17 14:20:48 Friends  : 100% at 27/sec for _NLCCE
+2017-11-17 14:20:53 Friends  : 100% at 24/sec for 4energy_group
+2017-11-17 14:21:02 Friends  : 97.7% at 28/sec for AbydKarmali1967
+2017-11-17 14:21:26 Tweets   : 72.7% at 36/sec for AbydKarmali1967
+2017-11-17 14:22:54 Tweets   : 59.8% at 36/sec for ActionSurrey
+2017-11-17 14:23:27 Friends  : 98.2% at 26/sec for ActionSurrey
+2017-11-17 14:24:06 Friends  : 98.6% at 28/sec for AdamDyster
+2017-11-17 14:24:25 Tweets   : 39.5% at 35/sec for AdamDyster
+2017-11-17 14:24:39 Friends  : 96.7% at 36/sec for adrianjcoles
+2017-11-17 14:24:54 Friends  : 27400% at 35/sec for AlliesAssemble
+2017-11-17 14:25:02 Friends  : 97.7% at 35/sec for alok_choudhary
+2017-11-17 14:25:37 Tweets   : 100% at 38/sec for adrianjcoles
+2017-11-17 14:25:43 Friends  : 99.2% at 37/sec for Angus4FalkirkE
+2017-11-17 14:25:45 Tweets   : 100% at 7/sec for AlliesAssemble
+2017-11-17 14:25:58 Tweets   : 99.6% at 22/sec for alok_choudhary
+2017-11-17 14:27:13 Friends  : 99.1% at 36/sec for ASSAABLOYUKLtd
+2017-11-17 14:27:17 Tweets   : 27.5% at 40/sec for Angus4FalkirkE
+2017-11-17 14:27:24 Friends  : 99% at 35/sec for AtlasCopcoUKIRE
+2017-11-17 14:27:25 Friends  : Waiting for 5.7 minutes
+2017-11-17 14:28:24 Favorites: 59.9% at 0/sec for ASSAABLOYUKLtd
+2017-11-17 14:28:27 Tweets   : 99.8% at 42/sec for ASSAABLOYUKLtd
+2017-11-17 14:28:33 Favorites: 53.6% at 32/sec for AtlasCopcoUKIRE
+2017-11-17 14:28:34 Favorites: 100% at 59/sec for benjaminjsteele
+2017-11-17 14:28:35 Favorites: 100% at 14/sec for Bensonsigns
+2017-11-17 14:28:40 Favorites: 71.6% at 39/sec for BradfordChamber
+2017-11-17 14:28:50 Favorites: 70.5% at 30/sec for Branston
+2017-11-17 14:29:08 Tweets   : 99.9% at 38/sec for AtlasCopcoUKIRE
+2017-11-17 14:29:22 Favorites: 52.2% at 30/sec for BucksNewUni
+2017-11-17 14:29:25 Favorites: 100% at 17/sec for BusinessEECP
+2017-11-17 14:29:27 Favorites: 100% at 47/sec for CapRegPLC
+2017-11-17 14:29:31 Favorites: 38.1% at 30/sec for CaraKennelly
+2017-11-17 14:29:32 Favorites: 100% at 13/sec for CarbonTrust_Mex
+2017-11-17 14:29:33 Favorites: 98.5% at 49/sec for carbonzerow
+2017-11-17 14:29:37 Favorites: 100% at 27/sec for carmelgiblin
+2017-11-17 14:29:40 Tweets   : 99.2% at 36/sec for benjaminjsteele
+2017-11-17 14:29:50 Favorites: 29% at 30/sec for CCitizenship
+2017-11-17 14:29:50 Tweets   : 100% at 18/sec for Bensonsigns
+2017-11-17 14:29:55 Favorites: 52.5% at 38/sec for cdknetwork
+2017-11-17 14:30:08 Favorites: 53.8% at 31/sec for CDSBglobal
+2017-11-17 14:31:09 Tweets   : 30.3% at 41/sec for BradfordChamber
+2017-11-17 14:31:15 Favorites: 48.7% at 32/sec for CGControlling
+2017-11-17 14:31:18 Favorites: 100% at 25/sec for CGControllingAB
+2017-11-17 14:31:28 Favorites: 62.9% at 29/sec for ChalmorLtd
+2017-11-17 14:32:00 Tweets   : 99.2% at 39/sec for Branston
+2017-11-17 14:33:21 Tweets   : 28.2% at 39/sec for BucksNewUni
+2017-11-17 14:33:38 Tweets   : 100% at 27/sec for BusinessEECP
+2017-11-17 14:33:41 Friends  : 99.2% at 3/sec for benjaminjsteele
+2017-11-17 14:33:45 Friends  : 99.4% at 50/sec for Bensonsigns
+2017-11-17 14:33:49 Tweets   : 100% at 18/sec for CapRegPLC
+2017-11-17 14:34:19 Tweets   : 96.5% at 34/sec for CaraKennelly
+2017-11-17 14:34:28 Tweets   : 100% at 15/sec for CarbonTrust_Mex
+2017-11-17 14:34:30 Friends  : 96.8% at 35/sec for BradfordChamber
+2017-11-17 14:34:39 Tweets   : 100% at 17/sec for carbonzerow
+2017-11-17 14:34:46 Friends  : 99.2% at 39/sec for Branston
+2017-11-17 14:35:02 Friends  : 98.4% at 31/sec for BucksNewUni
+2017-11-17 14:35:09 Friends  : 95.2% at 33/sec for BusinessEECP
+2017-11-17 14:35:12 Friends  : 100% at 42/sec for CapRegPLC
+2017-11-17 14:35:19 Friends  : 100% at 27/sec for CaraKennelly
+2017-11-17 14:35:24 Friends  : 100% at 22/sec for CarbonTrust_Mex
+Error in twInterfaceObj$doAPICall(paste("users", "show", sep = "/"), params = params,  : 
+  Not Found (HTTP 404).
+In addition: Warning message:
+package 'twitteR' was built under R version 3.4.1 
+2017-11-17 14:35:25 Friends: Unable to find account carbonzerow moving to next
+2017-11-17 14:35:25 Friends  : % at /sec for carbonzerow
+2017-11-17 14:35:39 Friends  : 99.4% at 34/sec for carmelgiblin
+2017-11-17 14:35:39 Tweets   : 99.8% at 35/sec for carmelgiblin
+2017-11-17 14:37:04 Tweets   : 21% at 38/sec for CCitizenship
+2017-11-17 14:37:56 Friends  : 99.8% at 36/sec for CCitizenship
+2017-11-17 14:38:28 Tweets   : 49.1% at 38/sec for cdknetwork
+2017-11-17 14:38:50 Friends  : 99% at 33/sec for cdknetwork
+2017-11-17 14:39:27 Friends  : 98.9% at 34/sec for CDSBglobal
+2017-11-17 14:39:43 Tweets   : 33.4% at 43/sec for CDSBglobal
+2017-11-17 14:40:26 Tweets   : 100% at 35/sec for CGControlling
+2017-11-17 14:40:36 Friends  : 98.8% at 33/sec for CGControlling
+2017-11-17 14:40:42 Friends  : 98.2% at 26/sec for CGControllingAB
+2017-11-17 14:40:43 Friends  : Waiting for 7.5 minutes
+2017-11-17 14:40:43 Tweets   : 100% at 26/sec for CGControllingAB
+2017-11-17 14:41:08 Tweets   : 100% at 35/sec for ChalmorLtd
+2017-11-17 14:49:11 Friends  : 99.5% at 4/sec for ChalmorLtd
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+Warning message:
+package 'twitteR' was built under R version 3.4.1 

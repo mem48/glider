@@ -1,0 +1,167 @@
+starting worker pid=8660 on localhost:11271 at 00:46:04.272
+starting worker pid=5132 on localhost:11271 at 00:46:04.435
+starting worker pid=10144 on localhost:11271 at 00:46:04.595
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-19 00:48:21 Friends  : 98.9% at 34/sec for AnthonyScarfe30
+2017-11-19 00:49:40 Friends  : 97.4% at 32/sec for AnthonySeldon
+2017-11-19 00:49:52 Friends  : 100% at 26/sec for AoC_Jobs
+2017-11-19 00:50:12 Friends  : 98.8% at 37/sec for AoCshane
+2017-11-19 00:50:24 Friends  : 99.4% at 28/sec for AoCWM
+2017-11-19 00:50:32 Favorites: 52.9% at 37/sec for AnthonyScarfe30
+2017-11-19 00:50:49 Friends  : 99.5% at 30/sec for AOSEC
+2017-11-19 00:51:00 Favorites: 56.7% at 21/sec for AnthonySeldon
+2017-11-19 00:51:00 Favorites: 100% at 32/sec for AoC_Jobs
+2017-11-19 00:51:08 Favorites: 50.2% at 40/sec for AoCshane
+2017-11-19 00:51:08 Favorites: 100% at 24/sec for AoCWM
+2017-11-19 00:51:13 Favorites: 89.8% at 22/sec for AOSEC
+2017-11-19 00:51:25 Favorites: 53.3% at 41/sec for AP
+2017-11-19 00:51:25 Favorites: 100% at 13/sec for ApprenticeZone
+2017-11-19 00:51:25 Favorites: User APTT_UK has a protected account or no Favoritess to collect so skipping
+2017-11-19 00:51:31 Favorites: 95.2% at 35/sec for AquinasUK
+2017-11-19 00:51:53 Favorites: 55% at 36/sec for ArklessRichard
+2017-11-19 00:51:53 Favorites: 96.9% at 38/sec for AshbourneLondon
+2017-11-19 00:51:53 Favorites: User AshbourneUpdate has a protected account or no Favoritess to collect so skipping
+2017-11-19 00:51:58 Favorites: 98% at 21/sec for AshMerchant1
+2017-11-19 00:52:13 Favorites: 58.4% at 33/sec for ashtonsixthform
+2017-11-19 00:52:21 Favorites: 63.5% at 34/sec for ASI
+2017-11-19 00:52:28 Favorites: 69.8% at 32/sec for AskhamBryan
+2017-11-19 00:52:34 Favorites: 59.6% at 31/sec for AWMurrison
+2017-11-19 00:52:56 Favorites: 54.6% at 35/sec for AylesburyColl
+2017-11-19 00:53:00 Tweets   : 99.5% at 24/sec for AnthonyScarfe30
+2017-11-19 00:53:15 Favorites: 56.4% at 31/sec for b6fc
+2017-11-19 00:53:16 Favorites: 97.3% at 38/sec for BAC_Education
+2017-11-19 00:53:21 Favorites: Waiting for 2.7 minutes due to : Used up allowance in a loop
+2017-11-19 00:53:56 Tweets   : 99.5% at 32/sec for AnthonySeldon
+2017-11-19 00:54:22 Friends  : 100% at 34/sec for AP
+2017-11-19 00:55:11 Tweets   : 42.6% at 43/sec for AoC_Jobs
+2017-11-19 00:55:24 Friends  : 100% at 42/sec for ApprenticeZone
+2017-11-19 00:55:26 Friends  : 100% at 19/sec for APTT_UK
+2017-11-19 00:55:32 Friends  : 98.9% at 29/sec for AquinasUK
+2017-11-19 00:55:49 Friends  : 99.1% at 37/sec for ArklessRichard
+2017-11-19 00:56:09 Friends  : 100% at 43/sec for AshbourneLondon
+2017-11-19 00:56:16 Friends  : 100% at 31/sec for AshbourneUpdate
+2017-11-19 00:56:26 Friends  : 96.9% at 37/sec for AshMerchant1
+2017-11-19 00:56:26 Friends  : Waiting for 6.8 minutes
+2017-11-19 00:56:32 Tweets   : 99.9% at 39/sec for AoCshane
+2017-11-19 00:56:34 Favorites: 50.2% at 6/sec for backborwick
+2017-11-19 00:56:45 Favorites: 60.6% at 36/sec for BambosMP
+2017-11-19 00:56:45 Favorites: 100% at 3/sec for banff_buchan
+2017-11-19 00:57:26 Favorites: 51.4% at 35/sec for BarkingCollege
+2017-11-19 00:57:37 Favorites: 56.6% at 34/sec for barn_field
+2017-11-19 00:57:46 Favorites: 1.4% at 35/sec for barnardos
+2017-11-19 00:57:47 Favorites: 100% at 55/sec for BarnfieldCEO
+2017-11-19 00:57:51 Favorites: 52.4% at 23/sec for BaronessEB
+2017-11-19 00:57:52 Favorites: 100% at 61/sec for BaronessGale
+2017-11-19 00:57:52 Favorites: User BaronessHollins has a protected account or no Favoritess to collect so skipping
+2017-11-19 00:57:53 Tweets   : 65.9% at 39/sec for AoCWM
+2017-11-19 00:58:16 Favorites: 49.7% at 29/sec for Baronessjenkin
+2017-11-19 00:58:32 Tweets   : 99.9% at 35/sec for AOSEC
+2017-11-19 00:58:33 Favorites: 56.7% at 35/sec for bartonpeveril
+2017-11-19 00:58:39 Favorites: 97.5% at 38/sec for BasingstokeITEC
+2017-11-19 00:58:39 Favorites: 96.7% at 39/sec for Batburnley
+2017-11-19 00:59:05 Favorites: 53.3% at 38/sec for BatesLord
+2017-11-19 00:59:25 Favorites: Waiting for 11.7 minutes due to : Used up allowance in a loop
+2017-11-19 00:59:51 Tweets   : 1.6% at 41/sec for AP
+2017-11-19 01:00:20 Tweets   : 99.8% at 36/sec for ApprenticeZone
+2017-11-19 01:00:27 Tweets   : 100% at 5/sec for APTT_UK
+2017-11-19 01:01:50 Tweets   : 86.2% at 38/sec for AquinasUK
+2017-11-19 01:02:59 Tweets   : 99.5% at 38/sec for ArklessRichard
+2017-11-19 01:03:34 Friends  : 98.4% at 1/sec for ashtonsixthform
+2017-11-19 01:03:43 Friends  : 99.4% at 36/sec for ASI
+2017-11-19 01:03:57 Friends  : 97.7% at 37/sec for AskhamBryan
+2017-11-19 01:04:27 Friends  : 99.4% at 40/sec for AWMurrison
+2017-11-19 01:04:30 Tweets   : 75.7% at 35/sec for AshbourneLondon
+2017-11-19 01:04:39 Tweets   : 100% at 2/sec for AshbourneUpdate
+2017-11-19 01:04:55 Friends  : 99.6% at 38/sec for AylesburyColl
+2017-11-19 01:05:00 Tweets   : 100% at 29/sec for AshMerchant1
+2017-11-19 01:05:05 Friends  : 99.7% at 40/sec for b6fc
+2017-11-19 01:05:20 Friends  : 99.7% at 43/sec for BAC_Education
+2017-11-19 01:05:32 Friends  : 99.7% at 27/sec for backborwick
+2017-11-19 01:06:02 Friends  : 98.9% at 41/sec for BambosMP
+2017-11-19 01:06:08 Friends  : 100% at 24/sec for banff_buchan
+2017-11-19 01:06:36 Tweets   : 60.3% at 33/sec for ashtonsixthform
+2017-11-19 01:07:07 Friends  : 95.8% at 39/sec for BarkingCollege
+2017-11-19 01:07:21 Friends  : 98.4% at 35/sec for barn_field
+2017-11-19 01:08:16 Tweets   : 26.9% at 32/sec for ASI
+2017-11-19 01:09:38 Tweets   : 89.9% at 39/sec for AskhamBryan
+2017-11-19 01:09:48 Friends  : 99.9% at 37/sec for barnardos
+2017-11-19 01:09:52 Friends  : 100% at 6/sec for BarnfieldCEO
+2017-11-19 01:09:52 Friends  : Waiting for 8.6 minutes
+2017-11-19 01:10:50 Tweets   : 99.8% at 43/sec for AWMurrison
+2017-11-19 01:11:33 Favorites: 48.2% at 1/sec for BBC_HaveYourSay
+2017-11-19 01:11:33 Favorites: User bbceducation has a protected account or no Favoritess to collect so skipping
+2017-11-19 01:12:13 Favorites: 50.7% at 37/sec for BBCPanorama
+2017-11-19 01:12:14 Tweets   : 44.7% at 38/sec for AylesburyColl
+2017-11-19 01:12:36 Favorites: 52.3% at 38/sec for bcot
+2017-11-19 01:13:02 Favorites: 51.4% at 35/sec for Be_HSDC
+2017-11-19 01:13:14 Favorites: 56.5% at 33/sec for bedfordcollege
+2017-11-19 01:13:14 Favorites: User BedfordCollTS has a protected account or no Favoritess to collect so skipping
+2017-11-19 01:13:14 Favorites: 100% at 25/sec for benedictbrogan
+2017-11-19 01:13:33 Favorites: 54.9% at 35/sec for benjaminmarlow
+2017-11-19 01:13:34 Favorites: 100% at 27/sec for BensonHalton
+2017-11-19 01:13:35 Tweets   : 99.9% at 38/sec for b6fc
+2017-11-19 01:13:52 Favorites: 53.6% at 39/sec for BenVerinder
+2017-11-19 01:13:58 Favorites: 67.3% at 35/sec for bernardjenkin
+2017-11-19 01:13:58 Favorites: 100% at 3/sec for BeverleyHughes1
+2017-11-19 01:13:59 Favorites: 55% at 66/sec for BexhillCollege
+2017-11-19 01:14:58 Tweets   : 85.6% at 39/sec for BAC_Education
+2017-11-19 01:16:19 Tweets   : 100% at 35/sec for backborwick
+2017-11-19 01:17:00 Tweets   : 99.9% at 32/sec for BambosMP
+2017-11-19 01:17:12 Tweets   : 99.2% at 22/sec for banff_buchan
+2017-11-19 01:18:47 Tweets   : 36.2% at 33/sec for BarkingCollege
+2017-11-19 01:19:12 Friends  : 99.5% at 2/sec for BaronessEB
+2017-11-19 01:19:20 Friends  : 99.3% at 33/sec for BaronessGale
+2017-11-19 01:19:20 Friends  : User BaronessHollins has a protected account or no Friendss to collect so skipping
+2017-11-19 01:19:45 Tweets   : 99.6% at 35/sec for barn_field
+2017-11-19 01:19:49 Friends  : 99% at 35/sec for Baronessjenkin
+2017-11-19 01:19:58 Friends  : 98.6% at 38/sec for bartonpeveril
+2017-11-19 01:20:14 Friends  : 95.8% at 34/sec for BasingstokeITEC
+2017-11-19 01:20:17 Friends  : 100% at 43/sec for Batburnley
+2017-11-19 01:21:05 Tweets   : 17.2% at 40/sec for barnardos
+2017-11-19 01:21:09 Friends  : 99.8% at 37/sec for BatesLord
+2017-11-19 01:21:12 Tweets   : 100% at 11/sec for BarnfieldCEO
+2017-11-19 01:22:30 Tweets   : 99.5% at 40/sec for BaronessEB
+2017-11-19 01:23:59 Tweets   : 95.8% at 36/sec for BaronessGale
+2017-11-19 01:23:59 Tweets   : User BaronessHollins has a protected account or no Tweetss to collect so skipping
+2017-11-19 01:25:37 Tweets   : 65.4% at 32/sec for Baronessjenkin
+2017-11-19 01:26:56 Tweets   : 99% at 34/sec for bartonpeveril
+2017-11-19 01:27:07 Tweets   : 100% at 22/sec for BasingstokeITEC
+2017-11-19 01:27:21 Tweets   : 97.3% at 13/sec for Batburnley
+2017-11-19 01:28:13 Friends  : 99.6% at 34/sec for BBC_HaveYourSay
+2017-11-19 01:28:14 Friends  : 100% at 1/sec for bbceducation
+2017-11-19 01:28:28 Tweets   : 99.9% at 33/sec for BatesLord
+2017-11-19 01:28:43 Friends  : 99.5% at 42/sec for BBCPanorama
+2017-11-19 01:29:23 Friends  : 94.9% at 35/sec for bcot
+2017-11-19 01:29:31 Friends  : 96.7% at 34/sec for Be_HSDC
+2017-11-19 01:29:56 Tweets   : 12.6% at 36/sec for BBC_HaveYourSay
+2017-11-19 01:29:57 Friends  : 99.2% at 33/sec for bedfordcollege
+2017-11-19 01:29:57 Friends  : Waiting for 3.8 minutes
+2017-11-19 01:31:20 Tweets   : 23.9% at 38/sec for bbceducation
+2017-11-19 01:32:37 Tweets   : 72.6% at 42/sec for BBCPanorama
+2017-11-19 01:34:01 Tweets   : 40.3% at 38/sec for bcot
+2017-11-19 01:34:04 Friends  : 100% at 2/sec for BedfordCollTS
+2017-11-19 01:34:28 Friends  : 99.9% at 39/sec for benedictbrogan
+2017-11-19 01:34:55 Friends  : 99.2% at 32/sec for benjaminmarlow
+2017-11-19 01:34:56 Friends  : 100% at 38/sec for BensonHalton
+2017-11-19 01:35:11 Friends  : 99.1% at 37/sec for BenVerinder
+2017-11-19 01:35:27 Friends  : 99.6% at 36/sec for bernardjenkin
+2017-11-19 01:35:29 Tweets   : 42.8% at 36/sec for Be_HSDC
+2017-11-19 01:35:29 Friends  : 100% at 44/sec for BeverleyHughes1
+2017-11-19 01:35:37 Friends  : 98.8% at 32/sec for BexhillCollege
+2017-11-19 01:36:53 Tweets   : 91.5% at 38/sec for bedfordcollege
+2017-11-19 01:37:12 Tweets   : 99.6% at 28/sec for BedfordCollTS
+2017-11-19 01:38:36 Tweets   : 34.8% at 38/sec for benedictbrogan
+2017-11-19 01:39:56 Tweets   : 99.7% at 35/sec for benjaminmarlow
+2017-11-19 01:40:04 Tweets   : 100% at 2/sec for BensonHalton
+2017-11-19 01:41:40 Tweets   : 50.7% at 34/sec for BenVerinder
+2017-11-19 01:42:56 Tweets   : 70.9% at 42/sec for bernardjenkin
+2017-11-19 01:43:02 Tweets   : 100% at 10/sec for BeverleyHughes1
+2017-11-19 01:44:00 Tweets   : 99.1% at 41/sec for BexhillCollege
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+Warning message:
+package 'twitteR' was built under R version 3.4.1 

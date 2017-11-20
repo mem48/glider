@@ -1,0 +1,176 @@
+starting worker pid=12176 on localhost:11271 at 20:04:44.753
+starting worker pid=10748 on localhost:11271 at 20:04:44.936
+starting worker pid=12600 on localhost:11271 at 20:04:45.113
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-15 20:06:16 Favorites: 55.2% at 23/sec for spckin
+2017-11-15 20:06:16 Friends  : 99.8% at 40/sec for spckin
+2017-11-15 20:06:29 Friends  : 99.2% at 36/sec for speakoutquaker
+2017-11-15 20:06:39 Friends  : 100% at 38/sec for SpecCoffeeHouse
+2017-11-15 20:06:51 Friends  : 99.8% at 38/sec for spectator
+2017-11-15 20:06:52 Favorites: 51.5% at 41/sec for speakoutquaker
+2017-11-15 20:06:53 Favorites: 100% at 13/sec for SpecCoffeeHouse
+2017-11-15 20:06:57 Favorites: 82.8% at 41/sec for spectator
+2017-11-15 20:07:00 Favorites: Waiting for 9.3 minutes due to : Used up allowance in a loop
+2017-11-15 20:08:06 Tweets   : 54.1% at 42/sec for spckin
+2017-11-15 20:09:03 Friends  : 98.4% at 37/sec for SpencerPitfield
+2017-11-15 20:09:08 Friends  : 100% at 25/sec for StacyBostock
+2017-11-15 20:09:22 Tweets   : 91% at 42/sec for speakoutquaker
+2017-11-15 20:09:48 Friends  : 99.9% at 38/sec for SteveHiltonGuru
+2017-11-15 20:10:06 Friends  : 99.2% at 34/sec for SThompson20
+2017-11-15 20:10:32 Tweets   : 16.5% at 46/sec for SpecCoffeeHouse
+2017-11-15 20:10:58 Friends  : 99.1% at 35/sec for StratagemNI
+2017-11-15 20:11:47 Tweets   : 5.5% at 43/sec for spectator
+2017-11-15 20:12:59 Tweets   : 21% at 45/sec for SpencerPitfield
+2017-11-15 20:13:09 Tweets   : 99.3% at 14/sec for StacyBostock
+2017-11-15 20:14:13 Tweets   : 99.9% at 46/sec for SteveHiltonGuru
+2017-11-15 20:15:32 Tweets   : 87.5% at 40/sec for SThompson20
+2017-11-15 20:16:17 Favorites: 1.7% at 0/sec for SpencerPitfield
+2017-11-15 20:16:17 Favorites: Waiting for 0 minutes due to : Used up allowance in a loop
+2017-11-15 20:16:20 Favorites: 71.7% at 30/sec for StacyBostock
+2017-11-15 20:16:21 Favorites: 100% at 40/sec for SteveHiltonGuru
+2017-11-15 20:16:23 Favorites: 51.3% at 40/sec for SThompson20
+2017-11-15 20:16:48 Tweets   : 38.6% at 42/sec for StratagemNI
+2017-11-15 20:16:55 Favorites: 52.3% at 40/sec for StratagemNI
+2017-11-15 20:17:00 Favorites: 57.3% at 40/sec for STVNews
+2017-11-15 20:17:03 Friends  : 100% at 39/sec for STVNews
+2017-11-15 20:17:10 Favorites: 56% at 41/sec for sunny_hundal
+2017-11-15 20:17:16 Favorites: 61.7% at 46/sec for Survation
+2017-11-15 20:17:30 Friends  : 99.8% at 46/sec for sunny_hundal
+2017-11-15 20:17:30 Friends  : Waiting for 3 minutes
+2017-11-15 20:17:59 Tweets   : 2% at 45/sec for STVNews
+2017-11-15 20:18:05 Favorites: 50.5% at 42/sec for susanaktemel
+[1] "Server error: (500) Internal Server Error"
+[1] "This error is likely transient, retrying up to 5 more times ..."
+2017-11-15 20:18:21 Favorites: 50.2% at 47/sec for suzanne_khall
+2017-11-15 20:19:09 Favorites: Waiting for 12.2 minutes due to : Used up allowance in a loop
+2017-11-15 20:19:20 Tweets   : 1.6% at 39/sec for sunny_hundal
+2017-11-15 20:20:10 Tweets   : 99.9% at 50/sec for Survation
+2017-11-15 20:21:19 Tweets   : 47.5% at 46/sec for susanaktemel
+2017-11-15 20:22:07 Tweets   : 99.4% at 39/sec for suzanne_khall
+2017-11-15 20:23:17 Tweets   : 9.5% at 45/sec for Sweep1
+2017-11-15 20:24:25 Tweets   : 10% at 47/sec for swinfan69
+2017-11-15 20:25:47 Tweets   : 53.7% at 39/sec for swixley
+2017-11-15 20:26:00 Tweets   : 100% at 22/sec for T_W_Huddleston
+2017-11-15 20:27:11 Tweets   : 58.9% at 45/sec for T_Wragg
+2017-11-15 20:28:24 Tweets   : 51.9% at 43/sec for talkolderpeople
+2017-11-15 20:29:38 Tweets   : 5.3% at 44/sec for TelePolitics
+2017-11-15 20:30:10 Tweets   : 100% at 41/sec for THallettPwC
+2017-11-15 20:30:15 Friends  : 98.6% at 32/sec for Survation
+2017-11-15 20:31:15 Tweets   : 2.2% at 49/sec for TheBrummie
+2017-11-15 20:31:33 Friends  : 99.1% at 50/sec for susanaktemel
+2017-11-15 20:31:43 Favorites: 11.8% at 4/sec for Sweep1
+2017-11-15 20:31:52 Friends  : 98.8% at 48/sec for suzanne_khall
+2017-11-15 20:32:08 Tweets   : 99.9% at 42/sec for TheDetailTV
+2017-11-15 20:32:11 Friends  : 96.4% at 47/sec for Sweep1
+2017-11-15 20:32:34 Friends  : 98.5% at 46/sec for swinfan69
+2017-11-15 20:32:53 Favorites: 17.6% at 44/sec for swinfan69
+2017-11-15 20:33:20 Tweets   : 99% at 38/sec for TheDivideFilm
+2017-11-15 20:33:20 Friends  : 98.7% at 46/sec for swixley
+2017-11-15 20:33:27 Friends  : 99.1% at 46/sec for T_W_Huddleston
+2017-11-15 20:33:43 Favorites: 50.8% at 44/sec for swixley
+2017-11-15 20:33:48 Favorites: 97.1% at 44/sec for T_W_Huddleston
+2017-11-15 20:33:57 Favorites: 61% at 45/sec for T_Wragg
+2017-11-15 20:33:58 Favorites: 100% at 38/sec for talkolderpeople
+2017-11-15 20:33:58 Favorites: User TelePolitics has a protected account or no Favoritess to collect so skipping
+2017-11-15 20:34:00 Favorites: Waiting for 12.3 minutes due to : Used up allowance in a loop
+2017-11-15 20:34:27 Tweets   : 65.8% at 48/sec for TheEIFoundation
+2017-11-15 20:35:15 Friends  : 98.9% at 45/sec for T_Wragg
+2017-11-15 20:35:30 Friends  : 98.9% at 55/sec for talkolderpeople
+2017-11-15 20:35:38 Tweets   : 78.8% at 45/sec for theGCPH
+2017-11-15 20:35:53 Friends  : 99.9% at 55/sec for TelePolitics
+2017-11-15 20:36:51 Tweets   : 76.9% at 44/sec for TheIndyMoney
+2017-11-15 20:37:25 Friends  : 95.7% at 55/sec for THallettPwC
+2017-11-15 20:37:36 Friends  : 100% at 46/sec for TheBrummie
+2017-11-15 20:37:59 Tweets   : 7.7% at 47/sec for theJeremyVine
+2017-11-15 20:38:07 Friends  : 100% at 48/sec for TheDetailTV
+2017-11-15 20:38:25 Friends  : 100% at 49/sec for TheDivideFilm
+2017-11-15 20:39:13 Tweets   : 12.3% at 44/sec for themjcouk
+2017-11-15 20:39:13 Friends  : 99.8% at 50/sec for TheEIFoundation
+2017-11-15 20:39:33 Friends  : 98.6% at 53/sec for theGCPH
+2017-11-15 20:39:37 Friends  : 100% at 32/sec for TheIndyMoney
+2017-11-15 20:40:22 Tweets   : 2% at 46/sec for therightarticle
+2017-11-15 20:41:34 Tweets   : 7.5% at 45/sec for theSNP
+2017-11-15 20:42:19 Friends  : 99.6% at 46/sec for theJeremyVine
+2017-11-15 20:42:49 Tweets   : 77.4% at 42/sec for TheSRAOrg
+2017-11-15 20:43:55 Tweets   : 26% at 49/sec for TheStaggers
+2017-11-15 20:44:02 Friends  : 98.8% at 46/sec for themjcouk
+2017-11-15 20:44:59 Tweets   : 2% at 50/sec for thetimes
+2017-11-15 20:46:17 Tweets   : 73.5% at 41/sec for TheyGetOlder
+2017-11-15 20:46:22 Friends  : 97.9% at 47/sec for therightarticle
+2017-11-15 20:46:39 Favorites: 52.7% at 1/sec for THallettPwC
+2017-11-15 20:46:39 Favorites: 100% at 2/sec for TheBrummie
+2017-11-15 20:46:42 Favorites: 79.4% at 42/sec for TheDetailTV
+2017-11-15 20:46:49 Favorites: 59.6% at 28/sec for TheDivideFilm
+2017-11-15 20:47:00 Friends  : 99.9% at 47/sec for theSNP
+2017-11-15 20:47:01 Friends  : Waiting for 3.6 minutes
+2017-11-15 20:47:05 Tweets   : 100% at 45/sec for thinkcitiesuk
+2017-11-15 20:47:06 Favorites: 53% at 46/sec for TheEIFoundation
+2017-11-15 20:47:14 Favorites: 51.8% at 48/sec for theGCPH
+2017-11-15 20:47:15 Favorites: 100% at 17/sec for TheIndyMoney
+2017-11-15 20:48:13 Tweets   : 9.2% at 47/sec for ThirdSector
+2017-11-15 20:48:24 Favorites: 17.1% at 46/sec for theJeremyVine
+2017-11-15 20:48:25 Favorites: 89.4% at 33/sec for themjcouk
+2017-11-15 20:48:44 Favorites: 49.3% at 46/sec for therightarticle
+2017-11-15 20:48:57 Favorites: 55% at 46/sec for theSNP
+2017-11-15 20:48:57 Favorites: Waiting for 12.4 minutes due to : Used up allowance in a loop
+2017-11-15 20:49:28 Tweets   : 5.3% at 43/sec for ThirdSectorLab
+2017-11-15 20:49:56 Tweets   : 99.2% at 31/sec for thomson_matthew
+2017-11-15 20:50:58 Tweets   : 21.1% at 52/sec for timewisejobs
+2017-11-15 20:51:22 Friends  : 99.4% at 9/sec for TheSRAOrg
+2017-11-15 20:51:34 Friends  : 99.8% at 44/sec for TheStaggers
+2017-11-15 20:51:48 Friends  : 99.7% at 49/sec for thetimes
+2017-11-15 20:52:06 Friends  : 99.6% at 48/sec for TheyGetOlder
+2017-11-15 20:52:09 Tweets   : 48.7% at 45/sec for tom_denney
+2017-11-15 20:52:31 Friends  : 99.9% at 52/sec for thinkcitiesuk
+2017-11-15 20:52:54 Friends  : 99.4% at 49/sec for ThirdSector
+2017-11-15 20:53:22 Tweets   : 95.5% at 44/sec for TomAtTCS
+2017-11-15 20:53:55 Tweets   : 100% at 40/sec for tomhousing
+2017-11-15 20:55:03 Tweets   : 49.3% at 47/sec for tommacinnes
+2017-11-15 20:56:19 Tweets   : 33.2% at 42/sec for tonymc9899
+2017-11-15 20:57:32 Tweets   : 2.1% at 44/sec for TonyRobinsonOBE
+2017-11-15 20:58:44 Tweets   : 54.3% at 45/sec for ToynbeeHall
+2017-11-15 21:00:03 Tweets   : 11.3% at 40/sec for trainingcarers
+2017-11-15 21:01:12 Tweets   : 1.8% at 46/sec for TrendsUK
+2017-11-15 21:01:28 Favorites: 59% at 1/sec for TheSRAOrg
+2017-11-15 21:01:29 Favorites: 97.4% at 61/sec for TheStaggers
+2017-11-15 21:01:37 Friends  : 99.2% at 43/sec for ThirdSectorLab
+2017-11-15 21:01:48 Favorites: 49.5% at 45/sec for thetimes
+2017-11-15 21:01:50 Favorites: 83.9% at 47/sec for TheyGetOlder
+2017-11-15 21:01:51 Favorites: 100% at 14/sec for thinkcitiesuk
+2017-11-15 21:02:00 Favorites: 50.4% at 45/sec for ThirdSector
+2017-11-15 21:02:13 Favorites: 52.2% at 43/sec for ThirdSectorLab
+2017-11-15 21:02:15 Friends  : 99.1% at 47/sec for thomson_matthew
+2017-11-15 21:03:00 Friends  : 99.8% at 44/sec for timewisejobs
+2017-11-15 21:03:06 Favorites: 50.4% at 44/sec for thomson_matthew
+2017-11-15 21:03:21 Friends  : 99.8% at 41/sec for tom_denney
+2017-11-15 21:03:24 Favorites: 53.4% at 45/sec for timewisejobs
+2017-11-15 21:03:25 Favorites: 102.6% at 50/sec for tom_denney
+2017-11-15 21:03:36 Friends  : 97.9% at 39/sec for TomAtTCS
+2017-11-15 21:03:36 Friends  : Waiting for 2 minutes
+2017-11-15 21:03:46 Favorites: 52.1% at 47/sec for TomAtTCS
+2017-11-15 21:03:54 Favorites: 53.1% at 34/sec for tomhousing
+2017-11-15 21:04:00 Favorites: Waiting for 12.3 minutes due to : Used up allowance in a loop
+2017-11-15 21:05:57 Friends  : 98.1% at 6/sec for tomhousing
+2017-11-15 21:06:10 Friends  : 98.3% at 40/sec for tommacinnes
+2017-11-15 21:06:16 Friends  : 98.7% at 39/sec for tonymc9899
+2017-11-15 21:11:17 Friends  : 97.4% at 49/sec for TonyRobinsonOBE
+2017-11-15 21:12:07 Friends  : 99.8% at 48/sec for ToynbeeHall
+2017-11-15 21:15:05 Friends  : 99.7% at 43/sec for trainingcarers
+2017-11-15 21:16:25 Friends  : 100% at 43/sec for TrendsUK
+2017-11-15 21:16:36 Favorites: 51.7% at 1/sec for tommacinnes
+2017-11-15 21:17:42 Favorites: 42.9% at 46/sec for tonymc9899
+2017-11-15 21:18:49 Favorites: 7.4% at 48/sec for TonyRobinsonOBE
+2017-11-15 21:18:51 Favorites: Waiting for 12.5 minutes due to : Used up allowance in a loop
+2017-11-15 21:31:32 Favorites: 51.9% at 1/sec for ToynbeeHall
+2017-11-15 21:31:45 Favorites: 58% at 46/sec for trainingcarers
+2017-11-15 21:31:45 Favorites: 100% at 3/sec for TrendsUK
+Warning message:
+
+1: package 'twitteR' was built under R version 3.4.1 
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+package 'twitteR' was built under R version 3.4.1 
+In twInterfaceObj$doAPICall(cmd, params, method, ...) :
+  Rate limit encountered & retry limit reached - returning partial results

@@ -1,0 +1,163 @@
+starting worker pid=15280 on localhost:11271 at 13:58:40.319
+starting worker pid=9968 on localhost:11271 at 13:58:40.491
+starting worker pid=2552 on localhost:11271 at 13:58:40.658
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-18 14:00:56 Friends  : 99.8% at 40/sec for LivingLogicUK
+2017-11-18 14:01:13 Friends  : 99.1% at 19/sec for Liz1Stanley
+2017-11-18 14:01:18 Friends  : 100% at 54/sec for lizreason
+2017-11-18 14:01:22 Friends  : 100% at 19/sec for LockLamp
+2017-11-18 14:01:50 Friends  : 99.8% at 36/sec for Lodgico
+2017-11-18 14:02:39 Friends  : 99.8% at 35/sec for LondonAreaRep
+2017-11-18 14:03:12 Favorites: 66.7% at 30/sec for LivingLogicUK
+2017-11-18 14:03:15 Favorites: 74.4% at 50/sec for Liz1Stanley
+2017-11-18 14:03:15 Favorites: 100% at 11/sec for lizreason
+2017-11-18 14:03:16 Favorites: 100% at 28/sec for LockLamp
+2017-11-18 14:03:23 Favorites: 49.6% at 27/sec for Lodgico
+2017-11-18 14:03:24 Friends  : 99.1% at 33/sec for LondonYGs
+2017-11-18 14:03:37 Favorites: 71.5% at 21/sec for LondonAreaRep
+2017-11-18 14:03:39 Friends  : 99.3% at 29/sec for LordPhilofBrum
+2017-11-18 14:03:42 Friends  : 99.2% at 40/sec for LowNRGdesign
+2017-11-18 14:03:52 Favorites: Waiting for 3.6 minutes due to : Used up allowance in a loop
+2017-11-18 14:03:56 Friends  : 100% at 30/sec for LPCertificates
+2017-11-18 14:04:10 Friends  : 98.4% at 30/sec for Lucydevereux
+2017-11-18 14:04:13 Friends  : 100% at 45/sec for lynnfw
+2017-11-18 14:04:15 Friends  : 100% at 35/sec for MaackArchitects
+2017-11-18 14:04:35 Friends  : 99.7% at 34/sec for Maccaferri_UK
+2017-11-18 14:04:36 Friends  : 100% at 21/sec for MaciejReimann
+2017-11-18 14:04:36 Friends  : Waiting for 11.2 minutes
+2017-11-18 14:05:51 Tweets   : 100% at 28/sec for LivingLogicUK
+2017-11-18 14:06:53 Tweets   : 99.9% at 42/sec for Liz1Stanley
+2017-11-18 14:07:06 Tweets   : 100% at 23/sec for lizreason
+2017-11-18 14:07:17 Tweets   : 100% at 18/sec for LockLamp
+2017-11-18 14:07:39 Favorites: 53.8% at 4/sec for LondonYGs
+2017-11-18 14:07:41 Favorites: 100% at 61/sec for LordPhilofBrum
+2017-11-18 14:07:44 Favorites: 100% at 11/sec for LowNRGdesign
+2017-11-18 14:07:44 Favorites: User LPCertificates has a protected account or no Favoritess to collect so skipping
+2017-11-18 14:07:45 Favorites: 100% at 48/sec for Lucydevereux
+2017-11-18 14:07:45 Favorites: User lynnfw has a protected account or no Favoritess to collect so skipping
+2017-11-18 14:07:46 Favorites: 100% at 20/sec for MaackArchitects
+2017-11-18 14:07:52 Favorites: 50.8% at 33/sec for Maccaferri_UK
+2017-11-18 14:07:52 Favorites: User MaciejReimann has a protected account or no Favoritess to collect so skipping
+2017-11-18 14:07:52 Favorites: 100% at 3/sec for madecontracts
+2017-11-18 14:08:04 Tweets   : 99.9% at 41/sec for Lodgico
+2017-11-18 14:08:29 Tweets   : 99.7% at 29/sec for LondonAreaRep
+2017-11-18 14:09:17 Favorites: 1% at 38/sec for MAHAMOSA
+2017-11-18 14:09:18 Favorites: 100% at 20/sec for MakeMyHomeGreen
+2017-11-18 14:09:50 Tweets   : 57.4% at 39/sec for LondonYGs
+2017-11-18 14:10:37 Favorites: Waiting for 11.9 minutes due to : Used up allowance in a loop
+2017-11-18 14:11:11 Tweets   : 29.2% at 40/sec for LordPhilofBrum
+2017-11-18 14:11:23 Tweets   : 99.6% at 19/sec for LowNRGdesign
+2017-11-18 14:11:34 Tweets   : 99.4% at 16/sec for LPCertificates
+2017-11-18 14:11:50 Tweets   : 99.6% at 27/sec for Lucydevereux
+2017-11-18 14:12:05 Tweets   : 100% at 28/sec for lynnfw
+2017-11-18 14:12:15 Tweets   : 100% at 13/sec for MaackArchitects
+2017-11-18 14:12:39 Tweets   : 99.9% at 34/sec for Maccaferri_UK
+2017-11-18 14:12:46 Tweets   : 100% at 1/sec for MaciejReimann
+2017-11-18 14:12:55 Tweets   : 100% at 6/sec for madecontracts
+2017-11-18 14:14:18 Tweets   : 3.4% at 38/sec for MAHAMOSA
+2017-11-18 14:14:39 Tweets   : 100% at 29/sec for MakeMyHomeGreen
+2017-11-18 14:15:54 Tweets   : 12.2% at 43/sec for mammuthus
+2017-11-18 14:15:57 Friends  : 100% at 0/sec for madecontracts
+2017-11-18 14:15:57 Friends: Request of 27 exceeds the maximum of 15. Making an attemp
+Waiting will increase the number of results returned
+2017-11-18 14:15:57 Friends  : Waiting for 15 minutes
+2017-11-18 14:16:10 Tweets   : 100% at 24/sec for MangiaCaterina
+2017-11-18 14:16:27 Tweets   : 100% at 30/sec for Manue_Gre
+2017-11-18 14:17:49 Tweets   : 2.8% at 39/sec for marcuschown
+2017-11-18 14:18:16 Tweets   : 99.2% at 33/sec for Mark_E14
+2017-11-18 14:18:27 Tweets   : 100% at 13/sec for MarkAlmond1
+2017-11-18 14:19:46 Tweets   : 6.8% at 40/sec for markblk9779
+2017-11-18 14:21:08 Tweets   : 53.5% at 39/sec for Markenglisharch
+2017-11-18 14:21:43 Tweets   : 99.9% at 32/sec for markhamplaster
+2017-11-18 14:22:13 Tweets   : 99.5% at 32/sec for MarkPittaway
+2017-11-18 14:22:36 Favorites: 45.3% at 4/sec for mammuthus
+2017-11-18 14:22:48 Favorites: 62.3% at 31/sec for MangiaCaterina
+2017-11-18 14:22:49 Favorites: 100% at 56/sec for Manue_Gre
+2017-11-18 14:23:03 Favorites: 52% at 36/sec for marcuschown
+2017-11-18 14:23:05 Favorites: 80.2% at 61/sec for Mark_E14
+2017-11-18 14:23:05 Favorites: 100% at 3/sec for MarkAlmond1
+2017-11-18 14:23:40 Favorites: 51.3% at 34/sec for markblk9779
+2017-11-18 14:23:43 Favorites: 90.5% at 59/sec for Markenglisharch
+2017-11-18 14:23:43 Tweets   : 94.2% at 36/sec for MarkTulayESG
+2017-11-18 14:23:55 Favorites: 63.3% at 34/sec for markhamplaster
+2017-11-18 14:23:56 Favorites: 97.6% at 54/sec for MarkPittaway
+2017-11-18 14:24:04 Favorites: 57.8% at 37/sec for MarkTulayESG
+2017-11-18 14:24:04 Favorites: 100% at 3/sec for Martin_HICCU
+2017-11-18 14:24:05 Favorites: 100% at 2/sec for MartinHolladay
+2017-11-18 14:24:09 Tweets   : 100% at 27/sec for Martin_HICCU
+2017-11-18 14:24:09 Favorites: 98.6% at 17/sec for MaryPFPI
+2017-11-18 14:24:17 Favorites: 59.4% at 40/sec for MattieTompkins
+2017-11-18 14:24:18 Favorites: 100% at 49/sec for Max_Locs
+2017-11-18 14:25:33 Tweets   : 99.9% at 36/sec for MartinHolladay
+2017-11-18 14:25:39 Favorites: Waiting for 11.9 minutes due to : Used up allowance in a loop
+2017-11-18 14:25:52 Tweets   : 100% at 29/sec for MaryPFPI
+2017-11-18 14:26:43 Tweets   : 98.9% at 33/sec for MattieTompkins
+2017-11-18 14:28:11 Tweets   : 80.1% at 37/sec for Max_Locs
+2017-11-18 14:29:35 Tweets   : 5.9% at 38/sec for maxphillips
+2017-11-18 14:29:46 Tweets   : 100% at 20/sec for McParlandFinn
+2017-11-18 14:30:58 Tweets   : 99.6% at 39/sec for MCRYoungGreens
+2017-11-18 14:31:08 Tweets   : 100% at 11/sec for MEARUgsa
+2017-11-18 14:32:32 Tweets   : 5.1% at 38/sec for mellojonny
+2017-11-18 14:33:55 Tweets   : 15.2% at 39/sec for melstarrs
+2017-11-18 14:35:27 Tweets   : 14.6% at 34/sec for MhehedZherting
+2017-11-18 14:37:05 Tweets   : 5.8% at 33/sec for MichaelAbberton
+2017-11-18 14:37:40 Favorites: 25.5% at 4/sec for maxphillips
+2017-11-18 14:37:41 Favorites: 100% at 22/sec for McParlandFinn
+2017-11-18 14:37:56 Favorites: 48.6% at 37/sec for MCRYoungGreens
+2017-11-18 14:37:57 Favorites: 100% at 47/sec for MEARUgsa
+2017-11-18 14:38:44 Tweets   : 6.7% at 32/sec for MichaelEMann
+2017-11-18 14:39:29 Favorites: 49.5% at 33/sec for mellojonny
+2017-11-18 14:39:32 Favorites: 53.6% at 62/sec for melstarrs
+2017-11-18 14:40:23 Tweets   : 6.4% at 32/sec for mike_cal
+2017-11-18 14:40:59 Favorites: Waiting for 11.6 minutes due to : Used up allowance in a loop
+2017-11-18 14:41:47 Tweets   : 99.9% at 35/sec for MikeChilds1
+2017-11-18 14:43:10 Tweets   : 32.2% at 38/sec for mikegalsworthy
+2017-11-18 14:52:36 Favorites: 17.6% at 4/sec for MhehedZherting
+2017-11-18 14:53:31 Favorites: 49.3% at 39/sec for MichaelAbberton
+2017-11-18 14:54:37 Favorites: 49.3% at 40/sec for MichaelEMann
+2017-11-18 14:55:41 Favorites: Waiting for 11.9 minutes due to : Used up allowance in a loop
+2017-11-18 15:04:23 Friends  : 52.2% at 24/sec for MAHAMOSA
+2017-11-18 15:04:36 Friends  : 100% at 44/sec for MakeMyHomeGreen
+2017-11-18 15:05:29 Friends  : 99.1% at 43/sec for mammuthus
+2017-11-18 15:05:36 Friends  : 99.7% at 40/sec for MangiaCaterina
+2017-11-18 15:05:39 Friends  : 100% at 53/sec for Manue_Gre
+2017-11-18 15:05:54 Friends  : 98.9% at 42/sec for marcuschown
+2017-11-18 15:06:03 Friends  : 99.7% at 41/sec for Mark_E14
+2017-11-18 15:06:47 Friends  : 100% at 43/sec for MarkAlmond1
+2017-11-18 15:07:44 Favorites: 49.9% at 3/sec for mike_cal
+2017-11-18 15:07:45 Favorites: 100% at 34/sec for MikeChilds1
+2017-11-18 15:08:03 Friends  : 98.5% at 42/sec for markblk9779
+2017-11-18 15:08:59 Favorites: 26% at 43/sec for mikegalsworthy
+2017-11-18 15:11:45 Friends  : 99.8% at 40/sec for Markenglisharch
+2017-11-18 15:11:55 Friends  : 98.1% at 39/sec for markhamplaster
+2017-11-18 15:12:39 Friends  : 99.7% at 41/sec for MarkPittaway
+2017-11-18 15:15:52 Friends  : 99% at 38/sec for MarkTulayESG
+2017-11-18 15:16:09 Friends  : 100% at 31/sec for Martin_HICCU
+2017-11-18 15:16:09 Friends  : Waiting for 3.3 minutes
+2017-11-18 15:19:29 Friends  : 100% at 0/sec for MartinHolladay
+2017-11-18 15:19:38 Friends  : 99.7% at 32/sec for MaryPFPI
+2017-11-18 15:19:50 Friends  : 99.6% at 39/sec for MattieTompkins
+2017-11-18 15:20:55 Friends  : 99% at 36/sec for Max_Locs
+2017-11-18 15:22:31 Friends  : 99.8% at 35/sec for maxphillips
+2017-11-18 15:22:40 Friends  : 100% at 35/sec for McParlandFinn
+2017-11-18 15:23:33 Friends  : 99.9% at 32/sec for MCRYoungGreens
+2017-11-18 15:23:51 Friends  : 97.5% at 35/sec for MEARUgsa
+2017-11-18 15:24:38 Friends  : 99.2% at 34/sec for mellojonny
+2017-11-18 15:25:07 Friends  : 100% at 35/sec for melstarrs
+2017-11-18 15:25:12 Friends  : 96.5% at 16/sec for MhehedZherting
+2017-11-18 15:26:07 Friends  : 99.2% at 37/sec for MichaelAbberton
+2017-11-18 15:26:33 Friends  : 99% at 35/sec for MichaelEMann
+2017-11-18 15:26:47 Friends  : 99% at 28/sec for mike_cal
+2017-11-18 15:27:09 Friends  : 100% at 24/sec for MikeChilds1
+2017-11-18 15:27:09 Friends  : Waiting for 7.4 minutes
+2017-11-18 15:50:01 Friends  : 95.4% at 27/sec for mikegalsworthy
+Warning messages:
+1: package 'twitteR' was built under R version 3.4.1 
+2: In twInterfaceObj$doAPICall(cmd, params, method, ...) :
+  Rate limit encountered & retry limit reached - returning partial results
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+Warning message:
+package 'twitteR' was built under R version 3.4.1 

@@ -1,0 +1,173 @@
+starting worker pid=12560 on localhost:11271 at 04:31:12.035
+starting worker pid=6252 on localhost:11271 at 04:31:12.196
+starting worker pid=12828 on localhost:11271 at 04:31:12.357
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-17 04:32:50 Friends  : 99.5% at 28/sec for briddj
+2017-11-17 04:32:59 Friends  : 99.7% at 39/sec for bridget_wayman
+2017-11-17 04:33:33 Friends  : 98.9% at 42/sec for britwiz
+2017-11-17 04:33:48 Favorites: 51.8% at 27/sec for briddj
+2017-11-17 04:34:20 Favorites: 50.5% at 37/sec for bridget_wayman
+2017-11-17 04:34:26 Friends  : 98.4% at 41/sec for brlaron
+2017-11-17 04:35:03 Friends  : 97.6% at 42/sec for Build_Upp
+2017-11-17 04:35:18 Friends  : 98.5% at 34/sec for BuildingVic
+2017-11-17 04:35:34 Favorites: 40.6% at 40/sec for britwiz
+2017-11-17 04:35:43 Favorites: Waiting for 7 minutes due to : Used up allowance in a loop
+2017-11-17 04:36:02 Tweets   : 74% at 44/sec for briddj
+2017-11-17 04:36:52 Friends  : 100% at 40/sec for BuiltIntel
+2017-11-17 04:36:56 Friends  : 97.1% at 31/sec for CarlG_alinea
+2017-11-17 04:37:09 Friends  : 98.9% at 42/sec for CarmenEDixon
+2017-11-17 04:37:16 Tweets   : 29% at 43/sec for bridget_wayman
+2017-11-17 04:37:37 Friends  : 99.9% at 43/sec for CastleDrogoNT
+2017-11-17 04:37:40 Friends  : 97.2% at 21/sec for CathieJ67
+2017-11-17 04:38:23 Friends  : 99.2% at 40/sec for CausewayTech
+2017-11-17 04:38:26 Tweets   : 16.3% at 45/sec for britwiz
+2017-11-17 04:38:39 Friends  : 99.8% at 40/sec for CBCProperty
+2017-11-17 04:38:42 Friends  : 97.6% at 25/sec for cblancoARQ
+2017-11-17 04:38:53 Friends  : 96.8% at 36/sec for CBRE_NI
+2017-11-17 04:38:53 Friends  : Waiting for 8.6 minutes
+2017-11-17 04:39:35 Tweets   : 88.4% at 46/sec for brlaron
+2017-11-17 04:40:14 Tweets   : 99.9% at 42/sec for Build_Upp
+2017-11-17 04:40:27 Tweets   : 99.7% at 28/sec for BuildingVic
+2017-11-17 04:41:24 Tweets   : 100% at 49/sec for BuiltIntel
+2017-11-17 04:41:31 Tweets   : 100% at 10/sec for CarlG_alinea
+2017-11-17 04:41:54 Tweets   : 100% at 36/sec for CarmenEDixon
+2017-11-17 04:42:47 Favorites: 56% at 1/sec for brlaron
+2017-11-17 04:42:55 Favorites: 52.2% at 45/sec for Build_Upp
+2017-11-17 04:43:07 Tweets   : 90.9% at 44/sec for CastleDrogoNT
+2017-11-17 04:43:14 Favorites: 51.2% at 42/sec for BuildingVic
+2017-11-17 04:43:15 Favorites: 100% at 12/sec for BuiltIntel
+2017-11-17 04:43:15 Tweets   : 100% at 14/sec for CathieJ67
+2017-11-17 04:43:16 Favorites: 100% at 66/sec for CarlG_alinea
+2017-11-17 04:43:20 Favorites: 79.8% at 49/sec for CarmenEDixon
+2017-11-17 04:43:31 Favorites: 57.3% at 44/sec for CastleDrogoNT
+2017-11-17 04:44:29 Tweets   : 90.7% at 43/sec for CausewayTech
+2017-11-17 04:44:36 Favorites: 50.1% at 43/sec for CathieJ67
+2017-11-17 04:44:52 Tweets   : 99.9% at 32/sec for CBCProperty
+2017-11-17 04:44:53 Favorites: 55.6% at 45/sec for CausewayTech
+2017-11-17 04:44:58 Favorites: 51% at 46/sec for CBCProperty
+2017-11-17 04:44:59 Favorites: 82.5% at 70/sec for cblancoARQ
+2017-11-17 04:45:02 Favorites: 50% at 35/sec for CBRE_NI
+2017-11-17 04:45:05 Favorites: 84.5% at 33/sec for CBRESingapore
+2017-11-17 04:45:06 Favorites: 55.9% at 60/sec for CGNaylorLLP
+2017-11-17 04:45:13 Tweets   : 99.9% at 32/sec for cblancoARQ
+2017-11-17 04:45:24 Favorites: 55.9% at 45/sec for CGrindeyArts
+2017-11-17 04:45:31 Favorites: Waiting for 12.2 minutes due to : Used up allowance in a loop
+2017-11-17 04:45:42 Tweets   : 100% at 33/sec for CBRE_NI
+2017-11-17 04:46:26 Tweets   : 100% at 48/sec for CBRESingapore
+2017-11-17 04:46:45 Tweets   : 97.7% at 41/sec for CGNaylorLLP
+2017-11-17 04:47:07 Tweets   : 100% at 36/sec for CGrindeyArts
+2017-11-17 04:47:29 Friends  : 100% at 0/sec for CBRESingapore
+2017-11-17 04:47:45 Friends  : 98.3% at 33/sec for CGNaylorLLP
+2017-11-17 04:47:59 Friends  : 99.1% at 41/sec for CGrindeyArts
+2017-11-17 04:48:14 Tweets   : 14.6% at 47/sec for charlesfifield
+2017-11-17 04:48:15 Friends  : 98.4% at 32/sec for charlesfifield
+2017-11-17 04:48:23 Friends  : 98.7% at 38/sec for CharlieHouseHQ
+2017-11-17 04:48:44 Tweets   : 96.1% at 42/sec for CharlieHouseHQ
+2017-11-17 04:49:07 Friends  : 97.7% at 40/sec for ChartersEstateA
+2017-11-17 04:49:14 Friends  : 96.5% at 30/sec for Chris_J_Brooke
+Error in twInterfaceObj$doAPICall(paste("users", "show", sep = "/"), params = params,  : 
+  Not Found (HTTP 404).
+In addition: Warning message:
+package 'twitteR' was built under R version 3.4.1 
+2017-11-17 04:49:15 Friends: Unable to find account ChrisBCRH moving to next
+2017-11-17 04:49:15 Friends  : % at /sec for ChrisBCRH
+2017-11-17 04:49:53 Tweets   : 48% at 47/sec for ChartersEstateA
+2017-11-17 04:50:18 Tweets   : 100% at 37/sec for Chris_J_Brooke
+2017-11-17 04:50:29 Tweets   : 100% at 17/sec for ChrisBCRH
+2017-11-17 04:50:34 Friends  : 100% at 36/sec for CityscapeMENA
+2017-11-17 04:51:02 Friends  : 98.5% at 37/sec for civicengineers
+2017-11-17 04:51:31 Friends  : 99.5% at 33/sec for clarkekev
+2017-11-17 04:51:44 Tweets   : 47.8% at 43/sec for CityscapeMENA
+2017-11-17 04:51:57 Friends  : 99.6% at 33/sec for Codders73
+2017-11-17 04:52:02 Friends  : 100% at 35/sec for CohenCohen31
+2017-11-17 04:52:12 Friends  : 100% at 29/sec for colberto1983
+2017-11-17 04:52:24 Tweets   : 99.4% at 40/sec for civicengineers
+2017-11-17 04:52:39 Friends  : 100% at 35/sec for cole_rawcliffe
+2017-11-17 04:52:42 Tweets   : 99.8% at 27/sec for clarkekev
+2017-11-17 04:53:02 Friends  : 98.3% at 43/sec for ColihautLegend
+2017-11-17 04:53:02 Friends  : Waiting for 9.5 minutes
+2017-11-17 04:53:41 Tweets   : 99.8% at 44/sec for Codders73
+2017-11-17 04:53:51 Tweets   : 100% at 15/sec for CohenCohen31
+2017-11-17 04:54:14 Tweets   : 99.3% at 34/sec for colberto1983
+2017-11-17 04:54:29 Tweets   : 99.2% at 38/sec for cole_rawcliffe
+2017-11-17 04:55:19 Tweets   : 98.6% at 51/sec for ColihautLegend
+2017-11-17 04:55:42 Tweets   : 99.7% at 41/sec for Colliers_ARG
+2017-11-17 04:56:52 Tweets   : 52.9% at 45/sec for ConstructChat
+2017-11-17 04:57:03 Tweets   : 100% at 23/sec for corentin_cbre
+2017-11-17 04:57:46 Favorites: 20.3% at 0/sec for charlesfifield
+2017-11-17 04:57:59 Favorites: 53.2% at 45/sec for CharlieHouseHQ
+2017-11-17 04:58:07 Tweets   : 37% at 50/sec for CORFACIntl
+2017-11-17 04:58:20 Tweets   : 100% at 28/sec for CosgrovePropCo
+2017-11-17 04:58:48 Tweets   : 100% at 41/sec for CounselorsofRE
+2017-11-17 04:59:08 Favorites: 37.3% at 48/sec for ChartersEstateA
+2017-11-17 04:59:19 Favorites: 57.2% at 44/sec for Chris_J_Brooke
+2017-11-17 04:59:22 Favorites: 56.2% at 36/sec for ChrisBCRH
+2017-11-17 04:59:41 Favorites: 50.2% at 47/sec for CityscapeMENA
+2017-11-17 04:59:49 Favorites: 61.6% at 40/sec for civicengineers
+2017-11-17 04:59:53 Favorites: 94.8% at 44/sec for clarkekev
+2017-11-17 04:59:58 Favorites: 63.5% at 42/sec for Codders73
+2017-11-17 05:00:02 Favorites: 87% at 47/sec for CohenCohen31
+2017-11-17 05:00:02 Tweets   : 64.8% at 43/sec for CPF_SW
+2017-11-17 05:00:05 Favorites: 68.3% at 36/sec for colberto1983
+2017-11-17 05:00:06 Favorites: 58.4% at 62/sec for cole_rawcliffe
+2017-11-17 05:00:22 Favorites: 51.9% at 48/sec for ColihautLegend
+2017-11-17 05:00:27 Favorites: Waiting for 12.3 minutes due to : Used up allowance in a loop
+2017-11-17 05:01:16 Tweets   : 75.4% at 43/sec for CRC_College
+2017-11-17 05:02:05 Tweets   : 99.9% at 40/sec for CresaCorp
+2017-11-17 05:02:29 Tweets   : 99.7% at 45/sec for CummingCorp
+2017-11-17 05:02:45 Friends  : 98.6% at 1/sec for Colliers_ARG
+2017-11-17 05:02:52 Tweets   : 99.9% at 38/sec for CunninghamReid
+2017-11-17 05:03:06 Tweets   : 100% at 34/sec for CW_EarlyCareers
+2017-11-17 05:04:02 Tweets   : 99.8% at 47/sec for CyArk
+2017-11-17 05:04:09 Friends  : 99.8% at 39/sec for ConstructChat
+2017-11-17 05:04:18 Tweets   : 99.8% at 29/sec for DalrympleRennie
+2017-11-17 05:04:22 Friends  : 87.4% at 40/sec for corentin_cbre
+2017-11-17 05:04:33 Friends  : 97% at 37/sec for CORFACIntl
+2017-11-17 05:04:55 Friends  : 100% at 38/sec for CosgrovePropCo
+2017-11-17 05:05:02 Friends  : 98.8% at 34/sec for CounselorsofRE
+2017-11-17 05:05:06 Friends  : 99.1% at 29/sec for CPF_SW
+2017-11-17 05:05:30 Tweets   : 28.3% at 44/sec for DamienFinnegan_
+2017-11-17 05:05:36 Friends  : 97.2% at 39/sec for CRC_College
+2017-11-17 05:06:01 Friends  : 99.9% at 39/sec for CresaCorp
+2017-11-17 05:06:21 Friends  : 99.2% at 36/sec for CummingCorp
+2017-11-17 05:06:28 Friends  : 99.4% at 27/sec for CunninghamReid
+2017-11-17 05:06:34 Friends  : 99% at 44/sec for CW_EarlyCareers
+2017-11-17 05:06:43 Tweets   : 76.4% at 44/sec for danilopapaleo
+2017-11-17 05:06:56 Tweets   : 100% at 26/sec for DarrenFoy1972
+2017-11-17 05:07:43 Tweets   : 99.6% at 36/sec for Dave69blackpool
+2017-11-17 05:08:24 Tweets   : 99.4% at 38/sec for davemlewis
+2017-11-17 05:08:27 Friends  : 99.4% at 36/sec for CyArk
+2017-11-17 05:08:33 Friends  : 94.7% at 31/sec for DalrympleRennie
+2017-11-17 05:09:35 Friends  : 99.2% at 36/sec for DamienFinnegan_
+2017-11-17 05:09:36 Friends  : Waiting for 8 minutes
+2017-11-17 05:12:49 Favorites: 56% at 0/sec for Colliers_ARG
+2017-11-17 05:13:29 Favorites: 10.3% at 44/sec for ConstructChat
+2017-11-17 05:13:30 Favorites: 100% at 40/sec for corentin_cbre
+2017-11-17 05:13:39 Favorites: 57.7% at 47/sec for CORFACIntl
+2017-11-17 05:13:46 Favorites: 62.7% at 42/sec for CosgrovePropCo
+2017-11-17 05:13:47 Favorites: 62.9% at 56/sec for CounselorsofRE
+2017-11-17 05:13:48 Favorites: 100% at 38/sec for CPF_SW
+2017-11-17 05:13:51 Favorites: 96.1% at 39/sec for CRC_College
+2017-11-17 05:13:56 Favorites: 72.2% at 53/sec for CresaCorp
+2017-11-17 05:13:59 Favorites: 76.8% at 36/sec for CummingCorp
+2017-11-17 05:14:10 Favorites: 50.1% at 44/sec for CunninghamReid
+2017-11-17 05:14:11 Favorites: 97.4% at 48/sec for CW_EarlyCareers
+2017-11-17 05:14:34 Favorites: 51.1% at 45/sec for CyArk
+2017-11-17 05:14:44 Favorites: 57.1% at 50/sec for DalrympleRennie
+2017-11-17 05:14:47 Favorites: 58.1% at 40/sec for DamienFinnegan_
+2017-11-17 05:14:55 Favorites: 60.4% at 49/sec for danilopapaleo
+2017-11-17 05:14:58 Favorites: 86.8% at 37/sec for DarrenFoy1972
+2017-11-17 05:15:03 Favorites: 59.2% at 52/sec for Dave69blackpool
+2017-11-17 05:15:16 Favorites: 54.2% at 47/sec for davemlewis
+2017-11-17 05:17:40 Friends  : 97.9% at 0/sec for danilopapaleo
+2017-11-17 05:17:50 Friends  : 99.3% at 31/sec for DarrenFoy1972
+2017-11-17 05:18:08 Friends  : 98.1% at 31/sec for Dave69blackpool
+2017-11-17 05:18:30 Friends  : 99.6% at 42/sec for davemlewis
+Warning messages:
+1: package 'twitteR' was built under R version 3.4.1 
+2: In twInterfaceObj$doAPICall(cmd, params, method, ...) :
+ Warning message:
+tered & retry limit reached - returning partial results
+package 'twitteR' was built under R version 3.4.1 

@@ -1,0 +1,178 @@
+starting worker pid=4168 on localhost:11271 at 06:17:10.203
+starting worker pid=13536 on localhost:11271 at 06:17:10.364
+starting worker pid=1964 on localhost:11271 at 06:17:10.526
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-17 06:18:54 Friends  : 99.5% at 35/sec for Fred_Mills
+2017-11-17 06:19:00 Friends  : 99.6% at 45/sec for freeholdLGBT
+2017-11-17 06:19:28 Friends  : 97.9% at 42/sec for gareth_coastal
+2017-11-17 06:19:31 Friends  : 90.5% at 7/sec for garetht161
+2017-11-17 06:19:37 Friends  : 100% at 41/sec for GaryReynolds_
+2017-11-17 06:19:45 Friends  : 97.2% at 33/sec for gavin_winbanks
+2017-11-17 06:20:21 Friends  : 99.6% at 39/sec for GBCSA
+2017-11-17 06:20:26 Friends  : 98.5% at 28/sec for Gembuildingsurv
+2017-11-17 06:20:38 Friends  : 98.4% at 34/sec for GemLG
+2017-11-17 06:20:43 Friends  : 95.5% at 35/sec for GemmaBegbie
+2017-11-17 06:21:04 Favorites: Waiting for 6.8 minutes due to : Used up allowance in a loop
+2017-11-17 06:22:09 Tweets   : 99.7% at 44/sec for Fred_Mills
+2017-11-17 06:22:26 Tweets   : 99.1% at 33/sec for freeholdLGBT
+2017-11-17 06:22:35 Friends  : 98.6% at 40/sec for GEOBusinessShow
+2017-11-17 06:22:52 Friends  : 99.7% at 37/sec for GeometraExperto
+2017-11-17 06:23:01 Tweets   : 99.9% at 43/sec for gareth_coastal
+2017-11-17 06:23:07 Tweets   : 100% at 9/sec for garetht161
+2017-11-17 06:23:15 Tweets   : 100% at 8/sec for GaryReynolds_
+2017-11-17 06:23:20 Tweets   : 100% at 9/sec for gavin_winbanks
+2017-11-17 06:23:36 Friends  : 97% at 40/sec for GHDspeaks
+2017-11-17 06:24:34 Tweets   : 24.8% at 44/sec for GBCSA
+2017-11-17 06:24:41 Friends  : 99% at 38/sec for gim_intl
+2017-11-17 06:24:42 Tweets   : 98.4% at 15/sec for Gembuildingsurv
+2017-11-17 06:24:47 Friends  : 100% at 31/sec for GleedsUSA
+2017-11-17 06:24:48 Friends  : Waiting for 8.7 minutes
+2017-11-17 06:25:04 Tweets   : 99.6% at 41/sec for GemLG
+2017-11-17 06:25:10 Tweets   : 100% at 6/sec for GemmaBegbie
+2017-11-17 06:26:19 Tweets   : 75.9% at 46/sec for GEOBusinessShow
+2017-11-17 06:26:33 Tweets   : 98.3% at 29/sec for GeometraExperto
+2017-11-17 06:27:12 Tweets   : 100% at 43/sec for GHDspeaks
+2017-11-17 06:27:55 Favorites: 36.8% at 7/sec for Fred_Mills
+2017-11-17 06:27:57 Favorites: 55.9% at 66/sec for freeholdLGBT
+2017-11-17 06:28:22 Tweets   : 26.6% at 45/sec for gim_intl
+2017-11-17 06:28:36 Tweets   : 100% at 25/sec for GleedsUSA
+2017-11-17 06:28:50 Favorites: 51.6% at 43/sec for gareth_coastal
+2017-11-17 06:28:50 Favorites: 100% at 43/sec for garetht161
+2017-11-17 06:28:51 Favorites: 100% at 3/sec for GaryReynolds_
+2017-11-17 06:28:55 Favorites: 60.7% at 49/sec for gavin_winbanks
+2017-11-17 06:29:33 Favorites: 52.1% at 44/sec for GBCSA
+2017-11-17 06:29:34 Favorites: 70.9% at 71/sec for Gembuildingsurv
+2017-11-17 06:29:39 Favorites: 49.8% at 47/sec for GemLG
+2017-11-17 06:29:44 Favorites: 97.1% at 12/sec for GemmaBegbie
+2017-11-17 06:29:53 Favorites: 53.2% at 47/sec for GEOBusinessShow
+2017-11-17 06:29:54 Tweets   : 70.3% at 41/sec for GNeighbour
+2017-11-17 06:29:55 Favorites: 98% at 37/sec for GeometraExperto
+2017-11-17 06:29:56 Favorites: 96.7% at 40/sec for GHDspeaks
+2017-11-17 06:29:57 Favorites: 100% at 50/sec for gim_intl
+2017-11-17 06:29:58 Favorites: 97.8% at 54/sec for GleedsUSA
+2017-11-17 06:30:02 Tweets   : 100% at 16/sec for GowersSurveyors
+2017-11-17 06:30:08 Tweets   : 100% at 0/sec for gpefacility
+2017-11-17 06:30:20 Favorites: 52.1% at 44/sec for GNeighbour
+2017-11-17 06:30:20 Favorites: User GowersSurveyors has a protected account or no Favoritess to collect so skipping
+2017-11-17 06:30:21 Favorites: 100% at 2/sec for gpefacility
+2017-11-17 06:30:22 Favorites: 57.5% at 70/sec for GrahamKellyBIM
+2017-11-17 06:30:25 Tweets   : 100% at 26/sec for GrahamKellyBIM
+2017-11-17 06:30:29 Favorites: 56.3% at 42/sec for greenroof
+2017-11-17 06:30:29 Favorites: Waiting for 12.3 minutes due to : Used up allowance in a loop
+2017-11-17 06:31:45 Tweets   : 56.6% at 40/sec for greenroof
+2017-11-17 06:32:06 Tweets   : 100% at 24/sec for Greenwayjames1
+2017-11-17 06:32:32 Tweets   : 100% at 46/sec for GriffithsArmour
+2017-11-17 06:32:41 Tweets   : 100% at 20/sec for grnbrowne
+2017-11-17 06:33:45 Friends  : 97.9% at 1/sec for GNeighbour
+2017-11-17 06:33:47 Friends  : 100% at 40/sec for GowersSurveyors
+2017-11-17 06:33:48 Friends  : 100% at 6/sec for gpefacility
+2017-11-17 06:33:48 Tweets   : 15.1% at 47/sec for hangfirebbq
+2017-11-17 06:34:00 Tweets   : 100% at 28/sec for HannahHolmesUK
+2017-11-17 06:34:11 Friends  : 99.1% at 35/sec for GrahamKellyBIM
+2017-11-17 06:34:11 Tweets   : 100% at 29/sec for harriethatch
+2017-11-17 06:34:22 Tweets   : 99.3% at 24/sec for HCaudrey
+2017-11-17 06:34:42 Friends  : 98.6% at 36/sec for greenroof
+2017-11-17 06:34:51 Friends  : 98.3% at 31/sec for Greenwayjames1
+2017-11-17 06:35:06 Friends  : 98.9% at 36/sec for GriffithsArmour
+2017-11-17 06:35:09 Friends  : 100% at 16/sec for grnbrowne
+2017-11-17 06:35:36 Tweets   : 68.7% at 43/sec for hcsurveyors
+2017-11-17 06:35:46 Tweets   : 10.9% at 41/sec for hedley_smith
+2017-11-17 06:35:46 Tweets   : Waiting for 0.4 minutes
+2017-11-17 06:36:56 Friends  : 99% at 34/sec for hangfirebbq
+2017-11-17 06:37:02 Tweets   : 99.9% at 26/sec for HelenRGough
+2017-11-17 06:37:20 Friends  : 96.7% at 28/sec for HannahHolmesUK
+2017-11-17 06:37:31 Friends  : 100% at 44/sec for harriethatch
+2017-11-17 06:37:35 Tweets   : 99.8% at 36/sec for HephaestusAssoc
+2017-11-17 06:37:38 Friends  : 98.6% at 38/sec for HCaudrey
+2017-11-17 06:37:50 Friends  : 96.9% at 41/sec for hcsurveyors
+2017-11-17 06:38:15 Friends  : 99% at 42/sec for hedley_smith
+2017-11-17 06:38:32 Friends  : 97.2% at 40/sec for HelenRGough
+2017-11-17 06:38:32 Friends  : Waiting for 10.1 minutes
+2017-11-17 06:38:53 Tweets   : 26.3% at 40/sec for heritagetrusts
+2017-11-17 06:39:46 Tweets   : 99.8% at 41/sec for Hillintl
+Error in twInterfaceObj$doAPICall(cmd, params, method, ...) : 
+  Service Unavailable (HTTP 503).
+In addition: Warning messages:
+1: package 'twitteR' was built under R version 3.4.1 
+2: In twInterfaceObj$doAPICall(cmd, params, method, ...) :
+  Rate limit encountered & retry limit reached - returning partial results
+2017-11-17 06:39:58 Tweets: Unable to find account HLFWestMids moving to next
+2017-11-17 06:39:58 Tweets   : % at /sec for HLFWestMids
+2017-11-17 06:40:04 Tweets   : 100% at 7/sec for HookwayLLP
+2017-11-17 06:40:53 Tweets   : 99.7% at 37/sec for iamkobbyofori
+2017-11-17 06:41:00 Tweets   : 100% at 14/sec for ian_levers
+2017-11-17 06:41:13 Tweets   : 100% at 29/sec for ianwilliamsltd
+2017-11-17 06:41:26 Tweets   : 100% at 30/sec for Inclusioneer
+2017-11-17 06:42:32 Tweets   : 76.5% at 48/sec for Infabode
+2017-11-17 06:42:58 Favorites: 60.4% at 1/sec for Greenwayjames1
+2017-11-17 06:43:01 Favorites: 75.2% at 35/sec for GriffithsArmour
+2017-11-17 06:43:02 Favorites: 100% at 5/sec for grnbrowne
+2017-11-17 06:43:44 Tweets   : 68.6% at 44/sec for IngridNappi
+2017-11-17 06:44:14 Favorites: 13.8% at 44/sec for hangfirebbq
+2017-11-17 06:44:24 Favorites: 58.5% at 39/sec for HannahHolmesUK
+2017-11-17 06:44:26 Favorites: 62.1% at 64/sec for harriethatch
+2017-11-17 06:44:28 Favorites: 95.3% at 18/sec for HCaudrey
+2017-11-17 06:44:29 Favorites: 100% at 49/sec for hcsurveyors
+2017-11-17 06:44:34 Tweets   : 100% at 43/sec for InkpenDownie
+2017-11-17 06:44:39 Favorites: 52% at 48/sec for hedley_smith
+2017-11-17 06:44:53 Favorites: 52.8% at 42/sec for HelenRGough
+2017-11-17 06:44:58 Favorites: 50.5% at 43/sec for HephaestusAssoc
+2017-11-17 06:45:35 Favorites: Waiting for 12.2 minutes due to : Used up allowance in a loop
+2017-11-17 06:45:51 Tweets   : 78.6% at 42/sec for InnesEngland
+2017-11-17 06:47:07 Tweets   : 86.8% at 42/sec for InterimFM
+2017-11-17 06:48:19 Tweets   : 24.3% at 45/sec for IntWorkplace
+2017-11-17 06:48:40 Tweets   : 99.8% at 38/sec for ismgray
+2017-11-17 06:48:48 Friends  : 97.1% at 1/sec for HephaestusAssoc
+2017-11-17 06:49:11 Friends  : 99.9% at 41/sec for heritagetrusts
+2017-11-17 06:49:23 Friends  : 99.8% at 39/sec for Hillintl
+2017-11-17 06:49:56 Friends  : 98.7% at 40/sec for HLFWestMids
+2017-11-17 06:49:56 Tweets   : 88.9% at 42/sec for ITomperi
+Error in twInterfaceObj$doAPICall(paste("users", "show", sep = "/"), params = params,  : 
+  Not Found (HTTP 404).
+In addition: Warning message:
+package 'twitteR' was built under R version 3.4.1 
+2017-11-17 06:49:56 Friends: Unable to find account HookwayLLP moving to next
+2017-11-17 06:49:56 Friends  : % at /sec for HookwayLLP
+2017-11-17 06:50:08 Tweets   : 100% at 26/sec for IVSCouncil
+2017-11-17 06:50:15 Friends  : 95% at 39/sec for iamkobbyofori
+2017-11-17 06:50:16 Tweets   : 100% at 11/sec for James_Knights
+2017-11-17 06:50:20 Friends  : 99.5% at 37/sec for ian_levers
+2017-11-17 06:50:20 Friends  : 100% at 6/sec for ianwilliamsltd
+2017-11-17 06:50:24 Friends  : 100% at 23/sec for Inclusioneer
+2017-11-17 06:50:54 Friends  : 89.2% at 39/sec for Infabode
+2017-11-17 06:51:02 Friends  : 97.5% at 36/sec for IngridNappi
+2017-11-17 06:51:16 Friends  : 99.8% at 38/sec for InkpenDownie
+2017-11-17 06:51:29 Tweets   : 41.6% at 44/sec for JamesBiley
+2017-11-17 06:51:42 Friends  : 99.7% at 39/sec for InnesEngland
+2017-11-17 06:51:54 Friends  : 99.4% at 41/sec for InterimFM
+2017-11-17 06:52:15 Friends  : 99.9% at 39/sec for IntWorkplace
+2017-11-17 06:52:51 Friends  : 97.9% at 39/sec for ismgray
+2017-11-17 06:52:51 Friends  : Waiting for 10.8 minutes
+2017-11-17 06:58:26 Favorites: 22.3% at 4/sec for heritagetrusts
+2017-11-17 06:58:29 Favorites: 53.8% at 37/sec for Hillintl
+2017-11-17 06:59:21 Favorites: 51.8% at 44/sec for HLFWestMids
+2017-11-17 06:59:23 Favorites: 100% at 68/sec for HookwayLLP
+2017-11-17 06:59:30 Favorites: 62.6% at 42/sec for iamkobbyofori
+2017-11-17 06:59:30 Favorites: 100% at 32/sec for ian_levers
+2017-11-17 06:59:32 Favorites: 99% at 64/sec for ianwilliamsltd
+2017-11-17 06:59:32 Favorites: 100% at 31/sec for Inclusioneer
+2017-11-17 06:59:42 Favorites: 56.4% at 39/sec for Infabode
+2017-11-17 07:00:01 Favorites: 51.4% at 45/sec for IngridNappi
+2017-11-17 07:00:02 Favorites: 100% at 31/sec for InkpenDownie
+2017-11-17 07:00:10 Favorites: 63.4% at 47/sec for InnesEngland
+2017-11-17 07:00:17 Favorites: 65.9% at 42/sec for InterimFM
+2017-11-17 07:00:27 Favorites: 58.4% at 49/sec for IntWorkplace
+2017-11-17 07:00:29 Favorites: 96% at 13/sec for ismgray
+2017-11-17 07:00:29 Favorites: Waiting for 12.4 minutes due to : Used up allowance in a loop
+2017-11-17 07:03:56 Friends  : 98.6% at 1/sec for ITomperi
+2017-11-17 07:04:19 Friends  : 100% at 38/sec for IVSCouncil
+2017-11-17 07:04:24 Friends  : 101.1% at 33/sec for James_Knights
+2017-11-17 07:05:25 Friends  : 98.3% at 39/sec for JamesBiley
+2017-11-17 07:13:23 Favorites: 49.8% at 2/sec for ITomperi
+2017-11-17 07:13:28 Favorites: 62.9% at 48/sec for IVSCouncil
+2017-11-17 07:13:30 Favorites: 100% at 31/sec for James_Knights
+2017-11-17 07:13:51 Favorites: 54.2% at 48/sec for JamesBiley
+Warning message:
+package 'twitteR' was built under R version 3.4.1 

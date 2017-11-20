@@ -1,0 +1,174 @@
+starting worker pid=13048 on localhost:11271 at 11:49:38.144
+starting worker pid=12744 on localhost:11271 at 11:49:38.337
+starting worker pid=6588 on localhost:11271 at 11:49:38.567
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-20 11:53:30 Friends  : 100% at 31/sec for PlumbingPension
+2017-11-20 11:54:34 Friends  : 99.9% at 30/sec for PlumbingSuper
+2017-11-20 11:54:57 Friends  : 100% at 32/sec for PlumbinnRyan
+2017-11-20 11:57:23 Favorites: 100% at 2/sec for PlumbingPension
+2017-11-20 11:57:24 Favorites: 100% at 5/sec for PlumbingSuper
+2017-11-20 11:57:24 Favorites: User PlumbinnRyan has a protected account or no Favoritess to collect so skipping
+2017-11-20 11:57:53 Friends  : 97.9% at 32/sec for plumbnation
+2017-11-20 11:58:19 Friends  : 100% at 29/sec for PlumbSupplies
+Error in twInterfaceObj$doAPICall(paste("users", "show", sep = "/"), params = params,  : 
+  Not Found (HTTP 404).
+In addition: Warning message:
+package 'twitteR' was built under R version 3.4.1 
+2017-11-20 11:58:19 Friends: Unable to find account PlumbTechIRL moving to next
+2017-11-20 11:58:19 Friends  : % at /sec for PlumbTechIRL
+2017-11-20 11:58:21 Favorites: 47.8% at 28/sec for plumbnation
+2017-11-20 11:58:27 Favorites: 100% at 9/sec for PlumbSupplies
+2017-11-20 11:58:32 Favorites: 59.3% at 50/sec for PlumbTechIRL
+2017-11-20 11:58:34 Favorites: 98.8% at 48/sec for PlumbTradeMag
+2017-11-20 11:58:35 Favorites: 94.7% at 27/sec for PolypipeHome2
+2017-11-20 11:58:39 Friends  : 96.5% at 28/sec for PlumbTradeMag
+2017-11-20 11:58:41 Favorites: 88.5% at 16/sec for PonteGiulioUK
+2017-11-20 11:58:43 Favorites: 56% at 56/sec for ppltraining
+2017-11-20 11:58:44 Favorites: 98.8% at 50/sec for Precise_Group
+2017-11-20 11:58:45 Favorites: 100% at 16/sec for Primaflow_UK
+2017-11-20 11:58:52 Friends  : 100% at 27/sec for PolypipeHome2
+2017-11-20 11:58:54 Favorites: 71.8% at 22/sec for proplumbingsol
+2017-11-20 11:58:59 Favorites: 66.4% at 51/sec for PSBJMagazine
+2017-11-20 11:59:00 Favorites: 100% at 10/sec for pstreetservices
+2017-11-20 11:59:00 Favorites: 100% at 3/sec for PurePlumbers
+2017-11-20 11:59:07 Favorites: 49.7% at 15/sec for PurmoUK
+2017-11-20 11:59:08 Favorites: 96.3% at 32/sec for QTradesmen
+2017-11-20 11:59:13 Favorites: 69.3% at 51/sec for quals_wales
+2017-11-20 11:59:16 Friends  : 99% at 33/sec for PonteGiulioUK
+2017-11-20 11:59:19 Favorites: 98.9% at 15/sec for RamsdenHeating
+2017-11-20 11:59:19 Favorites: User RCPlandhtg has a protected account or no Favoritess to collect so skipping
+2017-11-20 11:59:21 Favorites: 92.5% at 48/sec for redobell
+2017-11-20 11:59:22 Favorites: 100% at 44/sec for Regulus_sro
+2017-11-20 11:59:22 Favorites: User RemehaHeating has a protected account or no Favoritess to collect so skipping
+2017-11-20 11:59:23 Favorites: 100% at 25/sec for rgservicesltd
+2017-11-20 11:59:35 Favorites: 49.9% at 31/sec for RichieRock1979
+2017-11-20 11:59:39 Friends  : 99.2% at 28/sec for ppltraining
+2017-11-20 11:59:51 Favorites: 58.6% at 38/sec for RichOverall
+2017-11-20 11:59:53 Favorites: 77.5% at 50/sec for RIDGID_Europe
+2017-11-20 11:59:59 Favorites: 76.6% at 10/sec for RJheating_gas
+2017-11-20 12:00:04 Friends  : 100% at 30/sec for Precise_Group
+2017-11-20 12:00:18 Friends  : 100% at 33/sec for Primaflow_UK
+2017-11-20 12:00:42 Favorites: 52.3% at 36/sec for Robinson_Heat
+2017-11-20 12:00:44 Favorites: 100% at 39/sec for robkerrrob
+2017-11-20 12:00:51 Favorites: Waiting for 11.5 minutes due to : Used up allowance in a loop
+2017-11-20 12:00:53 Friends  : 98.3% at 30/sec for proplumbingsol
+2017-11-20 12:01:31 Tweets   : 100% at 7/sec for PlumbingPension
+2017-11-20 12:02:19 Friends  : 99.6% at 30/sec for PSBJMagazine
+2017-11-20 12:02:29 Friends  : 100% at 28/sec for pstreetservices
+2017-11-20 12:02:58 Tweets   : 86.9% at 37/sec for PlumbingSuper
+2017-11-20 12:03:04 Tweets   : 100% at 4/sec for PlumbinnRyan
+2017-11-20 12:03:20 Friends  : 100% at 38/sec for PurePlumbers
+2017-11-20 12:03:42 Friends  : 97.2% at 31/sec for PurmoUK
+2017-11-20 12:04:25 Tweets   : 81.6% at 40/sec for plumbnation
+2017-11-20 12:04:33 Tweets   : 100% at 13/sec for PlumbSupplies
+2017-11-20 12:04:47 Tweets   : 100% at 20/sec for PlumbTechIRL
+2017-11-20 12:05:14 Tweets   : 99.9% at 31/sec for PlumbTradeMag
+2017-11-20 12:05:41 Tweets   : 99.6% at 33/sec for PolypipeHome2
+2017-11-20 12:06:07 Friends  : 98.8% at 34/sec for QTradesmen
+2017-11-20 12:06:07 Tweets   : 100% at 32/sec for PonteGiulioUK
+2017-11-20 12:06:39 Friends  : 97.8% at 34/sec for quals_wales
+2017-11-20 12:06:53 Tweets   : 99.4% at 34/sec for ppltraining
+2017-11-20 12:07:04 Friends  : 98.9% at 34/sec for RamsdenHeating
+2017-11-20 12:07:05 Friends  : Waiting for 6 minutes
+2017-11-20 12:07:46 Tweets   : 99.2% at 37/sec for Precise_Group
+2017-11-20 12:07:53 Tweets   : 100% at 9/sec for Primaflow_UK
+2017-11-20 12:08:05 Tweets   : 100% at 10/sec for proplumbingsol
+2017-11-20 12:09:09 Tweets   : 100% at 40/sec for PSBJMagazine
+2017-11-20 12:09:21 Tweets   : 98.8% at 7/sec for pstreetservices
+2017-11-20 12:09:28 Tweets   : 99.2% at 17/sec for PurePlumbers
+2017-11-20 12:10:26 Tweets   : 99.9% at 32/sec for PurmoUK
+2017-11-20 12:10:36 Tweets   : 99.7% at 35/sec for QTradesmen
+2017-11-20 12:11:14 Tweets   : 100% at 34/sec for quals_wales
+2017-11-20 12:11:31 Tweets   : 98.8% at 34/sec for RamsdenHeating
+2017-11-20 12:11:37 Tweets   : 100% at 2/sec for RCPlandhtg
+2017-11-20 12:12:03 Tweets   : 99.5% at 37/sec for redobell
+2017-11-20 12:12:15 Tweets   : 100% at 14/sec for Regulus_sro
+2017-11-20 12:12:24 Tweets   : 100% at 25/sec for RemehaHeating
+2017-11-20 12:12:24 Favorites: 69% at 0/sec for RointeUK
+2017-11-20 12:12:34 Favorites: 49.8% at 32/sec for RothenbergerUk
+2017-11-20 12:12:35 Favorites: 100% at 43/sec for RWCUK
+2017-11-20 12:12:36 Tweets   : 100% at 11/sec for rgservicesltd
+2017-11-20 12:12:55 Favorites: 55.2% at 38/sec for samsheatingltd
+2017-11-20 12:12:56 Favorites: 75% at 23/sec for SavannahHeating
+2017-11-20 12:12:57 Favorites: 95.7% at 47/sec for selfbuildcom
+2017-11-20 12:12:59 Favorites: 83.1% at 53/sec for SESWater
+2017-11-20 12:13:01 Favorites: 69.4% at 54/sec for sevenheating
+2017-11-20 12:13:04 Friends  : 100% at 0/sec for RCPlandhtg
+2017-11-20 12:13:13 Favorites: 63.7% at 33/sec for SevenoaksEnergy
+2017-11-20 12:13:35 Favorites: 56.8% at 30/sec for sewateruk
+2017-11-20 12:13:36 Friends  : 99.1% at 28/sec for redobell
+2017-11-20 12:13:37 Friends  : 100% at 10/sec for Regulus_sro
+2017-11-20 12:13:40 Favorites: 51.2% at 45/sec for shaun_pratley
+2017-11-20 12:13:41 Favorites: 100% at 42/sec for shaws_plumbing
+2017-11-20 12:13:41 Favorites: 100% at 11/sec for shippers1972
+2017-11-20 12:13:47 Favorites: 60.9% at 16/sec for SiampUK
+2017-11-20 12:13:51 Favorites: 84.7% at 51/sec for SISinsulation
+2017-11-20 12:14:00 Favorites: 73.4% at 24/sec for skillbuilderuk
+2017-11-20 12:14:01 Favorites: 75.2% at 53/sec for skillbuildltd
+2017-11-20 12:14:02 Favorites: 100% at 9/sec for SkirvinPlumbing
+2017-11-20 12:14:05 Tweets   : 67.8% at 36/sec for RichieRock1979
+2017-11-20 12:14:15 Friends  : 100% at 33/sec for RemehaHeating
+2017-11-20 12:14:26 Friends  : 99.7% at 26/sec for rgservicesltd
+2017-11-20 12:14:35 Tweets   : 99.7% at 34/sec for RichOverall
+2017-11-20 12:14:49 Friends  : 96.7% at 30/sec for RichieRock1979
+2017-11-20 12:15:03 Tweets   : 99.9% at 30/sec for RIDGID_Europe
+2017-11-20 12:15:06 Tweets   : 100% at 50/sec for RJheating_gas
+2017-11-20 12:15:06 Tweets   : Waiting for 1.4 minutes
+2017-11-20 12:15:14 Friends  : 98.5% at 31/sec for RichOverall
+2017-11-20 12:15:36 Favorites: 18.7% at 35/sec for SmailesBen
+2017-11-20 12:15:44 Friends  : 99.3% at 30/sec for RIDGID_Europe
+2017-11-20 12:15:47 Friends  : 100% at 40/sec for RJheating_gas
+2017-11-20 12:16:00 Friends  : 98.9% at 33/sec for Robinson_Heat
+2017-11-20 12:16:12 Friends  : 99.7% at 29/sec for robkerrrob
+2017-11-20 12:16:19 Friends  : 96% at 17/sec for RointeUK
+2017-11-20 12:16:57 Friends  : 91.2% at 34/sec for RothenbergerUk
+2017-11-20 12:16:59 Friends  : 100% at 33/sec for RWCUK
+2017-11-20 12:17:05 Tweets   : 99.6% at 9/sec for Robinson_Heat
+2017-11-20 12:17:20 Tweets   : 100% at 19/sec for robkerrrob
+2017-11-20 12:17:34 Friends  : 94.5% at 33/sec for samsheatingltd
+2017-11-20 12:17:34 Friends  : Waiting for 10.5 minutes
+2017-11-20 12:17:37 Tweets   : 100% at 27/sec for RointeUK
+2017-11-20 12:18:00 Tweets   : 99.8% at 27/sec for RothenbergerUk
+2017-11-20 12:18:08 Tweets   : 100% at 13/sec for RWCUK
+2017-11-20 12:18:23 Tweets   : 100% at 27/sec for samsheatingltd
+2017-11-20 12:18:36 Tweets   : 99% at 17/sec for SavannahHeating
+2017-11-20 12:18:45 Tweets   : 99.6% at 25/sec for selfbuildcom
+2017-11-20 12:19:35 Tweets   : 99.9% at 35/sec for SESWater
+2017-11-20 12:20:00 Tweets   : 99.9% at 34/sec for sevenheating
+2017-11-20 12:21:15 Tweets   : 65.2% at 43/sec for SevenoaksEnergy
+2017-11-20 12:22:33 Tweets   : 20% at 41/sec for sewateruk
+2017-11-20 12:22:54 Tweets   : 100% at 22/sec for shaun_pratley
+2017-11-20 12:23:10 Tweets   : 100% at 31/sec for shaws_plumbing
+2017-11-20 12:23:28 Tweets   : 99.8% at 33/sec for shippers1972
+2017-11-20 12:24:03 Tweets   : 100% at 33/sec for SiampUK
+2017-11-20 12:24:15 Tweets   : 100% at 10/sec for SISinsulation
+2017-11-20 12:24:50 Tweets   : 100% at 36/sec for skillbuilderuk
+2017-11-20 12:25:04 Tweets   : 100% at 21/sec for skillbuildltd
+2017-11-20 12:25:30 Tweets   : 99.5% at 32/sec for SkirvinPlumbing
+2017-11-20 12:26:53 Tweets   : 55.7% at 39/sec for SmailesBen
+2017-11-20 12:29:04 Friends  : 99.9% at 3/sec for SavannahHeating
+2017-11-20 12:29:15 Friends  : 97.8% at 33/sec for selfbuildcom
+2017-11-20 12:29:23 Friends  : 100% at 21/sec for SESWater
+2017-11-20 12:29:47 Friends  : 99.2% at 35/sec for sevenheating
+2017-11-20 12:31:13 Friends  : 100% at 32/sec for SevenoaksEnergy
+2017-11-20 12:32:01 Friends  : 99.1% at 34/sec for sewateruk
+Error in twInterfaceObj$doAPICall(paste("users", "show", sep = "/"), params = params,  : 
+  Not Found (HTTP 404).
+2017-11-20 12:32:01 Friends: Unable to find account shaun_pratley moving to next
+2017-11-20 12:32:01 Friends  : % at /sec for shaun_pratley
+2017-11-20 12:33:06 Friends  : 100% at 30/sec for shaws_plumbing
+2017-11-20 12:33:11 Friends  : 100% at 44/sec for shippers1972
+2017-11-20 12:35:44 Friends  : 99.5% at 30/sec for SiampUK
+2017-11-20 12:36:16 Friends  : 98.8% at 30/sec for SISinsulation
+2017-11-20 12:39:00 Friends  : 96.5% at 29/sec for skillbuilderuk
+2017-11-20 12:39:09 Friends  : 97.2% at 19/sec for skillbuildltd
+2017-11-20 12:39:22 Friends  : 99.5% at 31/sec for SkirvinPlumbing
+2017-11-20 12:40:24 Friends  : 91.6% at 27/sec for SmailesBen
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+Warning messages:
+1: package 'twitteR' was built under R version 3.4.1 
+2: In twInterfaceObj$doAPICall(cmd, params, method, ...) :
+  Rate limit encountered & retry limit reached - returning partial results

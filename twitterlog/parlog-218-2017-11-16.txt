@@ -1,0 +1,177 @@
+starting worker pid=10028 on localhost:11271 at 13:28:27.609
+starting worker pid=648 on localhost:11271 at 13:28:27.793
+starting worker pid=10696 on localhost:11271 at 13:28:27.971
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-16 13:29:33 Friends  : 100% at 16/sec for johnfielding001
+Error in twInterfaceObj$doAPICall(paste("users", "show", sep = "/"), params = params,  : 
+  Not Found (HTTP 404).
+In addition: Warning message:
+package 'twitteR' was built under R version 3.4.1 
+2017-11-16 13:29:33 Friends: Unable to find account JPickfordBRH moving to next
+2017-11-16 13:29:33 Friends  : % at /sec for JPickfordBRH
+2017-11-16 13:30:08 Friends  : 99.4% at 30/sec for KarenSeagrave
+2017-11-16 13:30:16 Friends  : 96.9% at 41/sec for kirkdemocracy
+2017-11-16 13:30:43 Friends  : 97.3% at 42/sec for konstruktorka
+2017-11-16 13:30:47 Favorites: 58.8% at 22/sec for johnfielding001
+2017-11-16 13:30:51 Favorites: 77.7% at 46/sec for JPickfordBRH
+2017-11-16 13:31:09 Friends  : 97.6% at 40/sec for koresystem
+2017-11-16 13:31:23 Friends  : 99.6% at 32/sec for lespickford
+2017-11-16 13:31:42 Friends  : 99.5% at 44/sec for lisfairley
+2017-11-16 13:31:53 Favorites: 47.5% at 39/sec for KarenSeagrave
+2017-11-16 13:32:00 Favorites: 57% at 42/sec for kirkdemocracy
+2017-11-16 13:32:17 Favorites: 55.3% at 41/sec for konstruktorka
+2017-11-16 13:32:21 Tweets   : 100% at 33/sec for johnfielding001
+2017-11-16 13:32:22 Friends  : 98.7% at 41/sec for LittleEcoT
+2017-11-16 13:32:23 Favorites: 15.4% at 33/sec for koresystem
+2017-11-16 13:32:24 Favorites: 98.5% at 71/sec for lespickford
+2017-11-16 13:32:30 Friends  : 99.4% at 48/sec for LIVdevelopment
+2017-11-16 13:32:31 Tweets   : 100% at 15/sec for JPickfordBRH
+2017-11-16 13:32:33 Favorites: 53.1% at 43/sec for lisfairley
+2017-11-16 13:32:40 Friends  : 99.3% at 39/sec for LizzieStoodley
+2017-11-16 13:32:44 Friends  : 93.7% at 35/sec for LornaKiamba
+2017-11-16 13:32:48 Favorites: 52.2% at 45/sec for LittleEcoT
+2017-11-16 13:32:51 Favorites: 82% at 33/sec for LIVdevelopment
+2017-11-16 13:32:56 Friends  : 99.2% at 43/sec for LowCO2EU
+2017-11-16 13:33:04 Friends  : 97.3% at 36/sec for LozzaRobertson
+2017-11-16 13:33:16 Friends  : 99.8% at 40/sec for madisonprkhomes
+2017-11-16 13:33:34 Friends  : 98.9% at 36/sec for MaeArchitects
+2017-11-16 13:33:34 Friends  : Waiting for 11 minutes
+2017-11-16 13:33:34 Favorites: Waiting for 7.5 minutes due to : Used up allowance in a loop
+2017-11-16 13:33:39 Tweets   : 6.7% at 47/sec for KarenSeagrave
+2017-11-16 13:34:45 Tweets   : 88% at 48/sec for kirkdemocracy
+2017-11-16 13:35:48 Tweets   : 99.9% at 49/sec for konstruktorka
+2017-11-16 13:36:57 Tweets   : 61% at 46/sec for koresystem
+2017-11-16 13:37:46 Tweets   : 100% at 45/sec for lespickford
+2017-11-16 13:38:39 Tweets   : 99.4% at 41/sec for lisfairley
+2017-11-16 13:39:10 Tweets   : 100% at 37/sec for LittleEcoT
+2017-11-16 13:39:23 Tweets   : 100% at 24/sec for LIVdevelopment
+2017-11-16 13:40:41 Tweets   : 34.5% at 41/sec for LizzieStoodley
+2017-11-16 13:40:51 Tweets   : 99.5% at 21/sec for LornaKiamba
+2017-11-16 13:41:28 Tweets   : 99.7% at 43/sec for LowCO2EU
+2017-11-16 13:41:40 Favorites: 46.3% at 6/sec for LizzieStoodley
+2017-11-16 13:41:46 Favorites: 85.6% at 36/sec for LornaKiamba
+2017-11-16 13:41:52 Favorites: 69.9% at 49/sec for LowCO2EU
+2017-11-16 13:41:59 Tweets   : 99.8% at 38/sec for LozzaRobertson
+2017-11-16 13:42:15 Tweets   : 99.8% at 31/sec for madisonprkhomes
+2017-11-16 13:42:19 Favorites: 52.8% at 43/sec for LozzaRobertson
+2017-11-16 13:42:22 Favorites: 73.3% at 37/sec for madisonprkhomes
+2017-11-16 13:42:30 Favorites: 57.9% at 50/sec for MaeArchitects
+2017-11-16 13:42:37 Favorites: 63.3% at 43/sec for MarbellaWines
+2017-11-16 13:42:37 Favorites: User MasterPlanBarns has a protected account or no Favoritess to collect so skipping
+2017-11-16 13:42:44 Favorites: 58% at 44/sec for MattJamesHayes
+2017-11-16 13:42:46 Favorites: 100% at 32/sec for MEB_Design
+2017-11-16 13:42:46 Favorites: 100% at 3/sec for mh_Architects
+2017-11-16 13:42:48 Favorites: 77.5% at 71/sec for MINTCSL
+2017-11-16 13:42:54 Tweets   : 100% at 40/sec for MaeArchitects
+2017-11-16 13:42:57 Favorites: 56.8% at 42/sec for ModCellTweet
+2017-11-16 13:43:26 Tweets   : 100% at 42/sec for MarbellaWines
+2017-11-16 13:43:33 Tweets   : 100% at 0/sec for MasterPlanBarns
+2017-11-16 13:43:44 Tweets   : 100% at 19/sec for MattJamesHayes
+2017-11-16 13:43:52 Favorites: Waiting for 12.2 minutes due to : Used up allowance in a loop
+2017-11-16 13:44:07 Tweets   : 100% at 38/sec for MEB_Design
+2017-11-16 13:44:17 Tweets   : 100% at 17/sec for mh_Architects
+2017-11-16 13:44:24 Tweets   : 97% at 9/sec for MINTCSL
+2017-11-16 13:44:40 Friends  : 99.5% at 0/sec for MarbellaWines
+Error in twInterfaceObj$doAPICall(paste("users", "show", sep = "/"), params = params,  : 
+  Not Found (HTTP 404).
+2017-11-16 13:44:41 Friends: Unable to find account MasterPlanBarns moving to next
+2017-11-16 13:44:41 Friends  : % at /sec for MasterPlanBarns
+2017-11-16 13:44:51 Friends  : 99.1% at 41/sec for MattJamesHayes
+2017-11-16 13:45:04 Friends  : 99.6% at 40/sec for MEB_Design
+2017-11-16 13:45:33 Friends  : 100% at 40/sec for mh_Architects
+2017-11-16 13:45:39 Tweets   : 72.3% at 43/sec for ModCellTweet
+2017-11-16 13:45:41 Friends  : 99.4% at 40/sec for MINTCSL
+2017-11-16 13:46:26 Friends  : 99.6% at 42/sec for ModCellTweet
+2017-11-16 13:46:53 Friends  : 99.4% at 40/sec for Moedas
+2017-11-16 13:46:58 Tweets   : 95.1% at 41/sec for Moedas
+2017-11-16 13:47:07 Friends  : 99.7% at 40/sec for Mrsatnavatron
+2017-11-16 13:47:13 Friends  : 97.9% at 35/sec for MScHWSB
+2017-11-16 13:47:44 Friends  : 96.7% at 40/sec for MWassouf
+2017-11-16 13:47:46 Friends  : 100% at 33/sec for nakedhouseUK
+2017-11-16 13:47:58 Friends  : 98.6% at 36/sec for Natasha_EngD
+2017-11-16 13:48:01 Friends  : 100% at 24/sec for nilan_uk
+Error in twInterfaceObj$doAPICall(paste("users", "show", sep = "/"), params = params,  : 
+  Not Found (HTTP 404).
+2017-11-16 13:48:01 Friends: Unable to find account Noiseinwreckage moving to next
+2017-11-16 13:48:01 Friends  : % at /sec for Noiseinwreckage
+2017-11-16 13:48:12 Tweets   : 64.7% at 43/sec for Mrsatnavatron
+2017-11-16 13:48:12 Friends  : 99.5% at 34/sec for NorfolkLassie
+2017-11-16 13:48:13 Friends  : 100% at 9/sec for Origin3Studio
+2017-11-16 13:48:14 Friends  : Waiting for 11.4 minutes
+2017-11-16 13:48:23 Tweets   : 100% at 19/sec for MScHWSB
+2017-11-16 13:48:48 Tweets   : 100.9% at 45/sec for MWassouf
+2017-11-16 13:48:55 Tweets   : 100% at 6/sec for nakedhouseUK
+2017-11-16 13:49:25 Tweets   : 99.9% at 44/sec for Natasha_EngD
+2017-11-16 13:49:33 Tweets   : 100% at 6/sec for nilan_uk
+2017-11-16 13:49:42 Tweets   : 100% at 16/sec for Noiseinwreckage
+2017-11-16 13:50:50 Tweets   : 46.5% at 47/sec for NorfolkLassie
+2017-11-16 13:50:57 Tweets   : 100% at 2/sec for Origin3Studio
+2017-11-16 13:51:15 Tweets   : 99.8% at 30/sec for paddesignltd
+2017-11-16 13:52:09 Tweets   : 99.2% at 42/sec for Partel_Passive
+2017-11-16 13:52:16 Tweets   : 100% at 11/sec for Passisash
+2017-11-16 13:53:18 Tweets   : 99.9% at 44/sec for PassiveHouseEL
+2017-11-16 13:53:26 Tweets   : 100% at 3/sec for passivpaul
+2017-11-16 13:54:47 Tweets   : 6.4% at 39/sec for Paul4Cowick
+2017-11-16 13:55:00 Tweets   : 100% at 30/sec for pauldcallaghan
+2017-11-16 13:56:10 Tweets   : 82.6% at 46/sec for PHA_NZ
+2017-11-16 13:56:19 Favorites: 50.5% at 4/sec for Moedas
+2017-11-16 13:56:24 Tweets   : 99.4% at 25/sec for PHAIreland
+2017-11-16 13:56:38 Favorites: 49.5% at 47/sec for Mrsatnavatron
+2017-11-16 13:56:38 Favorites: 100% at 54/sec for MScHWSB
+2017-11-16 13:56:41 Favorites: 108.7% at 43/sec for MWassouf
+2017-11-16 13:56:41 Favorites: User nakedhouseUK has a protected account or no Favoritess to collect so skipping
+2017-11-16 13:56:47 Favorites: 66.1% at 45/sec for Natasha_EngD
+2017-11-16 13:56:48 Favorites: 100% at 28/sec for nilan_uk
+2017-11-16 13:56:48 Favorites: User Noiseinwreckage has a protected account or no Favoritess to collect so skipping
+2017-11-16 13:57:02 Favorites: 53.2% at 41/sec for NorfolkLassie
+2017-11-16 13:57:02 Favorites: User Origin3Studio has a protected account or no Favoritess to collect so skipping
+2017-11-16 13:57:16 Favorites: 51.2% at 43/sec for paddesignltd
+2017-11-16 13:57:35 Tweets   : 51.4% at 45/sec for Piers_Taylor
+2017-11-16 13:57:38 Favorites: 54.5% at 41/sec for Partel_Passive
+2017-11-16 13:57:39 Favorites: 65.8% at 61/sec for Passisash
+2017-11-16 13:57:42 Favorites: 82.6% at 40/sec for PassiveHouseEL
+2017-11-16 13:57:42 Favorites: 100% at 8/sec for passivpaul
+2017-11-16 13:57:55 Tweets   : 99.7% at 31/sec for placearch
+2017-11-16 13:57:57 Favorites: 49.4% at 41/sec for Paul4Cowick
+2017-11-16 13:57:57 Favorites: 94.4% at 29/sec for pauldcallaghan
+2017-11-16 13:58:01 Favorites: 94.2% at 50/sec for PHA_NZ
+2017-11-16 13:58:03 Tweets   : 98.8% at 11/sec for PortreePH
+2017-11-16 13:58:06 Favorites: 59.2% at 37/sec for PHAIreland
+2017-11-16 13:58:31 Tweets   : 100% at 34/sec for proclimaThomas
+2017-11-16 13:58:54 Favorites: 49.6% at 41/sec for Piers_Taylor
+2017-11-16 13:58:54 Favorites: Waiting for 12.2 minutes due to : Used up allowance in a loop
+2017-11-16 13:59:29 Tweets   : 99.9% at 42/sec for PropManLDN
+2017-11-16 13:59:49 Friends  : 97.9% at 0/sec for paddesignltd
+2017-11-16 14:00:59 Tweets   : 35.2% at 35/sec for RedDoorEnergy
+2017-11-16 14:02:12 Tweets   : 9.7% at 44/sec for RichardPorteous
+2017-11-16 14:02:20 Tweets   : 100% at 8/sec for RighttoBuildTF
+2017-11-16 14:02:33 Friends  : 98.3% at 36/sec for Partel_Passive
+2017-11-16 14:02:42 Friends  : 100% at 39/sec for Passisash
+2017-11-16 14:03:09 Friends  : 98.9% at 38/sec for PassiveHouseEL
+2017-11-16 14:03:10 Friends  : 98.7% at 47/sec for passivpaul
+2017-11-16 14:04:04 Friends  : 99.8% at 37/sec for Paul4Cowick
+2017-11-16 14:04:12 Friends  : 100% at 35/sec for pauldcallaghan
+2017-11-16 14:04:18 Friends  : 99.5% at 34/sec for PHA_NZ
+2017-11-16 14:04:35 Friends  : 99.7% at 39/sec for PHAIreland
+2017-11-16 14:06:57 Friends  : 99.2% at 37/sec for Piers_Taylor
+2017-11-16 14:07:06 Friends  : 99.7% at 37/sec for placearch
+2017-11-16 14:07:08 Friends  : 100% at 51/sec for PortreePH
+2017-11-16 14:07:13 Friends  : 95.1% at 36/sec for proclimaThomas
+2017-11-16 14:07:14 Friends  : Waiting for 7.5 minutes
+2017-11-16 14:11:11 Favorites: 92.5% at 0/sec for placearch
+2017-11-16 14:11:13 Favorites: 100% at 28/sec for PortreePH
+2017-11-16 14:11:19 Favorites: 61.7% at 49/sec for proclimaThomas
+2017-11-16 14:11:23 Favorites: 92.4% at 50/sec for PropManLDN
+2017-11-16 14:12:32 Favorites: 43.4% at 46/sec for RedDoorEnergy
+2017-11-16 14:12:32 Favorites: 100% at 8/sec for RichardPorteous
+2017-11-16 14:12:33 Favorites: 100% at 13/sec for RighttoBuildTF
+2017-11-16 14:15:23 Friends  : 99.7% at 3/sec for PropManLDN
+2017-11-16 14:16:07 Friends  : 99.7% at 41/sec for RedDoorEnergy
+2017-11-16 14:17:20 Friends  : 98.4% at 38/sec for RichardPorteous
+2017-11-16 14:17:23 Friends  : 98.4% at 22/sec for RighttoBuildTF
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+Warning message:
+package 'twitteR' was built under R version 3.4.1 

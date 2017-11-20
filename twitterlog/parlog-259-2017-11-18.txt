@@ -1,0 +1,164 @@
+starting worker pid=13916 on localhost:11271 at 10:12:16.978
+starting worker pid=9144 on localhost:11271 at 10:12:17.132
+starting worker pid=4712 on localhost:11271 at 10:12:17.295
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-18 10:14:47 Friends  : 99.8% at 32/sec for Earthbornpaints
+2017-11-18 10:15:34 Friends  : 99.9% at 42/sec for EarthTechling
+2017-11-18 10:15:35 Friends  : 100% at 5/sec for eco_age
+2017-11-18 10:15:44 Friends  : 100% at 44/sec for ecoalexander
+2017-11-18 10:15:44 Friends  : User EcoBuilder has a protected account or no Friendss to collect so skipping
+2017-11-18 10:15:49 Friends  : 100% at 30/sec for ecobuilding
+2017-11-18 10:16:15 Favorites: 51.2% at 27/sec for Earthbornpaints
+2017-11-18 10:16:21 Favorites: 75.6% at 35/sec for EarthTechling
+2017-11-18 10:16:21 Favorites: User eco_age has a protected account or no Favoritess to collect so skipping
+2017-11-18 10:16:21 Favorites: 100% at 22/sec for ecoalexander
+2017-11-18 10:16:21 Favorites: User EcoBuilder has a protected account or no Favoritess to collect so skipping
+2017-11-18 10:16:22 Favorites: 100% at 6/sec for ecobuilding
+2017-11-18 10:16:23 Favorites: 49.2% at 63/sec for ecoenvironments
+2017-11-18 10:16:55 Friends  : 92.6% at 39/sec for ecoenvironments
+2017-11-18 10:16:55 Friends  : Waiting for 4.1 minutes
+2017-11-18 10:17:43 Favorites: 7.8% at 40/sec for ECOEventSource
+2017-11-18 10:17:44 Favorites: 97.8% at 42/sec for EcoFlowMVHR
+2017-11-18 10:17:47 Favorites: 100% at 8/sec for EcoHomesIE
+2017-11-18 10:17:48 Favorites: 100% at 39/sec for EcoKitchens
+2017-11-18 10:18:04 Favorites: 53% at 44/sec for EcologizedArch
+2017-11-18 10:18:04 Favorites: 100% at 3/sec for EcoPassiveHouse
+2017-11-18 10:18:09 Favorites: 76% at 38/sec for ecosequestrust
+2017-11-18 10:18:09 Favorites: User ecospheric has a protected account or no Favoritess to collect so skipping
+2017-11-18 10:18:10 Favorites: 100% at 46/sec for ECOstudioXV
+2017-11-18 10:18:11 Favorites: 100% at 27/sec for ecosurveyor
+2017-11-18 10:18:11 Favorites: 100% at 8/sec for Ecotecture_Ltd
+2017-11-18 10:18:39 Favorites: Waiting for 12.1 minutes due to : Used up allowance in a loop
+2017-11-18 10:18:41 Tweets   : 99.8% at 38/sec for Earthbornpaints
+2017-11-18 10:19:40 Tweets   : 18% at 54/sec for EarthTechling
+2017-11-18 10:19:46 Tweets   : 100% at 0/sec for eco_age
+2017-11-18 10:20:06 Tweets   : 100% at 40/sec for ecoalexander
+2017-11-18 10:20:12 Tweets   : 93.8% at 3/sec for EcoBuilder
+2017-11-18 10:20:21 Tweets   : 99.2% at 14/sec for ecobuilding
+2017-11-18 10:20:28 Tweets   : 100% at 24/sec for ecoenvironments
+2017-11-18 10:21:37 Tweets   : 6.6% at 47/sec for ECOEventSource
+2017-11-18 10:21:48 Tweets   : 100% at 19/sec for EcoFlowMVHR
+2017-11-18 10:22:04 Tweets   : 100% at 33/sec for EcoHomesIE
+2017-11-18 10:22:53 Tweets   : 99.9% at 39/sec for EcoKitchens
+2017-11-18 10:23:00 Friends  : 98.9% at 13/sec for ECOEventSource
+2017-11-18 10:23:03 Tweets   : 100% at 15/sec for EcologizedArch
+2017-11-18 10:23:08 Tweets   : 100% at 1/sec for EcoPassiveHouse
+2017-11-18 10:23:14 Friends  : 99.3% at 45/sec for EcoFlowMVHR
+2017-11-18 10:23:26 Friends  : 99.8% at 44/sec for EcoHomesIE
+2017-11-18 10:23:55 Friends  : 99.9% at 40/sec for EcoKitchens
+2017-11-18 10:24:02 Friends  : 99.2% at 38/sec for EcologizedArch
+2017-11-18 10:24:15 Friends  : 100% at 35/sec for EcoPassiveHouse
+2017-11-18 10:24:19 Tweets   : 70.3% at 45/sec for ecosequestrust
+2017-11-18 10:24:22 Friends  : 99.4% at 44/sec for ecosequestrust
+2017-11-18 10:24:29 Friends  : 100% at 37/sec for ecospheric
+2017-11-18 10:24:30 Tweets   : 99.6% at 27/sec for ecospheric
+2017-11-18 10:24:38 Friends  : 100% at 41/sec for ECOstudioXV
+2017-11-18 10:24:39 Friends  : 98.1% at 35/sec for ecosurveyor
+2017-11-18 10:24:45 Friends  : 100% at 36/sec for Ecotecture_Ltd
+2017-11-18 10:25:02 Tweets   : 99.5% at 43/sec for ECOstudioXV
+2017-11-18 10:25:04 Friends  : 92.7% at 45/sec for ECOUNESCO
+2017-11-18 10:25:10 Friends  : 100% at 31/sec for EDCM_Consulting
+2017-11-18 10:25:12 Tweets   : 100% at 14/sec for ecosurveyor
+2017-11-18 10:25:15 Friends  : 98.8% at 33/sec for EdMordaunt
+2017-11-18 10:25:17 Friends  : 100% at 47/sec for edwardellis
+2017-11-18 10:25:17 Friends  : Waiting for 10.9 minutes
+2017-11-18 10:25:19 Tweets   : 99.4% at 22/sec for Ecotecture_Ltd
+2017-11-18 10:26:18 Tweets   : 99.6% at 49/sec for ECOUNESCO
+2017-11-18 10:26:34 Tweets   : 100% at 34/sec for EDCM_Consulting
+2017-11-18 10:26:44 Tweets   : 100% at 20/sec for EdMordaunt
+2017-11-18 10:26:50 Tweets   : 100% at 12/sec for edwardellis
+2017-11-18 10:27:12 Tweets   : 100% at 39/sec for EHSmithSP
+2017-11-18 10:28:15 Tweets   : 99.8% at 48/sec for elainetoogood
+2017-11-18 10:28:41 Tweets   : 99.4% at 43/sec for emibujold
+2017-11-18 10:29:13 Tweets   : 98.5% at 41/sec for Emmaja57
+2017-11-18 10:29:22 Tweets   : 100% at 19/sec for EnergyActionDev
+2017-11-18 10:29:42 Tweets   : 100% at 39/sec for energygirl1
+2017-11-18 10:29:44 Tweets   : 100% at 52/sec for energyquarter
+2017-11-18 10:29:45 Tweets   : Waiting for 2.9 minutes
+2017-11-18 10:31:09 Favorites: 50.5% at 2/sec for ECOUNESCO
+2017-11-18 10:31:10 Favorites: 100% at 39/sec for EDCM_Consulting
+2017-11-18 10:31:11 Favorites: 100% at 47/sec for EdMordaunt
+2017-11-18 10:31:11 Favorites: 100% at 5/sec for edwardellis
+2017-11-18 10:31:12 Favorites: 100% at 50/sec for EHSmithSP
+2017-11-18 10:31:27 Favorites: 54% at 46/sec for elainetoogood
+2017-11-18 10:31:27 Favorites: 100% at 11/sec for emibujold
+2017-11-18 10:31:29 Favorites: 80.6% at 79/sec for Emmaja57
+2017-11-18 10:31:29 Favorites: User EnergyActionDev has a protected account or no Favoritess to collect so skipping
+2017-11-18 10:31:29 Favorites: User energygirl1 has a protected account or no Favoritess to collect so skipping
+2017-11-18 10:31:32 Favorites: 100% at 27/sec for energyquarter
+2017-11-18 10:31:32 Favorites: 100% at 3/sec for EnergyRebuild
+2017-11-18 10:31:32 Favorites: 100% at 8/sec for energysavingday
+2017-11-18 10:31:38 Favorites: 58.3% at 49/sec for energywebb
+2017-11-18 10:31:38 Favorites: User enimsltd has a protected account or no Favoritess to collect so skipping
+2017-11-18 10:32:46 Favorites: 37.7% at 47/sec for EntreArchitect
+2017-11-18 10:32:55 Tweets   : 100% at 2/sec for EnergyRebuild
+2017-11-18 10:33:07 Favorites: 49.9% at 32/sec for EnvAgencyNW
+2017-11-18 10:33:08 Favorites: 100% at 2/sec for EnviroBlack
+2017-11-18 10:33:08 Favorites: 100% at 22/sec for eoincox
+2017-11-18 10:33:09 Favorites: 90.3% at 32/sec for EPArchitecture
+2017-11-18 10:33:09 Favorites: 100% at 15/sec for EPCAdvisor
+2017-11-18 10:33:10 Favorites: 60% at 7/sec for EPCNOTTINGHAM
+2017-11-18 10:33:11 Tweets   : 99.8% at 38/sec for energysavingday
+2017-11-18 10:33:16 Favorites: 59% at 49/sec for EricJLyman
+2017-11-18 10:33:22 Favorites: 55.2% at 49/sec for ESDinGMIT
+2017-11-18 10:33:22 Favorites: Waiting for 12.6 minutes due to : Used up allowance in a loop
+2017-11-18 10:33:32 Tweets   : 99.9% at 38/sec for energywebb
+2017-11-18 10:33:46 Tweets   : 100% at 30/sec for enimsltd
+2017-11-18 10:34:51 Tweets   : 10.7% at 49/sec for EntreArchitect
+2017-11-18 10:35:58 Tweets   : 29.6% at 48/sec for EnvAgencyNW
+2017-11-18 10:36:03 Tweets   : 100% at 0/sec for EnviroBlack
+2017-11-18 10:36:28 Tweets   : 99.8% at 38/sec for eoincox
+2017-11-18 10:36:37 Tweets   : 97.8% at 10/sec for EPArchitecture
+2017-11-18 10:36:52 Tweets   : 100% at 36/sec for EPCAdvisor
+2017-11-18 10:36:58 Tweets   : 100% at 4/sec for EPCNOTTINGHAM
+2017-11-18 10:38:12 Tweets   : 68.4% at 43/sec for EricJLyman
+2017-11-18 10:38:29 Tweets   : 100% at 29/sec for ESDinGMIT
+2017-11-18 10:38:45 Tweets   : 99.3% at 26/sec for estudioOCA
+2017-11-18 10:38:51 Tweets   : 100% at 9/sec for eurofoam
+2017-11-18 10:39:16 Friends  : 99.9% at 8/sec for EHSmithSP
+2017-11-18 10:39:51 Friends  : 99.4% at 38/sec for elainetoogood
+2017-11-18 10:40:07 Tweets   : 55.8% at 43/sec for Euronics_UK
+2017-11-18 10:40:09 Friends  : 100% at 39/sec for emibujold
+2017-11-18 10:40:15 Tweets   : 100% at 5/sec for evolvedconsults
+2017-11-18 10:40:36 Friends  : 99.5% at 38/sec for Emmaja57
+2017-11-18 10:40:42 Friends  : 100% at 38/sec for EnergyActionDev
+2017-11-18 10:40:49 Tweets   : 99.9% at 46/sec for evolvedesignltd
+2017-11-18 10:40:58 Friends  : 100% at 38/sec for energygirl1
+2017-11-18 10:41:03 Tweets   : 100% at 27/sec for evolvedsupplys
+2017-11-18 10:41:09 Friends  : 99.7% at 36/sec for energyquarter
+2017-11-18 10:41:09 Friends  : User EnergyRebuild has a protected account or no Friendss to collect so skipping
+2017-11-18 10:42:33 Friends  : 100% at 40/sec for energysavingday
+2017-11-18 10:42:43 Friends  : 100% at 34/sec for energywebb
+2017-11-18 10:43:05 Friends  : 99.9% at 42/sec for enimsltd
+2017-11-18 10:43:29 Friends  : 98.2% at 36/sec for EntreArchitect
+2017-11-18 10:44:49 Friends  : 99.7% at 38/sec for EnvAgencyNW
+2017-11-18 10:44:50 Friends  : 100% at 7/sec for EnviroBlack
+2017-11-18 10:45:02 Friends  : 100% at 37/sec for eoincox
+2017-11-18 10:45:04 Friends  : Waiting for 6.4 minutes
+2017-11-18 10:46:14 Favorites: 100% at 0/sec for estudioOCA
+2017-11-18 10:46:14 Favorites: User eurofoam has a protected account or no Favoritess to collect so skipping
+2017-11-18 10:46:28 Favorites: 49.7% at 49/sec for Euronics_UK
+2017-11-18 10:46:29 Favorites: 100% at 5/sec for evolvedconsults
+2017-11-18 10:46:33 Favorites: 80.6% at 42/sec for evolvedesignltd
+2017-11-18 10:46:34 Favorites: 100% at 38/sec for evolvedsupplys
+2017-11-18 10:51:44 Friends  : 99.7% at 1/sec for EPArchitecture
+2017-11-18 10:52:13 Friends  : 100% at 37/sec for EPCAdvisor
+2017-11-18 10:52:47 Friends  : 100% at 39/sec for EPCNOTTINGHAM
+2017-11-18 10:53:15 Friends  : 98.5% at 46/sec for EricJLyman
+2017-11-18 10:53:16 Friends  : 100% at 42/sec for ESDinGMIT
+2017-11-18 10:54:01 Friends  : 99.1% at 44/sec for estudioOCA
+2017-11-18 10:54:17 Friends  : 100% at 41/sec for eurofoam
+2017-11-18 10:54:37 Friends  : 99.8% at 45/sec for Euronics_UK
+2017-11-18 10:54:38 Friends  : 100% at 18/sec for evolvedconsults
+2017-11-18 10:54:43 Friends  : 99% at 36/sec for evolvedesignltd
+2017-11-18 10:54:48 Friends  : 99.3% at 30/sec for evolvedsupplys
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+Warning messages:
+1: package 'twitteR' was built under R version 3.4.1 
+2: In twInterfaceObj$doAPICall(cmd, params, method, ...) :
+  Rate limit encountered & retry limit reached - returning partial results

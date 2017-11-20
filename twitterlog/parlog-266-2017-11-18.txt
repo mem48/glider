@@ -1,0 +1,164 @@
+starting worker pid=4276 on localhost:11271 at 18:43:05.621
+starting worker pid=12072 on localhost:11271 at 18:43:05.787
+starting worker pid=11560 on localhost:11271 at 18:43:05.951
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-18 18:45:28 Friends  : 99.6% at 30/sec for Re_structure
+2017-11-18 18:45:30 Friends  : 100% at 48/sec for recreate_
+2017-11-18 18:45:44 Friends  : 100% at 16/sec for RegenerationPH
+2017-11-18 18:47:06 Friends  : 99.1% at 36/sec for ResilientEnergy
+2017-11-18 18:47:31 Friends  : 100% at 37/sec for resonatesChris
+2017-11-18 18:47:31 Favorites: 100% at 19/sec for Re_structure
+2017-11-18 18:47:31 Favorites: User recreate_ has a protected account or no Favoritess to collect so skipping
+2017-11-18 18:47:32 Favorites: 100% at 61/sec for RegenerationPH
+2017-11-18 18:47:50 Favorites: 53.8% at 33/sec for ResilientEnergy
+2017-11-18 18:47:51 Favorites: 100% at 41/sec for resonatesChris
+2017-11-18 18:48:10 Favorites: 47.8% at 25/sec for respect65
+2017-11-18 18:48:14 Favorites: 100% at 14/sec for RetrofitAwards
+2017-11-18 18:48:16 Favorites: 51.8% at 67/sec for revitjames
+2017-11-18 18:48:38 Favorites: 50.1% at 40/sec for Revitspace
+2017-11-18 18:48:44 Favorites: 52.5% at 32/sec for RevitZone
+2017-11-18 18:48:45 Favorites: 100% at 21/sec for Rich1Tony
+2017-11-18 18:48:57 Favorites: 56.8% at 32/sec for richiezinzan
+2017-11-18 18:48:58 Favorites: 100% at 24/sec for RichMyles
+2017-11-18 18:49:57 Tweets   : 98.3% at 19/sec for Re_structure
+2017-11-18 18:50:08 Tweets   : 93.8% at 4/sec for recreate_
+2017-11-18 18:50:16 Tweets   : 100% at 23/sec for RegenerationPH
+2017-11-18 18:50:21 Favorites: 6.1% at 36/sec for RippedOffBriton
+2017-11-18 18:50:21 Favorites: User RMCEcobuild has a protected account or no Favoritess to collect so skipping
+2017-11-18 18:50:45 Favorites: Waiting for 11.8 minutes due to : Used up allowance in a loop
+2017-11-18 18:51:48 Tweets   : 84.5% at 35/sec for ResilientEnergy
+2017-11-18 18:52:22 Tweets   : 99.8% at 35/sec for resonatesChris
+2017-11-18 18:53:48 Tweets   : 22% at 37/sec for respect65
+2017-11-18 18:54:11 Tweets   : 99.7% at 30/sec for RetrofitAwards
+2017-11-18 18:54:46 Tweets   : 99.7% at 35/sec for revitjames
+2017-11-18 18:55:35 Friends  : 99.8% at 34/sec for respect65
+2017-11-18 18:55:38 Friends  : 100% at 64/sec for RetrofitAwards
+2017-11-18 18:56:04 Friends  : 99.4% at 36/sec for revitjames
+2017-11-18 18:56:10 Tweets   : 37.2% at 38/sec for Revitspace
+2017-11-18 18:57:01 Tweets   : 99.9% at 35/sec for RevitZone
+2017-11-18 18:57:11 Tweets   : 100% at 10/sec for Rich1Tony
+2017-11-18 18:57:23 Friends  : 98.1% at 39/sec for Revitspace
+2017-11-18 18:57:39 Tweets   : 99.4% at 36/sec for richiezinzan
+2017-11-18 18:58:15 Friends  : 100% at 38/sec for RevitZone
+2017-11-18 18:58:17 Friends  : 97.8% at 45/sec for Rich1Tony
+2017-11-18 18:58:29 Friends  : 98.1% at 35/sec for richiezinzan
+2017-11-18 18:58:47 Tweets   : 100% at 44/sec for RichMyles
+2017-11-18 18:58:57 Friends  : 99.8% at 40/sec for RichMyles
+2017-11-18 18:58:58 Friends  : Waiting for 11.7 minutes
+2017-11-18 18:59:54 Tweets   : 2.9% at 47/sec for RippedOffBriton
+2017-11-18 19:00:05 Tweets   : 100% at 15/sec for RMCEcobuild
+2017-11-18 19:01:19 Tweets   : 7.5% at 42/sec for RobBryher
+2017-11-18 19:01:31 Tweets   : 99.6% at 20/sec for RobertBedner
+2017-11-18 19:02:48 Tweets   : 11.8% at 41/sec for robintransition
+2017-11-18 19:02:58 Favorites: 49.2% at 2/sec for RobBryher
+2017-11-18 19:02:58 Favorites: 100% at 14/sec for RobertBedner
+2017-11-18 19:03:10 Favorites: 54.1% at 42/sec for robintransition
+2017-11-18 19:03:43 Favorites: 47.7% at 37/sec for RogTallbloke
+2017-11-18 19:03:43 Favorites: 100% at 12/sec for rolandmatzig
+2017-11-18 19:04:11 Tweets   : 3.5% at 39/sec for RogTallbloke
+2017-11-18 19:04:46 Tweets   : 100% at 34/sec for rolandmatzig
+2017-11-18 19:05:01 Favorites: 32.2% at 38/sec for Rolo_Tamasi
+2017-11-18 19:05:02 Favorites: 100% at 9/sec for RosLuig
+2017-11-18 19:05:08 Favorites: 86.5% at 36/sec for RozPidcock
+2017-11-18 19:05:09 Favorites: 49% at 60/sec for rpersivale
+2017-11-18 19:05:09 Favorites: User RuairiKay has a protected account or no Favoritess to collect so skipping
+2017-11-18 19:05:10 Favorites: % at /sec for RUMcSAFE
+2017-11-18 19:05:29 Favorites: 50.8% at 40/sec for ruregistered
+2017-11-18 19:05:29 Favorites: 100% at 9/sec for rwelford
+2017-11-18 19:05:30 Favorites: 100% at 40/sec for SACConstruction
+2017-11-18 19:05:35 Favorites: 92.6% at 23/sec for salixsustain
+2017-11-18 19:05:36 Favorites: 90.7% at 69/sec for SalmaYaqoob
+2017-11-18 19:05:41 Favorites: Waiting for 12.1 minutes due to : Used up allowance in a loop
+2017-11-18 19:06:03 Tweets   : 2.7% at 41/sec for Rolo_Tamasi
+2017-11-18 19:06:09 Tweets   : 100% at 0/sec for RosLuig
+2017-11-18 19:07:20 Tweets   : 99.9% at 38/sec for RozPidcock
+2017-11-18 19:08:47 Tweets   : 48.4% at 37/sec for rpersivale
+2017-11-18 19:09:00 Tweets   : 99.8% at 33/sec for RuairiKay
+2017-11-18 19:09:20 Tweets   : 100% at 31/sec for RUMcSAFE
+2017-11-18 19:10:30 Tweets   : 39.8% at 46/sec for ruregistered
+2017-11-18 19:10:36 Tweets   : 100% at 7/sec for rwelford
+2017-11-18 19:10:52 Tweets   : 99.8% at 25/sec for SACConstruction
+2017-11-18 19:10:59 Tweets   : 100% at 4/sec for salixsustain
+2017-11-18 19:12:11 Tweets   : 28.2% at 44/sec for SalmaYaqoob
+2017-11-18 19:13:28 Tweets   : 94.3% at 41/sec for SandersonAidan
+2017-11-18 19:14:28 Tweets   : 99.8% at 43/sec for saving_energy
+2017-11-18 19:15:44 Tweets   : 83.5% at 42/sec for scribbilib
+2017-11-18 19:15:53 Tweets   : 100% at 2/sec for SEAS_Ltd
+2017-11-18 19:16:06 Tweets   : 100% at 29/sec for SelfSustainBldg
+2017-11-18 19:16:15 Tweets   : 100% at 6/sec for SEP_UK
+2017-11-18 19:16:55 Tweets   : 99.9% at 41/sec for sharonedgar
+2017-11-18 19:17:55 Tweets   : 100% at 34/sec for SheffArchCal
+2017-11-18 19:18:25 Favorites: 53.4% at 1/sec for SandersonAidan
+2017-11-18 19:18:25 Favorites: User saving_energy has a protected account or no Favoritess to collect so skipping
+2017-11-18 19:18:27 Favorites: 100% at 63/sec for scribbilib
+2017-11-18 19:18:30 Favorites: 100% at 0/sec for SEAS_Ltd
+2017-11-18 19:18:31 Favorites: 100% at 68/sec for SelfSustainBldg
+2017-11-18 19:18:31 Favorites: User SEP_UK has a protected account or no Favoritess to collect so skipping
+2017-11-18 19:18:32 Favorites: 98.4% at 64/sec for sharonedgar
+2017-11-18 19:19:00 Favorites: 51.3% at 36/sec for SheffArchCal
+2017-11-18 19:19:31 Tweets   : 33.7% at 33/sec for SimonGrover
+2017-11-18 19:19:39 Favorites: 53.8% at 31/sec for SimonGrover
+2017-11-18 19:19:40 Favorites: 92.5% at 59/sec for SimonMDyke
+2017-11-18 19:19:40 Favorites: User SL5616 has a protected account or no Favoritess to collect so skipping
+2017-11-18 19:19:44 Favorites: 100% at 20/sec for SmartGlassInt
+2017-11-18 19:19:45 Favorites: 87% at 29/sec for SMTcarpentry
+2017-11-18 19:19:48 Tweets   : 99.7% at 22/sec for SimonMDyke
+2017-11-18 19:19:52 Favorites: 58.3% at 41/sec for soarhill
+2017-11-18 19:19:53 Favorites: 75% at 7/sec for Solaflair
+2017-11-18 19:19:53 Favorites: 75% at 6/sec for solarcourses
+2017-11-18 19:19:54 Tweets   : 100% at 1/sec for SL5616
+2017-11-18 19:19:55 Favorites: 95.6% at 68/sec for Solartwin
+2017-11-18 19:20:47 Tweets   : 100% at 35/sec for SmartGlassInt
+2017-11-18 19:21:02 Tweets   : 99.7% at 22/sec for SMTcarpentry
+2017-11-18 19:21:46 Tweets   : 100% at 28/sec for soarhill
+2017-11-18 19:22:09 Tweets   : 99.8% at 36/sec for Solaflair
+2017-11-18 19:22:20 Tweets   : 100% at 17/sec for solarcourses
+2017-11-18 19:23:38 Tweets   : 15.4% at 41/sec for Solartwin
+2017-11-18 19:31:33 Friends  : 99.6% at 23/sec for RippedOffBriton
+2017-11-18 19:31:52 Friends  : 100% at 47/sec for RMCEcobuild
+2017-11-18 19:32:06 Friends  : 97.7% at 42/sec for RobBryher
+2017-11-18 19:32:14 Friends  : 99.3% at 35/sec for RobertBedner
+2017-11-18 19:32:53 Friends  : 99.1% at 45/sec for robintransition
+2017-11-18 19:33:28 Friends  : 98.3% at 42/sec for RogTallbloke
+2017-11-18 19:33:30 Friends  : 100% at 41/sec for rolandmatzig
+2017-11-18 19:33:37 Friends  : 97.7% at 34/sec for Rolo_Tamasi
+Error in twInterfaceObj$doAPICall(paste("users", "show", sep = "/"), params = params,  : 
+  Not Found (HTTP 404).
+In addition: Warning message:
+package 'twitteR' was built under R version 3.4.1 
+2017-11-18 19:33:38 Friends: Unable to find account RosLuig moving to next
+2017-11-18 19:33:38 Friends  : % at /sec for RosLuig
+2017-11-18 19:33:53 Friends  : 98.9% at 41/sec for RozPidcock
+2017-11-18 19:34:47 Friends  : 99.7% at 43/sec for rpersivale
+2017-11-18 19:34:55 Friends  : 100% at 39/sec for RuairiKay
+2017-11-18 19:35:01 Friends  : 100% at 23/sec for RUMcSAFE
+2017-11-18 19:39:53 Friends  : 99.3% at 40/sec for ruregistered
+2017-11-18 19:39:57 Friends  : 100% at 8/sec for rwelford
+2017-11-18 19:39:57 Friends  : Waiting for 6.7 minutes
+2017-11-18 19:47:54 Friends  : 99.7% at 5/sec for SACConstruction
+2017-11-18 19:47:57 Friends  : 98.1% at 41/sec for salixsustain
+2017-11-18 19:48:38 Friends  : 99.6% at 35/sec for SalmaYaqoob
+2017-11-18 19:48:54 Friends  : 97.7% at 40/sec for SandersonAidan
+2017-11-18 19:49:54 Friends  : 100% at 38/sec for saving_energy
+2017-11-18 19:50:28 Friends  : 99.5% at 52/sec for scribbilib
+2017-11-18 19:50:29 Friends  : 100% at 32/sec for SEAS_Ltd
+2017-11-18 19:50:43 Friends  : 99.5% at 54/sec for SelfSustainBldg
+2017-11-18 19:50:47 Friends  : 100% at 13/sec for SEP_UK
+2017-11-18 19:50:54 Friends  : 100% at 54/sec for sharonedgar
+2017-11-18 19:51:43 Friends  : 98.9% at 46/sec for SheffArchCal
+2017-11-18 19:51:50 Friends  : 99% at 53/sec for SimonGrover
+2017-11-18 19:52:06 Friends  : 99.3% at 42/sec for SimonMDyke
+2017-11-18 19:52:08 Friends  : 100% at 27/sec for SL5616
+2017-11-18 19:52:50 Friends  : 100% at 46/sec for SmartGlassInt
+2017-11-18 19:52:50 Friends  : Waiting for 9 minutes
+2017-11-18 20:02:30 Friends  : 99.2% at 2/sec for SMTcarpentry
+2017-11-18 20:02:37 Friends  : 100% at 45/sec for soarhill
+2017-11-18 20:03:18 Friends  : 99.9% at 48/sec for Solaflair
+2017-11-18 20:03:48 Friends  : 100% at 46/sec for solarcourses
+2017-11-18 20:04:25 Friends  : 100% at 52/sec for Solartwin
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+Warning message:
+package 'twitteR' was built under R version 3.4.1 

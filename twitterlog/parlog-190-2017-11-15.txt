@@ -1,0 +1,170 @@
+starting worker pid=10668 on localhost:11271 at 03:36:48.795
+starting worker pid=9188 on localhost:11271 at 03:36:49.086
+starting worker pid=10716 on localhost:11271 at 03:36:49.270
+[1] "Using direct authentication"
+2017-11-15 03:37:43 Favorites: 92.1% at 25/sec for InternormUK
+2017-11-15 03:37:43 Favorites: User tsi_uk has a protected account or no Favoritess to collect so skipping
+2017-11-15 03:37:59 Friends  : 99.4% at 33/sec for InternormUK
+2017-11-15 03:38:01 Friends  : 100% at 1/sec for tsi_uk
+2017-11-15 03:38:10 Favorites: 50.5% at 37/sec for Ultraframe1
+2017-11-15 03:38:39 Favorites: 52.1% at 37/sec for WintechTesting
+2017-11-15 03:38:53 Favorites: 55.2% at 36/sec for AberdeenAssetUK
+2017-11-15 03:38:54 Favorites: 100% at 3/sec for AJonesMP
+2017-11-15 03:38:59 Tweets   : 99.3% at 37/sec for InternormUK
+2017-11-15 03:39:05 Tweets   : 100% at 0/sec for tsi_uk
+2017-11-15 03:39:33 Favorites: 50.9% at 37/sec for AskNationwide
+2017-11-15 03:39:33 Friends  : 99.1% at 34/sec for Ultraframe1
+2017-11-15 03:39:33 Favorites: 100% at 3/sec for Barclays
+2017-11-15 03:40:16 Tweets   : 99.8% at 38/sec for Ultraframe1
+2017-11-15 03:40:36 Tweets   : 100% at 28/sec for WintechTesting
+2017-11-15 03:40:42 Friends  : 99.4% at 31/sec for WintechTesting
+2017-11-15 03:40:53 Favorites: 49.8% at 37/sec for BenBrabyn
+2017-11-15 03:40:53 Favorites: Waiting for 11.7 minutes due to : Used up allowance in a loop
+2017-11-15 03:40:54 Friends  : 99.7% at 30/sec for AberdeenAssetUK
+2017-11-15 03:41:49 Friends  : 99.9% at 35/sec for AJonesMP
+2017-11-15 03:41:53 Tweets   : 99.9% at 36/sec for AberdeenAssetUK
+2017-11-15 03:42:28 Tweets   : 99.8% at 36/sec for AJonesMP
+2017-11-15 03:43:37 Tweets   : 1.3% at 46/sec for AskNationwide
+2017-11-15 03:43:54 Tweets   : 100% at 30/sec for Barclays
+2017-11-15 03:45:27 Tweets   : 15.8% at 34/sec for BenBrabyn
+2017-11-15 03:46:57 Tweets   : 6.3% at 36/sec for BFI
+2017-11-15 03:48:24 Tweets   : 29.2% at 37/sec for BrightstarHUB
+2017-11-15 03:49:55 Tweets   : 66.6% at 35/sec for BSABuildingSocs
+2017-11-15 03:51:02 Friends  : 98.2% at 37/sec for AskNationwide
+2017-11-15 03:51:03 Friends  : 100% at 20/sec for Barclays
+2017-11-15 03:51:07 Tweets   : 99.9% at 39/sec for careersDB
+2017-11-15 03:52:36 Tweets   : 86.6% at 36/sec for cfconferences
+2017-11-15 03:53:11 Favorites: 50.3% at 2/sec for BFI
+2017-11-15 03:53:22 Friends  : 98.1% at 39/sec for BenBrabyn
+2017-11-15 03:53:22 Favorites: 59.5% at 36/sec for BrightstarHUB
+2017-11-15 03:53:41 Favorites: 51.2% at 37/sec for BSABuildingSocs
+2017-11-15 03:53:52 Favorites: 59.7% at 36/sec for careersDB
+[1] "Server error: (500) Internal Server Error"
+[1] "This error is likely transient, retrying up to 5 more times ..."
+2017-11-15 03:54:06 Tweets   : 38.6% at 36/sec for CIIGroup
+2017-11-15 03:54:10 Favorites: 53.6% at 33/sec for cfconferences
+2017-11-15 03:54:12 Friends  : 99.2% at 44/sec for BFI
+2017-11-15 03:54:42 Friends  : 98.7% at 41/sec for BrightstarHUB
+2017-11-15 03:55:00 Favorites: 51.3% at 36/sec for CIIGroup
+2017-11-15 03:55:08 Friends  : 99.6% at 42/sec for BSABuildingSocs
+2017-11-15 03:55:16 Friends  : 100% at 36/sec for careersDB
+2017-11-15 03:55:16 Favorites: 47.4% at 35/sec for CoveaInsplc
+2017-11-15 03:55:17 Favorites: 100% at 31/sec for CrossflowP
+2017-11-15 03:55:25 Favorites: 51.8% at 36/sec for DeptHealthPress
+2017-11-15 03:55:34 Tweets   : 97.1% at 36/sec for CoveaInsplc
+2017-11-15 03:55:49 Friends  : 99% at 43/sec for cfconferences
+2017-11-15 03:56:00 Favorites: Waiting for 11.6 minutes due to : Used up allowance in a loop
+2017-11-15 03:56:36 Tweets   : 100% at 38/sec for CrossflowP
+2017-11-15 03:56:40 Friends  : 98.1% at 41/sec for CIIGroup
+2017-11-15 03:56:58 Friends  : 98.6% at 43/sec for CoveaInsplc
+2017-11-15 03:57:58 Tweets   : 47.1% at 39/sec for DeptHealthPress
+2017-11-15 03:58:06 Friends  : 92% at 42/sec for CrossflowP
+2017-11-15 03:58:33 Friends  : 99.9% at 43/sec for DeptHealthPress
+2017-11-15 03:58:40 Friends  : 100% at 38/sec for DeutscheBank
+2017-11-15 03:58:52 Friends  : 99.4% at 40/sec for DLGroupMedia
+2017-11-15 03:59:24 Tweets   : 27.9% at 37/sec for DeutscheBank
+2017-11-15 03:59:40 Tweets   : 100% at 23/sec for DLGroupMedia
+2017-11-15 04:00:03 Friends  : 99.8% at 40/sec for Ecclesiastical
+2017-11-15 04:00:04 Friends  : Waiting for 6 minutes
+2017-11-15 04:00:55 Tweets   : 68.9% at 43/sec for Ecclesiastical
+2017-11-15 04:01:10 Tweets   : 100% at 28/sec for FinStbBoard
+2017-11-15 04:01:16 Tweets   : 100% at 2/sec for HelloSturgeon
+2017-11-15 04:02:35 Tweets   : 27.3% at 41/sec for IMFNews
+2017-11-15 04:02:45 Tweets   : 100% at 17/sec for ionStarLondon
+2017-11-15 04:03:07 Tweets   : 100% at 34/sec for LBGNews
+2017-11-15 04:04:27 Tweets   : 60.7% at 40/sec for LloydsofLondon
+2017-11-15 04:05:43 Tweets   : 5.9% at 42/sec for manairport
+2017-11-15 04:06:07 Friends  : 98.1% at 0/sec for FinStbBoard
+2017-11-15 04:06:08 Friends  : 100% at 7/sec for HelloSturgeon
+2017-11-15 04:06:13 Tweets   : 99.4% at 35/sec for Mario_Pisani
+2017-11-15 04:06:19 Friends  : 99.2% at 36/sec for IMFNews
+2017-11-15 04:06:27 Friends  : 99.7% at 37/sec for ionStarLondon
+2017-11-15 04:06:30 Tweets   : 100% at 26/sec for MarketHarbBS
+2017-11-15 04:06:42 Friends  : 98.4% at 41/sec for LBGNews
+2017-11-15 04:06:55 Friends  : 100% at 40/sec for LloydsofLondon
+2017-11-15 04:06:56 Friends: Request of 24 exceeds the maximum of 15. Making an attemp
+Waiting will increase the number of results returned
+2017-11-15 04:06:56 Friends  : Waiting for 14.2 minutes
+2017-11-15 04:07:57 Tweets   : 70.8% at 37/sec for NESTinsider
+2017-11-15 04:08:26 Favorites: 29.6% at 4/sec for DeutscheBank
+2017-11-15 04:08:28 Favorites: 100% at 40/sec for DLGroupMedia
+2017-11-15 04:08:44 Favorites: 58.3% at 36/sec for Ecclesiastical
+2017-11-15 04:08:45 Favorites: 100% at 1/sec for FinStbBoard
+2017-11-15 04:08:46 Favorites: 100% at 5/sec for HelloSturgeon
+2017-11-15 04:08:48 Favorites: 100% at 36/sec for IMFNews
+2017-11-15 04:08:50 Favorites: 55% at 39/sec for ionStarLondon
+2017-11-15 04:08:59 Favorites: 63.7% at 37/sec for LBGNews
+2017-11-15 04:09:09 Favorites: 62.5% at 37/sec for LloydsofLondon
+2017-11-15 04:09:10 Tweets   : 99.9% at 38/sec for NSAFS
+2017-11-15 04:09:38 Tweets   : 100% at 32/sec for nsandi
+2017-11-15 04:09:51 Tweets   : 100% at 21/sec for OBR_UK
+2017-11-15 04:10:13 Favorites: 48.9% at 38/sec for manairport
+2017-11-15 04:10:19 Tweets   : 99.9% at 28/sec for PaymentsUK
+2017-11-15 04:10:23 Favorites: 58.5% at 39/sec for Mario_Pisani
+2017-11-15 04:10:23 Favorites: 100% at 20/sec for MarketHarbBS
+2017-11-15 04:10:25 Favorites: 98.6% at 36/sec for NESTinsider
+2017-11-15 04:10:28 Favorites: 58.1% at 40/sec for NSAFS
+2017-11-15 04:10:33 Favorites: 74.9% at 40/sec for nsandi
+2017-11-15 04:10:33 Favorites: User OBR_UK has a protected account or no Favoritess to collect so skipping
+2017-11-15 04:10:37 Favorites: 90.9% at 43/sec for PaymentsUK
+2017-11-15 04:10:40 Favorites: Waiting for 11.9 minutes due to : Used up allowance in a loop
+2017-11-15 04:11:37 Tweets   : 47.4% at 41/sec for PersimmonHomes
+2017-11-15 04:12:59 Tweets   : 20.6% at 39/sec for PeterboroughCC
+2017-11-15 04:13:21 Tweets   : 100% at 35/sec for PhoenixGroupUK
+2017-11-15 04:13:51 Tweets   : 99.9% at 33/sec for PioneerCU
+2017-11-15 04:13:51 Tweets   : User RBSGroup has a protected account or no Tweetss to collect so skipping
+2017-11-15 04:15:19 Tweets   : 18.8% at 36/sec for rosaltmann
+2017-11-15 04:16:30 Tweets   : 99.9% at 40/sec for RoyalLondon
+2017-11-15 04:16:48 Tweets   : 100% at 26/sec for salaryfin
+2017-11-15 04:18:05 Tweets   : 100% at 37/sec for ShefUniNews
+2017-11-15 04:19:30 Tweets   : 15.6% at 37/sec for simplybusiness
+2017-11-15 04:20:25 Tweets   : 100% at 42/sec for SteveBarclay
+2017-11-15 04:21:52 Tweets   : 81.8% at 37/sec for The_DTCC
+2017-11-15 04:22:44 Favorites: 57.2% at 1/sec for PersimmonHomes
+2017-11-15 04:22:53 Favorites: 62.9% at 35/sec for PeterboroughCC
+2017-11-15 04:22:54 Favorites: 100% at 37/sec for PhoenixGroupUK
+2017-11-15 04:22:57 Favorites: 100% at 34/sec for PioneerCU
+2017-11-15 04:22:57 Favorites: User RBSGroup has a protected account or no Favoritess to collect so skipping
+2017-11-15 04:22:59 Favorites: 97.3% at 34/sec for rosaltmann
+2017-11-15 04:23:05 Tweets   : 99.9% at 38/sec for ThinkRiseLDN
+2017-11-15 04:23:14 Favorites: 49.7% at 39/sec for RoyalLondon
+2017-11-15 04:23:19 Favorites: 69.2% at 43/sec for salaryfin
+2017-11-15 04:23:38 Favorites: 54.8% at 37/sec for ShefUniNews
+2017-11-15 04:24:09 Tweets   : 99.9% at 34/sec for TSB_News
+2017-11-15 04:24:46 Favorites: 49.7% at 37/sec for simplybusiness
+2017-11-15 04:24:48 Favorites: 100% at 37/sec for SteveBarclay
+2017-11-15 04:25:07 Favorites: 53.9% at 37/sec for The_DTCC
+2017-11-15 04:25:30 Favorites: 53% at 35/sec for ThinkRiseLDN
+2017-11-15 04:25:38 Tweets   : 41.9% at 36/sec for UKinHongKong
+2017-11-15 04:25:52 Favorites: Waiting for 11.7 minutes due to : Used up allowance in a loop
+2017-11-15 04:37:42 Favorites: 51.4% at 1/sec for TSB_News
+2017-11-15 04:38:34 Favorites: 50.5% at 38/sec for UKinHongKong
+2017-11-15 04:54:16 Friends  : 63.2% at 26/sec for manairport
+2017-11-15 04:54:21 Friends  : 100% at 34/sec for Mario_Pisani
+2017-11-15 04:54:24 Friends  : 100% at 24/sec for MarketHarbBS
+2017-11-15 04:54:45 Friends  : 100% at 39/sec for NESTinsider
+2017-11-15 04:55:14 Friends  : 99.8% at 42/sec for NSAFS
+2017-11-15 04:55:28 Friends  : 99.6% at 40/sec for nsandi
+2017-11-15 04:55:28 Friends  : User OBR_UK has a protected account or no Friendss to collect so skipping
+2017-11-15 04:55:41 Friends  : 99.1% at 41/sec for PaymentsUK
+2017-11-15 04:55:59 Friends  : 99.9% at 37/sec for PersimmonHomes
+2017-11-15 04:56:25 Friends  : 99.4% at 38/sec for PeterboroughCC
+2017-11-15 04:56:35 Friends  : 99.7% at 35/sec for PhoenixGroupUK
+2017-11-15 04:56:55 Friends  : 97.8% at 31/sec for PioneerCU
+2017-11-15 04:56:55 Friends  : User RBSGroup has a protected account or no Friendss to collect so skipping
+2017-11-15 04:56:59 Friends  : 100% at 30/sec for rosaltmann
+2017-11-15 04:57:50 Friends  : 98.8% at 41/sec for RoyalLondon
+2017-11-15 04:57:55 Friends  : 100% at 37/sec for salaryfin
+2017-11-15 04:59:22 Friends  : 99.4% at 40/sec for ShefUniNews
+2017-11-15 05:00:15 Friends  : 99.8% at 40/sec for simplybusiness
+2017-11-15 05:00:16 Friends  : Waiting for 9.1 minutes
+2017-11-15 05:09:32 Friends  : 99.5% at 1/sec for SteveBarclay
+2017-11-15 05:11:04 Friends  : 95.2% at 40/sec for The_DTCC
+2017-11-15 05:11:47 Friends  : 98.3% at 41/sec for ThinkRiseLDN
+2017-11-15 05:12:33 Friends  : 99.5% at 40/sec for TSB_News
+2017-11-15 05:12:47 Friends  : 98.7% at 40/sec for UKinHongKong
+Warning messages:package 'twitteR' was built under R version 3.4.1 
+1: package 'twitteR' was built under R version 3.4.1 
+package 'twitteR' was built under R version 3.4.1 
+2: In twInterfaceObj$doAPICall(cmd, params, method, ...) :
+  Rate limit encountered & retry limit reached - returning partial results

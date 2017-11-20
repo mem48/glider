@@ -1,0 +1,179 @@
+starting worker pid=5388 on localhost:11271 at 16:17:17.777
+starting worker pid=13816 on localhost:11271 at 16:17:17.945
+starting worker pid=4396 on localhost:11271 at 16:17:18.114
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-15 16:19:02 Friends  : 96.2% at 30/sec for mikeharvey303
+2017-11-15 16:19:10 Favorites: 52.3% at 30/sec for mikeharvey303
+2017-11-15 16:19:21 Friends  : 99.8% at 44/sec for milindparti
+2017-11-15 16:19:21 Favorites: 54% at 39/sec for milindparti
+2017-11-15 16:19:44 Favorites: 51.7% at 36/sec for minsterfm
+2017-11-15 16:19:57 Favorites: 52.6% at 39/sec for MirandaMcK
+2017-11-15 16:19:59 Favorites: 81.3% at 41/sec for mishlambert
+2017-11-15 16:20:00 Tweets   : 99.6% at 35/sec for mikeharvey303
+2017-11-15 16:20:04 Favorites: 65.2% at 39/sec for MoiraSinclair1
+2017-11-15 16:20:06 Favorites: 59% at 50/sec for moneyadvicescot
+2017-11-15 16:20:18 Favorites: 55% at 43/sec for MrRBourne
+2017-11-15 16:20:35 Favorites: 52.6% at 39/sec for MrSimonDudley
+2017-11-15 16:21:01 Favorites: Waiting for 9.2 minutes due to : Used up allowance in a loop
+2017-11-15 16:21:19 Tweets   : 60.6% at 40/sec for milindparti
+2017-11-15 16:22:44 Tweets   : 8% at 37/sec for minsterfm
+2017-11-15 16:23:29 Friends  : 98.7% at 37/sec for minsterfm
+2017-11-15 16:23:45 Friends  : 98.2% at 41/sec for MirandaMcK
+2017-11-15 16:23:52 Tweets   : 100% at 35/sec for MirandaMcK
+2017-11-15 16:24:06 Friends  : 99.9% at 37/sec for mishlambert
+2017-11-15 16:24:10 Tweets   : 100% at 21/sec for mishlambert
+2017-11-15 16:24:32 Friends  : 99.8% at 41/sec for MoiraSinclair1
+2017-11-15 16:24:46 Friends  : 97% at 42/sec for moneyadvicescot
+2017-11-15 16:25:30 Tweets   : 94.9% at 40/sec for MoiraSinclair1
+2017-11-15 16:26:01 Friends  : 99.5% at 45/sec for MrRBourne
+2017-11-15 16:26:10 Friends  : 96.3% at 38/sec for MrSimonDudley
+2017-11-15 16:26:36 Tweets   : 74.2% at 49/sec for moneyadvicescot
+2017-11-15 16:26:58 Friends  : 99.3% at 45/sec for MrsNickyClark
+2017-11-15 16:27:40 Tweets   : 7.3% at 50/sec for MrRBourne
+2017-11-15 16:28:17 Friends  : 97.2% at 41/sec for MTurnbull1973
+2017-11-15 16:28:18 Friends  : 100% at 2/sec for MustBeRead
+2017-11-15 16:28:47 Tweets   : 43.6% at 47/sec for MrSimonDudley
+2017-11-15 16:29:03 Friends  : 99.3% at 42/sec for MYSTLiverpool
+2017-11-15 16:29:26 Friends  : 99.7% at 51/sec for Nancy_M_K
+2017-11-15 16:29:26 Friends  : Waiting for 3.5 minutes
+2017-11-15 16:29:59 Tweets   : 1.9% at 44/sec for MrsNickyClark
+2017-11-15 16:30:12 Favorites: 14.3% at 2/sec for MrsNickyClark
+2017-11-15 16:30:12 Favorites: Waiting for 0 minutes due to : Used up allowance in a loop
+2017-11-15 16:30:51 Favorites: 50.1% at 40/sec for MTurnbull1973
+2017-11-15 16:30:51 Favorites: 100% at 12/sec for MustBeRead
+2017-11-15 16:31:06 Tweets   : 82.4% at 48/sec for MTurnbull1973
+2017-11-15 16:31:20 Favorites: 51.3% at 41/sec for MYSTLiverpool
+2017-11-15 16:31:28 Favorites: 49.9% at 38/sec for Nancy_M_K
+2017-11-15 16:32:04 Favorites: 45.3% at 40/sec for Naomi_Barrow
+2017-11-15 16:32:05 Favorites: 94.4% at 26/sec for NatashaMorgan_
+2017-11-15 16:32:07 Tweets   : 15.2% at 52/sec for MustBeRead
+2017-11-15 16:32:17 Favorites: 54.1% at 41/sec for NatEdTrust
+2017-11-15 16:32:28 Favorites: 51% at 42/sec for NathanGamester
+2017-11-15 16:32:31 Favorites: 51.5% at 34/sec for nathonraine
+2017-11-15 16:33:05 Friends  : 97.2% at 1/sec for Naomi_Barrow
+2017-11-15 16:33:10 Favorites: Waiting for 12.1 minutes due to : Used up allowance in a loop
+2017-11-15 16:33:13 Friends  : 100% at 43/sec for NatashaMorgan_
+2017-11-15 16:33:14 Tweets   : 34.4% at 48/sec for MYSTLiverpool
+2017-11-15 16:33:38 Friends  : 99.9% at 46/sec for NatEdTrust
+2017-11-15 16:33:53 Friends  : 99.3% at 46/sec for NathanGamester
+2017-11-15 16:34:24 Tweets   : 56.5% at 46/sec for Nancy_M_K
+2017-11-15 16:34:29 Friends  : 99.9% at 46/sec for nathonraine
+2017-11-15 16:35:23 Tweets   : 20.4% at 54/sec for Naomi_Barrow
+2017-11-15 16:35:27 Friends  : 99.6% at 47/sec for ncbtweets
+2017-11-15 16:35:42 Tweets   : 99.9% at 39/sec for NatashaMorgan_
+Error in twInterfaceObj$doAPICall(cmd, params, method, ...) : 
+  Service Unavailable (HTTP 503).
+In addition: Warning message:
+package 'twitteR' was built under R version 3.4.1 
+2017-11-15 16:35:50 Tweets: Unable to find account NatEdTrust moving to next
+2017-11-15 16:35:50 Tweets   : % at /sec for NatEdTrust
+2017-11-15 16:35:57 Friends  : 98.7% at 51/sec for NCFCareForum
+2017-11-15 16:36:55 Tweets   : 77% at 49/sec for NathanGamester
+2017-11-15 16:37:39 Tweets   : 99.1% at 45/sec for nathonraine
+2017-11-15 16:38:50 Tweets   : 18.7% at 45/sec for ncbtweets
+2017-11-15 16:39:59 Tweets   : 40% at 46/sec for NCFCareForum
+2017-11-15 16:41:13 Tweets   : 13.8% at 43/sec for NCVO
+2017-11-15 16:41:48 Friends  : 98.9% at 42/sec for NCVO
+2017-11-15 16:42:17 Friends  : 100% at 40/sec for NCVOvolunteers
+2017-11-15 16:42:27 Tweets   : 21.6% at 43/sec for NCVOvolunteers
+2017-11-15 16:42:41 Friends  : 97.9% at 40/sec for ndrlee
+2017-11-15 16:42:54 Friends  : 100% at 36/sec for nechildpoverty
+2017-11-15 16:43:20 Friends  : 99.2% at 42/sec for NeilDotObrien
+2017-11-15 16:43:29 Tweets   : 50.9% at 52/sec for ndrlee
+2017-11-15 16:43:52 Friends  : 98.4% at 51/sec for NeilGrayMP
+2017-11-15 16:43:53 Friends  : Waiting for 4.2 minutes
+2017-11-15 16:44:33 Tweets   : 57.5% at 49/sec for nechildpoverty
+2017-11-15 16:44:43 Tweets   : 99% at 20/sec for NeilDotObrien
+2017-11-15 16:45:23 Favorites: 52% at 2/sec for ncbtweets
+2017-11-15 16:45:44 Favorites: 54.7% at 42/sec for NCFCareForum
+2017-11-15 16:45:57 Tweets   : 26% at 43/sec for NeilGrayMP
+2017-11-15 16:46:12 Favorites: 50.2% at 42/sec for NCVO
+2017-11-15 16:46:44 Favorites: 50.8% at 40/sec for NCVOvolunteers
+2017-11-15 16:47:04 Favorites: 51.5% at 40/sec for ndrlee
+2017-11-15 16:47:06 Tweets   : 8.7% at 46/sec for neilmcrowther
+2017-11-15 16:47:14 Favorites: 54.2% at 41/sec for nechildpoverty
+2017-11-15 16:47:14 Favorites: 100% at 39/sec for NeilDotObrien
+2017-11-15 16:47:49 Favorites: 51.9% at 40/sec for NeilGrayMP
+2017-11-15 16:48:01 Favorites: 58.4% at 41/sec for neilmcrowther
+2017-11-15 16:48:08 Tweets   : 5.3% at 52/sec for NewStatesman
+2017-11-15 16:48:10 Favorites: 65.5% at 41/sec for NewStatesman
+2017-11-15 16:48:13 Favorites: Waiting for 12 minutes due to : Used up allowance in a loop
+2017-11-15 16:48:53 Tweets   : 99.7% at 44/sec for NFSP_UK
+2017-11-15 16:49:02 Friends  : 99.1% at 10/sec for neilmcrowther
+2017-11-15 16:50:08 Tweets   : 10.4% at 42/sec for NHS_Dean
+2017-11-15 16:50:24 Friends  : 99.9% at 43/sec for NewStatesman
+2017-11-15 16:50:35 Friends  : 98.9% at 42/sec for NFSP_UK
+2017-11-15 16:50:50 Friends  : 98.9% at 41/sec for NHS_Dean
+2017-11-15 16:50:59 Friends  : 98% at 44/sec for NHS_KS
+2017-11-15 16:51:18 Tweets   : 89.1% at 46/sec for NHS_KS
+2017-11-15 16:51:21 Friends  : 99.9% at 41/sec for NHSEng_RachelSM
+2017-11-15 16:51:50 Tweets   : 99.6% at 42/sec for NHSEng_RachelSM
+2017-11-15 16:51:51 Friends  : 98.7% at 42/sec for niadla
+2017-11-15 16:52:02 Friends  : 98.3% at 45/sec for nick_axford
+2017-11-15 16:52:49 Friends  : 99.4% at 41/sec for nickfaith82
+2017-11-15 16:52:58 Tweets   : 30.6% at 47/sec for niadla
+2017-11-15 16:53:24 Tweets   : 99.9% at 39/sec for nick_axford
+2017-11-15 16:54:36 Tweets   : 30.6% at 45/sec for nickfaith82
+2017-11-15 16:54:44 Friends  : 99.4% at 43/sec for nicktemple1
+2017-11-15 16:54:57 Friends  : 99.7% at 51/sec for NICVACEE
+2017-11-15 16:55:02 Friends  : 100% at 38/sec for NigelJRHT
+2017-11-15 16:55:16 Friends  : 98.9% at 46/sec for njamesoncuk
+2017-11-15 16:55:44 Tweets   : 11.5% at 47/sec for nicktemple1
+2017-11-15 16:55:55 Friends  : 99.1% at 45/sec for NorwichLEAP
+2017-11-15 16:55:55 Friends  : Waiting for 7.2 minutes
+2017-11-15 16:56:45 Tweets   : 100% at 51/sec for NICVACEE
+2017-11-15 16:56:57 Tweets   : 100% at 27/sec for NigelJRHT
+2017-11-15 16:58:11 Tweets   : 34.7% at 43/sec for njamesoncuk
+2017-11-15 16:59:28 Tweets   : 68.1% at 41/sec for NorwichLEAP
+2017-11-15 17:00:15 Favorites: 54.2% at 0/sec for NFSP_UK
+2017-11-15 17:00:34 Tweets   : 11.4% at 49/sec for NPCthinks
+2017-11-15 17:01:01 Favorites: 51.3% at 36/sec for NHS_Dean
+2017-11-15 17:01:09 Favorites: 70.9% at 40/sec for NHS_KS
+2017-11-15 17:01:14 Favorites: 90.1% at 41/sec for NHSEng_RachelSM
+2017-11-15 17:01:41 Tweets   : 21.2% at 47/sec for ODILeeds
+2017-11-15 17:01:49 Tweets   : 100% at 11/sec for olhe
+2017-11-15 17:02:31 Favorites: 3% at 42/sec for niadla
+2017-11-15 17:02:31 Favorites: 100% at 20/sec for nick_axford
+2017-11-15 17:02:32 Favorites: 100% at 20/sec for nickfaith82
+2017-11-15 17:03:03 Tweets   : 51% at 43/sec for onroadmedia
+2017-11-15 17:03:13 Favorites: Waiting for 12 minutes due to : Used up allowance in a loop
+2017-11-15 17:03:14 Tweets   : 100% at 19/sec for OpenShopYork
+2017-11-15 17:03:59 Friends  : 99.5% at 5/sec for NPCthinks
+2017-11-15 17:04:21 Tweets   : 34.3% at 47/sec for OxfamCymru
+2017-11-15 17:04:46 Friends  : 99.2% at 44/sec for ODILeeds
+2017-11-15 17:04:49 Friends  : 100% at 34/sec for olhe
+2017-11-15 17:05:20 Friends  : 99.7% at 42/sec for onroadmedia
+2017-11-15 17:05:23 Tweets   : 4.7% at 52/sec for oxfamgb
+2017-11-15 17:05:29 Friends  : 100% at 39/sec for OpenShopYork
+2017-11-15 17:06:04 Tweets   : 100% at 44/sec for PatriciaConboy1
+2017-11-15 17:06:24 Tweets   : 99.7% at 34/sec for PaulBGipsil
+2017-11-15 17:07:10 Friends  : 98.9% at 40/sec for OxfamCymru
+2017-11-15 17:10:22 Friends  : 99.8% at 44/sec for oxfamgb
+2017-11-15 17:10:49 Friends  : 98.6% at 41/sec for PatriciaConboy1
+2017-11-15 17:11:07 Friends  : 97.5% at 39/sec for PaulBGipsil
+2017-11-15 17:15:43 Favorites: 51.2% at 4/sec for nicktemple1
+2017-11-15 17:15:47 Favorites: 87.7% at 45/sec for NICVACEE
+2017-11-15 17:15:48 Favorites: 100% at 11/sec for NigelJRHT
+2017-11-15 17:16:00 Favorites: 59.4% at 41/sec for njamesoncuk
+2017-11-15 17:16:23 Favorites: 50.9% at 39/sec for NorwichLEAP
+2017-11-15 17:16:44 Favorites: 51.6% at 38/sec for NPCthinks
+2017-11-15 17:17:38 Favorites: 50.5% at 40/sec for ODILeeds
+2017-11-15 17:17:40 Favorites: 100% at 51/sec for olhe
+2017-11-15 17:17:55 Favorites: 58.9% at 42/sec for onroadmedia
+2017-11-15 17:17:57 Favorites: 79.4% at 45/sec for OpenShopYork
+2017-11-15 17:18:11 Favorites: 50.9% at 41/sec for OxfamCymru
+2017-11-15 17:18:17 Favorites: Waiting for 11.9 minutes due to : Used up allowance in a loop
+2017-11-15 17:30:14 Favorites: 4.4% at 0/sec for oxfamgb
+2017-11-15 17:30:14 Favorites: Waiting for 0 minutes due to : Used up allowance in a loop
+2017-11-15 17:30:31 Favorites: 60.9% at 29/sec for PatriciaConboy1
+2017-11-15 17:30:41 Favorites: 52.1% at 31/sec for PaulBGipsil
+Warning messages:
+1: package 'twitteR' was built under R version 3.4.1 
+2: In twInterfaceObj$doAPICall(cmd, params, method, ...) :
+  Rate limit encountered & retry limit reached - returning partial results
+3: Warning message:
+In twInterfaceObj$doAPICall(cmd, params, method, ...) :
+ kage 'twitteR' was built under R version 3.4.1 
+ Rate limit encountered & retry limit reached - returning partial results

@@ -1,0 +1,173 @@
+starting worker pid=11260 on localhost:11271 at 17:34:38.313
+starting worker pid=11084 on localhost:11271 at 17:34:38.530
+starting worker pid=9276 on localhost:11271 at 17:34:38.751
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-19 17:38:10 Friends  : 99.3% at 22/sec for nigelmills
+2017-11-19 17:38:57 Friends  : 98.7% at 24/sec for nigelmp
+2017-11-19 17:39:36 Friends  : 99.8% at 29/sec for NKCollege1
+2017-11-19 17:39:45 Friends  : 100% at 25/sec for nlakeland
+2017-11-19 17:39:49 Friends  : 97.9% at 43/sec for NNC_Worksop
+2017-11-19 17:41:09 Friends  : 99.4% at 29/sec for nominettrust
+2017-11-19 17:41:11 Favorites: 60% at 47/sec for nigelmills
+2017-11-19 17:41:11 Friends  : 100% at 40/sec for nortcoll
+2017-11-19 17:41:34 Friends  : 99.3% at 30/sec for NorthamptonColl
+2017-11-19 17:42:10 Friends  : 98.7% at 26/sec for northeastlep
+2017-11-19 17:42:37 Favorites: 50.4% at 25/sec for nigelmp
+2017-11-19 17:42:56 Favorites: 52.3% at 27/sec for NKCollege1
+2017-11-19 17:42:58 Favorites: 81.1% at 52/sec for nlakeland
+2017-11-19 17:42:59 Favorites: 100% at 43/sec for NNC_Worksop
+2017-11-19 17:43:21 Friends  : 99.5% at 29/sec for NorthernCollege
+2017-11-19 17:43:57 Favorites: 51.1% at 29/sec for nominettrust
+2017-11-19 17:43:57 Favorites: 100% at 16/sec for nortcoll
+2017-11-19 17:44:27 Favorites: 54.8% at 27/sec for NorthamptonColl
+2017-11-19 17:45:19 Favorites: 51.9% at 28/sec for northeastlep
+2017-11-19 17:45:20 Friends  : 99.6% at 26/sec for NorthlandColl
+2017-11-19 17:45:26 Tweets   : 99.8% at 18/sec for nigelmills
+2017-11-19 17:45:32 Friends  : 99.7% at 29/sec for NorwichChloe
+2017-11-19 17:45:32 Favorites: Waiting for 10.6 minutes due to : Used up allowance in a loop
+2017-11-19 17:46:24 Tweets   : 99.8% at 32/sec for nigelmp
+Error in twInterfaceObj$doAPICall(cmd, params, method, ...) : 
+  Service Unavailable (HTTP 503).
+In addition: Warning message:
+package 'twitteR' was built under R version 3.4.1 
+2017-11-19 17:46:38 Tweets: Unable to find account NKCollege1 moving to next
+2017-11-19 17:46:38 Tweets   : % at /sec for NKCollege1
+2017-11-19 17:46:45 Friends  : 99% at 30/sec for norwichcollege
+2017-11-19 17:46:45 Friends  : Waiting for 6.2 minutes
+2017-11-19 17:48:09 Tweets   : 52.8% at 35/sec for nlakeland
+2017-11-19 17:48:47 Tweets   : 99.5% at 31/sec for NNC_Worksop
+2017-11-19 17:50:20 Tweets   : 31.7% at 34/sec for nominettrust
+2017-11-19 17:50:51 Tweets   : 100% at 32/sec for nortcoll
+2017-11-19 17:52:32 Tweets   : 50.1% at 32/sec for NorthamptonColl
+2017-11-19 17:54:04 Tweets   : 71% at 35/sec for northeastlep
+2017-11-19 17:55:38 Tweets   : 35.6% at 34/sec for NorthernCollege
+2017-11-19 17:56:38 Favorites: 53% at 1/sec for NorthernCollege
+2017-11-19 17:56:55 Favorites: 50.2% at 28/sec for NorthlandColl
+2017-11-19 17:56:57 Favorites: 100% at 47/sec for NorwichChloe
+2017-11-19 17:57:23 Tweets   : 57.9% at 30/sec for NorthlandColl
+2017-11-19 17:58:39 Favorites: 50.6% at 30/sec for norwichcollege
+2017-11-19 17:59:02 Tweets   : 85.8% at 32/sec for NorwichChloe
+2017-11-19 17:59:34 Favorites: 50.6% at 23/sec for notgoingtouni
+2017-11-19 17:59:44 Favorites: 64.2% at 28/sec for notredamecoll
+2017-11-19 18:00:08 Favorites: 52.3% at 33/sec for ns_college
+2017-11-19 18:00:08 Favorites: 100% at 16/sec for NSACreative
+2017-11-19 18:00:38 Favorites: Waiting for 10.8 minutes due to : Used up allowance in a loop
+2017-11-19 18:00:52 Tweets   : 20.5% at 29/sec for norwichcollege
+2017-11-19 18:02:37 Tweets   : 7.6% at 30/sec for notgoingtouni
+2017-11-19 18:03:28 Tweets   : 99.9% at 30/sec for notredamecoll
+2017-11-19 18:05:14 Tweets   : 70.2% at 30/sec for ns_college
+2017-11-19 18:06:57 Tweets   : 83.4% at 31/sec for NSACreative
+2017-11-19 18:08:23 Friends  : 99.2% at 19/sec for notgoingtouni
+2017-11-19 18:08:26 Friends  : 97.8% at 35/sec for notredamecoll
+2017-11-19 18:08:45 Tweets   : 9.2% at 30/sec for NSPCC
+2017-11-19 18:08:54 Tweets   : 100% at 10/sec for NUS_FE
+2017-11-19 18:08:58 Friends  : 99.5% at 31/sec for ns_college
+2017-11-19 18:09:25 Friends  : 100% at 35/sec for NSACreative
+2017-11-19 18:10:46 Tweets   : 37.3% at 28/sec for Nus_Ghani
+2017-11-19 18:11:29 Friends  : 99.9% at 30/sec for NSPCC
+2017-11-19 18:11:33 Friends  : 100% at 34/sec for NUS_FE
+2017-11-19 18:12:26 Friends  : 98.5% at 30/sec for Nus_Ghani
+2017-11-19 18:12:28 Tweets   : 60.9% at 31/sec for NUSStudentMedia
+2017-11-19 18:13:01 Favorites: 30.7% at 4/sec for NSPCC
+2017-11-19 18:13:01 Favorites: 100% at 5/sec for NUS_FE
+2017-11-19 18:13:15 Friends  : 99.9% at 31/sec for NUSStudentMedia
+2017-11-19 18:13:21 Favorites: 57.9% at 30/sec for Nus_Ghani
+2017-11-19 18:13:21 Favorites: 100% at 22/sec for NUSStudentMedia
+2017-11-19 18:13:34 Favorites: 57.5% at 37/sec for nwhcnews
+2017-11-19 18:13:40 Favorites: 100% at 9/sec for oakeshottm
+2017-11-19 18:13:58 Friends  : 99.2% at 28/sec for nwhcnews
+2017-11-19 18:14:01 Friends  : 97.5% at 40/sec for oakeshottm
+2017-11-19 18:14:09 Tweets   : 64.6% at 32/sec for nwhcnews
+2017-11-19 18:14:46 Favorites: 50.9% at 31/sec for oaklandscollege
+2017-11-19 18:14:49 Friends  : 97% at 30/sec for oaklandscollege
+2017-11-19 18:14:54 Favorites: 74.9% at 25/sec for OECDEduSkills
+2017-11-19 18:15:07 Tweets   : 99.9% at 30/sec for oakeshottm
+2017-11-19 18:15:14 Favorites: 52% at 31/sec for OFFA_HE
+2017-11-19 18:15:21 Favorites: 73.7% at 26/sec for Offord4Hendon
+2017-11-19 18:15:22 Favorites: 89.4% at 43/sec for Ofsted_MCoffey
+2017-11-19 18:15:24 Favorites: 61.5% at 54/sec for OldDitch
+2017-11-19 18:15:24 Favorites: 100% at 2/sec for oletwinofficial
+2017-11-19 18:15:32 Favorites: 54.1% at 25/sec for OliverHealdUK
+2017-11-19 18:15:33 Favorites: Waiting for 11.1 minutes due to : Used up allowance in a loop
+2017-11-19 18:15:47 Friends  : 99.6% at 28/sec for OECDEduSkills
+2017-11-19 18:16:21 Friends  : 99.3% at 28/sec for OFFA_HE
+2017-11-19 18:16:23 Friends  : 98% at 24/sec for Offord4Hendon
+2017-11-19 18:16:29 Friends  : 98.1% at 40/sec for Ofsted_MCoffey
+2017-11-19 18:16:46 Friends  : 100% at 23/sec for OldDitch
+2017-11-19 18:16:47 Friends  : Waiting for 6.7 minutes
+2017-11-19 18:16:51 Tweets   : 49.4% at 31/sec for oaklandscollege
+2017-11-19 18:18:34 Tweets   : 25.3% at 31/sec for OECDEduSkills
+2017-11-19 18:19:34 Tweets   : 99.8% at 30/sec for OFFA_HE
+2017-11-19 18:20:10 Tweets   : 99.8% at 28/sec for Offord4Hendon
+2017-11-19 18:20:40 Tweets   : 99.7% at 26/sec for Ofsted_MCoffey
+2017-11-19 18:22:24 Tweets   : 75.7% at 31/sec for OldDitch
+2017-11-19 18:22:42 Tweets   : 100% at 15/sec for oletwinofficial
+2017-11-19 18:23:41 Friends  : 100% at 0/sec for oletwinofficial
+2017-11-19 18:24:03 Friends  : 100% at 26/sec for OliverHealdUK
+2017-11-19 18:24:29 Tweets   : 98.3% at 30/sec for OliverHealdUK
+2017-11-19 18:24:39 Friends  : 99.8% at 31/sec for OllyGrender
+2017-11-19 18:24:49 Friends  : 97.8% at 29/sec for OpenUniversity
+2017-11-19 18:25:08 Friends  : 97.5% at 25/sec for OSFC_Info
+2017-11-19 18:25:20 Friends  : 98.2% at 29/sec for OwenPaterson
+2017-11-19 18:26:14 Friends  : 98.5% at 30/sec for OwenSmith_MP
+2017-11-19 18:26:23 Tweets   : 20.9% at 28/sec for OllyGrender
+2017-11-19 18:26:59 Favorites: 97.7% at 0/sec for OllyGrender
+2017-11-19 18:27:27 Friends  : 99.4% at 28/sec for OwenThompson
+2017-11-19 18:27:37 Friends  : 99.6% at 22/sec for paddyashdown
+2017-11-19 18:28:12 Friends  : 99.7% at 28/sec for PAEducationCorr
+2017-11-19 18:28:23 Friends  : 98.9% at 25/sec for PalmersCollege
+2017-11-19 18:28:23 Tweets   : 16.5% at 27/sec for OpenUniversity
+2017-11-19 18:28:36 Friends  : 99.7% at 29/sec for Paston6FCollege
+2017-11-19 18:28:48 Favorites: 41.9% at 29/sec for OpenUniversity
+2017-11-19 18:29:12 Favorites: 52.2% at 33/sec for OSFC_Info
+2017-11-19 18:29:12 Favorites: % at /sec for OwenPaterson
+2017-11-19 18:29:16 Friends  : 99% at 29/sec for patmcfaddenmp
+2017-11-19 18:29:30 Favorites: 56.9% at 28/sec for OwenSmith_MP
+2017-11-19 18:29:49 Friends  : 98.5% at 24/sec for PatMGlass
+2017-11-19 18:29:51 Friends  : 100% at 21/sec for PatrickJGormley
+2017-11-19 18:29:52 Friends  : Waiting for 8.8 minutes
+2017-11-19 18:30:04 Tweets   : 48.8% at 32/sec for OSFC_Info
+2017-11-19 18:30:56 Favorites: Waiting for 11 minutes due to : Used up allowance in a loop
+2017-11-19 18:31:06 Tweets   : 100% at 31/sec for OwenPaterson
+2017-11-19 18:32:35 Tweets   : 43.3% at 36/sec for OwenSmith_MP
+2017-11-19 18:34:15 Tweets   : 12.6% at 32/sec for OwenThompson
+2017-11-19 18:34:37 Tweets   : 99.8% at 30/sec for paddyashdown
+2017-11-19 18:35:22 Tweets   : 99.8% at 32/sec for PAEducationCorr
+2017-11-19 18:37:00 Tweets   : 51.1% at 33/sec for PalmersCollege
+2017-11-19 18:37:51 Tweets   : 99.8% at 33/sec for Paston6FCollege
+2017-11-19 18:39:27 Friends  : 99.1% at 2/sec for patrickwintour
+2017-11-19 18:39:33 Tweets   : 42.6% at 31/sec for patmcfaddenmp
+2017-11-19 18:40:03 Friends  : 99.3% at 29/sec for paul_heathcote
+2017-11-19 18:40:14 Friends  : 99.3% at 25/sec for Paul_Lindley
+2017-11-19 18:41:16 Tweets   : 37.9% at 31/sec for PatMGlass
+2017-11-19 18:41:24 Friends  : 98.6% at 28/sec for paulasherriff
+2017-11-19 18:41:34 Friends  : 100% at 25/sec for PaulG22
+2017-11-19 18:41:57 Friends  : 99.7% at 27/sec for Pauline_Latham
+2017-11-19 18:42:18 Favorites: 31.3% at 4/sec for OwenThompson
+2017-11-19 18:42:18 Favorites: 100% at 9/sec for paddyashdown
+2017-11-19 18:42:19 Favorites: 100% at 28/sec for PAEducationCorr
+2017-11-19 18:42:25 Favorites: 58.4% at 17/sec for PalmersCollege
+2017-11-19 18:42:36 Favorites: 60.2% at 35/sec for Paston6FCollege
+2017-11-19 18:42:37 Favorites: 100% at 41/sec for patmcfaddenmp
+2017-11-19 18:42:38 Favorites: 95.7% at 54/sec for PatMGlass
+2017-11-19 18:43:04 Tweets   : 40.7% at 29/sec for PatrickJGormley
+2017-11-19 18:44:22 Favorites: 23.1% at 31/sec for PatrickJGormley
+2017-11-19 18:44:31 Favorites: 68.4% at 32/sec for patrickwintour
+2017-11-19 18:44:49 Tweets   : 17.8% at 30/sec for patrickwintour
+2017-11-19 18:45:00 Favorites: 54.5% at 31/sec for paul_heathcote
+2017-11-19 18:45:08 Favorites: 59.1% at 27/sec for Paul_Lindley
+2017-11-19 18:45:58 Favorites: Waiting for 11.2 minutes due to : Used up allowance in a loop
+2017-11-19 18:46:48 Tweets   : 22.8% at 28/sec for paul_heathcote
+2017-11-19 18:48:23 Tweets   : 29.9% at 33/sec for Paul_Lindley
+2017-11-19 18:49:54 Tweets   : 24.1% at 35/sec for paulasherriff
+2017-11-19 18:50:11 Tweets   : 99.7% at 18/sec for PaulG22
+2017-11-19 18:51:22 Tweets   : 99.8% at 38/sec for Pauline_Latham
+2017-11-19 18:58:19 Favorites: 13.1% at 4/sec for paulasherriff
+2017-11-19 18:58:19 Favorites: 100% at 21/sec for PaulG22
+2017-11-19 18:58:22 Favorites: 78.7% at 64/sec for Pauline_Latham
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+Warning message:
+package 'twitteR' was built under R version 3.4.1 

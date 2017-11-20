@@ -1,0 +1,180 @@
+starting worker pid=10248 on localhost:11271 at 14:19:37.893
+starting worker pid=11796 on localhost:11271 at 14:19:38.056
+starting worker pid=7460 on localhost:11271 at 14:19:38.219
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-16 14:21:00 Friends  : 99.8% at 36/sec for Rory_Harmer
+2017-11-16 14:21:08 Friends  : 97.7% at 36/sec for RowlingBuilding
+2017-11-16 14:21:30 Friends  : 98.4% at 35/sec for russelljudd25
+2017-11-16 14:21:35 Friends  : 98.8% at 32/sec for Schoeck_Ltd
+2017-11-16 14:22:03 Favorites: 66.7% at 37/sec for Rory_Harmer
+2017-11-16 14:22:04 Favorites: 100% at 52/sec for RowlingBuilding
+2017-11-16 14:22:13 Friends  : 99.4% at 37/sec for ScotGrad
+Error in twInterfaceObj$doAPICall(paste("users", "show", sep = "/"), params = params,  : 
+  Not Found (HTTP 404).
+In addition: Warning message:
+package 'twitteR' was built under R version 3.4.1 
+2017-11-16 14:22:13 Friends: Unable to find account SelfbuildConf moving to next
+2017-11-16 14:22:13 Friends  : % at /sec for SelfbuildConf
+2017-11-16 14:22:23 Favorites: 46.3% at 30/sec for russelljudd25
+2017-11-16 14:22:27 Favorites: 75.2% at 31/sec for Schoeck_Ltd
+2017-11-16 14:22:28 Friends  : 99.3% at 37/sec for seven_arch
+2017-11-16 14:22:48 Friends  : 96.1% at 35/sec for Shaun_Footprint
+2017-11-16 14:22:57 Friends  : 98.9% at 29/sec for slopingsite
+2017-11-16 14:23:05 Favorites: 52.3% at 36/sec for ScotGrad
+2017-11-16 14:23:14 Favorites: 57.7% at 34/sec for SelfbuildConf
+2017-11-16 14:23:17 Friends  : 99.2% at 33/sec for slowottawa
+2017-11-16 14:23:19 Favorites: 96.6% at 42/sec for seven_arch
+2017-11-16 14:23:19 Friends  : 100% at 6/sec for soxvelo
+2017-11-16 14:23:24 Favorites: Waiting for 2.7 minutes due to : Used up allowance in a loop
+2017-11-16 14:23:32 Tweets   : 99.2% at 22/sec for Rory_Harmer
+2017-11-16 14:23:41 Tweets   : 100% at 11/sec for RowlingBuilding
+2017-11-16 14:24:36 Friends  : 97.1% at 37/sec for studiovenues
+2017-11-16 14:24:36 Friends  : Waiting for 5.2 minutes
+2017-11-16 14:24:37 Tweets   : 98.5% at 40/sec for russelljudd25
+2017-11-16 14:24:48 Tweets   : 100% at 18/sec for Schoeck_Ltd
+2017-11-16 14:25:57 Tweets   : 23% at 46/sec for ScotGrad
+2017-11-16 14:26:07 Favorites: 19.1% at 1/sec for Shaun_Footprint
+2017-11-16 14:26:07 Favorites: Waiting for 0 minutes due to : Used up allowance in a loop
+2017-11-16 14:26:10 Favorites: 100% at 7/sec for slopingsite
+2017-11-16 14:26:23 Tweets   : 99.9% at 33/sec for SelfbuildConf
+2017-11-16 14:26:38 Tweets   : 100% at 27/sec for seven_arch
+2017-11-16 14:26:55 Tweets   : 100% at 27/sec for Shaun_Footprint
+2017-11-16 14:27:23 Tweets   : 99.9% at 33/sec for slopingsite
+2017-11-16 14:27:24 Favorites: 49.7% at 38/sec for slowottawa
+2017-11-16 14:27:24 Favorites: User soxvelo has a protected account or no Favoritess to collect so skipping
+2017-11-16 14:28:47 Favorites: 39.2% at 38/sec for studiovenues
+2017-11-16 14:28:49 Tweets   : 23.7% at 37/sec for slowottawa
+2017-11-16 14:28:51 Favorites: 95.2% at 50/sec for SuperHomes_SEA
+2017-11-16 14:28:54 Favorites: 80.8% at 34/sec for sustainmagazine
+2017-11-16 14:28:56 Tweets   : 100% at 4/sec for soxvelo
+2017-11-16 14:29:19 Favorites: 53.1% at 36/sec for tagarchi
+2017-11-16 14:29:19 Favorites: Waiting for 11.8 minutes due to : Used up allowance in a loop
+2017-11-16 14:30:12 Tweets   : 28.7% at 42/sec for studiovenues
+2017-11-16 14:30:21 Friends  : 99.6% at 3/sec for SuperHomes_SEA
+2017-11-16 14:30:49 Tweets   : 100% at 38/sec for SuperHomes_SEA
+2017-11-16 14:30:58 Friends  : 100% at 43/sec for sustainmagazine
+2017-11-16 14:31:11 Friends  : 98.2% at 40/sec for tagarchi
+2017-11-16 14:31:18 Friends  : 99% at 43/sec for TarmacLtd
+2017-11-16 14:31:21 Friends  : 97.4% at 32/sec for TASarchitects
+2017-11-16 14:31:28 Friends  : 3933.3% at 35/sec for TaylorKayArch
+2017-11-16 14:31:41 Friends  : 98.1% at 39/sec for TERMOGRAFIA_
+2017-11-16 14:31:43 Tweets   : 97.5% at 40/sec for sustainmagazine
+2017-11-16 14:31:45 Friends  : 99.3% at 39/sec for TheAprilKnapp
+2017-11-16 14:31:49 Friends  : 98.8% at 43/sec for thebarrelofapun
+2017-11-16 14:32:03 Tweets   : 99.8% at 30/sec for tagarchi
+2017-11-16 14:32:14 Friends  : 99.5% at 43/sec for TheBDC
+2017-11-16 14:32:43 Friends  : 98.1% at 38/sec for TheBusinessDesk
+2017-11-16 14:32:43 Friends  : 100% at 1/sec for TheNiceBot
+2017-11-16 14:32:44 Tweets   : 99.9% at 35/sec for TarmacLtd
+2017-11-16 14:33:00 Tweets   : 100% at 26/sec for TASarchitects
+2017-11-16 14:33:08 Tweets   : 100% at 11/sec for TaylorKayArch
+2017-11-16 14:33:11 Friends  : 99.7% at 40/sec for UCL_EDE
+2017-11-16 14:33:14 Friends  : 100% at 23/sec for UKPHConference
+2017-11-16 14:33:42 Friends  : 99.8% at 40/sec for UnitedWelsh
+2017-11-16 14:33:43 Friends  : Waiting for 11.2 minutes
+2017-11-16 14:33:57 Tweets   : 100% at 37/sec for TERMOGRAFIA_
+2017-11-16 14:34:23 Tweets   : 99.6% at 28/sec for TheAprilKnapp
+Error in twInterfaceObj$doAPICall(cmd, params, method, ...) : 
+  Service Unavailable (HTTP 503).
+In addition: Warning message:
+package 'twitteR' was built under R version 3.4.1 
+2017-11-16 14:34:38 Tweets: Unable to find account thebarrelofapun moving to next
+2017-11-16 14:34:38 Tweets   : % at /sec for thebarrelofapun
+2017-11-16 14:35:54 Tweets   : 83.7% at 42/sec for TheBDC
+2017-11-16 14:37:06 Tweets   : 6.4% at 45/sec for TheBusinessDesk
+2017-11-16 14:38:15 Tweets   : 0.6% at 47/sec for TheNiceBot
+2017-11-16 14:38:52 Tweets   : 99.9% at 32/sec for UCL_EDE
+2017-11-16 14:39:16 Tweets   : 95.8% at 29/sec for UKPHConference
+2017-11-16 14:40:45 Tweets   : 82.8% at 36/sec for UnitedWelsh
+2017-11-16 14:41:14 Tweets   : 100% at 30/sec for UoNCapProj
+2017-11-16 14:41:22 Favorites: 53.4% at 1/sec for TarmacLtd
+2017-11-16 14:41:23 Favorites: 100% at 54/sec for TASarchitects
+2017-11-16 14:41:24 Favorites: 100% at 2/sec for TaylorKayArch
+2017-11-16 14:41:27 Favorites: 92.6% at 35/sec for TERMOGRAFIA_
+2017-11-16 14:41:34 Favorites: 68.8% at 42/sec for TheAprilKnapp
+2017-11-16 14:41:36 Favorites: 2.1% at 43/sec for thebarrelofapun
+2017-11-16 14:41:42 Tweets   : 99.9% at 27/sec for UoNEnergy
+2017-11-16 14:41:43 Favorites: 62.3% at 41/sec for TheBDC
+2017-11-16 14:41:44 Favorites: 100% at 5/sec for TheBusinessDesk
+2017-11-16 14:41:44 Favorites: 100% at 3/sec for TheNiceBot
+2017-11-16 14:41:47 Favorites: 74.1% at 36/sec for UCL_EDE
+2017-11-16 14:41:48 Favorites: 97.1% at 49/sec for UKPHConference
+2017-11-16 14:42:06 Favorites: 49.4% at 42/sec for UnitedWelsh
+2017-11-16 14:42:08 Favorites: 97.1% at 15/sec for UoNCapProj
+2017-11-16 14:42:13 Favorites: 88.9% at 44/sec for UoNEnergy
+2017-11-16 14:42:43 Favorites: 51% at 39/sec for UoNSustain
+2017-11-16 14:42:45 Favorites: 47.2% at 60/sec for VincentStops
+2017-11-16 14:42:48 Favorites: 67.1% at 36/sec for WDsustyLauren
+2017-11-16 14:42:50 Favorites: 67.6% at 37/sec for WestleighHomes
+2017-11-16 14:42:55 Favorites: 57% at 43/sec for WRWConstruction
+2017-11-16 14:42:58 Favorites: 91.7% at 35/sec for xgaucher
+2017-11-16 14:42:58 Tweets   : 88.4% at 42/sec for UoNSustain
+2017-11-16 14:42:59 Favorites: 50.3% at 73/sec for XpelairUK
+2017-11-16 14:43:02 Favorites: 100% at 34/sec for Zenit_Windows
+2017-11-16 14:43:06 Favorites: 58% at 44/sec for 09Clive
+2017-11-16 14:43:31 Favorites: 51.2% at 41/sec for BCD_UK
+2017-11-16 14:43:35 Favorites: 69.6% at 46/sec for colin_king_bre
+2017-11-16 14:43:38 Favorites: 52.9% at 30/sec for Dr_KateSimpson
+2017-11-16 14:43:39 Favorites: 100% at 41/sec for enerfund
+2017-11-16 14:43:40 Favorites: 100% at 19/sec for EPCforProperty
+2017-11-16 14:43:41 Favorites: 98% at 50/sec for EWiPRO
+2017-11-16 14:43:47 Favorites: 88.5% at 33/sec for HomEnergyAdvice
+2017-11-16 14:43:47 Favorites: 100% at 8/sec for KerryMashford
+2017-11-16 14:43:52 Favorites: Waiting for 12.3 minutes due to : Used up allowance in a loop
+2017-11-16 14:44:12 Tweets   : 30.7% at 43/sec for VincentStops
+2017-11-16 14:44:19 Tweets   : 100% at 13/sec for WDsustyLauren
+2017-11-16 14:44:36 Tweets   : 100% at 25/sec for WestleighHomes
+2017-11-16 14:45:00 Friends  : 97.3% at 0/sec for UoNCapProj
+2017-11-16 14:45:01 Tweets   : 99.9% at 32/sec for WRWConstruction
+2017-11-16 14:45:10 Tweets   : 100% at 11/sec for xgaucher
+2017-11-16 14:45:59 Tweets   : 99.9% at 35/sec for XpelairUK
+2017-11-16 14:46:43 Friends  : 96.5% at 31/sec for UoNEnergy
+2017-11-16 14:46:46 Tweets   : 100% at 25/sec for Zenit_Windows
+2017-11-16 14:47:13 Friends  : 98.1% at 25/sec for UoNSustain
+2017-11-16 14:47:23 Friends  : 96.9% at 22/sec for VincentStops
+2017-11-16 14:47:30 Friends  : 97.2% at 26/sec for WDsustyLauren
+2017-11-16 14:47:39 Friends  : 100% at 21/sec for WestleighHomes
+2017-11-16 14:48:05 Friends  : 99.1% at 27/sec for WRWConstruction
+2017-11-16 14:48:08 Friends  : 100% at 12/sec for xgaucher
+2017-11-16 14:48:44 Tweets   : 38.8% at 27/sec for 09Clive
+2017-11-16 14:49:34 Friends  : 99.7% at 25/sec for XpelairUK
+2017-11-16 14:49:39 Friends  : 99% at 21/sec for Zenit_Windows
+2017-11-16 14:50:41 Tweets   : 54.4% at 27/sec for BCD_UK
+2017-11-16 14:50:58 Friends  : 97.8% at 28/sec for 09Clive
+2017-11-16 14:51:03 Tweets   : 100% at 22/sec for colin_king_bre
+2017-11-16 14:51:25 Tweets   : 100% at 26/sec for Dr_KateSimpson
+2017-11-16 14:51:44 Tweets   : 100% at 24/sec for enerfund
+2017-11-16 14:53:22 Tweets   : 45.4% at 33/sec for EPCforProperty
+2017-11-16 14:53:35 Friends  : 98% at 28/sec for BCD_UK
+2017-11-16 14:53:45 Tweets   : 92.5% at 20/sec for EWiPRO
+2017-11-16 14:53:51 Friends  : 97.1% at 27/sec for colin_king_bre
+2017-11-16 14:54:19 Friends  : 98.2% at 27/sec for Dr_KateSimpson
+2017-11-16 14:54:23 Friends  : 96.2% at 19/sec for enerfund
+2017-11-16 14:54:23 Friends  : Waiting for 5.6 minutes
+2017-11-16 14:55:25 Tweets   : 44.9% at 32/sec for HomEnergyAdvice
+2017-11-16 14:55:38 Tweets   : 100% at 16/sec for KerryMashford
+2017-11-16 14:56:31 Favorites: 56.8% at 1/sec for matildasplanet
+2017-11-16 14:56:32 Favorites: 100% at 47/sec for mcrplace
+2017-11-16 14:57:16 Favorites: 49.7% at 30/sec for paul_ducker
+2017-11-16 14:57:17 Favorites: 100% at 35/sec for RetrofitRuss
+2017-11-16 14:57:23 Tweets   : 75.4% at 31/sec for matildasplanet
+2017-11-16 14:57:43 Tweets   : 100% at 21/sec for mcrplace
+2017-11-16 14:59:36 Tweets   : 85.7% at 28/sec for paul_ducker
+2017-11-16 14:59:47 Tweets   : 100% at 16/sec for RetrofitRuss
+2017-11-16 15:01:11 Friends  : 99.8% at 5/sec for EPCforProperty
+2017-11-16 15:01:53 Friends  : 99.9% at 26/sec for EWiPRO
+2017-11-16 15:03:58 Friends  : 99.7% at 29/sec for HomEnergyAdvice
+2017-11-16 15:04:14 Friends  : 100% at 30/sec for KerryMashford
+2017-11-16 15:05:59 Friends  : 100% at 30/sec for matildasplanet
+2017-11-16 15:06:09 Friends  : 98.1% at 27/sec for mcrplace
+Error in twInterfaceObj$doAPICall(paste("users", "lookup", sep = "/"),  : 
+  Service Unavailable (HTTP 503).
+2017-11-16 15:06:19 Friends: Unable to find account paul_ducker moving to next
+2017-11-16 15:06:19 Friends  : % at /sec for paul_ducker
+2017-11-16 15:06:27 Friends  : 99.4% at 23/sec for RetrofitRuss
+Warning messages:
+1: package 'twitteR' was built under R version 3.4.1 
+2: In twInterfaceObj$doAPICall(cmd, params, method, ...) :
+  Rate limit encountered & retry limit reached - returning partial results

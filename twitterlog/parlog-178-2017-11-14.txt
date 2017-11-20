@@ -1,0 +1,176 @@
+starting worker pid=10688 on localhost:11271 at 14:45:31.119
+starting worker pid=8700 on localhost:11271 at 14:45:31.287
+starting worker pid=5260 on localhost:11271 at 14:45:31.461
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-14 14:45:59 Friends  : 99% at 52/sec for NorthumbrianH2O
+2017-11-14 14:46:10 Friends  : 99.6% at 44/sec for ONRpressoffice
+2017-11-14 14:46:21 Friends  : 99.5% at 40/sec for OutboxIncubator
+2017-11-14 14:46:29 Friends  : 98.7% at 45/sec for Pavegen
+2017-11-14 14:46:39 Tweets   : 25.4% at 55/sec for NorthumbrianH2O
+2017-11-14 14:46:41 Friends  : 99.6% at 49/sec for RCBTweets
+2017-11-14 14:46:42 Friends  : 2.8% at 22/sec for richardabetts
+2017-11-14 14:46:47 Favorites: 50.7% at 46/sec for NorthumbrianH2O
+2017-11-14 14:46:48 Favorites: 100% at 10/sec for ONRpressoffice
+2017-11-14 14:46:48 Friends  : 98.2% at 49/sec for Sir_David_King
+2017-11-14 14:46:55 Favorites: Waiting for 12.1 minutes due to : Used up allowance in a loop
+2017-11-14 14:46:59 Tweets   : 99.9% at 44/sec for ONRpressoffice
+2017-11-14 14:47:38 Friends  : 100% at 49/sec for SkyRainforest
+2017-11-14 14:47:38 Tweets   : 99% at 52/sec for OutboxIncubator
+2017-11-14 14:47:59 Friends  : 99.9% at 51/sec for TescoandSociety
+2017-11-14 14:48:22 Friends  : 99.4% at 50/sec for the_ETI
+2017-11-14 14:48:34 Friends  : 99.8% at 44/sec for the_misses
+2017-11-14 14:48:40 Tweets   : 38% at 51/sec for Pavegen
+2017-11-14 14:49:32 Tweets   : 8.8% at 61/sec for RCBTweets
+2017-11-14 14:50:31 Tweets   : 16.6% at 54/sec for richardabetts
+2017-11-14 14:50:56 Tweets   : 99.8% at 43/sec for Sir_David_King
+2017-11-14 14:51:04 Friends  : 99.7% at 53/sec for TrewinR
+2017-11-14 14:51:52 Tweets   : 83.9% at 57/sec for SkyRainforest
+2017-11-14 14:51:53 Friends  : 99.5% at 55/sec for UKinCanada
+2017-11-14 14:52:03 Friends  : 98.8% at 63/sec for UKinMalta
+2017-11-14 14:52:03 Friends  : Waiting for 8.6 minutes
+2017-11-14 14:52:29 Tweets   : 99.7% at 48/sec for TescoandSociety
+2017-11-14 14:53:16 Tweets   : 100% at 60/sec for the_ETI
+2017-11-14 14:53:48 Tweets   : 99.6% at 54/sec for the_misses
+2017-11-14 14:54:45 Tweets   : 35.2% at 56/sec for TrewinR
+2017-11-14 14:55:45 Tweets   : 27.8% at 53/sec for UKinCanada
+2017-11-14 14:56:37 Tweets   : 99.6% at 55/sec for UKinMalta
+2017-11-14 14:57:32 Tweets   : 66.1% at 57/sec for UKinNorway
+2017-11-14 14:58:30 Tweets   : 40.4% at 55/sec for ukinpoland
+2017-11-14 14:59:01 Favorites: 8.2% at 0/sec for OutboxIncubator
+2017-11-14 14:59:01 Favorites: Waiting for 0 minutes due to : Used up allowance in a loop
+2017-11-14 14:59:03 Tweets   : 99.8% at 55/sec for UKNNL
+2017-11-14 15:00:01 Tweets   : 14.8% at 56/sec for UKUN_NewYork
+2017-11-14 15:00:09 Favorites: 49.6% at 43/sec for Pavegen
+2017-11-14 15:00:45 Tweets   : 98.5% at 52/sec for UnitedBiscuits
+2017-11-14 15:00:47 Favorites: 50.2% at 44/sec for RCBTweets
+2017-11-14 15:00:51 Friends  : 98.7% at 1/sec for UKinNorway
+2017-11-14 15:01:18 Friends  : 98.2% at 55/sec for ukinpoland
+2017-11-14 15:01:26 Favorites: 52.2% at 43/sec for richardabetts
+2017-11-14 15:01:29 Favorites: 91.7% at 40/sec for Sir_David_King
+2017-11-14 15:01:29 Friends  : 99.2% at 47/sec for UKNNL
+2017-11-14 15:01:44 Tweets   : 11.9% at 54/sec for WFP
+2017-11-14 15:01:51 Favorites: Waiting for 12.2 minutes due to : Used up allowance in a loop
+2017-11-14 15:01:52 Friends  : 99% at 49/sec for UKUN_NewYork
+2017-11-14 15:02:02 Friends  : 100% at 51/sec for UnitedBiscuits
+2017-11-14 15:02:31 Friends  : 99.1% at 47/sec for WFP
+2017-11-14 15:02:42 Tweets   : 12.4% at 55/sec for WildlifeTrusts
+2017-11-14 15:02:47 Friends  : 98.3% at 61/sec for WildlifeTrusts
+2017-11-14 15:02:55 Friends  : 97.9% at 52/sec for ZurichInsUK
+2017-11-14 15:02:56 Friends  : 100% at 23/sec for AA_Cons
+2017-11-14 15:03:01 Friends  : 100% at 45/sec for AbodeBiFold
+2017-11-14 15:03:06 Friends  : 100% at 52/sec for AccessGDoors
+2017-11-14 15:03:26 Friends  : 99.6% at 52/sec for adeptmidlands
+2017-11-14 15:03:43 Tweets   : 66.4% at 52/sec for ZurichInsUK
+2017-11-14 15:03:44 Friends  : 98.4% at 58/sec for adm_windows
+2017-11-14 15:03:50 Tweets   : 100% at 11/sec for AA_Cons
+2017-11-14 15:03:58 Tweets   : 100% at 14/sec for AbodeBiFold
+2017-11-14 15:04:14 Tweets   : 99.8% at 39/sec for AccessGDoors
+2017-11-14 15:04:16 Friends  : 100% at 54/sec for advancedglass1
+2017-11-14 15:04:25 Friends  : 98.9% at 48/sec for Ainsworthwindow
+2017-11-14 15:04:26 Friends  : Waiting for 11.3 minutes
+2017-11-14 15:04:56 Tweets   : 99.4% at 54/sec for adeptmidlands
+2017-11-14 15:05:23 Tweets   : 100% at 50/sec for adm_windows
+2017-11-14 15:05:45 Tweets   : 100% at 47/sec for advancedglass1
+2017-11-14 15:05:51 Tweets   : 100% at 12/sec for Ainsworthwindow
+2017-11-14 15:06:05 Tweets   : 100% at 42/sec for AlbanyWindows
+2017-11-14 15:07:03 Tweets   : 42.3% at 55/sec for Alpine_Glass
+2017-11-14 15:07:12 Tweets   : 100% at 23/sec for Ambassador_win
+2017-11-14 15:07:27 Tweets   : 99.9% at 44/sec for aogwindows
+2017-11-14 15:08:19 Tweets   : 14.8% at 62/sec for ARCWindowFilms
+2017-11-14 15:08:37 Tweets   : 99.7% at 50/sec for ArtisanWindows
+2017-11-14 15:08:47 Tweets   : 99.3% at 27/sec for astralwindows
+2017-11-14 15:09:43 Tweets   : 49% at 57/sec for Atlasroofjohn
+2017-11-14 15:10:30 Tweets   : 99.6% at 55/sec for bbswindowblinds
+2017-11-14 15:10:37 Tweets   : 100% at 3/sec for Beachviewglass
+2017-11-14 15:10:53 Tweets   : 100% at 42/sec for Beb_Glazing
+2017-11-14 15:11:10 Tweets   : 100% at 36/sec for Bennbrook
+2017-11-14 15:11:16 Tweets   : 100% at 2/sec for Bluemanor1
+2017-11-14 15:11:44 Tweets   : 99.9% at 53/sec for CabotDecorating
+2017-11-14 15:12:21 Tweets   : 99.8% at 55/sec for calderpeel
+2017-11-14 15:13:00 Tweets   : 99.7% at 54/sec for CDM_Rossendale
+2017-11-14 15:13:13 Tweets   : 100% at 39/sec for classicofminety
+2017-11-14 15:13:31 Tweets   : 99.5% at 44/sec for ClearviewHome
+2017-11-14 15:13:34 Tweets   : 100% at 56/sec for ComparisonDoors
+2017-11-14 15:13:35 Tweets   : Waiting for 2.2 minutes
+2017-11-14 15:14:08 Favorites: 50.9% at 2/sec for SkyRainforest
+2017-11-14 15:14:15 Favorites: 69.2% at 44/sec for TescoandSociety
+2017-11-14 15:14:19 Favorites: 90.5% at 47/sec for the_ETI
+2017-11-14 15:14:21 Favorites: 97.5% at 49/sec for the_misses
+2017-11-14 15:14:23 Favorites: 89.3% at 44/sec for TrewinR
+2017-11-14 15:14:27 Favorites: 6.4% at 53/sec for UKinCanada
+2017-11-14 15:14:30 Favorites: 72.2% at 57/sec for UKinMalta
+2017-11-14 15:14:37 Favorites: 55.9% at 55/sec for UKinNorway
+2017-11-14 15:14:45 Favorites: 60.4% at 54/sec for ukinpoland
+2017-11-14 15:14:47 Favorites: 79.4% at 48/sec for UKNNL
+2017-11-14 15:15:27 Favorites: 49.3% at 52/sec for UKUN_NewYork
+2017-11-14 15:15:38 Favorites: 54.8% at 51/sec for UnitedBiscuits
+2017-11-14 15:15:53 Friends  : 98.7% at 1/sec for AlbanyWindows
+2017-11-14 15:15:57 Tweets   : 100% at 1/sec for CrystalClearIns
+2017-11-14 15:16:29 Favorites: Waiting for 12.6 minutes due to : Used up allowance in a loop
+2017-11-14 15:16:38 Friends  : 98.7% at 48/sec for Alpine_Glass
+2017-11-14 15:16:41 Friends  : 100% at 41/sec for Ambassador_win
+2017-11-14 15:16:55 Friends  : 100% at 52/sec for aogwindows
+2017-11-14 15:16:56 Tweets   : 74.9% at 55/sec for crystalglazings
+2017-11-14 15:18:15 Friends  : 96.9% at 54/sec for ARCWindowFilms
+2017-11-14 15:18:27 Friends  : 100% at 55/sec for ArtisanWindows
+2017-11-14 15:18:35 Friends  : 100% at 50/sec for astralwindows
+2017-11-14 15:19:12 Friends  : 97.9% at 53/sec for Atlasroofjohn
+2017-11-14 15:19:47 Friends  : 99.3% at 51/sec for bbswindowblinds
+2017-11-14 15:19:50 Friends  : 100% at 43/sec for Beachviewglass
+2017-11-14 15:20:09 Friends  : 98.6% at 50/sec for Beb_Glazing
+2017-11-14 15:20:40 Friends  : 100% at 56/sec for Bennbrook
+2017-11-14 15:20:43 Friends  : 100% at 39/sec for Bluemanor1
+2017-11-14 15:21:03 Friends  : 97.3% at 51/sec for CabotDecorating
+2017-11-14 15:21:22 Friends  : 99.2% at 53/sec for calderpeel
+2017-11-14 15:21:22 Friends  : Waiting for 9.4 minutes
+2017-11-14 15:29:21 Favorites: 49.5% at 4/sec for WFP
+2017-11-14 15:30:21 Favorites: 13% at 53/sec for WildlifeTrusts
+2017-11-14 15:30:25 Favorites: 78.2% at 50/sec for ZurichInsUK
+2017-11-14 15:30:25 Favorites: 100% at 24/sec for AA_Cons
+2017-11-14 15:30:26 Favorites: 100% at 36/sec for AbodeBiFold
+2017-11-14 15:30:30 Favorites: 74.3% at 56/sec for AccessGDoors
+2017-11-14 15:30:53 Favorites: 51% at 56/sec for adeptmidlands
+2017-11-14 15:30:57 Favorites: 67.6% at 57/sec for adm_windows
+2017-11-14 15:31:02 Favorites: 71.1% at 56/sec for advancedglass1
+2017-11-14 15:31:02 Favorites: User Ainsworthwindow has a protected account or no Favoritess to collect so skipping
+2017-11-14 15:31:08 Favorites: 71.5% at 48/sec for AlbanyWindows
+2017-11-14 15:31:19 Favorites: Waiting for 12.8 minutes due to : Used up allowance in a loop
+2017-11-14 15:31:48 Friends  : 98.6% at 5/sec for CDM_Rossendale
+2017-11-14 15:32:07 Friends  : 96.7% at 55/sec for classicofminety
+2017-11-14 15:32:18 Friends  : 100% at 47/sec for ClearviewHome
+2017-11-14 15:32:37 Friends  : 99.7% at 58/sec for ComparisonDoors
+2017-11-14 15:32:44 Friends  : 98.2% at 50/sec for CrystalClearIns
+2017-11-14 15:32:58 Friends  : 99.7% at 49/sec for crystalglazings
+2017-11-14 15:44:27 Favorites: 48.5% at 2/sec for Alpine_Glass
+2017-11-14 15:44:27 Favorites: 100% at 23/sec for Ambassador_win
+2017-11-14 15:44:29 Favorites: 100% at 41/sec for aogwindows
+2017-11-14 15:44:54 Favorites: 46.2% at 47/sec for ARCWindowFilms
+2017-11-14 15:44:55 Favorites: 100% at 57/sec for ArtisanWindows
+2017-11-14 15:44:56 Favorites: 85.7% at 15/sec for astralwindows
+2017-11-14 15:45:48 Favorites: 50.5% at 51/sec for Atlasroofjohn
+2017-11-14 15:46:00 Favorites: 48.7% at 53/sec for bbswindowblinds
+2017-11-14 15:46:01 Favorites: 100% at 3/sec for Beachviewglass
+2017-11-14 15:46:02 Favorites: 100% at 46/sec for Beb_Glazing
+2017-11-14 15:46:04 Favorites: 95.7% at 28/sec for Bennbrook
+2017-11-14 15:46:04 Favorites: 100% at 2/sec for Bluemanor1
+2017-11-14 15:46:08 Favorites: 93.8% at 52/sec for CabotDecorating
+2017-11-14 15:46:13 Favorites: 59.5% at 55/sec for calderpeel
+2017-11-14 15:46:17 Favorites: 60.1% at 52/sec for CDM_Rossendale
+2017-11-14 15:46:19 Favorites: 100% at 43/sec for classicofminety
+2017-11-14 15:46:19 Favorites: Waiting for 12.8 minutes due to : Used up allowance in a loop
+2017-11-14 15:59:13 Favorites: 59.8% at 1/sec for ClearviewHome
+2017-11-14 15:59:15 Favorites: 100% at 47/sec for ComparisonDoors
+2017-11-14 15:59:16 Favorites: 100% at 29/sec for CrystalClearIns
+2017-11-14 15:59:22 Favorites: 69.8% at 50/sec for crystalglazings
+Warning messages:
+1: package 'twitteR' was built under R version 3.4.1 
+2: In twInterfaceObj$doAPICall(cmd, params, method, ...) :
+  Rate limit encountered & retry limit reached - returning partial results
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+Warning messages:
+1: package 'twitteR' was built under R version 3.4.1 
+2: In twInterfaceObj$doAPICall(cmd, params, method, ...) :
+  Rate limit encountered & retry limit reached - returning partial results

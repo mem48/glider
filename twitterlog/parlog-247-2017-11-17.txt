@@ -1,0 +1,174 @@
+starting worker pid=13968 on localhost:11271 at 20:00:05.080
+starting worker pid=10448 on localhost:11271 at 20:00:05.248
+starting worker pid=13088 on localhost:11271 at 20:00:05.411
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-17 20:02:13 Friends  : 98.8% at 38/sec for AngusMacNeilSNP
+2017-11-17 20:02:27 Friends  : 98.3% at 38/sec for ArcusConsultant
+2017-11-17 20:03:08 Friends  : 100% at 41/sec for ArmstrongEnergy
+2017-11-17 20:03:08 Friends  : Waiting for 3.4 minutes
+2017-11-17 20:04:38 Favorites: 48.4% at 39/sec for AngusMacNeilSNP
+2017-11-17 20:04:50 Favorites: 57.1% at 47/sec for ArcusConsultant
+2017-11-17 20:04:51 Favorites: 100% at 25/sec for ArmstrongEnergy
+2017-11-17 20:04:54 Favorites: 98.7% at 23/sec for Ashleysoucy25
+2017-11-17 20:04:59 Favorites: 49.9% at 44/sec for AtkinsNextGen
+2017-11-17 20:05:03 Favorites: 92% at 46/sec for Bankfieldbecky
+2017-11-17 20:06:10 Tweets   : 4.2% at 43/sec for AngusMacNeilSNP
+2017-11-17 20:06:11 Favorites: Waiting for 12.1 minutes due to : Used up allowance in a loop
+2017-11-17 20:06:27 Tweets   : 100% at 31/sec for ArcusConsultant
+2017-11-17 20:06:37 Friends  : 100% at 0/sec for Ashleysoucy25
+2017-11-17 20:06:39 Tweets   : 100% at 30/sec for ArmstrongEnergy
+2017-11-17 20:06:48 Tweets   : 99.2% at 13/sec for Ashleysoucy25
+2017-11-17 20:07:54 Friends  : 98.8% at 39/sec for AtkinsNextGen
+2017-11-17 20:07:57 Tweets   : 99.1% at 43/sec for AtkinsNextGen
+2017-11-17 20:08:12 Friends  : 99.3% at 44/sec for Bankfieldbecky
+2017-11-17 20:09:04 Friends  : 99.8% at 36/sec for BBCEarth
+2017-11-17 20:09:12 Tweets   : 72.3% at 43/sec for Bankfieldbecky
+2017-11-17 20:09:29 Friends  : 98.5% at 48/sec for BeABrightMind
+Error in twInterfaceObj$doAPICall(paste("users", "lookup", sep = "/"),  : 
+  Service Unavailable (HTTP 503).
+In addition: Warning message:
+package 'twitteR' was built under R version 3.4.1 
+2017-11-17 20:09:52 Friends: Unable to find account benandjerrysUK moving to next
+2017-11-17 20:09:52 Friends  : % at /sec for benandjerrysUK
+2017-11-17 20:10:16 Tweets   : 14.2% at 49/sec for BBCEarth
+2017-11-17 20:10:42 Friends  : 99.5% at 39/sec for bigissuenorth
+2017-11-17 20:10:51 Friends  : 99% at 34/sec for BNRGrenewables
+2017-11-17 20:10:52 Tweets   : 100% at 37/sec for BeABrightMind
+2017-11-17 20:12:00 Tweets   : 31.3% at 47/sec for benandjerrysUK
+2017-11-17 20:12:06 Friends  : 97.4% at 41/sec for briznrg
+2017-11-17 20:12:29 Friends  : 98.4% at 41/sec for CarrawayTiia
+2017-11-17 20:12:37 Friends  : 96.4% at 32/sec for catchenergy
+2017-11-17 20:12:56 Friends  : 99.2% at 40/sec for CatMcKinnell
+Error in twInterfaceObj$doAPICall(paste("users", "show", sep = "/"), params = params,  : 
+  Not Found (HTTP 404).
+2017-11-17 20:12:56 Friends: Unable to find account CEFortnight moving to next
+2017-11-17 20:12:56 Friends  : % at /sec for CEFortnight
+2017-11-17 20:13:12 Friends  : 98.5% at 40/sec for churchstate
+2017-11-17 20:13:16 Tweets   : 22.4% at 42/sec for bigissuenorth
+2017-11-17 20:13:21 Friends  : 100% at 40/sec for cleanenergyco
+2017-11-17 20:13:21 Friends  : Waiting for 8.3 minutes
+2017-11-17 20:13:28 Tweets   : 99.6% at 19/sec for BNRGrenewables
+2017-11-17 20:14:39 Tweets   : 63.2% at 45/sec for briznrg
+2017-11-17 20:15:23 Tweets   : 99.8% at 40/sec for CarrawayTiia
+2017-11-17 20:15:39 Tweets   : 100% at 28/sec for catchenergy
+2017-11-17 20:16:52 Tweets   : 41.1% at 43/sec for CatMcKinnell
+2017-11-17 20:17:07 Tweets   : 100% at 27/sec for CEFortnight
+2017-11-17 20:18:27 Tweets   : 23.9% at 40/sec for churchstate
+2017-11-17 20:18:39 Favorites: 22.7% at 4/sec for BBCEarth
+2017-11-17 20:18:50 Tweets   : 99.9% at 39/sec for cleanenergyco
+2017-11-17 20:18:55 Favorites: 51.1% at 42/sec for BeABrightMind
+2017-11-17 20:20:00 Tweets   : 31% at 46/sec for CleantechMag
+2017-11-17 20:20:03 Favorites: 48% at 38/sec for benandjerrysUK
+2017-11-17 20:20:49 Favorites: 50.7% at 45/sec for bigissuenorth
+2017-11-17 20:20:52 Favorites: 95.2% at 30/sec for BNRGrenewables
+2017-11-17 20:21:15 Tweets   : 25.6% at 43/sec for climatemegan
+2017-11-17 20:21:26 Favorites: 51.1% at 44/sec for briznrg
+2017-11-17 20:21:29 Favorites: Waiting for 12.1 minutes due to : Used up allowance in a loop
+2017-11-17 20:22:24 Tweets   : 53% at 46/sec for CllrPetesTweets
+2017-11-17 20:22:39 Tweets   : 100% at 23/sec for commsolarsol
+2017-11-17 20:22:50 Tweets   : 100% at 23/sec for CoolSkySolar
+2017-11-17 20:23:54 Tweets   : 99.6% at 41/sec for cuerSolarTeam
+2017-11-17 20:24:36 Friends  : 100% at 9/sec for CleantechMag
+2017-11-17 20:25:06 Friends  : 98.7% at 35/sec for climatemegan
+2017-11-17 20:25:12 Tweets   : 60.4% at 41/sec for DavidKThorpe
+2017-11-17 20:25:14 Friends  : 97.5% at 37/sec for CllrPetesTweets
+2017-11-17 20:25:17 Friends  : 93.8% at 6/sec for commsolarsol
+2017-11-17 20:25:19 Friends  : 98% at 46/sec for CoolSkySolar
+2017-11-17 20:25:43 Friends  : 99.5% at 34/sec for cuerSolarTeam
+2017-11-17 20:26:00 Tweets   : 99.9% at 38/sec for delta_ee
+2017-11-17 20:26:02 Friends  : 99.7% at 33/sec for DavidKThorpe
+2017-11-17 20:26:31 Friends  : 99.4% at 32/sec for delta_ee
+2017-11-17 20:26:57 Tweets   : 99.6% at 36/sec for DrChrisJardine
+2017-11-17 20:27:12 Friends  : 99.4% at 35/sec for DrChrisJardine
+2017-11-17 20:27:50 Friends  : 99.8% at 35/sec for eandem
+2017-11-17 20:28:02 Friends  : 100% at 40/sec for EconBritain
+2017-11-17 20:28:17 Tweets   : 99.9% at 39/sec for eandem
+2017-11-17 20:29:20 Tweets   : 25.8% at 51/sec for EconBritain
+2017-11-17 20:30:32 Tweets   : 15% at 45/sec for Ed_Crooks
+2017-11-17 20:30:56 Tweets   : 100% at 35/sec for Egnida
+2017-11-17 20:32:11 Tweets   : 74.2% at 43/sec for EnelGroup
+2017-11-17 20:32:18 Tweets   : 100% at 0/sec for Energydesk
+2017-11-17 20:33:29 Tweets   : 99.7% at 41/sec for energystoragenw
+2017-11-17 20:34:18 Favorites: 51.6% at 2/sec for CarrawayTiia
+2017-11-17 20:34:19 Favorites: 98.9% at 59/sec for catchenergy
+2017-11-17 20:34:45 Favorites: 53.2% at 38/sec for CatMcKinnell
+2017-11-17 20:34:46 Tweets   : 28.9% at 41/sec for energyuservoice
+2017-11-17 20:34:47 Favorites: 63.7% at 63/sec for CEFortnight
+2017-11-17 20:34:47 Friends  : 99.2% at 35/sec for Ed_Crooks
+2017-11-17 20:34:47 Friends  : Waiting for 2.1 minutes
+2017-11-17 20:34:58 Favorites: 56.9% at 43/sec for churchstate
+2017-11-17 20:35:03 Favorites: 62.6% at 41/sec for cleanenergyco
+2017-11-17 20:35:04 Tweets   : 99.8% at 29/sec for EuanAnson
+2017-11-17 20:35:10 Favorites: 57.6% at 40/sec for CleantechMag
+2017-11-17 20:35:27 Tweets   : 99.9% at 34/sec for EUPVSEC
+2017-11-17 20:35:33 Favorites: 54.8% at 44/sec for climatemegan
+2017-11-17 20:35:36 Favorites: 94.1% at 28/sec for CllrPetesTweets
+2017-11-17 20:35:39 Favorites: 97.1% at 67/sec for commsolarsol
+2017-11-17 20:35:41 Tweets   : 100% at 20/sec for EurObserv_ER
+2017-11-17 20:35:42 Favorites: 100% at 14/sec for CoolSkySolar
+2017-11-17 20:35:54 Favorites: 53.8% at 49/sec for cuerSolarTeam
+2017-11-17 20:36:02 Favorites: 52% at 36/sec for DavidKThorpe
+2017-11-17 20:36:08 Favorites: 62.6% at 46/sec for delta_ee
+2017-11-17 20:36:13 Favorites: 87.7% at 39/sec for DrChrisJardine
+2017-11-17 20:36:14 Favorites: 100% at 29/sec for eandem
+2017-11-17 20:36:15 Favorites: 100% at 18/sec for EconBritain
+2017-11-17 20:36:26 Tweets   : 99.9% at 39/sec for EvergreenLyme
+2017-11-17 20:36:42 Favorites: Waiting for 12.1 minutes due to : Used up allowance in a loop
+2017-11-17 20:37:06 Tweets   : 99.7% at 37/sec for everozepartners
+2017-11-17 20:37:08 Friends  : 97.5% at 3/sec for Egnida
+2017-11-17 20:37:50 Friends  : 99.4% at 31/sec for EnelGroup
+2017-11-17 20:37:50 Friends  : User Energydesk has a protected account or no Friendss to collect so skipping
+2017-11-17 20:38:00 Friends  : 97.8% at 37/sec for energystoragenw
+2017-11-17 20:38:07 Friends  : 99.6% at 40/sec for energyuservoice
+2017-11-17 20:38:25 Tweets   : 17.5% at 40/sec for FoEScot
+2017-11-17 20:38:55 Friends  : 99.4% at 41/sec for EuanAnson
+2017-11-17 20:38:58 Friends  : 95.7% at 56/sec for EUPVSEC
+2017-11-17 20:39:42 Tweets   : 69.9% at 42/sec for FrankAaskov
+2017-11-17 20:40:20 Friends  : 99.5% at 40/sec for EurObserv_ER
+2017-11-17 20:40:28 Friends  : 98.3% at 41/sec for EvergreenLyme
+2017-11-17 20:40:57 Tweets   : 46% at 42/sec for FSB_Voice
+2017-11-17 20:40:59 Friends  : 97.5% at 40/sec for everozepartners
+2017-11-17 20:41:56 Friends  : 99.2% at 37/sec for FoEScot
+2017-11-17 20:42:02 Friends  : 100% at 30/sec for FrankAaskov
+2017-11-17 20:42:14 Tweets   : 53.8% at 41/sec for Giles_Frampton
+2017-11-17 20:42:49 Tweets   : 100% at 35/sec for GlobalClimathon
+2017-11-17 20:42:53 Friends  : 97.8% at 38/sec for FSB_Voice
+2017-11-17 20:43:03 Friends  : 98.1% at 33/sec for Giles_Frampton
+2017-11-17 20:43:24 Friends  : 91.3% at 34/sec for GlobalClimathon
+2017-11-17 20:43:40 Friends  : 100% at 36/sec for GlynDavies
+2017-11-17 20:43:40 Friends  : Waiting for 8.3 minutes
+2017-11-17 20:44:04 Tweets   : 34% at 42/sec for GlynDavies
+2017-11-17 20:45:22 Tweets   : 40.3% at 41/sec for GPUKNews
+2017-11-17 20:46:42 Tweets   : 80% at 39/sec for GrantWithers69
+2017-11-17 20:47:54 Tweets   : 7.1% at 45/sec for GregMulholland1
+2017-11-17 20:49:51 Favorites: 19.2% at 4/sec for Ed_Crooks
+2017-11-17 20:49:56 Favorites: 60.3% at 47/sec for Egnida
+2017-11-17 20:50:45 Favorites: 50.9% at 44/sec for EnelGroup
+2017-11-17 20:50:45 Favorites: User Energydesk has a protected account or no Favoritess to collect so skipping
+2017-11-17 20:50:48 Favorites: 56.1% at 63/sec for energystoragenw
+2017-11-17 20:50:48 Favorites: User energyuservoice has a protected account or no Favoritess to collect so skipping
+2017-11-17 20:50:53 Favorites: 94.8% at 42/sec for EuanAnson
+2017-11-17 20:50:58 Favorites: 80.6% at 41/sec for EUPVSEC
+2017-11-17 20:50:58 Favorites: 100% at 26/sec for EurObserv_ER
+2017-11-17 20:51:03 Favorites: 97.5% at 42/sec for EvergreenLyme
+2017-11-17 20:51:15 Favorites: 60.6% at 40/sec for everozepartners
+2017-11-17 20:51:37 Favorites: 52.7% at 45/sec for FoEScot
+2017-11-17 20:51:38 Favorites: 85.7% at 7/sec for FrankAaskov
+2017-11-17 20:51:48 Favorites: Waiting for 12.3 minutes due to : Used up allowance in a loop
+2017-11-17 20:52:26 Friends  : 98.6% at 1/sec for GPUKNews
+2017-11-17 20:52:49 Friends  : 98.4% at 38/sec for GrantWithers69
+2017-11-17 20:55:30 Friends  : 98.3% at 37/sec for GregMulholland1
+2017-11-17 21:05:18 Favorites: 50.6% at 4/sec for FSB_Voice
+2017-11-17 21:06:07 Favorites: 50.3% at 44/sec for Giles_Frampton
+2017-11-17 21:06:40 Favorites: 50.6% at 44/sec for GlobalClimathon
+2017-11-17 21:07:08 Favorites: Waiting for 12.2 minutes due to : Used up allowance in a loop
+2017-11-17 21:19:36 Favorites: 49.9% at 2/sec for GlynDavies
+2017-11-17 21:20:23 Favorites: 49.7% at 42/sec for GPUKNews
+2017-11-17 21:20:40 Favorites: 53% at 46/sec for GrantWithers69
+2017-11-17 21:21:44 Favorites: 34.6% at 46/sec for GregMulholland1
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+Warning message:
+package 'twitteR' was built under R version 3.4.1 

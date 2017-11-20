@@ -1,0 +1,170 @@
+starting worker pid=4236 on localhost:11271 at 21:03:03.098
+starting worker pid=11652 on localhost:11271 at 21:03:03.301
+starting worker pid=3316 on localhost:11271 at 21:03:03.547
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-14 21:03:33 Friends  : 97.7% at 34/sec for DianeLightfoot
+2017-11-14 21:03:40 Favorites: 91.7% at 31/sec for DianeLightfoot
+2017-11-14 21:04:12 Tweets   : 99.8% at 28/sec for DianeLightfoot
+2017-11-14 21:04:16 Favorites: 53% at 36/sec for DisabilitySmart
+2017-11-14 21:04:32 Favorites: 55.2% at 37/sec for EdelmanUK
+2017-11-14 21:04:38 Favorites: 57.2% at 33/sec for ElectricityAI
+2017-11-14 21:04:42 Favorites: 70.4% at 28/sec for EnergyRCEM
+2017-11-14 21:04:50 Favorites: 49.8% at 38/sec for EURELECTRIC
+2017-11-14 21:04:55 Favorites: 53.5% at 36/sec for FirstUtility
+2017-11-14 21:05:01 Friends  : 95.3% at 36/sec for DisabilitySmart
+2017-11-14 21:05:03 Favorites: 56.2% at 38/sec for GillFurnissMP
+2017-11-14 21:05:10 Favorites: 67.9% at 39/sec for GRI_LSE
+2017-11-14 21:05:15 Favorites: 97.5% at 40/sec for HavenPower
+2017-11-14 21:05:24 Favorites: 54.8% at 34/sec for indparltrust
+2017-11-14 21:05:39 Tweets   : 55.5% at 37/sec for DisabilitySmart
+2017-11-14 21:05:48 Favorites: 52% at 37/sec for JACox24
+2017-11-14 21:05:52 Friends  : 99.8% at 34/sec for EdelmanUK
+2017-11-14 21:05:56 Favorites: Waiting for 10.4 minutes due to : Used up allowance in a loop
+2017-11-14 21:06:49 Friends  : 99.8% at 36/sec for ElectricityAI
+2017-11-14 21:07:03 Friends  : 98.2% at 41/sec for EnergyRCEM
+2017-11-14 21:07:04 Tweets   : 41.1% at 38/sec for EdelmanUK
+2017-11-14 21:07:25 Friends  : 98.2% at 40/sec for EURELECTRIC
+2017-11-14 21:07:39 Tweets   : 99.9% at 32/sec for ElectricityAI
+2017-11-14 21:08:20 Tweets   : 99.9% at 35/sec for EnergyRCEM
+2017-11-14 21:09:07 Friends  : 99.9% at 35/sec for FirstUtility
+Error in twInterfaceObj$doAPICall(paste("users", "show", sep = "/"), params = params,  : 
+  Not Found (HTTP 404).
+In addition: Warning message:
+package 'twitteR' was built under R version 3.4.1 
+2017-11-14 21:09:08 Friends: Unable to find account GillFurnissMP moving to next
+2017-11-14 21:09:08 Friends  : % at /sec for GillFurnissMP
+2017-11-14 21:09:50 Tweets   : 57.1% at 35/sec for EURELECTRIC
+2017-11-14 21:09:53 Friends  : 99.5% at 40/sec for GRI_LSE
+2017-11-14 21:09:59 Friends  : 99.1% at 35/sec for HavenPower
+2017-11-14 21:10:54 Friends  : 99.4% at 33/sec for indparltrust
+2017-11-14 21:11:10 Friends  : 97.9% at 32/sec for JACox24
+2017-11-14 21:11:11 Tweets   : 10.8% at 40/sec for FirstUtility
+2017-11-14 21:11:26 Friends  : 99.7% at 41/sec for janefagray
+2017-11-14 21:11:44 Friends  : 99.4% at 39/sec for JoannaElson
+Error in twInterfaceObj$doAPICall(paste("users", "show", sep = "/"), params = params,  : 
+  Not Found (HTTP 404).
+2017-11-14 21:11:45 Friends: Unable to find account joinpureplanet moving to next
+2017-11-14 21:11:45 Friends  : % at /sec for joinpureplanet
+2017-11-14 21:11:59 Tweets   : 99.9% at 38/sec for GillFurnissMP
+2017-11-14 21:12:45 Friends  : 99.8% at 37/sec for katiehile
+2017-11-14 21:13:05 Friends  : 99.7% at 37/sec for kpmguk
+2017-11-14 21:13:23 Tweets   : 53.5% at 38/sec for GRI_LSE
+2017-11-14 21:13:32 Friends  : 99.2% at 35/sec for LaingHamish
+2017-11-14 21:13:37 Tweets   : 100% at 25/sec for HavenPower
+2017-11-14 21:14:29 Friends  : 98.4% at 38/sec for MALGconf
+2017-11-14 21:14:54 Tweets   : 99.9% at 37/sec for indparltrust
+2017-11-14 21:16:19 Tweets   : 100% at 35/sec for JACox24
+2017-11-14 21:16:26 Favorites: 50% at 1/sec for janefagray
+2017-11-14 21:16:27 Friends  : 97.5% at 35/sec for MargaretFerrier
+2017-11-14 21:16:34 Favorites: 63.1% at 39/sec for JoannaElson
+2017-11-14 21:16:39 Favorites: 53.5% at 39/sec for joinpureplanet
+2017-11-14 21:16:56 Favorites: 52.5% at 35/sec for katiehile
+2017-11-14 21:17:20 Favorites: 50.9% at 34/sec for kpmguk
+2017-11-14 21:17:29 Favorites: 51.2% at 34/sec for LaingHamish
+2017-11-14 21:17:37 Favorites: 56.5% at 34/sec for MALGconf
+2017-11-14 21:17:43 Friends  : 99.8% at 32/sec for MartineBBC
+2017-11-14 21:17:43 Friends  : Waiting for 4.2 minutes
+2017-11-14 21:17:47 Tweets   : 64.2% at 36/sec for janefagray
+2017-11-14 21:18:59 Tweets   : 99.9% at 36/sec for JoannaElson
+2017-11-14 21:19:00 Favorites: 25.6% at 38/sec for MargaretFerrier
+2017-11-14 21:19:20 Tweets   : 100% at 26/sec for joinpureplanet
+2017-11-14 21:19:36 Favorites: Waiting for 11.8 minutes due to : Used up allowance in a loop
+2017-11-14 21:20:39 Tweets   : 68.7% at 40/sec for katiehile
+2017-11-14 21:21:58 Friends  : 99.3% at 1/sec for NewPowerReport
+2017-11-14 21:22:00 Tweets   : 32% at 39/sec for kpmguk
+2017-11-14 21:22:04 Friends  : 98.9% at 31/sec for NuScale_UK
+2017-11-14 21:22:24 Tweets   : 99.8% at 25/sec for LaingHamish
+2017-11-14 21:22:44 Friends  : 99.6% at 34/sec for OpenRent
+2017-11-14 21:22:53 Friends  : 3955.6% at 38/sec for Opus_Energy
+2017-11-14 21:23:02 Friends  : 99.7% at 34/sec for paulwestacott
+2017-11-14 21:23:05 Friends  : 99% at 29/sec for PI_Strategy
+2017-11-14 21:23:45 Tweets   : 77.4% at 40/sec for MALGconf
+2017-11-14 21:24:36 Friends  : 99.6% at 34/sec for Pod_Point
+2017-11-14 21:25:06 Friends  : 99.3% at 32/sec for PopulusPolls
+2017-11-14 21:25:12 Tweets   : 34.1% at 36/sec for MargaretFerrier
+2017-11-14 21:25:22 Friends  : 100% at 38/sec for Power_2020
+2017-11-14 21:25:38 Friends  : 97% at 39/sec for power_vault
+2017-11-14 21:25:39 Friends  : 100% at 18/sec for Poyryplc
+2017-11-14 21:26:07 Friends  : 98.7% at 36/sec for ProspectPage
+2017-11-14 21:26:38 Tweets   : 17.8% at 37/sec for MartineBBC
+2017-11-14 21:26:51 Friends  : 99.2% at 36/sec for prweekuknews
+2017-11-14 21:26:58 Tweets   : 100% at 28/sec for NewPowerReport
+2017-11-14 21:27:13 Tweets   : 99.7% at 19/sec for NuScale_UK
+2017-11-14 21:27:25 Friends  : 99.6% at 35/sec for pureleapfrog
+2017-11-14 21:27:52 Friends  : 99.3% at 31/sec for PVMill
+2017-11-14 21:27:53 Friends  : Waiting for 9.1 minutes
+2017-11-14 21:28:15 Tweets   : 99.9% at 40/sec for OpenRent
+2017-11-14 21:29:37 Tweets   : 65.7% at 39/sec for Opus_Energy
+2017-11-14 21:29:52 Tweets   : 99.7% at 25/sec for paulwestacott
+2017-11-14 21:30:00 Tweets   : 100% at 10/sec for PI_Strategy
+2017-11-14 21:31:15 Tweets   : 44.3% at 43/sec for Pod_Point
+2017-11-14 21:32:04 Favorites: 24.8% at 4/sec for MartineBBC
+2017-11-14 21:32:04 Favorites: User NewPowerReport has a protected account or no Favoritess to collect so skipping
+2017-11-14 21:32:06 Favorites: 98.3% at 32/sec for NuScale_UK
+2017-11-14 21:32:17 Favorites: 56.6% at 38/sec for OpenRent
+2017-11-14 21:32:21 Tweets   : 100% at 40/sec for PopulusPolls
+2017-11-14 21:32:29 Favorites: 52.3% at 40/sec for Opus_Energy
+2017-11-14 21:32:30 Favorites: 100% at 36/sec for paulwestacott
+2017-11-14 21:32:32 Favorites: 100% at 39/sec for PI_Strategy
+2017-11-14 21:32:32 Tweets   : 100% at 19/sec for Power_2020
+2017-11-14 21:33:06 Tweets   : 100% at 35/sec for power_vault
+2017-11-14 21:33:14 Favorites: 52% at 40/sec for Pod_Point
+2017-11-14 21:33:16 Favorites: 100% at 28/sec for PopulusPolls
+2017-11-14 21:33:17 Favorites: 100% at 8/sec for Power_2020
+2017-11-14 21:33:28 Favorites: 51.8% at 36/sec for power_vault
+2017-11-14 21:33:30 Favorites: 57.8% at 40/sec for Poyryplc
+2017-11-14 21:33:33 Tweets   : 99.9% at 34/sec for Poyryplc
+2017-11-14 21:33:43 Favorites: 59.5% at 40/sec for ProspectPage
+2017-11-14 21:34:27 Favorites: Waiting for 11.9 minutes due to : Used up allowance in a loop
+2017-11-14 21:34:56 Tweets   : 94.2% at 39/sec for ProspectPage
+2017-11-14 21:36:15 Tweets   : 9.8% at 40/sec for prweekuknews
+2017-11-14 21:37:09 Tweets   : 100% at 41/sec for pureleapfrog
+2017-11-14 21:37:31 Friends  : 99.5% at 2/sec for PwC_Scotland
+2017-11-14 21:37:51 Friends  : 99.9% at 34/sec for realjoeswash
+2017-11-14 21:37:51 Tweets   : 99.4% at 39/sec for PVMill
+2017-11-14 21:38:24 Friends  : 99% at 37/sec for REAssociation
+2017-11-14 21:38:37 Friends  : 99.1% at 31/sec for rebeccajpratley
+2017-11-14 21:38:45 Friends  : 99.2% at 32/sec for S_WilkinsonEY
+2017-11-14 21:38:49 Friends  : 99.3% at 30/sec for SoEnergyUK
+2017-11-14 21:39:07 Friends  : 99.1% at 32/sec for SP_Economy
+2017-11-14 21:39:15 Friends  : 100% at 31/sec for StatoilUK
+2017-11-14 21:39:15 Tweets   : 46.6% at 38/sec for PwC_Scotland
+2017-11-14 21:40:08 Tweets   : 98.4% at 41/sec for realjoeswash
+2017-11-14 21:40:53 Friends  : 99.1% at 33/sec for tomjgreatrex
+2017-11-14 21:41:35 Tweets   : 65.9% at 37/sec for REAssociation
+2017-11-14 21:41:50 Friends  : 97.2% at 33/sec for Trilliant
+2017-11-14 21:42:22 Tweets   : 99.9% at 40/sec for rebeccajpratley
+2017-11-14 21:43:08 Tweets   : 99.7% at 40/sec for S_WilkinsonEY
+2017-11-14 21:43:22 Tweets   : 100% at 24/sec for SoEnergyUK
+2017-11-14 21:44:45 Tweets   : 86% at 38/sec for SP_Economy
+2017-11-14 21:45:07 Tweets   : 99.6% at 33/sec for StatoilUK
+2017-11-14 21:46:33 Tweets   : 17.7% at 37/sec for tomjgreatrex
+2017-11-14 21:46:42 Favorites: 50.5% at 3/sec for prweekuknews
+2017-11-14 21:46:51 Favorites: 62.3% at 35/sec for pureleapfrog
+2017-11-14 21:46:54 Favorites: 60.6% at 36/sec for PVMill
+2017-11-14 21:47:05 Favorites: 63.4% at 34/sec for PwC_Scotland
+2017-11-14 21:47:08 Favorites: 75.4% at 37/sec for realjoeswash
+2017-11-14 21:47:15 Tweets   : 99.8% at 34/sec for Trilliant
+2017-11-14 21:47:27 Favorites: 51.5% at 37/sec for REAssociation
+2017-11-14 21:47:30 Favorites: 94.3% at 38/sec for rebeccajpratley
+2017-11-14 21:47:32 Favorites: 89.5% at 34/sec for S_WilkinsonEY
+2017-11-14 21:47:34 Favorites: 100% at 28/sec for SoEnergyUK
+2017-11-14 21:47:43 Favorites: 71.3% at 35/sec for SP_Economy
+2017-11-14 21:47:45 Favorites: 93.4% at 39/sec for StatoilUK
+2017-11-14 21:48:05 Favorites: 51.5% at 35/sec for tomjgreatrex
+2017-11-14 21:48:13 Favorites: 66.1% at 35/sec for Trilliant
+2017-11-14 21:48:22 Friends  : 99.6% at 32/sec for UKPowerNetworks
+2017-11-14 21:48:32 Tweets   : 3.2% at 41/sec for UKPowerNetworks
+2017-11-14 21:48:33 Favorites: 51.9% at 35/sec for UKPowerNetworks
+2017-11-14 21:48:38 Favorites: 57% at 39/sec for UKPowerReserve
+2017-11-14 21:48:48 Friends  : 97.5% at 35/sec for UKPowerReserve
+2017-11-14 21:48:53 Favorites: 52% at 33/sec for uniper_energy
+2017-11-14 21:48:57 Friends  : 96.4% at 36/sec for uniper_energy
+2017-11-14 21:49:00 Tweets   : 99.9% at 32/sec for UKPowerReserve
+2017-11-14 21:49:15 Tweets   : 99.7% at 24/sec for uniper_energy
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+Warning message:
+package 'twitteR' was built under R version 3.4.1 

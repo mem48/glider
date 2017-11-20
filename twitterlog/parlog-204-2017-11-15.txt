@@ -1,0 +1,168 @@
+starting worker pid=13808 on localhost:11271 at 23:05:28.027
+starting worker pid=12068 on localhost:11271 at 23:05:28.181
+starting worker pid=8968 on localhost:11271 at 23:05:28.345
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-15 23:06:30 Friends  : 98.7% at 28/sec for BethKMR
+2017-11-15 23:07:04 Favorites: 58.6% at 24/sec for BethKMR
+2017-11-15 23:07:28 Favorites: Waiting for 9.1 minutes due to : Used up allowance in a loop
+2017-11-15 23:07:52 Tweets   : 99.5% at 25/sec for BethKMR
+2017-11-15 23:08:56 Tweets   : 23.2% at 50/sec for bifoldfactory
+2017-11-15 23:09:57 Tweets   : 63% at 52/sec for BlabyDC
+2017-11-15 23:10:09 Tweets   : 100% at 19/sec for bolton_tor
+2017-11-15 23:10:30 Tweets   : 100% at 39/sec for bray_slaughter
+2017-11-15 23:10:42 Tweets   : 100% at 22/sec for BuildingABC
+2017-11-15 23:11:48 Tweets   : 69% at 48/sec for Calico_Group
+2017-11-15 23:12:19 Tweets   : 99.5% at 38/sec for carolinetesting
+2017-11-15 23:12:30 Tweets   : 98.9% at 23/sec for CDuggan38
+2017-11-15 23:12:41 Tweets   : 100% at 17/sec for CheesmurBuild
+2017-11-15 23:12:50 Tweets   : 100% at 16/sec for CIAT_SE
+2017-11-15 23:13:37 Tweets   : 98.8% at 39/sec for CurtinsConsult
+2017-11-15 23:13:46 Tweets   : 100% at 13/sec for DavlynUK
+2017-11-15 23:14:43 Tweets   : 100% at 50/sec for devonshire_hms
+2017-11-15 23:14:59 Friends  : 96.5% at 43/sec for bifoldfactory
+2017-11-15 23:15:07 Tweets   : 99.4% at 43/sec for DKA_architects
+2017-11-15 23:15:09 Friends  : 99.8% at 44/sec for BlabyDC
+2017-11-15 23:15:12 Friends  : 100% at 38/sec for bolton_tor
+2017-11-15 23:15:26 Friends  : 99.7% at 47/sec for bray_slaughter
+2017-11-15 23:15:39 Friends  : 95.4% at 49/sec for BuildingABC
+2017-11-15 23:16:05 Friends  : 99.3% at 46/sec for Calico_Group
+2017-11-15 23:16:11 Tweets   : 96.6% at 50/sec for DonComProp
+2017-11-15 23:16:21 Friends  : 96.6% at 47/sec for carolinetesting
+2017-11-15 23:16:23 Tweets   : 99.7% at 30/sec for EDENPH0T0GRAPHY
+2017-11-15 23:16:28 Friends  : 98.1% at 48/sec for CDuggan38
+2017-11-15 23:16:31 Friends  : 98.8% at 27/sec for CheesmurBuild
+2017-11-15 23:16:35 Friends  : 96.5% at 33/sec for CIAT_SE
+2017-11-15 23:16:36 Friends  : Waiting for 4.6 minutes
+2017-11-15 23:16:43 Tweets   : 99.7% at 38/sec for EGCarterCoLtd
+2017-11-15 23:16:52 Tweets   : 100% at 22/sec for EIBnl
+2017-11-15 23:17:03 Favorites: 49.6% at 3/sec for bifoldfactory
+2017-11-15 23:17:05 Favorites: 59.4% at 46/sec for BlabyDC
+2017-11-15 23:17:12 Favorites: 57.5% at 43/sec for bolton_tor
+2017-11-15 23:17:19 Favorites: 73.9% at 31/sec for bray_slaughter
+2017-11-15 23:17:24 Favorites: 66.9% at 38/sec for BuildingABC
+2017-11-15 23:17:42 Favorites: 50.6% at 43/sec for Calico_Group
+2017-11-15 23:17:50 Favorites: 57.2% at 39/sec for carolinetesting
+2017-11-15 23:17:55 Favorites: 55.2% at 44/sec for CDuggan38
+2017-11-15 23:17:57 Favorites: 54.9% at 48/sec for CheesmurBuild
+2017-11-15 23:17:58 Tweets   : 19.3% at 48/sec for EnfieldCouncil
+2017-11-15 23:17:59 Favorites: 53.5% at 45/sec for CIAT_SE
+2017-11-15 23:18:09 Favorites: 49.7% at 40/sec for CurtinsConsult
+2017-11-15 23:18:09 Favorites: 100% at 35/sec for DavlynUK
+2017-11-15 23:18:11 Tweets   : 100% at 29/sec for Epsom_Builders
+2017-11-15 23:18:11 Favorites: 64.5% at 47/sec for devonshire_hms
+2017-11-15 23:18:21 Favorites: 62.8% at 42/sec for DKA_architects
+2017-11-15 23:18:30 Favorites: 62.7% at 45/sec for DonComProp
+2017-11-15 23:18:40 Favorites: 50.1% at 38/sec for EDENPH0T0GRAPHY
+2017-11-15 23:18:42 Favorites: 53.5% at 43/sec for EGCarterCoLtd
+2017-11-15 23:18:43 Favorites: 100% at 43/sec for EIBnl
+2017-11-15 23:18:53 Favorites: 49.7% at 40/sec for EnfieldCouncil
+2017-11-15 23:19:00 Favorites: 49.2% at 43/sec for Epsom_Builders
+2017-11-15 23:19:02 Favorites: 98.6% at 36/sec for everymatchboy
+2017-11-15 23:19:22 Favorites: 51.2% at 40/sec for FinolaBrady
+2017-11-15 23:19:24 Favorites: 100% at 41/sec for firedoorguy
+2017-11-15 23:19:24 Tweets   : 37.2% at 44/sec for everymatchboy
+2017-11-15 23:19:24 Favorites: 100% at 37/sec for FITZ_Architects
+2017-11-15 23:19:24 Favorites: User G85Derek has a protected account or no Favoritess to collect so skipping
+2017-11-15 23:19:25 Favorites: 15.6% at 25/sec for gaynorbaldwin
+2017-11-15 23:19:26 Favorites: 100% at 13/sec for GEEERocks
+2017-11-15 23:19:31 Favorites: 80.6% at 40/sec for GentooHomes
+2017-11-15 23:19:39 Favorites: Waiting for 12.2 minutes due to : Used up allowance in a loop
+2017-11-15 23:20:23 Tweets   : 85.8% at 54/sec for FinolaBrady
+2017-11-15 23:20:35 Tweets   : 100% at 26/sec for firedoorguy
+2017-11-15 23:20:48 Tweets   : 100% at 37/sec for FITZ_Architects
+2017-11-15 23:20:55 Tweets   : 100% at 3/sec for G85Derek
+2017-11-15 23:21:02 Tweets   : 100% at 1/sec for gaynorbaldwin
+2017-11-15 23:21:09 Tweets   : 98.9% at 12/sec for GEEERocks
+2017-11-15 23:21:13 Tweets   : 100% at 49/sec for GentooHomes
+2017-11-15 23:21:13 Tweets   : Waiting for 1.3 minutes
+2017-11-15 23:21:53 Friends  : 99.1% at 5/sec for CurtinsConsult
+2017-11-15 23:22:05 Friends  : 99.5% at 47/sec for DavlynUK
+2017-11-15 23:22:18 Friends  : 99.8% at 47/sec for devonshire_hms
+2017-11-15 23:22:37 Friends  : 98.6% at 50/sec for DKA_architects
+2017-11-15 23:22:56 Friends  : 98.3% at 58/sec for DonComProp
+2017-11-15 23:22:58 Tweets   : 99.2% at 10/sec for GlenGliran
+2017-11-15 23:23:10 Tweets   : 100% at 21/sec for GrahamLobb
+2017-11-15 23:23:10 Friends  : 99% at 50/sec for EDENPH0T0GRAPHY
+2017-11-15 23:23:14 Friends  : 99.5% at 47/sec for EGCarterCoLtd
+2017-11-15 23:23:20 Friends  : 98.5% at 55/sec for EIBnl
+2017-11-15 23:23:23 Friends  : 88.3% at 58/sec for EnfieldCouncil
+2017-11-15 23:23:34 Tweets   : 99.9% at 45/sec for GuinnessHomes
+2017-11-15 23:23:37 Friends  : 91.6% at 53/sec for Epsom_Builders
+2017-11-15 23:24:11 Friends  : 99.3% at 54/sec for everymatchboy
+2017-11-15 23:24:24 Friends  : 97.7% at 52/sec for FinolaBrady
+2017-11-15 23:24:37 Friends  : 98.5% at 52/sec for firedoorguy
+2017-11-15 23:24:38 Tweets   : 10.3% at 50/sec for GylesB1
+2017-11-15 23:24:42 Friends  : 99.6% at 44/sec for FITZ_Architects
+2017-11-15 23:24:45 Friends  : 100% at 54/sec for G85Derek
+2017-11-15 23:24:46 Friends  : Waiting for 11.6 minutes
+2017-11-15 23:24:56 Tweets   : 100% at 37/sec for hewittstudios
+2017-11-15 23:25:44 Tweets   : 100% at 49/sec for HillsGroup
+2017-11-15 23:26:53 Tweets   : 90.1% at 47/sec for IamNet24
+2017-11-15 23:27:34 Tweets   : 98.8% at 50/sec for Ian_Crews
+2017-11-15 23:27:45 Tweets   : 100% at 28/sec for ieuanhall
+2017-11-15 23:28:42 Tweets   : 61.3% at 55/sec for IHBCtweet
+2017-11-15 23:29:42 Tweets   : 14.3% at 54/sec for InteriorDesign
+2017-11-15 23:29:51 Tweets   : 100% at 14/sec for jantribble
+2017-11-15 23:30:00 Tweets   : 100% at 15/sec for jesmond360
+2017-11-15 23:31:06 Tweets   : 38.6% at 49/sec for jonculshaw
+2017-11-15 23:31:17 Tweets   : 100% at 18/sec for KateDCG
+2017-11-15 23:32:16 Tweets   : 99.3% at 48/sec for KelhamHouse
+2017-11-15 23:32:21 Favorites: 52.8% at 1/sec for GlenGliran
+2017-11-15 23:32:22 Favorites: 100% at 40/sec for GrahamLobb
+2017-11-15 23:32:24 Favorites: 97% at 48/sec for GuinnessHomes
+2017-11-15 23:33:19 Tweets   : 79% at 51/sec for Kim_Lydon
+2017-11-15 23:33:26 Tweets   : 100% at 12/sec for KingfisherDevel
+2017-11-15 23:33:35 Tweets   : 100% at 16/sec for KitcattD
+2017-11-15 23:33:41 Favorites: 7.5% at 42/sec for GylesB1
+2017-11-15 23:33:50 Favorites: 58% at 42/sec for hewittstudios
+2017-11-15 23:33:52 Favorites: 100% at 40/sec for HillsGroup
+2017-11-15 23:34:07 Favorites: 53.5% at 39/sec for IamNet24
+2017-11-15 23:34:18 Favorites: 55.4% at 36/sec for Ian_Crews
+2017-11-15 23:34:22 Favorites: 67.3% at 47/sec for ieuanhall
+2017-11-15 23:34:32 Favorites: 51.6% at 42/sec for IHBCtweet
+2017-11-15 23:34:39 Tweets   : 19.7% at 50/sec for lb_southwark
+2017-11-15 23:34:41 Favorites: 58.5% at 42/sec for InteriorDesign
+2017-11-15 23:34:42 Favorites: 100% at 22/sec for jantribble
+2017-11-15 23:34:43 Favorites: 97% at 21/sec for jesmond360
+2017-11-15 23:34:54 Favorites: 56.7% at 44/sec for jonculshaw
+2017-11-15 23:34:56 Favorites: 98.6% at 61/sec for KateDCG
+2017-11-15 23:34:58 Favorites: Waiting for 12.2 minutes due to : Used up allowance in a loop
+2017-11-15 23:36:42 Friends  : 100% at 0/sec for gaynorbaldwin
+2017-11-15 23:36:45 Friends  : 100% at 26/sec for GEEERocks
+2017-11-15 23:36:47 Friends  : 98% at 46/sec for GentooHomes
+2017-11-15 23:36:57 Friends  : 99.6% at 47/sec for GlenGliran
+2017-11-15 23:37:01 Friends  : 98.3% at 49/sec for GrahamLobb
+2017-11-15 23:38:33 Friends  : 95.1% at 51/sec for GuinnessHomes
+2017-11-15 23:38:54 Friends  : 99% at 50/sec for GylesB1
+2017-11-15 23:39:09 Friends  : 98.7% at 55/sec for hewittstudios
+2017-11-15 23:39:14 Friends  : 100% at 48/sec for HillsGroup
+2017-11-15 23:39:35 Friends  : 98% at 51/sec for IamNet24
+2017-11-15 23:39:45 Friends  : 98.6% at 47/sec for Ian_Crews
+2017-11-15 23:39:48 Friends  : 100% at 45/sec for ieuanhall
+2017-11-15 23:40:18 Friends  : 96.4% at 52/sec for IHBCtweet
+2017-11-15 23:40:27 Friends  : 99.8% at 44/sec for InteriorDesign
+2017-11-15 23:40:33 Friends  : 100% at 50/sec for jantribble
+2017-11-15 23:40:33 Friends  : Waiting for 11.2 minutes
+2017-11-15 23:47:39 Favorites: 56.2% at 1/sec for KelhamHouse
+2017-11-15 23:47:47 Favorites: 48% at 43/sec for Kim_Lydon
+2017-11-15 23:47:48 Favorites: 100% at 10/sec for KingfisherDevel
+2017-11-15 23:47:49 Favorites: 95.2% at 35/sec for KitcattD
+2017-11-15 23:47:52 Favorites: 52.4% at 46/sec for lb_southwark
+2017-11-15 23:52:06 Friends  : 99.4% at 0/sec for jesmond360
+2017-11-15 23:52:28 Friends  : 99.3% at 49/sec for jonculshaw
+2017-11-15 23:52:34 Friends  : 98.3% at 43/sec for KateDCG
+2017-11-15 23:54:35 Friends  : 97.8% at 45/sec for KelhamHouse
+2017-11-15 23:54:52 Friends  : 99.1% at 48/sec for Kim_Lydon
+2017-11-15 23:55:05 Friends  : 100% at 48/sec for KingfisherDevel
+2017-11-15 23:55:08 Friends  : 98.8% at 29/sec for KitcattD
+2017-11-15 23:55:14 Friends  : 99.3% at 45/sec for lb_southwark
+Warning message:
+Warning message:
+was built under R version 3.4.1 
+package 'twitteR' was built under R version 3.4.1 
+Warning messages:
+1: package 'twitteR' was built under R version 3.4.1 
+2: In twInterfaceObj$doAPICall(cmd, params, method, ...) :
+  Rate limit encountered & retry limit reached - returning partial results

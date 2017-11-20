@@ -1,0 +1,171 @@
+starting worker pid=11648 on localhost:11271 at 08:36:50.354
+starting worker pid=7820 on localhost:11271 at 08:36:50.557
+starting worker pid=12708 on localhost:11271 at 08:36:50.760
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-20 08:40:24 Friends  : 99.8% at 29/sec for H2PropServices
+Error in twInterfaceObj$doAPICall(paste("users", "show", sep = "/"), params = params,  : 
+  Not Found (HTTP 404).
+In addition: Warning message:
+package 'twitteR' was built under R version 3.4.1 
+2017-11-20 08:40:25 Friends: Unable to find account Halesowen_PS moving to next
+2017-11-20 08:40:25 Friends  : % at /sec for Halesowen_PS
+2017-11-20 08:42:17 Friends  : 99.9% at 27/sec for Hansgrohe_PR
+2017-11-20 08:42:34 Friends  : 100% at 35/sec for HarrisP_H
+2017-11-20 08:43:33 Favorites: 100% at 24/sec for H2PropServices
+2017-11-20 08:43:35 Favorites: 100% at 42/sec for Halesowen_PS
+2017-11-20 08:44:00 Favorites: 57.3% at 23/sec for Hansgrohe_PR
+2017-11-20 08:44:01 Favorites: 100% at 4/sec for HarrisP_H
+2017-11-20 08:44:22 Friends  : 98.8% at 32/sec for harrylake_11
+2017-11-20 08:44:36 Friends  : 100% at 31/sec for HawkstownHeatin
+2017-11-20 08:44:56 Favorites: 52.2% at 18/sec for harrylake_11
+2017-11-20 08:44:56 Favorites: 100% at 35/sec for HawkstownHeatin
+2017-11-20 08:45:05 Favorites: 82.6% at 24/sec for heatgroupuk
+2017-11-20 08:45:13 Favorites: 84.6% at 23/sec for HeatingPlumbEng
+2017-11-20 08:45:14 Favorites: 100% at 30/sec for HeatServEssex
+2017-11-20 08:45:15 Favorites: 92.9% at 19/sec for Heatwell_Luton
+2017-11-20 08:45:16 Favorites: 100% at 46/sec for herschel_ir
+2017-11-20 08:45:25 Favorites: 88.4% at 24/sec for HighEndPlumbing
+2017-11-20 08:45:25 Favorites: User HiGrowBuilders has a protected account or no Favoritess to collect so skipping
+2017-11-20 08:46:11 Friends  : 93.7% at 28/sec for heatgroupuk
+2017-11-20 08:46:51 Favorites: 49.7% at 27/sec for HintonHeating
+2017-11-20 08:46:53 Favorites: 99% at 49/sec for HIOTY_2016
+2017-11-20 08:47:00 Favorites: 98.8% at 14/sec for HitachiToolsUK
+2017-11-20 08:47:00 Favorites: 66.7% at 5/sec for HITGAS1
+2017-11-20 08:47:06 Friends  : 97.8% at 33/sec for HeatingPlumbEng
+2017-11-20 08:47:16 Friends  : 100% at 28/sec for HeatServEssex
+2017-11-20 08:47:19 Friends  : 98% at 37/sec for Heatwell_Luton
+2017-11-20 08:47:38 Tweets   : 99.7% at 23/sec for H2PropServices
+2017-11-20 08:47:50 Favorites: 53.4% at 24/sec for honeywell
+2017-11-20 08:47:50 Favorites: User hookgas has a protected account or no Favoritess to collect so skipping
+2017-11-20 08:47:50 Favorites: User HotlineHeating has a protected account or no Favoritess to collect so skipping
+2017-11-20 08:47:58 Favorites: 75.7% at 24/sec for Housewarm
+2017-11-20 08:47:59 Tweets   : 100% at 5/sec for Halesowen_PS
+2017-11-20 08:47:59 Favorites: 100% at 33/sec for hugaplumber
+2017-11-20 08:47:59 Favorites: 100% at 5/sec for hutchheating
+2017-11-20 08:48:07 Favorites: 67.7% at 26/sec for hvacrtools
+2017-11-20 08:48:09 Friends  : 98.4% at 34/sec for herschel_ir
+2017-11-20 08:48:13 Favorites: Waiting for 10.3 minutes due to : Used up allowance in a loop
+2017-11-20 08:48:16 Friends  : 100% at 16/sec for HighEndPlumbing
+2017-11-20 08:48:34 Friends  : 97.2% at 37/sec for HiGrowBuilders
+2017-11-20 08:48:44 Friends  : 95.8% at 26/sec for HintonHeating
+2017-11-20 08:49:07 Friends  : 99.2% at 31/sec for HIOTY_2016
+2017-11-20 08:49:11 Friends  : 100% at 51/sec for HitachiToolsUK
+2017-11-20 08:49:32 Friends  : 100% at 26/sec for HITGAS1
+2017-11-20 08:49:33 Tweets   : 36.6% at 34/sec for Hansgrohe_PR
+2017-11-20 08:49:37 Friends  : 98.6% at 55/sec for honeywell
+2017-11-20 08:49:45 Friends  : 100% at 22/sec for hookgas
+2017-11-20 08:49:45 Friends  : User HotlineHeating has a protected account or no Friendss to collect so skipping
+2017-11-20 08:49:46 Tweets   : 99.4% at 13/sec for HarrisP_H
+2017-11-20 08:49:58 Friends  : 97.9% at 37/sec for Housewarm
+2017-11-20 08:49:58 Friends  : Waiting for 9.5 minutes
+2017-11-20 08:51:04 Tweets   : 56.1% at 40/sec for harrylake_11
+2017-11-20 08:51:16 Tweets   : 99.4% at 13/sec for HawkstownHeatin
+2017-11-20 08:51:30 Tweets   : 100% at 24/sec for heatgroupuk
+2017-11-20 08:51:57 Tweets   : 98.1% at 24/sec for HeatingPlumbEng
+2017-11-20 08:52:30 Tweets   : 100% at 34/sec for HeatServEssex
+2017-11-20 08:52:36 Tweets   : 93.3% at 2/sec for Heatwell_Luton
+2017-11-20 08:53:48 Tweets   : 99.9% at 42/sec for herschel_ir
+2017-11-20 08:55:08 Tweets   : 91.8% at 39/sec for HighEndPlumbing
+2017-11-20 08:55:20 Tweets   : 100% at 19/sec for HiGrowBuilders
+2017-11-20 08:56:13 Tweets   : 99.8% at 38/sec for HintonHeating
+2017-11-20 08:56:30 Tweets   : 100% at 32/sec for HIOTY_2016
+2017-11-20 08:56:57 Tweets   : 99.8% at 35/sec for HitachiToolsUK
+2017-11-20 08:57:08 Tweets   : 99.1% at 9/sec for HITGAS1
+2017-11-20 08:57:58 Tweets   : 100% at 41/sec for honeywell
+2017-11-20 08:58:03 Tweets   : 100% at 2/sec for hookgas
+2017-11-20 08:58:03 Tweets   : User HotlineHeating has a protected account or no Tweetss to collect so skipping
+2017-11-20 08:58:16 Tweets   : 100% at 20/sec for Housewarm
+2017-11-20 08:58:22 Tweets   : 100% at 8/sec for hugaplumber
+2017-11-20 08:58:33 Tweets   : 100% at 6/sec for hutchheating
+2017-11-20 08:58:51 Favorites: 63.3% at 0/sec for HVNewsAwards
+2017-11-20 08:58:57 Favorites: 50.5% at 17/sec for HydropathTech
+2017-11-20 08:59:01 Tweets   : 99.9% at 36/sec for hvacrtools
+2017-11-20 08:59:25 Favorites: 52% at 31/sec for IanEph
+2017-11-20 08:59:27 Favorites: 59% at 53/sec for ianlivsey
+2017-11-20 08:59:32 Favorites: 100% at 12/sec for idealbathrooms
+2017-11-20 08:59:33 Favorites: 100% at 26/sec for igloosurfaces
+2017-11-20 08:59:36 Favorites: 76.3% at 53/sec for iheatsolutions
+2017-11-20 08:59:44 Favorites: 51.6% at 25/sec for iloveplumbingme
+2017-11-20 08:59:44 Favorites: User InstallerConnec has a protected account or no Favoritess to collect so skipping
+2017-11-20 08:59:44 Favorites: 100% at 3/sec for InstallerLive
+2017-11-20 08:59:53 Favorites: 51.4% at 24/sec for InstWater
+2017-11-20 08:59:53 Favorites: 100% at 3/sec for Intel_Boiler
+2017-11-20 08:59:54 Favorites: 90.5% at 29/sec for InteriorsOrion
+2017-11-20 08:59:54 Favorites: User INTO_HVAC has a protected account or no Favoritess to collect so skipping
+2017-11-20 08:59:54 Favorites: 100% at 30/sec for ip_grupo
+2017-11-20 08:59:54 Favorites: User itvpresscentre has a protected account or no Favoritess to collect so skipping
+2017-11-20 08:59:57 Tweets   : 99.6% at 33/sec for HVNewsAwards
+2017-11-20 09:00:01 Friends  : 99.3% at 1/sec for hugaplumber
+2017-11-20 09:00:04 Favorites: 52% at 29/sec for JagaUK
+2017-11-20 09:00:05 Tweets   : 100% at 22/sec for HydropathTech
+2017-11-20 09:00:14 Favorites: 51.3% at 32/sec for JamesPHPI
+2017-11-20 09:00:19 Friends  : 100% at 36/sec for hutchheating
+2017-11-20 09:00:30 Favorites: 49.6% at 25/sec for Jamie_Day_
+2017-11-20 09:00:41 Favorites: 49.5% at 35/sec for Jamies13
+2017-11-20 09:00:41 Favorites: User JavJnr has a protected account or no Favoritess to collect so skipping
+2017-11-20 09:00:41 Tweets   : 99.5% at 31/sec for IanEph
+2017-11-20 09:00:46 Favorites: 61.8% at 17/sec for JC_Plumbing
+2017-11-20 09:00:49 Tweets   : 100% at 17/sec for ianlivsey
+2017-11-20 09:01:05 Tweets   : 100% at 24/sec for idealbathrooms
+2017-11-20 09:01:17 Tweets   : 39.7% at 35/sec for igloosurfaces
+2017-11-20 09:01:17 Tweets   : Waiting for 0.9 minutes
+2017-11-20 09:02:26 Friends  : 99.3% at 33/sec for hvacrtools
+2017-11-20 09:02:29 Tweets   : 99.7% at 5/sec for iheatsolutions
+2017-11-20 09:02:38 Favorites: 49.1% at 28/sec for jeffprestridge
+2017-11-20 09:02:38 Favorites: 100% at 3/sec for Jlplumbing
+2017-11-20 09:02:38 Favorites: User JohnNicolous has a protected account or no Favoritess to collect so skipping
+2017-11-20 09:02:38 Favorites: 100% at 5/sec for johnspratling
+2017-11-20 09:02:40 Friends  : 100% at 34/sec for HVNewsAwards
+2017-11-20 09:02:54 Tweets   : 99.9% at 29/sec for iloveplumbingme
+2017-11-20 09:03:01 Tweets   : 100% at 10/sec for InstallerConnec
+2017-11-20 09:03:19 Tweets   : 99.4% at 28/sec for InstallerLive
+2017-11-20 09:03:36 Friends  : 97.3% at 34/sec for HydropathTech
+2017-11-20 09:04:25 Friends  : 97.9% at 32/sec for IanEph
+2017-11-20 09:04:28 Tweets   : 99.8% at 37/sec for InstWater
+2017-11-20 09:04:31 Friends  : 98.8% at 12/sec for ianlivsey
+2017-11-20 09:04:34 Tweets   : 100% at 8/sec for Intel_Boiler
+2017-11-20 09:04:44 Friends  : 100% at 33/sec for idealbathrooms
+2017-11-20 09:04:45 Tweets   : 100% at 4/sec for InteriorsOrion
+2017-11-20 09:05:03 Tweets   : 99.9% at 38/sec for INTO_HVAC
+2017-11-20 09:05:15 Tweets   : 100% at 8/sec for ip_grupo
+2017-11-20 09:05:40 Friends  : 100% at 33/sec for igloosurfaces
+2017-11-20 09:05:53 Friends  : 100% at 30/sec for iheatsolutions
+2017-11-20 09:06:39 Tweets   : 99.5% at 38/sec for itvpresscentre
+2017-11-20 09:07:34 Friends  : 83.3% at 31/sec for iloveplumbingme
+2017-11-20 09:07:36 Friends  : 100% at 28/sec for InstallerConnec
+2017-11-20 09:08:07 Tweets   : 68.1% at 36/sec for JagaUK
+2017-11-20 09:08:10 Friends  : 100% at 29/sec for InstallerLive
+2017-11-20 09:08:17 Tweets   : 100% at 31/sec for JamesPHPI
+2017-11-20 09:08:35 Friends  : 98.3% at 30/sec for InstWater
+2017-11-20 09:08:44 Friends  : 100% at 24/sec for Intel_Boiler
+2017-11-20 09:08:45 Friends  : Waiting for 6 minutes
+2017-11-20 09:08:51 Tweets   : 99.5% at 31/sec for Jamie_Day_
+2017-11-20 09:09:16 Tweets   : 94.8% at 31/sec for Jamies13
+2017-11-20 09:09:22 Tweets   : 100% at 4/sec for JavJnr
+2017-11-20 09:09:38 Tweets   : 99.6% at 28/sec for JC_Plumbing
+2017-11-20 09:11:07 Tweets   : 14.1% at 36/sec for jeffprestridge
+2017-11-20 09:11:13 Tweets   : 98.8% at 12/sec for Jlplumbing
+2017-11-20 09:11:19 Tweets   : 100% at 6/sec for JohnNicolous
+2017-11-20 09:12:41 Tweets   : 34.5% at 39/sec for johnspratling
+2017-11-20 09:15:10 Friends  : 99.1% at 2/sec for InteriorsOrion
+2017-11-20 09:15:21 Friends  : 100% at 30/sec for INTO_HVAC
+2017-11-20 09:15:38 Friends  : 96.9% at 28/sec for ip_grupo
+2017-11-20 09:46:43 Friends  : 100% at 29/sec for itvpresscentre
+2017-11-20 09:47:46 Friends  : 100% at 33/sec for JagaUK
+2017-11-20 09:47:58 Friends  : 94.9% at 25/sec for JamesPHPI
+2017-11-20 09:48:13 Friends  : 100% at 33/sec for Jamie_Day_
+2017-11-20 09:48:31 Friends  : 3315.4% at 23/sec for Jamies13
+2017-11-20 09:48:45 Friends  : 100% at 33/sec for JavJnr
+2017-11-20 09:50:13 Friends  : 98.6% at 31/sec for JC_Plumbing
+2017-11-20 09:57:45 Friends  : 99% at 28/sec for jeffprestridge
+2017-11-20 09:58:19 Friends  : 100% at 28/sec for Jlplumbing
+2017-11-20 09:58:21 Friends  : 100% at 28/sec for JohnNicolous
+2017-11-20 09:59:12 Friends  : 99.6% at 25/sec for johnspratling
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+Warning messages:
+1: package 'twitteR' was built under R version 3.4.1 
+2: In twInterfaceObj$doAPICall(cmd, params, method, ...) :
+  Rate limit encountered & retry limit reached - returning partial results

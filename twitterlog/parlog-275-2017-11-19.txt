@@ -1,0 +1,169 @@
+starting worker pid=12924 on localhost:11271 at 06:40:18.586
+starting worker pid=14988 on localhost:11271 at 06:40:18.742
+starting worker pid=7124 on localhost:11271 at 06:40:18.913
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-19 06:42:55 Friends  : 99.8% at 31/sec for eleanorradford
+2017-11-19 06:44:40 Friends  : 95.2% at 38/sec for ELGazette
+2017-11-19 06:45:10 Favorites: 100% at 41/sec for eleanorradford
+2017-11-19 06:45:21 Friends  : 99.9% at 39/sec for ellielovell
+2017-11-19 06:45:25 Favorites: 58.8% at 32/sec for ELGazette
+2017-11-19 06:45:43 Friends  : 98.1% at 39/sec for emfec_team
+2017-11-19 06:46:06 Favorites: 49.1% at 33/sec for ellielovell
+2017-11-19 06:46:15 Friends  : 98.7% at 36/sec for EmilyThornberry
+2017-11-19 06:46:16 Favorites: 49.8% at 41/sec for emfec_team
+2017-11-19 06:46:32 Friends  : 98.6% at 35/sec for EmmaBrumpton
+2017-11-19 06:46:33 Favorites: Waiting for 2.6 minutes due to : Used up allowance in a loop
+2017-11-19 06:46:36 Friends  : 100% at 47/sec for EmMackay1
+2017-11-19 06:47:34 Friends  : 98.1% at 40/sec for EmmaLewellBuck
+2017-11-19 06:47:53 Tweets   : 100% at 25/sec for eleanorradford
+2017-11-19 06:48:34 Friends  : 99.6% at 36/sec for EmmaReynoldsMP
+2017-11-19 06:49:12 Tweets   : 20.9% at 41/sec for ELGazette
+2017-11-19 06:49:14 Friends  : 99.2% at 41/sec for EMPRA
+2017-11-19 06:49:16 Friends  : 96.7% at 40/sec for EMScholarship
+2017-11-19 06:49:24 Friends  : 100% at 37/sec for enterpriseinfe
+2017-11-19 06:49:29 Favorites: 51.4% at 6/sec for EmilyThornberry
+2017-11-19 06:49:38 Favorites: 58.6% at 46/sec for EmmaBrumpton
+2017-11-19 06:49:40 Favorites: 54.3% at 67/sec for EmMackay1
+2017-11-19 06:50:11 Favorites: 49.3% at 40/sec for EmmaLewellBuck
+2017-11-19 06:50:12 Favorites: 100% at 32/sec for EmmaReynoldsMP
+2017-11-19 06:50:17 Tweets   : 13.3% at 49/sec for ellielovell
+2017-11-19 06:50:36 Favorites: 53.4% at 44/sec for EMPRA
+2017-11-19 06:50:37 Favorites: 100% at 45/sec for EMScholarship
+2017-11-19 06:50:37 Favorites: User enterpriseinfe has a protected account or no Favoritess to collect so skipping
+2017-11-19 06:51:34 Tweets   : 53.4% at 42/sec for emfec_team
+2017-11-19 06:51:47 Favorites: 51% at 37/sec for EPALE_EU
+2017-11-19 06:52:14 Favorites: Waiting for 12 minutes due to : Used up allowance in a loop
+2017-11-19 06:52:58 Tweets   : 21.6% at 38/sec for EmilyThornberry
+2017-11-19 06:53:24 Tweets   : 99.6% at 41/sec for EmmaBrumpton
+2017-11-19 06:53:37 Tweets   : 99.5% at 33/sec for EmMackay1
+2017-11-19 06:53:53 Friends  : 98.2% at 37/sec for EPALE_EU
+2017-11-19 06:53:53 Friends  : Waiting for 3.9 minutes
+2017-11-19 06:54:44 Tweets   : 22.2% at 47/sec for EmmaLewellBuck
+2017-11-19 06:55:50 Tweets   : 53.3% at 48/sec for EmmaReynoldsMP
+2017-11-19 06:57:00 Tweets   : 24.7% at 46/sec for EMPRA
+2017-11-19 06:57:07 Tweets   : 100% at 14/sec for EMScholarship
+2017-11-19 06:57:23 Tweets   : 99.4% at 33/sec for enterpriseinfe
+2017-11-19 06:58:11 Friends  : 98.3% at 3/sec for EppingForestCol
+2017-11-19 06:58:26 Friends  : 98.3% at 36/sec for ERCollege
+2017-11-19 06:58:28 Friends  : 100% at 30/sec for ese_education
+2017-11-19 06:58:34 Tweets   : 49.4% at 45/sec for EPALE_EU
+2017-11-19 06:58:48 Friends  : 99.5% at 39/sec for ESFAgov
+2017-11-19 06:59:17 Friends  : 99% at 39/sec for ESgloballaw
+2017-11-19 06:59:44 Tweets   : 99.5% at 43/sec for EppingForestCol
+2017-11-19 07:00:08 Friends  : 100% at 34/sec for eskillsUK
+2017-11-19 07:00:36 Tweets   : 100% at 44/sec for ERCollege
+2017-11-19 07:00:42 Tweets   : 95.5% at 7/sec for ese_education
+2017-11-19 07:00:44 Friends  : 98.1% at 35/sec for etcvenues
+2017-11-19 07:01:09 Friends  : 99.8% at 39/sec for EvanHD
+2017-11-19 07:01:15 Friends  : 98.2% at 19/sec for EveshamCollege
+2017-11-19 07:01:54 Tweets   : 41.7% at 44/sec for ESFAgov
+2017-11-19 07:02:56 Friends  : 99.9% at 35/sec for ewanmcintosh
+2017-11-19 07:03:04 Friends  : 97.7% at 29/sec for ExeterCollege
+2017-11-19 07:03:13 Tweets   : 31.9% at 40/sec for ESgloballaw
+2017-11-19 07:03:31 Friends  : 98.6% at 37/sec for FarehamCollege
+2017-11-19 07:04:13 Friends  : 99.6% at 34/sec for Farnborough6th
+2017-11-19 07:04:19 Friends  : 98.5% at 23/sec for FarnhamCollege
+2017-11-19 07:04:23 Friends  : 100% at 39/sec for fazacjc
+2017-11-19 07:04:23 Friends  : Waiting for 8.5 minutes
+2017-11-19 07:04:25 Tweets   : 83.7% at 44/sec for eskillsUK
+2017-11-19 07:04:56 Favorites: 50.1% at 3/sec for EppingForestCol
+2017-11-19 07:05:03 Favorites: 58% at 39/sec for ERCollege
+2017-11-19 07:05:04 Favorites: 88.5% at 51/sec for ese_education
+2017-11-19 07:05:10 Favorites: 56.4% at 34/sec for ESFAgov
+2017-11-19 07:05:40 Tweets   : 47.1% at 42/sec for etcvenues
+2017-11-19 07:05:53 Favorites: 50.1% at 44/sec for ESgloballaw
+2017-11-19 07:06:03 Favorites: 71.9% at 10/sec for eskillsUK
+2017-11-19 07:06:31 Favorites: 50.7% at 46/sec for etcvenues
+2017-11-19 07:06:39 Favorites: 58.7% at 39/sec for EvanHD
+2017-11-19 07:06:39 Favorites: 100% at 38/sec for EveshamCollege
+2017-11-19 07:06:52 Tweets   : 31.4% at 45/sec for EvanHD
+2017-11-19 07:07:09 Tweets   : 99.8% at 27/sec for EveshamCollege
+2017-11-19 07:07:09 Favorites: 53.2% at 39/sec for ewanmcintosh
+2017-11-19 07:07:29 Favorites: 52.7% at 49/sec for ExeterCollege
+2017-11-19 07:07:29 Favorites: Waiting for 12.1 minutes due to : Used up allowance in a loop
+2017-11-19 07:08:19 Tweets   : 7.9% at 46/sec for ewanmcintosh
+2017-11-19 07:09:32 Tweets   : 27.2% at 44/sec for ExeterCollege
+2017-11-19 07:10:37 Tweets   : 68.7% at 49/sec for FarehamCollege
+2017-11-19 07:11:44 Tweets   : 81.7% at 48/sec for Farnborough6th
+2017-11-19 07:12:01 Tweets   : 98.3% at 31/sec for FarnhamCollege
+2017-11-19 07:12:19 Tweets   : 100% at 37/sec for fazacjc
+2017-11-19 07:13:27 Tweets   : 12.5% at 47/sec for FCDWhittaker
+2017-11-19 07:13:42 Tweets   : 100% at 30/sec for FCOSouthAmerica
+2017-11-19 07:13:51 Tweets   : 100% at 9/sec for FCOT_SportSci
+2017-11-19 07:13:59 Friends  : 98.8% at 3/sec for FCDWhittaker
+2017-11-19 07:14:02 Friends  : 98.9% at 52/sec for FCOSouthAmerica
+2017-11-19 07:14:08 Friends  : 99% at 19/sec for FCOT_SportSci
+2017-11-19 07:14:32 Friends  : 98.4% at 33/sec for FEBrooklands
+2017-11-19 07:14:40 Tweets   : 99.7% at 44/sec for FEBrooklands
+2017-11-19 07:14:53 Friends  : 99.7% at 35/sec for FEFundingGuru
+2017-11-19 07:15:07 Friends  : 100% at 30/sec for FEPartnerships
+2017-11-19 07:15:09 Friends  : 100% at 16/sec for FETechStories
+2017-11-19 07:15:34 Tweets   : 99.9% at 44/sec for FEFundingGuru
+2017-11-19 07:15:37 Friends  : 98.6% at 33/sec for FETforL
+2017-11-19 07:15:39 Friends  : 100% at 35/sec for Filton_Intl
+2017-11-19 07:15:41 Friends  : 100% at 40/sec for FintanDonohue
+2017-11-19 07:15:42 Tweets   : 100% at 26/sec for FEPartnerships
+2017-11-19 07:16:06 Friends  : 98.8% at 32/sec for FionaAldridge
+2017-11-19 07:16:22 Friends  : 99.2% at 32/sec for fionamac2017
+2017-11-19 07:16:36 Friends  : 97.4% at 31/sec for FionaYMCAawards
+2017-11-19 07:16:52 Tweets   : 98.5% at 45/sec for FETechStories
+2017-11-19 07:17:00 Friends  : 99.7% at 28/sec for FircroftCollege
+2017-11-19 07:17:10 Friends  : 99.4% at 34/sec for FitzMP
+2017-11-19 07:17:10 Friends  : Waiting for 11 minutes
+2017-11-19 07:17:17 Tweets   : 99.4% at 34/sec for FETforL
+2017-11-19 07:17:23 Tweets   : 100% at 7/sec for Filton_Intl
+2017-11-19 07:17:34 Tweets   : 100% at 23/sec for FintanDonohue
+2017-11-19 07:18:45 Tweets   : 30.5% at 45/sec for FionaAldridge
+2017-11-19 07:19:53 Tweets   : 73.7% at 47/sec for fionamac2017
+2017-11-19 07:20:04 Favorites: 55.2% at 1/sec for FarehamCollege
+2017-11-19 07:20:20 Favorites: 50.4% at 44/sec for Farnborough6th
+2017-11-19 07:20:21 Favorites: 100% at 46/sec for FarnhamCollege
+2017-11-19 07:20:26 Favorites: 61.3% at 22/sec for fazacjc
+2017-11-19 07:20:34 Tweets   : 99.7% at 37/sec for FionaYMCAawards
+2017-11-19 07:21:03 Favorites: 49% at 43/sec for FCDWhittaker
+2017-11-19 07:21:04 Tweets   : 99.8% at 36/sec for FircroftCollege
+2017-11-19 07:21:08 Favorites: 73.5% at 22/sec for FCOSouthAmerica
+2017-11-19 07:21:08 Favorites: 100% at 13/sec for FCOT_SportSci
+2017-11-19 07:21:15 Favorites: 70.1% at 44/sec for FEBrooklands
+2017-11-19 07:21:16 Favorites: 94.6% at 60/sec for FEFundingGuru
+2017-11-19 07:21:16 Favorites: User FEPartnerships has a protected account or no Favoritess to collect so skipping
+2017-11-19 07:21:17 Favorites: 98.6% at 64/sec for FETechStories
+2017-11-19 07:21:18 Favorites: 94.3% at 75/sec for FETforL
+2017-11-19 07:21:18 Favorites: User Filton_Intl has a protected account or no Favoritess to collect so skipping
+2017-11-19 07:21:19 Favorites: 87.5% at 17/sec for FintanDonohue
+2017-11-19 07:21:41 Favorites: 51.8% at 40/sec for FionaAldridge
+2017-11-19 07:21:44 Favorites: 79.5% at 61/sec for fionamac2017
+2017-11-19 07:22:05 Favorites: 51.7% at 38/sec for FionaYMCAawards
+2017-11-19 07:22:13 Favorites: 61.5% at 39/sec for FircroftCollege
+2017-11-19 07:22:25 Tweets   : 46.1% at 39/sec for FitzMP
+2017-11-19 07:22:25 Favorites: 53.6% at 48/sec for FitzMP
+2017-11-19 07:22:38 Favorites: 53.7% at 38/sec for FlickD
+2017-11-19 07:22:39 Favorites: 98% at 47/sec for FloellaBenjamin
+2017-11-19 07:22:39 Favorites: Waiting for 12.2 minutes due to : Used up allowance in a loop
+2017-11-19 07:23:18 Tweets   : 99.5% at 42/sec for FlickD
+2017-11-19 07:24:39 Tweets   : 25.4% at 39/sec for FloellaBenjamin
+2017-11-19 07:25:44 Tweets   : 15.5% at 49/sec for francescrook
+2017-11-19 07:26:17 Tweets   : 99.9% at 43/sec for frankfieldteam
+2017-11-19 07:27:23 Tweets   : 15.3% at 49/sec for FraserNelson
+2017-11-19 07:27:28 Tweets   : 100% at 1/sec for FrithTeresa
+2017-11-19 07:28:34 Tweets   : 23.4% at 49/sec for ftbized
+2017-11-19 07:28:41 Friends  : 99.4% at 1/sec for FlickD
+2017-11-19 07:28:48 Friends  : 98.4% at 35/sec for FloellaBenjamin
+2017-11-19 07:29:13 Friends  : 99.3% at 42/sec for francescrook
+2017-11-19 07:29:19 Friends  : 100% at 38/sec for frankfieldteam
+2017-11-19 07:30:07 Friends  : 99.5% at 43/sec for FraserNelson
+2017-11-19 07:30:08 Friends  : 100% at 16/sec for FrithTeresa
+2017-11-19 07:30:16 Friends  : 100% at 37/sec for ftbized
+2017-11-19 07:36:03 Favorites: 49.4% at 3/sec for francescrook
+2017-11-19 07:36:03 Favorites: 94.7% at 37/sec for frankfieldteam
+2017-11-19 07:36:28 Favorites: 51.9% at 43/sec for FraserNelson
+2017-11-19 07:36:28 Favorites: 100% at 6/sec for FrithTeresa
+2017-11-19 07:36:29 Favorites: 96.7% at 56/sec for ftbized
+Warning message:
+Warning message:
+was built under R version 3.4.1 
+package 'twitteR' was built under R version 3.4.1 
+Warning message:
+package 'twitteR' was built under R version 3.4.1 

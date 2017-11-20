@@ -1,0 +1,173 @@
+starting worker pid=8336 on localhost:11271 at 17:48:06.903
+starting worker pid=13000 on localhost:11271 at 17:48:07.070
+starting worker pid=12692 on localhost:11271 at 17:48:07.235
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-14 17:48:31 Friends  : 99.5% at 48/sec for Arval_UK
+2017-11-14 17:48:33 Friends  : 100% at 41/sec for BBCWorld
+2017-11-14 17:48:38 Friends  : 97.1% at 43/sec for BergmannLukas
+2017-11-14 17:48:41 Favorites: 51.6% at 47/sec for Arval_UK
+2017-11-14 17:48:42 Favorites: 87.5% at 14/sec for BBCWorld
+2017-11-14 17:48:43 Favorites: 100% at 24/sec for BergmannLukas
+2017-11-14 17:48:57 Favorites: 57.4% at 50/sec for BITCenvironment
+2017-11-14 17:49:01 Favorites: 70.1% at 46/sec for BrentLabour
+2017-11-14 17:49:23 Favorites: Waiting for 11.8 minutes due to : Used up allowance in a loop
+2017-11-14 17:49:30 Tweets   : 78.8% at 51/sec for Arval_UK
+2017-11-14 17:49:32 Friends  : 99.8% at 45/sec for BITCenvironment
+2017-11-14 17:50:25 Tweets   : 1.2% at 59/sec for BBCWorld
+2017-11-14 17:50:33 Tweets   : 100% at 12/sec for BergmannLukas
+2017-11-14 17:50:47 Friends  : 93.3% at 46/sec for BrentLabour
+2017-11-14 17:51:02 Friends  : 98.5% at 46/sec for BroadPeter
+2017-11-14 17:51:11 Friends  : 98.3% at 43/sec for BryonyH_work
+2017-11-14 17:51:24 Friends  : 98.3% at 41/sec for BrysonCEO
+2017-11-14 17:51:35 Friends  : 98.5% at 45/sec for camdentalking
+2017-11-14 17:51:35 Friends  : Waiting for 8.8 minutes
+2017-11-14 17:51:37 Tweets   : 16.3% at 49/sec for BITCenvironment
+2017-11-14 17:52:25 Tweets   : 98.7% at 50/sec for BrentLabour
+2017-11-14 17:52:45 Tweets   : 98.9% at 43/sec for BroadPeter
+2017-11-14 17:53:47 Tweets   : 10.6% at 52/sec for BryonyH_work
+2017-11-14 17:54:49 Tweets   : 10.7% at 51/sec for BrysonCEO
+2017-11-14 17:55:43 Tweets   : 13.8% at 59/sec for camdentalking
+2017-11-14 17:56:43 Tweets   : 30.4% at 53/sec for CarbonBubble
+2017-11-14 17:57:46 Tweets   : 16.2% at 50/sec for CarolineFlintMP
+2017-11-14 17:58:46 Tweets   : 57.8% at 53/sec for ChangeworksUK
+2017-11-14 17:59:42 Tweets   : 99.3% at 52/sec for CharitySoftball
+2017-11-14 18:00:41 Tweets   : 24.2% at 54/sec for CheshireEast
+2017-11-14 18:01:22 Tweets   : 100% at 46/sec for CityzenDesign
+2017-11-14 18:01:35 Favorites: 49.3% at 3/sec for BroadPeter
+2017-11-14 18:01:58 Favorites: 53.3% at 48/sec for BryonyH_work
+2017-11-14 18:02:28 Tweets   : 3.9% at 49/sec for CleanAirLondon
+2017-11-14 18:02:30 Favorites: 50.7% at 48/sec for BrysonCEO
+2017-11-14 18:02:32 Friends  : 99.2% at 9/sec for CarbonBubble
+2017-11-14 18:02:38 Favorites: 53.7% at 51/sec for camdentalking
+2017-11-14 18:02:46 Favorites: 58.3% at 48/sec for CarbonBubble
+2017-11-14 18:02:53 Favorites: 65.2% at 46/sec for CarolineFlintMP
+2017-11-14 18:03:01 Friends  : 98.9% at 47/sec for CarolineFlintMP
+2017-11-14 18:03:01 Favorites: 57.8% at 45/sec for ChangeworksUK
+2017-11-14 18:03:02 Favorites: 100% at 5/sec for CharitySoftball
+2017-11-14 18:03:21 Friends  : 99.4% at 51/sec for ChangeworksUK
+2017-11-14 18:03:26 Tweets   : 23% at 55/sec for ClientEarth
+2017-11-14 18:03:26 Favorites: 53.6% at 46/sec for CheshireEast
+2017-11-14 18:03:34 Favorites: 52.9% at 50/sec for CityzenDesign
+2017-11-14 18:03:38 Friends  : 99.9% at 50/sec for CharitySoftball
+2017-11-14 18:03:44 Favorites: Waiting for 12.4 minutes due to : Used up allowance in a loop
+2017-11-14 18:04:22 Tweets   : 6% at 57/sec for ClimateCentral
+2017-11-14 18:05:21 Tweets   : 61.1% at 54/sec for Co_wheels
+2017-11-14 18:06:19 Friends  : 99.1% at 55/sec for CheshireEast
+2017-11-14 18:06:27 Tweets   : 44.8% at 49/sec for CommLivSust
+2017-11-14 18:06:33 Friends  : 99% at 57/sec for CityzenDesign
+2017-11-14 18:06:45 Tweets   : 100% at 39/sec for CompletusUK
+2017-11-14 18:07:43 Tweets   : 20.2% at 56/sec for coopnews
+2017-11-14 18:08:14 Tweets   : 100% at 47/sec for CRP_CABB
+2017-11-14 18:09:00 Tweets   : 100% at 51/sec for CuraEnergy
+2017-11-14 18:09:11 Tweets   : 100% at 22/sec for DaveJMcElroy
+2017-11-14 18:10:12 Tweets   : 38.2% at 52/sec for david_joffe
+2017-11-14 18:10:31 Tweets   : 100% at 34/sec for DDPP_Project
+2017-11-14 18:11:42 Tweets   : 81.1% at 46/sec for DStewartSFHA
+2017-11-14 18:12:42 Tweets   : 49.3% at 53/sec for E4SmartVillages
+2017-11-14 18:13:25 Tweets   : 99.7% at 43/sec for eatlGMN
+2017-11-14 18:13:35 Tweets   : 100% at 21/sec for EbikeAfrica
+2017-11-14 18:13:43 Tweets   : 100% at 18/sec for ecoGator_EU
+2017-11-14 18:14:45 Tweets   : 13% at 52/sec for Edinburgh_CC
+2017-11-14 18:15:36 Tweets   : 99.7% at 47/sec for EdwardJDavey
+2017-11-14 18:16:22 Tweets   : 99.7% at 38/sec for ElecIrelandNI
+2017-11-14 18:16:39 Friends  : 97.1% at 47/sec for CleanAirLondon
+2017-11-14 18:17:14 Favorites: 7.3% at 4/sec for CleanAirLondon
+2017-11-14 18:17:25 Tweets   : 9.1% at 50/sec for ElectricityNW
+2017-11-14 18:17:33 Tweets   : 100% at 11/sec for ElecyGreg
+2017-11-14 18:17:42 Favorites: 50.4% at 46/sec for ClientEarth
+2017-11-14 18:17:49 Friends  : 99.6% at 50/sec for ClientEarth
+2017-11-14 18:17:52 Tweets   : 100% at 33/sec for EllisCunliffe
+2017-11-14 18:18:08 Tweets   : 100% at 24/sec for emmabridge_1
+2017-11-14 18:18:20 Tweets   : 100% at 21/sec for Endo_Therm
+2017-11-14 18:18:54 Favorites: 10.4% at 44/sec for ClimateCentral
+2017-11-14 18:18:56 Favorites: Waiting for 12.3 minutes due to : Used up allowance in a loop
+2017-11-14 18:19:09 Tweets   : 99.9% at 44/sec for Energy4Bristol
+2017-11-14 18:19:34 Tweets   : 100% at 33/sec for EnergyAdviceMan
+2017-11-14 18:19:53 Friends  : 99.8% at 50/sec for ClimateCentral
+2017-11-14 18:20:35 Tweets   : 37.5% at 52/sec for EnergyInstitute
+2017-11-14 18:21:13 Tweets   : 99.9% at 46/sec for energylabel_MVE
+2017-11-14 18:21:28 Friends  : 99.5% at 52/sec for Co_wheels
+2017-11-14 18:21:35 Friends  : 99.7% at 45/sec for CommLivSust
+2017-11-14 18:22:10 Tweets   : 100% at 41/sec for Energylinx
+2017-11-14 18:22:14 Friends  : 100% at 42/sec for CompletusUK
+2017-11-14 18:23:25 Tweets   : 90.1% at 42/sec for EnergyNowMag
+2017-11-14 18:24:16 Tweets   : 100% at 49/sec for envirotecmag
+2017-11-14 18:25:18 Tweets   : 48.1% at 52/sec for euenergyweek
+2017-11-14 18:25:31 Friends  : 24477.5% at 50/sec for coopnews
+2017-11-14 18:25:42 Friends  : 96.8% at 49/sec for CRP_CABB
+2017-11-14 18:26:11 Friends  : 99.1% at 44/sec for CuraEnergy
+2017-11-14 18:26:16 Friends  : 99.5% at 36/sec for DaveJMcElroy
+2017-11-14 18:26:28 Tweets   : 7.3% at 46/sec for EURACTIV
+2017-11-14 18:26:39 Friends  : 96.8% at 42/sec for david_joffe
+2017-11-14 18:26:50 Friends  : 100% at 36/sec for DDPP_Project
+2017-11-14 18:27:17 Friends  : 97.4% at 38/sec for DStewartSFHA
+2017-11-14 18:27:17 Friends  : Waiting for 4.4 minutes
+2017-11-14 18:27:30 Tweets   : 99.3% at 38/sec for FalklandsGov
+2017-11-14 18:31:29 Favorites: 49.4% at 1/sec for Co_wheels
+2017-11-14 18:31:32 Favorites: 55.9% at 39/sec for CommLivSust
+2017-11-14 18:31:33 Favorites: 100% at 35/sec for CompletusUK
+2017-11-14 18:31:48 Favorites: 50.7% at 39/sec for coopnews
+2017-11-14 18:31:56 Favorites: 68.3% at 40/sec for CRP_CABB
+2017-11-14 18:32:04 Favorites: 52.4% at 35/sec for CuraEnergy
+2017-11-14 18:32:07 Favorites: 87.6% at 40/sec for DaveJMcElroy
+2017-11-14 18:32:07 Friends  : 99.6% at 3/sec for E4SmartVillages
+2017-11-14 18:32:38 Friends  : 97.1% at 39/sec for eatlGMN
+2017-11-14 18:33:31 Favorites: 34.7% at 37/sec for david_joffe
+2017-11-14 18:33:33 Friends  : 93.4% at 37/sec for EbikeAfrica
+2017-11-14 18:33:37 Favorites: 76.6% at 36/sec for DDPP_Project
+2017-11-14 18:33:38 Friends  : 100% at 36/sec for ecoGator_EU
+2017-11-14 18:34:01 Friends  : 98.6% at 37/sec for Edinburgh_CC
+2017-11-14 18:34:09 Friends  : 100% at 33/sec for EdwardJDavey
+2017-11-14 18:34:23 Favorites: Waiting for 11.8 minutes due to : Used up allowance in a loop
+2017-11-14 18:34:53 Friends  : 99.8% at 38/sec for ElecIrelandNI
+2017-11-14 18:35:15 Friends  : 100% at 36/sec for ElectricityNW
+2017-11-14 18:35:17 Friends  : 96.6% at 24/sec for ElecyGreg
+2017-11-14 18:35:34 Friends  : 97.1% at 36/sec for EllisCunliffe
+2017-11-14 18:35:49 Friends  : 98.2% at 37/sec for emmabridge_1
+2017-11-14 18:36:01 Friends  : 99.3% at 37/sec for Endo_Therm
+2017-11-14 18:36:42 Friends  : 99.8% at 42/sec for Energy4Bristol
+2017-11-14 18:37:33 Friends  : 99.9% at 41/sec for EnergyAdviceMan
+2017-11-14 18:37:43 Friends  : 99.3% at 43/sec for EnergyInstitute
+2017-11-14 18:37:43 Friends  : Waiting for 9.1 minutes
+2017-11-14 18:46:13 Favorites: 26.9% at 2/sec for DStewartSFHA
+2017-11-14 18:46:13 Favorites: Waiting for 0 minutes due to : Used up allowance in a loop
+2017-11-14 18:46:24 Favorites: 50.8% at 37/sec for E4SmartVillages
+2017-11-14 18:46:48 Favorites: 54.1% at 42/sec for eatlGMN
+2017-11-14 18:46:51 Favorites: 90.1% at 35/sec for EbikeAfrica
+2017-11-14 18:46:51 Favorites: 100% at 15/sec for ecoGator_EU
+2017-11-14 18:47:05 Friends  : 94.6% at 1/sec for energylabel_MVE
+2017-11-14 18:47:14 Favorites: 49.8% at 39/sec for Edinburgh_CC
+2017-11-14 18:47:21 Friends  : 99.2% at 44/sec for Energylinx
+2017-11-14 18:47:23 Favorites: 65.5% at 44/sec for EdwardJDavey
+2017-11-14 18:47:33 Favorites: 57.9% at 49/sec for ElecIrelandNI
+2017-11-14 18:48:05 Friends  : 100% at 42/sec for EnergyNowMag
+2017-11-14 18:48:06 Favorites: 48.7% at 44/sec for ElectricityNW
+2017-11-14 18:48:07 Favorites: 100% at 26/sec for ElecyGreg
+2017-11-14 18:48:23 Favorites: 50.3% at 44/sec for EllisCunliffe
+2017-11-14 18:48:30 Favorites: 59.2% at 40/sec for emmabridge_1
+2017-11-14 18:48:33 Favorites: 73.9% at 38/sec for Endo_Therm
+2017-11-14 18:48:47 Favorites: 53.4% at 43/sec for Energy4Bristol
+2017-11-14 18:48:48 Favorites: 100% at 42/sec for EnergyAdviceMan
+2017-11-14 18:48:53 Favorites: 85.5% at 44/sec for EnergyInstitute
+2017-11-14 18:49:05 Favorites: Waiting for 12.2 minutes due to : Used up allowance in a loop
+2017-11-14 18:49:15 Friends  : 99.8% at 46/sec for envirotecmag
+2017-11-14 18:50:16 Friends  : 99.7% at 53/sec for euenergyweek
+2017-11-14 18:50:55 Friends  : 99.4% at 56/sec for EURACTIV
+2017-11-14 18:51:13 Friends  : 99% at 48/sec for FalklandsGov
+2017-11-14 19:01:17 Favorites: 52.5% at 1/sec for energylabel_MVE
+2017-11-14 19:01:19 Favorites: 52.6% at 59/sec for Energylinx
+2017-11-14 19:01:25 Favorites: 65.5% at 50/sec for EnergyNowMag
+2017-11-14 19:01:28 Favorites: 71.4% at 52/sec for envirotecmag
+2017-11-14 19:02:16 Favorites: 50.8% at 47/sec for euenergyweek
+2017-11-14 19:02:32 Favorites: 52.2% at 50/sec for EURACTIV
+2017-11-14 19:02:42 Favorites: 56.5% at 50/sec for FalklandsGov
+Warning message:
+
+1: package 'twitteR' was built under R version 3.4.1 
+2: package 'twitteR' was built under R version 3.4.1 
+In twInterfaceObj$doAPICall(cmd, params, method, ...) :
+  Rate limit encountered & retry limit reached - returning partial results
+Warning message:
+package 'twitteR' was built under R version 3.4.1 

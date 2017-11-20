@@ -1,0 +1,170 @@
+starting worker pid=4492 on localhost:11271 at 04:44:16.558
+starting worker pid=3832 on localhost:11271 at 04:44:16.745
+starting worker pid=13620 on localhost:11271 at 04:44:16.945
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-20 04:47:37 Friends  : 100% at 40/sec for AJ_Plumbing
+2017-11-20 04:47:57 Friends  : 1330.8% at 17/sec for AJCPLUMBING
+2017-11-20 04:49:05 Friends  : 97.2% at 22/sec for AladdinNlb
+2017-11-20 04:49:53 Friends  : 94.7% at 28/sec for Alex_boilers
+2017-11-20 04:50:32 Friends  : 89.5% at 25/sec for alicewool
+2017-11-20 04:50:56 Favorites: 100% at 16/sec for AJ_Plumbing
+2017-11-20 04:51:11 Favorites: 57.9% at 26/sec for AJCPLUMBING
+2017-11-20 04:51:11 Favorites: 100% at 29/sec for AladdinNlb
+2017-11-20 04:51:12 Friends  : 99.9% at 27/sec for AlixHolt
+2017-11-20 04:51:39 Favorites: 49.3% at 13/sec for Alex_boilers
+2017-11-20 04:52:00 Friends  : 93.1% at 21/sec for AllGasHull
+2017-11-20 04:52:57 Friends  : 100% at 25/sec for AlliedTanks
+2017-11-20 04:52:59 Friends  : 98.8% at 39/sec for alnoorphb
+2017-11-20 04:53:30 Friends  : 100% at 27/sec for Alpha_Gas_Ltd
+2017-11-20 04:53:30 Friends  : User Alpha_Tec2 has a protected account or no Friendss to collect so skipping
+2017-11-20 04:53:40 Favorites: 27.6% at 27/sec for alicewool
+2017-11-20 04:53:46 Favorites: 97.1% at 6/sec for AlixHolt
+2017-11-20 04:53:48 Favorites: 97% at 40/sec for AllGasHull
+2017-11-20 04:53:48 Favorites: 100% at 11/sec for AlliedTanks
+2017-11-20 04:53:48 Favorites: 100% at 5/sec for alnoorphb
+2017-11-20 04:53:49 Favorites: 87.5% at 14/sec for Alpha_Gas_Ltd
+2017-11-20 04:53:49 Favorites: User Alpha_Tec2 has a protected account or no Favoritess to collect so skipping
+2017-11-20 04:53:57 Favorites: 99% at 24/sec for alphahi
+2017-11-20 04:54:16 Friends  : 99.6% at 24/sec for alphahi
+2017-11-20 04:54:37 Tweets   : 100% at 6/sec for AJ_Plumbing
+2017-11-20 04:55:59 Favorites: 12.9% at 26/sec for AlphaTec_
+2017-11-20 04:55:59 Favorites: 81% at 23/sec for AmbervaleHtg
+2017-11-20 04:56:08 Favorites: 49.7% at 23/sec for ambivent_ltd
+2017-11-20 04:56:08 Favorites: 100% at 5/sec for AMT_Heating
+2017-11-20 04:56:10 Favorites: Waiting for 10.7 minutes due to : Used up allowance in a loop
+2017-11-20 04:56:45 Tweets   : 84.7% at 25/sec for AJCPLUMBING
+2017-11-20 04:56:59 Tweets   : 100% at 20/sec for AladdinNlb
+2017-11-20 04:57:05 Friends  : 93.9% at 26/sec for AlphaTec_
+2017-11-20 04:57:14 Friends  : 100% at 26/sec for AmbervaleHtg
+2017-11-20 04:58:17 Friends  : 98.2% at 27/sec for ambivent_ltd
+2017-11-20 04:58:53 Tweets   : 93% at 28/sec for Alex_boilers
+2017-11-20 04:59:21 Friends  : 99.3% at 25/sec for AMT_Heating
+2017-11-20 04:59:22 Friends  : Waiting for 3.3 minutes
+2017-11-20 05:00:35 Tweets   : 41.1% at 31/sec for alicewool
+2017-11-20 05:00:46 Tweets   : 100% at 9/sec for AlixHolt
+2017-11-20 05:01:08 Tweets   : 100% at 25/sec for AllGasHull
+2017-11-20 05:01:19 Tweets   : 100% at 7/sec for AlliedTanks
+2017-11-20 05:01:25 Tweets   : 100% at 3/sec for alnoorphb
+2017-11-20 05:01:25 Tweets   : User Alpha_Gas_Ltd has a protected account or no Tweetss to collect so skipping
+2017-11-20 05:01:25 Tweets   : User Alpha_Tec2 has a protected account or no Tweetss to collect so skipping
+2017-11-20 05:02:24 Tweets   : 99.9% at 31/sec for alphahi
+2017-11-20 05:04:09 Tweets   : 14.4% at 30/sec for AlphaTec_
+2017-11-20 05:04:16 Tweets   : 100% at 12/sec for AmbervaleHtg
+2017-11-20 05:05:28 Tweets   : 99.9% at 29/sec for ambivent_ltd
+2017-11-20 05:05:39 Tweets   : 100% at 5/sec for AMT_Heating
+2017-11-20 05:06:00 Friends  : 99% at 12/sec for andrews_water
+2017-11-20 05:06:03 Friends  : 100% at 17/sec for AndyBakerPlumb
+2017-11-20 05:06:18 Tweets   : 99.5% at 27/sec for andrews_water
+2017-11-20 05:06:24 Tweets   : 100% at 1/sec for AndyBakerPlumb
+2017-11-20 05:07:02 Tweets   : 98.2% at 25/sec for aparsonshtg
+2017-11-20 05:07:14 Tweets   : 100% at 10/sec for APHCIreland
+2017-11-20 05:07:15 Favorites: 63.9% at 0/sec for andrews_water
+2017-11-20 05:07:15 Favorites: User AndyBakerPlumb has a protected account or no Favoritess to collect so skipping
+2017-11-20 05:07:18 Favorites: 47.9% at 52/sec for aparsonshtg
+2017-11-20 05:07:18 Favorites: 100% at 9/sec for APHCIreland
+2017-11-20 05:07:19 Favorites: 100% at 17/sec for aphplus
+2017-11-20 05:07:21 Tweets   : 100% at 11/sec for aphplus
+2017-11-20 05:07:24 Favorites: 100% at 1/sec for appleplumb
+2017-11-20 05:07:25 Favorites: 98.5% at 50/sec for Apprenticeextra
+2017-11-20 05:07:27 Tweets   : 100% at 4/sec for appleplumb
+2017-11-20 05:07:40 Friends  : 98.9% at 22/sec for aparsonshtg
+2017-11-20 05:07:49 Friends  : 99.5% at 20/sec for APHCIreland
+2017-11-20 05:08:15 Friends  : 99.8% at 21/sec for aphplus
+2017-11-20 05:08:22 Friends  : 100% at 14/sec for appleplumb
+2017-11-20 05:08:31 Tweets   : 99.9% at 26/sec for Apprenticeextra
+2017-11-20 05:08:42 Friends  : 98.3% at 25/sec for Apprenticeextra
+2017-11-20 05:08:51 Favorites: 49.3% at 28/sec for AqualityUK
+2017-11-20 05:08:51 Favorites: User AquatechHS has a protected account or no Favoritess to collect so skipping
+2017-11-20 05:08:53 Favorites: 74.1% at 54/sec for arctic_hayes
+2017-11-20 05:09:10 Favorites: 63.5% at 23/sec for arcticportal
+2017-11-20 05:09:22 Favorites: 61.4% at 32/sec for AristonRy
+2017-11-20 05:09:23 Favorites: 93.5% at 33/sec for ascot_plumbing
+2017-11-20 05:09:23 Favorites: 100% at 23/sec for AshfordHeating
+2017-11-20 05:09:29 Favorites: 98.6% at 12/sec for AskJeffhowell
+2017-11-20 05:10:30 Tweets   : 49.8% at 27/sec for AqualityUK
+2017-11-20 05:10:36 Tweets   : 100% at 1/sec for AquatechHS
+2017-11-20 05:10:55 Friends  : 184% at 24/sec for AqualityUK
+2017-11-20 05:10:56 Tweets   : 100% at 17/sec for arctic_hayes
+2017-11-20 05:11:15 Favorites: Waiting for 10.8 minutes due to : Used up allowance in a loop
+2017-11-20 05:11:55 Friends  : 100% at 32/sec for AquatechHS
+2017-11-20 05:12:11 Friends  : 98.2% at 37/sec for arctic_hayes
+2017-11-20 05:12:43 Friends  : 99% at 30/sec for arcticportal
+2017-11-20 05:12:54 Tweets   : 97.6% at 27/sec for arcticportal
+2017-11-20 05:13:10 Tweets   : 99.4% at 22/sec for AristonRy
+2017-11-20 05:13:22 Tweets   : 84.3% at 7/sec for ascot_plumbing
+2017-11-20 05:13:34 Friends  : 92% at 35/sec for AristonRy
+2017-11-20 05:13:36 Tweets   : 100% at 19/sec for AshfordHeating
+2017-11-20 05:13:57 Tweets   : 100% at 22/sec for AskJeffhowell
+2017-11-20 05:14:29 Friends  : 93.8% at 31/sec for ascot_plumbing
+2017-11-20 05:14:41 Friends  : 100% at 33/sec for AshfordHeating
+2017-11-20 05:14:56 Friends  : 98.2% at 32/sec for AskJeffhowell
+2017-11-20 05:14:57 Friends  : Waiting for 2.8 minutes
+2017-11-20 05:15:56 Tweets   : 50.4% at 27/sec for AstralPlumbing
+2017-11-20 05:16:24 Tweets   : 99.5% at 26/sec for atpmaintenance
+2017-11-20 05:16:42 Tweets   : 100% at 14/sec for awilson_Baxi
+2017-11-20 05:18:01 Tweets   : 100% at 28/sec for AyresHeating
+2017-11-20 05:19:27 Tweets   : 99.8% at 30/sec for BakerandSoars
+2017-11-20 05:19:40 Friends  : 92.5% at 12/sec for AstralPlumbing
+2017-11-20 05:20:33 Friends  : 100% at 33/sec for atpmaintenance
+Error in twInterfaceObj$doAPICall(paste("users", "show", sep = "/"), params = params,  : 
+  Not Found (HTTP 404).
+In addition: Warning message:
+package 'twitteR' was built under R version 3.4.1 
+2017-11-20 05:20:33 Friends: Unable to find account awilson_Baxi moving to next
+2017-11-20 05:20:33 Friends  : % at /sec for awilson_Baxi
+2017-11-20 05:21:19 Friends  : 100% at 29/sec for AyresHeating
+2017-11-20 05:21:20 Tweets   : 72.4% at 28/sec for batemanandson
+2017-11-20 05:21:23 Friends  : 96.6% at 44/sec for BakerandSoars
+2017-11-20 05:21:26 Tweets   : 100% at 9/sec for Bathrooms_BR
+2017-11-20 05:21:35 Friends  : 99% at 33/sec for batemanandson
+2017-11-20 05:21:56 Friends  : 99.1% at 30/sec for Bathrooms_BR
+2017-11-20 05:22:32 Favorites: 39.2% at 4/sec for AstralPlumbing
+2017-11-20 05:22:33 Favorites: 100% at 26/sec for atpmaintenance
+2017-11-20 05:22:34 Tweets   : 100% at 29/sec for BathroomSpares
+2017-11-20 05:22:34 Favorites: 100% at 42/sec for awilson_Baxi
+2017-11-20 05:22:41 Favorites: 80.4% at 26/sec for AyresHeating
+2017-11-20 05:23:14 Tweets   : 99.9% at 26/sec for BaystarEnergy
+2017-11-20 05:23:24 Friends  : 96.8% at 29/sec for BathroomSpares
+2017-11-20 05:24:29 Friends  : 99.6% at 31/sec for BaystarEnergy
+2017-11-20 05:24:39 Favorites: 44% at 27/sec for BakerandSoars
+2017-11-20 05:24:40 Favorites: 96.5% at 52/sec for batemanandson
+2017-11-20 05:24:41 Favorites: 100% at 17/sec for Bathrooms_BR
+2017-11-20 05:24:47 Favorites: 100% at 14/sec for BathroomSpares
+2017-11-20 05:24:57 Favorites: 74.1% at 28/sec for BaystarEnergy
+2017-11-20 05:25:10 Favorites: 53.1% at 30/sec for BBCCovWarks
+2017-11-20 05:25:10 Tweets   : 11% at 27/sec for BBCCovWarks
+2017-11-20 05:25:11 Favorites: 96.6% at 35/sec for BBCWatchdog
+2017-11-20 05:25:12 Favorites: 94.1% at 46/sec for BDSBLTD
+2017-11-20 05:25:12 Favorites: User BecsSanchez has a protected account or no Favoritess to collect so skipping
+2017-11-20 05:25:17 Favorites: 100% at 2/sec for BeggsPartners
+2017-11-20 05:25:17 Favorites: User bellcolin3259 has a protected account or no Favoritess to collect so skipping
+2017-11-20 05:25:17 Favorites: 100% at 22/sec for bentleyplumbing
+2017-11-20 05:25:19 Favorites: 47.8% at 47/sec for Berhams
+2017-11-20 05:25:38 Favorites: 55.3% at 27/sec for BestHeatingUK
+2017-11-20 05:25:49 Favorites: 67.2% at 28/sec for BFGas
+2017-11-20 05:26:02 Friends  : 99.5% at 28/sec for BBCCovWarks
+2017-11-20 05:26:08 Friends  : 99.7% at 44/sec for BBCWatchdog
+2017-11-20 05:27:04 Tweets   : 70.9% at 28/sec for BBCWatchdog
+2017-11-20 05:27:10 Friends  : 98.1% at 29/sec for BDSBLTD
+2017-11-20 05:27:10 Friends  : User BecsSanchez has a protected account or no Friendss to collect so skipping
+2017-11-20 05:27:11 Tweets   : 98.6% at 11/sec for BDSBLTD
+2017-11-20 05:27:11 Tweets   : User BecsSanchez has a protected account or no Tweetss to collect so skipping
+2017-11-20 05:27:20 Friends  : 98.7% at 23/sec for BeggsPartners
+2017-11-20 05:27:30 Friends  : 100% at 24/sec for bellcolin3259
+2017-11-20 05:27:31 Tweets   : 99.7% at 19/sec for BeggsPartners
+2017-11-20 05:27:33 Friends  : 94.1% at 38/sec for bentleyplumbing
+2017-11-20 05:27:37 Tweets   : 100% at 1/sec for bellcolin3259
+2017-11-20 05:27:48 Tweets   : 100% at 16/sec for bentleyplumbing
+2017-11-20 05:28:17 Tweets   : 99.2% at 25/sec for Berhams
+2017-11-20 05:28:34 Friends  : 100% at 30/sec for Berhams
+2017-11-20 05:28:34 Friends  : Waiting for 4.4 minutes
+2017-11-20 05:30:07 Tweets   : 76.5% at 29/sec for BestHeatingUK
+2017-11-20 05:31:59 Tweets   : 65.9% at 29/sec for BFGas
+2017-11-20 05:33:49 Friends  : 99.7% at 5/sec for BestHeatingUK
+2017-11-20 05:34:18 Friends  : 99.1% at 27/sec for BFGas
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+Warning message:
+package 'twitteR' was built under R version 3.4.1 

@@ -1,0 +1,176 @@
+starting worker pid=14660 on localhost:11271 at 14:52:21.326
+starting worker pid=12316 on localhost:11271 at 14:52:21.490
+starting worker pid=11740 on localhost:11271 at 14:52:21.654
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-17 14:54:09 Friends  : 97.2% at 33/sec for ChauvinUK
+2017-11-17 14:54:19 Friends  : 97% at 35/sec for CIDET
+2017-11-17 14:55:07 Favorites: 100% at 52/sec for ChauvinUK
+2017-11-17 14:55:46 Favorites: 52.4% at 30/sec for CIDET
+2017-11-17 14:56:11 Friends  : 99.7% at 39/sec for CllrMehboobKhan
+2017-11-17 14:56:21 Friends  : 99.1% at 34/sec for Cmunicipios1
+[1] "Server error: (500) Internal Server Error"
+[1] "This error is likely transient, retrying up to 5 more times ..."
+2017-11-17 14:56:27 Friends  : 100% at 41/sec for CongresoICLEI
+2017-11-17 14:56:34 Friends  : 99.7% at 45/sec for consult_chris
+2017-11-17 14:56:42 Favorites: 47.3% at 34/sec for CllrMehboobKhan
+2017-11-17 14:56:59 Favorites: 58.1% at 35/sec for Cmunicipios1
+2017-11-17 14:57:03 Favorites: 54.1% at 27/sec for CongresoICLEI
+2017-11-17 14:57:03 Favorites: 90.9% at 21/sec for consult_chris
+2017-11-17 14:57:04 Tweets   : 100% at 25/sec for ChauvinUK
+2017-11-17 14:57:14 Friends  : 92.3% at 40/sec for CrediblyGreen
+2017-11-17 14:57:18 Friends  : 92.4% at 23/sec for DanielBuira
+2017-11-17 14:57:25 Friends  : 97.8% at 37/sec for delfd1
+2017-11-17 14:57:30 Friends  : 97.2% at 28/sec for DES_Initiative
+2017-11-17 14:57:33 Friends  : 95.5% at 41/sec for dgnfsp
+2017-11-17 14:57:35 Favorites: 51.2% at 34/sec for CrediblyGreen
+2017-11-17 14:57:37 Favorites: 100% at 54/sec for DanielBuira
+2017-11-17 14:57:45 Friends  : 99.5% at 36/sec for DuncWilliamson
+2017-11-17 14:57:46 Favorites: 67.1% at 33/sec for delfd1
+2017-11-17 14:57:48 Favorites: 100% at 16/sec for DES_Initiative
+2017-11-17 14:57:48 Favorites: User dgnfsp has a protected account or no Favoritess to collect so skipping
+2017-11-17 14:57:50 Favorites: 61% at 55/sec for DuncWilliamson
+2017-11-17 14:58:13 Tweets   : 30.9% at 46/sec for CIDET
+2017-11-17 14:58:17 Favorites: 49.9% at 34/sec for EalingCouncil
+2017-11-17 14:58:18 Friends  : 98.9% at 36/sec for EalingCouncil
+2017-11-17 14:58:34 Favorites: 53.6% at 29/sec for ecoacsa
+2017-11-17 14:58:39 Favorites: 87.2% at 38/sec for EcoFairUK
+2017-11-17 14:58:42 Favorites: 51% at 28/sec for EGGlighting
+2017-11-17 14:58:43 Favorites: Waiting for 11.4 minutes due to : Used up allowance in a loop
+2017-11-17 14:59:13 Friends  : 98.8% at 44/sec for ecoacsa
+2017-11-17 14:59:13 Friends  : Waiting for 4.1 minutes
+2017-11-17 14:59:24 Tweets   : 29.3% at 45/sec for CllrMehboobKhan
+2017-11-17 15:00:32 Tweets   : 59.1% at 47/sec for Cmunicipios1
+2017-11-17 15:01:39 Tweets   : 98.3% at 48/sec for CongresoICLEI
+2017-11-17 15:01:47 Tweets   : 100% at 9/sec for consult_chris
+2017-11-17 15:02:53 Tweets   : 36.6% at 49/sec for CrediblyGreen
+2017-11-17 15:03:06 Tweets   : 100% at 29/sec for DanielBuira
+2017-11-17 15:03:17 Tweets   : 99.5% at 18/sec for delfd1
+2017-11-17 15:03:28 Tweets   : 100% at 29/sec for DES_Initiative
+2017-11-17 15:03:35 Tweets   : 100% at 8/sec for dgnfsp
+2017-11-17 15:03:59 Friends  : 99.8% at 6/sec for EcoFairUK
+2017-11-17 15:04:24 Friends  : 100% at 43/sec for EGGlighting
+2017-11-17 15:04:48 Tweets   : 18.1% at 44/sec for DuncWilliamson
+2017-11-17 15:05:58 Tweets   : 14.9% at 46/sec for EalingCouncil
+2017-11-17 15:06:00 Friends  : 99.5% at 44/sec for ejfoundation
+2017-11-17 15:06:12 Friends  : 98.9% at 39/sec for Eloise_Burnett
+2017-11-17 15:06:20 Friends  : 99.6% at 33/sec for Emma_b2b
+2017-11-17 15:07:05 Friends  : 98.1% at 42/sec for EnergyExpertUK
+2017-11-17 15:07:14 Tweets   : 35% at 42/sec for ecoacsa
+2017-11-17 15:07:36 Friends  : 97.8% at 39/sec for EnergyFuturesIC
+Error in twInterfaceObj$doAPICall(paste("users", "show", sep = "/"), params = params,  : 
+  Not Found (HTTP 404).
+In addition: Warning message:
+package 'twitteR' was built under R version 3.4.1 
+2017-11-17 15:07:37 Friends: Unable to find account envjournal moving to next
+2017-11-17 15:07:37 Friends  : % at /sec for envjournal
+2017-11-17 15:08:06 Tweets   : 100% at 44/sec for EcoFairUK
+2017-11-17 15:08:30 Tweets   : 100% at 30/sec for EGGlighting
+2017-11-17 15:08:55 Friends  : 99% at 42/sec for Ernst33
+Error in twInterfaceObj$doAPICall(paste("users", "show", sep = "/"), params = params,  : 
+  Not Found (HTTP 404).
+2017-11-17 15:08:56 Friends: Unable to find account ESCSEvent moving to next
+2017-11-17 15:08:56 Friends  : % at /sec for ESCSEvent
+2017-11-17 15:09:10 Friends  : 99% at 37/sec for Eshcon
+2017-11-17 15:09:41 Tweets   : 32.2% at 45/sec for ejfoundation
+2017-11-17 15:09:52 Tweets   : 98% at 22/sec for Eloise_Burnett
+2017-11-17 15:09:58 Friends  : 98.9% at 39/sec for EU_BUILDUP
+2017-11-17 15:10:10 Tweets   : 99.1% at 31/sec for Emma_b2b
+2017-11-17 15:10:20 Favorites: 55.7% at 1/sec for ejfoundation
+2017-11-17 15:10:24 Favorites: 96.7% at 27/sec for Eloise_Burnett
+2017-11-17 15:10:29 Favorites: 54.6% at 40/sec for Emma_b2b
+2017-11-17 15:10:32 Favorites: 90.1% at 32/sec for EnergyExpertUK
+2017-11-17 15:10:37 Favorites: 64.6% at 37/sec for EnergyFuturesIC
+2017-11-17 15:10:40 Tweets   : 98.4% at 40/sec for EnergyExpertUK
+2017-11-17 15:10:40 Favorites: 100% at 26/sec for envjournal
+2017-11-17 15:10:48 Friends  : 98.6% at 36/sec for EuroheatPower
+2017-11-17 15:11:02 Friends  : 99.2% at 36/sec for FEJournal
+2017-11-17 15:11:37 Friends  : 96.7% at 37/sec for FoodMadeGood
+2017-11-17 15:11:51 Tweets   : 86.2% at 45/sec for EnergyFuturesIC
+2017-11-17 15:11:55 Friends  : 94.4% at 32/sec for GardnerDenverUK
+2017-11-17 15:12:11 Favorites: 24.7% at 36/sec for Ernst33
+2017-11-17 15:12:12 Favorites: 97.9% at 45/sec for ESCSEvent
+2017-11-17 15:12:14 Favorites: 100% at 5/sec for Eshcon
+2017-11-17 15:12:17 Tweets   : 100% at 35/sec for envjournal
+2017-11-17 15:12:26 Friends  : 99.5% at 35/sec for GMontemayorM
+2017-11-17 15:12:28 Friends  : Waiting for 5.9 minutes
+2017-11-17 15:12:38 Favorites: 54.6% at 37/sec for EU_BUILDUP
+2017-11-17 15:13:30 Favorites: Waiting for 11.6 minutes due to : Used up allowance in a loop
+2017-11-17 15:13:31 Tweets   : 10.9% at 44/sec for Ernst33
+2017-11-17 15:13:42 Tweets   : 97.6% at 26/sec for ESCSEvent
+2017-11-17 15:14:58 Tweets   : 67.6% at 42/sec for Eshcon
+2017-11-17 15:16:11 Tweets   : 68.4% at 44/sec for EU_BUILDUP
+2017-11-17 15:17:26 Tweets   : 61.3% at 43/sec for EuroheatPower
+2017-11-17 15:18:40 Tweets   : 73.9% at 43/sec for FEJournal
+2017-11-17 15:18:44 Friends  : 100% at 2/sec for goaheadcyclegro
+2017-11-17 15:18:53 Friends  : 98.5% at 38/sec for gplarsen
+2017-11-17 15:19:45 Tweets   : 76.7% at 50/sec for FoodMadeGood
+2017-11-17 15:20:13 Tweets   : 100% at 41/sec for GardnerDenverUK
+2017-11-17 15:20:38 Friends  : 99.2% at 42/sec for gracoramirez
+2017-11-17 15:21:14 Friends  : 97.6% at 41/sec for Greenlite_Group
+2017-11-17 15:21:23 Tweets   : 80.2% at 45/sec for GMontemayorM
+2017-11-17 15:21:45 Tweets   : 99.7% at 37/sec for goaheadcyclegro
+2017-11-17 15:22:13 Tweets   : 100% at 40/sec for gplarsen
+2017-11-17 15:23:24 Tweets   : 7% at 45/sec for gracoramirez
+2017-11-17 15:23:41 Friends  : 99.1% at 42/sec for GreenTourismUK
+2017-11-17 15:23:44 Tweets   : 100% at 32/sec for Greenlite_Group
+2017-11-17 15:24:28 Friends  : 100% at 37/sec for gregoryunruh
+2017-11-17 15:24:31 Friends  : 100% at 46/sec for guyrickard
+2017-11-17 15:24:34 Friends  : 100% at 9/sec for HalsallHeating
+2017-11-17 15:24:57 Friends  : 98.2% at 40/sec for hannon_matthew
+2017-11-17 15:24:59 Tweets   : 32.1% at 43/sec for GreenTourismUK
+2017-11-17 15:25:15 Favorites: 51.3% at 3/sec for EuroheatPower
+2017-11-17 15:25:19 Friends  : 99.2% at 38/sec for hienergyscot
+2017-11-17 15:25:23 Favorites: 69% at 36/sec for FEJournal
+2017-11-17 15:26:01 Favorites: 50% at 35/sec for FoodMadeGood
+2017-11-17 15:26:02 Friends  : 98.9% at 33/sec for HTS_London
+2017-11-17 15:26:03 Friends  : 100% at 21/sec for i24c_eu
+2017-11-17 15:26:07 Favorites: 55.7% at 30/sec for GardnerDenverUK
+2017-11-17 15:26:09 Favorites: 99% at 67/sec for GMontemayorM
+2017-11-17 15:26:11 Favorites: 100% at 18/sec for goaheadcyclegro
+2017-11-17 15:26:17 Tweets   : 95.5% at 41/sec for gregoryunruh
+2017-11-17 15:26:21 Favorites: 52.5% at 43/sec for gplarsen
+2017-11-17 15:26:27 Tweets   : 100% at 13/sec for guyrickard
+2017-11-17 15:26:38 Favorites: 58.2% at 33/sec for gracoramirez
+2017-11-17 15:26:39 Favorites: 100% at 31/sec for Greenlite_Group
+2017-11-17 15:26:50 Tweets   : 100% at 32/sec for HalsallHeating
+2017-11-17 15:27:21 Friends  : 98.7% at 32/sec for ICCMEXICO
+2017-11-17 15:27:35 Friends  : 98.3% at 32/sec for ICLEIMisionTec
+2017-11-17 15:27:35 Friends  : Waiting for 5.9 minutes
+2017-11-17 15:27:37 Favorites: 52% at 34/sec for GreenTourismUK
+2017-11-17 15:27:37 Favorites: 100% at 36/sec for gregoryunruh
+2017-11-17 15:27:38 Favorites: 100% at 13/sec for guyrickard
+2017-11-17 15:27:38 Favorites: User HalsallHeating has a protected account or no Favoritess to collect so skipping
+2017-11-17 15:27:55 Favorites: 56.1% at 36/sec for hannon_matthew
+2017-11-17 15:28:02 Favorites: 51.4% at 40/sec for hienergyscot
+2017-11-17 15:28:10 Tweets   : 95.7% at 40/sec for hannon_matthew
+2017-11-17 15:28:10 Favorites: 53.2% at 38/sec for HTS_London
+2017-11-17 15:28:10 Favorites: 100% at 2/sec for i24c_eu
+2017-11-17 15:28:27 Favorites: 49.7% at 36/sec for ICCMEXICO
+2017-11-17 15:28:29 Favorites: 98% at 58/sec for ICLEIMisionTec
+2017-11-17 15:28:29 Favorites: Waiting for 11.7 minutes due to : Used up allowance in a loop
+2017-11-17 15:28:49 Tweets   : 100% at 38/sec for hienergyscot
+2017-11-17 15:29:17 Tweets   : 100% at 36/sec for HTS_London
+2017-11-17 15:29:23 Tweets   : 100% at 4/sec for i24c_eu
+2017-11-17 15:30:25 Tweets   : 28.7% at 52/sec for ICCMEXICO
+2017-11-17 15:31:27 Tweets   : 99.8% at 50/sec for ICLEIMisionTec
+2017-11-17 15:32:33 Tweets   : 31.7% at 49/sec for IIGCCnews
+2017-11-17 15:32:39 Tweets   : 100% at 0/sec for info_cmia
+2017-11-17 15:33:13 Tweets   : 99.9% at 41/sec for InvestinBath
+2017-11-17 15:34:25 Tweets   : 60.2% at 44/sec for JaideepPrabhu
+2017-11-17 15:34:29 Friends  : 98.9% at 5/sec for IIGCCnews
+2017-11-17 15:34:29 Friends  : User info_cmia has a protected account or no Friendss to collect so skipping
+2017-11-17 15:34:45 Friends  : 97.1% at 41/sec for InvestinBath
+2017-11-17 15:34:47 Tweets   : 100% at 36/sec for JAIP43
+2017-11-17 15:35:57 Friends  : 99.6% at 45/sec for JaideepPrabhu
+2017-11-17 15:35:59 Friends  : 100% at 37/sec for JAIP43
+2017-11-17 15:40:48 Favorites: 52.6% at 2/sec for IIGCCnews
+2017-11-17 15:40:48 Favorites: User info_cmia has a protected account or no Favoritess to collect so skipping
+2017-11-17 15:40:51 Favorites: 82.6% at 34/sec for InvestinBath
+2017-11-17 15:41:22 Favorites: 49.7% at 41/sec for JaideepPrabhu
+2017-11-17 15:41:23 Favorites: 92.3% at 25/sec for JAIP43
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+Warning message:
+package 'twitteR' was built under R version 3.4.1 

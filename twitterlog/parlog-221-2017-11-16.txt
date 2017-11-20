@@ -1,0 +1,176 @@
+starting worker pid=11740 on localhost:11271 at 16:15:52.610
+starting worker pid=12136 on localhost:11271 at 16:15:52.845
+starting worker pid=12784 on localhost:11271 at 16:15:53.043
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-16 16:20:26 Friends  : 99.4% at 28/sec for artukdotorg
+2017-11-16 16:20:29 Friends  : 100% at 15/sec for ASCSM_
+2017-11-16 16:20:55 Favorites: 46.8% at 28/sec for artukdotorg
+2017-11-16 16:20:56 Favorites: 100% at 26/sec for ASCSM_
+2017-11-16 16:21:02 Favorites: 66.3% at 33/sec for AudreyIsWright
+2017-11-16 16:21:26 Favorites: 51.2% at 29/sec for AustinSmithLord
+2017-11-16 16:21:32 Favorites: 55.3% at 34/sec for AWWinspired
+2017-11-16 16:21:37 Friends  : 99.8% at 26/sec for AudreyIsWright
+2017-11-16 16:21:59 Friends  : 98.7% at 24/sec for AustinSmithLord
+2017-11-16 16:21:59 Favorites: 55.7% at 29/sec for Baca_Architects
+2017-11-16 16:22:15 Favorites: 58.5% at 31/sec for bamfordarchi
+2017-11-16 16:22:23 Favorites: 68.9% at 24/sec for BARArchitects
+2017-11-16 16:22:24 Tweets   : 25.1% at 31/sec for artukdotorg
+2017-11-16 16:22:34 Friends  : 99.3% at 24/sec for AWWinspired
+2017-11-16 16:22:34 Tweets   : 100% at 3/sec for ASCSM_
+2017-11-16 16:22:44 Favorites: Waiting for 4.7 minutes due to : Used up allowance in a loop
+2017-11-16 16:23:37 Friends  : 100% at 32/sec for Baca_Architects
+2017-11-16 16:24:04 Friends  : 99.6% at 28/sec for bamfordarchi
+2017-11-16 16:24:13 Tweets   : 10.6% at 32/sec for AudreyIsWright
+2017-11-16 16:24:40 Friends  : 99.8% at 30/sec for BARArchitects
+2017-11-16 16:25:35 Friends  : 99.9% at 30/sec for BarbicanCentre
+2017-11-16 16:25:41 Tweets   : 99.8% at 29/sec for AustinSmithLord
+2017-11-16 16:26:07 Friends  : 99.8% at 29/sec for BartlettArchUCL
+2017-11-16 16:26:15 Tweets   : 100% at 29/sec for AWWinspired
+2017-11-16 16:26:27 Friends  : 97.1% at 28/sec for basearchi
+2017-11-16 16:26:33 Friends  : 98.7% at 28/sec for BBC
+2017-11-16 16:27:04 Friends  : 100% at 25/sec for BBC_MG
+2017-11-16 16:27:21 Tweets   : 99.7% at 31/sec for Baca_Architects
+2017-11-16 16:27:42 Friends  : 99.6% at 26/sec for BBCHughPym
+2017-11-16 16:27:43 Friends  : Waiting for 4.8 minutes
+2017-11-16 16:27:44 Tweets   : 99.8% at 25/sec for bamfordarchi
+2017-11-16 16:28:14 Tweets   : 99.9% at 27/sec for BARArchitects
+2017-11-16 16:28:39 Favorites: 34.2% at 8/sec for BarbicanCentre
+2017-11-16 16:28:59 Favorites: 55.4% at 31/sec for BartlettArchUCL
+2017-11-16 16:29:06 Favorites: 71.4% at 13/sec for basearchi
+2017-11-16 16:29:57 Tweets   : 13.7% at 31/sec for BarbicanCentre
+2017-11-16 16:29:59 Favorites: 47.9% at 32/sec for BBC
+2017-11-16 16:30:00 Favorites: 100% at 14/sec for BBC_MG
+2017-11-16 16:30:02 Favorites: 60% at 46/sec for BBCHughPym
+2017-11-16 16:30:09 Favorites: 65.9% at 27/sec for bbcsoutheast
+2017-11-16 16:31:01 Favorites: 51.2% at 32/sec for BBCSussex
+2017-11-16 16:31:11 Favorites: Waiting for 11.2 minutes due to : Used up allowance in a loop
+2017-11-16 16:31:46 Tweets   : 70.4% at 29/sec for BartlettArchUCL
+2017-11-16 16:32:01 Tweets   : 100% at 17/sec for basearchi
+2017-11-16 16:32:46 Friends  : 99.6% at 2/sec for bbcsoutheast
+2017-11-16 16:33:09 Friends  : 98.9% at 34/sec for BBCSussex
+2017-11-16 16:33:24 Tweets   : 16.4% at 38/sec for BBC
+2017-11-16 16:33:56 Tweets   : 99.7% at 37/sec for BBC_MG
+2017-11-16 16:35:07 Tweets   : 38.5% at 45/sec for BBCHughPym
+2017-11-16 16:36:09 Friends  : 99.9% at 35/sec for BBCWomansHour
+2017-11-16 16:36:24 Friends  : 98.9% at 38/sec for BEAToronto
+2017-11-16 16:36:30 Tweets   : 6.4% at 38/sec for bbcsoutheast
+2017-11-16 16:36:36 Friends  : 99.8% at 42/sec for BelfordComms
+2017-11-16 16:37:14 Friends  : 98.7% at 41/sec for BenAdamsBAA
+2017-11-16 16:37:23 Friends  : 98.7% at 39/sec for BethanKnights13
+2017-11-16 16:37:37 Friends  : 96.9% at 39/sec for BGYArchitects
+2017-11-16 16:37:47 Friends  : 100% at 39/sec for BHarchitects
+2017-11-16 16:37:55 Tweets   : 5.9% at 37/sec for BBCSussex
+2017-11-16 16:38:36 Friends  : 99.5% at 41/sec for Biennial
+2017-11-16 16:38:39 Friends  : 97.5% at 14/sec for BIGstertweets
+2017-11-16 16:39:29 Tweets   : 22.3% at 34/sec for BBCWomansHour
+2017-11-16 16:39:41 Friends  : 99.3% at 39/sec for BioStew
+2017-11-16 16:39:46 Friends  : 97.8% at 35/sec for boon_brown
+2017-11-16 16:39:49 Tweets   : 99.8% at 25/sec for BEAToronto
+2017-11-16 16:40:30 Tweets   : 99.9% at 34/sec for BelfordComms
+2017-11-16 16:40:49 Tweets   : 100% at 33/sec for BenAdamsBAA
+2017-11-16 16:40:52 Friends  : 99.8% at 39/sec for BradyMallalieu
+2017-11-16 16:40:52 Friends  : Waiting for 6.7 minutes
+2017-11-16 16:41:05 Tweets   : 100% at 21/sec for BethanKnights13
+2017-11-16 16:41:59 Tweets   : 99.9% at 37/sec for BGYArchitects
+2017-11-16 16:42:31 Tweets   : 99.7% at 32/sec for BHarchitects
+2017-11-16 16:43:40 Favorites: 49.1% at 4/sec for BBCWomansHour
+2017-11-16 16:43:52 Favorites: 58.8% at 41/sec for BEAToronto
+2017-11-16 16:43:56 Favorites: 76.9% at 30/sec for BelfordComms
+2017-11-16 16:43:59 Favorites: 56.2% at 32/sec for BenAdamsBAA
+2017-11-16 16:43:59 Tweets   : 25.4% at 36/sec for Biennial
+2017-11-16 16:44:03 Favorites: 64.3% at 42/sec for BethanKnights13
+2017-11-16 16:44:08 Favorites: 51.9% at 46/sec for BGYArchitects
+2017-11-16 16:44:11 Favorites: 55.9% at 35/sec for BHarchitects
+2017-11-16 16:44:34 Tweets   : 100% at 31/sec for BIGstertweets
+2017-11-16 16:45:02 Favorites: 50.9% at 40/sec for Biennial
+2017-11-16 16:45:35 Favorites: 50.6% at 36/sec for BIGstertweets
+2017-11-16 16:45:38 Favorites: Waiting for 11.8 minutes due to : Used up allowance in a loop
+2017-11-16 16:46:01 Tweets   : 36.1% at 37/sec for BioStew
+2017-11-16 16:46:10 Tweets   : 100% at 11/sec for boon_brown
+2017-11-16 16:46:36 Tweets   : 99.9% at 29/sec for BradyMallalieu
+2017-11-16 16:47:48 Tweets   : 99.9% at 44/sec for BrendanCormier
+2017-11-16 16:47:56 Friends  : 99.6% at 2/sec for BrendanCormier
+2017-11-16 16:49:04 Tweets   : 40.8% at 42/sec for brendanredmond
+2017-11-16 16:49:04 Friends  : 98.9% at 39/sec for brendanredmond
+2017-11-16 16:50:25 Tweets   : 19.5% at 39/sec for BridgetFox
+2017-11-16 16:50:59 Friends  : 99.3% at 37/sec for BridgetFox
+2017-11-16 16:51:12 Friends  : 100% at 43/sec for BritishArts
+2017-11-16 16:51:17 Friends  : 97.4% at 52/sec for BroadsNP
+2017-11-16 16:51:50 Tweets   : 30.2% at 38/sec for BritishArts
+2017-11-16 16:51:50 Friends  : 99.7% at 46/sec for BrockCarmichael
+2017-11-16 16:52:15 Friends  : 98.6% at 45/sec for Bruntwood_UK
+2017-11-16 16:52:31 Friends  : 92.8% at 42/sec for BSBAArchitects
+2017-11-16 16:52:38 Friends  : 97.2% at 45/sec for BSMGP
+2017-11-16 16:52:58 Friends  : 98.7% at 45/sec for BuildUpFdn
+2017-11-16 16:53:02 Friends  : 99.2% at 30/sec for bustlernet
+2017-11-16 16:53:11 Tweets   : 78.7% at 39/sec for BroadsNP
+2017-11-16 16:53:16 Friends  : 98.1% at 46/sec for BVDSarchitects
+2017-11-16 16:53:20 Friends  : 100% at 31/sec for C7A
+2017-11-16 16:53:25 Friends  : 97.9% at 38/sec for cal_really
+2017-11-16 16:53:32 Tweets   : 99.5% at 34/sec for BrockCarmichael
+2017-11-16 16:53:38 Friends  : 99.5% at 44/sec for CAN_Critical
+2017-11-16 16:53:38 Friends  : Waiting for 9 minutes
+2017-11-16 16:54:44 Tweets   : 75.9% at 44/sec for Bruntwood_UK
+2017-11-16 16:54:58 Tweets   : 99.7% at 26/sec for BSBAArchitects
+2017-11-16 16:56:16 Tweets   : 100% at 39/sec for BSMGP
+2017-11-16 16:56:29 Tweets   : 100% at 24/sec for BuildUpFdn
+2017-11-16 16:57:55 Tweets   : 59.7% at 37/sec for bustlernet
+2017-11-16 16:58:12 Tweets   : 100% at 15/sec for BVDSarchitects
+2017-11-16 16:58:33 Tweets   : 100% at 35/sec for C7A
+2017-11-16 16:58:36 Favorites: 49.7% at 4/sec for BioStew
+2017-11-16 16:58:37 Favorites: 100% at 49/sec for boon_brown
+2017-11-16 16:58:46 Tweets   : 100% at 24/sec for cal_really
+2017-11-16 16:58:47 Favorites: 63.3% at 42/sec for BradyMallalieu
+2017-11-16 16:59:02 Tweets   : 100% at 29/sec for CAN_Critical
+2017-11-16 16:59:18 Tweets   : 99.6% at 33/sec for Cassidy_Ashton
+2017-11-16 16:59:42 Favorites: 50.8% at 43/sec for BrendanCormier
+2017-11-16 17:00:25 Favorites: Waiting for 12 minutes due to : Used up allowance in a loop
+2017-11-16 17:00:31 Tweets   : 6.6% at 44/sec for ccferrie
+2017-11-16 17:01:46 Tweets   : 15.5% at 42/sec for cgoodhart89
+2017-11-16 17:02:46 Friends  : 98.4% at 1/sec for Cassidy_Ashton
+2017-11-16 17:03:03 Tweets   : 7.7% at 42/sec for Channel4
+2017-11-16 17:03:31 Friends  : 98% at 44/sec for ccferrie
+Error in twInterfaceObj$doAPICall(paste("users", "show", sep = "/"), params = params,  : 
+  Not Found (HTTP 404).
+In addition: Warning message:
+package 'twitteR' was built under R version 3.4.1 
+2017-11-16 17:03:31 Friends: Unable to find account cgoodhart89 moving to next
+2017-11-16 17:03:31 Friends  : % at /sec for cgoodhart89
+2017-11-16 17:03:34 Tweets   : 100% at 33/sec for ChaplinFarrant
+2017-11-16 17:04:52 Tweets   : 17.8% at 41/sec for charlesjholland
+2017-11-16 17:06:05 Tweets   : 11.8% at 44/sec for chiarchitecture
+2017-11-16 17:07:17 Friends  : 99.8% at 40/sec for Channel4
+2017-11-16 17:07:28 Friends  : 98% at 36/sec for ChaplinFarrant
+2017-11-16 17:08:32 Friends  : 98.4% at 36/sec for charlesjholland
+2017-11-16 17:09:29 Friends  : 99.8% at 45/sec for chiarchitecture
+2017-11-16 17:13:01 Favorites: 24% at 4/sec for brendanredmond
+2017-11-16 17:13:23 Favorites: 49.6% at 44/sec for BridgetFox
+2017-11-16 17:14:00 Favorites: 50.5% at 41/sec for BritishArts
+2017-11-16 17:14:16 Favorites: 55.4% at 43/sec for BroadsNP
+2017-11-16 17:14:18 Favorites: 57.5% at 65/sec for BrockCarmichael
+2017-11-16 17:14:40 Favorites: 49.6% at 39/sec for Bruntwood_UK
+2017-11-16 17:14:52 Favorites: 60.6% at 41/sec for BSBAArchitects
+2017-11-16 17:15:21 Favorites: Waiting for 12.1 minutes due to : Used up allowance in a loop
+2017-11-16 17:27:26 Favorites: 21.2% at 2/sec for BSMGP
+2017-11-16 17:27:28 Favorites: 100% at 30/sec for BuildUpFdn
+2017-11-16 17:27:42 Favorites: 52.5% at 43/sec for bustlernet
+2017-11-16 17:27:46 Favorites: 80.2% at 48/sec for BVDSarchitects
+2017-11-16 17:27:50 Favorites: 34.8% at 30/sec for C7A
+2017-11-16 17:27:55 Favorites: 80.5% at 36/sec for cal_really
+2017-11-16 17:27:57 Favorites: 87% at 71/sec for CAN_Critical
+2017-11-16 17:27:59 Favorites: 58.1% at 38/sec for Cassidy_Ashton
+2017-11-16 17:29:17 Favorites: 32.8% at 40/sec for ccferrie
+2017-11-16 17:30:21 Favorites: Waiting for 12.1 minutes due to : Used up allowance in a loop
+2017-11-16 17:42:40 Favorites: 9.2% at 4/sec for cgoodhart89
+2017-11-16 17:43:34 Favorites: 50.3% at 43/sec for Channel4
+2017-11-16 17:43:39 Favorites: 52.1% at 19/sec for ChaplinFarrant
+2017-11-16 17:44:18 Favorites: 49.9% at 43/sec for charlesjholland
+2017-11-16 17:44:44 Favorites: 7.3% at 42/sec for chiarchitecture
+Warning messages:
+1: package 'twitteR' was built under R version 3.4.1 
+2: In twInterfaceObj$doAPICall(cmd, params, method, ...) :
+  Rate limit encountered & retry limit reached - returning partial results
+Warning message:
+package 'twitteR' was built under R version 3.4.1 

@@ -1,0 +1,174 @@
+starting worker pid=6368 on localhost:11271 at 22:48:04.382
+starting worker pid=7928 on localhost:11271 at 22:48:04.602
+starting worker pid=10524 on localhost:11271 at 22:48:04.826
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-14 22:48:48 Favorites: 62.5% at 20/sec for ChrisB_BuildIt
+2017-11-14 22:48:48 Favorites: 100% at 8/sec for ChukaUmunna
+2017-11-14 22:48:49 Friends  : 99.2% at 29/sec for ChrisB_BuildIt
+2017-11-14 22:48:51 Favorites: 70.4% at 34/sec for CIPR_PA
+2017-11-14 22:48:53 Favorites: 97.6% at 34/sec for ConorBurnsUK
+2017-11-14 22:49:20 Tweets   : 99.7% at 21/sec for ChrisB_BuildIt
+2017-11-14 22:49:52 Friends  : 98.6% at 32/sec for ChukaUmunna
+2017-11-14 22:50:24 Friends  : 99.2% at 32/sec for CIPR_PA
+2017-11-14 22:50:38 Favorites: 29.9% at 30/sec for constructionERC
+2017-11-14 22:50:40 Favorites: 100% at 29/sec for Curveball_Sol
+2017-11-14 22:50:43 Favorites: 49.2% at 33/sec for cwcm_20
+2017-11-14 22:50:47 Friends  : 99.7% at 31/sec for ConorBurnsUK
+2017-11-14 22:50:53 Tweets   : 12.2% at 34/sec for ChukaUmunna
+2017-11-14 22:51:02 Favorites: 50.2% at 32/sec for DevonCC
+2017-11-14 22:51:11 Favorites: 68.4% at 33/sec for ellieluk
+2017-11-14 22:51:12 Favorites: 100% at 8/sec for GPBuildDesign
+2017-11-14 22:51:21 Tweets   : 99.7% at 27/sec for CIPR_PA
+2017-11-14 22:51:35 Favorites: 57% at 31/sec for grssignscouk
+2017-11-14 22:51:35 Favorites: Waiting for 9.8 minutes due to : Used up allowance in a loop
+2017-11-14 22:51:39 Friends  : 96.3% at 30/sec for constructionERC
+2017-11-14 22:52:24 Friends  : 99.9% at 35/sec for Curveball_Sol
+2017-11-14 22:52:45 Tweets   : 60.4% at 38/sec for ConorBurnsUK
+2017-11-14 22:52:49 Friends  : 99.8% at 37/sec for cwcm_20
+2017-11-14 22:53:07 Friends  : 97.2% at 36/sec for DevonCC
+2017-11-14 22:53:22 Friends  : 99.4% at 32/sec for ellieluk
+Error in twInterfaceObj$doAPICall(paste("users", "show", sep = "/"), params = params,  : 
+  Not Found (HTTP 404).
+In addition: Warning message:
+package 'twitteR' was built under R version 3.4.1 
+2017-11-14 22:53:22 Friends: Unable to find account GPBuildDesign moving to next
+2017-11-14 22:53:22 Friends  : % at /sec for GPBuildDesign
+2017-11-14 22:54:09 Tweets   : 22.7% at 38/sec for constructionERC
+2017-11-14 22:54:21 Friends  : 95.1% at 33/sec for grssignscouk
+2017-11-14 22:54:33 Friends  : 97.5% at 33/sec for GypsolScreed
+2017-11-14 22:54:48 Friends  : 98.1% at 34/sec for HartleyandParry
+2017-11-14 22:55:16 Friends  : 99.7% at 34/sec for hd_build
+2017-11-14 22:55:23 Tweets   : 99.9% at 38/sec for Curveball_Sol
+2017-11-14 22:55:49 Tweets   : 100% at 31/sec for cwcm_20
+2017-11-14 22:55:57 Friends  : 99.3% at 33/sec for healthandsafety
+2017-11-14 22:56:05 Friends  : 98.1% at 27/sec for Hitchcock_King
+2017-11-14 22:56:34 Friends  : 100% at 37/sec for HomeOwnersAll
+2017-11-14 22:57:20 Tweets   : 17% at 35/sec for DevonCC
+2017-11-14 22:57:42 Tweets   : 100% at 30/sec for ellieluk
+2017-11-14 22:57:45 Friends  : 99.6% at 35/sec for IamPaulMee
+2017-11-14 22:57:50 Tweets   : 100% at 5/sec for GPBuildDesign
+2017-11-14 22:58:22 Tweets   : 99.8% at 32/sec for grssignscouk
+2017-11-14 22:58:32 Friends  : 99.6% at 31/sec for itvnews
+2017-11-14 22:58:36 Tweets   : 98.5% at 20/sec for GypsolScreed
+2017-11-14 22:58:47 Friends  : 97.8% at 36/sec for JefferiesPR
+2017-11-14 22:59:10 Tweets   : 99.9% at 33/sec for HartleyandParry
+2017-11-14 22:59:19 Tweets   : 100% at 8/sec for hd_build
+2017-11-14 22:59:49 Friends  : 100% at 33/sec for jenroseprojects
+2017-11-14 23:00:45 Tweets   : 56.8% at 37/sec for healthandsafety
+2017-11-14 23:00:59 Tweets   : 100% at 19/sec for Hitchcock_King
+2017-11-14 23:01:28 Favorites: 100% at 0/sec for GypsolScreed
+2017-11-14 23:01:31 Friends  : 99.1% at 32/sec for JeyyLowe
+2017-11-14 23:01:31 Friends  : Waiting for 6 minutes
+2017-11-14 23:02:01 Favorites: 52% at 31/sec for HartleyandParry
+2017-11-14 23:02:02 Favorites: 100% at 24/sec for hd_build
+2017-11-14 23:02:08 Favorites: 84.5% at 31/sec for healthandsafety
+2017-11-14 23:02:11 Favorites: 68% at 38/sec for Hitchcock_King
+2017-11-14 23:02:30 Favorites: 50.6% at 32/sec for HomeOwnersAll
+2017-11-14 23:02:32 Tweets   : 34.4% at 34/sec for HomeOwnersAll
+2017-11-14 23:02:38 Favorites: 65.6% at 34/sec for IamPaulMee
+2017-11-14 23:02:46 Favorites: 62.1% at 35/sec for itvnews
+2017-11-14 23:02:49 Favorites: 100% at 27/sec for JefferiesPR
+2017-11-14 23:02:49 Favorites: 100% at 3/sec for jenroseprojects
+2017-11-14 23:03:18 Tweets   : 99.6% at 37/sec for IamPaulMee
+2017-11-14 23:04:20 Favorites: 32.6% at 32/sec for JeyyLowe
+2017-11-14 23:04:26 Favorites: 71.6% at 36/sec for Kate_HollernMP
+2017-11-14 23:04:47 Tweets   : 1.8% at 36/sec for itvnews
+2017-11-14 23:04:58 Favorites: Waiting for 11.5 minutes due to : Used up allowance in a loop
+2017-11-14 23:06:01 Tweets   : 80.8% at 43/sec for JefferiesPR
+2017-11-14 23:06:13 Tweets   : 100% at 19/sec for jenroseprojects
+2017-11-14 23:07:33 Tweets   : 8.4% at 40/sec for JeyyLowe
+2017-11-14 23:08:27 Friends  : 99.2% at 4/sec for Kate_HollernMP
+2017-11-14 23:09:07 Tweets   : 89.1% at 34/sec for Kate_HollernMP
+2017-11-14 23:09:09 Friends  : 98.5% at 34/sec for lamabuild
+2017-11-14 23:09:54 Friends  : 99.9% at 33/sec for LBC
+2017-11-14 23:10:36 Friends  : 99.7% at 30/sec for Lime_Showrooms
+2017-11-14 23:10:39 Tweets   : 50.5% at 35/sec for lamabuild
+2017-11-14 23:11:35 Friends  : 99.8% at 34/sec for Lindsays_home
+2017-11-14 23:11:43 Friends  : 98.1% at 31/sec for LukaszKisiel
+2017-11-14 23:11:44 Friends  : 100% at 12/sec for LWatermanOBE
+2017-11-14 23:11:47 Friends  : 97.4% at 25/sec for Mediation4C
+2017-11-14 23:11:59 Tweets   : 2.7% at 40/sec for LBC
+2017-11-14 23:12:13 Friends  : 99.2% at 34/sec for MikeGapes
+2017-11-14 23:12:32 Tweets   : 97.8% at 30/sec for Lime_Showrooms
+2017-11-14 23:12:41 Friends  : 99.8% at 31/sec for MirrorPolitics
+2017-11-14 23:12:47 Friends  : 99.5% at 30/sec for myprojectone
+2017-11-14 23:12:54 Friends  : 100% at 27/sec for nacsba
+2017-11-14 23:13:01 Friends  : 98.5% at 28/sec for neilson_rob
+2017-11-14 23:13:12 Friends  : 99.6% at 24/sec for NickBraap
+2017-11-14 23:13:23 Friends  : 99% at 29/sec for nomadicrevery
+2017-11-14 23:13:23 Friends  : Waiting for 9.2 minutes
+2017-11-14 23:13:47 Tweets   : 99.9% at 38/sec for Lindsays_home
+2017-11-14 23:13:58 Tweets   : 99.5% at 18/sec for LukaszKisiel
+2017-11-14 23:14:05 Tweets   : 100% at 3/sec for LWatermanOBE
+2017-11-14 23:14:14 Tweets   : 100% at 4/sec for Mediation4C
+2017-11-14 23:15:46 Tweets   : 5.1% at 35/sec for MikeGapes
+2017-11-14 23:16:42 Favorites: 49.3% at 2/sec for lamabuild
+2017-11-14 23:16:49 Favorites: 65.9% at 32/sec for LBC
+2017-11-14 23:16:57 Favorites: 46.4% at 31/sec for Lime_Showrooms
+2017-11-14 23:17:09 Favorites: 51.6% at 33/sec for Lindsays_home
+2017-11-14 23:17:11 Favorites: 100% at 27/sec for LukaszKisiel
+2017-11-14 23:17:12 Favorites: 100% at 7/sec for LWatermanOBE
+2017-11-14 23:17:12 Tweets   : 6.3% at 37/sec for MirrorPolitics
+2017-11-14 23:17:13 Favorites: 100% at 9/sec for Mediation4C
+2017-11-14 23:17:51 Tweets   : 99.7% at 30/sec for myprojectone
+2017-11-14 23:18:20 Tweets   : 100% at 35/sec for nacsba
+2017-11-14 23:18:47 Tweets   : 99.9% at 32/sec for neilson_rob
+2017-11-14 23:18:51 Favorites: 35.4% at 32/sec for MikeGapes
+2017-11-14 23:18:54 Favorites: 71.2% at 33/sec for MirrorPolitics
+2017-11-14 23:18:57 Favorites: 75.6% at 34/sec for myprojectone
+2017-11-14 23:19:00 Favorites: 81.8% at 34/sec for nacsba
+2017-11-14 23:19:34 Favorites: 51.7% at 32/sec for neilson_rob
+2017-11-14 23:19:34 Tweets   : 98.6% at 39/sec for NickBraap
+2017-11-14 23:19:40 Favorites: 86.1% at 33/sec for NickBraap
+2017-11-14 23:19:52 Favorites: 53% at 33/sec for nomadicrevery
+2017-11-14 23:19:54 Favorites: 100% at 28/sec for Peston
+2017-11-14 23:20:07 Favorites: Waiting for 11.3 minutes due to : Used up allowance in a loop
+2017-11-14 23:20:56 Tweets   : 39.5% at 39/sec for nomadicrevery
+2017-11-14 23:22:27 Tweets   : 18% at 35/sec for Peston
+2017-11-14 23:23:06 Friends  : 99.6% at 2/sec for Peston
+2017-11-14 23:23:55 Tweets   : 3.7% at 36/sec for PimlicoPlumbers
+2017-11-14 23:24:05 Friends  : 99% at 33/sec for PimlicoPlumbers
+2017-11-14 23:24:14 Tweets   : 100% at 24/sec for PlanningGuide
+2017-11-14 23:24:32 Friends  : 99.2% at 31/sec for PlanningGuide
+2017-11-14 23:25:02 Friends  : 98.7% at 29/sec for PropertyWeek
+2017-11-14 23:25:17 Friends  : 99.1% at 35/sec for Redzekey
+2017-11-14 23:25:26 Friends  : 97.6% at 32/sec for RichardHyslop
+2017-11-14 23:25:33 Friends  : 95.8% at 33/sec for RMRHomes
+2017-11-14 23:25:45 Tweets   : 17.5% at 35/sec for PropertyWeek
+2017-11-14 23:25:59 Friends  : 98.4% at 33/sec for RRDrylining
+2017-11-14 23:26:19 Friends  : 99.4% at 31/sec for RyedaleP
+2017-11-14 23:26:38 Tweets   : 98.9% at 29/sec for Redzekey
+2017-11-14 23:26:41 Friends  : 99.2% at 33/sec for SamuelHorti
+2017-11-14 23:27:20 Friends  : 99.1% at 30/sec for SarahEHBurr
+2017-11-14 23:28:02 Tweets   : 51.2% at 38/sec for RichardHyslop
+2017-11-14 23:28:18 Tweets   : 100% at 21/sec for RMRHomes
+2017-11-14 23:28:54 Tweets   : 99.4% at 31/sec for RRDrylining
+2017-11-14 23:28:59 Friends  : 95.8% at 32/sec for Saturnled1
+2017-11-14 23:29:15 Friends  : 99.1% at 27/sec for SkubalaLtd
+2017-11-14 23:29:20 Tweets   : 99.6% at 26/sec for RyedaleP
+2017-11-14 23:30:41 Tweets   : 20.8% at 40/sec for SamuelHorti
+2017-11-14 23:31:28 Favorites: 7.8% at 1/sec for PimlicoPlumbers
+2017-11-14 23:31:28 Favorites: Waiting for 0 minutes due to : Used up allowance in a loop
+2017-11-14 23:31:30 Favorites: 100% at 13/sec for PlanningGuide
+2017-11-14 23:31:48 Favorites: 52.8% at 33/sec for PropertyWeek
+2017-11-14 23:32:03 Favorites: 50.2% at 33/sec for Redzekey
+2017-11-14 23:32:14 Tweets   : 15.4% at 34/sec for SarahEHBurr
+2017-11-14 23:32:21 Favorites: 53.5% at 33/sec for RichardHyslop
+2017-11-14 23:32:25 Favorites: 58.8% at 30/sec for RMRHomes
+2017-11-14 23:32:28 Favorites: 60.6% at 35/sec for RRDrylining
+2017-11-14 23:32:36 Favorites: 49.2% at 34/sec for RyedaleP
+2017-11-14 23:33:03 Tweets   : 99.9% at 32/sec for Saturnled1
+2017-11-14 23:33:18 Tweets   : 98.9% at 18/sec for SkubalaLtd
+2017-11-14 23:33:46 Favorites: 50.1% at 31/sec for SamuelHorti
+2017-11-14 23:35:12 Favorites: Waiting for 11.3 minutes due to : Used up allowance in a loop
+2017-11-14 23:46:37 Favorites: 8.6% at 4/sec for SarahEHBurr
+2017-11-14 23:46:59 Favorites: 54.1% at 31/sec for Saturnled1
+2017-11-14 23:47:00 Favorites: 85.7% at 25/sec for SkubalaLtd
+Warning messages:
+1: package 'twitteR' was built under R version 3.4.1 
+2: In twInterfaceObj$doAPICall(cmd, params, method, ...) :
+  Rate limit encountered & retry limit reached - returning partial results
+Warning message:
+package 'twitteR' was built under R version 3.4.1 

@@ -1,0 +1,185 @@
+starting worker pid=13652 on localhost:11271 at 17:32:33.305
+starting worker pid=6676 on localhost:11271 at 17:32:33.532
+starting worker pid=15008 on localhost:11271 at 17:32:33.760
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-15 17:34:49 Favorites: 52.7% at 26/sec for paulbradshaw
+2017-11-15 17:34:53 Favorites: 79.8% at 23/sec for paulgcollier
+2017-11-15 17:35:26 Favorites: 54.6% at 27/sec for PaulLewis
+2017-11-15 17:35:36 Favorites: 63% at 28/sec for PaulMcGarryUK
+2017-11-15 17:36:47 Tweets   : 6.7% at 33/sec for paulbradshaw
+2017-11-15 17:37:11 Tweets   : 99.2% at 24/sec for paulgcollier
+2017-11-15 17:37:36 Favorites: 13.4% at 26/sec for PaulTreacyLFC
+2017-11-15 17:38:21 Favorites: Waiting for 6.9 minutes due to : Used up allowance in a loop
+2017-11-15 17:38:46 Tweets   : 22% at 34/sec for PaulLewis
+2017-11-15 17:39:11 Friends  : 99.7% at 31/sec for paulbradshaw
+2017-11-15 17:39:31 Friends  : 100% at 31/sec for paulgcollier
+2017-11-15 17:40:11 Friends  : 99.8% at 33/sec for PaulLewis
+2017-11-15 17:40:13 Tweets   : 44.3% at 37/sec for PaulMcGarryUK
+2017-11-15 17:41:49 Tweets   : 21% at 33/sec for PaulTreacyLFC
+2017-11-15 17:42:04 Friends  : 99.9% at 29/sec for PaulMcGarryUK
+2017-11-15 17:42:52 Tweets   : 99.8% at 30/sec for PaulTwocock
+2017-11-15 17:43:17 Tweets   : 99.5% at 25/sec for Penny_Foster1
+2017-11-15 17:43:20 Friends  : 98.2% at 30/sec for PaulTreacyLFC
+2017-11-15 17:44:06 Friends  : 99% at 35/sec for PaulTwocock
+2017-11-15 17:44:15 Friends  : 99.6% at 31/sec for Penny_Foster1
+2017-11-15 17:44:48 Tweets   : 13.7% at 35/sec for PeopleMgt
+2017-11-15 17:45:23 Favorites: 51.5% at 3/sec for PaulTwocock
+2017-11-15 17:45:27 Favorites: 86.1% at 29/sec for Penny_Foster1
+2017-11-15 17:45:46 Friends  : 99.9% at 34/sec for PeopleMgt
+2017-11-15 17:46:27 Tweets   : 15.7% at 32/sec for Peter_M_Sharp
+[1] "Server error: (500) Internal Server Error"
+[1] "This error is likely transient, retrying up to 5 more times ..."
+2017-11-15 17:46:46 Friends  : 99.6% at 32/sec for Peter_M_Sharp
+2017-11-15 17:46:51 Tweets   : 99.8% at 24/sec for PinsBrown
+2017-11-15 17:46:53 Favorites: 49.6% at 26/sec for PeopleMgt
+2017-11-15 17:47:08 Friends  : 98.7% at 31/sec for PinsBrown
+2017-11-15 17:47:08 Friends  : Waiting for 1.4 minutes
+2017-11-15 17:47:38 Favorites: 49.5% at 28/sec for Peter_M_Sharp
+2017-11-15 17:47:43 Favorites: 71.4% at 23/sec for PinsBrown
+2017-11-15 17:47:44 Favorites: 100% at 39/sec for PJDunleavy
+2017-11-15 17:48:30 Tweets   : 7.2% at 32/sec for PJDunleavy
+2017-11-15 17:49:37 Favorites: 24.9% at 28/sec for plthomasEdD
+2017-11-15 17:49:39 Favorites: 100% at 18/sec for plymfairness
+2017-11-15 17:49:39 Favorites: Waiting for 10.6 minutes due to : Used up allowance in a loop
+2017-11-15 17:50:06 Tweets   : 3.1% at 33/sec for plthomasEdD
+2017-11-15 17:50:30 Tweets   : 99.7% at 29/sec for plymfairness
+2017-11-15 17:50:45 Tweets   : 100% at 19/sec for polimapper
+2017-11-15 17:52:10 Tweets   : 77.7% at 38/sec for PollardTom
+2017-11-15 17:53:47 Tweets   : 81.9% at 33/sec for PontefractCivic
+2017-11-15 17:54:08 Tweets   : 99.6% at 22/sec for poolieexchange
+2017-11-15 17:54:41 Tweets   : 100% at 26/sec for povertyproofcne
+2017-11-15 17:54:48 Tweets   : 100% at 0/sec for PPIfW
+2017-11-15 17:56:15 Tweets   : 38.9% at 37/sec for pricedoutuk
+2017-11-15 17:57:39 Tweets   : 8.5% at 38/sec for ProActivelyPosi
+2017-11-15 17:59:07 Tweets   : 5.4% at 37/sec for PropSolScot
+2017-11-15 17:59:27 Friends  : 98.3% at 29/sec for PJDunleavy
+2017-11-15 17:59:49 Friends  : 99.3% at 38/sec for plthomasEdD
+2017-11-15 18:00:03 Friends  : 99.8% at 32/sec for plymfairness
+2017-11-15 18:00:19 Favorites: 97.8% at 0/sec for polimapper
+2017-11-15 18:00:21 Friends  : 100% at 31/sec for polimapper
+2017-11-15 18:00:26 Favorites: 56.6% at 29/sec for PollardTom
+2017-11-15 18:00:28 Tweets   : 99.6% at 31/sec for PSGSpeakup
+2017-11-15 18:00:50 Friends  : 99.9% at 33/sec for PollardTom
+2017-11-15 18:01:30 Tweets   : 100% at 36/sec for PTCScotland
+2017-11-15 18:01:38 Favorites: 49.4% at 29/sec for PontefractCivic
+2017-11-15 18:01:44 Favorites: 56.4% at 29/sec for poolieexchange
+2017-11-15 18:01:45 Friends  : 97% at 31/sec for PontefractCivic
+2017-11-15 18:01:48 Tweets   : 100% at 24/sec for pwc_urban
+2017-11-15 18:01:50 Favorites: 72% at 34/sec for povertyproofcne
+2017-11-15 18:01:50 Favorites: User PPIfW has a protected account or no Favoritess to collect so skipping
+2017-11-15 18:01:57 Favorites: 95.2% at 28/sec for pricedoutuk
+2017-11-15 18:01:57 Friends  : 98.4% at 29/sec for poolieexchange
+2017-11-15 18:01:59 Favorites: 100% at 15/sec for ProActivelyPosi
+2017-11-15 18:01:59 Favorites: User PropSolScot has a protected account or no Favoritess to collect so skipping
+2017-11-15 18:02:09 Favorites: 60.2% at 29/sec for PSGSpeakup
+2017-11-15 18:02:12 Friends  : 96.7% at 29/sec for povertyproofcne
+2017-11-15 18:02:12 Friends  : User PPIfW has a protected account or no Friendss to collect so skipping
+2017-11-15 18:02:13 Tweets   : 100% at 28/sec for RachelCCain
+2017-11-15 18:02:21 Favorites: 61.2% at 31/sec for PTCScotland
+2017-11-15 18:02:34 Friends  : 100% at 34/sec for pricedoutuk
+2017-11-15 18:02:45 Favorites: 55.4% at 30/sec for pwc_urban
+2017-11-15 18:02:59 Favorites: 52% at 28/sec for RachelCCain
+2017-11-15 18:03:33 Friends  : 100% at 33/sec for ProActivelyPosi
+2017-11-15 18:03:44 Tweets   : 29.9% at 35/sec for rachelgwenllian
+2017-11-15 18:03:47 Favorites: 52.7% at 31/sec for rachelgwenllian
+2017-11-15 18:03:54 Favorites: 62.2% at 32/sec for RBWM
+2017-11-15 18:04:16 Favorites: 52.5% at 27/sec for RealLifeReform
+2017-11-15 18:04:26 Favorites: Waiting for 10.8 minutes due to : Used up allowance in a loop
+2017-11-15 18:05:00 Friends  : 100% at 37/sec for PropSolScot
+2017-11-15 18:05:13 Tweets   : 22.1% at 36/sec for RBWM
+2017-11-15 18:05:22 Friends  : 99.9% at 41/sec for PSGSpeakup
+2017-11-15 18:05:41 Friends  : 99.7% at 39/sec for PTCScotland
+2017-11-15 18:05:55 Friends  : 98% at 40/sec for pwc_urban
+2017-11-15 18:06:09 Friends  : 98.3% at 36/sec for RachelCCain
+2017-11-15 18:06:33 Tweets   : 96% at 40/sec for RealLifeReform
+[1] "Server error: (500) Internal Server Error"
+[1] "This error is likely transient, retrying up to 5 more times ..."
+2017-11-15 18:06:39 Friends  : 98.9% at 39/sec for rachelgwenllian
+2017-11-15 18:06:50 Friends  : 98.3% at 38/sec for RBWM
+2017-11-15 18:06:57 Friends  : 100% at 40/sec for RealLifeReform
+2017-11-15 18:07:37 Friends  : 99.8% at 40/sec for rebecca_g
+2017-11-15 18:07:53 Tweets   : 40.6% at 40/sec for rebecca_g
+2017-11-15 18:08:07 Friends  : 99.5% at 44/sec for RebeccaWearn
+2017-11-15 18:08:31 Friends  : 100% at 41/sec for REFhealth
+2017-11-15 18:08:49 Friends  : 100% at 41/sec for REFhousing
+2017-11-15 18:08:51 Tweets   : 99.8% at 38/sec for RebeccaWearn
+2017-11-15 18:09:13 Friends  : 99.5% at 45/sec for ReichsteinFound
+2017-11-15 18:10:13 Tweets   : 69.4% at 39/sec for REFhealth
+2017-11-15 18:11:40 Tweets   : 87.2% at 37/sec for REFhousing
+2017-11-15 18:12:35 Friends  : 97.4% at 36/sec for Relate_charity
+2017-11-15 18:12:35 Friends  : Waiting for 6 minutes
+2017-11-15 18:12:38 Tweets   : 99.6% at 39/sec for ReichsteinFound
+2017-11-15 18:13:54 Tweets   : 33.8% at 42/sec for Relate_charity
+2017-11-15 18:14:33 Tweets   : 99.9% at 36/sec for responsiblecred
+2017-11-15 18:15:33 Favorites: 54.5% at 1/sec for rebecca_g
+2017-11-15 18:15:41 Favorites: 66.1% at 38/sec for RebeccaWearn
+2017-11-15 18:15:42 Favorites: 100% at 23/sec for REFhealth
+2017-11-15 18:15:43 Favorites: 75% at 7/sec for REFhousing
+2017-11-15 18:15:45 Tweets   : 5.1% at 44/sec for RichardJMurphy
+2017-11-15 18:15:51 Favorites: 52.5% at 34/sec for ReichsteinFound
+2017-11-15 18:16:15 Favorites: 55% at 37/sec for Relate_charity
+2017-11-15 18:16:27 Favorites: 51.4% at 35/sec for responsiblecred
+2017-11-15 18:16:32 Favorites: 86.2% at 36/sec for RichardJMurphy
+2017-11-15 18:16:48 Favorites: 53.1% at 36/sec for RichardKerley
+2017-11-15 18:16:57 Tweets   : 38.6% at 44/sec for RichardKerley
+2017-11-15 18:17:54 Favorites: 50.5% at 36/sec for RichardMoorhead
+2017-11-15 18:17:59 Favorites: 89.5% at 38/sec for richardpassmore
+2017-11-15 18:18:15 Tweets   : 6.4% at 41/sec for RichardMoorhead
+2017-11-15 18:18:29 Favorites: 52.3% at 39/sec for RichardvReeves
+2017-11-15 18:18:40 Favorites: Waiting for 11.7 minutes due to : Used up allowance in a loop
+2017-11-15 18:18:51 Friends  : 98.2% at 2/sec for responsiblecred
+2017-11-15 18:19:16 Friends  : 99.4% at 44/sec for RichardJMurphy
+2017-11-15 18:19:29 Tweets   : 60.5% at 43/sec for richardpassmore
+2017-11-15 18:19:34 Friends  : 99.3% at 45/sec for RichardKerley
+2017-11-15 18:20:38 Tweets   : 20.4% at 47/sec for RichardvReeves
+2017-11-15 18:21:53 Tweets   : 17.1% at 42/sec for RichRJohnstone
+2017-11-15 18:22:10 Friends  : 99% at 44/sec for RichardMoorhead
+2017-11-15 18:22:22 Friends  : 98.5% at 39/sec for richardpassmore
+2017-11-15 18:22:40 Tweets   : 99.9% at 40/sec for richt2
+2017-11-15 18:23:08 Friends  : 99% at 48/sec for RichardvReeves
+2017-11-15 18:23:57 Tweets   : 34.6% at 41/sec for rivefuentes
+Error in twInterfaceObj$doAPICall(cmd, params, method, ...) : 
+  Service Unavailable (HTTP 503).
+In addition: Warning message:
+package 'twitteR' was built under R version 3.4.1 
+2017-11-15 18:23:58 Tweets: Unable to find account RJ_Macpherson moving to next
+2017-11-15 18:23:58 Tweets   : % at /sec for RJ_Macpherson
+Error in twInterfaceObj$doAPICall(cmd, params, method, ...) : 
+  Service Unavailable (HTTP 503).
+2017-11-15 18:23:59 Tweets: Unable to find account RobbieGilligan moving to next
+2017-11-15 18:23:59 Tweets   : % at /sec for RobbieGilligan
+Error in twInterfaceObj$doAPICall(cmd, params, method, ...) : 
+  Service Unavailable (HTTP 503).
+2017-11-15 18:23:59 Tweets: Unable to find account RobCFTyne moving to next
+2017-11-15 18:23:59 Tweets   : % at /sec for RobCFTyne
+Error in twInterfaceObj$doAPICall(cmd, params, method, ...) : 
+  Service Unavailable (HTTP 503).
+2017-11-15 18:24:00 Tweets: Unable to find account rosiefarrer moving to next
+2017-11-15 18:24:00 Tweets   : % at /sec for rosiefarrer
+Error in twInterfaceObj$doAPICall(cmd, params, method, ...) : 
+  Service Unavailable (HTTP 503).
+2017-11-15 18:24:03 Tweets: Unable to find account RossalynWarren moving to next
+2017-11-15 18:24:03 Tweets   : % at /sec for RossalynWarren
+2017-11-15 18:24:23 Friends  : 98.3% at 45/sec for RichRJohnstone
+2017-11-15 18:24:45 Friends  : 98.3% at 45/sec for richt2
+2017-11-15 18:25:13 Friends  : 99.2% at 48/sec for rivefuentes
+2017-11-15 18:25:56 Friends  : 99.4% at 43/sec for RJ_Macpherson
+2017-11-15 18:27:27 Friends  : 98.8% at 41/sec for RobbieGilligan
+2017-11-15 18:27:37 Friends  : 99.3% at 38/sec for RobCFTyne
+2017-11-15 18:27:57 Friends  : 98.7% at 39/sec for rosiefarrer
+2017-11-15 18:28:20 Friends  : 99.8% at 42/sec for RossalynWarren
+2017-11-15 18:31:34 Favorites: 19% at 4/sec for RichRJohnstone
+2017-11-15 18:31:48 Favorites: 59.3% at 36/sec for richt2
+2017-11-15 18:32:51 Favorites: 51.1% at 39/sec for rivefuentes
+2017-11-15 18:33:02 Favorites: 48.9% at 36/sec for RJ_Macpherson
+2017-11-15 18:33:20 Favorites: 50% at 38/sec for RobbieGilligan
+2017-11-15 18:33:23 Favorites: 59.6% at 30/sec for RobCFTyne
+2017-11-15 18:33:33 Favorites: 50.3% at 39/sec for rosiefarrer
+2017-11-15 18:33:33 Favorites: Waiting for 11.8 minutes due to : Used up allowance in a loop
+2017-11-15 18:46:43 Favorites: 13.1% at 4/sec for RossalynWarren
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+Warning message:
+package 'twitteR' was built under R version 3.4.1 

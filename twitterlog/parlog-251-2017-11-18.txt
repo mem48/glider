@@ -1,0 +1,169 @@
+starting worker pid=13576 on localhost:11271 at 01:16:59.705
+starting worker pid=3340 on localhost:11271 at 01:16:59.878
+starting worker pid=11968 on localhost:11271 at 01:17:00.032
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-18 01:18:58 Friends  : 99.3% at 31/sec for mayoredlee
+2017-11-18 01:19:19 Friends  : 99.5% at 40/sec for Mayors4Climate
+2017-11-18 01:19:37 Friends  : 98.8% at 35/sec for Mell_GIPlanning
+2017-11-18 01:20:48 Favorites: 53.9% at 31/sec for mayoredlee
+2017-11-18 01:21:03 Friends  : 99.3% at 36/sec for MrTimDunn
+2017-11-18 01:21:04 Friends  : 97.4% at 28/sec for NathanNWE
+2017-11-18 01:21:10 Favorites: 50.3% at 36/sec for Mayors4Climate
+2017-11-18 01:21:14 Favorites: 98.9% at 23/sec for Mell_GIPlanning
+2017-11-18 01:21:21 Friends  : 98.8% at 34/sec for obrienpeter72
+2017-11-18 01:22:39 Favorites: 15.3% at 37/sec for MrTimDunn
+2017-11-18 01:22:45 Favorites: 66.2% at 35/sec for NathanNWE
+2017-11-18 01:22:49 Favorites: Waiting for 4.9 minutes due to : Used up allowance in a loop
+2017-11-18 01:23:00 Friends  : 97.6% at 34/sec for ParticipatoryC
+2017-11-18 01:23:23 Tweets   : 49.1% at 40/sec for mayoredlee
+2017-11-18 01:23:46 Friends  : 98.6% at 39/sec for PAS_tweets
+2017-11-18 01:24:38 Tweets   : 46.9% at 43/sec for Mayors4Climate
+2017-11-18 01:25:46 Friends  : 97.8% at 38/sec for paulfrainer
+2017-11-18 01:25:56 Friends  : 99.3% at 32/sec for pdt123
+2017-11-18 01:26:06 Tweets   : 44.7% at 36/sec for Mell_GIPlanning
+2017-11-18 01:26:16 Friends  : 99.9% at 35/sec for PeteJefferys
+2017-11-18 01:26:24 Friends  : 97.4% at 32/sec for photoursz
+2017-11-18 01:26:40 Friends  : 99.4% at 35/sec for PlaceAllianceUK
+2017-11-18 01:26:53 Friends  : 99.3% at 31/sec for Planaidlondon
+2017-11-18 01:27:11 Friends  : 99.3% at 32/sec for Plannerinboots
+2017-11-18 01:27:11 Friends  : Waiting for 6.5 minutes
+2017-11-18 01:27:20 Tweets   : 5.5% at 44/sec for MrTimDunn
+2017-11-18 01:27:52 Favorites: 69.2% at 1/sec for obrienpeter72
+2017-11-18 01:27:57 Favorites: 62.7% at 38/sec for ParticipatoryC
+2017-11-18 01:28:07 Favorites: 54.1% at 39/sec for PAS_tweets
+2017-11-18 01:28:18 Favorites: 57.2% at 39/sec for paulfrainer
+2017-11-18 01:28:24 Favorites: 67.3% at 44/sec for pdt123
+2017-11-18 01:28:35 Favorites: 50.4% at 37/sec for PeteJefferys
+2017-11-18 01:28:39 Favorites: 90.1% at 27/sec for photoursz
+2017-11-18 01:28:41 Tweets   : 32.3% at 39/sec for NathanNWE
+2017-11-18 01:28:44 Favorites: 75.7% at 41/sec for PlaceAllianceUK
+2017-11-18 01:28:44 Favorites: 100% at 17/sec for Planaidlondon
+2017-11-18 01:28:49 Favorites: 76.5% at 41/sec for Plannerinboots
+2017-11-18 01:28:49 Favorites: 90.9% at 19/sec for Planning_Info
+2017-11-18 01:28:50 Favorites: 100% at 41/sec for PlanningUOM
+2017-11-18 01:28:51 Favorites: 100% at 23/sec for POSisit
+2017-11-18 01:28:52 Favorites: 100% at 57/sec for PovertyLondon
+2017-11-18 01:29:06 Favorites: 50% at 40/sec for profmarktj
+2017-11-18 01:29:10 Favorites: 98.8% at 25/sec for ProgCapitalism
+2017-11-18 01:29:11 Favorites: 100% at 57/sec for PublicPlanners
+2017-11-18 01:29:19 Favorites: 71.4% at 12/sec for RegenerationEX
+2017-11-18 01:29:25 Favorites: 58.2% at 46/sec for richard_garlick
+2017-11-18 01:29:34 Favorites: 58.8% at 34/sec for RichardHebditch
+2017-11-18 01:29:36 Favorites: 49% at 63/sec for RTPINW
+2017-11-18 01:29:56 Favorites: 56.4% at 39/sec for Sam_in_Cam
+2017-11-18 01:30:09 Tweets   : 42.3% at 36/sec for obrienpeter72
+2017-11-18 01:30:13 Favorites: 53.8% at 41/sec for sgaventa
+2017-11-18 01:30:17 Favorites: 51.2% at 42/sec for SL_Cities
+2017-11-18 01:30:22 Favorites: 81.4% at 43/sec for smartcitiesdive
+2017-11-18 01:30:37 Favorites: 50% at 39/sec for SmithsonHill
+2017-11-18 01:30:48 Favorites: 63.6% at 38/sec for SouthCambs
+2017-11-18 01:30:48 Favorites: 100% at 36/sec for stephenp62
+2017-11-18 01:30:51 Favorites: Waiting for 11.9 minutes due to : Used up allowance in a loop
+2017-11-18 01:31:03 Tweets   : 100% at 37/sec for ParticipatoryC
+2017-11-18 01:32:24 Tweets   : 97.5% at 40/sec for PAS_tweets
+2017-11-18 01:32:57 Tweets   : 100% at 34/sec for paulfrainer
+2017-11-18 01:33:14 Tweets   : 100% at 25/sec for pdt123
+2017-11-18 01:34:27 Friends  : 100% at 3/sec for Planning_Info
+2017-11-18 01:34:32 Friends  : 99.2% at 25/sec for PlanningUOM
+2017-11-18 01:34:40 Tweets   : 40% at 37/sec for PeteJefferys
+2017-11-18 01:34:49 Tweets   : 100% at 10/sec for photoursz
+2017-11-18 01:34:56 Friends  : 98.9% at 34/sec for POSisit
+2017-11-18 01:35:05 Friends  : 99% at 34/sec for PovertyLondon
+2017-11-18 01:35:22 Tweets   : 99.6% at 36/sec for PlaceAllianceUK
+2017-11-18 01:35:34 Friends  : 98.7% at 32/sec for profmarktj
+2017-11-18 01:35:37 Tweets   : 100% at 30/sec for Planaidlondon
+2017-11-18 01:36:14 Friends  : 99.2% at 34/sec for ProgCapitalism
+2017-11-18 01:36:19 Friends  : 100% at 22/sec for PublicPlanners
+2017-11-18 01:36:52 Tweets   : 81.7% at 43/sec for Plannerinboots
+2017-11-18 01:37:37 Friends  : 99.3% at 33/sec for RegenerationEX
+2017-11-18 01:37:53 Friends  : 99.3% at 27/sec for richard_garlick
+2017-11-18 01:38:09 Tweets   : 57.6% at 42/sec for Planning_Info
+2017-11-18 01:38:12 Friends  : 99% at 32/sec for RichardHebditch
+2017-11-18 01:38:31 Friends  : 99.8% at 29/sec for RTPINW
+2017-11-18 01:38:39 Friends  : 97.8% at 10/sec for Sam_in_Cam
+2017-11-18 01:38:40 Tweets   : 99.8% at 34/sec for PlanningUOM
+2017-11-18 01:38:43 Friends  : 99.2% at 30/sec for sgaventa
+2017-11-18 01:39:09 Tweets   : 99.9% at 33/sec for POSisit
+2017-11-18 01:39:16 Friends  : 99.7% at 41/sec for SL_Cities
+2017-11-18 01:39:37 Friends  : 100% at 38/sec for smartcitiesdive
+2017-11-18 01:39:37 Friends  : Waiting for 9.3 minutes
+2017-11-18 01:40:04 Tweets   : 99.8% at 39/sec for PovertyLondon
+2017-11-18 01:40:58 Tweets   : 99.9% at 41/sec for profmarktj
+2017-11-18 01:41:54 Tweets   : 99.8% at 38/sec for ProgCapitalism
+2017-11-18 01:42:03 Tweets   : 100% at 12/sec for PublicPlanners
+2017-11-18 01:43:05 Favorites: 83.5% at 0/sec for SustDev
+2017-11-18 01:43:32 Tweets   : 9.4% at 36/sec for RegenerationEX
+2017-11-18 01:44:06 Tweets   : 100% at 31/sec for richard_garlick
+2017-11-18 01:44:25 Favorites: 25.4% at 39/sec for SvenjaT
+2017-11-18 01:45:21 Tweets   : 22% at 42/sec for RichardHebditch
+2017-11-18 01:45:44 Favorites: 50.6% at 39/sec for TattonEstateM
+2017-11-18 01:45:53 Tweets   : 99.9% at 38/sec for RTPINW
+2017-11-18 01:46:08 Favorites: Waiting for 11.9 minutes due to : Used up allowance in a loop
+2017-11-18 01:47:04 Tweets   : 76.5% at 45/sec for Sam_in_Cam
+2017-11-18 01:47:31 Tweets   : 99.7% at 37/sec for sgaventa
+2017-11-18 01:48:25 Tweets   : 99.6% at 42/sec for SL_Cities
+2017-11-18 01:49:37 Tweets   : 7.6% at 44/sec for smartcitiesdive
+2017-11-18 01:50:07 Friends  : 95.6% at 4/sec for SmithsonHill
+2017-11-18 01:50:33 Friends  : 99.2% at 38/sec for SouthCambs
+2017-11-18 01:50:39 Friends  : 99% at 33/sec for stephenp62
+2017-11-18 01:50:58 Friends  : 99.6% at 35/sec for SustDev
+2017-11-18 01:51:02 Tweets   : 90.1% at 38/sec for SmithsonHill
+2017-11-18 01:51:34 Friends  : 99.6% at 36/sec for SvenjaT
+2017-11-18 01:52:27 Tweets   : 22.9% at 38/sec for SouthCambs
+2017-11-18 01:52:37 Tweets   : 100% at 19/sec for stephenp62
+2017-11-18 01:53:14 Friends  : 98.6% at 36/sec for TattonEstateM
+2017-11-18 01:54:01 Tweets   : 42.7% at 38/sec for SustDev
+2017-11-18 01:54:37 Friends  : 100% at 35/sec for TheSchoolOfLife
+2017-11-18 01:54:59 Friends  : 97.4% at 34/sec for tj_arnold
+2017-11-18 01:55:19 Tweets   : 36.1% at 41/sec for SvenjaT
+2017-11-18 01:56:25 Friends  : 99.3% at 34/sec for TomBage
+2017-11-18 01:56:44 Tweets   : 62% at 37/sec for TattonEstateM
+2017-11-18 01:56:50 Friends  : 99.4% at 34/sec for TomHale_
+2017-11-18 01:58:01 Tweets   : 17.3% at 41/sec for TheSchoolOfLife
+2017-11-18 01:58:22 Favorites: 51.8% at 1/sec for TheSchoolOfLife
+2017-11-18 01:58:33 Favorites: 51.9% at 35/sec for tj_arnold
+2017-11-18 01:59:01 Friends  : 99.2% at 32/sec for TreesforCities
+2017-11-18 01:59:15 Favorites: 51% at 36/sec for TomBage
+2017-11-18 01:59:21 Friends  : 97.8% at 33/sec for tweetipy
+2017-11-18 01:59:29 Tweets   : 69% at 36/sec for tj_arnold
+2017-11-18 02:00:00 Friends  : 99% at 36/sec for Underground_RT
+2017-11-18 02:00:02 Favorites: 47.4% at 36/sec for TomHale_
+2017-11-18 02:01:04 Favorites: 49.7% at 37/sec for TreesforCities
+2017-11-18 02:01:04 Tweets   : 19.1% at 34/sec for TomBage
+2017-11-18 02:01:33 Friends  : 98.4% at 33/sec for undertheraedar
+2017-11-18 02:01:36 Favorites: Waiting for 11.7 minutes due to : Used up allowance in a loop
+2017-11-18 02:02:00 Friends  : 98.2% at 34/sec for UNHABITAT
+2017-11-18 02:02:00 Friends  : Waiting for 2.2 minutes
+2017-11-18 02:02:32 Tweets   : 99.5% at 36/sec for TomHale_
+2017-11-18 02:03:42 Tweets   : 49.8% at 45/sec for TreesforCities
+2017-11-18 02:04:42 Friends  : 99.5% at 6/sec for UrbanBigData
+2017-11-18 02:05:01 Tweets   : 27.9% at 41/sec for tweetipy
+2017-11-18 02:06:09 Friends  : 98.8% at 32/sec for urbanistasuk
+2017-11-18 02:06:25 Friends  : 99.4% at 29/sec for UrbanLandInst
+2017-11-18 02:06:25 Tweets   : 35% at 38/sec for Underground_RT
+2017-11-18 02:07:44 Tweets   : 42.9% at 40/sec for undertheraedar
+2017-11-18 02:09:19 Tweets   : 46.5% at 34/sec for UNHABITAT
+2017-11-18 02:09:23 Friends  : 98.3% at 35/sec for vincemaple
+2017-11-18 02:09:36 Friends  : 98.4% at 42/sec for WarringtonCo
+2017-11-18 02:10:45 Tweets   : 69.2% at 37/sec for UrbanBigData
+2017-11-18 02:11:52 Tweets   : 99.5% at 38/sec for urbanistasuk
+2017-11-18 02:13:01 Tweets   : 22.4% at 46/sec for UrbanLandInst
+2017-11-18 02:14:21 Tweets   : 7.4% at 40/sec for vincemaple
+2017-11-18 02:14:25 Favorites: 16.9% at 4/sec for tweetipy
+2017-11-18 02:15:11 Favorites: 47.3% at 39/sec for Underground_RT
+2017-11-18 02:15:41 Tweets   : 55.3% at 40/sec for WarringtonCo
+2017-11-18 02:16:16 Favorites: 49.7% at 39/sec for undertheraedar
+2017-11-18 02:16:40 Favorites: Waiting for 11.8 minutes due to : Used up allowance in a loop
+2017-11-18 02:29:16 Favorites: 51.9% at 3/sec for UNHABITAT
+2017-11-18 02:29:21 Favorites: 69.1% at 43/sec for UrbanBigData
+2017-11-18 02:29:45 Favorites: 51.2% at 41/sec for urbanistasuk
+2017-11-18 02:29:51 Favorites: 61.7% at 50/sec for UrbanLandInst
+2017-11-18 02:31:06 Favorites: 13.4% at 41/sec for vincemaple
+2017-11-18 02:31:16 Favorites: 51.2% at 42/sec for WarringtonCo
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+package 'twitteR' was built under R version 3.4.1 
+Warning message:
+package 'twitteR' was built under R version 3.4.1 

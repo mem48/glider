@@ -1,0 +1,253 @@
+starting worker pid=6208 on localhost:11271 at 00:51:43.538
+starting worker pid=14700 on localhost:11271 at 00:51:43.753
+starting worker pid=9372 on localhost:11271 at 00:51:43.976
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-20 00:55:01 Friends  : 100% at 21/sec for StrodesCollege
+2017-11-20 00:55:15 Friends  : 99.7% at 24/sec for StuartAndrew
+2017-11-20 00:55:19 Friends  : 99.4% at 42/sec for StVincent6FC
+2017-11-20 00:56:43 Friends  : 98.4% at 24/sec for SueHayman1
+2017-11-20 00:56:56 Friends  : 99.3% at 32/sec for SuellaFernandes
+2017-11-20 00:57:15 Friends  : 100% at 26/sec for suelmcleod
+2017-11-20 00:57:22 Friends  : 100% at 16/sec for SueWolst
+2017-11-20 00:58:22 Favorites: 100% at 16/sec for StrodesCollege
+2017-11-20 00:58:23 Favorites: 96.4% at 32/sec for StuartAndrew
+2017-11-20 00:58:46 Favorites: 55.2% at 22/sec for StVincent6FC
+2017-11-20 00:59:00 Friends  : 96.2% at 27/sec for suffolknewcoll
+2017-11-20 00:59:03 Friends  : 100% at 25/sec for SusanPember
+2017-11-20 00:59:22 Friends  : 98.6% at 25/sec for SussexCoast
+2017-11-20 00:59:40 Favorites: 49.2% at 23/sec for SueHayman1
+2017-11-20 00:59:43 Friends  : 100% at 25/sec for suttontrust
+2017-11-20 01:00:02 Friends  : 99.3% at 23/sec for swccollege
+2017-11-20 01:00:02 Favorites: 58.7% at 27/sec for SuellaFernandes
+2017-11-20 01:00:14 Favorites: 63.3% at 33/sec for suelmcleod
+2017-11-20 01:00:19 Favorites: 91.7% at 2/sec for SueWolst
+2017-11-20 01:00:33 Friends  : 99.8% at 28/sec for sweale
+2017-11-20 01:00:34 Friends  : 50% at 4/sec for Symonds_College
+2017-11-20 01:00:55 Favorites: 52.4% at 30/sec for suffolknewcoll
+2017-11-20 01:01:00 Favorites: 97.8% at 8/sec for SusanPember
+2017-11-20 01:01:16 Favorites: 52.9% at 31/sec for SussexCoast
+2017-11-20 01:01:22 Friends  : 98.6% at 24/sec for talknewvic
+2017-11-20 01:01:23 Friends  : Waiting for 8.7 minutes
+2017-11-20 01:01:35 Favorites: 53.2% at 26/sec for suttontrust
+2017-11-20 01:01:45 Favorites: 70.4% at 30/sec for swccollege
+2017-11-20 01:01:46 Favorites: 100% at 34/sec for sweale
+2017-11-20 01:01:47 Favorites: 100% at 20/sec for Symonds_College
+2017-11-20 01:02:19 Tweets   : 97% at 20/sec for StrodesCollege
+2017-11-20 01:02:21 Favorites: 51.9% at 26/sec for talknewvic
+2017-11-20 01:02:44 Favorites: 35.2% at 34/sec for tariqahmadbt
+2017-11-20 01:02:45 Favorites: Waiting for 10.6 minutes due to : Used up allowance in a loop
+2017-11-20 01:04:01 Tweets   : 41.2% at 31/sec for StuartAndrew
+2017-11-20 01:05:06 Tweets   : 99.5% at 31/sec for StVincent6FC
+2017-11-20 01:06:49 Tweets   : 73.7% at 31/sec for SueHayman1
+2017-11-20 01:08:13 Tweets   : 99.5% at 27/sec for SuellaFernandes
+2017-11-20 01:09:01 Tweets   : 98.6% at 30/sec for suelmcleod
+2017-11-20 01:09:16 Tweets   : 99.4% at 23/sec for SueWolst
+2017-11-20 01:10:59 Tweets   : 62.3% at 31/sec for suffolknewcoll
+2017-11-20 01:11:09 Friends  : 99% at 2/sec for tariqahmadbt
+2017-11-20 01:11:30 Tweets   : 99.9% at 22/sec for SusanPember
+2017-11-20 01:12:14 Friends  : 99.9% at 28/sec for TCStudentUnion
+2017-11-20 01:13:16 Tweets   : 72.4% at 30/sec for SussexCoast
+2017-11-20 01:13:43 Favorites: 100% at 0/sec for TCStudentUnion
+2017-11-20 01:13:44 Favorites: 100% at 4/sec for TeachersTVNews
+2017-11-20 01:13:45 Favorites: 102.2% at 38/sec for TeachingSTEM
+2017-11-20 01:13:58 Friends  : 100% at 28/sec for TeachersTVNews
+2017-11-20 01:15:02 Tweets   : 83.7% at 30/sec for suttontrust
+2017-11-20 01:15:37 Favorites: 24.9% at 28/sec for team_CLPR
+2017-11-20 01:15:37 Favorites: User team_FEGuild has a protected account or no Favoritess to collect so skipping
+2017-11-20 01:16:14 Favorites: 49.1% at 26/sec for TeamBTC_Sports
+2017-11-20 01:16:35 Favorites: 64.4% at 19/sec for teamwearside
+2017-11-20 01:16:36 Favorites: 92.3% at 26/sec for tele_education
+2017-11-20 01:16:36 Favorites: User telfordcoll has a protected account or no Favoritess to collect so skipping
+2017-11-20 01:16:54 Tweets   : 81.3% at 28/sec for swccollege
+2017-11-20 01:16:57 Favorites: 56.5% at 28/sec for telfordcollege
+2017-11-20 01:17:16 Friends  : 100% at 26/sec for TeachingSTEM
+2017-11-20 01:17:25 Tweets   : 100% at 23/sec for sweale
+2017-11-20 01:17:43 Favorites: 49.8% at 27/sec for TesResources
+2017-11-20 01:17:56 Tweets   : 100% at 23/sec for Symonds_College
+2017-11-20 01:17:56 Favorites: 57.8% at 30/sec for TessaJowell
+2017-11-20 01:18:00 Friends  : 98% at 25/sec for team_CLPR
+2017-11-20 01:18:02 Favorites: Waiting for 10.6 minutes due to : Used up allowance in a loop
+2017-11-20 01:18:14 Friends  : 100% at 29/sec for team_FEGuild
+2017-11-20 01:19:43 Friends  : 99.7% at 23/sec for TeamBTC_Sports
+2017-11-20 01:19:44 Tweets   : 52.5% at 29/sec for talknewvic
+2017-11-20 01:20:21 Friends  : 99.9% at 28/sec for teamwearside
+2017-11-20 01:20:38 Friends  : 100% at 24/sec for tele_education
+2017-11-20 01:20:45 Friends  : 100% at 13/sec for telfordcoll
+2017-11-20 01:21:04 Friends  : 99.8% at 26/sec for telfordcollege
+2017-11-20 01:21:36 Tweets   : 91.4% at 29/sec for tariqahmadbt
+2017-11-20 01:21:51 Tweets   : 99.6% at 18/sec for TCStudentUnion
+2017-11-20 01:22:37 Tweets   : 100% at 31/sec for TeachersTVNews
+2017-11-20 01:24:15 Tweets   : 99.6% at 30/sec for TeachingSTEM
+2017-11-20 01:26:10 Tweets   : 13% at 28/sec for team_CLPR
+2017-11-20 01:26:24 Tweets   : 100% at 12/sec for team_FEGuild
+2017-11-20 01:28:19 Tweets   : 41.2% at 28/sec for TeamBTC_Sports
+2017-11-20 01:29:35 Tweets   : 100% at 29/sec for teamwearside
+2017-11-20 01:29:39 Favorites: 50.6% at 2/sec for ThangamMP
+2017-11-20 01:29:58 Favorites: 56.6% at 30/sec for The_IMI
+2017-11-20 01:31:03 Friends  : 61.7% at 25/sec for TesResources
+2017-11-20 01:31:22 Tweets   : 22% at 30/sec for tele_education
+2017-11-20 01:31:29 Favorites: 50.3% at 27/sec for TheDukeOfYork
+2017-11-20 01:31:56 Favorites: 55.7% at 25/sec for TheEDTUK
+2017-11-20 01:31:59 Favorites: 87.7% at 42/sec for TheHKF
+2017-11-20 01:31:59 Favorites: 100% at 5/sec for theia
+2017-11-20 01:32:02 Tweets   : 99.1% at 26/sec for telfordcoll
+2017-11-20 01:32:31 Favorites: 51.5% at 28/sec for TheIOEE
+2017-11-20 01:32:59 Favorites: 54.9% at 24/sec for TheLCBT
+2017-11-20 01:33:00 Favorites: 100% at 20/sec for TheLordYoung
+2017-11-20 01:33:12 Favorites: 12.3% at 31/sec for TheMcrCollege
+2017-11-20 01:33:13 Favorites: Waiting for 10.7 minutes due to : Used up allowance in a loop
+2017-11-20 01:33:39 Friends  : 100% at 30/sec for TessaJowell
+2017-11-20 01:33:55 Tweets   : 75.7% at 28/sec for telfordcollege
+2017-11-20 01:34:44 Friends  : 99.2% at 29/sec for ThangamMP
+2017-11-20 01:35:20 Friends  : 99.6% at 31/sec for The_IMI
+2017-11-20 01:35:29 Friends  : 100% at 23/sec for TheDukeOfYork
+2017-11-20 01:35:45 Tweets   : 8.4% at 29/sec for TesResources
+2017-11-20 01:36:40 Friends  : 99.7% at 32/sec for TheEDTUK
+2017-11-20 01:37:02 Friends  : 100% at 29/sec for TheHKF
+2017-11-20 01:37:33 Friends  : 100% at 28/sec for theia
+2017-11-20 01:37:45 Tweets   : 47.8% at 26/sec for TessaJowell
+2017-11-20 01:38:49 Friends  : 98% at 30/sec for TheIOEE
+2017-11-20 01:39:03 Friends  : 97.8% at 32/sec for TheLCBT
+2017-11-20 01:39:07 Friends  : 97.8% at 39/sec for TheLordYoung
+2017-11-20 01:39:45 Tweets   : 22.7% at 27/sec for ThangamMP
+2017-11-20 01:39:58 Friends  : 99.4% at 27/sec for TheMcrCollege
+2017-11-20 01:40:23 Friends  : 99.3% at 30/sec for TheNationalStar
+2017-11-20 01:40:56 Friends  : 100% at 26/sec for TheNetworkNBP
+2017-11-20 01:40:58 Friends  : 100% at 22/sec for thenewdayuk
+2017-11-20 01:41:24 Friends  : 99.2% at 27/sec for theNSN
+2017-11-20 01:41:24 Friends  : Waiting for 4.7 minutes
+2017-11-20 01:41:43 Tweets   : 41.4% at 27/sec for The_IMI
+2017-11-20 01:43:37 Tweets   : 38.3% at 28/sec for TheDukeOfYork
+2017-11-20 01:44:38 Favorites: 51.1% at 1/sec for TheNationalStar
+2017-11-20 01:44:39 Favorites: 95.3% at 34/sec for TheNetworkNBP
+2017-11-20 01:44:55 Favorites: 64.2% at 24/sec for thenewdayuk
+2017-11-20 01:45:28 Favorites: 50.3% at 31/sec for theNSN
+2017-11-20 01:45:48 Tweets   : 37.2% at 24/sec for TheEDTUK
+[1] "Server error: (500) Internal Server Error"
+[1] "This error is likely transient, retrying up to 5 more times ..."
+Error in doAPICall(cmd, params = params, method = method, retryCount = retryCount,  : 
+  Not Found (HTTP 404).
+In addition: Warning message:
+package 'twitteR' was built under R version 3.4.1 
+2017-11-20 01:45:51 Tweets: Unable to find account TheHKF moving to next
+2017-11-20 01:45:51 Tweets   : % at /sec for TheHKF
+2017-11-20 01:45:52 Favorites: Unable to find account therealgokwan during loop number 7 moving to next loop
+Error in twInterfaceObj$doAPICall(cmd, params, method, ...) : 
+  Not Found (HTTP 404).
+2017-11-20 01:45:52 Tweets: Unable to find account theia moving to next
+2017-11-20 01:45:52 Tweets   : % at /sec for theia
+2017-11-20 01:45:52 Favorites: Unable to find account therealgokwan during loop number 8 moving to next loop
+Error in twInterfaceObj$doAPICall(cmd, params, method, ...) : 
+  Not Found (HTTP 404).
+2017-11-20 01:45:52 Tweets: Unable to find account TheIOEE moving to next
+2017-11-20 01:45:52 Tweets   : % at /sec for TheIOEE
+2017-11-20 01:45:52 Favorites: Unable to find account therealgokwan during loop number 9 moving to next loop
+2017-11-20 01:45:53 Favorites: Unable to find account therealgokwan during loop number 10 moving to next loop
+Error in twInterfaceObj$doAPICall(cmd, params, method, ...) : 
+  Not Found (HTTP 404).
+2017-11-20 01:45:53 Tweets: Unable to find account TheLCBT moving to next
+2017-11-20 01:45:53 Tweets   : % at /sec for TheLCBT
+Error in twInterfaceObj$doAPICall(cmd, params, method, ...) : 
+  Not Found (HTTP 404).
+2017-11-20 01:45:53 Tweets: Unable to find account TheLordYoung moving to next
+2017-11-20 01:45:53 Tweets   : % at /sec for TheLordYoung
+Error in twInterfaceObj$doAPICall(cmd, params, method, ...) : 
+  Not Found (HTTP 404).
+2017-11-20 01:45:54 Tweets: Unable to find account TheMcrCollege moving to next
+2017-11-20 01:45:54 Tweets   : % at /sec for TheMcrCollege
+Error in twInterfaceObj$doAPICall(cmd, params, method, ...) : 
+  Not Found (HTTP 404).
+2017-11-20 01:45:54 Tweets: Unable to find account TheNationalStar moving to next
+2017-11-20 01:45:54 Tweets   : % at /sec for TheNationalStar
+Error in twInterfaceObj$doAPICall(cmd, params, method, ...) : 
+  Service Unavailable (HTTP 503).
+2017-11-20 01:45:55 Tweets: Unable to find account TheNetworkNBP moving to next
+2017-11-20 01:45:55 Tweets   : % at /sec for TheNetworkNBP
+2017-11-20 01:45:55 Favorites: Unable to find account therealgokwan during loop number 12 moving to next loop
+Error in twInterfaceObj$doAPICall(cmd, params, method, ...) : 
+  Not Found (HTTP 404).
+2017-11-20 01:45:55 Tweets: Unable to find account thenewdayuk moving to next
+2017-11-20 01:45:55 Tweets   : % at /sec for thenewdayuk
+2017-11-20 01:45:55 Favorites: Unable to find account therealgokwan during loop number 13 moving to next loop
+Error in twInterfaceObj$doAPICall(cmd, params, method, ...) : 
+  Not Found (HTTP 404).
+2017-11-20 01:45:56 Tweets: Unable to find account theNSN moving to next
+2017-11-20 01:45:56 Tweets   : % at /sec for theNSN
+2017-11-20 01:45:56 Favorites: Unable to find account therealgokwan during loop number 14 moving to next loop
+Error in twInterfaceObj$doAPICall(cmd, params, method, ...) : 
+  Not Found (HTTP 404).
+2017-11-20 01:45:56 Tweets: Unable to find account therealgokwan moving to next
+2017-11-20 01:45:56 Tweets   : % at /sec for therealgokwan
+2017-11-20 01:45:56 Favorites: Unable to find account therealgokwan during loop number 15 moving to next loop
+Error in twInterfaceObj$doAPICall(cmd, params, method, ...) : 
+  Not Found (HTTP 404).
+2017-11-20 01:45:56 Tweets: Unable to find account theukfechat moving to next
+2017-11-20 01:45:56 Tweets   : % at /sec for theukfechat
+2017-11-20 01:45:57 Favorites: Unable to find account therealgokwan during loop number 16 moving to next loop
+Error in twInterfaceObj$doAPICall(cmd, params, method, ...) : 
+  Not Found (HTTP 404).
+2017-11-20 01:45:57 Tweets: Unable to find account ThomRothCol moving to next
+2017-11-20 01:45:57 Tweets   : % at /sec for ThomRothCol
+[1] "Server error: (500) Internal Server Error"
+[1] "This error is likely transient, retrying up to 5 more times ..."
+2017-11-20 01:45:58 Favorites: Unable to find account therealgokwan during loop number 17 moving to next loop
+2017-11-20 01:45:58 Favorites: 21.5% at 23/sec for therealgokwan
+2017-11-20 01:45:59 Favorites: Unable to find account theukfechat during loop number 1 moving to next loop
+Error in twInterfaceObj$doAPICall(cmd, params, method, ...) : 
+  Not Found (HTTP 404).
+2017-11-20 01:45:59 Tweets: Unable to find account TimesEducation moving to next
+2017-11-20 01:45:59 Tweets   : % at /sec for TimesEducation
+2017-11-20 01:45:59 Favorites: Unable to find account theukfechat during loop number 2 moving to next loop
+2017-11-20 01:45:59 Favorites: % at /sec for theukfechat
+2017-11-20 01:46:00 Favorites: Unable to find account ThomRothCol during loop number 1 moving to next loop
+[1] "Server error: (500) Internal Server Error"
+[1] "This error is likely transient, retrying up to 5 more times ..."
+2017-11-20 01:46:01 Favorites: Unable to find account ThomRothCol during loop number 2 moving to next loop
+2017-11-20 01:46:01 Favorites: % at /sec for ThomRothCol
+2017-11-20 01:46:01 Favorites: Unable to find account TimesEducation during loop number 1 moving to next loop
+2017-11-20 01:46:01 Favorites: % at /sec for TimesEducation
+2017-11-20 01:46:01 Favorites: 100% at 6/sec for TimesNewsdesk
+Error in twInterfaceObj$doAPICall(cmd, params, method, ...) : 
+  Not Found (HTTP 404).
+2017-11-20 01:46:02 Tweets: Unable to find account TimesNewsdesk moving to next
+2017-11-20 01:46:02 Tweets   : % at /sec for TimesNewsdesk
+2017-11-20 01:46:02 Favorites: Unable to find account TimGrantDC during loop number 1 moving to next loop
+2017-11-20 01:46:02 Favorites: % at /sec for TimGrantDC
+Error in twInterfaceObj$doAPICall(cmd, params, method, ...) : 
+  Service Unavailable (HTTP 503).
+2017-11-20 01:46:02 Tweets: Unable to find account TimGrantDC moving to next
+2017-11-20 01:46:02 Tweets   : % at /sec for TimGrantDC
+2017-11-20 01:46:02 Favorites: Unable to find account timloughton during loop number 1 moving to next loop
+2017-11-20 01:46:02 Favorites: % at /sec for timloughton
+2017-11-20 01:46:03 Favorites: Unable to find account TimRose_edu during loop number 1 moving to next loop
+2017-11-20 01:46:04 Favorites: Unable to find account TimRose_edu during loop number 2 moving to next loop
+[1] "Server error: (500) Internal Server Error"
+[1] "This error is likely transient, retrying up to 5 more times ..."
+2017-11-20 01:46:05 Favorites: Unable to find account TimRose_edu during loop number 3 moving to next loop
+2017-11-20 01:46:05 Favorites: % at /sec for TimRose_edu
+[1] "Server error: (500) Internal Server Error"
+[1] "This error is likely transient, retrying up to 4 more times ..."
+[1] "Server error: (500) Internal Server Error"
+[1] "This error is likely transient, retrying up to 3 more times ..."
+2017-11-20 01:46:43 Friends  : 99% at 3/sec for therealgokwan
+2017-11-20 01:47:25 Friends  : 98.4% at 25/sec for theukfechat
+2017-11-20 01:47:31 Friends  : 100% at 43/sec for ThomRothCol
+2017-11-20 01:47:52 Tweets   : 22.1% at 29/sec for timloughton
+2017-11-20 01:48:15 Tweets   : 100% at 21/sec for TimRose_edu
+2017-11-20 01:48:36 Friends  : 100% at 27/sec for TimesEducation
+2017-11-20 01:48:49 Friends  : 100% at 30/sec for TimesNewsdesk
+2017-11-20 01:48:51 Friends  : 100% at 20/sec for TimGrantDC
+2017-11-20 01:49:04 Friends  : 99.5% at 30/sec for timloughton
+2017-11-20 01:49:42 Friends  : 97.4% at 28/sec for TimRose_edu
+Warning messages:
+1: package 'twitteR' was built under R version 3.4.1 
+2: Warning messages:
+1: package 'twitteR' was built under R version 3.4.1 
+In twInterfaceObj$doAPICall(cmd, params, method, ...) :
+ 2:  Rate limit encountered & retry limit reached - returning partial results
+In twInterfaceObj$doAPICall(cmd, params, method, ...) :
+  Rate limit encountered & retry limit reached - returning partial results
+3: In twInterfaceObj$doAPICall(cmd, params, method, ...) :
+  Rate limit encountered & retry limit reached - returning partial results

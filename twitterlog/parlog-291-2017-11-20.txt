@@ -1,0 +1,168 @@
+starting worker pid=5180 on localhost:11271 at 03:31:29.300
+starting worker pid=4508 on localhost:11271 at 03:31:29.510
+starting worker pid=4584 on localhost:11271 at 03:31:29.729
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-20 03:36:54 Friends  : 98.6% at 23/sec for weareccad
+2017-11-20 03:37:25 Friends  : 99.7% at 28/sec for westccollege
+2017-11-20 03:37:36 Friends  : 100% at 27/sec for WestCollScot
+2017-11-20 03:37:55 Friends  : 99% at 26/sec for westkentcollege
+2017-11-20 03:38:11 Friends  : 100% at 22/sec for WestThames
+2017-11-20 03:38:52 Friends  : 99.8% at 21/sec for WeymouthCollege
+2017-11-20 03:39:04 Favorites: 49.6% at 20/sec for weareccad
+2017-11-20 03:39:41 Friends  : 99.1% at 27/sec for WFCTweets
+2017-11-20 03:39:46 Favorites: 48.9% at 23/sec for westccollege
+2017-11-20 03:40:02 Friends  : 99.6% at 25/sec for WhitchurchGirl
+2017-11-20 03:40:18 Favorites: 49.8% at 28/sec for WestCollScot
+2017-11-20 03:40:23 Friends  : 99.8% at 25/sec for wiganleighcol
+2017-11-20 03:40:35 Favorites: 56% at 24/sec for westkentcollege
+2017-11-20 03:40:39 Friends  : 95.4% at 19/sec for WilberforceSFC
+2017-11-20 03:40:46 Favorites: 71.2% at 28/sec for WestThames
+2017-11-20 03:40:49 Friends  : 100% at 26/sec for WilbyPeter
+2017-11-20 03:41:06 Favorites: 53.2% at 30/sec for WeymouthCollege
+2017-11-20 03:41:24 Favorites: 55.1% at 22/sec for WFCTweets
+2017-11-20 03:41:25 Favorites: 100% at 25/sec for WhitchurchGirl
+2017-11-20 03:41:32 Friends  : 99% at 27/sec for William_Wragg
+2017-11-20 03:41:49 Friends  : 99.7% at 22/sec for willmartie
+2017-11-20 03:41:57 Favorites: 54.5% at 31/sec for wiganleighcol
+2017-11-20 03:42:30 Favorites: 59.3% at 18/sec for WilberforceSFC
+2017-11-20 03:42:30 Favorites: 100% at 3/sec for WilbyPeter
+2017-11-20 03:42:59 Friends  : 98.2% at 25/sec for willquince
+2017-11-20 03:43:03 Favorites: Waiting for 10.1 minutes due to : Used up allowance in a loop
+2017-11-20 03:43:40 Friends  : 92.5% at 29/sec for WiltsColl
+2017-11-20 03:43:45 Friends  : Waiting for 6.1 minutes
+2017-11-20 03:43:48 Tweets   : 36.2% at 25/sec for weareccad
+2017-11-20 03:45:39 Tweets   : 57.8% at 29/sec for westccollege
+2017-11-20 03:46:55 Tweets   : 99.7% at 31/sec for WestCollScot
+2017-11-20 03:48:19 Tweets   : 99.7% at 32/sec for westkentcollege
+2017-11-20 03:50:03 Tweets   : 99.7% at 30/sec for WestThames
+2017-11-20 03:50:29 Friends  : 99.5% at 2/sec for WirralMet
+2017-11-20 03:51:07 Friends  : 99.9% at 25/sec for WLancsCollege
+2017-11-20 03:51:47 Tweets   : 75.5% at 31/sec for WeymouthCollege
+2017-11-20 03:52:10 Friends  : 98.4% at 29/sec for WMCollege
+2017-11-20 03:52:47 Friends  : 99.8% at 24/sec for WokingCollege
+2017-11-20 03:53:11 Tweets   : 99.1% at 29/sec for WFCTweets
+2017-11-20 03:53:17 Friends  : 99.8% at 28/sec for wolvcoll
+2017-11-20 03:53:26 Favorites: 51.8% at 2/sec for William_Wragg
+2017-11-20 03:53:40 Friends  : 100% at 22/sec for WomenCollege
+2017-11-20 03:53:42 Favorites: 49.8% at 24/sec for willmartie
+2017-11-20 03:53:52 Friends  : 97.2% at 28/sec for WoodhouseCol
+2017-11-20 03:54:31 Friends  : 98.6% at 25/sec for WorldSkills
+2017-11-20 03:54:39 Friends  : 99.3% at 17/sec for WorthingCollege
+2017-11-20 03:54:56 Tweets   : 99.6% at 27/sec for WhitchurchGirl
+2017-11-20 03:55:19 Favorites: 48.6% at 28/sec for willquince
+2017-11-20 03:55:38 Favorites: 53.1% at 26/sec for WiltsColl
+2017-11-20 03:55:38 Friends  : 99.1% at 25/sec for WrittleOfficial
+2017-11-20 03:55:40 Friends  : 100% at 16/sec for WSFC_Official
+2017-11-20 03:55:42 Friends  : 100% at 18/sec for WykeCollege
+2017-11-20 03:55:49 Friends  : 100% at 13/sec for xaveriansfc
+2017-11-20 03:55:51 Friends  : 100% at 33/sec for XXFactorFacts
+2017-11-20 03:56:30 Favorites: 52.8% at 29/sec for WirralMet
+2017-11-20 03:56:40 Favorites: 51.1% at 28/sec for WLancsCollege
+2017-11-20 03:57:00 Tweets   : 61.3% at 26/sec for wiganleighcol
+2017-11-20 03:57:05 Favorites: 57% at 24/sec for WMCollege
+2017-11-20 03:57:15 Favorites: 72.7% at 29/sec for WokingCollege
+2017-11-20 03:57:23 Friends  : 98.9% at 25/sec for YasminQureshiMP
+2017-11-20 03:57:24 Friends  : Waiting for 7.7 minutes
+2017-11-20 03:57:25 Favorites: 64.8% at 30/sec for wolvcoll
+2017-11-20 03:57:37 Favorites: 62.9% at 34/sec for WomenCollege
+2017-11-20 03:57:48 Favorites: Waiting for 10.6 minutes due to : Used up allowance in a loop
+2017-11-20 03:58:54 Tweets   : 84.4% at 28/sec for WilberforceSFC
+2017-11-20 03:59:13 Tweets   : 100% at 19/sec for WilbyPeter
+2017-11-20 04:00:27 Tweets   : 99.6% at 28/sec for William_Wragg
+2017-11-20 04:01:38 Tweets   : 98.8% at 27/sec for willmartie
+2017-11-20 04:03:31 Tweets   : 13.1% at 28/sec for willquince
+2017-11-20 04:05:12 Tweets   : 41.8% at 32/sec for WiltsColl
+2017-11-20 04:05:21 Friends  : 100% at 0/sec for yorkshire
+2017-11-20 04:07:02 Tweets   : 92.9% at 29/sec for WirralMet
+2017-11-20 04:07:20 Friends  : 98.2% at 25/sec for youngenterprise
+2017-11-20 04:08:26 Tweets   : 99.6% at 29/sec for WLancsCollege
+2017-11-20 04:09:10 Favorites: 50.1% at 2/sec for WoodhouseCol
+2017-11-20 04:09:38 Favorites: 55.1% at 24/sec for WorldSkills
+2017-11-20 04:09:49 Tweets   : 99.9% at 26/sec for WMCollege
+2017-11-20 04:09:49 Favorites: 52.1% at 29/sec for WorthingCollege
+2017-11-20 04:10:38 Friends  : 97.5% at 23/sec for YourUKParl
+2017-11-20 04:10:45 Friends  : 100% at 13/sec for ystradcollege
+2017-11-20 04:10:50 Tweets   : 99.6% at 25/sec for WokingCollege
+2017-11-20 04:10:57 Favorites: 49.4% at 27/sec for WrittleOfficial
+2017-11-20 04:10:58 Favorites: 100% at 26/sec for WSFC_Official
+2017-11-20 04:10:59 Favorites: 98.4% at 46/sec for WykeCollege
+2017-11-20 04:11:00 Favorites: 100% at 2/sec for xaveriansfc
+2017-11-20 04:11:06 Favorites: 70.9% at 16/sec for XXFactorFacts
+2017-11-20 04:11:13 Friends  : 99% at 24/sec for YvetteCooperMP
+2017-11-20 04:11:29 Friends  : 100% at 19/sec for _EcoAqua_
+2017-11-20 04:11:37 Favorites: 54.1% at 28/sec for YasminQureshiMP
+2017-11-20 04:11:38 Favorites: 100% at 5/sec for yorkshire
+2017-11-20 04:11:40 Friends  : 100% at 24/sec for 3CTanks
+2017-11-20 04:11:49 Friends  : 100% at 20/sec for A1GasLtd
+2017-11-20 04:12:10 Favorites: 53.9% at 28/sec for youngenterprise
+2017-11-20 04:12:13 Friends  : 98.1% at 17/sec for A1oxford
+2017-11-20 04:12:26 Friends  : 99.7% at 24/sec for Abbotts24hr
+2017-11-20 04:12:45 Friends  : 98.7% at 12/sec for ABC_Plumb
+2017-11-20 04:12:49 Favorites: 52.3% at 27/sec for YourUKParl
+2017-11-20 04:12:50 Favorites: 100% at 3/sec for ystradcollege
+2017-11-20 04:12:52 Tweets   : 45.4% at 26/sec for wolvcoll
+2017-11-20 04:12:55 Friends  : 99.5% at 21/sec for abensonplumin
+2017-11-20 04:12:55 Favorites: 100% at 5/sec for YvetteCooperMP
+2017-11-20 04:12:55 Favorites: 100% at 3/sec for _EcoAqua_
+2017-11-20 04:12:55 Favorites: User 3CTanks has a protected account or no Favoritess to collect so skipping
+2017-11-20 04:12:55 Favorites: User A1GasLtd has a protected account or no Favoritess to collect so skipping
+2017-11-20 04:12:55 Favorites: Waiting for 10.7 minutes due to : Used up allowance in a loop
+2017-11-20 04:13:06 Friends  : 97.9% at 29/sec for able_p1umbing
+2017-11-20 04:13:06 Friends  : User Accolade_hants has a protected account or no Friendss to collect so skipping
+2017-11-20 04:13:06 Friends  : User AccRossTrades has a protected account or no Friendss to collect so skipping
+2017-11-20 04:13:16 Friends  : 95% at 21/sec for adt_gas
+2017-11-20 04:13:45 Friends  : 93.5% at 29/sec for AdvanceALTD
+2017-11-20 04:13:45 Friends  : Waiting for 6.5 minutes
+2017-11-20 04:14:51 Tweets   : 83.3% at 26/sec for WomenCollege
+Error in twInterfaceObj$doAPICall(cmd, params, method, ...) : 
+  Service Unavailable (HTTP 503).
+In addition: Warning message:
+package 'twitteR' was built under R version 3.4.1 
+2017-11-20 04:15:12 Tweets: Unable to find account WoodhouseCol moving to next
+2017-11-20 04:15:12 Tweets   : % at /sec for WoodhouseCol
+2017-11-20 04:17:08 Tweets   : 99.9% at 27/sec for WorldSkills
+2017-11-20 04:19:06 Tweets   : 51.7% at 27/sec for WorthingCollege
+2017-11-20 04:21:06 Tweets   : 33.9% at 27/sec for WrittleOfficial
+2017-11-20 04:21:13 Friends  : 98.9% at 3/sec for AffinityWater
+2017-11-20 04:21:20 Tweets   : 100% at 22/sec for WSFC_Official
+2017-11-20 04:21:48 Friends  : 98.1% at 26/sec for AGSM_UK
+2017-11-20 04:22:12 Tweets   : 94.4% at 30/sec for WykeCollege
+2017-11-20 04:23:08 Tweets   : 99.3% at 29/sec for xaveriansfc
+2017-11-20 04:23:30 Tweets   : 99.8% at 27/sec for XXFactorFacts
+2017-11-20 04:23:57 Favorites: 96.8% at 0/sec for A1oxford
+2017-11-20 04:23:57 Favorites: 100% at 21/sec for Abbotts24hr
+2017-11-20 04:23:59 Favorites: 98.9% at 49/sec for ABC_Plumb
+2017-11-20 04:24:00 Favorites: 82.4% at 33/sec for abensonplumin
+2017-11-20 04:24:10 Favorites: 65.4% at 29/sec for able_p1umbing
+2017-11-20 04:24:10 Favorites: User Accolade_hants has a protected account or no Favoritess to collect so skipping
+2017-11-20 04:24:10 Favorites: User AccRossTrades has a protected account or no Favoritess to collect so skipping
+2017-11-20 04:24:18 Favorites: 97.1% at 25/sec for adt_gas
+2017-11-20 04:24:19 Favorites: 100% at 51/sec for AdvanceALTD
+2017-11-20 04:25:18 Tweets   : 62.7% at 29/sec for YasminQureshiMP
+2017-11-20 04:25:33 Favorites: 50.7% at 28/sec for AffinityWater
+2017-11-20 04:25:34 Favorites: 91.7% at 32/sec for AGSM_UK
+2017-11-20 04:25:39 Tweets   : 99.8% at 25/sec for yorkshire
+2017-11-20 04:27:25 Tweets   : 37.7% at 30/sec for youngenterprise
+2017-11-20 04:29:14 Tweets   : 53.5% at 29/sec for YourUKParl
+2017-11-20 04:29:41 Tweets   : 99.7% at 22/sec for ystradcollege
+2017-11-20 04:31:32 Tweets   : 62.3% at 29/sec for YvetteCooperMP
+2017-11-20 04:31:42 Tweets   : 100% at 4/sec for _EcoAqua_
+2017-11-20 04:32:04 Tweets   : 100% at 24/sec for 3CTanks
+2017-11-20 04:32:10 Tweets   : 100% at 1/sec for A1GasLtd
+2017-11-20 04:33:58 Tweets   : 46.9% at 30/sec for A1oxford
+2017-11-20 04:34:16 Tweets   : 100% at 15/sec for Abbotts24hr
+2017-11-20 04:34:30 Tweets   : 100% at 19/sec for ABC_Plumb
+2017-11-20 04:34:44 Tweets   : 99% at 21/sec for abensonplumin
+2017-11-20 04:34:56 Tweets   : 99.4% at 13/sec for able_p1umbing
+2017-11-20 04:34:56 Tweets   : User Accolade_hants has a protected account or no Tweetss to collect so skipping
+2017-11-20 04:34:56 Tweets   : User AccRossTrades has a protected account or no Tweetss to collect so skipping
+2017-11-20 04:35:10 Tweets   : 99.5% at 16/sec for adt_gas
+2017-11-20 04:35:23 Tweets   : 100% at 14/sec for AdvanceALTD
+2017-11-20 04:37:12 Tweets   : 18.4% at 29/sec for AffinityWater
+2017-11-20 04:37:23 Tweets   : 98.7% at 7/sec for AGSM_UK
+Warning message:
+Warning message:
+was built under R version 3.4.1 
+package 'twitteR' was built under R version 3.4.1 

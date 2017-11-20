@@ -1,0 +1,167 @@
+starting worker pid=14200 on localhost:11271 at 11:10:52.469
+starting worker pid=11168 on localhost:11271 at 11:10:52.688
+starting worker pid=3400 on localhost:11271 at 11:10:52.907
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-19 11:14:45 Friends  : 99.7% at 21/sec for JoeMurphyLondon
+2017-11-19 11:15:48 Friends  : 98.9% at 30/sec for JoeVinson
+2017-11-19 11:15:53 Friends  : 99.5% at 41/sec for Johna0_7
+2017-11-19 11:15:56 Friends  : 99% at 40/sec for johndunford
+2017-11-19 11:16:20 Friends  : 99.4% at 27/sec for johnfella1
+2017-11-19 11:17:10 Friends  : 99.3% at 32/sec for JohnGlenUK
+2017-11-19 11:17:15 Favorites: 92.7% at 30/sec for JoeMurphyLondon
+2017-11-19 11:17:20 Friends  : 100% at 27/sec for JohnGordonOrg
+2017-11-19 11:17:54 Friends  : 99.6% at 29/sec for JohnLeggottColl
+2017-11-19 11:18:09 Favorites: 49.4% at 22/sec for JoeVinson
+2017-11-19 11:18:13 Friends  : 99.1% at 28/sec for JohnMag20
+2017-11-19 11:18:13 Favorites: 61% at 50/sec for Johna0_7
+2017-11-19 11:18:21 Favorites: 64.7% at 26/sec for johndunford
+2017-11-19 11:18:25 Favorites: 51.9% at 50/sec for johnfella1
+2017-11-19 11:18:25 Friends  : 99.2% at 32/sec for JohnMannMP
+2017-11-19 11:18:30 Favorites: 100% at 15/sec for JohnGlenUK
+2017-11-19 11:18:31 Favorites: 100% at 14/sec for JohnGordonOrg
+2017-11-19 11:18:37 Friends  : 98.9% at 30/sec for JohnMcNallyMP
+2017-11-19 11:19:12 Favorites: 50.8% at 31/sec for JohnLeggottColl
+2017-11-19 11:19:13 Favorites: 100% at 31/sec for JohnMag20
+2017-11-19 11:19:17 Friends  : 98.1% at 29/sec for JohnnyMercerUK
+2017-11-19 11:19:17 Friends  : Waiting for 9.8 minutes
+2017-11-19 11:19:35 Favorites: 55% at 35/sec for JohnMannMP
+2017-11-19 11:19:43 Favorites: 88.7% at 26/sec for JohnMcNallyMP
+2017-11-19 11:21:07 Favorites: Waiting for 11.1 minutes due to : Used up allowance in a loop
+2017-11-19 11:22:12 Tweets   : 41.7% at 32/sec for JoeMurphyLondon
+2017-11-19 11:23:38 Tweets   : 23.5% at 37/sec for JoeVinson
+2017-11-19 11:24:28 Tweets   : 99.5% at 36/sec for Johna0_7
+2017-11-19 11:26:01 Tweets   : 52.8% at 34/sec for johndunford
+2017-11-19 11:27:15 Tweets   : 98.2% at 31/sec for johnfella1
+2017-11-19 11:28:01 Tweets   : 99.8% at 36/sec for JohnGlenUK
+2017-11-19 11:28:17 Tweets   : 99.8% at 25/sec for JohnGordonOrg
+2017-11-19 11:29:42 Tweets   : 44.7% at 37/sec for JohnLeggottColl
+2017-11-19 11:30:43 Tweets   : 99.7% at 35/sec for JohnMag20
+2017-11-19 11:32:11 Tweets   : 41.9% at 36/sec for JohnMannMP
+2017-11-19 11:32:35 Favorites: 49.8% at 4/sec for JohnnyMercerUK
+2017-11-19 11:32:38 Favorites: 62.6% at 59/sec for JohnPenroseNews
+2017-11-19 11:32:46 Favorites: 71.3% at 26/sec for johnprescott
+2017-11-19 11:32:47 Favorites: 100% at 52/sec for johnpugh2017
+2017-11-19 11:32:47 Favorites: 100% at 14/sec for johnredwood
+2017-11-19 11:32:48 Favorites: 96.6% at 53/sec for JohnStevensonMP
+2017-11-19 11:33:05 Tweets   : 99.9% at 32/sec for JohnMcNallyMP
+2017-11-19 11:34:05 Favorites: 51.2% at 33/sec for jon_severs
+2017-11-19 11:34:07 Favorites: 57.2% at 60/sec for jon_trickett
+2017-11-19 11:34:38 Tweets   : 22.9% at 34/sec for JohnnyMercerUK
+2017-11-19 11:34:44 Favorites: 52.5% at 31/sec for JonAshworth
+2017-11-19 11:36:04 Tweets   : 99.8% at 34/sec for JohnPenroseNews
+2017-11-19 11:36:14 Favorites: 51.2% at 31/sec for jonathansimons
+2017-11-19 11:36:15 Favorites: Waiting for 11.2 minutes due to : Used up allowance in a loop
+2017-11-19 11:37:35 Tweets   : 14.1% at 35/sec for johnprescott
+2017-11-19 11:38:22 Tweets   : 99.7% at 31/sec for johnpugh2017
+2017-11-19 11:39:52 Tweets   : 81.6% at 36/sec for johnredwood
+2017-11-19 11:40:21 Tweets   : 99.4% at 27/sec for JohnStevensonMP
+2017-11-19 11:41:54 Tweets   : 31.9% at 34/sec for jon_severs
+2017-11-19 11:43:28 Tweets   : 38.8% at 34/sec for jon_trickett
+2017-11-19 11:45:10 Friends  : 99.5% at 18/sec for JohnPenroseNews
+2017-11-19 11:45:14 Tweets   : 14.8% at 30/sec for JonAshworth
+2017-11-19 11:45:34 Friends  : 99.9% at 36/sec for johnprescott
+2017-11-19 11:45:42 Friends  : 99% at 24/sec for johnpugh2017
+2017-11-19 11:45:54 Friends  : 98.6% at 35/sec for johnredwood
+2017-11-19 11:45:59 Friends  : 99.6% at 43/sec for JohnStevensonMP
+2017-11-19 11:46:38 Tweets   : 15.2% at 38/sec for jonathansimons
+2017-11-19 11:46:41 Friends  : 98.9% at 32/sec for jon_severs
+2017-11-19 11:47:10 Friends  : 98.8% at 27/sec for jon_trickett
+2017-11-19 11:47:23 Tweets   : 99.6% at 35/sec for JonCruddas_1
+2017-11-19 11:47:52 Favorites: 50% at 0/sec for JonCruddas_1
+2017-11-19 11:48:05 Friends  : 99.4% at 40/sec for JonAshworth
+2017-11-19 11:48:22 Favorites: 50.7% at 32/sec for JonesJourno
+2017-11-19 11:48:26 Friends  : 98.7% at 31/sec for jonathansimons
+2017-11-19 11:48:32 Favorites: 67.9% at 32/sec for josephlee
+2017-11-19 11:48:34 Favorites: 81.7% at 48/sec for jp_clifton
+2017-11-19 11:48:41 Favorites: 49.4% at 25/sec for JPonpolitics
+2017-11-19 11:48:43 Favorites: 81.9% at 51/sec for jriggers
+2017-11-19 11:48:43 Favorites: User JRobinsonatPC has a protected account or no Favoritess to collect so skipping
+2017-11-19 11:48:44 Friends  : 99.4% at 43/sec for JonCruddas_1
+2017-11-19 11:48:44 Favorites: 98% at 49/sec for JRuskinCollege
+2017-11-19 11:48:51 Tweets   : 53% at 36/sec for JonesJourno
+2017-11-19 11:49:07 Friends  : 99.6% at 34/sec for JonesJourno
+2017-11-19 11:49:14 Favorites: 50.7% at 33/sec for Judith_Doyle9
+2017-11-19 11:49:20 Favorites: 57.4% at 17/sec for JudyFriedberg
+2017-11-19 11:49:25 Friends  : 99.3% at 40/sec for josephlee
+2017-11-19 11:49:41 Favorites: 51.1% at 36/sec for julianknight15
+2017-11-19 11:49:52 Friends  : 99.7% at 34/sec for jp_clifton
+2017-11-19 11:49:57 Tweets   : 100% at 35/sec for josephlee
+2017-11-19 11:50:10 Favorites: 50.2% at 35/sec for JulianSmithUK
+2017-11-19 11:50:19 Favorites: 59.2% at 32/sec for JulieElliottMP
+2017-11-19 11:50:30 Friends  : 99.6% at 38/sec for JPonpolitics
+2017-11-19 11:50:51 Tweets   : 99.7% at 33/sec for jp_clifton
+2017-11-19 11:51:25 Favorites: Waiting for 11.3 minutes due to : Used up allowance in a loop
+2017-11-19 11:51:38 Friends  : 99.8% at 37/sec for jriggers
+2017-11-19 11:51:40 Friends  : 100% at 35/sec for JRobinsonatPC
+2017-11-19 11:51:40 Friends  : Waiting for 8.6 minutes
+2017-11-19 11:52:09 Tweets   : 100% at 37/sec for JPonpolitics
+2017-11-19 11:53:31 Tweets   : 31.9% at 39/sec for jriggers
+2017-11-19 11:53:37 Tweets   : 100% at 4/sec for JRobinsonatPC
+2017-11-19 11:53:47 Tweets   : 99.4% at 16/sec for JRuskinCollege
+2017-11-19 11:54:36 Tweets   : 99.4% at 36/sec for Judith_Doyle9
+2017-11-19 11:55:56 Tweets   : 96.3% at 40/sec for JudyFriedberg
+2017-11-19 11:57:23 Tweets   : 28.4% at 36/sec for julianknight15
+2017-11-19 11:58:43 Tweets   : 50.2% at 40/sec for JulianSmithUK
+2017-11-19 12:00:04 Tweets   : 98.3% at 39/sec for JulieElliottMP
+2017-11-19 12:00:29 Friends  : 100% at 0/sec for JRuskinCollege
+2017-11-19 12:00:35 Friends  : 99.3% at 21/sec for Judith_Doyle9
+2017-11-19 12:00:50 Friends  : 99.8% at 46/sec for JudyFriedberg
+2017-11-19 12:01:05 Friends  : 98.6% at 41/sec for julianknight15
+2017-11-19 12:01:42 Tweets   : 7.9% at 33/sec for Just_RichardB
+2017-11-19 12:02:19 Friends  : 99.7% at 43/sec for JulianSmithUK
+2017-11-19 12:02:46 Tweets   : 99.8% at 44/sec for JustineGreening
+2017-11-19 12:03:31 Favorites: 14.5% at 4/sec for Just_RichardB
+2017-11-19 12:03:31 Favorites: 100% at 34/sec for JustineGreening
+2017-11-19 12:03:55 Favorites: 53.1% at 33/sec for justinmadders
+2017-11-19 12:03:57 Friends  : 99.1% at 35/sec for JulieElliottMP
+2017-11-19 12:04:26 Favorites: 51.2% at 32/sec for JustinTomlinson
+2017-11-19 12:04:27 Favorites: 100% at 25/sec for JWhittingdale
+2017-11-19 12:04:28 Tweets   : 38.9% at 31/sec for justinmadders
+2017-11-19 12:05:34 Friends  : 98.9% at 32/sec for Just_RichardB
+2017-11-19 12:05:56 Friends  : 99.8% at 28/sec for JustineGreening
+2017-11-19 12:06:05 Tweets   : 57% at 33/sec for JustinTomlinson
+2017-11-19 12:06:13 Favorites: 46.4% at 30/sec for JWoodcockMP
+2017-11-19 12:06:15 Favorites: 73.1% at 49/sec for JYDenham
+2017-11-19 12:06:15 Favorites: User KarenBuckMP_ has a protected account or no Favoritess to collect so skipping
+2017-11-19 12:06:17 Friends  : 99.4% at 37/sec for justinmadders
+2017-11-19 12:06:17 Tweets   : 100% at 12/sec for JWhittingdale
+2017-11-19 12:06:34 Favorites: 50% at 31/sec for KarenRedhead99
+2017-11-19 12:06:53 Favorites: Waiting for 11.1 minutes due to : Used up allowance in a loop
+2017-11-19 12:07:08 Friends  : 98% at 30/sec for JustinTomlinson
+2017-11-19 12:07:11 Friends  : 97.9% at 37/sec for JWhittingdale
+2017-11-19 12:07:53 Tweets   : 15.1% at 33/sec for JWoodcockMP
+2017-11-19 12:08:59 Friends  : 99.6% at 31/sec for JWoodcockMP
+2017-11-19 12:09:15 Friends  : 99.8% at 30/sec for JYDenham
+2017-11-19 12:09:16 Friends  : 100% at 25/sec for KarenBuckMP_
+2017-11-19 12:09:28 Friends  : 99.3% at 26/sec for KarenRedhead99
+2017-11-19 12:09:28 Friends  : Waiting for 6.1 minutes
+2017-11-19 12:09:37 Tweets   : 58.6% at 31/sec for JYDenham
+2017-11-19 12:09:44 Tweets   : 100% at 6/sec for KarenBuckMP_
+2017-11-19 12:10:09 Tweets   : 100% at 28/sec for KarenRedhead99
+2017-11-19 12:11:53 Tweets   : 4.6% at 31/sec for KarlTurnerMP
+2017-11-19 12:13:30 Tweets   : 97.6% at 33/sec for KateHoeyMP
+2017-11-19 12:15:13 Tweets   : 13% at 31/sec for KateOsamor
+2017-11-19 12:16:57 Tweets   : 88.5% at 31/sec for KC_College
+2017-11-19 12:17:04 Tweets   : 100% at 17/sec for kcc_business
+2017-11-19 12:18:56 Tweets   : 92.5% at 28/sec for KCupdate
+2017-11-19 12:19:41 Favorites: 16% at 4/sec for KarlTurnerMP
+2017-11-19 12:19:43 Favorites: 98.8% at 52/sec for KateHoeyMP
+2017-11-19 12:20:17 Friends  : 98.8% at 13/sec for KarlTurnerMP
+2017-11-19 12:20:44 Friends  : 98.4% at 29/sec for KateHoeyMP
+2017-11-19 12:21:22 Friends  : 99% at 32/sec for KateOsamor
+2017-11-19 12:21:23 Favorites: 42.5% at 31/sec for KateOsamor
+2017-11-19 12:21:37 Favorites: 55.8% at 37/sec for KC_College
+2017-11-19 12:21:37 Friends  : 100% at 33/sec for KC_College
+2017-11-19 12:21:37 Favorites: 100% at 3/sec for kcc_business
+2017-11-19 12:21:46 Friends  : 100% at 19/sec for kcc_business
+2017-11-19 12:22:03 Favorites: Waiting for 11.2 minutes due to : Used up allowance in a loop
+2017-11-19 12:22:05 Friends  : 99.2% at 32/sec for KCupdate
+2017-11-19 12:33:38 Favorites: 50.3% at 1/sec for KCupdate
+Warning message:
+Warning message:
+was built under R version 3.4.1 
+package 'twitteR' was built under R version 3.4.1 
+Warning message:
+package 'twitteR' was built under R version 3.4.1 

@@ -1,0 +1,171 @@
+starting worker pid=12180 on localhost:11271 at 23:56:55.795
+starting worker pid=13936 on localhost:11271 at 23:56:55.952
+starting worker pid=5164 on localhost:11271 at 23:56:56.108
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-15 23:58:11 Friends  : 99.2% at 37/sec for LBofHavering
+2017-11-15 23:58:54 Favorites: 53.4% at 34/sec for LBofHavering
+2017-11-15 23:58:57 Favorites: 71.7% at 38/sec for LEConsultancy
+2017-11-15 23:58:58 Favorites: 100% at 29/sec for LKHeritage
+2017-11-15 23:58:59 Favorites: 100% at 12/sec for LoversRetreats
+2017-11-15 23:59:02 Friends  : 99.9% at 34/sec for LEConsultancy
+2017-11-15 23:59:05 Friends  : 98.7% at 26/sec for LKHeritage
+2017-11-15 23:59:09 Friends  : 97.3% at 31/sec for LoversRetreats
+2017-11-15 23:59:15 Favorites: 55% at 37/sec for lsiarchitects
+2017-11-15 23:59:18 Favorites: 53.5% at 43/sec for Lucy_InstaGroup
+2017-11-15 23:59:20 Favorites: 61.1% at 47/sec for lushgardens
+2017-11-15 23:59:29 Favorites: 52.5% at 41/sec for MasterTradesmen
+2017-11-15 23:59:30 Favorites: 100% at 20/sec for mdbuildingcont1
+2017-11-15 23:59:32 Favorites: 95.2% at 38/sec for MEGArchitects
+2017-11-15 23:59:33 Favorites: 100% at 8/sec for MelroseCons
+2017-11-15 23:59:36 Favorites: 82.5% at 37/sec for MetropolitanOrg
+2017-11-15 23:59:38 Favorites: 87.7% at 40/sec for MetrotileUK
+2017-11-15 23:59:43 Favorites: 50.4% at 36/sec for Mike_Baynham
+2017-11-15 23:59:58 Friends  : 99% at 42/sec for lsiarchitects
+2017-11-16 00:00:03 Friends  : 99.4% at 32/sec for Lucy_InstaGroup
+2017-11-16 00:00:03 Friends  : Waiting for 7 minutes
+2017-11-16 00:00:19 Tweets   : 14% at 49/sec for LBofHavering
+2017-11-16 00:00:20 Favorites: 52.9% at 35/sec for MoleValleyDC
+2017-11-16 00:00:20 Favorites: 100% at 13/sec for MoorlandsFarm
+2017-11-16 00:00:41 Favorites: 50.6% at 42/sec for MyDoncaster
+2017-11-16 00:00:56 Favorites: 52.2% at 41/sec for nakutaviciute
+2017-11-16 00:00:58 Tweets   : 99.8% at 49/sec for LEConsultancy
+2017-11-16 00:00:58 Favorites: 50.3% at 45/sec for NathanCronk
+2017-11-16 00:00:58 Favorites: Waiting for 1.5 minutes due to : Used up allowance in a loop
+2017-11-16 00:01:05 Tweets   : 100% at 11/sec for LKHeritage
+2017-11-16 00:01:16 Tweets   : 100% at 27/sec for LoversRetreats
+2017-11-16 00:02:12 Tweets   : 99.5% at 52/sec for lsiarchitects
+2017-11-16 00:02:26 Tweets   : 98.3% at 34/sec for Lucy_InstaGroup
+2017-11-16 00:02:29 Favorites: 100% at 0/sec for NCArchitectsLtd
+2017-11-16 00:02:38 Favorites: 49.5% at 45/sec for NewsfromYHN
+2017-11-16 00:02:40 Favorites: 95.9% at 29/sec for Noisecouk
+2017-11-16 00:03:12 Tweets   : 99.7% at 52/sec for lushgardens
+2017-11-16 00:03:41 Tweets   : 100% at 45/sec for MasterTradesmen
+2017-11-16 00:03:50 Tweets   : 100% at 16/sec for mdbuildingcont1
+2017-11-16 00:03:57 Favorites: 48.3% at 40/sec for NorthNottsBC
+2017-11-16 00:03:57 Tweets   : 100% at 10/sec for MEGArchitects
+2017-11-16 00:04:07 Tweets   : 100% at 13/sec for MelroseCons
+2017-11-16 00:04:14 Favorites: 49.9% at 41/sec for NottsCC
+2017-11-16 00:04:19 Favorites: 60% at 43/sec for NovaConstrCnwll
+2017-11-16 00:04:31 Favorites: 58.4% at 41/sec for Ocean_Housing
+2017-11-16 00:04:41 Favorites: 57% at 37/sec for ollycogan1
+2017-11-16 00:04:44 Favorites: 98.2% at 27/sec for oRagdog
+2017-11-16 00:04:46 Favorites: 67.1% at 43/sec for OrwellHousing
+2017-11-16 00:04:47 Tweets   : 99.8% at 48/sec for MetropolitanOrg
+2017-11-16 00:04:50 Favorites: 62.4% at 44/sec for paul_kallah
+2017-11-16 00:05:10 Tweets   : 100% at 38/sec for MetrotileUK
+2017-11-16 00:05:20 Tweets   : 98.5% at 24/sec for Mike_Baynham
+2017-11-16 00:05:27 Favorites: Waiting for 12 minutes due to : Used up allowance in a loop
+2017-11-16 00:06:25 Tweets   : 15.1% at 50/sec for MoleValleyDC
+2017-11-16 00:06:34 Tweets   : 100% at 17/sec for MoorlandsFarm
+2017-11-16 00:07:35 Friends  : 99.9% at 2/sec for lushgardens
+2017-11-16 00:07:38 Tweets   : 25.1% at 50/sec for MyDoncaster
+2017-11-16 00:07:54 Tweets   : 99.8% at 36/sec for nakutaviciute
+2017-11-16 00:08:14 Tweets   : 99.7% at 37/sec for NathanCronk
+2017-11-16 00:08:24 Tweets   : 100% at 19/sec for NCArchitectsLtd
+2017-11-16 00:08:44 Friends  : 96.5% at 46/sec for MasterTradesmen
+2017-11-16 00:08:52 Friends  : 97.3% at 36/sec for mdbuildingcont1
+2017-11-16 00:08:54 Friends  : 96.3% at 41/sec for MEGArchitects
+2017-11-16 00:09:14 Friends  : 99.9% at 40/sec for MelroseCons
+2017-11-16 00:09:15 Tweets   : 99.7% at 49/sec for NewsfromYHN
+2017-11-16 00:09:23 Tweets   : 100% at 11/sec for Noisecouk
+2017-11-16 00:09:27 Friends  : 99.6% at 42/sec for MetropolitanOrg
+2017-11-16 00:09:45 Friends  : 97.7% at 43/sec for MetrotileUK
+2017-11-16 00:09:50 Friends  : 97.9% at 37/sec for Mike_Baynham
+2017-11-16 00:10:07 Friends  : 98.4% at 40/sec for MoleValleyDC
+2017-11-16 00:10:08 Friends  : 100% at 16/sec for MoorlandsFarm
+2017-11-16 00:10:29 Friends  : 99% at 38/sec for MyDoncaster
+2017-11-16 00:10:32 Tweets   : 5.7% at 46/sec for NorthNottsBC
+2017-11-16 00:10:46 Friends  : 94% at 44/sec for nakutaviciute
+2017-11-16 00:10:58 Friends  : 99.1% at 37/sec for NathanCronk
+2017-11-16 00:11:00 Friends  : 95.8% at 29/sec for NCArchitectsLtd
+2017-11-16 00:11:24 Friends  : 99.6% at 37/sec for NewsfromYHN
+2017-11-16 00:11:25 Friends  : Waiting for 10.9 minutes
+2017-11-16 00:11:38 Tweets   : 16.3% at 48/sec for NottsCC
+2017-11-16 00:12:07 Tweets   : 99.9% at 41/sec for NovaConstrCnwll
+2017-11-16 00:13:02 Tweets   : 99.8% at 47/sec for Ocean_Housing
+2017-11-16 00:13:26 Tweets   : 100% at 44/sec for ollycogan1
+2017-11-16 00:13:39 Tweets   : 97.6% at 28/sec for oRagdog
+2017-11-16 00:13:47 Tweets   : 26.2% at 51/sec for OrwellHousing
+2017-11-16 00:13:47 Tweets   : Waiting for 0.5 minutes
+2017-11-16 00:15:19 Tweets   : 18.5% at 34/sec for paul_kallah
+2017-11-16 00:16:22 Tweets   : 63.9% at 51/sec for phljames70
+2017-11-16 00:16:44 Tweets   : 99.9% at 40/sec for PHPropertyUK
+2017-11-16 00:17:23 Tweets   : 99.9% at 44/sec for PixelPoi
+2017-11-16 00:17:41 Tweets   : 100% at 37/sec for PLGConsultants
+2017-11-16 00:18:30 Favorites: 26% at 4/sec for phljames70
+2017-11-16 00:18:44 Favorites: 51.4% at 35/sec for PHPropertyUK
+2017-11-16 00:18:51 Favorites: 60.9% at 41/sec for PixelPoi
+2017-11-16 00:18:52 Favorites: 100% at 59/sec for PLGConsultants
+2017-11-16 00:18:54 Tweets   : 66.1% at 43/sec for Populous
+2017-11-16 00:19:04 Tweets   : 99.6% at 23/sec for powell624
+2017-11-16 00:19:18 Favorites: 50.2% at 40/sec for Populous
+2017-11-16 00:19:19 Favorites: 82.4% at 26/sec for powell624
+2017-11-16 00:19:21 Favorites: 83.3% at 39/sec for r_m_parry
+2017-11-16 00:19:23 Favorites: 100% at 30/sec for RegenDave
+2017-11-16 00:19:33 Favorites: 65.9% at 41/sec for rhodes_partners
+2017-11-16 00:19:36 Favorites: 62.1% at 35/sec for RIBACornwall
+2017-11-16 00:19:39 Tweets   : 99.5% at 44/sec for r_m_parry
+2017-11-16 00:19:52 Tweets   : 100% at 30/sec for RegenDave
+2017-11-16 00:19:55 Favorites: 52.5% at 41/sec for RidgeLLP
+2017-11-16 00:19:57 Favorites: 64.9% at 48/sec for ROB1NSON
+2017-11-16 00:19:57 Favorites: 100% at 27/sec for robertslimbrick
+2017-11-16 00:19:57 Favorites: User robertwoodhead has a protected account or no Favoritess to collect so skipping
+2017-11-16 00:19:59 Favorites: 100% at 1/sec for RPAussie
+2017-11-16 00:20:00 Tweets   : 100% at 17/sec for rhodes_partners
+2017-11-16 00:20:15 Tweets   : 99.8% at 27/sec for RIBACornwall
+2017-11-16 00:20:35 Favorites: 50.4% at 41/sec for sabia_hussain
+2017-11-16 00:20:37 Favorites: 83.3% at 43/sec for SARHomes
+2017-11-16 00:20:43 Favorites: Waiting for 12.1 minutes due to : Used up allowance in a loop
+2017-11-16 00:21:17 Tweets   : 72% at 52/sec for RidgeLLP
+2017-11-16 00:21:28 Tweets   : 100% at 22/sec for ROB1NSON
+2017-11-16 00:21:39 Tweets   : 99.6% at 25/sec for robertslimbrick
+2017-11-16 00:21:44 Tweets   : 100% at 0/sec for robertwoodhead
+2017-11-16 00:21:50 Tweets   : 100% at 1/sec for RPAussie
+2017-11-16 00:22:44 Friends  : 96.6% at 0/sec for Noisecouk
+2017-11-16 00:23:00 Tweets   : 99.8% at 43/sec for sabia_hussain
+2017-11-16 00:23:27 Tweets   : 99.9% at 34/sec for SARHomes
+2017-11-16 00:23:31 Friends  : 97.7% at 38/sec for NorthNottsBC
+2017-11-16 00:23:39 Friends  : 98.4% at 48/sec for NottsCC
+2017-11-16 00:23:58 Friends  : 98.5% at 48/sec for NovaConstrCnwll
+2017-11-16 00:24:32 Friends  : 98.9% at 43/sec for Ocean_Housing
+2017-11-16 00:24:38 Tweets   : 53.5% at 45/sec for SelbyDC
+2017-11-16 00:24:51 Tweets   : 97.8% at 37/sec for SGEstatesUK
+2017-11-16 00:25:35 Friends  : 95.1% at 44/sec for ollycogan1
+2017-11-16 00:25:38 Friends  : 97% at 26/sec for oRagdog
+2017-11-16 00:25:41 Friends  : 99.1% at 32/sec for OrwellHousing
+2017-11-16 00:25:57 Friends  : 98.8% at 45/sec for paul_kallah
+2017-11-16 00:25:58 Tweets   : 21.9% at 48/sec for ShopCotswolds
+2017-11-16 00:26:09 Friends  : 98.4% at 37/sec for phljames70
+2017-11-16 00:26:29 Friends  : 95.7% at 42/sec for PHPropertyUK
+2017-11-16 00:26:38 Friends  : 99.7% at 42/sec for PixelPoi
+2017-11-16 00:27:02 Friends  : 99.2% at 43/sec for PLGConsultants
+2017-11-16 00:27:34 Friends  : 99.6% at 41/sec for Populous
+2017-11-16 00:27:39 Friends  : 100% at 37/sec for powell624
+2017-11-16 00:27:39 Friends  : Waiting for 10 minutes
+2017-11-16 00:33:21 Favorites: 51.1% at 1/sec for SelbyDC
+2017-11-16 00:33:22 Favorites: 98.2% at 57/sec for SGEstatesUK
+2017-11-16 00:33:46 Favorites: 50.7% at 42/sec for ShopCotswolds
+2017-11-16 00:38:21 Friends  : 99.4% at 2/sec for r_m_parry
+2017-11-16 00:38:41 Friends  : 99.9% at 41/sec for RegenDave
+2017-11-16 00:38:44 Friends  : 94.1% at 39/sec for rhodes_partners
+2017-11-16 00:38:51 Friends  : 100% at 39/sec for RIBACornwall
+2017-11-16 00:39:41 Friends  : 99.7% at 46/sec for RidgeLLP
+2017-11-16 00:39:48 Friends  : 98.9% at 41/sec for ROB1NSON
+2017-11-16 00:39:50 Friends  : 99% at 38/sec for robertslimbrick
+2017-11-16 00:39:50 Friends  : User robertwoodhead has a protected account or no Friendss to collect so skipping
+2017-11-16 00:39:51 Friends  : 100% at 12/sec for RPAussie
+2017-11-16 00:40:10 Friends  : 97.8% at 44/sec for sabia_hussain
+2017-11-16 00:40:21 Friends  : 98.9% at 49/sec for SARHomes
+2017-11-16 00:40:39 Friends  : 97.5% at 46/sec for SelbyDC
+2017-11-16 00:40:41 Friends  : 100% at 28/sec for SGEstatesUK
+2017-11-16 00:42:45 Friends  : 99.8% at 43/sec for ShopCotswolds
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+Warning messages:
+1: package 'twitteR' was built under R version 3.4.1 
+2: In twInterfaceObj$doAPICall(cmd, params, method, ...) :
+  Rate limit encountered & retry limit reached - returning partial results

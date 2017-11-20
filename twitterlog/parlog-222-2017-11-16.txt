@@ -1,0 +1,172 @@
+starting worker pid=6728 on localhost:11271 at 17:47:09.838
+starting worker pid=14588 on localhost:11271 at 17:47:10.008
+starting worker pid=13792 on localhost:11271 at 17:47:10.177
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-16 17:48:54 Friends  : 96.9% at 37/sec for ChimniWalley
+2017-11-16 17:49:23 Friends  : 98.3% at 38/sec for ChrisBaileyLdn
+2017-11-16 17:49:45 Favorites: 57.2% at 30/sec for ChimniWalley
+2017-11-16 17:50:16 Favorites: Waiting for 7.2 minutes due to : Used up allowance in a loop
+2017-11-16 17:50:18 Friends  : 99.3% at 34/sec for ChrisBeanland
+2017-11-16 17:50:36 Friends  : 99.1% at 37/sec for ChrisE_CSR
+2017-11-16 17:51:16 Friends  : 99.6% at 39/sec for clairecurtice
+2017-11-16 17:51:25 Friends  : 99.4% at 39/sec for ClarenceHouse
+2017-11-16 17:51:47 Tweets   : 100% at 42/sec for ChimniWalley
+2017-11-16 17:52:41 Friends  : 98.5% at 39/sec for CllrKennedy
+2017-11-16 17:52:50 Friends  : 99.4% at 37/sec for CooperRobertson
+2017-11-16 17:52:54 Friends  : 95.3% at 29/sec for corneliustweets
+2017-11-16 17:53:07 Tweets   : 29% at 40/sec for ChrisBaileyLdn
+2017-11-16 17:53:17 Friends  : 99.2% at 42/sec for CornerhousePubs
+2017-11-16 17:54:22 Tweets   : 35.3% at 43/sec for ChrisBeanland
+2017-11-16 17:55:11 Tweets   : 99.8% at 43/sec for ChrisE_CSR
+2017-11-16 17:55:20 Friends  : 100% at 36/sec for CountrysideProp
+2017-11-16 17:55:22 Friends  : 100% at 29/sec for creative_scape
+2017-11-16 17:56:04 Friends  : 100% at 32/sec for CSA_Architects
+2017-11-16 17:56:20 Tweets   : 99.9% at 43/sec for clairecurtice
+2017-11-16 17:57:30 Friends  : 98.7% at 39/sec for Culture2vultur1
+2017-11-16 17:57:37 Tweets   : 27.7% at 42/sec for ClarenceHouse
+2017-11-16 17:57:44 Friends  : 98.8% at 42/sec for dale_sinclair
+2017-11-16 17:57:44 Friends  : Waiting for 5.7 minutes
+2017-11-16 17:58:17 Favorites: 36.2% at 6/sec for ChrisBaileyLdn
+2017-11-16 17:58:32 Favorites: 47.9% at 42/sec for ChrisBeanland
+2017-11-16 17:58:37 Favorites: 63.1% at 45/sec for ChrisE_CSR
+2017-11-16 17:58:44 Favorites: 65.1% at 41/sec for clairecurtice
+2017-11-16 17:58:54 Favorites: 61.5% at 39/sec for ClarenceHouse
+2017-11-16 17:58:59 Tweets   : 23.8% at 39/sec for CllrKennedy
+2017-11-16 17:59:18 Tweets   : 99.8% at 26/sec for CooperRobertson
+2017-11-16 17:59:35 Tweets   : 98.4% at 25/sec for corneliustweets
+2017-11-16 18:00:10 Favorites: 48.1% at 41/sec for CllrKennedy
+2017-11-16 18:00:12 Favorites: 73.5% at 38/sec for CooperRobertson
+2017-11-16 18:00:15 Favorites: 77.2% at 36/sec for corneliustweets
+2017-11-16 18:00:19 Favorites: Waiting for 12.1 minutes due to : Used up allowance in a loop
+2017-11-16 18:00:39 Tweets   : 99.9% at 40/sec for CornerhousePubs
+2017-11-16 18:01:49 Tweets   : 49.4% at 46/sec for CountrysideProp
+2017-11-16 18:03:11 Tweets   : 6.8% at 39/sec for creative_scape
+2017-11-16 18:03:29 Tweets   : 99.6% at 27/sec for CSA_Architects
+2017-11-16 18:03:41 Friends  : 99% at 2/sec for dan1wood
+2017-11-16 18:03:58 Tweets   : 99.7% at 33/sec for Culture2vultur1
+2017-11-16 18:04:50 Tweets   : 99.9% at 33/sec for dale_sinclair
+2017-11-16 18:05:11 Tweets   : 98.2% at 21/sec for dan1wood
+2017-11-16 18:05:39 Friends  : 98.4% at 37/sec for DanielHCantwell
+2017-11-16 18:05:44 Friends  : 94.3% at 36/sec for DavidLumb5
+2017-11-16 18:06:25 Tweets   : 38.6% at 43/sec for DanielHCantwell
+2017-11-16 18:06:41 Friends  : 99.9% at 35/sec for Davidntaylor
+2017-11-16 18:06:55 Tweets   : 99.8% at 36/sec for DavidLumb5
+2017-11-16 18:06:55 Friends  : 97.4% at 29/sec for davidrushe
+2017-11-16 18:08:01 Friends  : 99.9% at 37/sec for deArchitectNL
+2017-11-16 18:08:12 Tweets   : 26.9% at 42/sec for Davidntaylor
+2017-11-16 18:08:14 Friends  : 97% at 26/sec for deborahauptmann
+2017-11-16 18:08:25 Friends  : 98.1% at 45/sec for DeborahSaunt
+2017-11-16 18:09:13 Friends  : 99.6% at 39/sec for denmarkinuk
+2017-11-16 18:09:25 Friends  : 99.8% at 39/sec for derekmeenan
+2017-11-16 18:09:30 Tweets   : 34.6% at 41/sec for davidrushe
+2017-11-16 18:10:36 Friends  : 100% at 40/sec for designboom
+2017-11-16 18:10:54 Tweets   : 14.4% at 38/sec for deArchitectNL
+2017-11-16 18:11:32 Tweets   : 99.8% at 33/sec for deborahauptmann
+2017-11-16 18:11:41 Friends  : 100% at 36/sec for DesignCurial
+2017-11-16 18:11:58 Friends  : 100% at 38/sec for designindaba
+2017-11-16 18:12:25 Tweets   : 99.9% at 41/sec for DeborahSaunt
+2017-11-16 18:12:32 Favorites: 61.7% at 1/sec for CornerhousePubs
+2017-11-16 18:12:52 Friends  : 98.5% at 35/sec for DesignMontreal
+2017-11-16 18:12:54 Favorites: 54.8% at 37/sec for CountrysideProp
+2017-11-16 18:12:56 Favorites: 59.9% at 38/sec for creative_scape
+2017-11-16 18:12:59 Favorites: 65.4% at 40/sec for CSA_Architects
+2017-11-16 18:13:06 Favorites: 68.4% at 42/sec for Culture2vultur1
+2017-11-16 18:13:10 Favorites: 50.8% at 46/sec for dale_sinclair
+2017-11-16 18:13:20 Favorites: 55.8% at 38/sec for dan1wood
+2017-11-16 18:13:37 Friends  : 99.7% at 33/sec for DesignSouthEast
+2017-11-16 18:13:37 Friends  : Waiting for 4.9 minutes
+2017-11-16 18:13:43 Tweets   : 74.2% at 41/sec for denmarkinuk
+2017-11-16 18:14:38 Favorites: 18.7% at 41/sec for DanielHCantwell
+2017-11-16 18:15:01 Favorites: 54.9% at 42/sec for DavidLumb5
+2017-11-16 18:15:02 Tweets   : 85.2% at 40/sec for derekmeenan
+2017-11-16 18:15:18 Favorites: 56.1% at 42/sec for Davidntaylor
+2017-11-16 18:15:28 Favorites: Waiting for 12 minutes due to : Used up allowance in a loop
+2017-11-16 18:16:20 Tweets   : 5.4% at 41/sec for designboom
+2017-11-16 18:17:32 Tweets   : 100% at 42/sec for DesignCurial
+2017-11-16 18:18:39 Friends  : 100% at 1/sec for desk_design
+2017-11-16 18:18:41 Friends  : 100% at 4/sec for DETAILen
+2017-11-16 18:18:43 Tweets   : 8.7% at 45/sec for designindaba
+2017-11-16 18:20:05 Tweets   : 83.6% at 39/sec for DesignMontreal
+2017-11-16 18:20:18 Friends  : 97.8% at 36/sec for DETEA_SA
+2017-11-16 18:20:22 Friends  : 98% at 41/sec for DHVArch
+2017-11-16 18:20:46 Tweets   : 99.9% at 37/sec for DesignSouthEast
+2017-11-16 18:22:13 Tweets   : 5.6% at 37/sec for desk_design
+2017-11-16 18:22:27 Tweets   : 100% at 26/sec for DETAILen
+2017-11-16 18:22:43 Friends  : 99.8% at 34/sec for dinet
+2017-11-16 18:22:50 Friends  : 100% at 32/sec for DiogoFFilipe
+2017-11-16 18:23:24 Friends  : 99.9% at 31/sec for DLGarchitects
+2017-11-16 18:23:38 Tweets   : 68% at 45/sec for DETEA_SA
+2017-11-16 18:23:42 Friends  : 99.2% at 33/sec for DMUArchitecture
+2017-11-16 18:23:56 Friends  : 98.4% at 40/sec for dow_jones_archs
+2017-11-16 18:24:08 Tweets   : 100% at 37/sec for DHVArch
+2017-11-16 18:24:10 Friends  : 98.5% at 39/sec for dpr_barcelona
+2017-11-16 18:24:14 Friends  : 100% at 32/sec for dsrny
+2017-11-16 18:24:36 Friends  : 99.2% at 39/sec for dugganmorrisarc
+2017-11-16 18:25:21 Tweets   : 20.1% at 44/sec for dinet
+2017-11-16 18:25:39 Tweets   : 99.6% at 29/sec for DiogoFFilipe
+2017-11-16 18:26:18 Friends  : 99.7% at 37/sec for DulwichGallery
+2017-11-16 18:26:24 Tweets   : 99.8% at 35/sec for DLGarchitects
+2017-11-16 18:26:27 Friends  : 99.4% at 35/sec for dxhales
+2017-11-16 18:26:36 Friends  : 99.7% at 37/sec for EamesOffice
+2017-11-16 18:26:37 Friends  : Waiting for 7 minutes
+2017-11-16 18:27:27 Favorites: 3.7% at 1/sec for davidrushe
+2017-11-16 18:27:27 Favorites: Waiting for 0 minutes due to : Used up allowance in a loop
+2017-11-16 18:27:31 Favorites: 73.9% at 25/sec for deArchitectNL
+2017-11-16 18:27:35 Favorites: 53.2% at 44/sec for deborahauptmann
+2017-11-16 18:27:45 Favorites: 64.4% at 39/sec for DeborahSaunt
+2017-11-16 18:27:48 Tweets   : 99.9% at 36/sec for DMUArchitecture
+2017-11-16 18:27:55 Favorites: 53.1% at 43/sec for denmarkinuk
+2017-11-16 18:28:12 Favorites: 56.4% at 40/sec for derekmeenan
+2017-11-16 18:28:14 Tweets   : 99.9% at 38/sec for dow_jones_archs
+2017-11-16 18:28:18 Favorites: 67.2% at 45/sec for designboom
+2017-11-16 18:28:30 Favorites: 61.8% at 44/sec for DesignCurial
+2017-11-16 18:29:28 Tweets   : 16.9% at 43/sec for dpr_barcelona
+2017-11-16 18:29:39 Tweets   : 99.3% at 12/sec for dsrny
+2017-11-16 18:29:49 Favorites: 14.3% at 40/sec for designindaba
+2017-11-16 18:30:01 Favorites: 50.5% at 43/sec for DesignMontreal
+2017-11-16 18:30:11 Favorites: 61.1% at 32/sec for DesignSouthEast
+2017-11-16 18:30:11 Favorites: 100% at 34/sec for desk_design
+2017-11-16 18:30:12 Favorites: 100% at 4/sec for DETAILen
+2017-11-16 18:30:22 Favorites: 55.6% at 40/sec for DETEA_SA
+2017-11-16 18:30:23 Tweets   : 99.9% at 39/sec for dugganmorrisarc
+2017-11-16 18:30:26 Favorites: Waiting for 12 minutes due to : Used up allowance in a loop
+2017-11-16 18:31:42 Tweets   : 61.5% at 40/sec for DulwichGallery
+2017-11-16 18:31:57 Tweets   : 100% at 22/sec for dxhales
+2017-11-16 18:33:16 Tweets   : 91.8% at 40/sec for EamesOffice
+2017-11-16 18:34:26 Tweets   : 3.6% at 46/sec for EastLondonGroup
+2017-11-16 18:34:43 Tweets   : 100% at 29/sec for ECEArchitecture
+2017-11-16 18:36:03 Tweets   : 63.9% at 40/sec for ecudielle
+2017-11-16 18:37:36 Tweets   : 23.3% at 34/sec for edwinheathcote
+2017-11-16 18:38:27 Friends  : 99.3% at 15/sec for EastLondonGroup
+2017-11-16 18:38:31 Tweets   : 99.5% at 36/sec for EDWStoddart
+2017-11-16 18:38:39 Friends  : 99.1% at 46/sec for ECEArchitecture
+2017-11-16 18:39:05 Friends  : 99.2% at 41/sec for ecudielle
+2017-11-16 18:39:23 Friends  : 99.5% at 44/sec for edwinheathcote
+2017-11-16 18:39:41 Friends  : 98% at 38/sec for EDWStoddart
+2017-11-16 18:42:31 Favorites: 53.4% at 0/sec for DHVArch
+2017-11-16 18:42:38 Favorites: 73.5% at 42/sec for dinet
+2017-11-16 18:42:47 Favorites: 50.2% at 42/sec for DiogoFFilipe
+2017-11-16 18:42:54 Favorites: 73.9% at 44/sec for DLGarchitects
+2017-11-16 18:43:22 Favorites: 50.1% at 42/sec for DMUArchitecture
+2017-11-16 18:43:31 Favorites: 61.5% at 43/sec for dow_jones_archs
+2017-11-16 18:43:35 Favorites: 59.3% at 45/sec for dpr_barcelona
+2017-11-16 18:43:36 Favorites: 100% at 26/sec for dsrny
+2017-11-16 18:43:43 Favorites: 50% at 44/sec for dugganmorrisarc
+2017-11-16 18:44:15 Favorites: 50.1% at 40/sec for DulwichGallery
+2017-11-16 18:44:19 Favorites: 85.8% at 51/sec for dxhales
+2017-11-16 18:45:20 Favorites: 50% at 43/sec for EamesOffice
+2017-11-16 18:45:20 Favorites: Waiting for 12.1 minutes due to : Used up allowance in a loop
+2017-11-16 18:58:40 Favorites: 9.7% at 4/sec for EastLondonGroup
+2017-11-16 18:58:44 Favorites: 66.9% at 47/sec for ECEArchitecture
+2017-11-16 18:58:49 Favorites: 72.3% at 37/sec for ecudielle
+2017-11-16 19:00:06 Favorites: 23.9% at 41/sec for edwinheathcote
+2017-11-16 19:00:17 Favorites: 52.9% at 46/sec for EDWStoddart
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+1: package 'twitteR' was built under R version 3.4.1 
+2: ning message:
+package 'twitteR' was built under R version 3.4.1 
+In twInterfaceObj$doAPICall(cmd, params, method, ...) :
+  Rate limit encountered & retry limit reached - returning partial results

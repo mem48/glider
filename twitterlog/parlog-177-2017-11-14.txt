@@ -1,0 +1,172 @@
+starting worker pid=6440 on localhost:11271 at 13:43:55.881
+starting worker pid=3592 on localhost:11271 at 13:43:56.054
+starting worker pid=7176 on localhost:11271 at 13:43:56.230
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-14 13:44:08 Friends  : 99.3% at 46/sec for geographyjim
+2017-11-14 13:44:09 Favorites: 54.1% at 52/sec for geographyjim
+2017-11-14 13:44:36 Friends  : 99.7% at 50/sec for ggilmorekf
+2017-11-14 13:44:42 Favorites: 49.4% at 51/sec for ggilmorekf
+2017-11-14 13:44:43 Favorites: 66.4% at 54/sec for ice_BIM
+2017-11-14 13:44:44 Favorites: 100% at 10/sec for Jennife76053915
+2017-11-14 13:44:53 Friends  : 97.5% at 48/sec for ice_BIM
+2017-11-14 13:44:54 Favorites: 58.3% at 48/sec for KevinBohea
+2017-11-14 13:44:54 Tweets   : 43.9% at 59/sec for geographyjim
+2017-11-14 13:44:55 Friends  : 100% at 40/sec for Jennife76053915
+2017-11-14 13:45:01 Friends  : 97.5% at 43/sec for KevinBohea
+2017-11-14 13:45:02 Favorites: 61.4% at 53/sec for KTNUK_SRE
+2017-11-14 13:45:13 Friends  : 99.7% at 49/sec for KTNUK_SRE
+2017-11-14 13:45:43 Favorites: 49.9% at 52/sec for LizziePaton
+2017-11-14 13:45:48 Favorites: 55.5% at 53/sec for MatthewAlBell
+2017-11-14 13:45:49 Friends  : 99.5% at 54/sec for LizziePaton
+2017-11-14 13:45:49 Tweets   : 38.6% at 58/sec for ggilmorekf
+2017-11-14 13:46:10 Friends  : 99.6% at 53/sec for MatthewAlBell
+2017-11-14 13:46:14 Favorites: 50.9% at 55/sec for NationalPrecast
+2017-11-14 13:46:18 Tweets   : 99.6% at 56/sec for ice_BIM
+2017-11-14 13:46:19 Favorites: 70% at 55/sec for ncedigital
+2017-11-14 13:46:19 Favorites: Waiting for 12.7 minutes due to : Used up allowance in a loop
+2017-11-14 13:46:26 Tweets   : 100% at 16/sec for Jennife76053915
+2017-11-14 13:46:39 Tweets   : 99.8% at 39/sec for KevinBohea
+2017-11-14 13:47:34 Friends  : 97.3% at 50/sec for NationalPrecast
+2017-11-14 13:47:36 Tweets   : 38.8% at 56/sec for KTNUK_SRE
+2017-11-14 13:47:46 Friends  : 100% at 48/sec for ncedigital
+2017-11-14 13:48:12 Friends  : 98.3% at 46/sec for NicholasKatz
+2017-11-14 13:48:26 Friends  : 99.3% at 54/sec for NicoleBadstuber
+2017-11-14 13:48:26 Friends  : Waiting for 6.7 minutes
+2017-11-14 13:48:35 Tweets   : 48.7% at 55/sec for LizziePaton
+2017-11-14 13:49:27 Tweets   : 97.6% at 61/sec for MatthewAlBell
+2017-11-14 13:50:20 Tweets   : 20.1% at 60/sec for NationalPrecast
+2017-11-14 13:51:14 Tweets   : 16.4% at 60/sec for ncedigital
+2017-11-14 13:52:07 Tweets   : 32.3% at 60/sec for NicholasKatz
+2017-11-14 13:52:41 Tweets   : 99.8% at 55/sec for NicoleBadstuber
+2017-11-14 13:53:13 Tweets   : 99.9% at 54/sec for OPDCVictoriaHil
+2017-11-14 13:53:25 Tweets   : 100% at 23/sec for PaintCareUK
+2017-11-14 13:53:49 Tweets   : 99.9% at 53/sec for rebeccapedler
+2017-11-14 13:54:41 Tweets   : 34.6% at 62/sec for sarahoconnor_
+2017-11-14 13:54:54 Tweets   : 99.8% at 37/sec for SkillsPlannerUK
+2017-11-14 13:55:11 Friends  : 98% at 1/sec for OPDCVictoriaHil
+2017-11-14 13:55:15 Friends  : 96.4% at 46/sec for PaintCareUK
+2017-11-14 13:55:18 Tweets   : 99.4% at 48/sec for Stevenheath8
+2017-11-14 13:55:27 Friends  : 99.7% at 53/sec for rebeccapedler
+2017-11-14 13:56:01 Friends  : 99.3% at 57/sec for sarahoconnor_
+2017-11-14 13:56:04 Tweets   : 10.3% at 70/sec for SustMemeTop500
+2017-11-14 13:56:07 Friends  : 98.2% at 47/sec for SkillsPlannerUK
+2017-11-14 13:56:22 Friends  : 99.4% at 63/sec for Stevenheath8
+2017-11-14 13:56:56 Tweets   : 7.8% at 62/sec for TheManufacturer
+2017-11-14 13:57:26 Tweets   : 99.9% at 53/sec for TMMXAwards
+2017-11-14 13:57:43 Friends  : 98.9% at 61/sec for SustMemeTop500
+2017-11-14 13:57:44 Tweets   : 100% at 44/sec for TMTop100
+2017-11-14 13:58:12 Tweets   : 99.8% at 54/sec for Yolande_Barnes
+2017-11-14 13:58:12 Tweets   : User AmberRudd_MP has a protected account or no Tweetss to collect so skipping
+2017-11-14 13:58:29 Tweets   : 99.9% at 44/sec for boogaard_rob
+2017-11-14 13:59:23 Tweets   : 91.1% at 59/sec for Bristol_2015
+2017-11-14 13:59:46 Favorites: 50.7% at 3/sec for NicholasKatz
+2017-11-14 13:59:53 Favorites: 58.7% at 51/sec for NicoleBadstuber
+2017-11-14 14:00:13 Tweets   : 12.4% at 64/sec for BristolCouncil
+2017-11-14 14:00:24 Favorites: 51.3% at 51/sec for OPDCVictoriaHil
+2017-11-14 14:00:25 Favorites: 97.7% at 39/sec for PaintCareUK
+2017-11-14 14:00:27 Favorites: 79.8% at 60/sec for rebeccapedler
+2017-11-14 14:00:33 Friends  : 97.3% at 56/sec for TheManufacturer
+2017-11-14 14:01:06 Tweets   : 58.8% at 61/sec for CAID_newswire
+2017-11-14 14:01:07 Friends  : 98.6% at 57/sec for TMMXAwards
+2017-11-14 14:01:16 Favorites: 50.9% at 52/sec for sarahoconnor_
+2017-11-14 14:01:17 Favorites: 100% at 24/sec for SkillsPlannerUK
+2017-11-14 14:01:18 Favorites: 96.6% at 48/sec for Stevenheath8
+2017-11-14 14:01:20 Favorites: Waiting for 12.7 minutes due to : Used up allowance in a loop
+2017-11-14 14:01:39 Friends  : 99.4% at 59/sec for TMTop100
+2017-11-14 14:01:48 Friends  : 99.8% at 61/sec for Yolande_Barnes
+2017-11-14 14:01:49 Friends  : 100% at 18/sec for AmberRudd_MP
+2017-11-14 14:01:54 Tweets   : 6.9% at 67/sec for cardiffcouncil
+2017-11-14 14:01:55 Friends  : 99.1% at 54/sec for boogaard_rob
+2017-11-14 14:02:08 Friends  : 100% at 61/sec for Bristol_2015
+2017-11-14 14:02:08 Friends  : Waiting for 8 minutes
+2017-11-14 14:02:45 Tweets   : 18.6% at 63/sec for ChemistryWorld
+2017-11-14 14:03:36 Tweets   : 11% at 62/sec for christian_aid
+2017-11-14 14:04:32 Tweets   : 90.3% at 58/sec for ClimateHC
+2017-11-14 14:05:10 Tweets   : 99.9% at 58/sec for CofECampaign
+2017-11-14 14:05:19 Tweets   : 100% at 19/sec for CoRWM
+2017-11-14 14:05:40 Tweets   : 100% at 56/sec for DamianTCG
+2017-11-14 14:06:05 Tweets   : 100% at 55/sec for ecobicester
+2017-11-14 14:06:54 Tweets   : 99.6% at 64/sec for EdCentreCC
+2017-11-14 14:07:43 Tweets   : 22.9% at 66/sec for edenproject
+2017-11-14 14:08:14 Tweets   : 100% at 63/sec for EvClimateChange
+2017-11-14 14:09:06 Tweets   : 56.8% at 61/sec for GCHAlliance
+2017-11-14 14:09:59 Tweets   : 75.7% at 61/sec for GettyReportage
+2017-11-14 14:10:46 Friends  : 99.4% at 4/sec for BristolCouncil
+2017-11-14 14:10:53 Tweets   : 42.3% at 59/sec for greensuffolk
+2017-11-14 14:11:00 Tweets   : 100% at 13/sec for HTGreenHouse
+2017-11-14 14:11:10 Friends  : 99.9% at 60/sec for CAID_newswire
+2017-11-14 14:11:21 Tweets   : 100% at 50/sec for JG_climate
+2017-11-14 14:11:27 Tweets   : 100% at 1/sec for JohnMoylanBBC
+2017-11-14 14:11:30 Friends  : 99.7% at 56/sec for cardiffcouncil
+2017-11-14 14:11:54 Friends  : 99.9% at 57/sec for ChemistryWorld
+2017-11-14 14:12:14 Tweets   : 23.4% at 68/sec for jonsnowC4
+2017-11-14 14:13:02 Tweets   : 5.7% at 67/sec for MartinSLewis
+2017-11-14 14:13:50 Tweets   : 100% at 64/sec for mjsiegert
+2017-11-14 14:14:12 Favorites: 52.2% at 1/sec for SustMemeTop500
+2017-11-14 14:14:37 Tweets   : 17.3% at 68/sec for MSFTBusinessUK
+2017-11-14 14:14:47 Friends  : 99.8% at 50/sec for christian_aid
+2017-11-14 14:15:03 Friends  : 99.9% at 58/sec for ClimateHC
+2017-11-14 14:15:12 Favorites: 25.1% at 51/sec for TheManufacturer
+2017-11-14 14:15:25 Friends  : 99.3% at 51/sec for CofECampaign
+2017-11-14 14:15:28 Friends  : 100% at 31/sec for CoRWM
+2017-11-14 14:15:30 Favorites: 50.5% at 50/sec for TMMXAwards
+2017-11-14 14:15:30 Tweets   : 39.7% at 60/sec for NDAgovuk
+2017-11-14 14:15:30 Friends  : 100% at 38/sec for DamianTCG
+2017-11-14 14:15:34 Friends  : 98.3% at 49/sec for ecobicester
+2017-11-14 14:15:36 Favorites: 63.9% at 59/sec for TMTop100
+2017-11-14 14:15:42 Favorites: 48.5% at 52/sec for Yolande_Barnes
+2017-11-14 14:15:42 Favorites: User AmberRudd_MP has a protected account or no Favoritess to collect so skipping
+2017-11-14 14:15:43 Favorites: 100% at 37/sec for boogaard_rob
+2017-11-14 14:15:50 Friends  : 98.8% at 54/sec for EdCentreCC
+2017-11-14 14:16:02 Favorites: 50.7% at 52/sec for Bristol_2015
+2017-11-14 14:16:20 Favorites: Waiting for 12.7 minutes due to : Used up allowance in a loop
+2017-11-14 14:16:21 Friends  : 99.5% at 58/sec for edenproject
+2017-11-14 14:16:24 Friends  : 99.4% at 54/sec for EvClimateChange
+2017-11-14 14:17:00 Friends  : 98.7% at 59/sec for GCHAlliance
+2017-11-14 14:17:00 Friends  : Waiting for 8.2 minutes
+2017-11-14 14:25:22 Friends  : 99.5% at 1/sec for GettyReportage
+2017-11-14 14:25:54 Friends  : 99.6% at 54/sec for greensuffolk
+2017-11-14 14:26:57 Friends  : 99.2% at 55/sec for HTGreenHouse
+2017-11-14 14:27:00 Friends  : 98.7% at 35/sec for JG_climate
+Error in twInterfaceObj$doAPICall(paste("users", "show", sep = "/"), params = params,  : 
+  Not Found (HTTP 404).
+In addition: Warning message:
+package 'twitteR' was built under R version 3.4.1 
+2017-11-14 14:27:00 Friends: Unable to find account JohnMoylanBBC moving to next
+2017-11-14 14:27:00 Friends  : % at /sec for JohnMoylanBBC
+2017-11-14 14:27:09 Friends  : 99.1% at 52/sec for jonsnowC4
+2017-11-14 14:27:18 Friends  : 99.6% at 56/sec for MartinSLewis
+2017-11-14 14:27:22 Friends  : 97% at 51/sec for mjsiegert
+2017-11-14 14:29:03 Favorites: 50.6% at 1/sec for BristolCouncil
+2017-11-14 14:29:04 Favorites: 97.1% at 41/sec for CAID_newswire
+2017-11-14 14:29:09 Favorites: 66.7% at 54/sec for cardiffcouncil
+2017-11-14 14:29:13 Favorites: 54.6% at 58/sec for ChemistryWorld
+2017-11-14 14:29:30 Friends  : 100% at 53/sec for MSFTBusinessUK
+2017-11-14 14:29:54 Favorites: 51.3% at 56/sec for christian_aid
+2017-11-14 14:29:57 Favorites: 67.7% at 53/sec for ClimateHC
+2017-11-14 14:30:00 Favorites: 71.4% at 44/sec for CofECampaign
+2017-11-14 14:30:00 Favorites: 100% at 8/sec for CoRWM
+2017-11-14 14:30:01 Favorites: 100% at 5/sec for DamianTCG
+2017-11-14 14:30:01 Favorites: 100% at 10/sec for ecobicester
+2017-11-14 14:30:04 Friends  : 98.1% at 51/sec for NDAgovuk
+2017-11-14 14:30:11 Favorites: 54.4% at 52/sec for EdCentreCC
+2017-11-14 14:30:45 Favorites: 50.8% at 52/sec for edenproject
+2017-11-14 14:30:48 Favorites: 80.6% at 61/sec for EvClimateChange
+2017-11-14 14:30:57 Favorites: 54.2% at 55/sec for GCHAlliance
+2017-11-14 14:31:01 Favorites: 83.5% at 55/sec for GettyReportage
+2017-11-14 14:31:06 Favorites: 54.7% at 54/sec for greensuffolk
+2017-11-14 14:31:08 Favorites: 83.9% at 53/sec for HTGreenHouse
+2017-11-14 14:31:14 Favorites: 72.5% at 51/sec for JG_climate
+2017-11-14 14:31:14 Favorites: User JohnMoylanBBC has a protected account or no Favoritess to collect so skipping
+2017-11-14 14:31:14 Favorites: Waiting for 12.8 minutes due to : Used up allowance in a loop
+2017-11-14 14:44:02 Favorites: 100% at 0/sec for jonsnowC4
+2017-11-14 14:44:04 Favorites: 52.7% at 53/sec for MartinSLewis
+2017-11-14 14:44:10 Favorites: 56% at 53/sec for mjsiegert
+2017-11-14 14:44:27 Favorites: 54.5% at 53/sec for MSFTBusinessUK
+2017-11-14 14:45:13 Favorites: 50.7% at 53/sec for NDAgovuk
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+Warning message:
+package 'twitteR' was built under R version 3.4.1 

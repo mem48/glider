@@ -1,0 +1,174 @@
+starting worker pid=1248 on localhost:11271 at 02:15:28.365
+starting worker pid=13960 on localhost:11271 at 02:15:28.527
+starting worker pid=2348 on localhost:11271 at 02:15:28.689
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-17 02:16:49 Friends  : 99.6% at 22/sec for UIA_Architects
+2017-11-17 02:16:54 Friends  : 100% at 35/sec for UKMoments
+2017-11-17 02:17:47 Favorites: 100% at 49/sec for UIA_Architects
+[1] "Server error: (500) Internal Server Error"
+[1] "This error is likely transient, retrying up to 5 more times ..."
+[1] "Server error: (500) Internal Server Error"
+[1] "This error is likely transient, retrying up to 4 more times ..."
+[1] "Server error: (500) Internal Server Error"
+[1] "This error is likely transient, retrying up to 3 more times ..."
+2017-11-17 02:17:57 Favorites: 51.7% at 19/sec for UKMoments
+2017-11-17 02:18:06 Favorites: 59.5% at 41/sec for urban_splash
+2017-11-17 02:19:15 Tweets   : 100% at 23/sec for UIA_Architects
+2017-11-17 02:19:22 Favorites: 50% at 43/sec for V_and_A
+2017-11-17 02:20:16 Tweets   : 11.5% at 52/sec for UKMoments
+2017-11-17 02:20:23 Favorites: Waiting for 7.3 minutes due to : Used up allowance in a loop
+2017-11-17 02:21:26 Tweets   : 54.1% at 45/sec for urban_splash
+2017-11-17 02:22:36 Tweets   : 16.7% at 46/sec for V_and_A
+2017-11-17 02:23:45 Tweets   : 8.4% at 46/sec for vee_kaay
+2017-11-17 02:24:00 Tweets   : 99.8% at 32/sec for VeenaLad
+2017-11-17 02:24:09 Tweets   : 97.1% at 14/sec for venikojouharova
+2017-11-17 02:25:17 Tweets   : 28% at 47/sec for veritykeefe
+2017-11-17 02:26:35 Tweets   : 56.1% at 41/sec for vine_collective
+2017-11-17 02:26:45 Tweets   : 100% at 17/sec for virginia_ksr
+2017-11-17 02:27:01 Tweets   : 100% at 30/sec for vPPR_Architects
+2017-11-17 02:27:48 Favorites: 22.8% at 5/sec for vee_kaay
+2017-11-17 02:27:50 Favorites: 88% at 11/sec for VeenaLad
+2017-11-17 02:27:52 Favorites: 74.6% at 61/sec for venikojouharova
+2017-11-17 02:28:18 Tweets   : 16.2% at 42/sec for WACommunity
+2017-11-17 02:28:45 Favorites: 49.9% at 39/sec for veritykeefe
+2017-11-17 02:28:54 Friends  : 99.8% at 38/sec for urban_splash
+2017-11-17 02:28:59 Tweets   : 99.9% at 34/sec for WALandscape
+2017-11-17 02:29:37 Friends  : 99.6% at 49/sec for V_and_A
+2017-11-17 02:29:49 Friends  : 98% at 37/sec for vee_kaay
+2017-11-17 02:29:56 Friends  : 100% at 38/sec for VeenaLad
+2017-11-17 02:29:58 Favorites: 25.7% at 43/sec for vine_collective
+2017-11-17 02:30:00 Favorites: 74.1% at 63/sec for virginia_ksr
+2017-11-17 02:30:02 Friends  : 96.2% at 36/sec for venikojouharova
+2017-11-17 02:30:05 Favorites: 81.6% at 40/sec for vPPR_Architects
+2017-11-17 02:30:07 Favorites: 100% at 11/sec for WACommunity
+2017-11-17 02:30:13 Favorites: 57.1% at 48/sec for WALandscape
+2017-11-17 02:30:25 Tweets   : 47.4% at 37/sec for walkergallery
+2017-11-17 02:30:30 Favorites: 51.1% at 40/sec for walkergallery
+2017-11-17 02:30:31 Friends  : 98.2% at 45/sec for veritykeefe
+2017-11-17 02:30:32 Favorites: 62.1% at 65/sec for waltersandcohen
+2017-11-17 02:30:32 Favorites: Waiting for 12.2 minutes due to : Used up allowance in a loop
+2017-11-17 02:30:40 Tweets   : 99.8% at 34/sec for waltersandcohen
+2017-11-17 02:30:52 Friends  : 98.2% at 45/sec for vine_collective
+2017-11-17 02:30:57 Friends  : 100% at 45/sec for virginia_ksr
+2017-11-17 02:30:57 Friends  : Waiting for 0.8 minutes
+2017-11-17 02:31:18 Tweets   : 99.8% at 43/sec for WaughThistleton
+2017-11-17 02:31:53 Friends  : 98.3% at 9/sec for vPPR_Architects
+2017-11-17 02:31:56 Friends  : 100% at 42/sec for WACommunity
+2017-11-17 02:32:19 Friends  : 99.5% at 44/sec for WALandscape
+2017-11-17 02:32:30 Tweets   : 73.5% at 44/sec for WayneMcGregor
+2017-11-17 02:32:44 Friends  : 99.5% at 44/sec for walkergallery
+2017-11-17 02:32:45 Tweets   : 100% at 29/sec for wcookworthy
+2017-11-17 02:32:51 Friends  : 98% at 49/sec for waltersandcohen
+2017-11-17 02:33:11 Friends  : 98.9% at 46/sec for WaughThistleton
+2017-11-17 02:33:17 Tweets   : 99.7% at 35/sec for WDMcF
+2017-11-17 02:33:37 Friends  : 99.8% at 47/sec for WayneMcGregor
+2017-11-17 02:33:41 Friends  : 99% at 26/sec for wcookworthy
+2017-11-17 02:33:45 Friends  : 99.4% at 49/sec for WDMcF
+2017-11-17 02:33:58 Friends  : 99.5% at 44/sec for what_fran_said
+2017-11-17 02:34:07 Friends  : 100% at 36/sec for WildbloodMac
+2017-11-17 02:34:12 Friends  : 98.8% at 36/sec for Wolff_Arch
+2017-11-17 02:34:26 Tweets   : 42.7% at 46/sec for what_fran_said
+2017-11-17 02:34:39 Friends  : 99.8% at 47/sec for wolfsonfdn
+2017-11-17 02:34:45 Friends  : 97.9% at 40/sec for women_in_arch
+2017-11-17 02:35:05 Friends  : 99.8% at 43/sec for xsite_arch
+2017-11-17 02:35:05 Friends  : Waiting for 11.7 minutes
+2017-11-17 02:35:38 Tweets   : 99.7% at 41/sec for WildbloodMac
+2017-11-17 02:35:54 Tweets   : 100% at 30/sec for Wolff_Arch
+2017-11-17 02:36:39 Tweets   : 99.8% at 38/sec for wolfsonfdn
+2017-11-17 02:36:49 Tweets   : 100% at 15/sec for women_in_arch
+2017-11-17 02:37:18 Tweets   : 99.7% at 37/sec for xsite_arch
+2017-11-17 02:37:28 Tweets   : 100% at 15/sec for yadaUK
+2017-11-17 02:38:42 Tweets   : 16.6% at 43/sec for yourmovemag
+2017-11-17 02:39:04 Tweets   : 100% at 44/sec for zara_bloomfield
+2017-11-17 02:39:27 Tweets   : 100% at 40/sec for ZeitzMOCAA
+2017-11-17 02:39:35 Tweets   : 100% at 17/sec for zoe__wright
+2017-11-17 02:39:47 Tweets   : 100% at 26/sec for _AmandaJLewis
+2017-11-17 02:40:19 Tweets   : 100% at 44/sec for _BESTproperty
+2017-11-17 02:40:34 Tweets   : 99.8% at 29/sec for _jenwelch
+2017-11-17 02:41:01 Tweets   : 100% at 41/sec for _TheMarketeer
+2017-11-17 02:41:11 Tweets   : 100% at 21/sec for 1173charles
+2017-11-17 02:42:19 Tweets   : 2.7% at 47/sec for 1GarethWynJones
+2017-11-17 02:42:57 Favorites: 54% at 1/sec for WaughThistleton
+2017-11-17 02:43:31 Tweets   : 86.7% at 45/sec for aaronnblock
+2017-11-17 02:43:34 Favorites: 50.3% at 46/sec for WayneMcGregor
+2017-11-17 02:43:36 Favorites: 100% at 26/sec for wcookworthy
+2017-11-17 02:43:51 Favorites: 53.7% at 48/sec for WDMcF
+2017-11-17 02:44:37 Favorites: 50.3% at 43/sec for what_fran_said
+2017-11-17 02:44:43 Tweets   : 14.2% at 44/sec for AaronYeoman
+2017-11-17 02:44:50 Favorites: 58.6% at 46/sec for WildbloodMac
+2017-11-17 02:44:50 Favorites: 100% at 21/sec for Wolff_Arch
+2017-11-17 02:44:58 Tweets   : 99.5% at 29/sec for absonblaza
+2017-11-17 02:45:05 Favorites: 54% at 47/sec for wolfsonfdn
+2017-11-17 02:45:08 Favorites: 95.2% at 32/sec for women_in_arch
+2017-11-17 02:45:09 Favorites: 91.6% at 65/sec for xsite_arch
+2017-11-17 02:45:12 Favorites: 56.2% at 33/sec for yadaUK
+2017-11-17 02:45:18 Tweets   : 99.4% at 33/sec for Acuitusauctions
+2017-11-17 02:45:18 Tweets   : User adam_williams83 has a protected account or no Tweetss to collect so skipping
+2017-11-17 02:45:24 Tweets   : 100% at 6/sec for AdrianFGould
+2017-11-17 02:45:26 Favorites: Waiting for 12.2 minutes due to : Used up allowance in a loop
+2017-11-17 02:46:30 Tweets   : 100% at 39/sec for aec_collab
+2017-11-17 02:46:56 Friends  : 98.2% at 0/sec for yadaUK
+2017-11-17 02:46:56 Tweets   : 98.4% at 29/sec for AGislard
+2017-11-17 02:47:23 Friends  : 99% at 46/sec for yourmovemag
+2017-11-17 02:47:32 Friends  : 98.7% at 35/sec for zara_bloomfield
+2017-11-17 02:48:01 Tweets   : 8.1% at 44/sec for ahmedakhtar10
+2017-11-17 02:48:05 Friends  : 99.3% at 44/sec for ZeitzMOCAA
+2017-11-17 02:48:07 Tweets   : 100% at 4/sec for aimeefowler1
+2017-11-17 02:48:11 Friends  : 97.7% at 42/sec for zoe__wright
+2017-11-17 02:48:19 Friends  : 99.2% at 45/sec for _AmandaJLewis
+2017-11-17 02:48:20 Friends  : 0.6% at 5/sec for _BESTproperty
+2017-11-17 02:48:24 Friends  : 100% at 27/sec for _jenwelch
+2017-11-17 02:48:33 Friends  : 99.5% at 41/sec for _TheMarketeer
+2017-11-17 02:48:36 Friends  : 100% at 49/sec for 1173charles
+2017-11-17 02:49:12 Friends  : 99.5% at 39/sec for 1GarethWynJones
+2017-11-17 02:49:18 Tweets   : 23.7% at 45/sec for aisha_rsh
+2017-11-17 02:49:49 Tweets   : 96.4% at 41/sec for AJWH87
+2017-11-17 02:50:16 Friends  : 98.7% at 43/sec for aaronnblock
+2017-11-17 02:50:39 Friends  : 100% at 38/sec for AaronYeoman
+2017-11-17 02:50:39 Friends  : 1.2% at 1/sec for absonblaza
+2017-11-17 02:50:48 Friends  : 98.4% at 44/sec for Acuitusauctions
+2017-11-17 02:50:48 Friends  : User adam_williams83 has a protected account or no Friendss to collect so skipping
+2017-11-17 02:50:48 Friends  : Waiting for 11.1 minutes
+2017-11-17 02:50:58 Tweets   : 97.5% at 46/sec for alancmcmillan
+2017-11-17 02:51:10 Tweets   : 100% at 25/sec for AlChester69
+2017-11-17 02:57:45 Favorites: 51.8% at 1/sec for yourmovemag
+2017-11-17 02:57:48 Favorites: 59.9% at 37/sec for zara_bloomfield
+2017-11-17 02:58:03 Favorites: 53% at 47/sec for ZeitzMOCAA
+2017-11-17 02:58:05 Favorites: 98.6% at 30/sec for zoe__wright
+2017-11-17 02:58:06 Favorites: 100% at 36/sec for _AmandaJLewis
+2017-11-17 02:58:10 Favorites: 64.9% at 47/sec for _BESTproperty
+2017-11-17 02:58:11 Favorites: 100% at 66/sec for _jenwelch
+2017-11-17 02:58:15 Favorites: 68% at 50/sec for _TheMarketeer
+2017-11-17 02:58:16 Favorites: 98.1% at 54/sec for 1173charles
+2017-11-17 02:59:26 Favorites: 5.2% at 46/sec for 1GarethWynJones
+2017-11-17 03:00:04 Favorites: 50.2% at 47/sec for aaronnblock
+2017-11-17 03:00:08 Favorites: 68.4% at 45/sec for AaronYeoman
+2017-11-17 03:00:10 Favorites: 100% at 11/sec for absonblaza
+2017-11-17 03:00:12 Favorites: 62.3% at 63/sec for Acuitusauctions
+2017-11-17 03:00:12 Favorites: User adam_williams83 has a protected account or no Favoritess to collect so skipping
+2017-11-17 03:00:12 Favorites: 100% at 8/sec for AdrianFGould
+2017-11-17 03:00:15 Favorites: 69.5% at 37/sec for aec_collab
+2017-11-17 03:00:15 Favorites: Waiting for 12.4 minutes due to : Used up allowance in a loop
+2017-11-17 03:01:54 Friends  : 100% at 0/sec for AdrianFGould
+2017-11-17 03:01:56 Friends  : 93.7% at 34/sec for aec_collab
+2017-11-17 03:02:07 Friends  : 98.4% at 36/sec for AGislard
+2017-11-17 03:02:35 Friends  : 94.6% at 42/sec for ahmedakhtar10
+2017-11-17 03:02:38 Friends  : 100% at 16/sec for aimeefowler1
+2017-11-17 03:03:30 Friends  : 98.5% at 43/sec for aisha_rsh
+2017-11-17 03:03:41 Friends  : 99.4% at 32/sec for AJWH87
+2017-11-17 03:04:21 Friends  : 99.2% at 43/sec for alancmcmillan
+2017-11-17 03:04:23 Friends  : 94.5% at 39/sec for AlChester69
+2017-11-17 03:12:45 Favorites: 57.1% at 0/sec for AGislard
+2017-11-17 03:13:47 Favorites: 6% at 45/sec for ahmedakhtar10
+2017-11-17 03:13:47 Favorites: 100% at 8/sec for aimeefowler1
+2017-11-17 03:14:59 Favorites: 24.3% at 44/sec for aisha_rsh
+2017-11-17 03:15:02 Favorites: 54.3% at 35/sec for AJWH87
+2017-11-17 03:15:03 Favorites: 98.2% at 52/sec for alancmcmillan
+2017-11-17 03:15:06 Favorites: 69.9% at 36/sec for AlChester69
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+Warning message:
+was built under R version 3.4.1 
+package 'twitteR' was built under R version 3.4.1 

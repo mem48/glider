@@ -1,0 +1,179 @@
+starting worker pid=11672 on localhost:11271 at 19:13:04.982
+starting worker pid=9108 on localhost:11271 at 19:13:05.149
+starting worker pid=904 on localhost:11271 at 19:13:05.313
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-17 19:14:52 Friends  : 99.7% at 24/sec for MetCladContract
+2017-11-17 19:16:14 Favorites: 59.5% at 20/sec for MetCladContract
+2017-11-17 19:16:33 Friends  : 99.7% at 38/sec for MindCharity
+2017-11-17 19:16:36 Friends  : 100% at 45/sec for mjgroupuk
+2017-11-17 19:16:42 Friends  : 99% at 33/sec for nationalroofUK
+2017-11-17 19:16:56 Friends  : 98.7% at 21/sec for OSullivanRoofin
+2017-11-17 19:16:56 Friends  : Waiting for 3.8 minutes
+2017-11-17 19:17:37 Favorites: 33.9% at 38/sec for MindCharity
+2017-11-17 19:17:37 Favorites: 92.9% at 24/sec for mjgroupuk
+2017-11-17 19:17:38 Favorites: 100% at 31/sec for nationalroofUK
+2017-11-17 19:17:39 Favorites: 62.5% at 24/sec for OSullivanRoofin
+2017-11-17 19:17:52 Tweets   : 96.2% at 20/sec for MetCladContract
+2017-11-17 19:18:09 Favorites: 51.8% at 43/sec for PeoplesPension
+2017-11-17 19:18:14 Favorites: 98% at 42/sec for pete_manning1
+2017-11-17 19:18:15 Favorites: 60.2% at 63/sec for PeterMassini
+2017-11-17 19:18:22 Favorites: 96.8% at 9/sec for PGM_Solicitors
+2017-11-17 19:18:25 Favorites: 57.5% at 74/sec for PKHeritageTrust
+2017-11-17 19:18:28 Favorites: 85.3% at 31/sec for Progsystems
+2017-11-17 19:18:29 Favorites: 100% at 42/sec for ProtecRoofingLd
+2017-11-17 19:18:30 Favorites: 85.7% at 9/sec for ReallyLinda
+2017-11-17 19:18:35 Favorites: 85.9% at 38/sec for RESITRIX_UK
+2017-11-17 19:18:59 Tweets   : 6.6% at 48/sec for MindCharity
+2017-11-17 19:19:01 Favorites: Waiting for 11.9 minutes due to : Used up allowance in a loop
+2017-11-17 19:19:08 Tweets   : 100% at 10/sec for mjgroupuk
+2017-11-17 19:19:20 Tweets   : 100% at 27/sec for nationalroofUK
+2017-11-17 19:20:19 Tweets   : 98.1% at 47/sec for OSullivanRoofin
+2017-11-17 19:21:16 Friends  : 99.6% at 4/sec for PeoplesPension
+Error in twInterfaceObj$doAPICall(paste("users", "show", sep = "/"), params = params,  : 
+  Not Found (HTTP 404).
+In addition: Warning message:
+package 'twitteR' was built under R version 3.4.1 
+2017-11-17 19:21:17 Friends: Unable to find account pete_manning1 moving to next
+2017-11-17 19:21:17 Friends  : % at /sec for pete_manning1
+2017-11-17 19:21:28 Tweets   : 43.9% at 47/sec for PeoplesPension
+2017-11-17 19:21:29 Friends  : 97.6% at 47/sec for PeterMassini
+2017-11-17 19:21:35 Tweets   : 100% at 7/sec for pete_manning1
+2017-11-17 19:21:43 Friends  : 98.9% at 45/sec for PGM_Solicitors
+2017-11-17 19:21:54 Friends  : 98.4% at 43/sec for PKHeritageTrust
+2017-11-17 19:22:03 Friends  : 99.5% at 45/sec for Progsystems
+2017-11-17 19:22:07 Friends  : 98.5% at 27/sec for ProtecRoofingLd
+2017-11-17 19:22:07 Friends  : User ReallyLinda has a protected account or no Friendss to collect so skipping
+2017-11-17 19:22:18 Friends  : 99.2% at 36/sec for RESITRIX_UK
+2017-11-17 19:22:32 Friends  : 98.3% at 38/sec for RoofingGodmothe
+2017-11-17 19:22:47 Tweets   : 80.8% at 44/sec for PeterMassini
+2017-11-17 19:23:00 Friends  : 99.6% at 44/sec for roofriteltd
+2017-11-17 19:23:09 Tweets   : 99.8% at 37/sec for PGM_Solicitors
+2017-11-17 19:23:25 Friends  : 100% at 42/sec for RRES_ltd
+2017-11-17 19:23:31 Friends  : 99.6% at 38/sec for RSoanRoofing
+2017-11-17 19:23:40 Tweets   : 99.7% at 35/sec for PKHeritageTrust
+2017-11-17 19:23:45 Friends  : 99.2% at 36/sec for SandallRoofing
+Error in twInterfaceObj$doAPICall(paste("users", "show", sep = "/"), params = params,  : 
+  Not Found (HTTP 404).
+2017-11-17 19:23:46 Friends: Unable to find account Sburkeags moving to next
+2017-11-17 19:23:46 Friends  : % at /sec for Sburkeags
+2017-11-17 19:23:47 Friends  : 100% at 41/sec for SDSamuels
+2017-11-17 19:23:49 Friends  : 100% at 12/sec for SealEco
+2017-11-17 19:23:52 Tweets   : 99.7% at 32/sec for Progsystems
+2017-11-17 19:23:57 Friends  : 99% at 34/sec for seriesaroofing
+2017-11-17 19:23:57 Friends  : Waiting for 11.9 minutes
+2017-11-17 19:24:02 Tweets   : 100% at 17/sec for ProtecRoofingLd
+2017-11-17 19:25:11 Tweets   : 50.6% at 46/sec for ReallyLinda
+2017-11-17 19:25:25 Tweets   : 100% at 27/sec for RESITRIX_UK
+2017-11-17 19:26:25 Tweets   : 99.9% at 42/sec for RoofingGodmothe
+2017-11-17 19:26:45 Tweets   : 99.8% at 30/sec for roofriteltd
+2017-11-17 19:27:16 Tweets   : 99.8% at 43/sec for RRES_ltd
+2017-11-17 19:27:25 Tweets   : 100% at 12/sec for RSoanRoofing
+2017-11-17 19:27:37 Tweets   : 100% at 20/sec for SandallRoofing
+2017-11-17 19:27:44 Tweets   : 100% at 11/sec for Sburkeags
+2017-11-17 19:27:51 Tweets   : 100% at 1/sec for SDSamuels
+2017-11-17 19:28:05 Tweets   : 100% at 23/sec for SealEco
+2017-11-17 19:28:27 Tweets   : 99.6% at 34/sec for seriesaroofing
+2017-11-17 19:29:40 Tweets   : 87.2% at 44/sec for Sika
+2017-11-17 19:30:06 Tweets   : 100% at 34/sec for SimonGriffith11
+2017-11-17 19:30:28 Tweets   : 99.6% at 23/sec for SkylineSolarLtd
+2017-11-17 19:30:34 Tweets   : 100% at 5/sec for SpringsRoofing
+2017-11-17 19:31:03 Tweets   : 99.9% at 46/sec for SSQSlate
+2017-11-17 19:31:11 Tweets   : 32.8% at 48/sec for Sunsquare_Ltd
+2017-11-17 19:31:12 Tweets   : Waiting for 1.3 minutes
+2017-11-17 19:31:22 Favorites: 52.1% at 2/sec for RoofingGodmothe
+2017-11-17 19:31:25 Favorites: 75% at 34/sec for roofriteltd
+2017-11-17 19:31:26 Favorites: 92.6% at 69/sec for RRES_ltd
+2017-11-17 19:31:27 Favorites: 100% at 27/sec for RSoanRoofing
+2017-11-17 19:31:29 Favorites: 97.8% at 19/sec for SandallRoofing
+2017-11-17 19:31:31 Favorites: 100% at 55/sec for Sburkeags
+2017-11-17 19:31:31 Favorites: User SDSamuels has a protected account or no Favoritess to collect so skipping
+2017-11-17 19:31:31 Favorites: 100% at 39/sec for SealEco
+2017-11-17 19:31:36 Favorites: 90.8% at 44/sec for seriesaroofing
+2017-11-17 19:31:51 Favorites: 53.4% at 45/sec for Sika
+2017-11-17 19:31:55 Favorites: 50.4% at 46/sec for SimonGriffith11
+2017-11-17 19:31:56 Favorites: 100% at 20/sec for SkylineSolarLtd
+2017-11-17 19:31:56 Favorites: User SpringsRoofing has a protected account or no Favoritess to collect so skipping
+2017-11-17 19:31:57 Favorites: 100% at 44/sec for SSQSlate
+2017-11-17 19:31:58 Favorites: 98.6% at 52/sec for Sunsquare_Ltd
+2017-11-17 19:31:58 Favorites: User Synergy01083691 has a protected account or no Favoritess to collect so skipping
+2017-11-17 19:32:01 Favorites: 100% at 19/sec for TaperedPlus
+2017-11-17 19:32:02 Favorites: 98.6% at 43/sec for TSScot
+2017-11-17 19:32:03 Favorites: 100% at 3/sec for TurpinRoofing
+2017-11-17 19:32:07 Favorites: 55.9% at 42/sec for Veronique_WBUK
+2017-11-17 19:32:08 Favorites: 68.2% at 27/sec for Wardworth
+2017-11-17 19:32:08 Favorites: User WaverleyMags has a protected account or no Favoritess to collect so skipping
+2017-11-17 19:32:09 Favorites: 98.4% at 62/sec for wholebuild
+2017-11-17 19:32:19 Favorites: 56.2% at 48/sec for WildwoodPR
+2017-11-17 19:32:24 Favorites: 89.1% at 42/sec for 361Energy
+2017-11-17 19:32:32 Favorites: 70.2% at 38/sec for adestoke
+2017-11-17 19:32:38 Tweets   : 100% at 0/sec for Synergy01083691
+2017-11-17 19:32:54 Tweets   : 100% at 33/sec for TaperedPlus
+2017-11-17 19:32:54 Favorites: 54.5% at 43/sec for AJABurnett
+2017-11-17 19:32:55 Favorites: 97.9% at 53/sec for alanwhiteheadmp
+2017-11-17 19:33:42 Favorites: Waiting for 12.5 minutes due to : Used up allowance in a loop
+2017-11-17 19:33:52 Tweets   : 99.4% at 43/sec for TSScot
+2017-11-17 19:33:59 Tweets   : 100% at 6/sec for TurpinRoofing
+2017-11-17 19:34:09 Tweets   : 100% at 17/sec for Veronique_WBUK
+Error in twInterfaceObj$doAPICall(cmd, params, method, ...) : 
+  Service Unavailable (HTTP 503).
+In addition: Warning messages:
+1: package 'twitteR' was built under R version 3.4.1 
+2: In twInterfaceObj$doAPICall(cmd, params, method, ...) :
+  Rate limit encountered & retry limit reached - returning partial results
+2017-11-17 19:34:19 Tweets: Unable to find account Wardworth moving to next
+2017-11-17 19:34:19 Tweets   : % at /sec for Wardworth
+2017-11-17 19:34:34 Tweets   : 100% at 30/sec for WaverleyMags
+2017-11-17 19:35:38 Tweets   : 60.5% at 51/sec for wholebuild
+2017-11-17 19:36:49 Tweets   : 83.9% at 45/sec for WildwoodPR
+2017-11-17 19:36:49 Friends  : 98.9% at 2/sec for Sika
+2017-11-17 19:36:57 Friends  : 96.7% at 32/sec for SimonGriffith11
+2017-11-17 19:37:04 Friends  : 99.3% at 43/sec for SkylineSolarLtd
+2017-11-17 19:37:08 Friends  : 100% at 31/sec for SpringsRoofing
+2017-11-17 19:37:16 Friends  : 100% at 48/sec for SSQSlate
+2017-11-17 19:37:46 Friends  : 99.8% at 38/sec for Sunsquare_Ltd
+2017-11-17 19:37:47 Friends  : 100% at 1/sec for Synergy01083691
+2017-11-17 19:37:48 Tweets   : 100% at 43/sec for 361Energy
+2017-11-17 19:38:11 Tweets   : 99.2% at 33/sec for adestoke
+2017-11-17 19:38:14 Friends  : 98.9% at 40/sec for TaperedPlus
+2017-11-17 19:38:28 Friends  : 99% at 42/sec for TSScot
+2017-11-17 19:38:33 Friends  : 100% at 24/sec for TurpinRoofing
+2017-11-17 19:38:34 Friends  : 95.2% at 45/sec for Veronique_WBUK
+2017-11-17 19:38:39 Friends  : 100% at 24/sec for Wardworth
+2017-11-17 19:38:50 Friends  : 100% at 41/sec for WaverleyMags
+2017-11-17 19:39:28 Tweets   : 31.4% at 41/sec for AJABurnett
+2017-11-17 19:40:00 Tweets   : 99.8% at 40/sec for alanwhiteheadmp
+2017-11-17 19:40:14 Friends  : 100% at 40/sec for wholebuild
+2017-11-17 19:40:49 Friends  : 99.9% at 41/sec for WildwoodPR
+2017-11-17 19:40:50 Friends  : Waiting for 10.4 minutes
+2017-11-17 19:41:19 Tweets   : 10.8% at 40/sec for AlbanThurston
+2017-11-17 19:41:28 Tweets   : 100% at 7/sec for AldousEverard
+2017-11-17 19:41:48 Tweets   : 99.9% at 33/sec for Alicecollier1
+2017-11-17 19:42:37 Tweets   : 99.7% at 39/sec for AlternergyPV
+2017-11-17 19:43:40 Tweets   : 14.7% at 51/sec for AmandaOwen8
+2017-11-17 19:44:43 Tweets   : 52.2% at 50/sec for andreajenkyns
+2017-11-17 19:45:53 Tweets   : 36.7% at 46/sec for Andrew_Adonis
+2017-11-17 19:46:55 Favorites: 12% at 4/sec for AlbanThurston
+2017-11-17 19:46:56 Favorites: 100% at 34/sec for AldousEverard
+2017-11-17 19:46:58 Favorites: 67.6% at 51/sec for Alicecollier1
+2017-11-17 19:47:01 Favorites: 75.2% at 32/sec for AlternergyPV
+2017-11-17 19:47:07 Tweets   : 29.1% at 43/sec for angelasmithmp
+2017-11-17 19:47:41 Favorites: 50.3% at 45/sec for AmandaOwen8
+2017-11-17 19:48:03 Favorites: 50.3% at 48/sec for andreajenkyns
+2017-11-17 19:48:11 Favorites: 63.8% at 41/sec for Andrew_Adonis
+2017-11-17 19:48:12 Favorites: 100% at 38/sec for angelasmithmp
+2017-11-17 19:51:39 Friends  : 99.6% at 1/sec for 361Energy
+2017-11-17 19:51:51 Friends  : 98.4% at 37/sec for adestoke
+2017-11-17 19:52:33 Friends  : 99.5% at 40/sec for AJABurnett
+2017-11-17 19:52:41 Friends  : 99.6% at 30/sec for alanwhiteheadmp
+2017-11-17 19:54:13 Friends  : 98.3% at 41/sec for AlbanThurston
+2017-11-17 19:54:15 Friends  : 98.6% at 40/sec for AldousEverard
+2017-11-17 19:54:29 Friends  : 98.5% at 28/sec for Alicecollier1
+2017-11-17 19:54:32 Friends  : 100% at 27/sec for AlternergyPV
+2017-11-17 19:54:43 Friends  : 99.1% at 40/sec for AmandaOwen8
+2017-11-17 19:55:29 Friends  : 99.1% at 45/sec for andreajenkyns
+2017-11-17 19:55:47 Friends  : 98.3% at 42/sec for Andrew_Adonis
+2017-11-17 19:56:47 Friends  : 99.2% at 43/sec for angelasmithmp
+Warning message:
+package 'twitteR' was built under R version 3.4.1 

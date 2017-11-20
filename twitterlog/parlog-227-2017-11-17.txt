@@ -1,0 +1,176 @@
+starting worker pid=13628 on localhost:11271 at 00:18:16.051
+starting worker pid=4504 on localhost:11271 at 00:18:16.213
+starting worker pid=6496 on localhost:11271 at 00:18:16.374
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-17 00:20:21 Friends  : 99.7% at 41/sec for sophiebr
+2017-11-17 00:20:35 Favorites: Waiting for 7 minutes due to : Used up allowance in a loop
+2017-11-17 00:20:42 Friends  : 99.6% at 43/sec for spiritland
+2017-11-17 00:20:47 Friends  : 98.6% at 42/sec for srsaint_WB
+2017-11-17 00:20:50 Friends  : 100% at 11/sec for SSL_Architects
+2017-11-17 00:21:00 Friends  : 99.4% at 46/sec for SSoA_futures
+2017-11-17 00:21:05 Friends  : 94.6% at 26/sec for stickcandy54
+2017-11-17 00:21:23 Friends  : 99.2% at 46/sec for StiffTrevillion
+2017-11-17 00:21:42 Friends  : 99.2% at 40/sec for stoneybryans
+2017-11-17 00:22:10 Friends  : 99.8% at 45/sec for stromarchitects
+2017-11-17 00:22:12 Friends  : 100% at 40/sec for stuartmaister
+2017-11-17 00:22:27 Friends  : 98.2% at 41/sec for studio_mcmm
+2017-11-17 00:22:36 Friends  : 99.2% at 40/sec for studiogang
+2017-11-17 00:22:45 Friends  : 100% at 36/sec for StudioGil
+2017-11-17 00:22:50 Friends  : 99.4% at 34/sec for studioKAP
+2017-11-17 00:22:52 Tweets   : 22.9% at 47/sec for sophiebr
+2017-11-17 00:23:07 Friends  : 99.1% at 48/sec for studiolatest
+2017-11-17 00:23:07 Friends  : Waiting for 11.4 minutes
+2017-11-17 00:23:56 Tweets   : 58.1% at 50/sec for spiritland
+2017-11-17 00:24:12 Tweets   : 100% at 35/sec for srsaint_WB
+2017-11-17 00:24:20 Tweets   : 100% at 8/sec for SSL_Architects
+2017-11-17 00:25:15 Tweets   : 99.7% at 45/sec for SSoA_futures
+2017-11-17 00:25:43 Tweets   : 100% at 48/sec for stickcandy54
+2017-11-17 00:26:48 Tweets   : 98.8% at 50/sec for StiffTrevillion
+2017-11-17 00:27:18 Tweets   : 99.9% at 43/sec for stoneybryans
+2017-11-17 00:27:59 Favorites: 51.6% at 2/sec for sophiebr
+2017-11-17 00:28:24 Favorites: 49.7% at 42/sec for spiritland
+2017-11-17 00:28:25 Tweets   : 50.9% at 47/sec for stromarchitects
+2017-11-17 00:28:25 Favorites: 59.2% at 73/sec for srsaint_WB
+2017-11-17 00:28:25 Favorites: User SSL_Architects has a protected account or no Favoritess to collect so skipping
+2017-11-17 00:28:35 Tweets   : 100% at 27/sec for stuartmaister
+2017-11-17 00:28:39 Favorites: 58.1% at 45/sec for SSoA_futures
+2017-11-17 00:29:06 Favorites: 52% at 47/sec for stickcandy54
+2017-11-17 00:29:30 Favorites: 52.6% at 46/sec for StiffTrevillion
+2017-11-17 00:29:35 Favorites: 68.5% at 41/sec for stoneybryans
+2017-11-17 00:29:44 Tweets   : 28.5% at 46/sec for studio_mcmm
+2017-11-17 00:29:47 Favorites: 49.6% at 42/sec for stromarchitects
+2017-11-17 00:29:47 Favorites: 100% at 39/sec for stuartmaister
+2017-11-17 00:30:20 Tweets   : 99.9% at 38/sec for studiogang
+2017-11-17 00:30:23 Favorites: Waiting for 12.2 minutes due to : Used up allowance in a loop
+2017-11-17 00:30:31 Tweets   : 100% at 17/sec for StudioGil
+2017-11-17 00:30:46 Tweets   : 100% at 28/sec for studioKAP
+2017-11-17 00:32:01 Tweets   : 89% at 42/sec for studiolatest
+2017-11-17 00:32:12 Tweets   : 100% at 12/sec for sumayadxb
+2017-11-17 00:33:17 Tweets   : 14.6% at 49/sec for sundaegirl
+2017-11-17 00:33:55 Tweets   : 100% at 47/sec for susietrexler
+2017-11-17 00:34:35 Friends  : 100% at 0/sec for sumayadxb
+2017-11-17 00:34:55 Friends  : 98.1% at 42/sec for sundaegirl
+2017-11-17 00:34:59 Tweets   : 16.7% at 51/sec for SussexUni
+2017-11-17 00:35:05 Friends  : 97.8% at 40/sec for susietrexler
+2017-11-17 00:35:07 Friends  : 88.5% at 18/sec for SussexUni
+2017-11-17 00:36:02 Friends  : 99.6% at 41/sec for swix
+2017-11-17 00:36:07 Tweets   : 62.8% at 47/sec for swix
+2017-11-17 00:36:09 Friends  : 100% at 37/sec for SylvesterCheung
+2017-11-17 00:36:17 Friends  : 99.7% at 42/sec for TandemMelb
+2017-11-17 00:36:32 Tweets   : 100% at 41/sec for SylvesterCheung
+2017-11-17 00:36:45 Tweets   : 100% at 23/sec for TandemMelb
+2017-11-17 00:37:54 Tweets   : 52% at 46/sec for TarekMerlin
+2017-11-17 00:38:28 Tweets   : 99.8% at 38/sec for tatehindle
+2017-11-17 00:39:00 Friends  : 98.6% at 40/sec for TarekMerlin
+2017-11-17 00:39:16 Friends  : 98.9% at 40/sec for tatehindle
+2017-11-17 00:39:42 Tweets   : 26.2% at 43/sec for TCLFdotORG
+2017-11-17 00:40:46 Friends  : 99.8% at 37/sec for TCLFdotORG
+2017-11-17 00:40:55 Tweets   : 12.6% at 44/sec for The_Lighthouse
+2017-11-17 00:42:07 Tweets   : 20.6% at 44/sec for theAlbertDock
+2017-11-17 00:42:23 Tweets   : 99.8% at 36/sec for TheGoodDoctorV
+2017-11-17 00:43:18 Favorites: 28.7% at 4/sec for studio_mcmm
+2017-11-17 00:43:25 Friends  : 99.8% at 35/sec for The_Lighthouse
+2017-11-17 00:43:35 Favorites: 56.3% at 41/sec for studiogang
+2017-11-17 00:43:38 Favorites: 100% at 14/sec for StudioGil
+2017-11-17 00:43:38 Tweets   : 3.3% at 43/sec for theipaper
+2017-11-17 00:43:39 Favorites: 100% at 23/sec for studioKAP
+2017-11-17 00:43:50 Favorites: 55.2% at 43/sec for studiolatest
+2017-11-17 00:43:52 Friends  : 97% at 33/sec for theAlbertDock
+2017-11-17 00:43:55 Favorites: 54.2% at 46/sec for sumayadxb
+2017-11-17 00:43:58 Friends  : 99.4% at 34/sec for TheGoodDoctorV
+2017-11-17 00:43:58 Friends  : Waiting for 5.6 minutes
+2017-11-17 00:44:55 Tweets   : 53.7% at 42/sec for TheoJones
+2017-11-17 00:45:14 Favorites: 25.2% at 41/sec for sundaegirl
+2017-11-17 00:45:37 Favorites: Waiting for 12 minutes due to : Used up allowance in a loop
+2017-11-17 00:46:08 Tweets   : 33.3% at 44/sec for TheShardLondon
+2017-11-17 00:47:17 Tweets   : 28% at 46/sec for thespacesmag
+2017-11-17 00:47:23 Tweets   : 100% at 3/sec for theunfoldingme
+2017-11-17 00:47:44 Tweets   : 100% at 34/sec for TilesManchester
+2017-11-17 00:48:59 Tweets   : 17.2% at 43/sec for timabrahams
+2017-11-17 00:50:02 Tweets   : 74.1% at 51/sec for tobyblackman
+2017-11-17 00:50:49 Tweets   : 99.7% at 46/sec for Tom_Guy_
+2017-11-17 00:51:25 Friends  : 99.2% at 10/sec for theipaper
+2017-11-17 00:52:02 Tweets   : 23.6% at 44/sec for TomBloxhamMBE
+2017-11-17 00:52:17 Friends  : 98.3% at 40/sec for TheoJones
+2017-11-17 00:52:26 Friends  : 99.2% at 38/sec for TheShardLondon
+2017-11-17 00:53:05 Friends  : 97.7% at 39/sec for thespacesmag
+2017-11-17 00:53:08 Friends  : 97.6% at 14/sec for theunfoldingme
+2017-11-17 00:53:17 Tweets   : 37.8% at 42/sec for tomravenscroft
+2017-11-17 00:53:19 Friends  : 98.8% at 39/sec for TilesManchester
+2017-11-17 00:53:30 Tweets   : 100% at 28/sec for tomryderhaworth
+2017-11-17 00:53:45 Friends  : 98.8% at 40/sec for timabrahams
+2017-11-17 00:53:55 Friends  : 98.3% at 39/sec for tobyblackman
+2017-11-17 00:54:18 Friends  : 99.6% at 34/sec for Tom_Guy_
+2017-11-17 00:54:37 Friends  : 99.2% at 37/sec for TomBloxhamMBE
+2017-11-17 00:54:46 Tweets   : 56.1% at 42/sec for tradegovuk_EE
+2017-11-17 00:55:11 Friends  : 97.9% at 41/sec for tomravenscroft
+2017-11-17 00:55:23 Friends  : 99.8% at 36/sec for tomryderhaworth
+2017-11-17 00:55:43 Friends  : 98.9% at 37/sec for tradegovuk_EE
+2017-11-17 00:55:50 Friends  : 99.7% at 37/sec for tradegovuk_NW
+2017-11-17 00:56:09 Tweets   : 36.1% at 38/sec for tradegovuk_NW
+2017-11-17 00:56:44 Friends  : 98.5% at 39/sec for tradegovuk_SW
+2017-11-17 00:56:44 Friends  : Waiting for 7.9 minutes
+2017-11-17 00:57:13 Tweets   : 29.6% at 50/sec for tradegovuk_SW
+2017-11-17 00:57:27 Tweets   : 100% at 31/sec for TurnerOnDesign
+2017-11-17 00:57:33 Tweets   : 100% at 4/sec for tweet_marabravo
+2017-11-17 00:57:50 Tweets   : 99.8% at 37/sec for TylerLoewen
+2017-11-17 00:58:02 Favorites: 51.6% at 3/sec for susietrexler
+2017-11-17 00:59:02 Tweets   : 36.1% at 44/sec for ucddublin
+2017-11-17 00:59:04 Favorites: 48.9% at 45/sec for SussexUni
+2017-11-17 00:59:14 Favorites: 59.4% at 47/sec for swix
+2017-11-17 00:59:19 Favorites: 60.9% at 47/sec for SylvesterCheung
+2017-11-17 00:59:26 Favorites: 54% at 42/sec for TandemMelb
+2017-11-17 00:59:45 Favorites: 51.4% at 46/sec for TarekMerlin
+2017-11-17 00:59:54 Favorites: 58% at 44/sec for tatehindle
+2017-11-17 01:00:01 Tweets   : 99.6% at 44/sec for UCDEngArch
+2017-11-17 01:00:22 Favorites: Waiting for 12.3 minutes due to : Used up allowance in a loop
+2017-11-17 01:01:08 Tweets   : 18.2% at 48/sec for UCLan
+2017-11-17 01:02:19 Tweets   : 45.3% at 45/sec for UCLurbanlab
+2017-11-17 01:04:59 Friends  : 98.3% at 2/sec for TurnerOnDesign
+2017-11-17 01:05:06 Friends  : 100% at 28/sec for tweet_marabravo
+2017-11-17 01:05:14 Friends  : 99.3% at 37/sec for TylerLoewen
+2017-11-17 01:05:53 Friends  : 97.5% at 39/sec for ucddublin
+2017-11-17 01:06:12 Friends  : 98.8% at 34/sec for UCDEngArch
+2017-11-17 01:06:53 Friends  : 99.2% at 41/sec for UCLan
+2017-11-17 01:07:24 Friends  : 99.3% at 43/sec for UCLurbanlab
+2017-11-17 01:12:45 Favorites: 49.6% at 2/sec for TCLFdotORG
+2017-11-17 01:13:57 Favorites: 36.2% at 45/sec for The_Lighthouse
+2017-11-17 01:15:06 Favorites: 23% at 47/sec for theAlbertDock
+2017-11-17 01:15:07 Favorites: 94.4% at 31/sec for TheGoodDoctorV
+2017-11-17 01:15:16 Favorites: Waiting for 12.4 minutes due to : Used up allowance in a loop
+2017-11-17 01:27:39 Favorites: 26.4% at 1/sec for theipaper
+2017-11-17 01:27:39 Favorites: Waiting for 0 minutes due to : Used up allowance in a loop
+2017-11-17 01:28:01 Favorites: 52.6% at 44/sec for TheoJones
+2017-11-17 01:28:53 Favorites: 49.1% at 45/sec for TheShardLondon
+2017-11-17 01:29:49 Favorites: 50.4% at 44/sec for thespacesmag
+2017-11-17 01:29:49 Favorites: 100% at 20/sec for theunfoldingme
+2017-11-17 01:29:51 Favorites: 60.2% at 65/sec for TilesManchester
+2017-11-17 01:30:21 Favorites: Waiting for 12.3 minutes due to : Used up allowance in a loop
+2017-11-17 01:43:15 Favorites: 50.1% at 4/sec for timabrahams
+2017-11-17 01:44:24 Favorites: 40.5% at 47/sec for tobyblackman
+2017-11-17 01:44:27 Favorites: 50.3% at 38/sec for Tom_Guy_
+2017-11-17 01:44:28 Favorites: 89.1% at 60/sec for TomBloxhamMBE
+2017-11-17 01:45:11 Favorites: 49.8% at 46/sec for tomravenscroft
+2017-11-17 01:45:14 Favorites: 73.5% at 37/sec for tomryderhaworth
+2017-11-17 01:45:23 Favorites: 51.9% at 45/sec for tradegovuk_EE
+2017-11-17 01:45:23 Favorites: Waiting for 12.3 minutes due to : Used up allowance in a loop
+2017-11-17 01:57:50 Favorites: 53.3% at 1/sec for tradegovuk_NW
+2017-11-17 01:58:02 Favorites: 55.2% at 42/sec for tradegovuk_SW
+2017-11-17 01:58:08 Favorites: 57.6% at 52/sec for TurnerOnDesign
+2017-11-17 01:58:08 Favorites: 100% at 34/sec for tweet_marabravo
+2017-11-17 01:58:15 Favorites: 69.7% at 43/sec for TylerLoewen
+2017-11-17 01:59:26 Favorites: 14% at 46/sec for ucddublin
+2017-11-17 01:59:38 Favorites: 55.1% at 47/sec for UCDEngArch
+2017-11-17 02:00:20 Favorites: Waiting for 12.3 minutes due to : Used up allowance in a loop
+2017-11-17 02:12:41 Favorites: 16.7% at 2/sec for UCLan
+2017-11-17 02:12:52 Favorites: 53.9% at 47/sec for UCLurbanlab
+Warning message:
+Warning messages:
+as built under R version 3.4.1 
+1: package 'twitteR' was built under R version 3.4.1 
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+2: In twInterfaceObj$doAPICall(cmd, params, method, ...) :
+  Rate limit encountered & retry limit reached - returning partial results

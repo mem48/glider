@@ -1,0 +1,167 @@
+starting worker pid=4212 on localhost:11271 at 06:42:29.658
+starting worker pid=3440 on localhost:11271 at 06:42:29.813
+starting worker pid=7876 on localhost:11271 at 06:42:29.982
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-18 06:44:15 Friends  : 99.4% at 27/sec for albionhill
+2017-11-18 06:45:05 Friends  : 99.3% at 32/sec for alex_kendall
+2017-11-18 06:45:35 Friends  : 98.7% at 38/sec for AlexDNesbitt
+2017-11-18 06:45:53 Favorites: 63.1% at 52/sec for albionhill
+2017-11-18 06:46:00 Favorites: 79.4% at 30/sec for alex_kendall
+2017-11-18 06:46:19 Favorites: 57.5% at 25/sec for AlexDNesbitt
+2017-11-18 06:47:34 Favorites: Waiting for 4.5 minutes due to : Used up allowance in a loop
+2017-11-18 06:48:10 Tweets   : 98.9% at 26/sec for albionhill
+2017-11-18 06:48:24 Friends  : 99.4% at 33/sec for alexismadrigal
+2017-11-18 06:48:27 Friends  : 3.7% at 23/sec for AllanBoat
+2017-11-18 06:49:11 Friends  : 100% at 44/sec for AllwallUK
+2017-11-18 06:49:25 Tweets   : 49.3% at 43/sec for alex_kendall
+2017-11-18 06:49:57 Tweets   : 99.9% at 36/sec for AlexDNesbitt
+2017-11-18 06:50:55 Friends  : 92.2% at 42/sec for alphabetsuccess
+2017-11-18 06:51:10 Friends  : 100% at 44/sec for AlpineWorkshops
+2017-11-18 06:51:18 Tweets   : 5.8% at 40/sec for alexismadrigal
+2017-11-18 06:51:20 Friends  : 100% at 37/sec for AltSpaceUK
+2017-11-18 06:51:53 Friends  : 100.5% at 37/sec for amazinwildlife
+2017-11-18 06:52:23 Tweets   : 38.2% at 48/sec for AllanBoat
+2017-11-18 06:52:28 Favorites: 12.3% at 9/sec for alexismadrigal
+2017-11-18 06:52:29 Favorites: 89% at 44/sec for AllanBoat
+2017-11-18 06:52:30 Favorites: 100% at 7/sec for AllwallUK
+2017-11-18 06:52:34 Favorites: 88.3% at 43/sec for alphabetsuccess
+2017-11-18 06:52:38 Favorites: 98.5% at 21/sec for AlpineWorkshops
+2017-11-18 06:52:38 Favorites: 93.8% at 30/sec for AltSpaceUK
+2017-11-18 06:52:38 Favorites: User amazinwildlife has a protected account or no Favoritess to collect so skipping
+2017-11-18 06:52:39 Tweets   : 99.3% at 35/sec for AllwallUK
+2017-11-18 06:53:50 Tweets   : 9% at 45/sec for alphabetsuccess
+2017-11-18 06:54:08 Tweets   : 99.7% at 35/sec for AlpineWorkshops
+2017-11-18 06:54:12 Favorites: 48.5% at 34/sec for americanrivers
+2017-11-18 06:54:22 Favorites: 50.3% at 20/sec for AndMcP3
+2017-11-18 06:54:22 Favorites: 94.1% at 31/sec for Andrew_J_Taylor
+2017-11-18 06:54:22 Favorites: User andrewsimms_nef has a protected account or no Favoritess to collect so skipping
+2017-11-18 06:54:41 Tweets   : 99.3% at 40/sec for AltSpaceUK
+2017-11-18 06:55:09 Friends  : 99.9% at 37/sec for americanrivers
+2017-11-18 06:55:30 Friends  : 99.5% at 34/sec for AndMcP3
+2017-11-18 06:55:34 Favorites: Waiting for 11.6 minutes due to : Used up allowance in a loop
+2017-11-18 06:55:46 Tweets   : 37.3% at 48/sec for amazinwildlife
+2017-11-18 06:56:28 Friends  : 100% at 35/sec for Andrew_J_Taylor
+2017-11-18 06:56:28 Friends  : User andrewsimms_nef has a protected account or no Friendss to collect so skipping
+2017-11-18 06:56:28 Friends  : Waiting for 2.8 minutes
+2017-11-18 06:56:52 Tweets   : 16.4% at 49/sec for americanrivers
+2017-11-18 06:56:59 Tweets   : 97.9% at 6/sec for AndMcP3
+2017-11-18 06:57:35 Tweets   : 99.8% at 47/sec for Andrew_J_Taylor
+2017-11-18 06:57:35 Tweets   : User andrewsimms_nef has a protected account or no Tweetss to collect so skipping
+2017-11-18 06:58:45 Tweets   : 6.8% at 46/sec for andyheald
+2017-11-18 06:59:32 Tweets   : 99.8% at 47/sec for AndyMcDonaldMP
+2017-11-18 07:00:43 Tweets   : 18.8% at 45/sec for AndyRileyish
+2017-11-18 07:00:49 Tweets   : 100% at 5/sec for annacarton
+2017-11-18 07:00:54 Friends  : 98.2% at 13/sec for andyheald
+2017-11-18 07:00:55 Tweets   : 100% at 9/sec for anthonyjprobert
+2017-11-18 07:01:04 Tweets   : 100% at 12/sec for AntViejo
+2017-11-18 07:01:10 Tweets   : 100% at 7/sec for ApexAcoustics
+2017-11-18 07:01:16 Tweets   : 100% at 2/sec for ARated
+2017-11-18 07:01:31 Friends  : 99.6% at 32/sec for AndyMcDonaldMP
+2017-11-18 07:01:52 Friends  : 99.1% at 33/sec for AndyRileyish
+2017-11-18 07:01:54 Friends  : 100% at 32/sec for annacarton
+2017-11-18 07:01:59 Friends  : 100% at 33/sec for anthonyjprobert
+2017-11-18 07:02:00 Tweets   : 99.9% at 43/sec for archininja
+2017-11-18 07:02:02 Friends  : 100% at 8/sec for AntViejo
+2017-11-18 07:02:08 Friends  : 99% at 35/sec for ApexAcoustics
+2017-11-18 07:02:37 Tweets   : 99.8% at 45/sec for ArchitectsBude
+2017-11-18 07:02:47 Tweets   : 100% at 20/sec for ArchitectsGB
+2017-11-18 07:03:54 Tweets   : 99.8% at 40/sec for ArchitectureACA
+2017-11-18 07:04:13 Friends  : 99.7% at 41/sec for ARated
+2017-11-18 07:04:18 Friends  : 100% at 22/sec for archininja
+2017-11-18 07:04:37 Tweets   : 99.5% at 41/sec for ArchiWelch
+2017-11-18 07:04:41 Friends  : 99.9% at 44/sec for ArchitectsBude
+2017-11-18 07:04:45 Tweets   : 100% at 29/sec for Arnold_Bartosch
+2017-11-18 07:04:53 Tweets   : 100% at 11/sec for AshbyEnergy
+2017-11-18 07:04:57 Friends  : 100% at 40/sec for ArchitectsGB
+2017-11-18 07:05:12 Friends  : 99.7% at 44/sec for ArchitectureACA
+2017-11-18 07:05:17 Friends  : 97.8% at 33/sec for ArchiWelch
+2017-11-18 07:05:24 Friends  : 98.9% at 37/sec for Arnold_Bartosch
+2017-11-18 07:05:24 Friends  : Waiting for 8.9 minutes
+2017-11-18 07:05:53 Tweets   : 94.2% at 53/sec for Ask_Architect
+2017-11-18 07:06:04 Tweets   : 100% at 33/sec for Atelier3Tim
+2017-11-18 07:06:32 Tweets   : 99.9% at 45/sec for atlantisresplc
+2017-11-18 07:06:48 Tweets   : 99.8% at 34/sec for atomic_newt
+2017-11-18 07:07:43 Favorites: 6.3% at 4/sec for andyheald
+2017-11-18 07:07:44 Favorites: 63.2% at 68/sec for AndyMcDonaldMP
+2017-11-18 07:07:52 Tweets   : 55.7% at 50/sec for AutodeskImpact
+2017-11-18 07:07:57 Favorites: 53.9% at 32/sec for AndyRileyish
+2017-11-18 07:07:57 Favorites: 100% at 3/sec for annacarton
+2017-11-18 07:07:57 Favorites: 100% at 3/sec for anthonyjprobert
+2017-11-18 07:07:57 Favorites: User AntViejo has a protected account or no Favoritess to collect so skipping
+2017-11-18 07:07:58 Favorites: 100% at 39/sec for ApexAcoustics
+2017-11-18 07:08:03 Favorites: 19.6% at 24/sec for ARated
+2017-11-18 07:08:04 Favorites: 98.2% at 55/sec for archininja
+2017-11-18 07:08:09 Favorites: 54.4% at 35/sec for ArchitectsBude
+2017-11-18 07:08:10 Favorites: 100% at 18/sec for ArchitectsGB
+2017-11-18 07:08:11 Favorites: 100% at 67/sec for ArchitectureACA
+2017-11-18 07:08:11 Tweets   : 99.5% at 34/sec for AvaazCopenhagen
+2017-11-18 07:08:14 Favorites: 56.6% at 31/sec for ArchiWelch
+2017-11-18 07:08:16 Favorites: 60% at 63/sec for Arnold_Bartosch
+2017-11-18 07:08:16 Favorites: User AshbyEnergy has a protected account or no Favoritess to collect so skipping
+2017-11-18 07:08:18 Favorites: 100% at 0/sec for Ask_Architect
+2017-11-18 07:08:18 Favorites: User Atelier3Tim has a protected account or no Favoritess to collect so skipping
+Error in twInterfaceObj$doAPICall(cmd, params, method, ...) : 
+  Service Unavailable (HTTP 503).
+In addition: Warning message:
+package 'twitteR' was built under R version 3.4.1 
+2017-11-18 07:08:22 Tweets: Unable to find account aw_bell moving to next
+2017-11-18 07:08:22 Tweets   : % at /sec for aw_bell
+2017-11-18 07:08:24 Favorites: 61% at 48/sec for atlantisresplc
+2017-11-18 07:08:29 Favorites: 73.2% at 41/sec for atomic_newt
+2017-11-18 07:08:30 Tweets   : 99.5% at 28/sec for axisdesign
+2017-11-18 07:08:50 Tweets   : 100% at 37/sec for bakerandgrower
+2017-11-18 07:08:53 Favorites: 49.9% at 37/sec for AutodeskImpact
+2017-11-18 07:08:53 Favorites: 100% at 12/sec for AvaazCopenhagen
+2017-11-18 07:09:40 Favorites: 51.2% at 38/sec for aw_bell
+2017-11-18 07:09:40 Favorites: 100% at 12/sec for axisdesign
+2017-11-18 07:09:49 Favorites: 54.5% at 34/sec for bakerandgrower
+2017-11-18 07:09:54 Favorites: 74.7% at 38/sec for baldwingas
+2017-11-18 07:09:55 Favorites: 100% at 3/sec for Barry_Sutcliffe
+2017-11-18 07:09:55 Tweets   : 37.6% at 49/sec for baldwingas
+2017-11-18 07:09:58 Favorites: 58.8% at 30/sec for bayouboyuk
+2017-11-18 07:09:58 Favorites: User BeechSolar has a protected account or no Favoritess to collect so skipping
+2017-11-18 07:09:58 Favorites: 100% at 14/sec for BenColeman83
+2017-11-18 07:09:59 Favorites: 95.5% at 50/sec for BenfieldATT
+2017-11-18 07:10:00 Favorites: 100% at 31/sec for BenjaminKrick
+2017-11-18 07:10:05 Tweets   : 100% at 20/sec for Barry_Sutcliffe
+2017-11-18 07:10:08 Favorites: 62.2% at 36/sec for BenMurrayUK
+2017-11-18 07:10:09 Favorites: 100% at 62/sec for Bennuworld
+2017-11-18 07:10:09 Favorites: Waiting for 12.2 minutes due to : Used up allowance in a loop
+2017-11-18 07:10:26 Tweets   : 99.9% at 38/sec for bayouboyuk
+2017-11-18 07:11:25 Tweets   : 74.3% at 54/sec for BeechSolar
+2017-11-18 07:11:31 Tweets   : 100% at 2/sec for BenColeman83
+2017-11-18 07:11:49 Tweets   : 99.9% at 37/sec for BenfieldATT
+2017-11-18 07:11:55 Tweets   : 100% at 6/sec for BenjaminKrick
+2017-11-18 07:13:02 Tweets   : 83.8% at 48/sec for BenMurrayUK
+2017-11-18 07:14:03 Tweets   : 10.2% at 53/sec for Bennuworld
+2017-11-18 07:14:34 Friends  : 100% at 0/sec for AshbyEnergy
+2017-11-18 07:15:13 Friends  : 99.8% at 38/sec for Ask_Architect
+2017-11-18 07:15:14 Tweets   : 4.2% at 45/sec for BernaMeaden
+2017-11-18 07:15:23 Tweets   : 100% at 14/sec for BGHShow
+2017-11-18 07:15:23 Friends  : 100% at 33/sec for Atelier3Tim
+2017-11-18 07:16:14 Friends  : 99.9% at 44/sec for atlantisresplc
+2017-11-18 07:16:21 Friends  : 99.3% at 43/sec for atomic_newt
+2017-11-18 07:17:13 Friends  : 99.8% at 43/sec for AutodeskImpact
+2017-11-18 07:18:04 Friends  : 100% at 40/sec for AvaazCopenhagen
+2017-11-18 07:18:49 Friends  : 98.7% at 41/sec for aw_bell
+2017-11-18 07:18:51 Friends  : 100% at 44/sec for axisdesign
+2017-11-18 07:19:00 Friends  : 98.7% at 34/sec for bakerandgrower
+2017-11-18 07:19:52 Friends  : 98.8% at 41/sec for baldwingas
+2017-11-18 07:20:22 Friends  : 100% at 39/sec for Barry_Sutcliffe
+2017-11-18 07:20:23 Friends  : 98.5% at 42/sec for bayouboyuk
+2017-11-18 07:20:52 Friends  : 100% at 38/sec for BeechSolar
+2017-11-18 07:21:36 Friends  : 99.9% at 40/sec for BenColeman83
+2017-11-18 07:21:37 Friends  : Waiting for 8 minutes
+2017-11-18 07:24:00 Favorites: 30.5% at 4/sec for BernaMeaden
+2017-11-18 07:24:00 Favorites: 100% at 8/sec for BGHShow
+2017-11-18 07:29:57 Friends  : 100% at 1/sec for BenfieldATT
+2017-11-18 07:29:58 Friends  : 100% at 17/sec for BenjaminKrick
+2017-11-18 07:30:34 Friends  : 99.8% at 39/sec for BenMurrayUK
+2017-11-18 07:31:18 Friends  : 100% at 39/sec for Bennuworld
+2017-11-18 07:33:20 Friends  : 99% at 39/sec for BernaMeaden
+2017-11-18 07:33:31 Friends  : 100% at 40/sec for BGHShow
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+package 'twitteR' was built under R version 3.4.1 

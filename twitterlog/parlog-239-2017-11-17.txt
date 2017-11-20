@@ -1,0 +1,174 @@
+starting worker pid=11868 on localhost:11271 at 13:02:56.457
+starting worker pid=1388 on localhost:11271 at 13:02:56.623
+starting worker pid=2348 on localhost:11271 at 13:02:56.790
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-17 13:04:39 Friends  : 100% at 29/sec for macletting
+2017-11-17 13:05:18 Friends  : 99.6% at 36/sec for MENnewsdesk
+2017-11-17 13:05:39 Friends  : 99.4% at 39/sec for Metro_Linked_In
+2017-11-17 13:05:48 Favorites: 100% at 26/sec for macletting
+2017-11-17 13:05:52 Friends  : 99.7% at 29/sec for Moose_Chan
+2017-11-17 13:06:06 Friends  : 94.6% at 30/sec for mrmarcoperi
+2017-11-17 13:06:34 Favorites: 49.6% at 32/sec for MENnewsdesk
+2017-11-17 13:06:37 Favorites: 100% at 27/sec for Metro_Linked_In
+2017-11-17 13:06:38 Favorites: 98% at 48/sec for Moose_Chan
+2017-11-17 13:06:46 Favorites: 58.4% at 38/sec for mrmarcoperi
+2017-11-17 13:07:29 Tweets   : 100% at 24/sec for macletting
+2017-11-17 13:07:40 Favorites: Waiting for 5.5 minutes due to : Used up allowance in a loop
+2017-11-17 13:08:50 Tweets   : 2.3% at 39/sec for MENnewsdesk
+2017-11-17 13:09:03 Friends  : 90.8% at 38/sec for NoLettingGo
+2017-11-17 13:09:09 Tweets   : 99.8% at 32/sec for Metro_Linked_In
+2017-11-17 13:09:18 Tweets   : 100% at 21/sec for Moose_Chan
+2017-11-17 13:09:24 Friends  : 98.8% at 46/sec for NorcroftEnergy
+2017-11-17 13:09:34 Tweets   : 100% at 26/sec for mrmarcoperi
+2017-11-17 13:09:34 Friends  : 100% at 38/sec for NottmRenters
+2017-11-17 13:09:42 Friends  : 99.1% at 40/sec for NPPLettings
+2017-11-17 13:09:48 Friends  : 85.6% at 45/sec for ParamountLytham
+2017-11-17 13:10:48 Tweets   : 28.4% at 43/sec for NoLettingGo
+2017-11-17 13:11:33 Tweets   : 99.9% at 50/sec for NorcroftEnergy
+2017-11-17 13:11:50 Tweets   : 100% at 35/sec for NottmRenters
+2017-11-17 13:12:06 Tweets   : 99.6% at 32/sec for NPPLettings
+2017-11-17 13:12:17 Tweets   : 100% at 19/sec for ParamountLytham
+2017-11-17 13:13:24 Tweets   : 1.7% at 47/sec for Paul_Rout
+2017-11-17 13:13:49 Favorites: 50.1% at 8/sec for NoLettingGo
+2017-11-17 13:13:56 Favorites: 74.2% at 29/sec for NorcroftEnergy
+2017-11-17 13:13:57 Favorites: 98.9% at 62/sec for NottmRenters
+2017-11-17 13:14:03 Favorites: 98.5% at 37/sec for NPPLettings
+2017-11-17 13:14:10 Favorites: 93% at 27/sec for ParamountLytham
+2017-11-17 13:14:33 Tweets   : 89.2% at 46/sec for philipjamesmcr
+2017-11-17 13:14:39 Favorites: 50% at 30/sec for Paul_Rout
+2017-11-17 13:14:40 Favorites: 78.4% at 64/sec for philipjamesmcr
+2017-11-17 13:14:43 Favorites: 98.6% at 23/sec for pjwproperties
+2017-11-17 13:14:44 Favorites: 100% at 25/sec for PropertiesBham
+2017-11-17 13:14:49 Tweets   : 99.7% at 24/sec for pjwproperties
+2017-11-17 13:14:58 Tweets   : 100% at 14/sec for PropertiesBham
+2017-11-17 13:16:12 Favorites: 49.9% at 34/sec for propertydetect
+2017-11-17 13:16:17 Tweets   : 38.6% at 41/sec for propertydetect
+2017-11-17 13:16:22 Favorites: 60.7% at 40/sec for PropIndEye
+2017-11-17 13:16:43 Favorites: 56.1% at 33/sec for RamsdensLit
+2017-11-17 13:16:43 Favorites: Waiting for 11.4 minutes due to : Used up allowance in a loop
+2017-11-17 13:17:19 Friends  : 99.4% at 37/sec for Paul_Rout
+2017-11-17 13:17:19 Friends  : Waiting for 2.1 minutes
+2017-11-17 13:17:23 Tweets   : 17% at 48/sec for PropIndEye
+2017-11-17 13:17:48 Tweets   : 100% at 36/sec for RamsdensLit
+2017-11-17 13:18:53 Tweets   : 62.9% at 49/sec for ReedsRains
+2017-11-17 13:19:58 Tweets   : 99.9% at 49/sec for Rentguard
+2017-11-17 13:20:16 Friends  : 100% at 13/sec for philipjamesmcr
+2017-11-17 13:20:27 Friends  : 99.8% at 48/sec for pjwproperties
+2017-11-17 13:20:31 Friends  : 100% at 37/sec for PropertiesBham
+2017-11-17 13:21:07 Tweets   : 2.1% at 47/sec for RightYield
+2017-11-17 13:21:14 Tweets   : 100% at 16/sec for RLAMortgages
+2017-11-17 13:22:19 Tweets   : 67.6% at 49/sec for RolfeEast
+2017-11-17 13:22:27 Tweets   : 100% at 22/sec for SairMair
+2017-11-17 13:22:40 Tweets   : 100% at 21/sec for sallyw_star
+2017-11-17 13:23:03 Tweets   : 99.9% at 38/sec for sarahmacleodUK
+2017-11-17 13:23:30 Friends  : 96.6% at 44/sec for propertydetect
+2017-11-17 13:23:35 Tweets   : 99.9% at 47/sec for steve_bolton
+2017-11-17 13:23:48 Tweets   : 100% at 30/sec for StLegerLettings
+2017-11-17 13:24:29 Tweets   : 99.9% at 50/sec for strideltd
+2017-11-17 13:24:36 Tweets   : 100% at 2/sec for TheGoodTenantCo
+2017-11-17 13:25:45 Tweets   : 14.3% at 46/sec for TheHouseShopUK
+2017-11-17 13:26:10 Friends  : 100% at 42/sec for PropIndEye
+2017-11-17 13:26:21 Friends  : 98% at 39/sec for RamsdensLit
+2017-11-17 13:26:36 Tweets   : 100% at 50/sec for UKFireDoors
+2017-11-17 13:26:48 Friends  : 99.9% at 38/sec for ReedsRains
+2017-11-17 13:27:38 Tweets   : 99.5% at 49/sec for verdinels
+2017-11-17 13:28:20 Favorites: 62.9% at 0/sec for ReedsRains
+2017-11-17 13:28:21 Favorites: 100% at 65/sec for Rentguard
+2017-11-17 13:28:33 Favorites: 49.4% at 34/sec for RightYield
+2017-11-17 13:28:33 Favorites: 100% at 6/sec for RLAMortgages
+2017-11-17 13:28:39 Favorites: 73.4% at 39/sec for RolfeEast
+2017-11-17 13:28:42 Favorites: 57.5% at 30/sec for SairMair
+2017-11-17 13:28:43 Favorites: 69% at 64/sec for sallyw_star
+2017-11-17 13:28:47 Friends  : 99% at 36/sec for Rentguard
+2017-11-17 13:28:50 Tweets   : 37.7% at 44/sec for WalesBusiness
+2017-11-17 13:28:57 Favorites: 56.7% at 35/sec for sarahmacleodUK
+2017-11-17 13:29:01 Favorites: 87.2% at 46/sec for steve_bolton
+2017-11-17 13:29:03 Favorites: 100% at 58/sec for StLegerLettings
+2017-11-17 13:29:05 Favorites: 100% at 12/sec for strideltd
+2017-11-17 13:29:06 Favorites: 100% at 44/sec for TheGoodTenantCo
+2017-11-17 13:29:23 Tweets   : 98.4% at 36/sec for altec_services
+2017-11-17 13:29:35 Friends  : 99.2% at 38/sec for RightYield
+2017-11-17 13:29:37 Friends  : 100% at 27/sec for RLAMortgages
+2017-11-17 13:29:39 Favorites: 48.9% at 36/sec for TheHouseShopUK
+2017-11-17 13:29:40 Favorites: 100% at 65/sec for UKFireDoors
+2017-11-17 13:29:53 Favorites: 53.5% at 39/sec for verdinels
+2017-11-17 13:30:17 Favorites: 51.6% at 32/sec for WalesBusiness
+2017-11-17 13:30:18 Favorites: 93.2% at 51/sec for altec_services
+2017-11-17 13:30:21 Favorites: 65.4% at 31/sec for BelTel
+2017-11-17 13:30:29 Friends  : 95.9% at 45/sec for RolfeEast
+2017-11-17 13:30:32 Friends  : 99.4% at 45/sec for SairMair
+2017-11-17 13:30:35 Tweets   : 3.5% at 45/sec for BelTel
+2017-11-17 13:30:41 Friends  : 99.7% at 42/sec for sallyw_star
+2017-11-17 13:30:53 Friends  : 99.2% at 40/sec for sarahmacleodUK
+2017-11-17 13:31:21 Favorites: 51.1% at 38/sec for BordersCollege
+2017-11-17 13:31:23 Favorites: Waiting for 11.8 minutes due to : Used up allowance in a loop
+2017-11-17 13:31:31 Friends  : 99.8% at 42/sec for steve_bolton
+2017-11-17 13:31:33 Friends  : 98.8% at 40/sec for StLegerLettings
+2017-11-17 13:31:46 Friends  : 99.5% at 44/sec for strideltd
+Error in twInterfaceObj$doAPICall(paste("users", "show", sep = "/"), params = params,  : 
+  Not Found (HTTP 404).
+In addition: Warning message:
+package 'twitteR' was built under R version 3.4.1 
+2017-11-17 13:31:46 Friends: Unable to find account TheGoodTenantCo moving to next
+2017-11-17 13:31:46 Friends  : % at /sec for TheGoodTenantCo
+2017-11-17 13:31:51 Tweets   : 34.8% at 42/sec for BordersCollege
+2017-11-17 13:32:51 Tweets   : 56.4% at 53/sec for CitAdviceScot
+2017-11-17 13:33:29 Friends  : 98.6% at 48/sec for TheHouseShopUK
+2017-11-17 13:33:29 Friends  : Waiting for 5.1 minutes
+2017-11-17 13:33:58 Tweets   : 50.1% at 48/sec for DeidreBrock
+2017-11-17 13:34:29 Tweets   : 99.8% at 40/sec for ESPScotland
+2017-11-17 13:35:30 Tweets   : 99.8% at 50/sec for EvolutionDezine
+2017-11-17 13:36:35 Tweets   : 87.9% at 49/sec for fifecollege
+2017-11-17 13:37:43 Tweets   : 67.5% at 47/sec for FVCollege
+2017-11-17 13:38:26 Tweets   : 98.9% at 44/sec for garyblairltd
+2017-11-17 13:39:01 Friends  : 93.2% at 3/sec for UKFireDoors
+2017-11-17 13:39:03 Friends  : 100% at 30/sec for verdinels
+2017-11-17 13:39:36 Tweets   : 84.2% at 46/sec for HattieHasan
+2017-11-17 13:39:48 Tweets   : 100% at 18/sec for HighlandBiomass
+2017-11-17 13:39:57 Friends  : 95.2% at 48/sec for WalesBusiness
+2017-11-17 13:39:59 Tweets   : 100% at 26/sec for KorriePlumbing
+2017-11-17 13:40:07 Tweets   : 100% at 10/sec for mcdgas
+2017-11-17 13:40:16 Friends  : 100% at 50/sec for altec_services
+2017-11-17 13:40:25 Tweets   : 99.8% at 29/sec for murrayplumbing
+2017-11-17 13:41:14 Tweets   : 99.6% at 42/sec for NESCollege
+2017-11-17 13:41:21 Tweets   : 100% at 9/sec for PawlettPlumbing
+2017-11-17 13:43:33 Favorites: 55.5% at 1/sec for CitAdviceScot
+2017-11-17 13:45:00 Favorites: 30% at 37/sec for DeidreBrock
+2017-11-17 13:45:08 Favorites: 66.2% at 38/sec for ESPScotland
+2017-11-17 13:45:12 Favorites: 53.6% at 43/sec for EvolutionDezine
+2017-11-17 13:45:34 Favorites: 50.9% at 36/sec for fifecollege
+2017-11-17 13:45:56 Favorites: 51.9% at 39/sec for FVCollege
+2017-11-17 13:46:02 Favorites: 82.6% at 31/sec for garyblairltd
+2017-11-17 13:46:04 Favorites: 80.6% at 70/sec for HattieHasan
+2017-11-17 13:46:06 Favorites: 100% at 15/sec for HighlandBiomass
+2017-11-17 13:46:07 Favorites: 97.7% at 37/sec for KorriePlumbing
+2017-11-17 13:46:08 Favorites: 98.3% at 60/sec for mcdgas
+2017-11-17 13:46:11 Favorites: 98.4% at 23/sec for murrayplumbing
+2017-11-17 13:46:11 Friends  : 99.8% at 44/sec for BelTel
+2017-11-17 13:46:25 Friends  : 97.6% at 39/sec for BordersCollege
+2017-11-17 13:46:27 Favorites: 51.7% at 37/sec for NESCollege
+2017-11-17 13:46:27 Favorites: Waiting for 11.8 minutes due to : Used up allowance in a loop
+2017-11-17 13:47:12 Friends  : 99.4% at 41/sec for CitAdviceScot
+2017-11-17 13:48:27 Friends  : 98.8% at 39/sec for DeidreBrock
+2017-11-17 13:48:35 Friends  : 98.8% at 45/sec for ESPScotland
+2017-11-17 13:48:50 Friends  : 99.9% at 43/sec for EvolutionDezine
+2017-11-17 13:49:05 Friends  : 99.8% at 43/sec for fifecollege
+2017-11-17 13:49:41 Friends  : 98.9% at 41/sec for FVCollege
+2017-11-17 13:50:18 Friends  : 99% at 42/sec for garyblairltd
+2017-11-17 13:50:28 Friends  : 100% at 47/sec for HattieHasan
+2017-11-17 13:50:32 Friends  : 100% at 24/sec for HighlandBiomass
+2017-11-17 13:50:37 Friends  : 99.1% at 44/sec for KorriePlumbing
+2017-11-17 13:51:10 Friends  : 98.5% at 42/sec for mcdgas
+2017-11-17 13:51:33 Friends  : 99.7% at 46/sec for murrayplumbing
+2017-11-17 13:51:40 Friends  : 96.3% at 40/sec for NESCollege
+Error in twInterfaceObj$doAPICall(paste("users", "show", sep = "/"), params = params,  : 
+  Not Found (HTTP 404).
+2017-11-17 13:51:40 Friends: Unable to find account PawlettPlumbing moving to next
+2017-11-17 13:51:40 Friends  : % at /sec for PawlettPlumbing
+2017-11-17 13:58:18 Favorites: 99% at 0/sec for PawlettPlumbing
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+Warning message:
+package 'twitteR' was built under R version 3.4.1 

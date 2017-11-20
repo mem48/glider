@@ -1,0 +1,168 @@
+starting worker pid=8868 on localhost:11271 at 01:56:37.496
+starting worker pid=9296 on localhost:11271 at 01:56:37.699
+starting worker pid=6280 on localhost:11271 at 01:56:37.914
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-20 02:00:39 Friends  : 99.4% at 22/sec for tinastowell
+2017-11-20 02:01:46 Friends  : 99.7% at 29/sec for tobyhelm
+2017-11-20 02:03:18 Favorites: 100% at 38/sec for tinastowell
+2017-11-20 02:03:19 Favorites: 96.4% at 34/sec for tobyhelm
+2017-11-20 02:04:01 Friends  : 99.4% at 24/sec for tobyperkinsmp
+2017-11-20 02:04:04 Friends  : 99% at 32/sec for Tom_Richmond
+2017-11-20 02:04:45 Friends  : 98.9% at 29/sec for TomBewick
+2017-11-20 02:05:01 Friends  : 99.2% at 22/sec for TommySheppard
+2017-11-20 02:05:07 Favorites: 49.7% at 23/sec for tobyperkinsmp
+2017-11-20 02:05:08 Favorites: 100% at 28/sec for Tom_Richmond
+2017-11-20 02:05:24 Favorites: 56.3% at 24/sec for TomBewick
+2017-11-20 02:05:26 Favorites: 52.4% at 47/sec for TommySheppard
+2017-11-20 02:06:03 Friends  : 98.5% at 27/sec for TomTugendhat
+2017-11-20 02:07:26 Favorites: 47.7% at 27/sec for TomTugendhat
+2017-11-20 02:07:51 Favorites: Waiting for 10.4 minutes due to : Used up allowance in a loop
+2017-11-20 02:08:41 Tweets   : 68.7% at 28/sec for tinastowell
+2017-11-20 02:08:44 Friends  : 99.8% at 26/sec for toni_pearce
+2017-11-20 02:08:44 Friends  : User ToryChairman has a protected account or no Friendss to collect so skipping
+2017-11-20 02:08:50 Friends  : 98.5% at 11/sec for Torypeers
+2017-11-20 02:09:34 Friends  : 99.1% at 26/sec for TottonCollege
+2017-11-20 02:09:43 Friends  : 100% at 25/sec for towerhamletscol
+2017-11-20 02:10:21 Tweets   : 75.7% at 32/sec for tobyhelm
+2017-11-20 02:11:15 Friends  : 98.6% at 26/sec for tpearce003
+2017-11-20 02:11:49 Friends  : 99.1% at 23/sec for tracey_crouch
+2017-11-20 02:12:16 Tweets   : 12.5% at 28/sec for tobyperkinsmp
+2017-11-20 02:13:10 Tweets   : 99.9% at 29/sec for Tom_Richmond
+2017-11-20 02:14:36 Friends  : 99.7% at 25/sec for tracyplayle
+2017-11-20 02:14:55 Tweets   : 60.9% at 30/sec for TomBewick
+2017-11-20 02:15:49 Friends  : 99.8% at 23/sec for TraffordCollege
+2017-11-20 02:16:22 Tweets   : 99.8% at 29/sec for TommySheppard
+2017-11-20 02:16:44 Friends  : 99.4% at 22/sec for training_ace
+2017-11-20 02:16:44 Friends  : Waiting for 0.1 minutes
+2017-11-20 02:18:11 Tweets   : 31% at 29/sec for TomTugendhat
+2017-11-20 02:18:24 Tweets   : 0.9% at 12/sec for toni_pearce
+2017-11-20 02:18:24 Tweets   : User ToryChairman has a protected account or no Tweetss to collect so skipping
+2017-11-20 02:19:22 Favorites: 46.2% at 3/sec for toni_pearce
+2017-11-20 02:19:22 Favorites: User ToryChairman has a protected account or no Favoritess to collect so skipping
+2017-11-20 02:19:29 Favorites: 59.3% at 14/sec for Torypeers
+2017-11-20 02:19:33 Tweets   : 98.8% at 26/sec for Torypeers
+2017-11-20 02:19:50 Favorites: 51.9% at 32/sec for TottonCollege
+2017-11-20 02:19:51 Favorites: 95.5% at 23/sec for towerhamletscol
+2017-11-20 02:20:31 Favorites: 53.9% at 22/sec for tpearce003
+2017-11-20 02:21:29 Tweets   : 56.4% at 27/sec for TottonCollege
+2017-11-20 02:21:30 Favorites: 51.2% at 27/sec for tracey_crouch
+2017-11-20 02:21:38 Favorites: 49.1% at 25/sec for tracyplayle
+2017-11-20 02:21:51 Favorites: 53.6% at 31/sec for TraffordCollege
+2017-11-20 02:21:52 Favorites: 100% at 29/sec for training_ace
+2017-11-20 02:22:00 Favorites: 52.3% at 24/sec for TristramHuntVA
+2017-11-20 02:22:04 Friends  : 99.4% at 25/sec for TristramHuntVA
+2017-11-20 02:22:30 Friends  : 99.2% at 30/sec for Truro_Penwith
+2017-11-20 02:22:40 Favorites: 50.9% at 28/sec for Truro_Penwith
+2017-11-20 02:22:55 Tweets   : 99.9% at 27/sec for towerhamletscol
+2017-11-20 02:23:00 Favorites: Waiting for 10.5 minutes due to : Used up allowance in a loop
+2017-11-20 02:23:08 Friends  : 99.5% at 30/sec for TulipSiddiq
+2017-11-20 02:23:11 Friends  : 100% at 40/sec for TutorJamieRice
+2017-11-20 02:23:39 Friends  : 99.9% at 33/sec for tweet_kmc
+2017-11-20 02:23:50 Friends  : 100% at 28/sec for TweetEBC
+2017-11-20 02:24:00 Friends  : 99.6% at 26/sec for UCF_Media
+2017-11-20 02:24:41 Friends  : 100% at 32/sec for UCSomerset
+2017-11-20 02:24:48 Tweets   : 18.7% at 28/sec for tpearce003
+2017-11-20 02:25:13 Friends  : 99.2% at 32/sec for ucu
+2017-11-20 02:25:24 Friends  : 100% at 29/sec for ucuedinburgh
+2017-11-20 02:25:25 Friends  : 100% at 1/sec for UK_Apprentices
+2017-11-20 02:25:53 Friends  : 98.8% at 35/sec for uk_naric
+2017-11-20 02:26:13 Friends  : 96.5% at 27/sec for UKParlEducation
+2017-11-20 02:26:14 Friends  : Waiting for 5.7 minutes
+2017-11-20 02:26:42 Tweets   : 29.4% at 28/sec for tracey_crouch
+2017-11-20 02:28:40 Tweets   : 18.4% at 27/sec for tracyplayle
+2017-11-20 02:30:19 Tweets   : 60.7% at 32/sec for TraffordCollege
+2017-11-20 02:31:13 Tweets   : 99.9% at 29/sec for training_ace
+2017-11-20 02:32:55 Tweets   : 85.9% at 31/sec for TristramHuntVA
+2017-11-20 02:34:44 Tweets   : 47.3% at 29/sec for Truro_Penwith
+2017-11-20 02:35:05 Favorites: 50.1% at 4/sec for TulipSiddiq
+2017-11-20 02:35:06 Favorites: 100% at 23/sec for TutorJamieRice
+2017-11-20 02:35:33 Favorites: 49.3% at 25/sec for tweet_kmc
+2017-11-20 02:35:46 Favorites: 63.5% at 31/sec for TweetEBC
+2017-11-20 02:35:46 Favorites: 100% at 24/sec for UCF_Media
+2017-11-20 02:35:55 Favorites: 58.4% at 23/sec for UCSomerset
+2017-11-20 02:35:57 Favorites: 90% at 50/sec for ucu
+2017-11-20 02:35:58 Favorites: 98.1% at 37/sec for ucuedinburgh
+2017-11-20 02:35:59 Favorites: 100% at 12/sec for UK_Apprentices
+2017-11-20 02:36:07 Favorites: 85.6% at 23/sec for uk_naric
+2017-11-20 02:36:29 Favorites: 49.8% at 28/sec for UKParlEducation
+2017-11-20 02:36:46 Tweets   : 32.4% at 26/sec for TulipSiddiq
+2017-11-20 02:38:07 Favorites: Waiting for 10.7 minutes due to : Used up allowance in a loop
+2017-11-20 02:38:40 Tweets   : 55.4% at 28/sec for TutorJamieRice
+2017-11-20 02:40:08 Tweets   : 99.2% at 26/sec for tweet_kmc
+2017-11-20 02:41:04 Friends  : 99.9% at 17/sec for UKYouth
+2017-11-20 02:41:41 Tweets   : 99.8% at 27/sec for TweetEBC
+2017-11-20 02:42:00 Tweets   : 100% at 15/sec for UCF_Media
+2017-11-20 02:42:05 Friends  : 99.5% at 28/sec for Uma_Kumaran
+2017-11-20 02:42:15 Friends  : 99.6% at 27/sec for universityappg
+2017-11-20 02:43:40 Friends  : 99.4% at 26/sec for UniWestLondon
+2017-11-20 02:43:40 Tweets   : 99.8% at 27/sec for UCSomerset
+2017-11-20 02:43:52 Friends  : 98.9% at 30/sec for uxbridgecollege
+2017-11-20 02:44:02 Friends  : 98.8% at 25/sec for Valerie_VazMP
+2017-11-20 02:44:05 Friends  : 100% at 31/sec for varndean
+2017-11-20 02:45:41 Tweets   : 23.9% at 26/sec for ucu
+2017-11-20 02:46:19 Friends  : 96.9% at 25/sec for vicky_duckworth
+2017-11-20 02:47:19 Tweets   : 99.8% at 25/sec for ucuedinburgh
+2017-11-20 02:47:31 Friends  : 98.9% at 25/sec for vickyfoxcroft
+2017-11-20 02:47:41 Friends  : 97.5% at 24/sec for VictoriaPrentis
+2017-11-20 02:49:06 Tweets   : 4.8% at 29/sec for UK_Apprentices
+2017-11-20 02:49:24 Favorites: 42.2% at 4/sec for UKYouth
+2017-11-20 02:50:27 Friends  : 98.9% at 23/sec for vincecable
+2017-11-20 02:50:41 Friends  : 99.6% at 32/sec for visualisingdata
+2017-11-20 02:50:56 Tweets   : 99.6% at 29/sec for uk_naric
+2017-11-20 02:51:01 Friends  : 98.4% at 31/sec for VotePursglove
+2017-11-20 02:51:14 Favorites: 49.4% at 28/sec for Uma_Kumaran
+2017-11-20 02:51:14 Favorites: 100% at 23/sec for universityappg
+2017-11-20 02:51:39 Friends  : 100% at 27/sec for votesat16
+2017-11-20 02:51:45 Friends  : 100% at 40/sec for W_E_C_L
+2017-11-20 02:51:56 Friends  : 99.7% at 28/sec for wakeycollege
+2017-11-20 02:52:16 Friends  : 99.3% at 34/sec for Walsall_College
+2017-11-20 02:52:21 Favorites: 51.7% at 26/sec for UniWestLondon
+2017-11-20 02:52:23 Friends  : 100% at 8/sec for WalshC129
+2017-11-20 02:52:33 Favorites: 50.8% at 32/sec for uxbridgecollege
+2017-11-20 02:52:35 Favorites: 97.8% at 50/sec for Valerie_VazMP
+2017-11-20 02:52:41 Favorites: 100% at 7/sec for varndean
+2017-11-20 02:52:50 Tweets   : 87.5% at 28/sec for UKParlEducation
+2017-11-20 02:53:03 Friends  : 99.8% at 30/sec for warringtoncoll
+2017-11-20 02:53:24 Favorites: Waiting for 10.7 minutes due to : Used up allowance in a loop
+2017-11-20 02:53:33 Friends  : 99.1% at 32/sec for WayneDavid_MP
+2017-11-20 02:54:39 Tweets   : 12.9% at 29/sec for UKYouth
+2017-11-20 02:56:34 Tweets   : 55.7% at 28/sec for Uma_Kumaran
+2017-11-20 02:56:55 Tweets   : 100% at 21/sec for universityappg
+2017-11-20 02:58:51 Tweets   : 26.8% at 27/sec for UniWestLondon
+2017-11-20 03:00:17 Tweets   : 99.3% at 28/sec for uxbridgecollege
+2017-11-20 03:02:12 Tweets   : 99.4% at 26/sec for Valerie_VazMP
+2017-11-20 03:04:18 Tweets   : 78.9% at 25/sec for varndean
+2017-11-20 03:05:32 Favorites: 9.7% at 4/sec for vicky_duckworth
+2017-11-20 03:05:39 Favorites: 67.1% at 15/sec for vickyfoxcroft
+2017-11-20 03:05:58 Favorites: 59.4% at 26/sec for VictoriaPrentis
+2017-11-20 03:06:11 Tweets   : 24.1% at 28/sec for vicky_duckworth
+2017-11-20 03:06:19 Favorites: 52.6% at 28/sec for vincecable
+2017-11-20 03:06:27 Favorites: 56.7% at 24/sec for visualisingdata
+2017-11-20 03:06:28 Favorites: 100% at 3/sec for VotePursglove
+2017-11-20 03:07:11 Favorites: 50.5% at 27/sec for votesat16
+2017-11-20 03:07:11 Favorites: User W_E_C_L has a protected account or no Favoritess to collect so skipping
+2017-11-20 03:07:13 Favorites: 76.7% at 45/sec for wakeycollege
+2017-11-20 03:07:19 Favorites: 53.3% at 15/sec for Walsall_College
+2017-11-20 03:07:34 Favorites: 50.3% at 34/sec for WalshC129
+2017-11-20 03:07:51 Favorites: 62.1% at 22/sec for warringtoncoll
+2017-11-20 03:08:07 Tweets   : 86.5% at 27/sec for vickyfoxcroft
+2017-11-20 03:08:21 Favorites: 50.8% at 26/sec for WayneDavid_MP
+2017-11-20 03:08:56 Tweets   : 99.9% at 30/sec for VictoriaPrentis
+2017-11-20 03:10:40 Tweets   : 99.9% at 31/sec for vincecable
+2017-11-20 03:12:23 Tweets   : 11.6% at 31/sec for visualisingdata
+2017-11-20 03:14:09 Tweets   : 88.3% at 30/sec for VotePursglove
+2017-11-20 03:16:00 Tweets   : 69.5% at 29/sec for votesat16
+2017-11-20 03:16:13 Tweets   : 99.5% at 16/sec for W_E_C_L
+2017-11-20 03:17:31 Tweets   : 98.5% at 29/sec for wakeycollege
+2017-11-20 03:19:26 Tweets   : 81.8% at 28/sec for Walsall_College
+2017-11-20 03:20:51 Tweets   : 98.8% at 26/sec for WalshC129
+2017-11-20 03:22:46 Tweets   : 42.3% at 28/sec for warringtoncoll
+2017-11-20 03:24:25 Tweets   : 57.5% at 32/sec for WayneDavid_MP
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+Warning message:
+package 'twitteR' was built under R version 3.4.1 

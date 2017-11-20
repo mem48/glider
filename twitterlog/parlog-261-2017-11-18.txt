@@ -1,0 +1,161 @@
+starting worker pid=856 on localhost:11271 at 11:53:53.357
+starting worker pid=4392 on localhost:11271 at 11:53:53.528
+starting worker pid=1092 on localhost:11271 at 11:53:53.700
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-18 11:56:00 Friends  : 99.2% at 27/sec for greentriangleuk
+2017-11-18 11:56:34 Friends  : 98.8% at 35/sec for halpsci
+2017-11-18 11:57:53 Favorites: 49.5% at 30/sec for greentriangleuk
+2017-11-18 11:58:22 Favorites: 51% at 31/sec for halpsci
+2017-11-18 11:58:23 Favorites: 91.1% at 61/sec for hangbitch
+2017-11-18 11:58:25 Favorites: 100% at 57/sec for HarrisonGroup
+2017-11-18 11:58:25 Favorites: 100% at 4/sec for healyronan
+2017-11-18 11:58:26 Favorites: 95.8% at 32/sec for heathernorthey
+2017-11-18 11:58:27 Favorites: 100% at 56/sec for HerligLtd
+2017-11-18 11:58:27 Favorites: Waiting for 4.8 minutes due to : Used up allowance in a loop
+2017-11-18 12:00:18 Friends  : 99.5% at 38/sec for hangbitch
+2017-11-18 12:00:23 Friends  : 99.5% at 33/sec for HarrisonGroup
+2017-11-18 12:00:41 Tweets   : 45.4% at 36/sec for greentriangleuk
+2017-11-18 12:00:57 Friends  : 100% at 36/sec for healyronan
+2017-11-18 12:01:47 Friends  : 99.8% at 41/sec for heathernorthey
+2017-11-18 12:01:48 Friends  : 94.2% at 43/sec for HerligLtd
+2017-11-18 12:01:50 Tweets   : 95.9% at 46/sec for halpsci
+2017-11-18 12:02:39 Friends  : 97.7% at 40/sec for hertalan_UK
+2017-11-18 12:02:54 Friends  : 100% at 42/sec for HfdsNewLeaf
+2017-11-18 12:02:55 Friends  : 100% at 15/sec for HilaryCH
+2017-11-18 12:02:59 Tweets   : 6.9% at 46/sec for hangbitch
+2017-11-18 12:03:06 Tweets   : 100% at 13/sec for HarrisonGroup
+2017-11-18 12:03:15 Tweets   : 100% at 10/sec for healyronan
+2017-11-18 12:03:18 Friends  : 99.8% at 42/sec for hirefurniture
+2017-11-18 12:03:27 Friends  : 99.5% at 43/sec for hnzanoni
+2017-11-18 12:03:27 Favorites: 54.2% at 1/sec for hertalan_UK
+2017-11-18 12:03:33 Favorites: 90.8% at 37/sec for HfdsNewLeaf
+2017-11-18 12:03:33 Favorites: 100% at 21/sec for HilaryCH
+2017-11-18 12:03:34 Favorites: 100% at 58/sec for hirefurniture
+2017-11-18 12:03:35 Friends  : 100% at 36/sec for HollowAsh
+2017-11-18 12:03:35 Friends  : Waiting for 7.1 minutes
+2017-11-18 12:03:36 Favorites: 91.2% at 67/sec for hnzanoni
+2017-11-18 12:03:36 Favorites: 100% at 10/sec for HollowAsh
+2017-11-18 12:03:41 Favorites: 61.6% at 38/sec for HotpixUK
+2017-11-18 12:03:46 Favorites: 46.7% at 37/sec for HouseOfGubbins
+2017-11-18 12:03:48 Favorites: 60.2% at 74/sec for Housinginteract
+2017-11-18 12:03:49 Favorites: 94.4% at 61/sec for HowlAssociates
+2017-11-18 12:03:49 Favorites: 100% at 17/sec for hpacmag
+2017-11-18 12:04:16 Favorites: 54.2% at 40/sec for hrheingold
+2017-11-18 12:04:23 Tweets   : 79.8% at 47/sec for heathernorthey
+2017-11-18 12:04:30 Tweets   : 100% at 6/sec for HerligLtd
+2017-11-18 12:04:46 Favorites: 50% at 43/sec for hubwestminster
+2017-11-18 12:04:46 Favorites: User hughescoates has a protected account or no Favoritess to collect so skipping
+2017-11-18 12:04:48 Favorites: 96.9% at 71/sec for Hur5t
+2017-11-18 12:04:48 Favorites: User i3Pru has a protected account or no Favoritess to collect so skipping
+2017-11-18 12:04:53 Favorites: 67.1% at 38/sec for Iain_Pilkington
+2017-11-18 12:05:12 Tweets   : 100% at 46/sec for hertalan_UK
+2017-11-18 12:05:54 Favorites: 51.1% at 43/sec for IamalrightJack
+2017-11-18 12:05:54 Favorites: User IBN_Passivhaus has a protected account or no Favoritess to collect so skipping
+2017-11-18 12:05:54 Favorites: User ILDGroup has a protected account or no Favoritess to collect so skipping
+2017-11-18 12:05:56 Favorites: 100% at 56/sec for IndiaHistorypic
+2017-11-18 12:05:56 Favorites: 100% at 6/sec for Inspirebuildltd
+2017-11-18 12:05:57 Favorites: 100% at 30/sec for InspiredArcht
+2017-11-18 12:05:59 Favorites: 67.1% at 64/sec for IntegreatPlus
+2017-11-18 12:06:01 Favorites: 66.7% at 2/sec for InterArchitects
+2017-11-18 12:06:02 Tweets   : 99.9% at 48/sec for HfdsNewLeaf
+2017-11-18 12:06:03 Favorites: Waiting for 12.3 minutes due to : Used up allowance in a loop
+2017-11-18 12:06:08 Tweets   : 100% at 0/sec for HilaryCH
+2017-11-18 12:07:10 Tweets   : 99.9% at 48/sec for hirefurniture
+2017-11-18 12:07:21 Tweets   : 99.7% at 26/sec for hnzanoni
+2017-11-18 12:07:32 Tweets   : 100% at 22/sec for HollowAsh
+2017-11-18 12:08:08 Tweets   : 98.1% at 39/sec for HotpixUK
+2017-11-18 12:09:10 Tweets   : 8.1% at 51/sec for HouseOfGubbins
+2017-11-18 12:09:44 Tweets   : 99.7% at 44/sec for Housinginteract
+2017-11-18 12:10:04 Tweets   : 98.8% at 36/sec for HowlAssociates
+2017-11-18 12:10:37 Tweets   : 100% at 43/sec for hpacmag
+2017-11-18 12:11:46 Tweets   : 9.8% at 47/sec for hrheingold
+2017-11-18 12:12:59 Tweets   : 22% at 44/sec for hubwestminster
+2017-11-18 12:13:05 Tweets   : 100% at 8/sec for hughescoates
+2017-11-18 12:13:33 Tweets   : 99.5% at 41/sec for Hur5t
+2017-11-18 12:13:33 Tweets   : User i3Pru has a protected account or no Tweetss to collect so skipping
+2017-11-18 12:14:10 Friends  : 95.3% at 12/sec for HotpixUK
+2017-11-18 12:14:37 Tweets   : 100% at 44/sec for Iain_Pilkington
+2017-11-18 12:14:49 Friends  : 99.9% at 37/sec for HouseOfGubbins
+2017-11-18 12:15:40 Friends  : 100% at 36/sec for Housinginteract
+2017-11-18 12:15:50 Tweets   : 2.3% at 44/sec for IamalrightJack
+2017-11-18 12:15:56 Friends  : 99.3% at 37/sec for HowlAssociates
+2017-11-18 12:16:04 Tweets   : 98.9% at 6/sec for IBN_Passivhaus
+2017-11-18 12:16:11 Tweets   : 100% at 14/sec for ILDGroup
+2017-11-18 12:16:12 Friends  : 98.6% at 35/sec for hpacmag
+2017-11-18 12:16:52 Friends  : 99.5% at 35/sec for hrheingold
+2017-11-18 12:17:04 Tweets   : 29.8% at 47/sec for IndiaHistorypic
+2017-11-18 12:17:11 Tweets   : 100% at 11/sec for Inspirebuildltd
+2017-11-18 12:17:33 Tweets   : 99.3% at 40/sec for InspiredArcht
+2017-11-18 12:18:39 Tweets   : 52.9% at 49/sec for IntegreatPlus
+2017-11-18 12:18:54 Tweets   : 100% at 28/sec for InterArchitects
+2017-11-18 12:19:12 Favorites: 51.2% at 2/sec for IrishTimesLife
+2017-11-18 12:19:18 Favorites: 71.3% at 36/sec for its_AndyHowarth
+2017-11-18 12:19:18 Favorites: 100% at 3/sec for jabbwocky
+2017-11-18 12:19:18 Favorites: 100% at 11/sec for JafesMorris
+2017-11-18 12:19:19 Favorites: 100% at 50/sec for Jakotecture
+2017-11-18 12:19:25 Favorites: 82.1% at 35/sec for JamesBurton13
+2017-11-18 12:19:25 Favorites: 100% at 3/sec for jamesliving
+2017-11-18 12:19:31 Favorites: 77.4% at 33/sec for jamespthomasarc
+2017-11-18 12:19:31 Favorites: User JamesSanter has a protected account or no Favoritess to collect so skipping
+2017-11-18 12:19:31 Favorites: 100% at 2/sec for jamhen25
+2017-11-18 12:20:05 Tweets   : 7.8% at 45/sec for IrishTimesLife
+2017-11-18 12:20:13 Favorites: 51.9% at 35/sec for JamieKelseyFry
+2017-11-18 12:20:13 Favorites: 100% at 10/sec for JBA_Info
+2017-11-18 12:20:14 Favorites: 100% at 56/sec for jbere
+2017-11-18 12:20:20 Favorites: 58.4% at 34/sec for jenanmoussa
+2017-11-18 12:20:20 Favorites: User jennie_swain has a protected account or no Favoritess to collect so skipping
+2017-11-18 12:20:29 Favorites: 52.2% at 47/sec for jim_roach_ARV
+2017-11-18 12:20:40 Tweets   : 99.9% at 38/sec for its_AndyHowarth
+2017-11-18 12:20:46 Tweets   : 100% at 6/sec for jabbwocky
+2017-11-18 12:20:53 Tweets   : 97.6% at 6/sec for JafesMorris
+2017-11-18 12:21:09 Tweets   : 97.6% at 30/sec for Jakotecture
+2017-11-18 12:21:16 Friends  : 99.9% at 34/sec for hubwestminster
+2017-11-18 12:21:20 Friends  : 100% at 16/sec for hughescoates
+2017-11-18 12:21:30 Tweets   : 99.6% at 39/sec for JamesBurton13
+2017-11-18 12:21:39 Tweets   : 100% at 0/sec for jamesliving
+2017-11-18 12:21:44 Friends  : 100% at 39/sec for Hur5t
+2017-11-18 12:21:44 Friends  : User i3Pru has a protected account or no Friendss to collect so skipping
+2017-11-18 12:22:03 Tweets   : 99% at 40/sec for jamespthomasarc
+2017-11-18 12:22:04 Friends  : 99.9% at 42/sec for Iain_Pilkington
+2017-11-18 12:22:14 Tweets   : 100% at 18/sec for JamesSanter
+2017-11-18 12:22:16 Friends  : 98.1% at 40/sec for IamalrightJack
+2017-11-18 12:22:19 Friends  : 100% at 22/sec for IBN_Passivhaus
+2017-11-18 12:22:20 Tweets   : 100% at 2/sec for jamhen25
+2017-11-18 12:22:57 Friends  : 99.9% at 41/sec for ILDGroup
+2017-11-18 12:22:57 Friends  : Waiting for 3 minutes
+2017-11-18 12:23:32 Tweets   : 14.9% at 44/sec for JamieKelseyFry
+2017-11-18 12:23:40 Tweets   : 100% at 15/sec for JBA_Info
+2017-11-18 12:24:05 Tweets   : 99.7% at 40/sec for jbere
+2017-11-18 12:25:14 Tweets   : 17.4% at 46/sec for jenanmoussa
+2017-11-18 12:25:14 Tweets   : User jennie_swain has a protected account or no Tweetss to collect so skipping
+2017-11-18 12:26:04 Friends  : 98.4% at 1/sec for IndiaHistorypic
+2017-11-18 12:26:08 Friends  : 100% at 14/sec for Inspirebuildltd
+2017-11-18 12:26:11 Friends  : 100% at 46/sec for InspiredArcht
+2017-11-18 12:26:17 Tweets   : 99.9% at 43/sec for jim_roach_ARV
+2017-11-18 12:26:53 Friends  : 99.5% at 39/sec for IntegreatPlus
+2017-11-18 12:26:56 Friends  : 99.3% at 47/sec for InterArchitects
+2017-11-18 12:27:00 Friends  : 100% at 28/sec for IrishTimesLife
+2017-11-18 12:27:17 Friends  : 98.9% at 37/sec for its_AndyHowarth
+2017-11-18 12:27:23 Friends  : 100% at 37/sec for jabbwocky
+2017-11-18 12:27:30 Friends  : 99.2% at 36/sec for JafesMorris
+2017-11-18 12:27:42 Friends  : 100% at 41/sec for Jakotecture
+2017-11-18 12:28:06 Friends  : 99.7% at 38/sec for JamesBurton13
+2017-11-18 12:28:07 Friends  : 100% at 27/sec for jamesliving
+2017-11-18 12:28:35 Friends  : 99% at 35/sec for jamespthomasarc
+2017-11-18 12:28:37 Friends  : 100% at 37/sec for JamesSanter
+2017-11-18 12:28:41 Friends  : 100% at 19/sec for jamhen25
+2017-11-18 12:28:41 Friends  : Waiting for 12.4 minutes
+2017-11-18 12:42:17 Friends  : 99% at 3/sec for JamieKelseyFry
+2017-11-18 12:42:20 Friends  : 100% at 19/sec for JBA_Info
+2017-11-18 12:42:27 Friends  : 99% at 41/sec for jbere
+2017-11-18 12:42:50 Friends  : 98.8% at 37/sec for jenanmoussa
+2017-11-18 12:42:50 Friends  : User jennie_swain has a protected account or no Friendss to collect so skipping
+2017-11-18 12:43:41 Friends  : 98.4% at 40/sec for jim_roach_ARV
+Warning message:
+Warning message:
+was built under R version 3.4.1 
+package 'twitteR' was built under R version 3.4.1 
+Warning message:
+package 'twitteR' was built under R version 3.4.1 

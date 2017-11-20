@@ -1,0 +1,169 @@
+starting worker pid=13008 on localhost:11271 at 10:52:52.554
+starting worker pid=14580 on localhost:11271 at 10:52:52.751
+starting worker pid=7868 on localhost:11271 at 10:52:52.947
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-20 10:57:05 Friends  : 92.9% at 17/sec for MSagePlumbing
+2017-11-20 10:59:26 Friends  : 98.6% at 31/sec for MyMustard
+2017-11-20 11:01:21 Favorites: 50.2% at 21/sec for MSagePlumbing
+2017-11-20 11:01:46 Favorites: 52% at 31/sec for MyMustard
+2017-11-20 11:01:48 Favorites: 58.5% at 54/sec for NACS_UK
+2017-11-20 11:01:48 Favorites: 100% at 10/sec for NEC_Plumbing
+2017-11-20 11:01:57 Favorites: 64.1% at 23/sec for Newport_Lane_KB
+2017-11-20 11:02:09 Friends  : 98.4% at 30/sec for NACS_UK
+2017-11-20 11:02:09 Favorites: 56.5% at 32/sec for NIBE_UK
+2017-11-20 11:02:18 Friends  : 100% at 19/sec for NEC_Plumbing
+2017-11-20 11:02:34 Favorites: 51.5% at 32/sec for NicholsonGas
+2017-11-20 11:02:34 Favorites: User nschofield has a protected account or no Favoritess to collect so skipping
+2017-11-20 11:02:40 Favorites: 67.4% at 47/sec for nuheatuk
+2017-11-20 11:02:40 Favorites: 100% at 10/sec for nvservicesltd
+2017-11-20 11:03:08 Favorites: 50.2% at 32/sec for nwater_care
+2017-11-20 11:03:09 Favorites: 100% at 2/sec for OaklandsPlumbin
+2017-11-20 11:03:09 Favorites: 100% at 8/sec for OBPlastics
+2017-11-20 11:03:10 Favorites: 100% at 13/sec for officialELECSA
+2017-11-20 11:03:21 Favorites: 53.4% at 26/sec for officialNICEIC
+2017-11-20 11:03:32 Favorites: 65.7% at 28/sec for Ofwat
+2017-11-20 11:03:32 Favorites: 100% at 5/sec for OJElectronics
+2017-11-20 11:03:43 Favorites: 63% at 29/sec for OptionsSkills
+2017-11-20 11:03:44 Favorites: 100% at 53/sec for OrangeHeating
+2017-11-20 11:03:46 Favorites: 83.6% at 47/sec for OsmaUK
+2017-11-20 11:03:46 Favorites: User Oundleplumber has a protected account or no Favoritess to collect so skipping
+2017-11-20 11:03:48 Favorites: 65.4% at 50/sec for OXtoolsUK
+2017-11-20 11:03:57 Favorites: Waiting for 10.9 minutes due to : Used up allowance in a loop
+2017-11-20 11:04:18 Friends  : 98.4% at 31/sec for Newport_Lane_KB
+2017-11-20 11:05:18 Friends  : 98% at 32/sec for NIBE_UK
+2017-11-20 11:05:30 Tweets   : 84.6% at 27/sec for MSagePlumbing
+2017-11-20 11:06:57 Tweets   : 76% at 37/sec for MyMustard
+2017-11-20 11:07:00 Friends  : 94.4% at 32/sec for NicholsonGas
+2017-11-20 11:07:03 Friends  : 100% at 28/sec for nschofield
+2017-11-20 11:07:54 Tweets   : 99.7% at 29/sec for NACS_UK
+2017-11-20 11:08:09 Tweets   : 99.7% at 26/sec for NEC_Plumbing
+2017-11-20 11:08:27 Friends  : 98.9% at 33/sec for nuheatuk
+2017-11-20 11:08:49 Tweets   : 99.9% at 40/sec for Newport_Lane_KB
+2017-11-20 11:09:23 Friends  : 100% at 34/sec for nvservicesltd
+2017-11-20 11:09:48 Friends  : 99.3% at 32/sec for nwater_care
+2017-11-20 11:09:49 Friends  : 100% at 13/sec for OaklandsPlumbin
+2017-11-20 11:09:52 Tweets   : 99.7% at 36/sec for NIBE_UK
+2017-11-20 11:10:01 Friends  : 100% at 32/sec for OBPlastics
+2017-11-20 11:10:12 Friends  : 99.6% at 25/sec for officialELECSA
+2017-11-20 11:10:44 Friends  : 98.7% at 30/sec for officialNICEIC
+2017-11-20 11:10:44 Friends  : Waiting for 0.6 minutes
+2017-11-20 11:10:56 Tweets   : 99.6% at 39/sec for NicholsonGas
+2017-11-20 11:11:02 Tweets   : 100% at 8/sec for nschofield
+2017-11-20 11:11:33 Friends  : 100% at 10/sec for Ofwat
+2017-11-20 11:12:08 Tweets   : 99.6% at 38/sec for nuheatuk
+2017-11-20 11:12:21 Tweets   : 100% at 10/sec for nvservicesltd
+2017-11-20 11:12:27 Friends  : 100% at 32/sec for OJElectronics
+2017-11-20 11:12:59 Friends  : 97.2% at 32/sec for OptionsSkills
+2017-11-20 11:13:33 Friends  : 98.6% at 30/sec for OrangeHeating
+2017-11-20 11:13:38 Tweets   : 9.4% at 41/sec for nwater_care
+2017-11-20 11:13:44 Tweets   : 100% at 1/sec for OaklandsPlumbin
+2017-11-20 11:13:44 Friends  : 100% at 29/sec for OsmaUK
+2017-11-20 11:13:45 Friends  : 100% at 17/sec for Oundleplumber
+2017-11-20 11:13:47 Friends  : 100% at 34/sec for OXtoolsUK
+2017-11-20 11:14:23 Friends  : 98.7% at 32/sec for PacePrintDesign
+2017-11-20 11:14:26 Tweets   : 100% at 34/sec for OBPlastics
+2017-11-20 11:14:29 Friends  : 100% at 11/sec for PadgettPlumbers
+2017-11-20 11:14:35 Friends  : 98.2% at 38/sec for padtheplumber
+2017-11-20 11:14:55 Favorites: 57.5% at 1/sec for PacePrintDesign
+2017-11-20 11:15:00 Favorites: 100% at 3/sec for PadgettPlumbers
+2017-11-20 11:15:15 Tweets   : 100% at 34/sec for officialELECSA
+2017-11-20 11:15:18 Favorites: 47.1% at 36/sec for padtheplumber
+2017-11-20 11:15:19 Favorites: 100% at 46/sec for PartsnSupplies
+2017-11-20 11:15:20 Favorites: 100% at 14/sec for PaynesEnergySln
+2017-11-20 11:15:51 Favorites: 50.9% at 22/sec for PDSPrimus
+2017-11-20 11:15:51 Favorites: User perfectplumbing has a protected account or no Favoritess to collect so skipping
+2017-11-20 11:16:02 Favorites: 49.2% at 27/sec for perkinsplumbing
+2017-11-20 11:16:10 Favorites: 50.8% at 48/sec for PHAMNews
+2017-11-20 11:16:15 Favorites: 100% at 3/sec for phoged2
+2017-11-20 11:16:16 Favorites: 100% at 25/sec for phplumbersnorth
+2017-11-20 11:16:16 Favorites: User PIPEOLOGYLTD has a protected account or no Favoritess to collect so skipping
+2017-11-20 11:16:17 Favorites: 100% at 28/sec for Pipetoolsuk
+2017-11-20 11:16:17 Favorites: 100% at 3/sec for PJA_HVAC
+2017-11-20 11:16:18 Favorites: 100% at 5/sec for PJBMidlands
+2017-11-20 11:16:23 Favorites: 51.4% at 51/sec for PJMullanandsons
+2017-11-20 11:16:24 Favorites: 100% at 16/sec for PlannetPlumbing
+2017-11-20 11:16:25 Favorites: 100% at 41/sec for PlumbaseDurham
+2017-11-20 11:16:31 Favorites: 97.4% at 7/sec for plumbasespares
+2017-11-20 11:16:53 Tweets   : 55.4% at 33/sec for officialNICEIC
+2017-11-20 11:16:57 Favorites: 51.3% at 33/sec for plumbaseuk
+2017-11-20 11:16:59 Favorites: 98.9% at 56/sec for Plumbcare_com
+2017-11-20 11:17:00 Favorites: 97.3% at 42/sec for PlumberHove
+2017-11-20 11:17:03 Favorites: 82.6% at 53/sec for PlumberPlymouth
+2017-11-20 11:17:22 Friends  : 94.2% at 28/sec for PartsnSupplies
+2017-11-20 11:17:26 Favorites: 50.4% at 31/sec for PlumbersHour
+2017-11-20 11:17:26 Favorites: User PlumbHeatForum has a protected account or no Favoritess to collect so skipping
+2017-11-20 11:17:26 Favorites: 100% at 8/sec for PlumbingBirds
+2017-11-20 11:17:27 Favorites: 71.4% at 7/sec for PlumbingCollege
+2017-11-20 11:17:27 Favorites: 100% at 3/sec for PlumbingMatters
+2017-11-20 11:17:40 Friends  : 100% at 33/sec for PaynesEnergySln
+2017-11-20 11:18:15 Tweets   : 100% at 35/sec for Ofwat
+2017-11-20 11:18:22 Tweets   : 100% at 9/sec for OJElectronics
+2017-11-20 11:18:38 Tweets   : 100% at 21/sec for OptionsSkills
+2017-11-20 11:18:39 Friends  : 100% at 29/sec for PDSPrimus
+2017-11-20 11:18:54 Friends  : 100% at 30/sec for perfectplumbing
+2017-11-20 11:19:01 Tweets   : 99.5% at 23/sec for OrangeHeating
+2017-11-20 11:19:34 Friends  : 95.4% at 28/sec for perkinsplumbing
+2017-11-20 11:19:34 Friends  : Waiting for 6.8 minutes
+2017-11-20 11:19:41 Tweets   : 99.9% at 36/sec for OsmaUK
+2017-11-20 11:19:51 Tweets   : 100% at 0/sec for Oundleplumber
+2017-11-20 11:20:06 Tweets   : 100% at 27/sec for OXtoolsUK
+2017-11-20 11:20:24 Tweets   : 100% at 35/sec for PacePrintDesign
+2017-11-20 11:20:36 Tweets   : 100% at 6/sec for PadgettPlumbers
+2017-11-20 11:20:53 Tweets   : 99.6% at 31/sec for padtheplumber
+2017-11-20 11:21:01 Tweets   : 100% at 22/sec for PartsnSupplies
+2017-11-20 11:21:14 Tweets   : 100% at 16/sec for PaynesEnergySln
+2017-11-20 11:22:33 Tweets   : 71.8% at 39/sec for PDSPrimus
+2017-11-20 11:22:41 Tweets   : 100% at 16/sec for perfectplumbing
+2017-11-20 11:23:04 Tweets   : 99.7% at 26/sec for perkinsplumbing
+2017-11-20 11:23:32 Tweets   : 99.9% at 30/sec for PHAMNews
+2017-11-20 11:23:41 Tweets   : 100% at 21/sec for phoged2
+2017-11-20 11:23:55 Tweets   : 99.4% at 23/sec for phplumbersnorth
+2017-11-20 11:23:55 Tweets   : User PIPEOLOGYLTD has a protected account or no Tweetss to collect so skipping
+2017-11-20 11:24:05 Tweets   : 100% at 4/sec for Pipetoolsuk
+2017-11-20 11:24:12 Tweets   : 100% at 3/sec for PJA_HVAC
+2017-11-20 11:24:19 Tweets   : 96% at 16/sec for PJBMidlands
+2017-11-20 11:24:41 Tweets   : 100% at 26/sec for PJMullanandsons
+2017-11-20 11:24:50 Tweets   : 99.6% at 30/sec for PlannetPlumbing
+2017-11-20 11:25:03 Tweets   : 100% at 15/sec for PlumbaseDurham
+2017-11-20 11:25:53 Tweets   : 99.9% at 36/sec for plumbasespares
+2017-11-20 11:27:03 Friends  : 95.8% at 3/sec for PHAMNews
+2017-11-20 11:27:20 Tweets   : 77.9% at 37/sec for plumbaseuk
+2017-11-20 11:27:45 Friends  : 98.8% at 28/sec for phoged2
+2017-11-20 11:27:46 Tweets   : 100% at 29/sec for Plumbcare_com
+2017-11-20 11:27:54 Tweets   : 100% at 18/sec for PlumberHove
+2017-11-20 11:28:30 Tweets   : 99.8% at 29/sec for PlumberPlymouth
+2017-11-20 11:28:53 Friends  : 99.9% at 29/sec for phplumbersnorth
+2017-11-20 11:28:53 Friends  : User PIPEOLOGYLTD has a protected account or no Friendss to collect so skipping
+2017-11-20 11:29:11 Friends  : 99.5% at 34/sec for Pipetoolsuk
+2017-11-20 11:29:18 Friends  : 98.9% at 13/sec for PJA_HVAC
+2017-11-20 11:29:36 Tweets   : 100% at 32/sec for PlumbersHour
+2017-11-20 11:30:04 Tweets   : 100% at 32/sec for PlumbHeatForum
+2017-11-20 11:30:13 Tweets   : 100% at 28/sec for PlumbingBirds
+2017-11-20 11:30:13 Tweets   : Waiting for 3.5 minutes
+2017-11-20 11:30:28 Friends  : 100% at 29/sec for PJBMidlands
+2017-11-20 11:31:03 Friends  : 97.4% at 31/sec for PJMullanandsons
+2017-11-20 11:31:43 Friends  : 96.4% at 31/sec for PlannetPlumbing
+2017-11-20 11:32:05 Friends  : 99.7% at 31/sec for PlumbaseDurham
+2017-11-20 11:33:08 Friends  : 100% at 26/sec for plumbasespares
+2017-11-20 11:33:48 Tweets   : 100% at 0/sec for PlumbingCollege
+2017-11-20 11:33:55 Tweets   : 100% at 6/sec for PlumbingMatters
+2017-11-20 11:34:08 Friends  : 93% at 35/sec for plumbaseuk
+2017-11-20 11:35:03 Friends  : 100% at 35/sec for Plumbcare_com
+2017-11-20 11:35:14 Friends  : 100% at 35/sec for PlumberHove
+2017-11-20 11:35:22 Friends  : 99.1% at 24/sec for PlumberPlymouth
+2017-11-20 11:36:02 Friends  : 87.8% at 38/sec for PlumbersHour
+2017-11-20 11:36:02 Friends  : Waiting for 5.5 minutes
+2017-11-20 11:42:07 Friends  : 100% at 3/sec for PlumbHeatForum
+2017-11-20 11:42:22 Friends  : 100% at 35/sec for PlumbingBirds
+2017-11-20 11:42:24 Friends  : 100% at 41/sec for PlumbingCollege
+2017-11-20 11:42:34 Friends  : 100% at 26/sec for PlumbingMatters
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+Warning messages:
+1: package 'twitteR' was built under R version 3.4.1 
+2: In twInterfaceObj$doAPICall(cmd, params, method, ...) :
+  Rate limit encountered & retry limit reached - returning partial results

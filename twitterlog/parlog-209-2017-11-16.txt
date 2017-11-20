@@ -1,0 +1,166 @@
+starting worker pid=12772 on localhost:11271 at 04:10:42.975
+starting worker pid=11656 on localhost:11271 at 04:10:43.138
+starting worker pid=15256 on localhost:11271 at 04:10:43.300
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-16 04:12:45 Favorites: 53.4% at 34/sec for hackneytours
+2017-11-16 04:13:04 Favorites: Waiting for 8.8 minutes due to : Used up allowance in a loop
+2017-11-16 04:13:21 Friends  : 98.2% at 40/sec for hackneytours
+2017-11-16 04:13:47 Friends  : 97.2% at 38/sec for HackneyYIMBY
+2017-11-16 04:14:09 Friends  : 100% at 42/sec for Hallnet
+2017-11-16 04:14:11 Friends  : 96.2% at 42/sec for harrywoodward7
+2017-11-16 04:14:17 Tweets   : 41.6% at 45/sec for hackneytours
+2017-11-16 04:14:32 Friends  : 99.6% at 47/sec for HaydnEllen
+2017-11-16 04:15:13 Friends  : 98.5% at 40/sec for heidi_mp
+2017-11-16 04:15:26 Friends  : 98.7% at 40/sec for heidiallen75
+2017-11-16 04:15:29 Tweets   : 30.9% at 45/sec for HackneyYIMBY
+2017-11-16 04:15:29 Friends  : 100% at 31/sec for Helen_Contour
+2017-11-16 04:15:42 Tweets   : 100% at 31/sec for Hallnet
+2017-11-16 04:16:07 Friends  : 99.1% at 43/sec for Helen38
+2017-11-16 04:16:19 Friends  : 99.1% at 39/sec for helengore1
+2017-11-16 04:16:24 Tweets   : 99.9% at 48/sec for harrywoodward7
+2017-11-16 04:17:07 Tweets   : 99.9% at 42/sec for HaydnEllen
+2017-11-16 04:17:19 Friends  : 98.8% at 39/sec for helenhbristol
+2017-11-16 04:18:21 Friends  : 98% at 37/sec for HeslingLaolcom
+2017-11-16 04:18:21 Tweets   : 33.2% at 43/sec for heidi_mp
+2017-11-16 04:19:35 Tweets   : 39.9% at 43/sec for heidiallen75
+2017-11-16 04:19:46 Friends  : 98.4% at 38/sec for Hitesh_T
+2017-11-16 04:20:08 Friends  : 96.2% at 40/sec for HMM_Online
+2017-11-16 04:20:09 Tweets   : 100% at 36/sec for Helen_Contour
+2017-11-16 04:20:19 Friends  : 99.7% at 35/sec for HMSinfo
+2017-11-16 04:20:19 Friends  : Waiting for 6.2 minutes
+2017-11-16 04:20:44 Tweets   : 99.8% at 47/sec for Helen38
+2017-11-16 04:21:52 Tweets   : 60.2% at 47/sec for helengore1
+2017-11-16 04:22:25 Favorites: 52.1% at 3/sec for HackneyYIMBY
+2017-11-16 04:22:26 Favorites: 50.3% at 65/sec for Hallnet
+2017-11-16 04:22:31 Favorites: 71.9% at 42/sec for harrywoodward7
+2017-11-16 04:22:40 Favorites: 55.4% at 43/sec for HaydnEllen
+2017-11-16 04:22:58 Favorites: 54.7% at 44/sec for heidi_mp
+2017-11-16 04:23:06 Tweets   : 23% at 43/sec for helenhbristol
+2017-11-16 04:23:27 Favorites: 52.1% at 47/sec for heidiallen75
+2017-11-16 04:23:29 Favorites: 56.8% at 41/sec for Helen_Contour
+2017-11-16 04:23:40 Favorites: 57.6% at 37/sec for Helen38
+2017-11-16 04:23:51 Favorites: 49.5% at 46/sec for helengore1
+2017-11-16 04:24:29 Tweets   : 8.3% at 39/sec for HeslingLaolcom
+2017-11-16 04:24:32 Favorites: 50.6% at 46/sec for helenhbristol
+2017-11-16 04:24:54 Favorites: Waiting for 12.2 minutes due to : Used up allowance in a loop
+2017-11-16 04:25:38 Tweets   : 27.7% at 46/sec for Hitesh_T
+2017-11-16 04:26:04 Tweets   : 100% at 43/sec for HMM_Online
+2017-11-16 04:26:28 Tweets   : 99.4% at 40/sec for HMSinfo
+2017-11-16 04:27:01 Friends  : 99.6% at 2/sec for hogwood
+2017-11-16 04:27:05 Friends  : 100% at 36/sec for HomesCHill
+2017-11-16 04:27:31 Friends  : 96.6% at 36/sec for homesfornorth
+2017-11-16 04:27:41 Tweets   : 30.1% at 44/sec for hogwood
+2017-11-16 04:27:46 Friends  : 100% at 40/sec for HometrackGlobal
+2017-11-16 04:27:49 Tweets   : 100% at 11/sec for HomesCHill
+2017-11-16 04:27:55 Friends  : 100% at 40/sec for Housing_Law
+2017-11-16 04:28:02 Tweets   : 100% at 25/sec for homesfornorth
+2017-11-16 04:28:05 Friends  : 99.7% at 39/sec for Housing_People
+2017-11-16 04:28:10 Friends  : 99.4% at 32/sec for HousingASBnews
+2017-11-16 04:28:13 Friends  : 99% at 32/sec for housingbeast
+2017-11-16 04:28:18 Friends  : 100% at 30/sec for housingcamp
+2017-11-16 04:28:49 Tweets   : 100% at 40/sec for HometrackGlobal
+2017-11-16 04:29:09 Tweets   : 100% at 30/sec for Housing_Law
+2017-11-16 04:29:26 Tweets   : 100% at 29/sec for Housing_People
+2017-11-16 04:29:29 Friends  : 96.1% at 37/sec for HousingContact
+2017-11-16 04:29:45 Tweets   : 99.7% at 41/sec for HousingASBnews
+2017-11-16 04:30:55 Friends  : 97.9% at 40/sec for HousingExhib
+2017-11-16 04:30:59 Tweets   : 72.9% at 43/sec for housingbeast
+2017-11-16 04:31:08 Tweets   : 100% at 11/sec for housingcamp
+2017-11-16 04:31:12 Friends  : 99.9% at 41/sec for HousingSystems
+2017-11-16 04:31:27 Tweets   : 100% at 35/sec for HousingContact
+2017-11-16 04:31:40 Friends  : 100% at 42/sec for HuffPostUKPol
+2017-11-16 04:31:42 Friends  : 95.7% at 10/sec for hughjameslawyer
+2017-11-16 04:32:06 Tweets   : 99.9% at 41/sec for HousingExhib
+2017-11-16 04:32:25 Friends  : 97.9% at 40/sec for IceniProjects
+2017-11-16 04:32:25 Friends  : Waiting for 9.4 minutes
+2017-11-16 04:32:26 Tweets   : 100% at 34/sec for HousingSystems
+2017-11-16 04:33:35 Tweets   : 6.5% at 46/sec for HuffPostUKPol
+2017-11-16 04:33:42 Tweets   : 100% at 1/sec for hughjameslawyer
+2017-11-16 04:34:49 Tweets   : 99.9% at 44/sec for IceniProjects
+2017-11-16 04:34:55 Tweets   : 100% at 2/sec for ingmarrey
+2017-11-16 04:36:05 Tweets   : 23.9% at 46/sec for instofideas
+2017-11-16 04:36:48 Tweets   : 99.9% at 44/sec for IsosHousing
+2017-11-16 04:36:55 Tweets   : 100% at 9/sec for IssyPetrie
+2017-11-16 04:37:06 Tweets   : 100% at 23/sec for JackieW_DH
+2017-11-16 04:38:19 Favorites: 32.3% at 4/sec for HeslingLaolcom
+2017-11-16 04:38:25 Tweets   : 99.5% at 40/sec for JacquiEH_atLQG
+2017-11-16 04:38:34 Favorites: 55.9% at 47/sec for Hitesh_T
+2017-11-16 04:38:39 Favorites: 90.5% at 40/sec for HMM_Online
+2017-11-16 04:38:41 Tweets   : 99.8% at 27/sec for jaijai75
+2017-11-16 04:38:41 Favorites: 76.4% at 42/sec for HMSinfo
+2017-11-16 04:38:42 Favorites: 106.2% at 21/sec for hogwood
+2017-11-16 04:38:42 Favorites: 100% at 36/sec for HomesCHill
+2017-11-16 04:38:44 Favorites: 57.8% at 47/sec for homesfornorth
+2017-11-16 04:38:45 Favorites: 100% at 31/sec for HometrackGlobal
+2017-11-16 04:38:45 Favorites: 100% at 23/sec for Housing_Law
+2017-11-16 04:38:46 Favorites: 100% at 41/sec for Housing_People
+2017-11-16 04:38:47 Favorites: 100% at 5/sec for HousingASBnews
+2017-11-16 04:38:52 Tweets   : 100% at 20/sec for James_HC21
+2017-11-16 04:39:01 Tweets   : 100% at 16/sec for JamesRae26
+2017-11-16 04:39:18 Favorites: 51.2% at 44/sec for housingbeast
+2017-11-16 04:39:18 Favorites: 100% at 12/sec for housingcamp
+2017-11-16 04:39:25 Favorites: 69.9% at 47/sec for HousingContact
+2017-11-16 04:39:36 Favorites: 59% at 46/sec for HousingExhib
+2017-11-16 04:39:36 Favorites: 100% at 41/sec for HousingSystems
+2017-11-16 04:39:39 Favorites: 95.1% at 40/sec for HuffPostUKPol
+2017-11-16 04:39:39 Favorites: User hughjameslawyer has a protected account or no Favoritess to collect so skipping
+2017-11-16 04:39:41 Favorites: 96.6% at 28/sec for IceniProjects
+2017-11-16 04:39:41 Favorites: 100% at 3/sec for ingmarrey
+2017-11-16 04:39:48 Tweets   : 99.3% at 40/sec for janeblackburn71
+2017-11-16 04:39:50 Favorites: 51.8% at 45/sec for instofideas
+2017-11-16 04:39:56 Favorites: 53.1% at 50/sec for IsosHousing
+2017-11-16 04:39:58 Favorites: 73.6% at 42/sec for IssyPetrie
+2017-11-16 04:39:58 Favorites: Waiting for 12.5 minutes due to : Used up allowance in a loop
+2017-11-16 04:40:37 Tweets   : 99.6% at 49/sec for JaneMinter
+2017-11-16 04:40:45 Tweets   : 100% at 18/sec for JaniceDevComs
+2017-11-16 04:41:57 Tweets   : 79.9% at 44/sec for JasonMarcMerri1
+2017-11-16 04:42:03 Friends  : 100% at 0/sec for ingmarrey
+2017-11-16 04:42:04 Tweets   : 100% at 8/sec for JasonWylie01
+2017-11-16 04:42:42 Friends  : 99.5% at 37/sec for instofideas
+2017-11-16 04:43:17 Friends  : 99.7% at 34/sec for IsosHousing
+2017-11-16 04:43:25 Friends  : 98.3% at 32/sec for IssyPetrie
+2017-11-16 04:43:27 Tweets   : 3.3% at 38/sec for javierburonc
+2017-11-16 04:43:38 Friends  : 98.1% at 36/sec for JackieW_DH
+2017-11-16 04:44:07 Friends  : 100% at 34/sec for JacquiEH_atLQG
+2017-11-16 04:44:33 Friends  : 100% at 33/sec for jaijai75
+2017-11-16 04:44:38 Tweets   : 62.2% at 44/sec for jenstuds
+2017-11-16 04:44:43 Friends  : 91.2% at 44/sec for James_HC21
+2017-11-16 04:44:46 Friends  : 99.4% at 45/sec for JamesRae26
+2017-11-16 04:45:04 Friends  : 99.7% at 43/sec for janeblackburn71
+2017-11-16 04:45:10 Friends  : 99.6% at 41/sec for JaneMinter
+2017-11-16 04:45:12 Friends  : 96.3% at 22/sec for JaniceDevComs
+2017-11-16 04:45:27 Friends  : 98.1% at 39/sec for JasonMarcMerri1
+2017-11-16 04:45:28 Friends  : 100% at 26/sec for JasonWylie01
+2017-11-16 04:45:51 Tweets   : 89.2% at 44/sec for jgslater
+2017-11-16 04:46:05 Friends  : 99.4% at 42/sec for javierburonc
+2017-11-16 04:46:05 Friends  : Waiting for 11 minutes
+2017-11-16 04:46:15 Tweets   : 98% at 33/sec for JillHaley11
+2017-11-16 04:47:24 Tweets   : 53.6% at 46/sec for Jimmyscambridge
+2017-11-16 04:52:50 Favorites: 60.3% at 0/sec for JackieW_DH
+2017-11-16 04:53:13 Favorites: 54.3% at 47/sec for JacquiEH_atLQG
+2017-11-16 04:53:21 Favorites: 61.8% at 50/sec for jaijai75
+2017-11-16 04:53:22 Favorites: 95.7% at 33/sec for James_HC21
+2017-11-16 04:53:24 Favorites: 84.7% at 43/sec for JamesRae26
+2017-11-16 04:53:44 Favorites: 47% at 47/sec for janeblackburn71
+2017-11-16 04:53:54 Favorites: 63.7% at 40/sec for JaneMinter
+2017-11-16 04:53:56 Favorites: 94.3% at 70/sec for JaniceDevComs
+2017-11-16 04:54:48 Favorites: 50.1% at 45/sec for JasonMarcMerri1
+2017-11-16 04:54:49 Favorites: 100% at 39/sec for JasonWylie01
+2017-11-16 04:54:55 Favorites: 69.8% at 49/sec for javierburonc
+2017-11-16 04:55:22 Favorites: Waiting for 12.4 minutes due to : Used up allowance in a loop
+2017-11-16 04:58:17 Friends  : 98% at 3/sec for jenstuds
+2017-11-16 04:59:27 Friends  : 98.4% at 39/sec for jgslater
+2017-11-16 04:59:32 Friends  : 100% at 30/sec for JillHaley11
+2017-11-16 04:59:50 Friends  : 98.2% at 37/sec for Jimmyscambridge
+2017-11-16 05:08:45 Favorites: 9.6% at 4/sec for jenstuds
+2017-11-16 05:09:06 Favorites: 51.3% at 46/sec for jgslater
+2017-11-16 05:09:10 Favorites: 63.1% at 47/sec for JillHaley11
+2017-11-16 05:09:17 Favorites: 52.5% at 43/sec for Jimmyscambridge
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+Warning message:
+package 'twitteR' was built under R version 3.4.1 

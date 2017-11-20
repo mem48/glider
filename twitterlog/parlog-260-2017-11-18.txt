@@ -1,0 +1,159 @@
+starting worker pid=13860 on localhost:11271 at 10:58:43.543
+starting worker pid=11792 on localhost:11271 at 10:58:43.715
+starting worker pid=3592 on localhost:11271 at 10:58:43.880
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-18 11:00:35 Friends  : 0.3% at 6/sec for ExeoEnergy
+2017-11-18 11:00:38 Friends  : 100% at 44/sec for Fabric_First
+2017-11-18 11:01:03 Friends  : 99.8% at 33/sec for fairwoodonline
+2017-11-18 11:01:16 Friends  : 97.9% at 40/sec for fergal5
+2017-11-18 11:01:16 Friends  : Waiting for 5.4 minutes
+2017-11-18 11:02:29 Favorites: 100% at 23/sec for ExeoEnergy
+2017-11-18 11:02:29 Favorites: User Fabric_First has a protected account or no Favoritess to collect so skipping
+2017-11-18 11:02:30 Favorites: 91.7% at 33/sec for fairwoodonline
+2017-11-18 11:02:39 Favorites: 59.8% at 45/sec for fergal5
+2017-11-18 11:03:02 Favorites: 48.7% at 33/sec for FGoliviamidgley
+2017-11-18 11:04:15 Favorites: 3.6% at 44/sec for Fifthcolumnblue
+2017-11-18 11:04:16 Favorites: 100% at 38/sec for FMKArchitecture
+2017-11-18 11:04:30 Favorites: 57.7% at 44/sec for Fordingbridgedb
+2017-11-18 11:04:46 Favorites: 54.3% at 43/sec for FredinShed
+2017-11-18 11:04:51 Tweets   : 100% at 36/sec for ExeoEnergy
+2017-11-18 11:04:57 Tweets   : 100% at 3/sec for Fabric_First
+2017-11-18 11:05:00 Favorites: 54.5% at 48/sec for FullFact
+2017-11-18 11:05:02 Favorites: 100% at 8/sec for G_M_Moore_Assoc
+2017-11-18 11:05:02 Favorites: User gailtheactuary has a protected account or no Favoritess to collect so skipping
+2017-11-18 11:05:02 Favorites: User gainstown has a protected account or no Favoritess to collect so skipping
+2017-11-18 11:05:06 Tweets   : 100% at 8/sec for fairwoodonline
+2017-11-18 11:05:15 Favorites: Waiting for 12.2 minutes due to : Used up allowance in a loop
+2017-11-18 11:05:56 Tweets   : 99.8% at 51/sec for fergal5
+2017-11-18 11:06:58 Tweets   : 53.5% at 51/sec for FGoliviamidgley
+2017-11-18 11:07:33 Friends  : 99.4% at 5/sec for FGoliviamidgley
+2017-11-18 11:08:05 Tweets   : 2.8% at 48/sec for Fifthcolumnblue
+2017-11-18 11:08:21 Tweets   : 100% at 35/sec for FMKArchitecture
+2017-11-18 11:09:23 Tweets   : 99.9% at 43/sec for Fordingbridgedb
+2017-11-18 11:10:10 Tweets   : 99.8% at 41/sec for FredinShed
+2017-11-18 11:11:07 Friends  : 96.9% at 39/sec for Fifthcolumnblue
+2017-11-18 11:11:15 Friends  : 100% at 35/sec for FMKArchitecture
+2017-11-18 11:11:22 Tweets   : 21.5% at 44/sec for FullFact
+2017-11-18 11:11:41 Tweets   : 100% at 32/sec for G_M_Moore_Assoc
+2017-11-18 11:11:52 Tweets   : 100% at 28/sec for gailtheactuary
+2017-11-18 11:11:55 Friends  : 99.3% at 41/sec for Fordingbridgedb
+2017-11-18 11:11:58 Tweets   : 100% at 0/sec for gainstown
+Error in twInterfaceObj$doAPICall(cmd, params, method, ...) : 
+  Service Unavailable (HTTP 503).
+In addition: Warning message:
+package 'twitteR' was built under R version 3.4.1 
+2017-11-18 11:11:59 Tweets: Unable to find account gareth_snell moving to next
+2017-11-18 11:11:59 Tweets   : % at /sec for gareth_snell
+2017-11-18 11:12:10 Tweets   : 99.5% at 20/sec for garethwputtock
+2017-11-18 11:12:11 Friends  : 99.7% at 40/sec for FredinShed
+2017-11-18 11:12:51 Friends  : 99.9% at 35/sec for FullFact
+2017-11-18 11:12:52 Friends  : 100% at 15/sec for G_M_Moore_Assoc
+2017-11-18 11:12:52 Friends  : User gailtheactuary has a protected account or no Friendss to collect so skipping
+2017-11-18 11:12:53 Friends  : 100% at 17/sec for gainstown
+2017-11-18 11:13:04 Tweets   : 84.7% at 48/sec for gb_news
+2017-11-18 11:13:19 Friends  : 98.6% at 42/sec for gareth_snell
+2017-11-18 11:13:25 Friends  : 100% at 35/sec for garethwputtock
+2017-11-18 11:13:30 Tweets   : 99.3% at 38/sec for GBEGreenBuild
+2017-11-18 11:13:45 Friends  : 100% at 45/sec for gb_news
+2017-11-18 11:14:31 Friends  : 99.9% at 43/sec for GBEGreenBuild
+2017-11-18 11:14:36 Tweets   : 10.6% at 48/sec for gdeichen
+2017-11-18 11:14:50 Friends  : 98.1% at 42/sec for gdeichen
+2017-11-18 11:15:06 Friends  : 98.3% at 34/sec for geolsoc
+2017-11-18 11:15:07 Friends  : Waiting for 6.8 minutes
+2017-11-18 11:15:43 Tweets   : 30% at 47/sec for geolsoc
+2017-11-18 11:15:55 Tweets   : 99.7% at 31/sec for georglorenz
+2017-11-18 11:16:03 Tweets   : 100% at 5/sec for GeraldCole7
+2017-11-18 11:16:58 Tweets   : 97.9% at 50/sec for Get_EcoConsult
+2017-11-18 11:18:00 Favorites: 50.8% at 2/sec for gareth_snell
+2017-11-18 11:18:01 Favorites: 100% at 52/sec for garethwputtock
+2017-11-18 11:18:01 Favorites: 100% at 36/sec for gb_news
+2017-11-18 11:18:06 Favorites: 54.1% at 41/sec for GBEGreenBuild
+2017-11-18 11:18:09 Tweets   : 5.2% at 46/sec for Gian_TCatt
+2017-11-18 11:18:19 Tweets   : 100% at 26/sec for GlanBlakeThomas
+2017-11-18 11:19:17 Favorites: 21.5% at 44/sec for gdeichen
+2017-11-18 11:19:29 Tweets   : 25.1% at 46/sec for globalzero
+2017-11-18 11:19:43 Tweets   : 99.7% at 26/sec for Glos_Architect
+2017-11-18 11:19:49 Tweets   : 100% at 8/sec for GlosCityBC
+2017-11-18 11:20:10 Favorites: 50.2% at 43/sec for geolsoc
+2017-11-18 11:20:11 Favorites: 100% at 18/sec for georglorenz
+2017-11-18 11:20:11 Favorites: 100% at 36/sec for GeraldCole7
+2017-11-18 11:20:16 Favorites: 84.8% at 38/sec for Get_EcoConsult
+2017-11-18 11:20:25 Favorites: Waiting for 12.3 minutes due to : Used up allowance in a loop
+2017-11-18 11:20:57 Tweets   : 98.2% at 47/sec for GlosVain
+2017-11-18 11:21:26 Tweets   : 99% at 37/sec for GlosYoungGreens
+2017-11-18 11:22:04 Friends  : 100% at 0/sec for georglorenz
+2017-11-18 11:22:11 Friends  : 99% at 44/sec for GeraldCole7
+2017-11-18 11:22:24 Friends  : 100% at 42/sec for Get_EcoConsult
+2017-11-18 11:22:38 Tweets   : 1.9% at 44/sec for Goleudy
+2017-11-18 11:23:59 Tweets   : 59.9% at 39/sec for GPUKoceans
+2017-11-18 11:24:17 Friends  : 99.3% at 40/sec for Gian_TCatt
+2017-11-18 11:24:58 Friends  : 100% at 41/sec for GlanBlakeThomas
+2017-11-18 11:25:06 Tweets   : 14.3% at 48/sec for Grand_Theatre
+2017-11-18 11:25:11 Tweets   : 100% at 3/sec for GreenBldSkeptic
+2017-11-18 11:25:17 Tweets   : 100% at 5/sec for greendadtwit
+2017-11-18 11:25:28 Tweets   : 99.5% at 22/sec for greendealadvice
+2017-11-18 11:25:38 Tweets   : 98.8% at 17/sec for GreenGeekUK
+2017-11-18 11:26:17 Friends  : 92.7% at 37/sec for globalzero
+2017-11-18 11:26:29 Friends  : 100% at 36/sec for Glos_Architect
+2017-11-18 11:26:31 Friends  : 100% at 43/sec for GlosCityBC
+2017-11-18 11:26:48 Tweets   : 44.9% at 45/sec for greenhearts_uk
+2017-11-18 11:26:49 Friends  : 100% at 35/sec for GlosVain
+2017-11-18 11:26:55 Friends  : 100% at 39/sec for GlosYoungGreens
+2017-11-18 11:26:58 Tweets   : 99.5% at 20/sec for GreenHomesShef
+2017-11-18 11:27:03 Friends  : 99.6% at 39/sec for Goleudy
+2017-11-18 11:27:20 Friends  : 99.1% at 38/sec for GPUKoceans
+2017-11-18 11:27:21 Tweets   : 99.5% at 36/sec for GreeningtheUK
+2017-11-18 11:27:45 Tweets   : 99.9% at 41/sec for GreenLEDA
+2017-11-18 11:27:53 Tweets   : 98.3% at 7/sec for GreenLinkedLive
+2017-11-18 11:28:00 Tweets   : 100% at 17/sec for GreenOnTopRoofs
+2017-11-18 11:28:35 Tweets   : 99.5% at 37/sec for GreenPartyFOD
+2017-11-18 11:29:01 Tweets   : 99.8% at 37/sec for greenshopcouk
+2017-11-18 11:29:09 Friends  : 97.9% at 37/sec for Grand_Theatre
+2017-11-18 11:29:10 Friends  : 100% at 12/sec for GreenBldSkeptic
+2017-11-18 11:29:11 Friends  : 100% at 43/sec for greendadtwit
+2017-11-18 11:29:12 Friends  : Waiting for 7.9 minutes
+2017-11-18 11:29:26 Tweets   : 97.4% at 36/sec for GreenstoneTod
+2017-11-18 11:29:54 Tweets   : 99.3% at 39/sec for GreenTecBuild
+2017-11-18 11:34:03 Favorites: 32.4% at 4/sec for Gian_TCatt
+2017-11-18 11:34:04 Favorites: 100% at 30/sec for GlanBlakeThomas
+2017-11-18 11:35:10 Favorites: 48.5% at 44/sec for globalzero
+2017-11-18 11:35:10 Favorites: 100% at 24/sec for Glos_Architect
+2017-11-18 11:35:10 Favorites: User GlosCityBC has a protected account or no Favoritess to collect so skipping
+2017-11-18 11:35:11 Favorites: 98.7% at 78/sec for GlosVain
+2017-11-18 11:35:15 Favorites: 56.8% at 31/sec for GlosYoungGreens
+2017-11-18 11:35:15 Favorites: User Goleudy has a protected account or no Favoritess to collect so skipping
+2017-11-18 11:35:26 Favorites: 61.2% at 44/sec for GPUKoceans
+2017-11-18 11:35:38 Favorites: Waiting for 12.4 minutes due to : Used up allowance in a loop
+2017-11-18 11:37:42 Friends  : 100% at 2/sec for greendealadvice
+2017-11-18 11:38:34 Friends  : 100% at 36/sec for GreenGeekUK
+2017-11-18 11:39:29 Friends  : 99.5% at 39/sec for greenhearts_uk
+2017-11-18 11:39:44 Friends  : 100% at 35/sec for GreenHomesShef
+2017-11-18 11:41:08 Friends  : 100% at 40/sec for GreeningtheUK
+2017-11-18 11:41:19 Friends  : 99.8% at 40/sec for GreenLEDA
+2017-11-18 11:42:01 Friends  : 100% at 45/sec for GreenLinkedLive
+2017-11-18 11:42:42 Friends  : 99.9% at 41/sec for GreenOnTopRoofs
+2017-11-18 11:43:18 Friends  : 98.8% at 43/sec for GreenPartyFOD
+2017-11-18 11:43:49 Friends  : 97.1% at 41/sec for greenshopcouk
+2017-11-18 11:44:00 Friends  : 99.3% at 40/sec for GreenstoneTod
+2017-11-18 11:45:07 Friends  : 99.5% at 41/sec for GreenTecBuild
+2017-11-18 11:49:09 Favorites: 28.1% at 4/sec for Grand_Theatre
+2017-11-18 11:49:09 Favorites: User GreenBldSkeptic has a protected account or no Favoritess to collect so skipping
+2017-11-18 11:49:10 Favorites: 100% at 21/sec for greendadtwit
+2017-11-18 11:49:10 Favorites: 100% at 2/sec for greendealadvice
+2017-11-18 11:49:11 Favorites: 100% at 3/sec for GreenGeekUK
+2017-11-18 11:49:30 Favorites: 50.7% at 50/sec for greenhearts_uk
+2017-11-18 11:49:33 Favorites: 100% at 10/sec for GreenHomesShef
+2017-11-18 11:49:33 Favorites: User GreeningtheUK has a protected account or no Favoritess to collect so skipping
+2017-11-18 11:49:34 Favorites: 100% at 42/sec for GreenLEDA
+2017-11-18 11:49:34 Favorites: 100% at 2/sec for GreenLinkedLive
+2017-11-18 11:49:35 Favorites: 100% at 8/sec for GreenOnTopRoofs
+2017-11-18 11:49:41 Favorites: 63.3% at 47/sec for GreenPartyFOD
+2017-11-18 11:49:42 Favorites: 65.1% at 67/sec for greenshopcouk
+2017-11-18 11:49:47 Favorites: 80.6% at 40/sec for GreenstoneTod
+2017-11-18 11:49:52 Favorites: 94.3% at 40/sec for GreenTecBuild
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+Warning message:
+package 'twitteR' was built under R version 3.4.1 

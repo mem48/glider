@@ -1,0 +1,164 @@
+starting worker pid=1900 on localhost:11271 at 21:40:27.913
+starting worker pid=14344 on localhost:11271 at 21:40:28.148
+starting worker pid=12656 on localhost:11271 at 21:40:28.304
+[1] "Using direct authentication"
+Using direct authentication"
+2017-11-18 21:42:50 Friends  : 99.2% at 35/sec for thornewyness
+2017-11-18 21:42:52 Friends  : 97.8% at 34/sec for TimMartelAT
+2017-11-18 21:44:40 Friends  : 99.9% at 36/sec for tom_burke_47
+2017-11-18 21:44:45 Favorites: 75.1% at 64/sec for thornewyness
+2017-11-18 21:44:49 Favorites: 100% at 4/sec for TimMartelAT
+2017-11-18 21:44:50 Favorites: 100% at 53/sec for tom_burke_47
+2017-11-18 21:46:17 Friends  : 99.3% at 33/sec for TomasWyns
+2017-11-18 21:46:31 Favorites: 37.8% at 32/sec for TomasWyns
+2017-11-18 21:46:36 Favorites: 90.9% at 21/sec for tomcarnac
+2017-11-18 21:46:36 Favorites: User tomhillary has a protected account or no Favoritess to collect so skipping
+2017-11-18 21:46:36 Favorites: User Tools2Go has a protected account or no Favoritess to collect so skipping
+2017-11-18 21:46:38 Friends  : 98.1% at 35/sec for tomcarnac
+2017-11-18 21:46:39 Friends  : 100% at 20/sec for tomhillary
+2017-11-18 21:46:45 Friends  : 100% at 27/sec for Tools2Go
+2017-11-18 21:47:15 Tweets   : 99.7% at 25/sec for thornewyness
+2017-11-18 21:47:27 Tweets   : 100% at 7/sec for TimMartelAT
+2017-11-18 21:47:57 Favorites: 6.5% at 38/sec for ToryFibs
+2017-11-18 21:48:06 Favorites: Waiting for 11.6 minutes due to : Used up allowance in a loop
+2017-11-18 21:48:44 Tweets   : 19.1% at 42/sec for tom_burke_47
+2017-11-18 21:50:06 Tweets   : 20.7% at 39/sec for TomasWyns
+2017-11-18 21:50:41 Tweets   : 99.9% at 33/sec for tomcarnac
+2017-11-18 21:50:41 Tweets   : User tomhillary has a protected account or no Tweetss to collect so skipping
+2017-11-18 21:50:49 Tweets   : 100% at 1/sec for Tools2Go
+2017-11-18 21:52:14 Tweets   : 5.1% at 38/sec for ToryFibs
+2017-11-18 21:53:44 Tweets   : 14.4% at 36/sec for ToSaveEnergy
+2017-11-18 21:53:55 Tweets   : 99.5% at 16/sec for totalenviron
+2017-11-18 21:53:57 Friends  : 98.9% at 37/sec for ToryFibs
+2017-11-18 21:54:02 Tweets   : 100% at 17/sec for TRA_Architects
+2017-11-18 21:54:11 Tweets   : 100% at 1/sec for Tradtech
+2017-11-18 21:54:51 Friends  : 99.6% at 41/sec for ToSaveEnergy
+2017-11-18 21:54:55 Friends  : 99.1% at 56/sec for totalenviron
+2017-11-18 21:55:06 Friends  : 98.3% at 32/sec for TRA_Architects
+2017-11-18 21:55:14 Friends  : 100% at 36/sec for Tradtech
+2017-11-18 21:55:37 Tweets   : 3.2% at 37/sec for TristramWyatt
+2017-11-18 21:55:49 Friends  : 97.6% at 41/sec for TristramWyatt
+2017-11-18 21:56:10 Friends  : 99.5% at 39/sec for trotheray
+2017-11-18 21:56:59 Tweets   : 72% at 39/sec for trotheray
+2017-11-18 21:57:05 Friends  : 99.9% at 37/sec for TUVSUD_PS_UK
+2017-11-18 21:57:05 Friends: Request of 21 exceeds the maximum of 15. Making an attemp
+Waiting will increase the number of results returned
+2017-11-18 21:57:05 Friends  : Waiting for 11.9 minutes
+2017-11-18 21:57:50 Tweets   : 100% at 41/sec for TUVSUD_PS_UK
+2017-11-18 21:59:08 Tweets   : 10.5% at 41/sec for tveitdal
+2017-11-18 22:00:28 Tweets   : 94% at 40/sec for TweetEco
+2017-11-18 22:00:31 Favorites: 49.7% at 2/sec for ToSaveEnergy
+2017-11-18 22:00:35 Favorites: 96.2% at 27/sec for totalenviron
+2017-11-18 22:00:36 Favorites: 100% at 36/sec for TRA_Architects
+2017-11-18 22:00:36 Favorites: User Tradtech has a protected account or no Favoritess to collect so skipping
+2017-11-18 22:00:49 Tweets   : 99% at 28/sec for UBGreenStudents
+2017-11-18 22:01:00 Tweets   : 100% at 14/sec for UEAGreens
+2017-11-18 22:01:30 Tweets   : 100% at 29/sec for Ugly_House
+2017-11-18 22:01:42 Tweets   : 100% at 28/sec for uk_cleanenergy
+2017-11-18 22:01:52 Tweets   : 98.8% at 8/sec for uk_revit
+2017-11-18 22:01:59 Favorites: 27.7% at 38/sec for TristramWyatt
+2017-11-18 22:02:34 Favorites: 50.6% at 36/sec for trotheray
+2017-11-18 22:02:35 Favorites: 100% at 50/sec for TUVSUD_PS_UK
+2017-11-18 22:02:41 Favorites: 57.6% at 35/sec for tveitdal
+2017-11-18 22:02:49 Favorites: 50.6% at 48/sec for TweetEco
+2017-11-18 22:02:53 Favorites: 94.3% at 24/sec for UBGreenStudents
+2017-11-18 22:02:54 Favorites: 100% at 8/sec for UEAGreens
+2017-11-18 22:02:55 Favorites: 100% at 20/sec for Ugly_House
+2017-11-18 22:02:56 Favorites: 85.5% at 67/sec for uk_cleanenergy
+2017-11-18 22:02:56 Favorites: User uk_revit has a protected account or no Favoritess to collect so skipping
+2017-11-18 22:03:01 Favorites: 97.8% at 21/sec for UKsealants
+2017-11-18 22:03:07 Favorites: 52.8% at 34/sec for UrbaneEco
+2017-11-18 22:03:09 Favorites: Waiting for 11.8 minutes due to : Used up allowance in a loop
+2017-11-18 22:03:19 Tweets   : 29.6% at 36/sec for UKsealants
+2017-11-18 22:03:52 Tweets   : 100% at 32/sec for UrbaneEco
+2017-11-18 22:05:23 Tweets   : 16.9% at 35/sec for urbanlifesigns
+2017-11-18 22:05:39 Tweets   : 100% at 26/sec for urbanselfbuild
+2017-11-18 22:05:59 Tweets   : 100% at 18/sec for vasudevanrk
+2017-11-18 22:06:24 Tweets   : 100% at 34/sec for VerticeDM
+2017-11-18 22:06:46 Tweets   : 99.8% at 39/sec for victoriagill_uk
+2017-11-18 22:07:18 Tweets   : 99.8% at 39/sec for VictoriaMeale
+2017-11-18 22:07:32 Tweets   : 100% at 21/sec for vikhouse
+2017-11-18 22:07:38 Tweets   : 100% at 1/sec for vision_build
+2017-11-18 22:08:04 Tweets   : 99.8% at 34/sec for VO4HOME
+2017-11-18 22:08:15 Tweets   : 98.6% at 25/sec for wadebutler_yyc
+2017-11-18 22:09:32 Tweets   : 99.8% at 41/sec for Waterco_Consult
+2017-11-18 22:09:48 Tweets   : 100% at 30/sec for WB_Construction
+2017-11-18 22:10:04 Tweets   : 100% at 26/sec for wearehomely
+2017-11-18 22:11:21 Tweets   : 22.8% at 41/sec for West_GP
+2017-11-18 22:12:43 Tweets   : 43.1% at 39/sec for WestLondonWaste
+2017-11-18 22:12:54 Tweets   : 99.6% at 25/sec for WFStandards
+2017-11-18 22:13:13 Tweets   : 100% at 22/sec for WhiteHaus123
+2017-11-18 22:14:03 Tweets   : 100% at 41/sec for WilliamsRec
+2017-11-18 22:14:10 Tweets   : 100% at 3/sec for wolfpassive
+2017-11-18 22:14:31 Tweets   : 100% at 27/sec for Wood_Arc
+2017-11-18 22:16:02 Tweets   : 71.4% at 35/sec for WoodMarketing
+2017-11-18 22:16:42 Favorites: 25.3% at 4/sec for urbanlifesigns
+2017-11-18 22:16:43 Favorites: 100% at 10/sec for urbanselfbuild
+2017-11-18 22:16:43 Favorites: 100% at 19/sec for vasudevanrk
+2017-11-18 22:16:44 Favorites: 100% at 22/sec for VerticeDM
+2017-11-18 22:16:44 Favorites: 100% at 30/sec for victoriagill_uk
+2017-11-18 22:16:56 Favorites: 52.1% at 41/sec for VictoriaMeale
+2017-11-18 22:16:57 Favorites: 100% at 50/sec for vikhouse
+2017-11-18 22:16:57 Favorites: User vision_build has a protected account or no Favoritess to collect so skipping
+2017-11-18 22:16:58 Favorites: 100% at 9/sec for VO4HOME
+2017-11-18 22:16:58 Favorites: 100% at 7/sec for wadebutler_yyc
+2017-11-18 22:17:25 Favorites: 51.5% at 37/sec for Waterco_Consult
+2017-11-18 22:17:25 Favorites: User WB_Construction has a protected account or no Favoritess to collect so skipping
+2017-11-18 22:17:25 Favorites: 100% at 11/sec for wearehomely
+2017-11-18 22:17:29 Favorites: 99% at 23/sec for West_GP
+2017-11-18 22:17:34 Tweets   : 12.6% at 35/sec for WorkPsychol
+2017-11-18 22:17:55 Favorites: 52.7% at 39/sec for WestLondonWaste
+2017-11-18 22:17:55 Favorites: 100% at 2/sec for WFStandards
+2017-11-18 22:18:00 Favorites: 50.3% at 24/sec for WhiteHaus123
+2017-11-18 22:18:00 Tweets   : 99.3% at 28/sec for YGNRegions
+2017-11-18 22:18:00 Favorites: 100% at 15/sec for WilliamsRec
+2017-11-18 22:18:00 Favorites: User wolfpassive has a protected account or no Favoritess to collect so skipping
+2017-11-18 22:18:03 Favorites: 57.2% at 74/sec for Wood_Arc
+2017-11-18 22:18:14 Favorites: Waiting for 12 minutes due to : Used up allowance in a loop
+2017-11-18 22:18:30 Tweets   : 99.4% at 24/sec for YGPlymUni
+2017-11-18 22:30:43 Favorites: 55.9% at 1/sec for WoodMarketing
+2017-11-18 22:32:10 Favorites: 14.5% at 37/sec for WorkPsychol
+2017-11-18 22:32:11 Favorites: 93.5% at 40/sec for YGNRegions
+2017-11-18 22:32:15 Favorites: 97.8% at 22/sec for YGPlymUni
+2017-11-18 22:39:12 Friends  : 68.9% at 28/sec for tveitdal
+2017-11-18 22:39:39 Friends  : 99.1% at 47/sec for TweetEco
+2017-11-18 22:39:45 Friends  : 99% at 50/sec for UBGreenStudents
+2017-11-18 22:39:47 Friends  : 100% at 30/sec for UEAGreens
+2017-11-18 22:40:04 Friends  : 100% at 47/sec for Ugly_House
+2017-11-18 22:40:12 Friends  : 100% at 36/sec for uk_cleanenergy
+2017-11-18 22:40:14 Friends  : 100% at 39/sec for uk_revit
+2017-11-18 22:51:59 Friends  : 100% at 43/sec for UKsealants
+2017-11-18 22:52:41 Friends  : 97.4% at 49/sec for UrbaneEco
+2017-11-18 22:52:55 Friends  : 98.4% at 44/sec for urbanlifesigns
+2017-11-18 22:52:56 Friends  : Waiting for 1.4 minutes
+2017-11-18 22:54:28 Friends  : 100% at 4/sec for urbanselfbuild
+2017-11-18 22:54:31 Friends  : 98.3% at 40/sec for vasudevanrk
+2017-11-18 22:55:16 Friends  : 99.9% at 44/sec for VerticeDM
+2017-11-18 22:56:04 Friends  : 99.9% at 43/sec for victoriagill_uk
+2017-11-18 22:56:35 Friends  : 100% at 45/sec for VictoriaMeale
+2017-11-18 22:57:19 Friends  : 100% at 45/sec for vikhouse
+2017-11-18 22:57:20 Friends  : 100% at 7/sec for vision_build
+2017-11-18 22:57:46 Friends  : 100% at 46/sec for VO4HOME
+2017-11-18 22:58:01 Friends  : 100% at 46/sec for wadebutler_yyc
+2017-11-18 22:58:47 Friends  : 99.7% at 42/sec for Waterco_Consult
+2017-11-18 22:59:03 Friends  : 100% at 44/sec for WB_Construction
+2017-11-18 22:59:15 Friends  : 100% at 42/sec for wearehomely
+2017-11-18 22:59:45 Friends  : 100% at 39/sec for West_GP
+2017-11-18 23:00:44 Friends  : 97.4% at 48/sec for WestLondonWaste
+2017-11-18 23:00:46 Friends  : 100% at 42/sec for WFStandards
+2017-11-18 23:00:47 Friends  : Waiting for 8.6 minutes
+2017-11-18 23:10:33 Friends  : 99.6% at 4/sec for WhiteHaus123
+2017-11-18 23:11:49 Friends  : 100% at 40/sec for WilliamsRec
+2017-11-18 23:12:04 Friends  : 100% at 45/sec for wolfpassive
+2017-11-18 23:12:11 Friends  : 100% at 24/sec for Wood_Arc
+2017-11-18 23:12:35 Friends  : 99.1% at 43/sec for WoodMarketing
+2017-11-18 23:15:34 Friends  : 98.5% at 41/sec for WorkPsychol
+2017-11-18 23:15:41 Friends  : 100% at 44/sec for YGNRegions
+2017-11-18 23:16:02 Friends  : 100% at 35/sec for YGPlymUni
+Warning message:
+
+1: package 'twitteR' was built under R version 3.4.1 
+package 'twitteR' was built under R version 3.4.1 
+2: In twInterfaceObj$doAPICall(cmd, params, method, ...) :
+  Rate limit encountered & retry limit reached - returning partial results
+package 'twitteR' was built under R version 3.4.1 

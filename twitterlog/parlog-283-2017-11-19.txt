@@ -1,0 +1,165 @@
+starting worker pid=11204 on localhost:11271 at 16:23:51.323
+starting worker pid=11620 on localhost:11271 at 16:23:51.495
+starting worker pid=4352 on localhost:11271 at 16:23:51.676
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-19 16:27:15 Friends  : 99% at 27/sec for MPritchardUK
+2017-11-19 16:28:25 Friends  : 99.6% at 37/sec for MrMichaelShaw
+2017-11-19 16:29:06 Favorites: 100% at 19/sec for MPritchardUK
+2017-11-19 16:29:12 Friends  : 96.6% at 32/sec for MrsCathHill
+2017-11-19 16:29:34 Favorites: 57.3% at 17/sec for MrMichaelShaw
+2017-11-19 16:30:10 Friends  : 98.1% at 34/sec for MrsSarahSimons
+2017-11-19 16:30:20 Favorites: 51.1% at 34/sec for MrsCathHill
+2017-11-19 16:30:27 Friends  : 100% at 27/sec for MrWaleAdeyemi
+2017-11-19 16:30:27 Friends  : User MS4v3d has a protected account or no Friendss to collect so skipping
+2017-11-19 16:30:50 Friends  : 100% at 31/sec for MSStudentOffice
+2017-11-19 16:31:34 Favorites: 29.6% at 37/sec for MrsSarahSimons
+2017-11-19 16:31:39 Favorites: 89.5% at 4/sec for MrWaleAdeyemi
+2017-11-19 16:31:39 Favorites: User MS4v3d has a protected account or no Favoritess to collect so skipping
+2017-11-19 16:31:39 Favorites: 96.8% at 38/sec for MSStudentOffice
+2017-11-19 16:32:37 Friends  : 98.7% at 31/sec for mtpennycook
+2017-11-19 16:32:41 Favorites: Waiting for 11.4 minutes due to : Used up allowance in a loop
+2017-11-19 16:33:16 Tweets   : 99.9% at 35/sec for MPritchardUK
+2017-11-19 16:33:24 Friends  : 99.8% at 38/sec for MumsnetTowers
+2017-11-19 16:33:27 Friends  : 98.9% at 55/sec for My_AgriCountry
+2017-11-19 16:33:42 Friends  : 99.8% at 33/sec for My_Equine
+2017-11-19 16:34:32 Tweets   : 48.4% at 42/sec for MrMichaelShaw
+2017-11-19 16:34:37 Friends  : 100% at 33/sec for MyGovOnline
+2017-11-19 16:35:02 Friends  : 99.1% at 38/sec for mynwrc
+2017-11-19 16:35:27 Friends  : 96.8% at 35/sec for N_HertsCollege
+2017-11-19 16:35:34 Tweets   : 99.5% at 37/sec for MrsCathHill
+2017-11-19 16:35:48 Friends  : 99.1% at 34/sec for NadineDorries
+2017-11-19 16:36:06 Friends  : 99.5% at 37/sec for NatalieCramp
+2017-11-19 16:36:06 Friends  : User NatalieMcGarry has a protected account or no Friendss to collect so skipping
+2017-11-19 16:36:06 Friends  : Waiting for 5.4 minutes
+2017-11-19 16:36:47 Tweets   : 19.6% at 44/sec for MrsSarahSimons
+2017-11-19 16:38:06 Tweets   : 61.8% at 40/sec for MrWaleAdeyemi
+2017-11-19 16:38:06 Tweets   : User MS4v3d has a protected account or no Tweetss to collect so skipping
+2017-11-19 16:38:30 Tweets   : 99.9% at 38/sec for MSStudentOffice
+2017-11-19 16:39:41 Tweets   : 22.3% at 45/sec for mtpennycook
+2017-11-19 16:40:59 Tweets   : 7.3% at 41/sec for MumsnetTowers
+2017-11-19 16:41:49 Tweets   : 99.9% at 42/sec for My_AgriCountry
+2017-11-19 16:42:42 Friends  : 99.7% at 6/sec for natalierosegil
+2017-11-19 16:42:49 Friends  : 98.6% at 28/sec for NavChohan1
+2017-11-19 16:43:09 Tweets   : 21.4% at 40/sec for My_Equine
+2017-11-19 16:43:12 Friends  : 98.4% at 36/sec for NazShahBfd
+2017-11-19 16:43:51 Tweets   : 100% at 34/sec for MyGovOnline
+2017-11-19 16:43:52 Friends  : 99.6% at 35/sec for Nbcol
+2017-11-19 16:44:00 Friends  : 99.2% at 31/sec for NCDOfficial
+2017-11-19 16:44:02 Friends  : 100% at 41/sec for NclColl_Eng
+2017-11-19 16:44:46 Friends  : 93.4% at 32/sec for NCLCollege
+2017-11-19 16:44:49 Favorites: 31.7% at 4/sec for mtpennycook
+2017-11-19 16:45:00 Favorites: 49.9% at 37/sec for MumsnetTowers
+2017-11-19 16:45:01 Favorites: 100% at 53/sec for My_AgriCountry
+2017-11-19 16:45:06 Favorites: 75.8% at 18/sec for My_Equine
+2017-11-19 16:45:06 Favorites: User MyGovOnline has a protected account or no Favoritess to collect so skipping
+2017-11-19 16:45:13 Friends  : 99.9% at 35/sec for ncpontefract
+2017-11-19 16:45:14 Favorites: 52.7% at 35/sec for mynwrc
+2017-11-19 16:45:25 Tweets   : 59.7% at 34/sec for mynwrc
+2017-11-19 16:45:42 Friends  : 98.9% at 32/sec for neil_parish
+2017-11-19 16:45:43 Favorites: 51.5% at 39/sec for N_HertsCollege
+2017-11-19 16:46:17 Favorites: 49.9% at 34/sec for NadineDorries
+2017-11-19 16:46:24 Friends  : 97.9% at 30/sec for neill_bob
+2017-11-19 16:46:33 Favorites: 57.9% at 32/sec for NatalieCramp
+2017-11-19 16:46:33 Favorites: User NatalieMcGarry has a protected account or no Favoritess to collect so skipping
+2017-11-19 16:46:37 Friends  : 97.3% at 38/sec for Nescot
+2017-11-19 16:46:41 Favorites: 55.3% at 35/sec for natalierosegil
+2017-11-19 16:46:42 Favorites: 100% at 55/sec for NavChohan1
+2017-11-19 16:46:54 Tweets   : 26.3% at 36/sec for N_HertsCollege
+2017-11-19 16:47:45 Friends  : 96.6% at 33/sec for newburycollege
+2017-11-19 16:47:50 Favorites: Waiting for 11.5 minutes due to : Used up allowance in a loop
+2017-11-19 16:48:09 Friends  : 99.2% at 30/sec for NewCollegeNottm
+2017-11-19 16:48:24 Tweets   : 14.1% at 35/sec for NadineDorries
+2017-11-19 16:48:31 Friends  : 99.9% at 33/sec for NewCollegeStamf
+2017-11-19 16:48:46 Friends  : 99.1% at 28/sec for NewCollSwindon
+2017-11-19 16:48:46 Friends  : Waiting for 7.9 minutes
+2017-11-19 16:48:49 Tweets   : 99.8% at 26/sec for NatalieCramp
+2017-11-19 16:48:49 Tweets   : User NatalieMcGarry has a protected account or no Tweetss to collect so skipping
+2017-11-19 16:50:10 Tweets   : 54.8% at 40/sec for natalierosegil
+2017-11-19 16:50:51 Tweets   : 99.8% at 33/sec for NavChohan1
+2017-11-19 16:52:23 Tweets   : 47.9% at 35/sec for NazShahBfd
+2017-11-19 16:53:41 Tweets   : 87% at 41/sec for Nbcol
+2017-11-19 16:55:10 Tweets   : 99.4% at 33/sec for NCDOfficial
+2017-11-19 16:55:18 Tweets   : 100% at 8/sec for NclColl_Eng
+2017-11-19 16:56:52 Tweets   : 21.8% at 34/sec for NCLCollege
+2017-11-19 16:56:57 Friends  : 100% at 0/sec for NewCollTelford
+2017-11-19 16:57:44 Friends  : 99.6% at 26/sec for newhamcollege
+2017-11-19 16:58:15 Friends  : 99% at 29/sec for Newman_College
+2017-11-19 16:58:24 Tweets   : 99.2% at 32/sec for ncpontefract
+2017-11-19 16:58:32 Friends  : 99% at 24/sec for NewtonRigg
+2017-11-19 16:58:33 Friends  : 100% at 2/sec for ngcollege
+2017-11-19 16:59:12 Tweets   : 99.8% at 30/sec for neil_parish
+2017-11-19 16:59:29 Friends  : 100% at 27/sec for nic1_2_3
+2017-11-19 16:59:40 Favorites: 48.4% at 3/sec for NazShahBfd
+2017-11-19 16:59:41 Friends  : 100% at 27/sec for nichola_NC
+2017-11-19 17:00:01 Friends  : 100% at 24/sec for nick_clegg
+2017-11-19 17:00:06 Favorites: 49.7% at 27/sec for Nbcol
+2017-11-19 17:00:10 Favorites: 52.2% at 52/sec for NCDOfficial
+2017-11-19 17:00:10 Favorites: User NclColl_Eng has a protected account or no Favoritess to collect so skipping
+2017-11-19 17:01:02 Tweets   : 35.6% at 29/sec for neill_bob
+2017-11-19 17:01:08 Friends  : 99.9% at 25/sec for NickBolesNews
+2017-11-19 17:01:56 Friends  : 98.9% at 26/sec for NickGibbUK
+2017-11-19 17:01:58 Favorites: 48.3% at 29/sec for NCLCollege
+2017-11-19 17:02:06 Friends  : 99.3% at 26/sec for nickherbertmp
+2017-11-19 17:02:13 Favorites: 52.3% at 38/sec for ncpontefract
+2017-11-19 17:02:23 Favorites: 72% at 31/sec for neil_parish
+2017-11-19 17:02:36 Tweets   : 99.7% at 32/sec for Nescot
+2017-11-19 17:02:49 Favorites: 55.4% at 30/sec for neill_bob
+2017-11-19 17:02:57 Favorites: 88.5% at 26/sec for Nescot
+2017-11-19 17:03:07 Favorites: 58.4% at 29/sec for newburycollege
+2017-11-19 17:03:32 Favorites: 49% at 32/sec for NewCollegeNottm
+2017-11-19 17:03:40 Favorites: Waiting for 11 minutes due to : Used up allowance in a loop
+2017-11-19 17:04:07 Tweets   : 99.9% at 30/sec for newburycollege
+2017-11-19 17:04:46 Friends  : 99.4% at 25/sec for nickhillman
+2017-11-19 17:04:47 Friends  : 100% at 13/sec for nickhurdrnp
+2017-11-19 17:04:57 Friends  : 98.3% at 29/sec for nickphking
+2017-11-19 17:05:21 Friends  : 99.3% at 29/sec for nickreinis
+2017-11-19 17:05:21 Friends  : Waiting for 6.6 minutes
+2017-11-19 17:05:50 Tweets   : 69.6% at 31/sec for NewCollegeNottm
+2017-11-19 17:07:33 Tweets   : 95.6% at 31/sec for NewCollegeStamf
+2017-11-19 17:09:17 Tweets   : 89.3% at 31/sec for NewCollSwindon
+2017-11-19 17:10:15 Tweets   : 99.9% at 28/sec for NewCollTelford
+2017-11-19 17:11:51 Tweets   : 93.7% at 33/sec for newhamcollege
+2017-11-19 17:13:02 Friends  : 99.3% at 4/sec for nicolablackwood
+2017-11-19 17:13:28 Tweets   : 48.2% at 33/sec for Newman_College
+2017-11-19 17:13:41 Friends  : 99.6% at 29/sec for nicolawoolcock
+2017-11-19 17:14:31 Tweets   : 99.3% at 33/sec for NewtonRigg
+2017-11-19 17:14:39 Tweets   : 100% at 8/sec for ngcollege
+2017-11-19 17:14:56 Favorites: 65.4% at 0/sec for NewCollegeStamf
+2017-11-19 17:15:14 Favorites: 52.5% at 32/sec for NewCollSwindon
+2017-11-19 17:15:16 Favorites: 87% at 48/sec for NewCollTelford
+2017-11-19 17:15:50 Favorites: 53.7% at 29/sec for newhamcollege
+2017-11-19 17:16:04 Favorites: 55.8% at 36/sec for Newman_College
+2017-11-19 17:16:11 Favorites: 64% at 26/sec for NewtonRigg
+2017-11-19 17:16:11 Favorites: User ngcollege has a protected account or no Favoritess to collect so skipping
+2017-11-19 17:16:12 Favorites: 100% at 7/sec for nic1_2_3
+2017-11-19 17:16:15 Tweets   : 90.8% at 33/sec for nic1_2_3
+2017-11-19 17:16:20 Favorites: 63.5% at 26/sec for nichola_NC
+2017-11-19 17:16:20 Favorites: 93.5% at 36/sec for nick_clegg
+2017-11-19 17:16:20 Favorites: User NickBolesNews has a protected account or no Favoritess to collect so skipping
+2017-11-19 17:16:31 Favorites: 59.3% at 36/sec for NickGibbUK
+2017-11-19 17:16:32 Favorites: 100% at 7/sec for nickherbertmp
+2017-11-19 17:16:46 Tweets   : 99.6% at 26/sec for nichola_NC
+2017-11-19 17:16:53 Favorites: 56.7% at 33/sec for nickhillman
+2017-11-19 17:16:53 Favorites: User nickhurdrnp has a protected account or no Favoritess to collect so skipping
+2017-11-19 17:16:54 Favorites: 100% at 41/sec for nickphking
+2017-11-19 17:17:09 Favorites: 51.8% at 26/sec for nickreinis
+2017-11-19 17:17:10 Favorites: 102% at 46/sec for nicolablackwood
+2017-11-19 17:17:12 Favorites: 98.2% at 39/sec for nicolawoolcock
+2017-11-19 17:17:59 Tweets   : 99.6% at 37/sec for nick_clegg
+2017-11-19 17:19:25 Tweets   : 49.6% at 35/sec for NickBolesNews
+2017-11-19 17:19:58 Tweets   : 99.8% at 30/sec for NickGibbUK
+2017-11-19 17:21:28 Tweets   : 86.5% at 35/sec for nickherbertmp
+2017-11-19 17:23:04 Tweets   : 29.1% at 33/sec for nickhillman
+2017-11-19 17:23:18 Tweets   : 100% at 18/sec for nickhurdrnp
+2017-11-19 17:23:47 Tweets   : 99.8% at 28/sec for nickphking
+2017-11-19 17:25:23 Tweets   : 22.7% at 33/sec for nickreinis
+2017-11-19 17:26:58 Tweets   : 99.6% at 33/sec for nicolablackwood
+2017-11-19 17:28:15 Tweets   : 99.9% at 32/sec for nicolawoolcock
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+Warning message:
+package 'twitteR' was built under R version 3.4.1 

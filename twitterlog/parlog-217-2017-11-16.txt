@@ -1,0 +1,177 @@
+starting worker pid=10640 on localhost:11271 at 12:22:00.869
+starting worker pid=9436 on localhost:11271 at 12:22:01.053
+starting worker pid=9584 on localhost:11271 at 12:22:01.236
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-16 12:23:23 Friends  : 98.6% at 23/sec for CNUniShef
+2017-11-16 12:23:52 Friends  : 98.4% at 34/sec for ComActMK
+2017-11-16 12:24:44 Favorites: 55.3% at 22/sec for CNUniShef
+2017-11-16 12:25:01 Friends  : 99.8% at 35/sec for CTAwards
+2017-11-16 12:25:02 Favorites: 58.9% at 34/sec for ComActMK
+2017-11-16 12:25:10 Favorites: 52.8% at 35/sec for CTAwards
+2017-11-16 12:25:20 Friends  : 98.7% at 36/sec for CullinanStudio
+2017-11-16 12:25:21 Favorites: 61.5% at 38/sec for CullinanStudio
+2017-11-16 12:25:23 Favorites: 100% at 19/sec for da_york
+2017-11-16 12:25:54 Friends  : 97.9% at 35/sec for da_york
+2017-11-16 12:26:00 Friends  : 93.3% at 28/sec for DanBiancoNYC
+2017-11-16 12:26:21 Friends  : 97.5% at 28/sec for darrenwoodiwiss
+2017-11-16 12:26:31 Friends  : 98.5% at 35/sec for dartmoornpa
+Error in twInterfaceObj$doAPICall(paste("users", "show", sep = "/"), params = params,  : 
+  Not Found (HTTP 404).
+In addition: Warning message:
+package 'twitteR' was built under R version 3.4.1 
+2017-11-16 12:26:31 Friends: Unable to find account DesignForwardUK moving to next
+2017-11-16 12:26:31 Friends  : % at /sec for DesignForwardUK
+2017-11-16 12:26:45 Friends  : 99.2% at 37/sec for DixonBertie
+2017-11-16 12:26:45 Friends  : Waiting for 5.8 minutes
+2017-11-16 12:26:46 Tweets   : 99.8% at 31/sec for CNUniShef
+2017-11-16 12:26:51 Favorites: 41.9% at 36/sec for DanBiancoNYC
+2017-11-16 12:27:06 Favorites: 53.6% at 42/sec for darrenwoodiwiss
+2017-11-16 12:27:45 Favorites: 52.5% at 38/sec for dartmoornpa
+2017-11-16 12:27:45 Favorites: 100% at 6/sec for DesignForwardUK
+2017-11-16 12:27:47 Favorites: 54.9% at 56/sec for DixonBertie
+2017-11-16 12:28:07 Tweets   : 59.8% at 40/sec for ComActMK
+2017-11-16 12:28:22 Favorites: 52.2% at 34/sec for dlrcc
+2017-11-16 12:28:26 Favorites: 65.7% at 42/sec for Eco_motive
+2017-11-16 12:28:28 Favorites: 68.8% at 59/sec for econekt
+2017-11-16 12:29:17 Favorites: Waiting for 11.7 minutes due to : Used up allowance in a loop
+2017-11-16 12:29:27 Tweets   : 45.8% at 40/sec for CTAwards
+2017-11-16 12:30:20 Tweets   : 99.7% at 35/sec for CullinanStudio
+2017-11-16 12:30:49 Tweets   : 100% at 31/sec for da_york
+2017-11-16 12:31:46 Tweets   : 99.8% at 35/sec for DanBiancoNYC
+2017-11-16 12:33:18 Tweets   : 34.6% at 34/sec for darrenwoodiwiss
+2017-11-16 12:33:36 Friends  : 96.8% at 6/sec for dlrcc
+2017-11-16 12:34:13 Friends  : 98.2% at 35/sec for Eco_motive
+2017-11-16 12:34:39 Friends  : 99.6% at 36/sec for econekt
+2017-11-16 12:35:05 Tweets   : 47.1% at 30/sec for dartmoornpa
+2017-11-16 12:35:09 Friends  : 98.2% at 36/sec for editrice
+2017-11-16 12:35:11 Tweets   : 100% at 1/sec for DesignForwardUK
+2017-11-16 12:35:22 Tweets   : 100% at 15/sec for DixonBertie
+2017-11-16 12:35:25 Friends  : 97.6% at 35/sec for eflump
+2017-11-16 12:35:44 Friends  : 99.1% at 37/sec for ELPinchbeck
+2017-11-16 12:36:19 Friends  : 99.7% at 32/sec for energyoracle
+Error in twInterfaceObj$doAPICall(paste("users", "show", sep = "/"), params = params,  : 
+  Not Found (HTTP 404).
+2017-11-16 12:36:20 Friends: Unable to find account EnergyRA moving to next
+2017-11-16 12:36:20 Friends  : % at /sec for EnergyRA
+2017-11-16 12:36:26 Friends  : 96.3% at 37/sec for EXEDevelopment
+2017-11-16 12:36:41 Tweets   : 35.1% at 40/sec for dlrcc
+2017-11-16 12:36:48 Friends  : 100% at 31/sec for ExeterActive
+2017-11-16 12:36:56 Friends  : 97.8% at 36/sec for eZEDLtd
+2017-11-16 12:37:02 Tweets   : 100% at 31/sec for Eco_motive
+2017-11-16 12:37:18 Tweets   : 99.6% at 28/sec for econekt
+2017-11-16 12:37:24 Friends  : 99.3% at 34/sec for FableandCo
+2017-11-16 12:37:32 Friends  : 97.9% at 35/sec for fabricfirstins
+2017-11-16 12:37:51 Friends  : 99.1% at 33/sec for faeraemae
+2017-11-16 12:37:57 Friends  : 98.4% at 32/sec for fclauson
+2017-11-16 12:38:04 Friends  : 98.1% at 29/sec for frmarchitecture
+2017-11-16 12:38:04 Friends  : Waiting for 9.6 minutes
+2017-11-16 12:38:09 Tweets   : 99% at 36/sec for editrice
+2017-11-16 12:38:41 Tweets   : 100% at 33/sec for eflump
+2017-11-16 12:40:06 Tweets   : 47.8% at 37/sec for ELPinchbeck
+2017-11-16 12:40:37 Tweets   : 99.8% at 34/sec for energyoracle
+2017-11-16 12:40:48 Tweets   : 100% at 17/sec for EnergyRA
+2017-11-16 12:40:56 Tweets   : 100% at 4/sec for EXEDevelopment
+2017-11-16 12:41:09 Tweets   : 100% at 21/sec for ExeterActive
+2017-11-16 12:41:20 Tweets   : 100% at 15/sec for eZEDLtd
+2017-11-16 12:41:36 Favorites: 45.3% at 4/sec for editrice
+2017-11-16 12:41:37 Favorites: 98.8% at 53/sec for eflump
+2017-11-16 12:42:26 Favorites: 51.3% at 39/sec for ELPinchbeck
+2017-11-16 12:42:27 Favorites: 100% at 56/sec for energyoracle
+2017-11-16 12:42:30 Favorites: 100% at 26/sec for EnergyRA
+2017-11-16 12:42:31 Favorites: 100% at 37/sec for EXEDevelopment
+2017-11-16 12:42:32 Favorites: 100% at 37/sec for ExeterActive
+2017-11-16 12:42:32 Favorites: 100% at 51/sec for eZEDLtd
+2017-11-16 12:42:56 Tweets   : 34.8% at 33/sec for FableandCo
+2017-11-16 12:43:08 Tweets   : 100% at 4/sec for fabricfirstins
+2017-11-16 12:43:12 Favorites: 51.6% at 38/sec for FableandCo
+2017-11-16 12:43:13 Favorites: 100% at 41/sec for fabricfirstins
+2017-11-16 12:43:45 Favorites: 52.4% at 39/sec for faeraemae
+2017-11-16 12:44:02 Favorites: Waiting for 12 minutes due to : Used up allowance in a loop
+2017-11-16 12:44:25 Tweets   : 76.4% at 41/sec for faeraemae
+2017-11-16 12:45:42 Tweets   : 25.4% at 41/sec for fclauson
+2017-11-16 12:45:54 Tweets   : 100% at 17/sec for frmarchitecture
+2017-11-16 12:46:03 Tweets   : 100% at 21/sec for frmarchitecture
+2017-11-16 12:46:36 Tweets   : 99.5% at 39/sec for GeorgeKingArch
+2017-11-16 12:46:43 Tweets   : 100% at 1/sec for go_gba
+2017-11-16 12:46:56 Tweets   : 100% at 24/sec for grahamebirwin
+2017-11-16 12:47:43 Friends  : 98.1% at 0/sec for frmarchitecture
+2017-11-16 12:48:03 Friends  : 98% at 34/sec for GeorgeKingArch
+2017-11-16 12:48:07 Friends  : 100% at 25/sec for go_gba
+2017-11-16 12:48:09 Friends  : 98.1% at 40/sec for grahamebirwin
+2017-11-16 12:48:17 Tweets   : 6.8% at 39/sec for GreenAlty
+2017-11-16 12:48:35 Tweets   : 100% at 29/sec for GuibertArk
+2017-11-16 12:49:05 Tweets   : 99.9% at 35/sec for Guido_Schuler
+2017-11-16 12:50:33 Tweets   : 20.6% at 36/sec for HackneySociety
+2017-11-16 12:50:36 Friends  : 98.7% at 34/sec for GreenAlty
+2017-11-16 12:50:42 Tweets   : 100% at 13/sec for handelarch
+2017-11-16 12:50:53 Friends  : 95.5% at 35/sec for GuibertArk
+2017-11-16 12:51:00 Friends  : 99.5% at 30/sec for Guido_Schuler
+2017-11-16 12:51:15 Tweets   : 99.9% at 34/sec for Hansehausuk
+2017-11-16 12:51:19 Friends  : 99.2% at 34/sec for HackneySociety
+2017-11-16 12:51:22 Friends  : 100% at 25/sec for handelarch
+2017-11-16 12:51:30 Friends  : 100% at 34/sec for Hansehausuk
+2017-11-16 12:51:40 Tweets   : 100% at 31/sec for HCC_Architects
+2017-11-16 12:51:48 Tweets   : 100% at 10/sec for heathwalkeruk
+2017-11-16 12:52:03 Tweets   : 100% at 14/sec for HeatSpaceLight
+2017-11-16 12:52:12 Tweets   : 100% at 13/sec for holmes_jonRSM
+2017-11-16 12:52:15 Friends  : 99.1% at 35/sec for HCC_Architects
+2017-11-16 12:52:25 Friends  : 98.3% at 33/sec for heathwalkeruk
+2017-11-16 12:52:30 Friends  : 100% at 27/sec for HeatSpaceLight
+2017-11-16 12:52:34 Friends  : 92.2% at 25/sec for holmes_jonRSM
+2017-11-16 12:52:34 Friends  : Waiting for 10.1 minutes
+2017-11-16 12:53:25 Tweets   : 48.7% at 44/sec for HomeEnergyForum
+2017-11-16 12:54:08 Tweets   : 100.1% at 38/sec for IGPassivhaus
+2017-11-16 12:54:25 Tweets   : 100% at 27/sec for inaki_bdp
+2017-11-16 12:54:47 Tweets   : 100% at 32/sec for inigomf
+2017-11-16 12:55:27 Tweets   : 99.9% at 46/sec for IQGlassUK
+2017-11-16 12:55:40 Tweets   : 99.7% at 26/sec for jamesbarnfield
+2017-11-16 12:55:41 Tweets   : Waiting for 0.1 minutes
+2017-11-16 12:56:08 Tweets   : 100% at 28/sec for jeffersonsmithp
+2017-11-16 12:56:37 Favorites: 49.6% at 3/sec for fclauson
+2017-11-16 12:56:39 Favorites: 65.8% at 38/sec for frmarchitecture
+2017-11-16 12:56:41 Favorites: 65.8% at 67/sec for frmarchitecture
+2017-11-16 12:56:46 Favorites: 59.1% at 40/sec for GeorgeKingArch
+2017-11-16 12:56:46 Favorites: User go_gba has a protected account or no Favoritess to collect so skipping
+2017-11-16 12:56:46 Favorites: 100% at 28/sec for grahamebirwin
+2017-11-16 12:57:17 Tweets   : 69.4% at 47/sec for jetsongreen
+2017-11-16 12:57:41 Tweets   : 99.9% at 36/sec for jhai_ltd
+2017-11-16 12:58:00 Favorites: 37.4% at 43/sec for GreenAlty
+2017-11-16 12:58:02 Favorites: 100% at 9/sec for GuibertArk
+2017-11-16 12:58:09 Favorites: 58.4% at 40/sec for Guido_Schuler
+2017-11-16 12:58:48 Favorites: Waiting for 12.2 minutes due to : Used up allowance in a loop
+2017-11-16 13:11:23 Favorites: 49.9% at 3/sec for HackneySociety
+2017-11-16 13:11:25 Friends  : 100% at 15/sec for HomeEnergyForum
+2017-11-16 13:11:25 Favorites: 100% at 40/sec for handelarch
+2017-11-16 13:11:26 Friends  : 100% at 30/sec for IGPassivhaus
+2017-11-16 13:11:35 Favorites: 61% at 38/sec for Hansehausuk
+2017-11-16 13:11:40 Friends  : 95% at 37/sec for inaki_bdp
+2017-11-16 13:11:41 Friends  : 85.2% at 20/sec for inigomf
+2017-11-16 13:11:46 Favorites: 53.1% at 45/sec for HCC_Architects
+2017-11-16 13:11:47 Favorites: 96.9% at 41/sec for heathwalkeruk
+2017-11-16 13:11:47 Favorites: 100% at 8/sec for HeatSpaceLight
+2017-11-16 13:11:52 Favorites: 82.6% at 44/sec for holmes_jonRSM
+2017-11-16 13:11:55 Favorites: 98% at 33/sec for HomeEnergyForum
+2017-11-16 13:11:55 Favorites: 100% at 3/sec for IGPassivhaus
+2017-11-16 13:12:07 Friends  : 99.2% at 40/sec for IQGlassUK
+2017-11-16 13:12:24 Friends  : 98.7% at 37/sec for jamesbarnfield
+2017-11-16 13:12:40 Favorites: 50.1% at 41/sec for inaki_bdp
+2017-11-16 13:12:46 Friends  : 99% at 38/sec for jeffersonsmithp
+2017-11-16 13:13:02 Friends  : 100% at 37/sec for jetsongreen
+2017-11-16 13:13:12 Friends  : 99.2% at 37/sec for jhai_ltd
+2017-11-16 13:13:32 Favorites: 50% at 44/sec for inigomf
+2017-11-16 13:13:36 Favorites: 90% at 49/sec for IQGlassUK
+2017-11-16 13:13:39 Favorites: 51.8% at 38/sec for jamesbarnfield
+2017-11-16 13:13:47 Favorites: 57.7% at 49/sec for jeffersonsmithp
+2017-11-16 13:14:00 Favorites: Waiting for 12.1 minutes due to : Used up allowance in a loop
+2017-11-16 13:26:07 Favorites: 39.8% at 1/sec for jetsongreen
+2017-11-16 13:26:09 Favorites: 54.3% at 72/sec for jhai_ltd
+Warning messages:
+1: package 'twitteR' was built under R version 3.4.1 
+2: In twInterfaceObj$doAPICall(cmd, params, method, ...) :
+  Rate limit encountered & retry limit reached - returning partial results
+Warning messages:
+1: package 'twitteR' was built under R version 3.4.1 
+2: In twInterfaceObj$doAPICall(cmd, params, method, ...) :
+  Rate limit encountered & retry limit reached - returning partial results

@@ -1,0 +1,173 @@
+starting worker pid=13848 on localhost:11271 at 03:00:24.255
+starting worker pid=8740 on localhost:11271 at 03:00:24.404
+starting worker pid=2204 on localhost:11271 at 03:00:24.563
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-19 03:03:52 Friends  : 98.9% at 29/sec for CatSmithMP
+2017-11-19 03:04:17 Friends  : 99.2% at 42/sec for CAVC
+2017-11-19 03:04:26 Friends  : 100% at 38/sec for cazkins1
+2017-11-19 03:05:03 Favorites: 53.4% at 29/sec for CatSmithMP
+2017-11-19 03:05:23 Friends  : 99.9% at 38/sec for CCHQPress
+2017-11-19 03:05:38 Friends  : 95.4% at 35/sec for CentralBeds
+2017-11-19 03:05:55 Favorites: 50.4% at 25/sec for CAVC
+2017-11-19 03:06:14 Favorites: 55.6% at 31/sec for cazkins1
+2017-11-19 03:06:24 Favorites: Waiting for 2.4 minutes due to : Used up allowance in a loop
+2017-11-19 03:06:24 Friends  : 98.4% at 37/sec for CEOmacclesfield
+2017-11-19 03:06:47 Friends  : 98.5% at 38/sec for CEOMKCollege
+2017-11-19 03:06:57 Friends  : 97.7% at 43/sec for certauk
+2017-11-19 03:07:06 Friends  : 100% at 40/sec for CFPolicyForum
+2017-11-19 03:07:34 Friends  : 99.3% at 42/sec for cghgreen
+2017-11-19 03:07:45 Friends  : 98% at 41/sec for CGreenUK
+2017-11-19 03:08:40 Tweets   : 33.3% at 33/sec for CatSmithMP
+2017-11-19 03:08:51 Friends  : 99.9% at 41/sec for changemakers
+2017-11-19 03:09:09 Favorites: 46.5% at 5/sec for CCHQPress
+2017-11-19 03:09:24 Favorites: 54.3% at 35/sec for CentralBeds
+2017-11-19 03:09:28 Friends  : 99.5% at 36/sec for CharleineWain
+2017-11-19 03:09:48 Favorites: 53.9% at 33/sec for CEOmacclesfield
+2017-11-19 03:10:07 Tweets   : 43.7% at 37/sec for CAVC
+2017-11-19 03:10:13 Friends  : 99.1% at 37/sec for CharlieElphicke
+2017-11-19 03:10:54 Favorites: 50.9% at 31/sec for CEOMKCollege
+2017-11-19 03:10:58 Friends  : 99.1% at 38/sec for CharlotteLeslie
+2017-11-19 03:10:58 Friends  : Waiting for 6.6 minutes
+2017-11-19 03:11:05 Favorites: 61.7% at 27/sec for certauk
+2017-11-19 03:11:05 Favorites: User CFPolicyForum has a protected account or no Favoritess to collect so skipping
+2017-11-19 03:11:05 Favorites: 100% at 11/sec for cghgreen
+2017-11-19 03:11:13 Favorites: 49.7% at 39/sec for CGreenUK
+2017-11-19 03:11:24 Tweets   : 31.2% at 41/sec for cazkins1
+2017-11-19 03:12:07 Favorites: 50.8% at 35/sec for changemakers
+2017-11-19 03:12:31 Favorites: Waiting for 11.4 minutes due to : Used up allowance in a loop
+2017-11-19 03:12:33 Tweets   : 8.7% at 46/sec for CCHQPress
+2017-11-19 03:13:19 Tweets   : 100% at 49/sec for CentralBeds
+2017-11-19 03:14:00 Tweets   : 99.9% at 43/sec for CEOmacclesfield
+2017-11-19 03:15:14 Tweets   : 49.1% at 43/sec for CEOMKCollege
+2017-11-19 03:16:08 Tweets   : 99.9% at 42/sec for certauk
+2017-11-19 03:16:16 Tweets   : 98.5% at 18/sec for CFPolicyForum
+2017-11-19 03:17:22 Tweets   : 42.3% at 48/sec for cghgreen
+2017-11-19 03:18:08 Friends  : 98.6% at 2/sec for CHavergalTHE
+2017-11-19 03:18:10 Friends  : 91.3% at 49/sec for CheadleCollege
+2017-11-19 03:18:28 Friends  : 98.9% at 39/sec for chelmsfordcol
+2017-11-19 03:18:40 Tweets   : 40.6% at 41/sec for CGreenUK
+2017-11-19 03:18:59 Friends  : 98.9% at 40/sec for CherylGillan
+2017-11-19 03:19:31 Friends  : 99.3% at 37/sec for ChesterfieldAC
+2017-11-19 03:19:51 Tweets   : 13.2% at 44/sec for changemakers
+2017-11-19 03:20:18 Friends  : 99.9% at 41/sec for ChesterTories
+2017-11-19 03:20:24 Friends  : 100% at 23/sec for chhcalling
+2017-11-19 03:20:25 Friends  : 0.5% at 2/sec for Chi_College
+2017-11-19 03:20:28 Friends  : 100% at 44/sec for Chi_College_Int
+2017-11-19 03:20:49 Friends  : 99.6% at 34/sec for ChiOnwurah
+2017-11-19 03:21:09 Friends  : 99.9% at 40/sec for Chris_Henwood
+2017-11-19 03:21:12 Tweets   : 63.8% at 39/sec for CharleineWain
+2017-11-19 03:22:28 Tweets   : 42.6% at 42/sec for CharlieElphicke
+2017-11-19 03:22:34 Friends  : 98.7% at 38/sec for Chris_White_67
+2017-11-19 03:22:51 Friends  : 99% at 37/sec for ChrisLawSNP
+2017-11-19 03:23:08 Friends  : 97.9% at 39/sec for ChrisLeslieMP
+2017-11-19 03:23:34 Friends  : 99.8% at 34/sec for ChrisM4Chester
+2017-11-19 03:23:34 Friends  : Waiting for 9.3 minutes
+2017-11-19 03:23:47 Tweets   : 33.6% at 41/sec for CharlotteLeslie
+2017-11-19 03:25:07 Tweets   : 16.9% at 40/sec for CHavergalTHE
+2017-11-19 03:25:10 Favorites: 27% at 4/sec for CharleineWain
+2017-11-19 03:25:34 Favorites: 52.6% at 36/sec for CharlieElphicke
+2017-11-19 03:25:45 Tweets   : 100% at 43/sec for CheadleCollege
+2017-11-19 03:25:47 Favorites: 49.3% at 39/sec for CharlotteLeslie
+2017-11-19 03:25:51 Favorites: 95.2% at 25/sec for CHavergalTHE
+2017-11-19 03:26:04 Favorites: 60% at 40/sec for CheadleCollege
+2017-11-19 03:26:15 Favorites: 60.3% at 33/sec for chelmsfordcol
+2017-11-19 03:26:28 Favorites: 52.8% at 37/sec for CherylGillan
+2017-11-19 03:26:48 Favorites: 50% at 34/sec for ChesterfieldAC
+2017-11-19 03:26:49 Favorites: 100% at 31/sec for ChesterTories
+2017-11-19 03:26:49 Favorites: 100% at 3/sec for chhcalling
+2017-11-19 03:26:51 Tweets   : 76.8% at 48/sec for chelmsfordcol
+2017-11-19 03:27:11 Favorites: 53.9% at 36/sec for Chi_College
+2017-11-19 03:27:12 Favorites: 92.5% at 45/sec for Chi_College_Int
+2017-11-19 03:27:24 Favorites: Waiting for 11.8 minutes due to : Used up allowance in a loop
+2017-11-19 03:28:03 Tweets   : 44% at 44/sec for CherylGillan
+2017-11-19 03:29:08 Tweets   : 63.5% at 49/sec for ChesterfieldAC
+2017-11-19 03:30:18 Tweets   : 38.8% at 45/sec for ChesterTories
+2017-11-19 03:31:22 Tweets   : 42.1% at 50/sec for chhcalling
+2017-11-19 03:32:31 Tweets   : 99% at 43/sec for Chi_College
+2017-11-19 03:32:55 Tweets   : 100% at 41/sec for Chi_College_Int
+2017-11-19 03:33:17 Friends  : 98.9% at 1/sec for ChrisPincher
+2017-11-19 03:34:11 Tweets   : 14.3% at 42/sec for ChiOnwurah
+2017-11-19 03:34:44 Tweets   : 99.9% at 39/sec for Chris_Henwood
+2017-11-19 03:34:44 Friends  : 99.3% at 38/sec for christopherhope
+2017-11-19 03:34:51 Friends  : 99.2% at 34/sec for cirencoll
+2017-11-19 03:35:12 Friends  : 98.3% at 35/sec for CityCollegeCov
+2017-11-19 03:35:46 Friends  : 97.5% at 36/sec for citylit
+2017-11-19 03:35:59 Tweets   : 69.6% at 42/sec for Chris_White_67
+2017-11-19 03:36:11 Friends  : 99.3% at 36/sec for CitynIslington
+2017-11-19 03:36:13 Friends  : 100% at 51/sec for citywestcollege
+2017-11-19 03:36:36 Friends  : 98.7% at 34/sec for cj_dinenage
+2017-11-19 03:36:43 Friends  : 98.7% at 31/sec for cjk100
+2017-11-19 03:37:15 Friends  : 99.3% at 34/sec for ClaireFood4two
+2017-11-19 03:37:19 Tweets   : 45.9% at 40/sec for ChrisLawSNP
+2017-11-19 03:38:20 Friends  : 99.1% at 37/sec for CliveEfford
+2017-11-19 03:38:24 Tweets   : 99.7% at 39/sec for ChrisLeslieMP
+2017-11-19 03:38:25 Friends  : 98.9% at 19/sec for clivehollick
+2017-11-19 03:38:55 Tweets   : 98.9% at 39/sec for ChrisM4Chester
+2017-11-19 03:40:07 Friends  : 99.8% at 33/sec for CoachCCroydon
+2017-11-19 03:40:17 Tweets   : 33.4% at 39/sec for ChrisPincher
+2017-11-19 03:40:38 Friends  : 99.4% at 38/sec for coachinception
+2017-11-19 03:40:49 Favorites: 49.9% at 4/sec for ChiOnwurah
+2017-11-19 03:40:50 Favorites: 100% at 54/sec for Chris_Henwood
+2017-11-19 03:40:51 Favorites: 98% at 49/sec for Chris_White_67
+2017-11-19 03:40:57 Friends  : 99.6% at 39/sec for ColchesterInst
+2017-11-19 03:40:57 Friends  : Waiting for 7.2 minutes
+2017-11-19 03:41:33 Tweets   : 13.7% at 42/sec for christopherhope
+2017-11-19 03:42:23 Favorites: 47% at 35/sec for ChrisLawSNP
+2017-11-19 03:42:24 Favorites: 100% at 19/sec for ChrisLeslieMP
+2017-11-19 03:42:34 Favorites: 61.9% at 29/sec for ChrisM4Chester
+2017-11-19 03:42:40 Tweets   : 65.4% at 47/sec for cirencoll
+2017-11-19 03:42:41 Favorites: 49.9% at 41/sec for ChrisPincher
+2017-11-19 03:43:12 Favorites: 51.6% at 38/sec for christopherhope
+2017-11-19 03:43:18 Favorites: 57.8% at 34/sec for cirencoll
+2017-11-19 03:43:22 Favorites: 50.3% at 22/sec for CityCollegeCov
+2017-11-19 03:43:48 Tweets   : 85.9% at 47/sec for CityCollegeCov
+2017-11-19 03:43:55 Favorites: 50.5% at 37/sec for citylit
+2017-11-19 03:44:05 Favorites: 60.5% at 30/sec for CitynIslington
+2017-11-19 03:44:06 Favorites: 96% at 61/sec for citywestcollege
+2017-11-19 03:44:49 Favorites: 51.5% at 34/sec for cj_dinenage
+2017-11-19 03:44:56 Favorites: 58.8% at 32/sec for cjk100
+2017-11-19 03:45:02 Favorites: 77.7% at 33/sec for ClaireFood4two
+2017-11-19 03:45:02 Tweets   : 53.9% at 43/sec for citylit
+2017-11-19 03:45:03 Favorites: 100% at 42/sec for CliveEfford
+2017-11-19 03:45:03 Favorites: Waiting for 11.6 minutes due to : Used up allowance in a loop
+2017-11-19 03:46:10 Tweets   : 46.3% at 47/sec for CitynIslington
+2017-11-19 03:46:50 Tweets   : 99.1% at 46/sec for citywestcollege
+2017-11-19 03:48:03 Tweets   : 39.2% at 44/sec for cj_dinenage
+2017-11-19 03:48:21 Tweets   : 99.8% at 34/sec for cjk100
+2017-11-19 03:48:50 Friends  : 96.7% at 3/sec for COLCollege
+2017-11-19 03:49:02 Tweets   : 99.8% at 44/sec for ClaireFood4two
+2017-11-19 03:49:19 Friends  : 99.8% at 39/sec for colegcambria
+2017-11-19 03:50:09 Friends  : 99.2% at 40/sec for coleggwent
+2017-11-19 03:50:11 Friends  : 100% at 22/sec for ColegGwent_ILT
+2017-11-19 03:50:16 Tweets   : 88.1% at 43/sec for CliveEfford
+2017-11-19 03:50:17 Friends  : 99.2% at 21/sec for colegllandrillo
+2017-11-19 03:50:32 Tweets   : 100% at 33/sec for clivehollick
+2017-11-19 03:51:03 Tweets   : 99.8% at 39/sec for CoachCCroydon
+2017-11-19 03:51:58 Tweets   : 99.8% at 43/sec for coachinception
+2017-11-19 03:53:09 Tweets   : 59.5% at 45/sec for ColchesterInst
+2017-11-19 03:54:21 Tweets   : 28.2% at 43/sec for COLCollege
+2017-11-19 03:55:41 Tweets   : 20.9% at 40/sec for colegcambria
+Error in twInterfaceObj$doAPICall(cmd, params, method, ...) : 
+  Service Unavailable (HTTP 503).
+In addition: Warning message:
+package 'twitteR' was built under R version 3.4.1 
+2017-11-19 03:56:01 Tweets: Unable to find account coleggwent moving to next
+2017-11-19 03:56:01 Tweets   : % at /sec for coleggwent
+2017-11-19 03:56:14 Tweets   : 100% at 26/sec for ColegGwent_ILT
+2017-11-19 03:56:55 Favorites: 100% at 0/sec for clivehollick
+2017-11-19 03:57:01 Favorites: 56.2% at 19/sec for CoachCCroydon
+2017-11-19 03:57:21 Favorites: 52% at 33/sec for coachinception
+2017-11-19 03:57:36 Tweets   : 72.4% at 39/sec for colegllandrillo
+2017-11-19 03:57:40 Favorites: 52.2% at 32/sec for ColchesterInst
+2017-11-19 03:59:13 Favorites: 43.5% at 33/sec for COLCollege
+2017-11-19 04:00:02 Favorites: 51.8% at 38/sec for colegcambria
+2017-11-19 04:00:25 Favorites: Waiting for 11.5 minutes due to : Used up allowance in a loop
+2017-11-19 04:12:27 Favorites: 49.9% at 2/sec for coleggwent
+2017-11-19 04:12:27 Favorites: User ColegGwent_ILT has a protected account or no Favoritess to collect so skipping
+2017-11-19 04:12:29 Favorites: 49.5% at 58/sec for colegllandrillo
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+Warning message:
+package 'twitteR' was built under R version 3.4.1 

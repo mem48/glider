@@ -1,0 +1,162 @@
+starting worker pid=14036 on localhost:11271 at 15:44:31.141
+starting worker pid=7356 on localhost:11271 at 15:44:31.306
+starting worker pid=12132 on localhost:11271 at 15:44:31.469
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-17 15:46:56 Friends  : 99.6% at 35/sec for JC2703
+2017-11-17 15:47:05 Friends  : 100% at 36/sec for Jessicak_weaver
+2017-11-17 15:47:11 Friends  : 97.7% at 37/sec for jgorte
+2017-11-17 15:47:19 Friends  : 99.5% at 46/sec for johnfschulz
+2017-11-17 15:47:36 Friends  : 99.2% at 40/sec for juanfefr
+2017-11-17 15:47:46 Friends  : 98.5% at 37/sec for KimiYoshimura
+2017-11-17 15:47:54 Friends  : 96.1% at 39/sec for kurdishhouselon
+2017-11-17 15:47:57 Favorites: 47.8% at 32/sec for JC2703
+2017-11-17 15:48:00 Favorites: 49.7% at 31/sec for Jessicak_weaver
+2017-11-17 15:48:01 Favorites: 100% at 24/sec for jgorte
+2017-11-17 15:48:02 Favorites: 90% at 21/sec for johnfschulz
+2017-11-17 15:48:19 Favorites: 52.3% at 40/sec for juanfefr
+2017-11-17 15:48:20 Friends  : 99.8% at 34/sec for LboroSBE
+2017-11-17 15:48:20 Favorites: 60.2% at 74/sec for KimiYoshimura
+2017-11-17 15:48:25 Favorites: 68.6% at 39/sec for kurdishhouselon
+2017-11-17 15:48:48 Favorites: 51.7% at 40/sec for LboroSBE
+2017-11-17 15:48:53 Favorites: 76.2% at 40/sec for LeedsChamber
+2017-11-17 15:48:54 Favorites: 79.4% at 61/sec for LexisUK_Enviro
+2017-11-17 15:48:58 Friends  : 96.2% at 44/sec for LeedsChamber
+2017-11-17 15:49:04 Favorites: 50.4% at 41/sec for LibelulaPeru
+2017-11-17 15:49:05 Favorites: 61.7% at 70/sec for lieslh
+2017-11-17 15:49:09 Favorites: 59.1% at 29/sec for localgrowthhub
+2017-11-17 15:49:09 Friends  : 99.1% at 39/sec for LexisUK_Enviro
+2017-11-17 15:49:12 Favorites: Waiting for 6 minutes due to : Used up allowance in a loop
+2017-11-17 15:50:00 Tweets   : 94.7% at 44/sec for JC2703
+2017-11-17 15:50:30 Tweets   : 99.5% at 42/sec for Jessicak_weaver
+2017-11-17 15:50:38 Friends  : 99.2% at 40/sec for LibelulaPeru
+2017-11-17 15:51:02 Friends  : 98.4% at 43/sec for lieslh
+2017-11-17 15:51:35 Tweets   : 89% at 50/sec for jgorte
+2017-11-17 15:51:55 Tweets   : 99.9% at 34/sec for johnfschulz
+2017-11-17 15:52:00 Friends  : 97.6% at 39/sec for localgrowthhub
+2017-11-17 15:52:19 Friends  : 99.8% at 46/sec for LontraUK
+2017-11-17 15:52:39 Friends  : 99.4% at 39/sec for LowCarbonEnCo
+Error in twInterfaceObj$doAPICall(paste("users", "show", sep = "/"), params = params,  : 
+  Not Found (HTTP 404).
+In addition: Warning message:
+package 'twitteR' was built under R version 3.4.1 
+2017-11-17 15:52:40 Friends: Unable to find account LowCarbonStaffs moving to next
+2017-11-17 15:52:40 Friends  : % at /sec for LowCarbonStaffs
+2017-11-17 15:53:07 Tweets   : 34.1% at 44/sec for juanfefr
+2017-11-17 15:53:20 Friends  : 90.3% at 44/sec for LowEnergyLED
+2017-11-17 15:53:21 Friends  : 100% at 29/sec for lumenata_light
+2017-11-17 15:53:37 Friends  : 98.1% at 45/sec for makinggoodbiz
+2017-11-17 15:53:42 Tweets   : 100% at 37/sec for KimiYoshimura
+2017-11-17 15:53:50 Friends  : 98.7% at 41/sec for Markiewhitehead
+2017-11-17 15:54:05 Tweets   : 99.9% at 34/sec for kurdishhouselon
+2017-11-17 15:55:16 Tweets   : 60.5% at 45/sec for LboroSBE
+2017-11-17 15:55:16 Favorites: 66.4% at 1/sec for LontraUK
+2017-11-17 15:55:21 Favorites: 82.9% at 40/sec for LowCarbonEnCo
+2017-11-17 15:55:22 Favorites: 100% at 25/sec for LowCarbonStaffs
+2017-11-17 15:55:23 Favorites: 96.7% at 48/sec for LowEnergyLED
+2017-11-17 15:56:00 Friends  : 98.6% at 39/sec for marksandspencer
+2017-11-17 15:56:11 Friends  : 97.9% at 35/sec for MazCavada
+2017-11-17 15:56:17 Friends  : 98.6% at 25/sec for McCarthyMyles
+2017-11-17 15:56:23 Tweets   : 49.9% at 48/sec for LeedsChamber
+2017-11-17 15:56:36 Favorites: 17.2% at 42/sec for lumenata_light
+2017-11-17 15:56:41 Favorites: 65.6% at 38/sec for makinggoodbiz
+2017-11-17 15:56:44 Friends  : 97% at 43/sec for Meat_Free_Day
+2017-11-17 15:56:44 Friends  : Waiting for 7.3 minutes
+2017-11-17 15:56:57 Favorites: 52.4% at 44/sec for Markiewhitehead
+2017-11-17 15:57:14 Tweets   : 100% at 44/sec for LexisUK_Enviro
+2017-11-17 15:57:41 Favorites: 50.3% at 46/sec for marksandspencer
+2017-11-17 15:57:50 Favorites: 51.3% at 35/sec for MazCavada
+2017-11-17 15:57:50 Favorites: 100% at 6/sec for McCarthyMyles
+2017-11-17 15:57:57 Favorites: Waiting for 12.3 minutes due to : Used up allowance in a loop
+2017-11-17 15:58:21 Tweets   : 36.5% at 47/sec for LibelulaPeru
+2017-11-17 15:58:45 Tweets   : 99.9% at 39/sec for lieslh
+2017-11-17 15:59:56 Tweets   : 87.2% at 45/sec for localgrowthhub
+2017-11-17 16:00:13 Tweets   : 99.8% at 29/sec for LontraUK
+2017-11-17 16:01:12 Tweets   : 99.5% at 45/sec for LowCarbonEnCo
+2017-11-17 16:01:29 Tweets   : 100% at 31/sec for LowCarbonStaffs
+2017-11-17 16:01:42 Tweets   : 100% at 24/sec for LowEnergyLED
+2017-11-17 16:01:55 Tweets   : 100% at 22/sec for lumenata_light
+2017-11-17 16:02:16 Tweets   : 100% at 32/sec for makinggoodbiz
+2017-11-17 16:02:46 Tweets   : 99.9% at 39/sec for Markiewhitehead
+2017-11-17 16:03:54 Tweets   : 0.9% at 47/sec for marksandspencer
+2017-11-17 16:04:09 Friends  : 100% at 0/sec for MicolSalmeri
+2017-11-17 16:04:26 Tweets   : 99.9% at 33/sec for MazCavada
+2017-11-17 16:04:27 Friends  : 99.8% at 36/sec for MikeKrancer
+2017-11-17 16:04:35 Tweets   : 100% at 18/sec for McCarthyMyles
+2017-11-17 16:05:19 Tweets   : 99.1% at 45/sec for Meat_Free_Day
+2017-11-17 16:05:28 Tweets   : 100% at 7/sec for MicolSalmeri
+2017-11-17 16:06:15 Friends  : 99.2% at 38/sec for mktambiental
+2017-11-17 16:06:37 Tweets   : 88.1% at 47/sec for MikeKrancer
+2017-11-17 16:07:07 Friends  : 95.3% at 33/sec for mygreenpod
+2017-11-17 16:07:17 Friends  : 99.7% at 31/sec for n1dunne
+2017-11-17 16:07:19 Friends  : 93.8% at 32/sec for NewFound_Energy
+2017-11-17 16:07:51 Tweets   : 33% at 43/sec for mktambiental
+2017-11-17 16:08:23 Friends  : 98.2% at 33/sec for NFRN_Online
+2017-11-17 16:08:59 Tweets   : 30.6% at 47/sec for mygreenpod
+2017-11-17 16:09:59 Friends  : 99.8% at 33/sec for nibusinessinfo
+2017-11-17 16:10:15 Tweets   : 31.9% at 42/sec for n1dunne
+2017-11-17 16:10:25 Friends  : 98.7% at 37/sec for NinaSkorupska
+2017-11-17 16:10:31 Favorites: 51.4% at 1/sec for Meat_Free_Day
+2017-11-17 16:10:32 Favorites: 100% at 31/sec for MicolSalmeri
+2017-11-17 16:10:33 Favorites: 100% at 41/sec for MikeKrancer
+2017-11-17 16:10:34 Tweets   : 100% at 29/sec for NewFound_Energy
+2017-11-17 16:10:43 Friends  : 99.9% at 44/sec for Northern_ltd
+2017-11-17 16:10:52 Friends  : 97.9% at 31/sec for Notinaboyband
+2017-11-17 16:11:48 Favorites: 51.3% at 40/sec for mktambiental
+2017-11-17 16:11:57 Tweets   : 47.2% at 39/sec for NFRN_Online
+2017-11-17 16:12:01 Favorites: 57.5% at 39/sec for mygreenpod
+2017-11-17 16:12:36 Favorites: 50.8% at 34/sec for n1dunne
+2017-11-17 16:12:37 Favorites: 100% at 46/sec for NewFound_Energy
+2017-11-17 16:12:39 Friends  : 98.5% at 36/sec for OliverWagg
+2017-11-17 16:12:51 Friends  : 98.2% at 36/sec for oorjasolutions
+2017-11-17 16:12:51 Favorites: 53.3% at 42/sec for NFRN_Online
+2017-11-17 16:12:57 Friends  : 97.1% at 32/sec for pauljgrennie
+2017-11-17 16:13:03 Favorites: 50.3% at 39/sec for nibusinessinfo
+2017-11-17 16:13:20 Tweets   : 16.6% at 38/sec for nibusinessinfo
+2017-11-17 16:13:21 Favorites: Waiting for 11.9 minutes due to : Used up allowance in a loop
+2017-11-17 16:14:22 Friends  : 98.7% at 35/sec for perpetualv2g
+2017-11-17 16:14:22 Friends  : Waiting for 4.8 minutes
+2017-11-17 16:14:50 Tweets   : 69.9% at 36/sec for NinaSkorupska
+2017-11-17 16:15:05 Tweets   : 100% at 14/sec for Northern_ltd
+2017-11-17 16:16:11 Tweets   : 4.7% at 49/sec for Notinaboyband
+2017-11-17 16:17:08 Tweets   : 99.8% at 43/sec for OliverWagg
+2017-11-17 16:17:33 Tweets   : 100% at 35/sec for oorjasolutions
+2017-11-17 16:17:53 Tweets   : 100% at 38/sec for pauljgrennie
+2017-11-17 16:18:33 Tweets   : 99.7% at 44/sec for perpetualv2g
+2017-11-17 16:18:43 Tweets   : 100% at 20/sec for PhilDHauser
+2017-11-17 16:19:17 Friends  : 98.4% at 1/sec for PhilDHauser
+2017-11-17 16:19:57 Tweets   : 95.9% at 43/sec for PoppyLeeder
+2017-11-17 16:20:27 Friends  : 98.1% at 35/sec for PoppyLeeder
+2017-11-17 16:20:27 Tweets   : 99.7% at 36/sec for powerPerfector
+2017-11-17 16:21:47 Tweets   : 67.3% at 40/sec for ProduceBizUK
+2017-11-17 16:22:13 Friends  : 99.8% at 32/sec for powerPerfector
+2017-11-17 16:22:21 Tweets   : 100% at 35/sec for PublicSectorCo
+2017-11-17 16:22:50 Friends  : 99.8% at 31/sec for ProduceBizUK
+2017-11-17 16:23:45 Tweets   : 48% at 38/sec for PymesConuee
+2017-11-17 16:24:22 Friends  : 99% at 30/sec for PublicSectorCo
+2017-11-17 16:25:11 Tweets   : 17.7% at 37/sec for rechargenews
+2017-11-17 16:25:11 Friends  : 97% at 29/sec for PymesConuee
+2017-11-17 16:25:27 Friends  : 99.7% at 23/sec for rechargenews
+2017-11-17 16:25:55 Favorites: 51.3% at 3/sec for NinaSkorupska
+2017-11-17 16:25:56 Friends  : 100% at 35/sec for RecyclerMedia
+2017-11-17 16:25:57 Favorites: 100% at 44/sec for Northern_ltd
+2017-11-17 16:26:43 Tweets   : 24% at 34/sec for RecyclerMedia
+2017-11-17 16:27:18 Favorites: 4.8% at 37/sec for Notinaboyband
+2017-11-17 16:27:28 Favorites: 54.3% at 38/sec for OliverWagg
+2017-11-17 16:27:45 Favorites: 56.9% at 41/sec for oorjasolutions
+2017-11-17 16:27:47 Favorites: 52.9% at 58/sec for pauljgrennie
+2017-11-17 16:28:16 Favorites: 52.1% at 40/sec for perpetualv2g
+2017-11-17 16:28:18 Favorites: 90.1% at 52/sec for PhilDHauser
+2017-11-17 16:28:24 Favorites: Waiting for 11.9 minutes due to : Used up allowance in a loop
+2017-11-17 16:41:23 Favorites: 49.4% at 3/sec for PoppyLeeder
+2017-11-17 16:41:24 Favorites: 97.8% at 51/sec for powerPerfector
+2017-11-17 16:41:26 Favorites: 50% at 68/sec for ProduceBizUK
+2017-11-17 16:41:29 Favorites: 63.7% at 30/sec for PublicSectorCo
+2017-11-17 16:42:21 Favorites: 49.8% at 40/sec for PymesConuee
+2017-11-17 16:42:22 Favorites: 100% at 43/sec for rechargenews
+2017-11-17 16:42:23 Favorites: 100% at 8/sec for RecyclerMedia
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+Warning message:
+package 'twitteR' was built under R version 3.4.1 

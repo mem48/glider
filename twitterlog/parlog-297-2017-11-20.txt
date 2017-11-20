@@ -1,0 +1,166 @@
+starting worker pid=11220 on localhost:11271 at 10:06:29.503
+starting worker pid=14316 on localhost:11271 at 10:06:29.722
+starting worker pid=2772 on localhost:11271 at 10:06:29.945
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-20 10:11:21 Friends  : 89.3% at 22/sec for Jonathon_Hallam
+2017-11-20 10:12:22 Friends  : 99.6% at 32/sec for JSeedCo
+2017-11-20 10:12:24 Friends  : 100% at 38/sec for juliemspinks
+2017-11-20 10:15:36 Friends  : 98.8% at 29/sec for JustThermostats
+2017-11-20 10:15:42 Favorites: 39.2% at 22/sec for Jonathon_Hallam
+2017-11-20 10:15:44 Favorites: 82.5% at 52/sec for JSeedCo
+2017-11-20 10:15:45 Favorites: 77.8% at 15/sec for juliemspinks
+2017-11-20 10:15:53 Favorites: 73.4% at 23/sec for JustThermostats
+2017-11-20 10:16:29 Favorites: 54% at 24/sec for KamcoPF
+2017-11-20 10:16:31 Favorites: 54.7% at 53/sec for KanePlumbing1
+2017-11-20 10:16:41 Favorites: 64.5% at 29/sec for KDNavienuk
+2017-11-20 10:16:45 Friends  : 94.1% at 33/sec for KamcoPF
+2017-11-20 10:17:23 Friends  : 98.1% at 32/sec for KanePlumbing1
+2017-11-20 10:17:42 Favorites: 48.9% at 22/sec for KemetFM
+2017-11-20 10:17:43 Favorites: 100% at 29/sec for KershawEnergy
+2017-11-20 10:17:44 Favorites: 100% at 41/sec for KershawMandE
+2017-11-20 10:17:47 Favorites: 47.1% at 54/sec for KinradeAshley
+2017-11-20 10:18:05 Favorites: 54.9% at 22/sec for KohlerUK
+2017-11-20 10:18:17 Favorites: Waiting for 10.1 minutes due to : Used up allowance in a loop
+2017-11-20 10:18:32 Friends  : 94.1% at 30/sec for KDNavienuk
+2017-11-20 10:18:37 Tweets   : 99.8% at 23/sec for Jonathon_Hallam
+2017-11-20 10:18:55 Friends  : 99.9% at 34/sec for KemetFM
+2017-11-20 10:19:23 Tweets   : 99.8% at 35/sec for JSeedCo
+2017-11-20 10:19:30 Tweets   : 98.5% at 10/sec for juliemspinks
+2017-11-20 10:19:31 Friends  : 100% at 33/sec for KershawEnergy
+2017-11-20 10:20:03 Friends  : 99.9% at 32/sec for KershawMandE
+2017-11-20 10:20:38 Friends  : 97.5% at 32/sec for KinradeAshley
+2017-11-20 10:20:52 Tweets   : 39.7% at 39/sec for JustThermostats
+2017-11-20 10:21:54 Tweets   : 99.3% at 27/sec for KamcoPF
+2017-11-20 10:22:01 Friends  : 99.8% at 32/sec for KohlerUK
+2017-11-20 10:22:09 Tweets   : 100% at 22/sec for KanePlumbing1
+2017-11-20 10:22:17 Friends  : 97.7% at 35/sec for krahman
+2017-11-20 10:22:17 Friends  : User KReBath has a protected account or no Friendss to collect so skipping
+2017-11-20 10:22:30 Tweets   : 99.5% at 31/sec for KDNavienuk
+2017-11-20 10:22:36 Friends  : 100% at 26/sec for KTPlumbing
+2017-11-20 10:22:36 Friends  : Waiting for 2.4 minutes
+2017-11-20 10:23:49 Tweets   : 13.7% at 40/sec for KemetFM
+2017-11-20 10:23:57 Tweets   : 100% at 20/sec for KershawEnergy
+2017-11-20 10:24:09 Tweets   : 100% at 12/sec for KershawMandE
+2017-11-20 10:24:17 Tweets   : 98.7% at 19/sec for KinradeAshley
+2017-11-20 10:25:38 Tweets   : 87.9% at 39/sec for KohlerUK
+2017-11-20 10:27:02 Tweets   : 8.9% at 38/sec for krahman
+2017-11-20 10:27:02 Tweets   : User KReBath has a protected account or no Tweetss to collect so skipping
+2017-11-20 10:27:08 Tweets   : 100% at 3/sec for KTPlumbing
+2017-11-20 10:27:18 Friends  : 99.6% at 16/sec for LakesBathrooms
+2017-11-20 10:27:32 Friends  : 90.4% at 30/sec for langley_heating
+2017-11-20 10:27:42 Friends  : 100% at 26/sec for LeisureSinks
+2017-11-20 10:28:17 Friends  : 98.6% at 32/sec for LGUK_B2B
+2017-11-20 10:28:20 Friends  : 100% at 33/sec for LlandrilloMenai
+2017-11-20 10:28:23 Friends  : 100% at 36/sec for LondonHeating
+Error in twInterfaceObj$doAPICall(paste("users", "show", sep = "/"), params = params,  : 
+  Not Found (HTTP 404).
+In addition: Warning message:
+package 'twitteR' was built under R version 3.4.1 
+2017-11-20 10:28:24 Friends: Unable to find account LtdDsb moving to next
+2017-11-20 10:28:24 Friends  : % at /sec for LtdDsb
+2017-11-20 10:28:29 Tweets   : 63.9% at 39/sec for LakesBathrooms
+2017-11-20 10:28:33 Favorites: 51.7% at 1/sec for krahman
+2017-11-20 10:28:33 Favorites: User KReBath has a protected account or no Favoritess to collect so skipping
+2017-11-20 10:28:33 Favorites: User KTPlumbing has a protected account or no Favoritess to collect so skipping
+2017-11-20 10:28:43 Favorites: 51.9% at 31/sec for LakesBathrooms
+2017-11-20 10:29:32 Friends  : 99.9% at 28/sec for LW_Heating
+2017-11-20 10:29:36 Friends  : 93.9% at 35/sec for lwlheating
+2017-11-20 10:30:01 Tweets   : 83.4% at 35/sec for langley_heating
+2017-11-20 10:30:13 Friends  : 100% at 29/sec for Main_NorthEast
+2017-11-20 10:30:23 Friends  : 97.9% at 20/sec for mastergasheat
+2017-11-20 10:30:26 Tweets   : 100% at 24/sec for LeisureSinks
+2017-11-20 10:30:38 Favorites: 50.2% at 28/sec for langley_heating
+2017-11-20 10:30:38 Favorites: 100% at 5/sec for LeisureSinks
+2017-11-20 10:30:59 Favorites: 51.4% at 29/sec for LGUK_B2B
+2017-11-20 10:31:05 Favorites: 100% at 11/sec for LlandrilloMenai
+2017-11-20 10:31:05 Favorites: 97.2% at 42/sec for LondonHeating
+2017-11-20 10:31:08 Favorites: 89.3% at 45/sec for LtdDsb
+2017-11-20 10:31:08 Favorites: 100% at 21/sec for LW_Heating
+2017-11-20 10:31:09 Favorites: 100% at 30/sec for lwlheating
+2017-11-20 10:31:15 Favorites: 100% at 7/sec for Main_NorthEast
+2017-11-20 10:31:16 Friends  : 99.7% at 30/sec for Matrix_Energy
+2017-11-20 10:31:16 Favorites: 100% at 34/sec for mastergasheat
+2017-11-20 10:31:17 Favorites: 100% at 32/sec for Matrix_Energy
+2017-11-20 10:31:17 Favorites: 100% at 28/sec for MatsonsPlumbing
+2017-11-20 10:31:18 Favorites: 94.5% at 44/sec for mattbeales81
+2017-11-20 10:31:19 Favorites: 100% at 21/sec for mattcgli
+2017-11-20 10:31:26 Friends  : 100% at 24/sec for MatsonsPlumbing
+2017-11-20 10:31:37 Friends  : 97.3% at 22/sec for mattbeales81
+2017-11-20 10:31:42 Friends  : 100% at 42/sec for mattcgli
+2017-11-20 10:31:52 Tweets   : 81.3% at 37/sec for LGUK_B2B
+2017-11-20 10:32:03 Friends  : 99.5% at 27/sec for MatthewLollar
+2017-11-20 10:32:03 Friends  : Waiting for 8 minutes
+2017-11-20 10:32:29 Favorites: Waiting for 10.9 minutes due to : Used up allowance in a loop
+2017-11-20 10:32:55 Tweets   : 99.7% at 34/sec for LlandrilloMenai
+2017-11-20 10:33:04 Tweets   : 100% at 25/sec for LondonHeating
+2017-11-20 10:33:14 Tweets   : 100% at 8/sec for LtdDsb
+2017-11-20 10:33:24 Tweets   : 100% at 28/sec for LW_Heating
+2017-11-20 10:33:45 Tweets   : 100% at 25/sec for lwlheating
+2017-11-20 10:34:01 Tweets   : 99.8% at 29/sec for Main_NorthEast
+2017-11-20 10:34:14 Tweets   : 100% at 14/sec for mastergasheat
+2017-11-20 10:34:24 Tweets   : 100% at 33/sec for Matrix_Energy
+2017-11-20 10:34:30 Tweets   : 100% at 7/sec for MatsonsPlumbing
+2017-11-20 10:34:42 Tweets   : 100% at 8/sec for mattbeales81
+2017-11-20 10:34:50 Tweets   : 100% at 23/sec for mattcgli
+2017-11-20 10:36:11 Tweets   : 30.1% at 40/sec for MatthewLollar
+2017-11-20 10:36:26 Tweets   : 99.4% at 24/sec for mayfairconltd
+2017-11-20 10:36:33 Tweets   : 100% at 18/sec for MB_Plumbing
+2017-11-20 10:37:05 Tweets   : 99.7% at 29/sec for MeridianHeating
+2017-11-20 10:37:05 Tweets   : User MerseyHeating has a protected account or no Tweetss to collect so skipping
+2017-11-20 10:37:15 Tweets   : 100% at 23/sec for MetexOnline
+2017-11-20 10:37:48 Tweets   : 100% at 30/sec for MetroRod_WEssex
+2017-11-20 10:38:28 Tweets   : 100% at 36/sec for MEUKAutomation
+2017-11-20 10:38:28 Tweets   : User MFB_PLUMBING has a protected account or no Tweetss to collect so skipping
+2017-11-20 10:38:40 Tweets   : 100% at 14/sec for mickmvm
+2017-11-20 10:38:40 Tweets   : User Microlight_Fly has a protected account or no Tweetss to collect so skipping
+2017-11-20 10:38:48 Tweets   : 100% at 19/sec for midlandgas
+2017-11-20 10:39:05 Tweets   : 99.8% at 26/sec for MikeWard25
+2017-11-20 10:39:11 Tweets   : 100% at 11/sec for Millerinstalls
+2017-11-20 10:39:24 Tweets   : 98.3% at 13/sec for millsideheating
+2017-11-20 10:39:31 Tweets   : 100% at 5/sec for millsideHTGsvs
+2017-11-20 10:39:37 Tweets   : 100% at 4/sec for MontroseHeating
+2017-11-20 10:39:50 Tweets   : 100% at 15/sec for morstoves
+2017-11-20 10:39:56 Tweets   : 100% at 3/sec for mrmillside
+2017-11-20 10:40:38 Friends  : 100% at 2/sec for mayfairconltd
+2017-11-20 10:40:49 Friends  : 98.2% at 26/sec for MB_Plumbing
+2017-11-20 10:41:07 Friends  : 90.9% at 26/sec for MeridianHeating
+2017-11-20 10:41:07 Friends  : User MerseyHeating has a protected account or no Friendss to collect so skipping
+2017-11-20 10:41:31 Friends  : 96.9% at 33/sec for MetexOnline
+2017-11-20 10:43:37 Favorites: 47.5% at 3/sec for MatthewLollar
+2017-11-20 10:43:38 Favorites: 100% at 48/sec for mayfairconltd
+2017-11-20 10:43:39 Favorites: 100% at 22/sec for MB_Plumbing
+2017-11-20 10:44:06 Favorites: 54.3% at 29/sec for MeridianHeating
+2017-11-20 10:44:06 Favorites: User MerseyHeating has a protected account or no Favoritess to collect so skipping
+2017-11-20 10:44:08 Friends  : 98% at 31/sec for MetroRod_WEssex
+2017-11-20 10:44:11 Favorites: 100% at 8/sec for MetexOnline
+2017-11-20 10:44:12 Favorites: 100% at 22/sec for MetroRod_WEssex
+2017-11-20 10:44:15 Favorites: 53.1% at 56/sec for MEUKAutomation
+2017-11-20 10:44:15 Favorites: User MFB_PLUMBING has a protected account or no Favoritess to collect so skipping
+2017-11-20 10:44:20 Favorites: 100% at 4/sec for mickmvm
+2017-11-20 10:44:20 Favorites: User Microlight_Fly has a protected account or no Favoritess to collect so skipping
+2017-11-20 10:44:20 Friends  : 97.8% at 27/sec for MEUKAutomation
+2017-11-20 10:44:20 Friends  : User MFB_PLUMBING has a protected account or no Friendss to collect so skipping
+2017-11-20 10:44:20 Favorites: 100% at 3/sec for midlandgas
+2017-11-20 10:44:21 Favorites: 100% at 32/sec for MikeWard25
+2017-11-20 10:44:22 Favorites: 100% at 34/sec for Millerinstalls
+2017-11-20 10:44:22 Favorites: 100% at 29/sec for millsideheating
+2017-11-20 10:44:22 Friends  : 98.6% at 32/sec for mickmvm
+2017-11-20 10:44:22 Friends  : User Microlight_Fly has a protected account or no Friendss to collect so skipping
+2017-11-20 10:44:23 Favorites: 100% at 35/sec for millsideHTGsvs
+2017-11-20 10:44:23 Favorites: User MontroseHeating has a protected account or no Favoritess to collect so skipping
+2017-11-20 10:44:23 Favorites: 100% at 21/sec for morstoves
+2017-11-20 10:44:24 Favorites: 100% at 14/sec for mrmillside
+2017-11-20 10:44:52 Friends  : 99.9% at 29/sec for midlandgas
+2017-11-20 10:45:06 Friends  : 99.8% at 36/sec for MikeWard25
+2017-11-20 10:45:17 Friends  : 100% at 24/sec for Millerinstalls
+2017-11-20 10:45:26 Friends  : 100% at 24/sec for millsideheating
+2017-11-20 10:45:28 Friends  : 100% at 30/sec for millsideHTGsvs
+2017-11-20 10:45:31 Friends  : 100% at 34/sec for MontroseHeating
+2017-11-20 10:45:40 Friends  : 100% at 24/sec for morstoves
+2017-11-20 10:45:48 Friends  : 100% at 22/sec for mrmillside
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+Warning message:
+package 'twitteR' was built under R version 3.4.1 

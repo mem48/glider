@@ -1,0 +1,162 @@
+starting worker pid=8360 on localhost:11271 at 15:12:01.374
+starting worker pid=7116 on localhost:11271 at 15:12:01.609
+starting worker pid=1232 on localhost:11271 at 15:12:01.812
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-19 15:15:36 Friends  : 98% at 24/sec for marionfellows
+2017-11-19 15:15:55 Friends  : 98.3% at 19/sec for MaritimeSkills
+2017-11-19 15:16:09 Friends  : 99% at 31/sec for Mark_J_Harper
+2017-11-19 15:16:29 Friends  : 99.2% at 41/sec for Mark_Spencer
+2017-11-19 15:18:13 Friends  : 99.8% at 34/sec for mark4ceredigion
+2017-11-19 15:18:31 Friends  : 98.6% at 30/sec for Mark4WyreForest
+2017-11-19 15:18:35 Favorites: 56.4% at 20/sec for marionfellows
+2017-11-19 15:18:36 Favorites: 100% at 20/sec for MaritimeSkills
+2017-11-19 15:18:36 Favorites: 100% at 14/sec for Mark_J_Harper
+2017-11-19 15:18:39 Favorites: 83.1% at 62/sec for Mark_Spencer
+2017-11-19 15:18:52 Favorites: 51.1% at 30/sec for mark4ceredigion
+2017-11-19 15:18:56 Favorites: 76% at 59/sec for Mark4WyreForest
+2017-11-19 15:18:56 Favorites: User Markfergusonuk has a protected account or no Favoritess to collect so skipping
+2017-11-19 15:18:56 Favorites: 92.3% at 21/sec for MarkFieldUK
+2017-11-19 15:19:02 Favorites: 92.6% at 19/sec for MarkLancasterMK
+2017-11-19 15:19:03 Favorites: 93.9% at 46/sec for MarkPawsey
+2017-11-19 15:19:13 Favorites: 49.7% at 39/sec for MarkTamiMP
+2017-11-19 15:19:20 Favorites: 54.1% at 28/sec for MarpleSFC
+2017-11-19 15:19:21 Favorites: 85.7% at 24/sec for MartinVickers
+2017-11-19 15:19:33 Favorites: 57.2% at 40/sec for MartynDaySNP
+2017-11-19 15:19:33 Friends  : 99.5% at 33/sec for Markfergusonuk
+2017-11-19 15:19:35 Friends  : 98.7% at 39/sec for MarkFieldUK
+2017-11-19 15:19:40 Favorites: 59.3% at 30/sec for MaryRiddell
+2017-11-19 15:19:41 Favorites: 96.6% at 55/sec for MaryRobinson01
+2017-11-19 15:19:46 Friends  : 97.1% at 38/sec for MarkLancasterMK
+2017-11-19 15:19:51 Favorites: 52.5% at 39/sec for MaryWardCentre
+2017-11-19 15:19:51 Favorites: User MattDAoC has a protected account or no Favoritess to collect so skipping
+2017-11-19 15:19:53 Friends  : 100% at 29/sec for MarkPawsey
+2017-11-19 15:20:08 Friends  : 95.6% at 27/sec for MarkTamiMP
+2017-11-19 15:20:12 Friends  : 89% at 39/sec for MarpleSFC
+2017-11-19 15:20:20 Friends  : 99.6% at 27/sec for MartinVickers
+2017-11-19 15:20:42 Friends  : 99.7% at 36/sec for MartynDaySNP
+2017-11-19 15:20:50 Favorites: 49.6% at 32/sec for matthyde
+2017-11-19 15:20:59 Friends  : 99.8% at 30/sec for MaryRiddell
+2017-11-19 15:20:59 Friends  : Waiting for 9.4 minutes
+2017-11-19 15:21:11 Favorites: 54.5% at 41/sec for mattpearson
+2017-11-19 15:21:24 Favorites: 49.7% at 30/sec for mattwarman
+2017-11-19 15:21:24 Favorites: 100% at 24/sec for mattwridley
+2017-11-19 15:21:24 Favorites: User MBC_Leicester has a protected account or no Favoritess to collect so skipping
+2017-11-19 15:21:26 Favorites: 100% at 43/sec for MediaGuido
+2017-11-19 15:21:36 Favorites: 57.6% at 39/sec for mediations
+2017-11-19 15:21:37 Favorites: 100% at 35/sec for Meg_HillierMP
+2017-11-19 15:22:03 Favorites: 48.7% at 34/sec for megandunn116
+2017-11-19 15:22:12 Favorites: 63.1% at 42/sec for MelanieatSDC
+2017-11-19 15:22:14 Tweets   : 99.5% at 33/sec for marionfellows
+2017-11-19 15:22:27 Favorites: 55.3% at 35/sec for MerristWood
+2017-11-19 15:22:44 Tweets   : 99.9% at 35/sec for MaritimeSkills
+2017-11-19 15:22:46 Favorites: 53.7% at 42/sec for Metcalfe_SBET
+2017-11-19 15:23:23 Tweets   : 99.3% at 35/sec for Mark_J_Harper
+2017-11-19 15:23:32 Favorites: 51.8% at 38/sec for MhairiBlack
+2017-11-19 15:23:33 Favorites: 100% at 59/sec for Michael_Ellis1
+2017-11-19 15:23:39 Favorites: Waiting for 11.8 minutes due to : Used up allowance in a loop
+2017-11-19 15:24:33 Tweets   : 72.5% at 45/sec for Mark_Spencer
+2017-11-19 15:25:45 Tweets   : 61.7% at 44/sec for mark4ceredigion
+2017-11-19 15:27:08 Tweets   : 77.2% at 38/sec for Mark4WyreForest
+2017-11-19 15:28:37 Tweets   : 5.2% at 36/sec for Markfergusonuk
+2017-11-19 15:29:20 Tweets   : 99.9% at 31/sec for MarkFieldUK
+2017-11-19 15:30:45 Tweets   : 99.8% at 34/sec for MarkLancasterMK
+2017-11-19 15:30:47 Friends  : 99% at 1/sec for MaryRobinson01
+2017-11-19 15:31:21 Friends  : 98.8% at 22/sec for MaryWardCentre
+2017-11-19 15:31:21 Friends  : 100% at 1/sec for MattDAoC
+2017-11-19 15:32:00 Friends  : 99.7% at 30/sec for matthyde
+2017-11-19 15:32:19 Tweets   : 87.4% at 34/sec for MarkPawsey
+2017-11-19 15:33:10 Tweets   : 99.2% at 31/sec for MarkTamiMP
+2017-11-19 15:33:50 Tweets   : 100% at 31/sec for MarpleSFC
+2017-11-19 15:34:06 Tweets   : 100% at 26/sec for MartinVickers
+2017-11-19 15:35:25 Tweets   : 99.7% at 30/sec for MartynDaySNP
+2017-11-19 15:35:47 Favorites: 62.3% at 0/sec for Michael4MDNP
+2017-11-19 15:35:48 Favorites: 100% at 29/sec for MichaelBarber9
+2017-11-19 15:35:49 Favorites: 95.2% at 37/sec for michaelwhite
+2017-11-19 15:37:14 Tweets   : 84.8% at 29/sec for MaryRiddell
+2017-11-19 15:37:44 Favorites: 29.4% at 28/sec for michelledonelan
+2017-11-19 15:37:50 Tweets   : 98.1% at 28/sec for MaryRobinson01
+2017-11-19 15:38:38 Favorites: 51.3% at 31/sec for MichelleThomson
+2017-11-19 15:39:00 Favorites: 50.8% at 31/sec for midchesh
+2017-11-19 15:39:16 Tweets   : 99.8% at 26/sec for MaryWardCentre
+2017-11-19 15:39:16 Tweets   : User MattDAoC has a protected account or no Tweetss to collect so skipping
+2017-11-19 15:39:48 Favorites: Waiting for 10.9 minutes due to : Used up allowance in a loop
+2017-11-19 15:40:03 Friends  : 99.7% at 28/sec for mattpearson
+2017-11-19 15:41:04 Tweets   : 33.8% at 30/sec for matthyde
+2017-11-19 15:42:48 Tweets   : 5.9% at 31/sec for mattpearson
+2017-11-19 15:44:35 Tweets   : 31.8% at 30/sec for mattwarman
+2017-11-19 15:46:20 Tweets   : 59.6% at 30/sec for mattwridley
+2017-11-19 15:46:35 Tweets   : 100% at 24/sec for MBC_Leicester
+2017-11-19 15:47:04 Friends  : 99.5% at 29/sec for mattwarman
+2017-11-19 15:48:03 Friends  : 99.5% at 31/sec for mattwridley
+2017-11-19 15:48:08 Tweets   : 27.9% at 34/sec for MediaGuido
+2017-11-19 15:48:54 Friends  : 100% at 35/sec for MBC_Leicester
+2017-11-19 15:48:56 Friends  : 98% at 31/sec for MediaGuido
+2017-11-19 15:49:19 Friends  : 99.6% at 33/sec for mediations
+2017-11-19 15:49:36 Tweets   : 59.4% at 37/sec for mediations
+2017-11-19 15:50:57 Tweets   : 85.2% at 39/sec for Meg_HillierMP
+2017-11-19 15:51:13 Friends  : 99.3% at 41/sec for Meg_HillierMP
+2017-11-19 15:51:31 Friends  : 99.8% at 30/sec for megandunn116
+2017-11-19 15:51:35 Friends  : 100% at 45/sec for MelanieatSDC
+2017-11-19 15:51:39 Friends  : 97.8% at 54/sec for MerristWood
+2017-11-19 15:51:45 Favorites: 37.1% at 4/sec for Mike_Fabricant
+2017-11-19 15:51:45 Favorites: User mikeherrity has a protected account or no Favoritess to collect so skipping
+2017-11-19 15:51:46 Favorites: 94.9% at 46/sec for mikehopkinsmc
+2017-11-19 15:52:03 Favorites: 51.9% at 35/sec for mikejwood
+2017-11-19 15:52:04 Favorites: 98.7% at 55/sec for Miliast
+2017-11-19 15:52:13 Favorites: 68.4% at 34/sec for million_plus
+2017-11-19 15:52:14 Favorites: 94.6% at 34/sec for MirrorAlison
+2017-11-19 15:52:19 Favorites: 100% at 15/sec for mkcstsehelpdesk
+2017-11-19 15:52:20 Tweets   : 70.2% at 38/sec for megandunn116
+2017-11-19 15:52:39 Favorites: 52.3% at 40/sec for morleycollege
+2017-11-19 15:52:42 Tweets   : 100% at 26/sec for MelanieatSDC
+2017-11-19 15:52:50 Friends  : 96.8% at 38/sec for Metcalfe_SBET
+2017-11-19 15:52:56 Favorites: 53% at 40/sec for morton_wendy
+2017-11-19 15:53:01 Favorites: 49% at 20/sec for MPphilwilson
+2017-11-19 15:53:40 Tweets   : 99.2% at 33/sec for MerristWood
+2017-11-19 15:54:13 Friends  : 99.5% at 33/sec for MhairiBlack
+2017-11-19 15:54:22 Friends  : 99% at 23/sec for Michael_Ellis1
+2017-11-19 15:54:52 Friends  : 99% at 32/sec for Michael4MDNP
+2017-11-19 15:55:03 Friends  : 99.4% at 29/sec for MichaelBarber9
+2017-11-19 15:55:10 Friends  : 100% at 40/sec for michaelwhite
+2017-11-19 15:55:13 Tweets   : 99.7% at 30/sec for Metcalfe_SBET
+2017-11-19 15:56:56 Tweets   : 95% at 31/sec for MhairiBlack
+2017-11-19 15:57:33 Friends  : 99.2% at 32/sec for michelledonelan
+2017-11-19 15:57:33 Friends  : Waiting for 4.6 minutes
+2017-11-19 15:57:54 Tweets   : 99.2% at 29/sec for Michael_Ellis1
+2017-11-19 15:59:31 Tweets   : 98.5% at 32/sec for Michael4MDNP
+2017-11-19 16:01:15 Tweets   : 29.5% at 31/sec for MichaelBarber9
+2017-11-19 16:02:54 Friends  : 98.7% at 4/sec for MichelleThomson
+2017-11-19 16:02:56 Tweets   : 6.1% at 32/sec for michaelwhite
+2017-11-19 16:03:52 Friends  : 99.7% at 32/sec for midchesh
+2017-11-19 16:04:28 Friends  : 99.1% at 29/sec for Mike_Fabricant
+2017-11-19 16:04:28 Friends  : User mikeherrity has a protected account or no Friendss to collect so skipping
+2017-11-19 16:04:47 Tweets   : 41.7% at 29/sec for michelledonelan
+2017-11-19 16:04:57 Friends  : 100% at 31/sec for mikehopkinsmc
+2017-11-19 16:06:01 Friends  : 98.7% at 29/sec for mikejwood
+2017-11-19 16:06:09 Friends  : 99.7% at 38/sec for Miliast
+2017-11-19 16:06:29 Tweets   : 76.4% at 31/sec for MichelleThomson
+2017-11-19 16:06:31 Friends  : 99.6% at 25/sec for million_plus
+2017-11-19 16:06:47 Friends  : 99.6% at 35/sec for MirrorAlison
+2017-11-19 16:07:03 Friends  : 99.3% at 34/sec for mkcstsehelpdesk
+2017-11-19 16:07:37 Friends  : 99.4% at 34/sec for morleycollege
+2017-11-19 16:07:56 Friends  : 98.2% at 33/sec for morton_wendy
+2017-11-19 16:07:57 Tweets   : 54.4% at 36/sec for midchesh
+2017-11-19 16:08:47 Friends  : 99.4% at 38/sec for MPphilwilson
+2017-11-19 16:09:18 Tweets   : 6.7% at 39/sec for Mike_Fabricant
+2017-11-19 16:09:18 Tweets   : User mikeherrity has a protected account or no Tweetss to collect so skipping
+2017-11-19 16:10:35 Tweets   : 74.5% at 41/sec for mikehopkinsmc
+2017-11-19 16:11:52 Tweets   : 99.5% at 41/sec for mikejwood
+2017-11-19 16:12:07 Tweets   : 98.9% at 28/sec for Miliast
+2017-11-19 16:13:34 Tweets   : 37.7% at 37/sec for million_plus
+2017-11-19 16:13:46 Tweets   : 100% at 20/sec for MirrorAlison
+2017-11-19 16:15:01 Tweets   : 99.9% at 37/sec for mkcstsehelpdesk
+2017-11-19 16:16:27 Tweets   : 32.2% at 37/sec for morleycollege
+2017-11-19 16:17:09 Tweets   : 99.4% at 34/sec for morton_wendy
+2017-11-19 16:18:36 Tweets   : 44.1% at 37/sec for MPphilwilson
+Warning message:
+Warning message:
+was built under R version 3.4.1 
+Warning message:
+package 'twitteR' was built under R version 3.4.1 

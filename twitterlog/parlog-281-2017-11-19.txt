@@ -1,0 +1,163 @@
+starting worker pid=2964 on localhost:11271 at 13:58:10.185
+starting worker pid=392 on localhost:11271 at 13:58:10.375
+starting worker pid=15200 on localhost:11271 at 13:58:10.591
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-19 14:01:25 Friends  : 100% at 35/sec for LlandrilloRhyl
+2017-11-19 14:01:42 Friends  : 100% at 25/sec for LolaHornsey
+2017-11-19 14:02:01 Friends  : 97.8% at 17/sec for LongleyParkSFC
+2017-11-19 14:03:13 Friends  : 99.6% at 30/sec for Lord_Collins
+2017-11-19 14:03:34 Friends  : 99.7% at 28/sec for Lord_ofWarwick
+2017-11-19 14:04:36 Friends  : 99.5% at 31/sec for Lord_Sugar
+2017-11-19 14:04:37 Favorites: 100% at 11/sec for LlandrilloRhyl
+2017-11-19 14:04:38 Favorites: 100% at 6/sec for LolaHornsey
+2017-11-19 14:04:40 Friends  : 99.5% at 48/sec for LordAshcroft
+2017-11-19 14:04:49 Favorites: 65.2% at 28/sec for LongleyParkSFC
+2017-11-19 14:04:56 Favorites: 70.4% at 14/sec for Lord_Collins
+2017-11-19 14:05:10 Favorites: 54.9% at 7/sec for Lord_ofWarwick
+2017-11-19 14:05:12 Favorites: 69.9% at 50/sec for Lord_Sugar
+2017-11-19 14:05:12 Friends  : 98% at 27/sec for LordCourtown
+2017-11-19 14:05:13 Favorites: 97.8% at 38/sec for LordAshcroft
+2017-11-19 14:05:26 Favorites: 57.4% at 36/sec for LordCourtown
+2017-11-19 14:05:57 Favorites: 53.7% at 29/sec for LordJimKnight
+2017-11-19 14:05:58 Favorites: 100% at 29/sec for LordLucasCD
+2017-11-19 14:06:31 Favorites: 49.6% at 30/sec for LordMcConnell
+2017-11-19 14:06:48 Friends  : 99.7% at 29/sec for LordJimKnight
+2017-11-19 14:07:01 Favorites: 47.4% at 28/sec for LordNortonLouth
+2017-11-19 14:07:02 Favorites: 100% at 29/sec for lordparry
+2017-11-19 14:07:10 Friends  : 98.6% at 29/sec for LordLucasCD
+2017-11-19 14:07:38 Friends  : 99.6% at 25/sec for LordMcConnell
+2017-11-19 14:08:09 Tweets   : 99.3% at 15/sec for LlandrilloRhyl
+2017-11-19 14:08:43 Favorites: Waiting for 10.9 minutes due to : Used up allowance in a loop
+2017-11-19 14:08:45 Tweets   : 100% at 18/sec for LolaHornsey
+2017-11-19 14:09:25 Tweets   : 99.9% at 30/sec for LongleyParkSFC
+2017-11-19 14:10:09 Tweets   : 99.9% at 33/sec for Lord_Collins
+2017-11-19 14:10:39 Tweets   : 99.7% at 26/sec for Lord_ofWarwick
+2017-11-19 14:10:55 Friends  : 98.4% at 28/sec for LordNortonLouth
+2017-11-19 14:10:59 Friends  : 98.5% at 35/sec for lordparry
+2017-11-19 14:12:17 Tweets   : 7.2% at 33/sec for Lord_Sugar
+2017-11-19 14:13:35 Friends  : 96.8% at 28/sec for LordRennard
+2017-11-19 14:13:35 Friends  : Waiting for 2.8 minutes
+2017-11-19 14:13:52 Tweets   : 24.7% at 34/sec for LordAshcroft
+2017-11-19 14:15:23 Tweets   : 46.1% at 35/sec for LordCourtown
+2017-11-19 14:16:46 Tweets   : 32.5% at 38/sec for LordJimKnight
+2017-11-19 14:18:05 Friends  : 98.7% at 11/sec for LordRoyKennedy
+2017-11-19 14:18:13 Friends  : 99.2% at 17/sec for lordshrewsbury
+2017-11-19 14:18:22 Tweets   : 26.3% at 33/sec for LordLucasCD
+2017-11-19 14:19:04 Friends  : 99.1% at 31/sec for LordTobySays
+2017-11-19 14:19:09 Friends  : 100% at 3/sec for loretocollege
+2017-11-19 14:19:12 Friends  : 100% at 37/sec for LouCollJobs
+2017-11-19 14:19:50 Tweets   : 14.1% at 36/sec for LordMcConnell
+2017-11-19 14:19:50 Favorites: 29.8% at 4/sec for LordRennard
+2017-11-19 14:20:33 Friends  : 99.1% at 29/sec for LoudMagazine
+2017-11-19 14:20:55 Friends  : 99.7% at 25/sec for LouiseEllman
+2017-11-19 14:21:02 Favorites: 49.7% at 34/sec for LordRoyKennedy
+2017-11-19 14:21:14 Favorites: 57.4% at 42/sec for lordshrewsbury
+2017-11-19 14:21:14 Favorites: 75% at 8/sec for LordTobySays
+2017-11-19 14:21:19 Favorites: 100% at 5/sec for loretocollege
+2017-11-19 14:21:19 Favorites: 100% at 7/sec for LouCollJobs
+2017-11-19 14:21:20 Tweets   : 25.5% at 35/sec for LordNortonLouth
+2017-11-19 14:21:21 Favorites: 94.3% at 58/sec for LoudMagazine
+2017-11-19 14:21:22 Favorites: 58.4% at 62/sec for LouiseEllman
+2017-11-19 14:21:24 Favorites: 51.6% at 54/sec for louisetickle
+2017-11-19 14:21:29 Favorites: 74.1% at 20/sec for LR6FC
+2017-11-19 14:21:37 Favorites: 56.1% at 37/sec for LRCExeColl
+2017-11-19 14:21:40 Favorites: 51.4% at 63/sec for LS_College
+2017-11-19 14:21:41 Favorites: 96.8% at 36/sec for lschlesinger
+2017-11-19 14:21:46 Favorites: 61.7% at 19/sec for LSECBexley
+2017-11-19 14:21:50 Favorites: 71.9% at 62/sec for LSECGreenwich
+2017-11-19 14:22:06 Favorites: 57.9% at 36/sec for LSEColleges
+2017-11-19 14:22:42 Friends  : 99.4% at 31/sec for louisetickle
+2017-11-19 14:22:44 Tweets   : 93.6% at 38/sec for lordparry
+2017-11-19 14:23:01 Friends  : 99.4% at 28/sec for LR6FC
+2017-11-19 14:23:11 Favorites: Waiting for 11.6 minutes due to : Used up allowance in a loop
+2017-11-19 14:23:18 Friends  : 98.2% at 35/sec for LRCExeColl
+2017-11-19 14:24:08 Tweets   : 79.4% at 38/sec for LordRennard
+2017-11-19 14:24:28 Friends  : 99.8% at 31/sec for LS_College
+2017-11-19 14:24:30 Friends  : 100% at 20/sec for lschlesinger
+2017-11-19 14:24:42 Tweets   : 99.8% at 37/sec for LordRoyKennedy
+2017-11-19 14:24:44 Friends  : 98% at 31/sec for LSECBexley
+2017-11-19 14:25:26 Friends  : 99.7% at 31/sec for LSECGreenwich
+2017-11-19 14:25:27 Tweets   : 98.8% at 31/sec for lordshrewsbury
+2017-11-19 14:26:18 Friends  : 99.4% at 31/sec for LSEColleges
+2017-11-19 14:26:19 Friends  : Waiting for 5.2 minutes
+2017-11-19 14:26:50 Tweets   : 96.2% at 38/sec for LordTobySays
+2017-11-19 14:27:08 Tweets   : 100% at 29/sec for loretocollege
+2017-11-19 14:27:30 Tweets   : 100% at 26/sec for LouCollJobs
+2017-11-19 14:28:07 Tweets   : 99.9% at 29/sec for LoudMagazine
+2017-11-19 14:28:36 Tweets   : 99.3% at 27/sec for LouiseEllman
+2017-11-19 14:30:27 Tweets   : 26.3% at 29/sec for louisetickle
+2017-11-19 14:32:20 Tweets   : 67% at 28/sec for LR6FC
+2017-11-19 14:32:25 Friends  : 99.1% at 4/sec for LucyMPowell
+2017-11-19 14:32:54 Friends  : 100% at 26/sec for ludlowcollegeuk
+2017-11-19 14:32:54 Friends  : User LutonSFC has a protected account or no Friendss to collect so skipping
+2017-11-19 14:33:01 Tweets   : 99.9% at 30/sec for LRCExeColl
+2017-11-19 14:33:19 Friends  : 100% at 23/sec for Lynneky
+2017-11-19 14:33:37 Friends  : 99.1% at 20/sec for LynneSedgy
+2017-11-19 14:33:37 Friends  : User m45n1 has a protected account or no Friendss to collect so skipping
+2017-11-19 14:34:35 Tweets   : 61.3% at 34/sec for LS_College
+2017-11-19 14:34:57 Tweets   : 99.8% at 23/sec for lschlesinger
+2017-11-19 14:35:16 Favorites: 50.5% at 3/sec for LucyMPowell
+2017-11-19 14:35:16 Favorites: 66.7% at 5/sec for ludlowcollegeuk
+2017-11-19 14:35:16 Favorites: User LutonSFC has a protected account or no Favoritess to collect so skipping
+2017-11-19 14:35:27 Favorites: 60.5% at 29/sec for Lynneky
+2017-11-19 14:35:35 Favorites: 78% at 25/sec for LynneSedgy
+2017-11-19 14:35:35 Favorites: User m45n1 has a protected account or no Favoritess to collect so skipping
+2017-11-19 14:35:37 Friends  : 99.8% at 25/sec for MaccCollegeNews
+2017-11-19 14:35:41 Tweets   : 100% at 30/sec for LSECBexley
+2017-11-19 14:35:47 Favorites: 50.7% at 39/sec for MaccCollegeNews
+2017-11-19 14:36:32 Friends  : 99.1% at 29/sec for MaeveSherlock
+2017-11-19 14:37:05 Tweets   : 100% at 31/sec for LSECGreenwich
+2017-11-19 14:37:34 Favorites: 47.2% at 30/sec for MaeveSherlock
+2017-11-19 14:37:51 Friends  : 99% at 26/sec for MagnetTradeUK
+2017-11-19 14:37:51 Friends  : User magnusboyd has a protected account or no Friendss to collect so skipping
+2017-11-19 14:38:02 Favorites: 51.3% at 28/sec for MagnetTradeUK
+2017-11-19 14:38:02 Favorites: User magnusboyd has a protected account or no Favoritess to collect so skipping
+2017-11-19 14:38:23 Friends  : 99.3% at 27/sec for maitlis
+2017-11-19 14:38:50 Tweets   : 80.5% at 30/sec for LSEColleges
+2017-11-19 14:38:55 Favorites: Waiting for 11 minutes due to : Used up allowance in a loop
+2017-11-19 14:40:09 Friends  : 100% at 27/sec for Majority2020
+2017-11-19 14:40:29 Friends  : 100% at 29/sec for MakeitinGB
+2017-11-19 14:40:39 Tweets   : 16.1% at 29/sec for LucyMPowell
+2017-11-19 14:40:41 Friends  : 99.1% at 28/sec for ManchesterUniv
+2017-11-19 14:40:53 Tweets   : 98.5% at 18/sec for ludlowcollegeuk
+2017-11-19 14:40:53 Tweets   : User LutonSFC has a protected account or no Tweetss to collect so skipping
+2017-11-19 14:41:06 Friends  : 99.4% at 26/sec for MandieStravino
+2017-11-19 14:41:43 Tweets   : 98.7% at 28/sec for Lynneky
+2017-11-19 14:42:34 Friends  : 98.9% at 28/sec for MarcusFysh
+2017-11-19 14:42:41 Friends  : 100% at 14/sec for MarcusKingwell
+2017-11-19 14:43:25 Friends  : 99.5% at 29/sec for margarethodge
+2017-11-19 14:43:26 Tweets   : 52.3% at 31/sec for LynneSedgy
+2017-11-19 14:43:26 Tweets   : User m45n1 has a protected account or no Tweetss to collect so skipping
+2017-11-19 14:45:11 Tweets   : 85.9% at 30/sec for MaccCollegeNews
+2017-11-19 14:45:44 Friends  : 98.2% at 27/sec for mariacaulfield
+2017-11-19 14:46:10 Friends  : 98.9% at 23/sec for MarieRimmer
+2017-11-19 14:46:56 Tweets   : 50.8% at 31/sec for MaeveSherlock
+2017-11-19 14:48:39 Tweets   : 95.1% at 31/sec for MagnetTradeUK
+2017-11-19 14:48:39 Tweets   : User magnusboyd has a protected account or no Tweetss to collect so skipping
+2017-11-19 14:50:20 Favorites: 50.6% at 3/sec for maitlis
+2017-11-19 14:50:27 Tweets   : 18.5% at 30/sec for maitlis
+2017-11-19 14:50:41 Favorites: 49.7% at 31/sec for Majority2020
+2017-11-19 14:50:41 Favorites: User MakeitinGB has a protected account or no Favoritess to collect so skipping
+2017-11-19 14:51:44 Tweets   : 95.8% at 26/sec for Majority2020
+2017-11-19 14:51:55 Favorites: 49.4% at 31/sec for ManchesterUniv
+2017-11-19 14:52:03 Favorites: 89.3% at 25/sec for MandieStravino
+2017-11-19 14:52:07 Tweets   : 100% at 26/sec for MakeitinGB
+2017-11-19 14:52:48 Favorites: 52.5% at 33/sec for MarcusFysh
+2017-11-19 14:52:53 Favorites: 97.4% at 7/sec for MarcusKingwell
+2017-11-19 14:52:55 Favorites: 51.5% at 54/sec for margarethodge
+2017-11-19 14:53:47 Tweets   : 30.4% at 32/sec for ManchesterUniv
+2017-11-19 14:54:05 Favorites: Waiting for 11.1 minutes due to : Used up allowance in a loop
+2017-11-19 14:54:49 Tweets   : 99.4% at 33/sec for MandieStravino
+2017-11-19 14:56:26 Tweets   : 62.7% at 33/sec for MarcusFysh
+2017-11-19 14:56:47 Tweets   : 99.2% at 24/sec for MarcusKingwell
+2017-11-19 14:57:54 Tweets   : 100% at 31/sec for margarethodge
+2017-11-19 14:59:28 Tweets   : 29.4% at 34/sec for mariacaulfield
+2017-11-19 15:00:03 Tweets   : 99.4% at 31/sec for MarieRimmer
+2017-11-19 15:05:37 Favorites: 50.5% at 3/sec for mariacaulfield
+2017-11-19 15:05:41 Favorites: 62.8% at 56/sec for MarieRimmer
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+package 'twitteR' was built under R version 3.4.1 
+package 'twitteR' was built under R version 3.4.1 

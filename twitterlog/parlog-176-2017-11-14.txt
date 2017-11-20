@@ -1,61 +1,223 @@
-starting worker pid=4700 on localhost:11045 at 10:47:52.787
-starting worker pid=3052 on localhost:11045 at 10:47:52.950
-starting worker pid=5412 on localhost:11045 at 10:47:53.115
+starting worker pid=3380 on localhost:11941 at 12:50:59.837
+starting worker pid=12240 on localhost:11941 at 12:51:00.004
+starting worker pid=2032 on localhost:11941 at 12:51:00.170
+Error in unserialize(node$con) : error reading from connection
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+In addition: Warning messages:
+1: package 'twitteR' was built under R version 3.4.1 
+2: In file(filename, "r", encoding = encoding) :
+  cannot open file 'twitter/functions.R': No such file or directory
+Execution halted
+Error in unserialize(node$con) : error reading from connection
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+In addition: Warning messages:
+1: package 'twitteR' was built under R version 3.4.1 
+2: In file(filename, "r", encoding = encoding) :
+  cannot open file 'twitter/functions.R': No such file or directory
+Execution halted
+Error in unserialize(node$con) : error reading from connection
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+In addition: Warning messages:
+1: package 'twitteR' was built under R version 3.4.1 
+2: In file(filename, "r", encoding = encoding) :
+  cannot open file 'twitter/functions.R': No such file or directory
+Execution halted
+starting worker pid=6584 on localhost:11941 at 12:51:38.248
+starting worker pid=9200 on localhost:11941 at 12:51:38.414
+starting worker pid=1228 on localhost:11941 at 12:51:38.586
+Error in unserialize(node$con) : error reading from connection
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+In addition: Warning messages:
+1: package 'twitteR' was built under R version 3.4.1 
+2: In file(filename, "r", encoding = encoding) :
+  cannot open file 'twitter/functions.R': No such file or directory
+Execution halted
+Error in unserialize(node$con) : error reading from connection
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+In addition: Warning messages:
+1: package 'twitteR' was built under R version 3.4.1 
+2: In file(filename, "r", encoding = encoding) :
+  cannot open file 'twitter/functions.R': No such file or directory
+Execution halted
+Error in unserialize(node$con) : error reading from connection
+Calls: <Anonymous> ... doTryCatch -> recvData -> recvData.SOCKnode -> unserialize
+In addition: Warning messages:
+1: package 'twitteR' was built under R version 3.4.1 
+2: In file(filename, "r", encoding = encoding) :
+  cannot open file 'twitter/functions.R': No such file or directory
+Execution halted
+starting worker pid=1768 on localhost:11271 at 12:54:43.427
+starting worker pid=8752 on localhost:11271 at 12:54:43.596
+starting worker pid=9380 on localhost:11271 at 12:54:43.761
 [1] "Using direct authentication"
 [1] "Using direct authentication"
 [1] "Using direct authentication"
-2017-11-14 10:50:27 Friends  : 90.7% at 47/sec for McguiganRoofin1
-2017-11-14 10:50:40 Friends  : 98% at 11/sec for MercerScaff
+2017-11-14 12:54:47 Favorites: 100% at 40/sec for McguiganRoofin1
+2017-11-14 12:54:48 Friends  : 90.7% at 39/sec for McguiganRoofin1
+2017-11-14 12:54:48 Favorites: 70.2% at 62/sec for MercerScaff
+2017-11-14 12:54:49 Favorites: 100% at 36/sec for Michael_10X
+2017-11-14 12:54:51 Friends  : 98% at 48/sec for MercerScaff
 Error in twInterfaceObj$doAPICall(paste("users", "show", sep = "/"), params = params,  : 
   Not Found (HTTP 404).
 In addition: Warning message:
 package 'twitteR' was built under R version 3.4.1 
-2017-11-14 10:50:40 Friends: Unable to find account Michael_10X moving to next
-2017-11-14 10:50:40 Friends  : % at /sec for Michael_10X
-2017-11-14 10:51:59 Friends  : 96.6% at 30/sec for MorleyGlassGlaz
-2017-11-14 10:52:04 Friends  : 97.2% at 24/sec for multiscaffltd
-2017-11-14 10:52:12 Friends  : 92.8% at 31/sec for obrienscaffold
-starting worker pid=388 on localhost:11241 at 11:26:15.607
-starting worker pid=5804 on localhost:11241 at 11:26:15.796
-starting worker pid=5288 on localhost:11241 at 11:26:15.952
-[1] "Using direct authentication"
-[1] "Using direct authentication"
-[1] "Using direct authentication"
-2017-11-14 11:26:19 Favorites: 100% at 45/sec for McguiganRoofin1
-2017-11-14 11:26:20 Friends  : 90.7% at 44/sec for McguiganRoofin1
-2017-11-14 11:26:20 Favorites: 70.2% at 59/sec for MercerScaff
-2017-11-14 11:26:21 Favorites: 100% at 27/sec for Michael_10X
-2017-11-14 11:26:23 Friends  : 98% at 43/sec for MercerScaff
+2017-11-14 12:54:51 Friends: Unable to find account Michael_10X moving to next
+2017-11-14 12:54:51 Friends  : % at /sec for Michael_10X
+2017-11-14 12:54:52 Tweets   : 100% at 7/sec for McguiganRoofin1
+2017-11-14 12:55:00 Tweets   : 100% at 25/sec for MercerScaff
+2017-11-14 12:55:06 Favorites: 53.1% at 62/sec for MorleyGlassGlaz
+2017-11-14 12:55:07 Tweets   : 100% at 6/sec for Michael_10X
+2017-11-14 12:55:11 Favorites: 70.2% at 60/sec for multiscaffltd
+2017-11-14 12:55:14 Favorites: 61.6% at 67/sec for obrienscaffold
+2017-11-14 12:55:15 Favorites: 100% at 20/sec for pellowroofing
+2017-11-14 12:55:15 Favorites: 100% at 22/sec for Picklesroofing
+2017-11-14 12:55:18 Favorites: 67.5% at 64/sec for PracticalRoofCo
+2017-11-14 12:55:21 Favorites: 79.6% at 62/sec for RandRMag
+2017-11-14 12:55:22 Favorites: 90.9% at 20/sec for rcroofingltd
+2017-11-14 12:55:22 Favorites: 100% at 8/sec for roof_line
+2017-11-14 12:55:24 Favorites: 51.8% at 46/sec for RoofingArden
+2017-11-14 12:55:26 Favorites: 100% at 47/sec for RoofingMW
+2017-11-14 12:55:27 Favorites: 100% at 57/sec for RoofingOakleaf
+2017-11-14 12:55:27 Favorites: User roofingsalford has a protected account or no Favoritess to collect so skipping
+2017-11-14 12:55:28 Favorites: 100% at 53/sec for rooflightSOLS
+2017-11-14 12:55:29 Favorites: 103.4% at 37/sec for RoofMegastore
+2017-11-14 12:55:29 Favorites: User RSLRoofing has a protected account or no Favoritess to collect so skipping
+2017-11-14 12:55:29 Favorites: 100% at 14/sec for salmon_group
+2017-11-14 12:55:30 Friends  : 96.6% at 61/sec for MorleyGlassGlaz
+2017-11-14 12:55:30 Favorites: 100% at 62/sec for samrogan77
+2017-11-14 12:55:33 Friends  : 97.2% at 40/sec for multiscaffltd
+2017-11-14 12:55:35 Tweets   : 99.7% at 60/sec for MorleyGlassGlaz
+2017-11-14 12:55:37 Friends  : 92.8% at 51/sec for obrienscaffold
+2017-11-14 12:55:41 Favorites: 49.6% at 58/sec for simtay26
+2017-11-14 12:55:45 Tweets   : 99.7% at 31/sec for multiscaffltd
+2017-11-14 12:55:48 Favorites: 51.8% at 54/sec for SkylineRoofingC
+2017-11-14 12:55:50 Favorites: 69.4% at 58/sec for smith_micksmith
+2017-11-14 12:55:52 Tweets   : 100% at 11/sec for obrienscaffold
+2017-11-14 12:55:53 Favorites: 75.5% at 60/sec for snscaffolds
+2017-11-14 12:55:54 Favorites: 92.3% at 29/sec for SouthernMastic
+2017-11-14 12:55:55 Favorites: 100% at 23/sec for Specialistroofi
+2017-11-14 12:55:56 Favorites: 64.9% at 59/sec for Traditional_CRT
+2017-11-14 12:56:00 Favorites: 51.7% at 59/sec for UKWSolutions
+2017-11-14 12:56:01 Favorites: 97.4% at 53/sec for WeatherfixFRS
+2017-11-14 12:56:03 Favorites: 100% at 44/sec for weatherwellroof
+2017-11-14 12:56:03 Friends  : 98.7% at 60/sec for pellowroofing
+2017-11-14 12:56:04 Favorites: 97.7% at 56/sec for WPAltd
+2017-11-14 12:56:10 Friends  : 99.5% at 55/sec for Picklesroofing
+2017-11-14 12:56:13 Favorites: 57.2% at 58/sec for wythallroofing
+2017-11-14 12:56:13 Tweets   : 99.8% at 62/sec for pellowroofing
+2017-11-14 12:56:14 Favorites: 96.2% at 70/sec for AlexandraFrayne
+2017-11-14 12:56:15 Favorites: 100% at 38/sec for ant_burd
+2017-11-14 12:56:18 Favorites: 74.6% at 63/sec for Bathroomreview
+2017-11-14 12:56:22 Favorites: 60.5% at 60/sec for BIMgcs
+2017-11-14 12:56:23 Favorites: 100% at 59/sec for BuildInsight
+2017-11-14 12:56:26 Tweets   : 100% at 38/sec for Picklesroofing
+2017-11-14 12:56:26 Favorites: 91.7% at 57/sec for Catherine_CIB
+2017-11-14 12:56:35 Favorites: Waiting for 13.2 minutes due to : Used up allowance in a loop
+2017-11-14 12:56:39 Tweets   : 99.8% at 39/sec for PracticalRoofCo
+2017-11-14 12:56:45 Friends  : 90.2% at 60/sec for PracticalRoofCo
+2017-11-14 12:57:14 Tweets   : 99.9% at 66/sec for RandRMag
+2017-11-14 12:57:22 Tweets   : 100% at 16/sec for rcroofingltd
+2017-11-14 12:57:29 Tweets   : 100% at 1/sec for roof_line
+2017-11-14 12:57:31 Friends  : 99.8% at 56/sec for RandRMag
+2017-11-14 12:57:38 Tweets   : 100% at 24/sec for RoofingArden
+2017-11-14 12:57:50 Tweets   : 100% at 35/sec for RoofingMW
+2017-11-14 12:58:01 Tweets   : 100% at 30/sec for RoofingOakleaf
+2017-11-14 12:58:07 Friends  : 99.7% at 58/sec for rcroofingltd
+2017-11-14 12:58:09 Tweets   : 100% at 11/sec for roofingsalford
+2017-11-14 12:58:11 Friends  : 100% at 37/sec for roof_line
+2017-11-14 12:58:15 Tweets   : 100% at 14/sec for rooflightSOLS
+2017-11-14 12:58:19 Friends  : 88.5% at 57/sec for RoofingArden
+2017-11-14 12:58:21 Friends  : 98.8% at 36/sec for RoofingMW
+2017-11-14 12:58:24 Friends  : 93.6% at 50/sec for RoofingOakleaf
+2017-11-14 12:58:26 Friends  : 100% at 41/sec for roofingsalford
+2017-11-14 12:58:26 Friends  : Waiting for 11.4 minutes
+2017-11-14 12:58:47 Tweets   : 100% at 69/sec for RoofMegastore
+2017-11-14 12:58:56 Tweets   : 100% at 24/sec for RSLRoofing
+2017-11-14 12:59:03 Tweets   : 100% at 14/sec for salmon_group
+2017-11-14 12:59:11 Tweets   : 100% at 14/sec for samrogan77
+2017-11-14 12:59:37 Tweets   : 99.3% at 69/sec for simtay26
+2017-11-14 13:00:17 Tweets   : 99.7% at 68/sec for SkylineRoofingC
+2017-11-14 13:00:32 Tweets   : 99.7% at 47/sec for smith_micksmith
+2017-11-14 13:00:41 Tweets   : 100% at 19/sec for snscaffolds
+2017-11-14 13:00:48 Tweets   : 98.1% at 8/sec for SouthernMastic
+2017-11-14 13:00:54 Tweets   : 100% at 8/sec for Specialistroofi
+2017-11-14 13:01:04 Tweets   : 100% at 37/sec for Traditional_CRT
+2017-11-14 13:01:10 Tweets   : 76.5% at 64/sec for UKWSolutions
+2017-11-14 13:01:11 Tweets   : Waiting for 8.7 minutes
+2017-11-14 13:09:57 Tweets   : 100% at 0/sec for WeatherfixFRS
+2017-11-14 13:10:07 Tweets   : 100% at 17/sec for weatherwellroof
+2017-11-14 13:10:08 Favorites: 51.5% at 2/sec for ChrisGiles_
+2017-11-14 13:10:13 Favorites: 73.1% at 57/sec for coBuilderUK
+2017-11-14 13:10:15 Favorites: 100% at 61/sec for ContractJournal
+2017-11-14 13:10:18 Tweets   : 100% at 27/sec for WPAltd
+2017-11-14 13:10:27 Tweets   : 100% at 15/sec for wythallroofing
+2017-11-14 13:10:44 Favorites: 52.4% at 54/sec for CranfieldUni
+2017-11-14 13:10:50 Tweets   : 100% at 47/sec for AlexandraFrayne
+2017-11-14 13:10:57 Tweets   : 100% at 16/sec for ant_burd
+2017-11-14 13:11:21 Friends  : 94.8% at 6/sec for rooflightSOLS
+2017-11-14 13:11:24 Favorites: 50.1% at 53/sec for DrDaniellaAbreu
+2017-11-14 13:11:24 Favorites: User Ecobuild_Energy has a protected account or no Favoritess to collect so skipping
+2017-11-14 13:11:24 Favorites: User ElectionsEtc has a protected account or no Favoritess to collect so skipping
+2017-11-14 13:11:26 Favorites: 60% at 60/sec for elliotthunston
+2017-11-14 13:11:26 Friends  : 99.3% at 48/sec for RoofMegastore
+2017-11-14 13:11:29 Favorites: 98% at 55/sec for ESIBuilding
+2017-11-14 13:11:38 Friends  : 100% at 54/sec for RSLRoofing
+2017-11-14 13:11:41 Friends  : 96.4% at 36/sec for salmon_group
 Error in twInterfaceObj$doAPICall(paste("users", "show", sep = "/"), params = params,  : 
   Not Found (HTTP 404).
-In addition: Warning message:
+2017-11-14 13:11:41 Friends: Unable to find account samrogan77 moving to next
+2017-11-14 13:11:41 Friends  : % at /sec for samrogan77
+2017-11-14 13:11:47 Favorites: 52.1% at 55/sec for faisalislam
+2017-11-14 13:11:48 Tweets   : 64.9% at 63/sec for Bathroomreview
+2017-11-14 13:11:50 Friends  : 97.6% at 49/sec for simtay26
+2017-11-14 13:12:07 Friends  : 99.4% at 60/sec for SkylineRoofingC
+2017-11-14 13:12:14 Tweets   : 99.8% at 54/sec for BIMgcs
+2017-11-14 13:12:19 Friends  : 99.4% at 56/sec for smith_micksmith
+2017-11-14 13:12:21 Friends  : 92.2% at 27/sec for snscaffolds
+2017-11-14 13:12:30 Friends  : 98.8% at 52/sec for SouthernMastic
+2017-11-14 13:12:34 Tweets   : 100% at 51/sec for BuildInsight
+2017-11-14 13:12:35 Friends  : 100% at 46/sec for Specialistroofi
+2017-11-14 13:13:08 Friends  : 99.7% at 58/sec for Traditional_CRT
+2017-11-14 13:13:22 Tweets   : 54.8% at 66/sec for Catherine_CIB
+2017-11-14 13:13:33 Friends  : 98.6% at 57/sec for UKWSolutions
+2017-11-14 13:13:38 Friends  : 96.7% at 48/sec for WeatherfixFRS
+2017-11-14 13:13:41 Friends  : 98.5% at 41/sec for weatherwellroof
+2017-11-14 13:13:46 Friends  : 99.5% at 48/sec for WPAltd
+2017-11-14 13:13:46 Friends  : Waiting for 11.2 minutes
+2017-11-14 13:14:11 Tweets   : 20.2% at 66/sec for ChrisGiles_
+2017-11-14 13:14:35 Tweets   : 99.8% at 52/sec for coBuilderUK
+2017-11-14 13:15:17 Tweets   : 17.9% at 77/sec for ContractJournal
+2017-11-14 13:16:06 Tweets   : 72% at 65/sec for CranfieldUni
+2017-11-14 13:16:56 Tweets   : 30.2% at 64/sec for DrDaniellaAbreu
+2017-11-14 13:17:05 Tweets   : 100% at 30/sec for Ecobuild_Energy
+2017-11-14 13:17:14 Tweets   : 100% at 24/sec for ElectionsEtc
+2017-11-14 13:17:24 Tweets   : 97.7% at 32/sec for elliotthunston
+2017-11-14 13:18:08 Tweets   : 29.8% at 73/sec for ESIBuilding
+2017-11-14 13:18:51 Tweets   : 5% at 74/sec for faisalislam
+Error in twInterfaceObj$doAPICall(paste("users", "show", sep = "/"), params = params,  : 
+  Not Found (HTTP 404).
+2017-11-14 13:24:56 Friends: Unable to find account wythallroofing moving to next
+2017-11-14 13:24:56 Friends  : % at /sec for wythallroofing
+2017-11-14 13:25:21 Friends  : 100% at 55/sec for AlexandraFrayne
+2017-11-14 13:25:25 Friends  : 99.5% at 52/sec for ant_burd
+2017-11-14 13:26:14 Friends  : 96.8% at 61/sec for Bathroomreview
+2017-11-14 13:28:28 Friends  : 98.3% at 53/sec for BIMgcs
+2017-11-14 13:28:36 Friends  : 100% at 52/sec for BuildInsight
+2017-11-14 13:28:44 Friends  : 99.2% at 65/sec for Catherine_CIB
+2017-11-14 13:28:58 Friends  : 98.7% at 61/sec for ChrisGiles_
+2017-11-14 13:29:24 Friends  : 98% at 57/sec for coBuilderUK
+2017-11-14 13:30:22 Friends  : 100% at 56/sec for ContractJournal
+2017-11-14 13:30:51 Friends  : 98.1% at 57/sec for CranfieldUni
+2017-11-14 13:31:30 Friends  : 98.8% at 62/sec for DrDaniellaAbreu
+2017-11-14 13:31:31 Friends  : 100% at 6/sec for Ecobuild_Energy
+2017-11-14 13:31:35 Friends  : 99.5% at 48/sec for ElectionsEtc
+2017-11-14 13:31:40 Friends  : 98.8% at 50/sec for elliotthunston
+2017-11-14 13:31:40 Friends  : Waiting for 8.3 minutes
+2017-11-14 13:41:12 Friends  : 100% at 7/sec for ESIBuilding
+2017-11-14 13:43:42 Friends  : 99.3% at 56/sec for faisalislam
+Warning message:
 package 'twitteR' was built under R version 3.4.1 
-2017-11-14 11:26:24 Friends: Unable to find account Michael_10X moving to next
-2017-11-14 11:26:24 Friends  : % at /sec for Michael_10X
-2017-11-14 11:26:24 Tweets   : 100% at 7/sec for McguiganRoofin1
-2017-11-14 11:26:32 Tweets   : 100% at 24/sec for MercerScaff
-2017-11-14 11:26:38 Tweets   : 100% at 7/sec for Michael_10X
-2017-11-14 11:26:39 Favorites: 53.1% at 60/sec for MorleyGlassGlaz
-2017-11-14 11:26:44 Favorites: 70.2% at 58/sec for multiscaffltd
-2017-11-14 11:26:47 Favorites: 61.6% at 65/sec for obrienscaffold
-2017-11-14 11:26:48 Favorites: 100% at 21/sec for pellowroofing
-2017-11-14 11:26:48 Favorites: 100% at 18/sec for Picklesroofing
-2017-11-14 11:26:52 Favorites: 67.5% at 57/sec for PracticalRoofCo
-2017-11-14 11:26:55 Favorites: 79.6% at 64/sec for RandRMag
-2017-11-14 11:26:55 Favorites: 90.9% at 21/sec for rcroofingltd
-2017-11-14 11:26:56 Favorites: 100% at 7/sec for roof_line
-2017-11-14 11:26:57 Favorites: 51.8% at 59/sec for RoofingArden
-2017-11-14 11:26:58 Favorites: 100% at 53/sec for RoofingMW
-2017-11-14 11:27:00 Favorites: 100% at 51/sec for RoofingOakleaf
-2017-11-14 11:27:00 Favorites: User roofingsalford has a protected account or no Favoritess to collect so skipping
-2017-11-14 11:27:01 Favorites: 100% at 54/sec for rooflightSOLS
-2017-11-14 11:27:01 Friends  : 96.6% at 62/sec for MorleyGlassGlaz
-2017-11-14 11:27:02 Favorites: 103.4% at 29/sec for RoofMegastore
-2017-11-14 11:27:02 Favorites: User RSLRoofing has a protected account or no Favoritess to collect so skipping
-2017-11-14 11:27:02 Favorites: 100% at 14/sec for salmon_group
-2017-11-14 11:27:04 Favorites: 100% at 47/sec for samrogan77
-2017-11-14 11:27:05 Friends  : 97.2% at 39/sec for multiscaffltd
-2017-11-14 11:27:05 Tweets   : 99.7% at 61/sec for MorleyGlassGlaz
-2017-11-14 11:27:09 Friends  : 92.8% at 50/sec for obrienscaffold
-2017-11-14 11:27:14 Favorites: 49.6% at 60/sec for simtay26
-2017-11-14 11:27:16 Tweets   : 99.7% at 32/sec for multiscaffltd
+Warning messages:
+1: package 'twitteR' was built under R version 3.4.1 
+2: In twInterfaceObj$doAPICall(cmd, params, method, ...) :
+  Rate limit encountered & retry limit reached - returning partial results

@@ -1,0 +1,165 @@
+starting worker pid=14492 on localhost:11271 at 19:04:17.009
+starting worker pid=6732 on localhost:11271 at 19:04:17.196
+starting worker pid=14388 on localhost:11271 at 19:04:17.384
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-19 19:10:14 Favorites: 53.2% at 27/sec for PaulMaynardUK
+2017-11-19 19:10:35 Favorites: 65.9% at 10/sec for paulofford
+2017-11-19 19:10:35 Favorites: 100% at 2/sec for PaulTrain
+2017-11-19 19:10:35 Favorites: User PBottomleyMP has a protected account or no Favoritess to collect so skipping
+2017-11-19 19:11:06 Favorites: 52.2% at 32/sec for PDST_TechinEd
+2017-11-19 19:11:20 Favorites: 58.9% at 37/sec for Pearson_UK
+2017-11-19 19:11:27 Favorites: 79.4% at 26/sec for PearsonColleges
+2017-11-19 19:11:28 Favorites: 100% at 32/sec for pearsonplc
+2017-11-19 19:11:52 Friends  : 99.7% at 29/sec for PaulMaynardUK
+2017-11-19 19:12:42 Friends  : 99.3% at 27/sec for paulofford
+2017-11-19 19:12:43 Friends  : 100% at 19/sec for PaulTrain
+2017-11-19 19:12:44 Friends  : 100% at 7/sec for PBottomleyMP
+2017-11-19 19:12:51 Favorites: 50.1% at 32/sec for PendSFCollege
+2017-11-19 19:12:52 Favorites: 94.4% at 42/sec for PennyEHTA
+2017-11-19 19:12:53 Friends  : 99.1% at 24/sec for PDST_TechinEd
+2017-11-19 19:13:35 Friends  : 99.6% at 25/sec for Pearson_UK
+2017-11-19 19:14:27 Friends  : 100% at 32/sec for PearsonColleges
+2017-11-19 19:14:32 Favorites: 38.6% at 32/sec for PennyMordaunt
+2017-11-19 19:14:34 Favorites: 96.1% at 57/sec for perkinscomment
+2017-11-19 19:14:35 Favorites: 100% at 11/sec for Perspective_Ltd
+2017-11-19 19:14:35 Favorites: User perspectivefgl has a protected account or no Favoritess to collect so skipping
+2017-11-19 19:14:35 Favorites: 100% at 5/sec for Peter_Davies2
+2017-11-19 19:14:35 Favorites: User PeterAvery has a protected account or no Favoritess to collect so skipping
+2017-11-19 19:14:36 Favorites: 93.8% at 25/sec for PeterBoneUK
+2017-11-19 19:14:41 Friends  : 99.7% at 25/sec for pearsonplc
+2017-11-19 19:14:52 Tweets   : 78.1% at 32/sec for PaulMaynardUK
+2017-11-19 19:15:40 Friends  : 99.6% at 32/sec for PendSFCollege
+2017-11-19 19:15:43 Friends  : 100% at 46/sec for PennyEHTA
+2017-11-19 19:15:53 Favorites: 17.5% at 32/sec for PeterGrantMP
+2017-11-19 19:15:54 Favorites: 100% at 24/sec for PeterNorthDevon
+2017-11-19 19:16:03 Favorites: Waiting for 11.5 minutes due to : Used up allowance in a loop
+2017-11-19 19:16:06 Tweets   : 100% at 35/sec for paulofford
+2017-11-19 19:16:13 Tweets   : 100% at 11/sec for PaulTrain
+2017-11-19 19:16:13 Tweets   : User PBottomleyMP has a protected account or no Tweetss to collect so skipping
+2017-11-19 19:17:33 Friends  : 97.9% at 35/sec for PennyMordaunt
+2017-11-19 19:17:41 Tweets   : 67.3% at 36/sec for PDST_TechinEd
+2017-11-19 19:17:45 Friends  : 98.1% at 29/sec for perkinscomment
+2017-11-19 19:17:56 Friends  : 100% at 38/sec for Perspective_Ltd
+2017-11-19 19:18:33 Friends  : 100% at 24/sec for perspectivefgl
+2017-11-19 19:18:33 Friends  : Waiting for 3.6 minutes
+2017-11-19 19:19:32 Tweets   : 88.8% at 29/sec for Pearson_UK
+2017-11-19 19:21:03 Tweets   : 98.9% at 34/sec for PearsonColleges
+2017-11-19 19:22:19 Friends  : 100% at 0/sec for Peter_Davies2
+2017-11-19 19:22:20 Friends  : 100% at 9/sec for PeterAvery
+2017-11-19 19:22:24 Friends  : 99.3% at 37/sec for PeterBoneUK
+2017-11-19 19:22:38 Tweets   : 40.8% at 34/sec for pearsonplc
+2017-11-19 19:22:49 Friends  : 99.8% at 24/sec for PeterGrantMP
+2017-11-19 19:23:19 Friends  : 99.4% at 27/sec for PeterNorthDevon
+2017-11-19 19:24:24 Tweets   : 27.1% at 30/sec for PendSFCollege
+2017-11-19 19:24:41 Tweets   : 80.3% at 18/sec for PennyEHTA
+2017-11-19 19:25:02 Friends  : 99.5% at 27/sec for Phil_Baty
+2017-11-19 19:25:45 Friends  : 99.6% at 27/sec for PhilBoswellSNP
+2017-11-19 19:26:25 Tweets   : 24.7% at 31/sec for PennyMordaunt
+2017-11-19 19:27:05 Tweets   : 99.7% at 26/sec for perkinscomment
+2017-11-19 19:27:40 Friends  : 99.7% at 26/sec for PhilipDaviesUK
+2017-11-19 19:27:43 Friends  : 100% at 33/sec for PhilipHastie
+2017-11-19 19:28:00 Tweets   : 99.7% at 29/sec for Perspective_Ltd
+2017-11-19 19:28:16 Tweets   : 100% at 15/sec for perspectivefgl
+2017-11-19 19:28:29 Tweets   : 100% at 10/sec for Peter_Davies2
+2017-11-19 19:28:31 Friends  : 100% at 24/sec for philwillis_exmp
+2017-11-19 19:28:36 Tweets   : 100% at 1/sec for PeterAvery
+2017-11-19 19:28:49 Friends  : 100% at 25/sec for pixl8
+2017-11-19 19:28:49 Friends  : User pkd87 has a protected account or no Friendss to collect so skipping
+2017-11-19 19:29:20 Favorites: 49.7% at 4/sec for Phil_Baty
+2017-11-19 19:29:46 Tweets   : 97.8% at 29/sec for PeterBoneUK
+2017-11-19 19:29:47 Favorites: 52.4% at 26/sec for PhilBoswellSNP
+2017-11-19 19:29:48 Favorites: 89.5% at 39/sec for PhilipDaviesUK
+2017-11-19 19:29:48 Favorites: 100% at 20/sec for PhilipHastie
+2017-11-19 19:29:49 Favorites: 100% at 16/sec for philwillis_exmp
+2017-11-19 19:29:50 Favorites: 100% at 33/sec for pixl8
+2017-11-19 19:29:50 Favorites: User pkd87 has a protected account or no Favoritess to collect so skipping
+2017-11-19 19:29:59 Favorites: 80.1% at 24/sec for policynetwork
+2017-11-19 19:29:59 Favorites: User PollsUK has a protected account or no Favoritess to collect so skipping
+2017-11-19 19:30:21 Favorites: 54.5% at 30/sec for pollycurtis
+2017-11-19 19:30:23 Favorites: 97.1% at 42/sec for pollytoynbee
+2017-11-19 19:30:23 Favorites: User pompeycollege has a protected account or no Favoritess to collect so skipping
+2017-11-19 19:30:42 Friends  : 99.8% at 25/sec for policynetwork
+2017-11-19 19:30:43 Friends  : 100% at 14/sec for PollsUK
+2017-11-19 19:30:51 Favorites: 55.1% at 28/sec for pow_rebecca
+2017-11-19 19:31:10 Favorites: 54.6% at 26/sec for PRCA_UK
+2017-11-19 19:31:40 Friends  : 99.2% at 25/sec for pollycurtis
+2017-11-19 19:31:45 Favorites: 52.8% at 32/sec for prclatest
+2017-11-19 19:31:51 Tweets   : 15.8% at 26/sec for PeterGrantMP
+2017-11-19 19:32:01 Favorites: 59.2% at 24/sec for predictiveindex
+2017-11-19 19:32:01 Favorites: Waiting for 10.8 minutes due to : Used up allowance in a loop
+2017-11-19 19:32:21 Friends  : 99.5% at 23/sec for pollytoynbee
+2017-11-19 19:32:21 Friends  : Waiting for 5 minutes
+2017-11-19 19:33:40 Tweets   : 73.2% at 29/sec for PeterNorthDevon
+2017-11-19 19:35:33 Tweets   : 13% at 28/sec for Phil_Baty
+2017-11-19 19:36:40 Tweets   : 99.3% at 26/sec for PhilBoswellSNP
+2017-11-19 19:37:32 Friends  : 100% at 0/sec for pompeycollege
+2017-11-19 19:37:58 Friends  : 99.2% at 24/sec for pow_rebecca
+2017-11-19 19:38:38 Tweets   : 21.5% at 27/sec for PhilipDaviesUK
+2017-11-19 19:38:51 Tweets   : 100% at 11/sec for PhilipHastie
+2017-11-19 19:39:15 Tweets   : 100% at 29/sec for philwillis_exmp
+2017-11-19 19:39:47 Tweets   : 100% at 29/sec for pixl8
+2017-11-19 19:39:47 Tweets   : User pkd87 has a protected account or no Tweetss to collect so skipping
+2017-11-19 19:40:29 Friends  : 99.8% at 24/sec for PRCA_UK
+2017-11-19 19:41:29 Tweets   : 25.4% at 31/sec for policynetwork
+2017-11-19 19:41:36 Tweets   : 100% at 1/sec for PollsUK
+2017-11-19 19:41:53 Friends  : 96.2% at 23/sec for prclatest
+2017-11-19 19:43:16 Favorites: 60.9% at 1/sec for PrestonCollege
+2017-11-19 19:43:21 Tweets   : 29.5% at 30/sec for pollycurtis
+2017-11-19 19:43:34 Favorites: 60.5% at 27/sec for priestleysfc
+2017-11-19 19:43:38 Favorites: 51% at 52/sec for PriorPursglove
+2017-11-19 19:44:05 Favorites: 49.2% at 25/sec for ProtocolFE
+2017-11-19 19:44:17 Favorites: 49.9% at 33/sec for PScotlandCSG
+2017-11-19 19:44:19 Favorites: 83.2% at 50/sec for PXEducation
+2017-11-19 19:44:35 Favorites: 51.8% at 24/sec for QAAtweets
+2017-11-19 19:44:42 Favorites: 62.5% at 45/sec for QESFC
+2017-11-19 19:44:50 Favorites: 73.8% at 25/sec for qmcollege
+2017-11-19 19:44:59 Favorites: 4.8% at 23/sec for QueTheWolf
+2017-11-19 19:45:10 Tweets   : 19.2% at 29/sec for pollytoynbee
+2017-11-19 19:45:11 Favorites: 56.2% at 32/sec for RACC_College
+2017-11-19 19:45:22 Tweets   : 100% at 5/sec for pompeycollege
+2017-11-19 19:47:02 Favorites: 49.5% at 28/sec for RachaelMaskell
+2017-11-19 19:47:07 Tweets   : 80.2% at 31/sec for pow_rebecca
+2017-11-19 19:47:12 Favorites: Waiting for 10.9 minutes due to : Used up allowance in a loop
+2017-11-19 19:47:34 Friends  : 100% at 26/sec for predictiveindex
+2017-11-19 19:47:51 Friends  : 99.5% at 23/sec for PrestonCollege
+2017-11-19 19:48:16 Friends  : 98.7% at 24/sec for priestleysfc
+2017-11-19 19:48:36 Friends  : 99.8% at 26/sec for PriorPursglove
+2017-11-19 19:48:54 Tweets   : 7.6% at 30/sec for PRCA_UK
+2017-11-19 19:50:12 Friends  : 98.8% at 25/sec for ProtocolFE
+2017-11-19 19:50:33 Friends  : 99.3% at 26/sec for PScotlandCSG
+2017-11-19 19:50:43 Tweets   : 62.1% at 29/sec for prclatest
+2017-11-19 19:50:57 Friends  : 100% at 22/sec for PXEducation
+2017-11-19 19:51:54 Friends  : 99.9% at 24/sec for QAAtweets
+2017-11-19 19:52:05 Friends  : 98.5% at 25/sec for QESFC
+2017-11-19 19:52:20 Friends  : 97.9% at 19/sec for qmcollege
+2017-11-19 19:52:20 Friends  : Waiting for 0.2 minutes
+2017-11-19 19:52:31 Tweets   : 44.1% at 30/sec for predictiveindex
+2017-11-19 19:54:17 Tweets   : 94.1% at 30/sec for PrestonCollege
+2017-11-19 19:55:20 Tweets   : 99.4% at 25/sec for priestleysfc
+2017-11-19 19:56:25 Tweets   : 99.8% at 27/sec for PriorPursglove
+2017-11-19 19:56:29 Friends  : 99.7% at 21/sec for QueTheWolf
+2017-11-19 19:57:16 Friends  : 97.7% at 22/sec for RACC_College
+2017-11-19 19:57:36 Friends  : 100% at 22/sec for RachaelMaskell
+2017-11-19 19:58:21 Tweets   : 52.4% at 27/sec for ProtocolFE
+2017-11-19 20:00:02 Favorites: 38.1% at 4/sec for RachelReevesMP
+2017-11-19 20:00:06 Favorites: 86.8% at 49/sec for RDarlo
+2017-11-19 20:00:10 Friends  : 99% at 22/sec for RachelReevesMP
+2017-11-19 20:00:15 Tweets   : 25.5% at 28/sec for PScotlandCSG
+2017-11-19 20:00:48 Friends  : 99.5% at 26/sec for RDarlo
+2017-11-19 20:01:22 Tweets   : 99.8% at 34/sec for PXEducation
+2017-11-19 20:03:02 Tweets   : 31.6% at 32/sec for QAAtweets
+2017-11-19 20:04:39 Tweets   : 94.2% at 33/sec for QESFC
+2017-11-19 20:05:18 Tweets   : 100% at 27/sec for qmcollege
+2017-11-19 20:07:01 Tweets   : 6.8% at 31/sec for QueTheWolf
+2017-11-19 20:08:47 Tweets   : 76.3% at 30/sec for RACC_College
+2017-11-19 20:10:29 Tweets   : 44.8% at 31/sec for RachaelMaskell
+2017-11-19 20:12:18 Tweets   : 18.9% at 29/sec for RachelReevesMP
+2017-11-19 20:14:07 Tweets   : 16.3% at 29/sec for RDarlo
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+Warning message:
+package 'twitteR' was built under R version 3.4.1 

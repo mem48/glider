@@ -1,0 +1,172 @@
+starting worker pid=14732 on localhost:11271 at 20:20:48.361
+starting worker pid=10908 on localhost:11271 at 20:20:48.580
+starting worker pid=15152 on localhost:11271 at 20:20:48.795
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-19 20:24:49 Friends  : 99.7% at 17/sec for ReadingCollege
+2017-11-19 20:25:17 Friends  : 98.2% at 27/sec for RebeccaHarrisMP
+2017-11-19 20:26:16 Friends  : 99.4% at 29/sec for RebeccaKCooney
+2017-11-19 20:26:56 Friends  : 99.5% at 29/sec for rebeccarat
+2017-11-19 20:27:35 Friends  : 99.4% at 27/sec for reciteme
+2017-11-19 20:28:03 Favorites: 52.1% at 19/sec for ReadingCollege
+2017-11-19 20:28:29 Friends  : 100% at 29/sec for RedbridgeColleg
+2017-11-19 20:28:40 Friends  : 97.6% at 28/sec for rediae
+2017-11-19 20:28:50 Friends  : 99.2% at 26/sec for reetacbbc
+2017-11-19 20:28:50 Friends  : Waiting for 10.4 minutes
+2017-11-19 20:29:01 Favorites: 52.6% at 23/sec for RebeccaHarrisMP
+2017-11-19 20:30:52 Favorites: 41% at 28/sec for RebeccaKCooney
+2017-11-19 20:30:54 Favorites: 83.5% at 52/sec for rebeccarat
+2017-11-19 20:31:02 Favorites: 80.5% at 24/sec for reciteme
+2017-11-19 20:31:06 Favorites: 64% at 53/sec for RedbridgeColleg
+2017-11-19 20:31:14 Favorites: 72.8% at 25/sec for rediae
+2017-11-19 20:31:15 Favorites: 93.3% at 20/sec for reetacbbc
+2017-11-19 20:32:10 Favorites: Waiting for 10.6 minutes due to : Used up allowance in a loop
+2017-11-19 20:33:10 Tweets   : 46% at 28/sec for ReadingCollege
+2017-11-19 20:34:50 Tweets   : 36.6% at 32/sec for RebeccaHarrisMP
+2017-11-19 20:36:31 Tweets   : 58.8% at 31/sec for RebeccaKCooney
+2017-11-19 20:37:18 Tweets   : 99.1% at 28/sec for rebeccarat
+2017-11-19 20:38:38 Tweets   : 99.9% at 30/sec for reciteme
+2017-11-19 20:39:41 Tweets   : 98.8% at 31/sec for RedbridgeColleg
+2017-11-19 20:40:12 Tweets   : 99.8% at 26/sec for rediae
+2017-11-19 20:41:26 Tweets   : 100% at 34/sec for reetacbbc
+2017-11-19 20:43:06 Tweets   : 6.6% at 32/sec for Refugees
+2017-11-19 20:43:52 Favorites: 31.9% at 4/sec for Refugees
+2017-11-19 20:44:50 Tweets   : 50.1% at 30/sec for regentsuni
+2017-11-19 20:44:51 Favorites: 48.3% at 28/sec for regentsuni
+2017-11-19 20:44:53 Favorites: 97.5% at 45/sec for Rehman_Chishti
+2017-11-19 20:44:54 Favorites: 100% at 23/sec for ReigateCollege
+2017-11-19 20:46:14 Tweets   : 100% at 29/sec for Rehman_Chishti
+2017-11-19 20:46:31 Tweets   : 100% at 24/sec for ReigateCollege
+2017-11-19 20:46:34 Favorites: 48.4% at 25/sec for Rethink_
+2017-11-19 20:46:36 Favorites: 96.3% at 54/sec for RhonddaBryant
+2017-11-19 20:46:37 Favorites: 89.9% at 59/sec for Richard4Watford
+2017-11-19 20:47:15 Favorites: Waiting for 10.7 minutes due to : Used up allowance in a loop
+2017-11-19 20:48:17 Tweets   : 21% at 30/sec for Rethink_
+2017-11-19 20:50:10 Tweets   : 6% at 28/sec for RhonddaBryant
+2017-11-19 20:51:16 Tweets   : 99.9% at 29/sec for Richard4Watford
+2017-11-19 20:53:08 Tweets   : 11.5% at 28/sec for RichardA
+2017-11-19 20:53:08 Tweets   : User RichardAtkins2 has a protected account or no Tweetss to collect so skipping
+2017-11-19 20:55:01 Tweets   : 91.8% at 28/sec for RichardBenyonMP
+2017-11-19 20:57:04 Tweets   : 15.7% at 26/sec for RichardBurdenMP
+2017-11-19 20:58:46 Tweets   : 30.4% at 31/sec for RichardBurgon
+2017-11-19 20:59:28 Favorites: 37.4% at 4/sec for RichardA
+2017-11-19 20:59:28 Favorites: User RichardAtkins2 has a protected account or no Favoritess to collect so skipping
+2017-11-19 20:59:37 Favorites: 61.1% at 31/sec for RichardBenyonMP
+2017-11-19 20:59:54 Favorites: 60.1% at 29/sec for RichardBurdenMP
+2017-11-19 21:00:23 Tweets   : 85.6% at 33/sec for RichardVaughan1
+2017-11-19 21:00:31 Friends  : 99.9% at 20/sec for Refugees
+2017-11-19 21:00:44 Favorites: 50.9% at 33/sec for RichardBurgon
+2017-11-19 21:00:46 Favorites: 78% at 62/sec for RichardVaughan1
+2017-11-19 21:00:47 Favorites: 100% at 63/sec for richuish
+2017-11-19 21:01:33 Favorites: 50.9% at 32/sec for rickmuir1
+2017-11-19 21:01:38 Favorites: 98.9% at 18/sec for riseholmecampus
+2017-11-19 21:01:48 Favorites: 71.7% at 32/sec for riversidecoll
+2017-11-19 21:01:51 Favorites: 54.9% at 63/sec for RLong_Bailey
+2017-11-19 21:01:57 Tweets   : 99.7% at 33/sec for richuish
+2017-11-19 21:01:57 Favorites: 87% at 29/sec for RM_UCU
+2017-11-19 21:02:04 Favorites: Waiting for 11.2 minutes due to : Used up allowance in a loop
+2017-11-19 21:02:27 Friends  : 100% at 39/sec for regentsuni
+2017-11-19 21:02:29 Friends  : 97.6% at 42/sec for Rehman_Chishti
+2017-11-19 21:02:30 Friends  : 97.6% at 30/sec for ReigateCollege
+2017-11-19 21:03:24 Tweets   : 16.9% at 37/sec for rickmuir1
+2017-11-19 21:04:13 Friends  : 99.8% at 39/sec for Rethink_
+2017-11-19 21:04:43 Tweets   : 100% at 37/sec for riseholmecampus
+2017-11-19 21:04:45 Friends  : 99.5% at 38/sec for RhonddaBryant
+2017-11-19 21:05:07 Friends  : 99.7% at 41/sec for Richard4Watford
+2017-11-19 21:05:21 Tweets   : 100% at 32/sec for riversidecoll
+2017-11-19 21:06:01 Friends  : 99.5% at 40/sec for RichardA
+2017-11-19 21:06:01 Friends  : User RichardAtkins2 has a protected account or no Friendss to collect so skipping
+2017-11-19 21:06:09 Friends  : 97.6% at 52/sec for RichardBenyonMP
+2017-11-19 21:06:12 Tweets   : 99.6% at 32/sec for RLong_Bailey
+2017-11-19 21:06:31 Friends  : 99.4% at 40/sec for RichardBurdenMP
+2017-11-19 21:07:21 Friends  : 98.3% at 36/sec for RichardBurgon
+2017-11-19 21:07:44 Tweets   : 93.6% at 35/sec for RM_UCU
+2017-11-19 21:07:45 Friends  : 99.2% at 42/sec for RichardVaughan1
+2017-11-19 21:07:47 Friends  : 99% at 47/sec for richuish
+2017-11-19 21:09:16 Tweets   : 48.5% at 35/sec for RNC_Hereford
+2017-11-19 21:09:37 Friends  : 99.1% at 38/sec for rickmuir1
+2017-11-19 21:09:46 Tweets   : 99.5% at 27/sec for RNIBCollege
+2017-11-19 21:10:10 Friends  : 99.8% at 40/sec for riseholmecampus
+2017-11-19 21:10:20 Friends  : 98.2% at 37/sec for riversidecoll
+2017-11-19 21:10:20 Friends  : Waiting for 5.2 minutes
+2017-11-19 21:11:14 Tweets   : 49.4% at 36/sec for RobertFlello
+2017-11-19 21:12:43 Tweets   : 99.7% at 36/sec for RobertJenrick
+2017-11-19 21:13:55 Favorites: 50.5% at 1/sec for RNC_Hereford
+2017-11-19 21:13:56 Favorites: 100% at 50/sec for RNIBCollege
+2017-11-19 21:14:03 Tweets   : 71.2% at 39/sec for RobertSyms
+2017-11-19 21:14:04 Favorites: 63.3% at 38/sec for RobertFlello
+2017-11-19 21:14:09 Favorites: 83.5% at 35/sec for RobertJenrick
+2017-11-19 21:14:10 Favorites: 100% at 37/sec for RobertSyms
+2017-11-19 21:14:13 Favorites: 50% at 68/sec for RobWilson_RDG
+2017-11-19 21:14:27 Favorites: 51.6% at 34/sec for RochdaleSFC
+2017-11-19 21:15:12 Favorites: 49.1% at 37/sec for RogMull
+2017-11-19 21:15:13 Favorites: 100% at 58/sec for RoryStewartUK
+2017-11-19 21:15:14 Favorites: 63.3% at 65/sec for rosie4westlancs
+2017-11-19 21:15:20 Favorites: 61.8% at 32/sec for RotherhamColl
+2017-11-19 21:15:22 Favorites: 99% at 70/sec for rowenamason
+2017-11-19 21:15:23 Tweets   : 15.3% at 40/sec for RobWilson_RDG
+2017-11-19 21:15:29 Favorites: 71.8% at 40/sec for RoyalAgUni
+2017-11-19 21:15:30 Favorites: 97.6% at 54/sec for Royston_Smith
+2017-11-19 21:15:31 Favorites: 100% at 23/sec for RSAMatthew
+2017-11-19 21:15:51 Favorites: 57.6% at 33/sec for RT6thForm
+2017-11-19 21:15:57 Friends  : 100% at 1/sec for RLong_Bailey
+2017-11-19 21:16:00 Favorites: 66% at 35/sec for Rubywax
+2017-11-19 21:16:03 Favorites: 90% at 66/sec for RuthSmeeth
+2017-11-19 21:16:11 Favorites: 68.7% at 34/sec for RuthTDerwen
+2017-11-19 21:16:20 Favorites: 53.1% at 36/sec for S6F
+2017-11-19 21:16:24 Favorites: 100% at 6/sec for Sabirul_Islam
+2017-11-19 21:16:42 Favorites: Waiting for 11.8 minutes due to : Used up allowance in a loop
+2017-11-19 21:16:49 Tweets   : 94.2% at 37/sec for RochdaleSFC
+2017-11-19 21:16:57 Friends  : 99.6% at 38/sec for RM_UCU
+2017-11-19 21:17:16 Friends  : 99.4% at 34/sec for RNC_Hereford
+2017-11-19 21:17:34 Friends  : 98.5% at 45/sec for RNIBCollege
+2017-11-19 21:17:55 Friends  : 99.5% at 34/sec for RobertFlello
+2017-11-19 21:18:09 Friends  : 97% at 42/sec for RobertJenrick
+2017-11-19 21:18:12 Tweets   : 25.5% at 39/sec for RogMull
+2017-11-19 21:18:51 Friends  : 99.7% at 35/sec for RobertSyms
+2017-11-19 21:19:25 Friends  : 99.6% at 33/sec for RobWilson_RDG
+2017-11-19 21:19:40 Tweets   : 49.8% at 36/sec for RoryStewartUK
+2017-11-19 21:20:13 Friends  : 99.7% at 36/sec for RochdaleSFC
+2017-11-19 21:20:32 Tweets   : 99.5% at 38/sec for rosie4westlancs
+2017-11-19 21:21:18 Friends  : 99.5% at 36/sec for RogMull
+2017-11-19 21:21:41 Friends  : 99.5% at 34/sec for RoryStewartUK
+2017-11-19 21:21:55 Friends  : 100% at 34/sec for rosie4westlancs
+2017-11-19 21:22:01 Tweets   : 70.2% at 35/sec for RotherhamColl
+2017-11-19 21:22:45 Friends  : 99.5% at 40/sec for RotherhamColl
+2017-11-19 21:23:31 Tweets   : 56.4% at 35/sec for rowenamason
+Error in twInterfaceObj$doAPICall(cmd, params, method, ...) : 
+  Service Unavailable (HTTP 503).
+In addition: Warning message:
+package 'twitteR' was built under R version 3.4.1 
+2017-11-19 21:23:47 Tweets: Unable to find account RoyalAgUni moving to next
+2017-11-19 21:23:47 Tweets   : % at /sec for RoyalAgUni
+2017-11-19 21:23:48 Friends  : 99.3% at 35/sec for rowenamason
+2017-11-19 21:24:01 Friends  : 99.8% at 42/sec for RoyalAgUni
+2017-11-19 21:24:01 Friends  : Waiting for 6.8 minutes
+2017-11-19 21:25:14 Tweets   : 49% at 37/sec for Royston_Smith
+2017-11-19 21:26:47 Tweets   : 73.9% at 34/sec for RSAMatthew
+2017-11-19 21:28:03 Tweets   : 99.6% at 34/sec for RT6thForm
+2017-11-19 21:29:19 Tweets   : 57.6% at 42/sec for Rubywax
+2017-11-19 21:29:38 Favorites: 51.3% at 3/sec for SalBrinton
+2017-11-19 21:29:38 Favorites: User SALDiploma has a protected account or no Favoritess to collect so skipping
+2017-11-19 21:30:41 Tweets   : 58.5% at 39/sec for RuthSmeeth
+2017-11-19 21:30:56 Tweets   : 99.7% at 25/sec for RuthTDerwen
+2017-11-19 21:31:12 Friends  : 99% at 1/sec for Royston_Smith
+2017-11-19 21:32:18 Tweets   : 99.9% at 38/sec for S6F
+2017-11-19 21:33:46 Tweets   : 67.3% at 35/sec for Sabirul_Islam
+2017-11-19 21:33:56 Friends  : 99.3% at 35/sec for RSAMatthew
+2017-11-19 21:34:15 Friends  : 99.7% at 34/sec for RT6thForm
+2017-11-19 21:34:29 Friends  : 99.4% at 36/sec for Rubywax
+2017-11-19 21:34:53 Friends  : 98.4% at 34/sec for RuthSmeeth
+2017-11-19 21:35:09 Friends  : 98.4% at 27/sec for RuthTDerwen
+2017-11-19 21:35:13 Friends  : 98.3% at 43/sec for S6F
+2017-11-19 21:35:18 Tweets   : 30.2% at 35/sec for SalBrinton
+2017-11-19 21:35:26 Tweets   : 100% at 5/sec for SALDiploma
+2017-11-19 21:35:35 Friends  : 99.8% at 38/sec for Sabirul_Islam
+2017-11-19 21:35:54 Friends  : 99.6% at 35/sec for SalBrinton
+2017-11-19 21:35:57 Friends  : 100% at 44/sec for SALDiploma
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+Warning message:
+package 'twitteR' was built under R version 3.4.1 

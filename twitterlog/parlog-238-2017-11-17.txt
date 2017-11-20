@@ -1,0 +1,169 @@
+starting worker pid=11608 on localhost:11271 at 11:49:51.529
+starting worker pid=14196 on localhost:11271 at 11:49:51.710
+starting worker pid=11932 on localhost:11271 at 11:49:51.904
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-17 11:51:55 Friends  : 98.8% at 29/sec for windmillsuffolk
+2017-11-17 11:52:23 Friends  : 99.2% at 33/sec for WinkworthUK
+2017-11-17 11:53:00 Favorites: Waiting for 5 minutes due to : Used up allowance in a loop
+2017-11-17 11:53:28 Friends  : 99% at 33/sec for WiredScore
+2017-11-17 11:53:37 Friends  : 97.1% at 29/sec for WLV_apphub
+2017-11-17 11:53:45 Friends  : 96.7% at 25/sec for WNottSurveyors
+2017-11-17 11:54:30 Friends  : 99% at 32/sec for womenoffuture
+2017-11-17 11:54:50 Friends  : 100% at 24/sec for woodenstreets
+2017-11-17 11:54:52 Tweets   : 100% at 21/sec for windmillsuffolk
+2017-11-17 11:55:51 Friends  : 99.5% at 36/sec for WTW_uk
+2017-11-17 11:56:12 Friends  : 96.5% at 31/sec for WYFRSDaveWalton
+2017-11-17 11:56:17 Friends  : 99.3% at 28/sec for xKGx
+2017-11-17 11:56:18 Tweets   : 64.7% at 37/sec for WinkworthUK
+2017-11-17 11:57:15 Friends  : 98.8% at 36/sec for Yardi
+2017-11-17 11:57:45 Tweets   : 82.6% at 37/sec for WiredScore
+2017-11-17 11:58:00 Favorites: % at /sec for windmillsuffolk
+2017-11-17 11:58:02 Tweets   : 100% at 16/sec for WLV_apphub
+2017-11-17 11:58:11 Friends  : 99.7% at 33/sec for YEventCentre
+2017-11-17 11:58:12 Tweets   : 100% at 14/sec for WNottSurveyors
+2017-11-17 11:58:17 Friends  : 97.5% at 27/sec for AlexBabouris
+2017-11-17 11:58:20 Favorites: 48.8% at 25/sec for WinkworthUK
+2017-11-17 11:59:02 Favorites: 49% at 35/sec for WiredScore
+2017-11-17 11:59:07 Favorites: 90% at 39/sec for WLV_apphub
+2017-11-17 11:59:07 Favorites: 100% at 5/sec for WNottSurveyors
+2017-11-17 11:59:11 Friends  : 99.4% at 30/sec for AlisonPersson
+2017-11-17 11:59:14 Friends  : 93.3% at 15/sec for ARULAPROPERTY
+2017-11-17 11:59:15 Friends  : Waiting for 7.2 minutes
+2017-11-17 11:59:21 Favorites: 57.6% at 35/sec for womenoffuture
+2017-11-17 11:59:25 Favorites: 95% at 27/sec for woodenstreets
+2017-11-17 11:59:30 Favorites: 51.2% at 39/sec for WTW_uk
+2017-11-17 11:59:42 Tweets   : 71.7% at 35/sec for womenoffuture
+2017-11-17 12:00:05 Favorites: 51.9% at 37/sec for WYFRSDaveWalton
+2017-11-17 12:00:08 Favorites: 57.1% at 25/sec for xKGx
+2017-11-17 12:01:02 Tweets   : 99.6% at 37/sec for woodenstreets
+2017-11-17 12:01:36 Favorites: Waiting for 11.4 minutes due to : Used up allowance in a loop
+2017-11-17 12:02:32 Tweets   : 63.4% at 35/sec for WTW_uk
+2017-11-17 12:04:05 Tweets   : 51% at 34/sec for WYFRSDaveWalton
+2017-11-17 12:05:40 Tweets   : 21.1% at 33/sec for xKGx
+2017-11-17 12:06:35 Friends  : 97.2% at 0/sec for ASPolice
+2017-11-17 12:07:18 Tweets   : 28.1% at 33/sec for Yardi
+2017-11-17 12:07:34 Friends  : 99.7% at 31/sec for AtkinsonMcleod
+2017-11-17 12:08:46 Tweets   : 92.1% at 36/sec for YEventCentre
+2017-11-17 12:09:43 Friends  : 98.7% at 28/sec for AudiBenfield
+2017-11-17 12:09:50 Tweets   : 99.2% at 31/sec for AlexBabouris
+2017-11-17 12:10:54 Friends  : 98% at 31/sec for bailiffbabe
+2017-11-17 12:11:22 Tweets   : 34.3% at 34/sec for AlisonPersson
+2017-11-17 12:11:26 Friends  : 99.5% at 36/sec for BakerStreetProp
+2017-11-17 12:11:34 Tweets   : 101.1% at 17/sec for ARULAPROPERTY
+2017-11-17 12:12:03 Friends  : 99.5% at 36/sec for BeadleBen
+2017-11-17 12:13:01 Friends  : 99.9% at 34/sec for BillIrvine17
+2017-11-17 12:13:09 Friends  : 98.8% at 32/sec for BlackshawH
+2017-11-17 12:13:10 Favorites: 21.5% at 4/sec for Yardi
+2017-11-17 12:13:11 Tweets   : 12.1% at 33/sec for ASPolice
+2017-11-17 12:13:19 Favorites: 58.1% at 44/sec for YEventCentre
+2017-11-17 12:13:26 Favorites: 56.2% at 37/sec for AlexBabouris
+2017-11-17 12:13:27 Friends  : 99.8% at 30/sec for Brentwood_Lets
+2017-11-17 12:13:29 Favorites: 98.5% at 24/sec for AlisonPersson
+2017-11-17 12:13:37 Favorites: 73.8% at 38/sec for ARULAPROPERTY
+2017-11-17 12:14:09 Friends  : 94.5% at 33/sec for BromonsLettings
+2017-11-17 12:14:21 Favorites: 49.7% at 38/sec for ASPolice
+2017-11-17 12:14:32 Friends  : 99.6% at 32/sec for Citylets
+2017-11-17 12:14:35 Tweets   : 42.5% at 38/sec for AtkinsonMcleod
+2017-11-17 12:14:52 Friends  : 99.3% at 29/sec for ClementsHemel
+2017-11-17 12:15:08 Favorites: 50.7% at 37/sec for AtkinsonMcleod
+2017-11-17 12:15:40 Friends  : 99.1% at 29/sec for CommercialTrust
+2017-11-17 12:15:44 Friends  : 95.6% at 24/sec for CRESR_SHU
+2017-11-17 12:16:05 Tweets   : 32.5% at 35/sec for AudiBenfield
+2017-11-17 12:16:09 Friends  : 98.5% at 30/sec for EthicalLets
+2017-11-17 12:16:09 Friends  : Waiting for 5.4 minutes
+2017-11-17 12:16:21 Favorites: Waiting for 11.7 minutes due to : Used up allowance in a loop
+2017-11-17 12:17:23 Tweets   : 23.8% at 41/sec for bailiffbabe
+2017-11-17 12:18:46 Tweets   : 74% at 38/sec for BakerStreetProp
+2017-11-17 12:19:23 Tweets   : 100% at 32/sec for BeadleBen
+2017-11-17 12:20:47 Tweets   : 78.2% at 38/sec for BillIrvine17
+2017-11-17 12:21:02 Tweets   : 100% at 28/sec for BlackshawH
+2017-11-17 12:22:30 Tweets   : 42.2% at 36/sec for Brentwood_Lets
+2017-11-17 12:23:23 Friends  : 99.1% at 8/sec for flamingnora
+2017-11-17 12:23:32 Tweets   : 100% at 31/sec for BromonsLettings
+2017-11-17 12:24:27 Tweets   : 100% at 33/sec for Citylets
+2017-11-17 12:24:58 Tweets   : 99.9% at 29/sec for ClementsHemel
+2017-11-17 12:26:42 Tweets   : 51.1% at 31/sec for CommercialTrust
+2017-11-17 12:27:04 Tweets   : 100% at 21/sec for CRESR_SHU
+2017-11-17 12:27:39 Tweets   : 99.9% at 26/sec for EthicalLets
+2017-11-17 12:28:00 Friends  : 96.9% at 38/sec for greigo_uk
+2017-11-17 12:28:03 Friends  : 95.9% at 27/sec for HalcyonHouseSG3
+2017-11-17 12:28:20 Favorites: 49.7% at 4/sec for AudiBenfield
+2017-11-17 12:28:24 Favorites: 56.3% at 24/sec for bailiffbabe
+2017-11-17 12:28:28 Friends  : 94.4% at 31/sec for HDLettings
+2017-11-17 12:28:38 Favorites: 53% at 35/sec for BakerStreetProp
+2017-11-17 12:28:53 Favorites: 57.7% at 35/sec for BeadleBen
+2017-11-17 12:28:56 Favorites: 100% at 20/sec for BillIrvine17
+2017-11-17 12:28:57 Favorites: 97% at 29/sec for BlackshawH
+2017-11-17 12:28:58 Favorites: 100% at 35/sec for Brentwood_Lets
+2017-11-17 12:28:58 Favorites: 100% at 11/sec for BromonsLettings
+2017-11-17 12:29:09 Favorites: 59.3% at 28/sec for Citylets
+2017-11-17 12:29:14 Favorites: 70.9% at 20/sec for ClementsHemel
+2017-11-17 12:29:16 Favorites: 72.2% at 51/sec for CommercialTrust
+2017-11-17 12:29:17 Tweets   : 4.6% at 32/sec for flamingnora
+2017-11-17 12:29:20 Favorites: 94.3% at 24/sec for CRESR_SHU
+2017-11-17 12:29:26 Favorites: 54% at 35/sec for EthicalLets
+2017-11-17 12:29:38 Friends  : 99.2% at 30/sec for homes4u
+2017-11-17 12:29:46 Friends  : 100% at 28/sec for housepricecrash
+2017-11-17 12:30:02 Friends  : 98.4% at 26/sec for india_angie
+2017-11-17 12:30:29 Friends  : 98.1% at 27/sec for inresi
+2017-11-17 12:30:39 Friends  : 94.3% at 25/sec for investinyorkuk
+2017-11-17 12:31:01 Tweets   : 0.8% at 31/sec for greigo_uk
+2017-11-17 12:31:07 Favorites: 27.7% at 31/sec for flamingnora
+2017-11-17 12:31:10 Favorites: 71.4% at 29/sec for greigo_uk
+2017-11-17 12:31:11 Favorites: 100% at 2/sec for HalcyonHouseSG3
+2017-11-17 12:31:11 Tweets   : 100% at 12/sec for HalcyonHouseSG3
+2017-11-17 12:31:22 Favorites: 61% at 34/sec for HDLettings
+2017-11-17 12:31:45 Favorites: Waiting for 11.3 minutes due to : Used up allowance in a loop
+2017-11-17 12:32:59 Tweets   : 53.7% at 29/sec for HDLettings
+2017-11-17 12:34:42 Friends  : 96.9% at 32/sec for Investor_Show
+2017-11-17 12:34:50 Tweets   : 27.8% at 29/sec for homes4u
+2017-11-17 12:34:55 Friends  : 98.9% at 40/sec for Jackson_Fire
+2017-11-17 12:35:00 Friends  : 99.2% at 29/sec for jbproperty_
+2017-11-17 12:35:00 Friends  : Waiting for 1.6 minutes
+2017-11-17 12:35:59 Tweets   : 21.2% at 46/sec for housepricecrash
+2017-11-17 12:36:16 Tweets   : 96.1% at 27/sec for india_angie
+2017-11-17 12:36:33 Tweets   : 100% at 27/sec for inresi
+2017-11-17 12:36:53 Tweets   : 100% at 26/sec for investinyorkuk
+2017-11-17 12:36:55 Friends  : 98.3% at 6/sec for joseph_carterUK
+2017-11-17 12:37:23 Friends  : 99.4% at 41/sec for Keystone_Advice
+2017-11-17 12:38:02 Friends  : 100% at 38/sec for LandlordAmanda
+2017-11-17 12:38:07 Tweets   : 99.5% at 39/sec for Investor_Show
+2017-11-17 12:39:00 Friends  : 99.8% at 38/sec for LandlordLoop
+2017-11-17 12:39:00 Tweets   : 100% at 34/sec for Jackson_Fire
+2017-11-17 12:39:01 Friends  : 100% at 12/sec for LandlordZONEPR
+2017-11-17 12:39:09 Tweets   : 100% at 10/sec for jbproperty_
+2017-11-17 12:40:46 Friends  : 94.3% at 35/sec for LetDirectory
+2017-11-17 12:40:48 Tweets   : 19.5% at 32/sec for joseph_carterUK
+2017-11-17 12:41:22 Friends  : 100% at 36/sec for LoanTalkNews
+2017-11-17 12:42:15 Tweets   : 70.1% at 37/sec for Keystone_Advice
+2017-11-17 12:43:34 Tweets   : 77.9% at 40/sec for LandlordAmanda
+2017-11-17 12:44:09 Favorites: 50.2% at 4/sec for homes4u
+2017-11-17 12:44:09 Favorites: 96.2% at 38/sec for housepricecrash
+2017-11-17 12:44:22 Favorites: 51% at 36/sec for india_angie
+2017-11-17 12:44:23 Favorites: 100% at 55/sec for inresi
+2017-11-17 12:44:25 Tweets   : 99.9% at 34/sec for LandlordLoop
+2017-11-17 12:44:26 Favorites: 100% at 11/sec for investinyorkuk
+2017-11-17 12:44:27 Favorites: 87% at 68/sec for Investor_Show
+2017-11-17 12:44:34 Tweets   : 100% at 13/sec for LandlordZONEPR
+2017-11-17 12:44:36 Favorites: 64.5% at 35/sec for Jackson_Fire
+2017-11-17 12:44:37 Favorites: 100% at 34/sec for jbproperty_
+2017-11-17 12:46:11 Favorites: 49.9% at 32/sec for joseph_carterUK
+2017-11-17 12:46:14 Tweets   : 2.3% at 32/sec for LetDirectory
+2017-11-17 12:46:34 Favorites: Waiting for 11.5 minutes due to : Used up allowance in a loop
+2017-11-17 12:47:58 Tweets   : 75.9% at 31/sec for LoanTalkNews
+2017-11-17 12:59:14 Favorites: 23.6% at 4/sec for Keystone_Advice
+2017-11-17 12:59:15 Favorites: 100% at 46/sec for LandlordAmanda
+2017-11-17 12:59:15 Favorites: 100% at 5/sec for LandlordLoop
+2017-11-17 12:59:17 Favorites: 100% at 6/sec for LandlordZONEPR
+2017-11-17 12:59:31 Favorites: 60.9% at 37/sec for LetDirectory
+2017-11-17 12:59:35 Favorites: 72.2% at 41/sec for LoanTalkNews
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+Warning messages:
+1: package 'twitteR' was built under R version 3.4.1 
+2: In twInterfaceObj$doAPICall(cmd, params, method, ...) :
+  Rate limit encountered & retry limit reached - returning partial results
+Warning message:
+package 'twitteR' was built under R version 3.4.1 

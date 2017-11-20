@@ -1,0 +1,175 @@
+starting worker pid=7780 on localhost:11271 at 23:15:23.899
+starting worker pid=2128 on localhost:11271 at 23:15:24.060
+starting worker pid=8312 on localhost:11271 at 23:15:24.221
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-16 23:16:55 Friends  : 99.5% at 34/sec for parkdesigned
+2017-11-16 23:16:58 Friends  : 98.8% at 25/sec for parkes_lees
+2017-11-16 23:17:18 Friends  : 98.1% at 36/sec for paulkalleegrove
+2017-11-16 23:17:48 Favorites: 68% at 38/sec for parkdesigned
+2017-11-16 23:17:54 Favorites: 96.2% at 12/sec for parkes_lees
+2017-11-16 23:18:01 Friends  : 98.4% at 36/sec for PaulMellonCentr
+2017-11-16 23:18:11 Friends  : 98.4% at 25/sec for PaulOBrienArch
+2017-11-16 23:18:24 Friends  : 98.9% at 33/sec for Perioli_Man
+2017-11-16 23:19:17 Favorites: 48.2% at 36/sec for paulkalleegrove
+2017-11-16 23:19:26 Friends  : 97.9% at 35/sec for petitetealover
+2017-11-16 23:19:42 Favorites: 52.7% at 36/sec for PaulMellonCentr
+2017-11-16 23:20:04 Tweets   : 99.8% at 45/sec for parkdesigned
+2017-11-16 23:20:06 Favorites: 54.4% at 37/sec for PaulOBrienArch
+2017-11-16 23:20:14 Tweets   : 99.5% at 20/sec for parkes_lees
+2017-11-16 23:20:20 Favorites: 55.2% at 38/sec for Perioli_Man
+2017-11-16 23:20:37 Friends  : 99.7% at 39/sec for Phaidon
+2017-11-16 23:20:42 Favorites: Waiting for 6.9 minutes due to : Used up allowance in a loop
+2017-11-16 23:20:59 Friends  : 100% at 42/sec for PlacesMatter
+2017-11-16 23:21:09 Tweets   : 98.9% at 48/sec for paulkalleegrove
+2017-11-16 23:21:16 Friends  : 99.9% at 44/sec for Pocket_Living
+2017-11-16 23:21:42 Friends  : 100% at 45/sec for portmagazine
+2017-11-16 23:21:47 Friends  : 100% at 38/sec for poul_designs
+2017-11-16 23:21:52 Friends  : 97% at 34/sec for PpeterPeter
+2017-11-16 23:22:04 Friends  : 99.3% at 39/sec for prsimms
+2017-11-16 23:22:06 Friends  : 98.1% at 50/sec for PSAArchitects
+2017-11-16 23:22:07 Friends  : Waiting for 9.5 minutes
+2017-11-16 23:22:16 Tweets   : 59.9% at 48/sec for PaulMellonCentr
+2017-11-16 23:22:46 Tweets   : 99.9% at 44/sec for PaulOBrienArch
+2017-11-16 23:22:55 Tweets   : 100% at 17/sec for Perioli_Man
+2017-11-16 23:23:58 Tweets   : 56.6% at 50/sec for petitetealover
+2017-11-16 23:25:00 Tweets   : 32% at 52/sec for Phaidon
+2017-11-16 23:25:38 Tweets   : 100% at 50/sec for PlacesMatter
+2017-11-16 23:26:26 Tweets   : 99.7% at 46/sec for Pocket_Living
+2017-11-16 23:27:31 Tweets   : 39.2% at 49/sec for portmagazine
+2017-11-16 23:27:40 Tweets   : 100% at 16/sec for poul_designs
+2017-11-16 23:28:22 Tweets   : 99% at 37/sec for PpeterPeter
+2017-11-16 23:28:37 Tweets   : 99.5% at 27/sec for prsimms
+2017-11-16 23:28:38 Favorites: 41.2% at 6/sec for petitetealover
+2017-11-16 23:28:44 Tweets   : 100% at 4/sec for PSAArchitects
+2017-11-16 23:29:33 Favorites: 49.7% at 38/sec for Phaidon
+2017-11-16 23:29:33 Favorites: 100% at 10/sec for PlacesMatter
+2017-11-16 23:29:34 Tweets   : 100% at 46/sec for psmisek
+2017-11-16 23:29:47 Tweets   : 100% at 22/sec for QUBarch
+2017-11-16 23:29:52 Favorites: 53.5% at 41/sec for Pocket_Living
+2017-11-16 23:30:02 Favorites: 53% at 42/sec for portmagazine
+2017-11-16 23:30:04 Favorites: 100% at 23/sec for poul_designs
+2017-11-16 23:30:39 Favorites: 51.1% at 36/sec for PpeterPeter
+2017-11-16 23:30:41 Favorites: 70.9% at 59/sec for prsimms
+2017-11-16 23:30:43 Favorites: 100% at 10/sec for PSAArchitects
+2017-11-16 23:30:45 Favorites: Waiting for 11.8 minutes due to : Used up allowance in a loop
+2017-11-16 23:30:59 Tweets   : 34.6% at 44/sec for QuintinLake
+2017-11-16 23:31:43 Friends  : 98.4% at 0/sec for psmisek
+2017-11-16 23:31:56 Friends  : 96.8% at 43/sec for QUBarch
+2017-11-16 23:32:05 Tweets   : 100% at 43/sec for RA_Mag
+2017-11-16 23:32:18 Friends  : 99.2% at 44/sec for QuintinLake
+2017-11-16 23:32:26 Tweets   : 99.7% at 41/sec for Rachael_333
+2017-11-16 23:32:43 Friends  : 99.7% at 43/sec for RA_Mag
+2017-11-16 23:33:17 Friends  : 100% at 42/sec for Rachael_333
+2017-11-16 23:33:21 Friends  : 97.1% at 39/sec for raulvilar
+2017-11-16 23:33:25 Tweets   : 99.8% at 45/sec for raulvilar
+2017-11-16 23:33:43 Friends  : 99.4% at 44/sec for razbbc
+2017-11-16 23:33:47 Friends  : 98.1% at 38/sec for rckarchitects
+2017-11-16 23:33:56 Friends  : 99.7% at 38/sec for ReeceShearsmith
+2017-11-16 23:34:11 Friends  : 98.8% at 38/sec for rgalleria
+2017-11-16 23:34:16 Friends  : 98.5% at 29/sec for RIBA_SELSA
+2017-11-16 23:34:27 Friends  : 98.7% at 39/sec for RIBAginny
+2017-11-16 23:34:32 Friends  : 98.6% at 28/sec for RIBAWorcester
+2017-11-16 23:34:34 Tweets   : 85.4% at 46/sec for razbbc
+2017-11-16 23:34:49 Friends  : 98.6% at 43/sec for Richard_C_
+2017-11-16 23:34:52 Friends  : 100% at 22/sec for richfoxley
+2017-11-16 23:34:53 Friends  : Waiting for 11.8 minutes
+2017-11-16 23:34:59 Tweets   : 99.5% at 38/sec for rckarchitects
+2017-11-16 23:36:05 Tweets   : 14.6% at 48/sec for ReeceShearsmith
+2017-11-16 23:37:02 Tweets   : 99.8% at 42/sec for rgalleria
+2017-11-16 23:37:12 Tweets   : 100% at 18/sec for RIBA_SELSA
+2017-11-16 23:37:24 Tweets   : 100% at 16/sec for RIBAginny
+2017-11-16 23:37:35 Tweets   : 100% at 23/sec for RIBAWorcester
+2017-11-16 23:38:24 Tweets   : 99.6% at 39/sec for Richard_C_
+2017-11-16 23:38:40 Tweets   : 100% at 27/sec for richfoxley
+2017-11-16 23:39:46 Tweets   : 99.9% at 44/sec for rmasters
+2017-11-16 23:40:49 Tweets   : 82.4% at 51/sec for RoryOlcayto
+2017-11-16 23:40:59 Tweets   : 100% at 21/sec for RotherhitheBdg
+2017-11-16 23:42:05 Tweets   : 19.2% at 49/sec for RoundhouseLDN
+2017-11-16 23:42:25 Tweets   : 99.7% at 36/sec for rowlandbroughtn
+2017-11-16 23:42:58 Favorites: 50.8% at 1/sec for psmisek
+2017-11-16 23:43:01 Favorites: 69% at 35/sec for QUBarch
+2017-11-16 23:43:04 Tweets   : 99% at 38/sec for RPBWARCHITECTS
+2017-11-16 23:44:01 Tweets   : 99.7% at 43/sec for Rural_Office
+2017-11-16 23:44:26 Favorites: 47.4% at 37/sec for QuintinLake
+2017-11-16 23:44:38 Favorites: 62.6% at 34/sec for RA_Mag
+2017-11-16 23:44:39 Favorites: 100% at 49/sec for Rachael_333
+2017-11-16 23:45:12 Tweets   : 21% at 45/sec for ruthgarde
+2017-11-16 23:45:14 Favorites: 51.1% at 36/sec for raulvilar
+2017-11-16 23:45:32 Tweets   : 99.8% at 29/sec for RVA_NY
+2017-11-16 23:45:34 Favorites: 53.3% at 39/sec for razbbc
+2017-11-16 23:45:37 Favorites: 100% at 31/sec for rckarchitects
+2017-11-16 23:45:39 Favorites: 85.1% at 39/sec for ReeceShearsmith
+2017-11-16 23:45:42 Tweets   : 100% at 14/sec for SandyRendelArch
+2017-11-16 23:45:52 Favorites: Waiting for 11.7 minutes due to : Used up allowance in a loop
+2017-11-16 23:45:56 Tweets   : 98.6% at 29/sec for sarahcassl
+2017-11-16 23:46:11 Tweets   : 100% at 23/sec for SdaArch
+2017-11-16 23:46:26 Tweets   : 100% at 24/sec for serena_ralston
+2017-11-16 23:46:33 Tweets   : 100% at 5/sec for SheDrawsBuilds
+2017-11-16 23:46:47 Friends  : 99% at 0/sec for rmasters
+2017-11-16 23:46:56 Tweets   : 100% at 34/sec for sidewalklabs
+2017-11-16 23:47:03 Friends  : 99.4% at 39/sec for RoryOlcayto
+2017-11-16 23:47:16 Friends  : 98.1% at 41/sec for RotherhitheBdg
+2017-11-16 23:48:07 Tweets   : 15.8% at 45/sec for Sierra_Magazine
+2017-11-16 23:48:22 Tweets   : 99.7% at 21/sec for SimBimSim
+2017-11-16 23:48:53 Friends  : 99.9% at 39/sec for RoundhouseLDN
+2017-11-16 23:49:30 Friends  : 99.9% at 37/sec for rowlandbroughtn
+2017-11-16 23:49:32 Tweets   : 29.5% at 45/sec for siwelarual
+2017-11-16 23:49:42 Tweets   : 100% at 19/sec for SNA_Nguyen
+2017-11-16 23:49:48 Friends  : 97.9% at 39/sec for RPBWARCHITECTS
+2017-11-16 23:49:56 Tweets   : 99.6% at 32/sec for Somarchitecture
+2017-11-16 23:50:14 Friends  : 98.8% at 39/sec for Rural_Office
+2017-11-16 23:50:17 Friends  : 95.4% at 51/sec for ruthgarde
+2017-11-16 23:50:25 Friends  : 99.6% at 32/sec for RVA_NY
+2017-11-16 23:50:28 Friends  : 97.5% at 44/sec for SandyRendelArch
+2017-11-16 23:50:36 Friends  : 99.4% at 42/sec for sarahcassl
+2017-11-16 23:50:43 Friends  : 98.4% at 42/sec for SdaArch
+2017-11-16 23:50:59 Friends  : 98.9% at 49/sec for serena_ralston
+Error in twInterfaceObj$doAPICall(paste("users", "show", sep = "/"), params = params,  : 
+  Not Found (HTTP 404).
+In addition: Warning message:
+package 'twitteR' was built under R version 3.4.1 
+2017-11-16 23:51:00 Friends: Unable to find account SheDrawsBuilds moving to next
+2017-11-16 23:51:00 Friends  : % at /sec for SheDrawsBuilds
+2017-11-16 23:51:02 Friends  : 98.4% at 27/sec for sidewalklabs
+2017-11-16 23:51:02 Friends  : Waiting for 10.7 minutes
+2017-11-16 23:57:59 Favorites: 51.2% at 2/sec for rgalleria
+2017-11-16 23:58:02 Favorites: 100% at 27/sec for RIBA_SELSA
+2017-11-16 23:58:06 Favorites: 88.1% at 45/sec for RIBAginny
+2017-11-16 23:58:09 Favorites: 100% at 30/sec for RIBAWorcester
+2017-11-16 23:59:05 Favorites: 49.8% at 37/sec for Richard_C_
+2017-11-16 23:59:05 Favorites: 100% at 30/sec for richfoxley
+2017-11-16 23:59:13 Favorites: 62.7% at 38/sec for rmasters
+2017-11-16 23:59:32 Favorites: 54.7% at 40/sec for RoryOlcayto
+2017-11-16 23:59:35 Favorites: 51.8% at 36/sec for RotherhitheBdg
+2017-11-17 00:00:30 Favorites: 50% at 39/sec for RoundhouseLDN
+2017-11-17 00:00:31 Favorites: 100% at 52/sec for rowlandbroughtn
+2017-11-17 00:00:45 Favorites: Waiting for 11.8 minutes due to : Used up allowance in a loop
+2017-11-17 00:09:08 Friends  : 99.8% at 17/sec for Sierra_Magazine
+2017-11-17 00:09:14 Friends  : 97.2% at 39/sec for SimBimSim
+2017-11-17 00:09:35 Friends  : 98.4% at 46/sec for siwelarual
+2017-11-17 00:09:39 Friends  : 97.6% at 36/sec for SNA_Nguyen
+2017-11-17 00:09:42 Friends  : 97% at 37/sec for Somarchitecture
+2017-11-17 00:12:36 Favorites: 24% at 1/sec for RPBWARCHITECTS
+2017-11-17 00:12:36 Favorites: Waiting for 0 minutes due to : Used up allowance in a loop
+2017-11-17 00:12:59 Favorites: 49.7% at 40/sec for Rural_Office
+2017-11-17 00:13:01 Favorites: 64.3% at 35/sec for ruthgarde
+2017-11-17 00:13:08 Favorites: 58.5% at 46/sec for RVA_NY
+2017-11-17 00:13:13 Favorites: 55.7% at 38/sec for SandyRendelArch
+2017-11-17 00:13:26 Favorites: 60.6% at 39/sec for sarahcassl
+2017-11-17 00:13:31 Favorites: 92.6% at 37/sec for SdaArch
+2017-11-17 00:13:34 Favorites: 57.8% at 37/sec for serena_ralston
+2017-11-17 00:13:35 Favorites: 100% at 46/sec for SheDrawsBuilds
+2017-11-17 00:13:37 Favorites: 72.5% at 38/sec for sidewalklabs
+2017-11-17 00:14:02 Favorites: 49.3% at 41/sec for Sierra_Magazine
+2017-11-17 00:14:11 Favorites: 51% at 40/sec for SimBimSim
+2017-11-17 00:15:33 Favorites: 33.5% at 39/sec for siwelarual
+2017-11-17 00:15:36 Favorites: 70.4% at 35/sec for SNA_Nguyen
+2017-11-17 00:15:42 Favorites: 53.3% at 35/sec for Somarchitecture
+Warning messages:
+1: package 'twitteR' was built under R version 3.4.1 
+2: In twInterfaceObj$doAPICall(cmd, params, method, ...) :
+  Rate limit encountered & retry limit reached - returning partial results
+Warning message:
+package 'twitteR' was built under R version 3.4.1 

@@ -1,0 +1,171 @@
+starting worker pid=15052 on localhost:11271 at 05:11:15.201
+starting worker pid=10680 on localhost:11271 at 05:11:15.372
+starting worker pid=8244 on localhost:11271 at 05:11:15.531
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-16 05:12:29 Friends  : 99.2% at 34/sec for Jo_MillerNCH
+2017-11-16 05:13:07 Favorites: 50% at 28/sec for Jo_MillerNCH
+2017-11-16 05:13:23 Friends  : 98.6% at 38/sec for JoannePrestidge
+2017-11-16 05:13:31 Favorites: 49.9% at 40/sec for JoannePrestidge
+2017-11-16 05:13:34 Favorites: 51.8% at 37/sec for Jochurchill4
+2017-11-16 05:13:38 Friends  : 99.5% at 38/sec for Jochurchill4
+2017-11-16 05:14:00 Favorites: 50.7% at 44/sec for joenerssessian
+2017-11-16 05:14:02 Favorites: 66% at 41/sec for Joey_Shark
+2017-11-16 05:14:23 Favorites: 49.2% at 40/sec for john_victory1
+2017-11-16 05:14:29 Favorites: Waiting for 8.6 minutes due to : Used up allowance in a loop
+2017-11-16 05:14:34 Tweets   : 99.9% at 42/sec for Jo_MillerNCH
+2017-11-16 05:15:02 Friends  : 99.3% at 40/sec for joenerssessian
+2017-11-16 05:15:18 Friends  : 99.8% at 37/sec for Joey_Shark
+2017-11-16 05:15:40 Tweets   : 99.8% at 46/sec for JoannePrestidge
+2017-11-16 05:15:59 Friends  : 99.2% at 39/sec for john_victory1
+2017-11-16 05:16:19 Tweets   : 99.7% at 46/sec for Jochurchill4
+[1] "Server error: (500) Internal Server Error"
+[1] "This error is likely transient, retrying up to 5 more times ..."
+2017-11-16 05:17:26 Friends  : 98.6% at 38/sec for johnbirdswords
+2017-11-16 05:17:40 Tweets   : 28.5% at 39/sec for joenerssessian
+2017-11-16 05:17:43 Friends  : 98.8% at 34/sec for JonathonHolmes4
+2017-11-16 05:17:58 Tweets   : 99.3% at 32/sec for Joey_Shark
+2017-11-16 05:19:00 Friends  : 99.2% at 41/sec for JonnElledge
+2017-11-16 05:19:17 Friends  : 96.2% at 38/sec for josiebishton
+2017-11-16 05:19:21 Tweets   : 66.8% at 39/sec for john_victory1
+2017-11-16 05:19:24 Friends  : 96.2% at 32/sec for Jplaceaccent
+2017-11-16 05:20:30 Tweets   : 72.4% at 46/sec for johnbirdswords
+2017-11-16 05:20:43 Tweets   : 100% at 25/sec for JonathonHolmes4
+2017-11-16 05:21:54 Tweets   : 2.9% at 45/sec for JonnElledge
+2017-11-16 05:22:25 Friends  : 99.2% at 38/sec for jreynoldsMP
+2017-11-16 05:22:38 Friends  : 96.2% at 42/sec for JulieR_BaH
+2017-11-16 05:22:40 Friends  : 98.7% at 40/sec for juporttweet
+2017-11-16 05:23:05 Tweets   : 82.4% at 44/sec for josiebishton
+2017-11-16 05:23:07 Friends  : 99.3% at 48/sec for KarbonHomes
+2017-11-16 05:23:07 Friends  : Waiting for 4.5 minutes
+2017-11-16 05:23:19 Tweets   : 100% at 25/sec for Jplaceaccent
+2017-11-16 05:24:25 Favorites: 41.2% at 5/sec for johnbirdswords
+2017-11-16 05:24:28 Favorites: 56.5% at 40/sec for JonathonHolmes4
+2017-11-16 05:24:35 Tweets   : 11.2% at 42/sec for jreynoldsMP
+2017-11-16 05:25:00 Tweets   : 100% at 37/sec for JulieR_BaH
+2017-11-16 05:25:16 Tweets   : 100% at 28/sec for juporttweet
+2017-11-16 05:25:32 Favorites: 48% at 44/sec for JonnElledge
+2017-11-16 05:25:40 Favorites: 48.7% at 46/sec for josiebishton
+2017-11-16 05:25:44 Favorites: 63.2% at 47/sec for Jplaceaccent
+2017-11-16 05:26:00 Favorites: Waiting for 12.3 minutes due to : Used up allowance in a loop
+2017-11-16 05:26:16 Tweets   : 99.8% at 46/sec for KarbonHomes
+2017-11-16 05:26:49 Tweets   : 99.2% at 40/sec for KarenBiggs4
+2017-11-16 05:27:45 Friends  : 99.3% at 1/sec for KarenBiggs4
+2017-11-16 05:27:59 Friends  : 98.9% at 44/sec for KarenYarlington
+2017-11-16 05:28:04 Tweets   : 68.7% at 43/sec for KarenYarlington
+2017-11-16 05:28:07 Friends  : 98% at 36/sec for kateclifford5
+2017-11-16 05:28:30 Friends  : 99.6% at 45/sec for KateLHaynes
+2017-11-16 05:28:33 Tweets   : 99% at 31/sec for kateclifford5
+2017-11-16 05:28:51 Tweets   : 99.7% at 36/sec for KateLHaynes
+2017-11-16 05:28:57 Friends  : 99.2% at 44/sec for katyeb7
+2017-11-16 05:29:01 Friends  : 97.7% at 37/sec for KellyTComms
+2017-11-16 05:30:02 Tweets   : 68.8% at 45/sec for katyeb7
+2017-11-16 05:30:14 Tweets   : 100% at 26/sec for KellyTComms
+2017-11-16 05:30:23 Friends  : 99.1% at 43/sec for kevingulliver
+2017-11-16 05:30:30 Friends  : 95.8% at 40/sec for KitHarbottle
+2017-11-16 05:30:54 Friends  : 98.8% at 41/sec for knight_david
+2017-11-16 05:30:57 Friends  : 100% at 31/sec for LaraghHomes
+2017-11-16 05:30:58 Friends  : 100% at 32/sec for LauricePonting
+2017-11-16 05:31:17 Friends  : 97.7% at 37/sec for leesug
+2017-11-16 05:31:30 Friends  : 99.8% at 39/sec for LegendreMorgane
+2017-11-16 05:31:34 Tweets   : 28.5% at 40/sec for kevingulliver
+2017-11-16 05:31:41 Friends  : 97% at 38/sec for letsforlife
+2017-11-16 05:32:04 Friends  : 97.8% at 43/sec for lexcommnorth
+2017-11-16 05:32:04 Friends  : Waiting for 10.7 minutes
+2017-11-16 05:32:53 Tweets   : 71.1% at 41/sec for KitHarbottle
+2017-11-16 05:33:59 Tweets   : 39.2% at 49/sec for knight_david
+2017-11-16 05:34:09 Tweets   : 100% at 28/sec for LaraghHomes
+2017-11-16 05:34:16 Tweets   : 100% at 7/sec for LauricePonting
+2017-11-16 05:34:26 Tweets   : 95.8% at 22/sec for leesug
+2017-11-16 05:34:53 Tweets   : 99.7% at 42/sec for LegendreMorgane
+2017-11-16 05:35:17 Tweets   : 100% at 36/sec for letsforlife
+2017-11-16 05:35:38 Tweets   : 100% at 36/sec for lexcommnorth
+2017-11-16 05:36:56 Tweets   : 36.2% at 41/sec for lgbtfriend
+2017-11-16 05:37:45 Tweets   : 99.5% at 41/sec for Lisa_Hogan
+2017-11-16 05:38:08 Tweets   : 100% at 42/sec for LisaMason01
+2017-11-16 05:38:21 Tweets   : 100% at 31/sec for LizzyLester
+2017-11-16 05:38:40 Tweets   : 99.6% at 37/sec for LMHSteve
+2017-11-16 05:39:00 Tweets   : 99.7% at 38/sec for louisemurphyuk
+2017-11-16 05:39:17 Tweets   : 100% at 32/sec for louiseventon
+2017-11-16 05:39:32 Favorites: 13.5% at 4/sec for jreynoldsMP
+2017-11-16 05:39:43 Favorites: 58.2% at 45/sec for JulieR_BaH
+2017-11-16 05:39:53 Favorites: 65.1% at 41/sec for juporttweet
+2017-11-16 05:39:57 Favorites: 89.6% at 51/sec for KarbonHomes
+2017-11-16 05:40:04 Favorites: 73.9% at 42/sec for KarenBiggs4
+2017-11-16 05:40:24 Favorites: 48.7% at 44/sec for KarenYarlington
+2017-11-16 05:40:28 Tweets   : 31.1% at 45/sec for Lucy_Nichol78
+2017-11-16 05:40:28 Favorites: 73.5% at 40/sec for kateclifford5
+2017-11-16 05:40:31 Favorites: 58.4% at 44/sec for KateLHaynes
+2017-11-16 05:41:01 Favorites: 49.4% at 44/sec for katyeb7
+2017-11-16 05:41:05 Favorites: 89.7% at 50/sec for KellyTComms
+2017-11-16 05:41:10 Favorites: 79.8% at 40/sec for kevingulliver
+2017-11-16 05:41:22 Favorites: Waiting for 12.2 minutes due to : Used up allowance in a loop
+2017-11-16 05:41:23 Tweets   : 100% at 43/sec for MagnaHousing
+2017-11-16 05:42:18 Tweets   : 100% at 45/sec for MarceltheACN
+2017-11-16 05:42:25 Tweets   : 100% at 10/sec for marienicholsUk
+2017-11-16 05:42:44 Tweets   : 99.8% at 34/sec for MarijaAnta
+2017-11-16 05:43:13 Friends  : 99.3% at 1/sec for lgbtfriend
+2017-11-16 05:43:32 Friends  : 99.7% at 36/sec for Lisa_Hogan
+2017-11-16 05:43:35 Tweets   : 99.7% at 44/sec for marioambrosi
+2017-11-16 05:43:44 Friends  : 98.7% at 40/sec for LisaMason01
+2017-11-16 05:43:53 Friends  : 99.5% at 41/sec for LizzyLester
+2017-11-16 05:43:59 Friends  : 100% at 40/sec for LMHSteve
+2017-11-16 05:44:14 Friends  : 99.6% at 36/sec for louisemurphyuk
+2017-11-16 05:44:21 Friends  : 98.4% at 36/sec for louiseventon
+2017-11-16 05:44:30 Tweets   : 99.6% at 46/sec for MarkP_Muir
+2017-11-16 05:45:06 Friends  : 96.7% at 42/sec for Lucy_Nichol78
+2017-11-16 05:45:22 Friends  : 99.9% at 46/sec for MagnaHousing
+2017-11-16 05:45:30 Friends  : 98.4% at 40/sec for MarceltheACN
+2017-11-16 05:45:31 Friends  : 96.4% at 22/sec for marienicholsUk
+2017-11-16 05:45:46 Tweets   : 33.9% at 42/sec for marksimms3
+2017-11-16 05:45:57 Tweets   : 100% at 19/sec for MaureenSoha
+2017-11-16 05:46:01 Friends  : 99.4% at 51/sec for MarijaAnta
+2017-11-16 05:46:23 Friends  : 99.8% at 42/sec for marioambrosi
+2017-11-16 05:46:32 Tweets   : 99.8% at 36/sec for MayorofGM
+2017-11-16 05:46:43 Friends  : 98% at 48/sec for MarkP_Muir
+2017-11-16 05:47:12 Friends  : 95.7% at 43/sec for marksimms3
+2017-11-16 05:47:12 Friends  : Waiting for 10.9 minutes
+2017-11-16 05:47:47 Tweets   : 95.5% at 42/sec for McdonnellSheena
+2017-11-16 05:48:12 Tweets   : 98.2% at 36/sec for McTicc
+2017-11-16 05:48:27 Tweets   : 100% at 33/sec for MediaFriendlyUK
+2017-11-16 05:54:16 Favorites: 53% at 2/sec for KitHarbottle
+2017-11-16 05:54:52 Favorites: 51.9% at 47/sec for knight_david
+2017-11-16 05:54:53 Favorites: 51.8% at 72/sec for LaraghHomes
+2017-11-16 05:54:54 Favorites: 100% at 25/sec for LauricePonting
+2017-11-16 05:55:01 Favorites: 54.5% at 43/sec for leesug
+2017-11-16 05:55:03 Favorites: 52.1% at 40/sec for LegendreMorgane
+2017-11-16 05:55:09 Favorites: 70.2% at 48/sec for letsforlife
+2017-11-16 05:55:14 Favorites: 98% at 43/sec for lexcommnorth
+2017-11-16 05:55:33 Favorites: 53.9% at 46/sec for lgbtfriend
+2017-11-16 05:55:41 Favorites: 52.4% at 47/sec for Lisa_Hogan
+2017-11-16 05:55:49 Favorites: 48.7% at 48/sec for LisaMason01
+2017-11-16 05:55:53 Favorites: 92.2% at 46/sec for LizzyLester
+2017-11-16 05:55:58 Favorites: 84.3% at 43/sec for LMHSteve
+2017-11-16 05:56:02 Favorites: 66.1% at 55/sec for louisemurphyuk
+2017-11-16 05:56:09 Favorites: 54.9% at 42/sec for louiseventon
+2017-11-16 05:56:35 Favorites: Waiting for 12.3 minutes due to : Used up allowance in a loop
+2017-11-16 05:58:26 Friends  : 100% at 0/sec for MaureenSoha
+2017-11-16 05:58:28 Friends  : 100% at 35/sec for MayorofGM
+2017-11-16 05:58:56 Friends  : 98.9% at 47/sec for McdonnellSheena
+2017-11-16 05:58:58 Friends  : 96.8% at 47/sec for McTicc
+2017-11-16 05:59:43 Friends  : 99.8% at 48/sec for MediaFriendlyUK
+2017-11-16 06:09:30 Favorites: 50.2% at 3/sec for Lucy_Nichol78
+2017-11-16 06:09:32 Favorites: 98.8% at 43/sec for MagnaHousing
+2017-11-16 06:09:36 Favorites: 69.8% at 54/sec for MarceltheACN
+2017-11-16 06:09:38 Favorites: 100% at 41/sec for marienicholsUk
+2017-11-16 06:09:42 Favorites: 50.5% at 45/sec for MarijaAnta
+2017-11-16 06:09:46 Favorites: 71.8% at 53/sec for marioambrosi
+2017-11-16 06:10:06 Favorites: 52.9% at 45/sec for MarkP_Muir
+2017-11-16 06:11:15 Favorites: 41.3% at 46/sec for marksimms3
+2017-11-16 06:11:16 Favorites: 100% at 62/sec for MaureenSoha
+2017-11-16 06:11:33 Favorites: 50.1% at 45/sec for MayorofGM
+2017-11-16 06:11:49 Favorites: Waiting for 12.4 minutes due to : Used up allowance in a loop
+2017-11-16 06:24:45 Favorites: 52.5% at 2/sec for McdonnellSheena
+2017-11-16 06:24:48 Favorites: 60.8% at 57/sec for McTicc
+2017-11-16 06:24:50 Favorites: 59.8% at 46/sec for MediaFriendlyUK
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+package 'twitteR' was built under R version 3.4.1 
+Warning message:
+package 'twitteR' was built under R version 3.4.1 

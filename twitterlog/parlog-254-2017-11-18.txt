@@ -1,0 +1,158 @@
+starting worker pid=10964 on localhost:11271 at 04:27:49.411
+starting worker pid=12064 on localhost:11271 at 04:27:49.574
+starting worker pid=9584 on localhost:11271 at 04:27:49.741
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-18 04:30:59 Friends  : 99.7% at 34/sec for SeacourtLtd
+2017-11-18 04:31:04 Friends  : 99.3% at 27/sec for sebcoe
+2017-11-18 04:31:09 Friends  : 95.1% at 19/sec for SimonattheAJ
+2017-11-18 04:31:14 Friends  : 99.5% at 34/sec for sneedle46
+2017-11-18 04:31:22 Favorites: 59.6% at 28/sec for SeacourtLtd
+2017-11-18 04:31:40 Friends  : 97.1% at 31/sec for StridesSustain
+2017-11-18 04:31:40 Favorites: 63.9% at 22/sec for sebcoe
+2017-11-18 04:31:41 Favorites: 98.9% at 60/sec for SimonattheAJ
+2017-11-18 04:31:50 Favorites: 52.3% at 33/sec for sneedle46
+2017-11-18 04:31:52 Favorites: 100% at 64/sec for StridesSustain
+2017-11-18 04:33:24 Favorites: 15% at 35/sec for Sustainia
+2017-11-18 04:33:31 Favorites: 63% at 43/sec for SWMtweet
+2017-11-18 04:33:41 Favorites: 73.8% at 31/sec for Tanisha_RR
+2017-11-18 04:33:46 Favorites: 76.9% at 36/sec for TataSteelLtd
+2017-11-18 04:34:19 Favorites: 53.6% at 36/sec for thepmadden
+2017-11-18 04:34:21 Tweets   : 99.9% at 36/sec for SeacourtLtd
+2017-11-18 04:34:48 Friends  : 99.7% at 39/sec for Sustainia
+2017-11-18 04:34:51 Favorites: Waiting for 11.4 minutes due to : Used up allowance in a loop
+2017-11-18 04:34:52 Tweets   : 100% at 35/sec for sebcoe
+2017-11-18 04:35:01 Tweets   : 98.3% at 7/sec for SimonattheAJ
+2017-11-18 04:35:08 Friends  : 98.5% at 43/sec for SWMtweet
+2017-11-18 04:35:24 Friends  : 99.1% at 47/sec for Tanisha_RR
+2017-11-18 04:35:30 Friends  : 99.3% at 43/sec for TataSteelLtd
+2017-11-18 04:35:31 Friends  : Waiting for 2.8 minutes
+2017-11-18 04:35:37 Tweets   : 99.9% at 35/sec for sneedle46
+2017-11-18 04:35:52 Tweets   : 100% at 30/sec for StridesSustain
+2017-11-18 04:37:16 Tweets   : 14.6% at 38/sec for Sustainia
+2017-11-18 04:38:29 Tweets   : 87.6% at 44/sec for SWMtweet
+2017-11-18 04:38:34 Friends  : 98.6% at 3/sec for thepmadden
+2017-11-18 04:38:52 Tweets   : 99.8% at 34/sec for Tanisha_RR
+2017-11-18 04:39:19 Friends  : 99.7% at 42/sec for TonyJuniper
+2017-11-18 04:40:10 Tweets   : 88.4% at 41/sec for TataSteelLtd
+2017-11-18 04:41:01 Friends  : 99.2% at 42/sec for treadlightly08
+2017-11-18 04:41:15 Tweets   : 100% at 37/sec for thepmadden
+2017-11-18 04:41:18 Friends  : 98.5% at 39/sec for UoL_Environment
+2017-11-18 04:42:37 Tweets   : 44% at 39/sec for TonyJuniper
+2017-11-18 04:44:05 Tweets   : 25% at 37/sec for treadlightly08
+2017-11-18 04:45:26 Tweets   : 99.8% at 35/sec for UoL_Environment
+2017-11-18 04:46:36 Favorites: 51.7% at 2/sec for TonyJuniper
+2017-11-18 04:46:57 Tweets   : 10.3% at 35/sec for USGBC
+2017-11-18 04:47:55 Favorites: 51.4% at 33/sec for treadlightly08
+2017-11-18 04:48:06 Favorites: 60.6% at 36/sec for UoL_Environment
+2017-11-18 04:48:21 Tweets   : 100% at 37/sec for vchampain
+2017-11-18 04:48:27 Tweets   : 100% at 8/sec for vita_sanderson
+2017-11-18 04:48:42 Tweets   : 100% at 23/sec for windandsunuk
+2017-11-18 04:48:50 Tweets   : 100% at 5/sec for asimp70
+2017-11-18 04:49:22 Tweets   : 100% at 32/sec for Avongard
+2017-11-18 04:49:36 Favorites: 5.4% at 36/sec for USGBC
+2017-11-18 04:50:03 Favorites: Waiting for 11.4 minutes due to : Used up allowance in a loop
+2017-11-18 04:50:58 Tweets   : 29.8% at 34/sec for beesleyandfilde
+2017-11-18 04:51:56 Tweets   : 99.4% at 30/sec for BowBellsChurch
+2017-11-18 04:52:34 Tweets   : 100% at 28/sec for BP_Green
+2017-11-18 04:53:26 Tweets   : 99.9% at 30/sec for breedon_inabag
+2017-11-18 04:53:40 Tweets   : 100% at 21/sec for Carmen_Company
+2017-11-18 04:55:12 Tweets   : 97% at 30/sec for ChrisPateman2
+2017-11-18 04:55:23 Friends  : 100% at 37/sec for USGBC
+2017-11-18 04:56:06 Friends  : 97.3% at 39/sec for vchampain
+2017-11-18 04:56:08 Friends  : 100% at 26/sec for vita_sanderson
+2017-11-18 04:56:17 Friends  : 98.5% at 42/sec for windandsunuk
+2017-11-18 04:56:21 Friends  : 100% at 14/sec for asimp70
+2017-11-18 04:56:40 Tweets   : 52.9% at 36/sec for dominic_reid
+2017-11-18 04:56:48 Friends  : 99.7% at 42/sec for Avongard
+2017-11-18 04:56:55 Tweets   : 100% at 30/sec for FarmersCompany
+2017-11-18 04:57:03 Tweets   : 100% at 13/sec for feltmakerlondon
+2017-11-18 04:57:54 Tweets   : 100% at 40/sec for FleurUpminster
+2017-11-18 04:58:03 Tweets   : 100% at 11/sec for FoundersClerk
+2017-11-18 04:58:34 Tweets   : 99.9% at 33/sec for FurnitureHall
+2017-11-18 04:58:56 Tweets   : 100% at 26/sec for glasssellers
+2017-11-18 04:59:16 Tweets   : 100% at 31/sec for GraemeCity
+2017-11-18 04:59:29 Friends  : 94.9% at 36/sec for beesleyandfilde
+2017-11-18 04:59:46 Friends  : 99.1% at 33/sec for BowBellsChurch
+2017-11-18 05:00:05 Friends  : 99.5% at 37/sec for BP_Green
+2017-11-18 05:00:37 Tweets   : 38.5% at 39/sec for GreatestCapital
+2017-11-18 05:00:43 Tweets   : 100% at 3/sec for GreatSheepDrive
+2017-11-18 05:00:58 Friends  : 100% at 39/sec for breedon_inabag
+2017-11-18 05:01:07 Friends  : 95.5% at 36/sec for Carmen_Company
+2017-11-18 05:01:09 Tweets   : 100% at 30/sec for GwenllianRhys
+2017-11-18 05:01:13 Friends  : 96.3% at 54/sec for ChrisPateman2
+2017-11-18 05:01:30 Friends  : 95.7% at 40/sec for dominic_reid
+2017-11-18 05:01:37 Tweets   : 99.6% at 28/sec for HAC_TheCompany
+2017-11-18 05:01:40 Friends  : 97.8% at 43/sec for FarmersCompany
+2017-11-18 05:01:41 Friends  : 100% at 35/sec for feltmakerlondon
+2017-11-18 05:01:41 Friends  : Waiting for 8.8 minutes
+2017-11-18 05:01:55 Favorites: 49.9% at 2/sec for vchampain
+2017-11-18 05:01:56 Favorites: 100% at 26/sec for vita_sanderson
+2017-11-18 05:01:57 Favorites: 100% at 56/sec for windandsunuk
+2017-11-18 05:01:58 Favorites: 100% at 48/sec for asimp70
+2017-11-18 05:02:07 Favorites: 50.4% at 33/sec for Avongard
+2017-11-18 05:02:08 Favorites: 92.9% at 42/sec for beesleyandfilde
+2017-11-18 05:02:17 Favorites: 50.9% at 34/sec for BowBellsChurch
+2017-11-18 05:02:32 Favorites: 53.6% at 38/sec for BP_Green
+2017-11-18 05:02:39 Favorites: 64.4% at 43/sec for breedon_inabag
+2017-11-18 05:02:44 Favorites: 66.8% at 40/sec for Carmen_Company
+2017-11-18 05:02:56 Favorites: 13.3% at 28/sec for ChrisPateman2
+2017-11-18 05:03:04 Tweets   : 76.8% at 37/sec for HarmerDrainage
+2017-11-18 05:03:41 Tweets   : 99.4% at 31/sec for HSLancs
+2017-11-18 05:04:20 Favorites: 20.4% at 38/sec for dominic_reid
+2017-11-18 05:04:25 Favorites: 54.3% at 38/sec for FarmersCompany
+2017-11-18 05:04:29 Favorites: 97.4% at 22/sec for feltmakerlondon
+2017-11-18 05:04:29 Favorites: 94.1% at 30/sec for FleurUpminster
+2017-11-18 05:04:31 Favorites: 100% at 61/sec for FoundersClerk
+2017-11-18 05:04:32 Favorites: 100% at 52/sec for FurnitureHall
+2017-11-18 05:04:40 Favorites: 50.1% at 34/sec for glasssellers
+2017-11-18 05:04:42 Favorites: 100% at 64/sec for GraemeCity
+2017-11-18 05:04:45 Favorites: Waiting for 12 minutes due to : Used up allowance in a loop
+2017-11-18 05:05:03 Tweets   : 48.3% at 39/sec for ianandmj
+2017-11-18 05:05:19 Tweets   : 99.3% at 26/sec for ianexall
+2017-11-18 05:06:31 Tweets   : 100% at 42/sec for IoDCity
+2017-11-18 05:06:59 Tweets   : 99.5% at 35/sec for Ironhall
+2017-11-18 05:08:17 Tweets   : 97.7% at 41/sec for johnbarradell
+2017-11-18 05:08:25 Tweets   : 100% at 11/sec for LondonFreemen
+2017-11-18 05:08:37 Tweets   : 100% at 22/sec for M4Construction
+2017-11-18 05:08:54 Tweets   : 99.8% at 28/sec for managertidworth
+2017-11-18 05:10:44 Friends  : 99.6% at 0/sec for FleurUpminster
+2017-11-18 05:10:47 Friends  : 93.1% at 45/sec for FoundersClerk
+2017-11-18 05:11:31 Friends  : 99.6% at 48/sec for FurnitureHall
+2017-11-18 05:11:39 Friends  : 95.3% at 45/sec for glasssellers
+2017-11-18 05:11:49 Friends  : 99.4% at 47/sec for GraemeCity
+2017-11-18 05:17:00 Favorites: 69.4% at 0/sec for GreatestCapital
+2017-11-18 05:17:00 Favorites: User GreatSheepDrive has a protected account or no Favoritess to collect so skipping
+2017-11-18 05:17:03 Favorites: 96.1% at 28/sec for GwenllianRhys
+2017-11-18 05:17:22 Favorites: 54.4% at 36/sec for HAC_TheCompany
+2017-11-18 05:17:23 Favorites: 91.4% at 61/sec for HarmerDrainage
+2017-11-18 05:17:34 Favorites: 62.8% at 38/sec for HSLancs
+2017-11-18 05:17:53 Favorites: 49.7% at 36/sec for ianandmj
+2017-11-18 05:17:54 Favorites: 100% at 67/sec for ianexall
+2017-11-18 05:17:59 Favorites: 73% at 39/sec for IoDCity
+2017-11-18 05:18:08 Favorites: 70.4% at 33/sec for Ironhall
+2017-11-18 05:18:12 Favorites: 79.2% at 26/sec for johnbarradell
+2017-11-18 05:18:12 Favorites: 100% at 29/sec for LondonFreemen
+2017-11-18 05:18:14 Favorites: 63.7% at 66/sec for M4Construction
+2017-11-18 05:18:19 Favorites: 56.5% at 39/sec for managertidworth
+2017-11-18 05:21:38 Friends  : 99.3% at 41/sec for GreatestCapital
+2017-11-18 05:21:41 Friends  : 100% at 46/sec for GreatSheepDrive
+2017-11-18 05:21:54 Friends  : 97.1% at 39/sec for GwenllianRhys
+2017-11-18 05:22:11 Friends  : 99.5% at 44/sec for HAC_TheCompany
+2017-11-18 05:23:49 Friends  : 100% at 39/sec for HarmerDrainage
+2017-11-18 05:25:14 Friends  : 97.8% at 38/sec for HSLancs
+2017-11-18 05:25:15 Friends  : Waiting for 0.5 minutes
+2017-11-18 05:26:07 Friends  : 98.4% at 14/sec for ianandmj
+2017-11-18 05:26:12 Friends  : 99.6% at 56/sec for ianexall
+2017-11-18 05:27:23 Friends  : 98% at 49/sec for IoDCity
+2017-11-18 05:28:13 Friends  : 98.5% at 46/sec for Ironhall
+2017-11-18 05:28:26 Friends  : 99% at 46/sec for johnbarradell
+2017-11-18 05:28:28 Friends  : 98.5% at 42/sec for LondonFreemen
+2017-11-18 05:28:39 Friends  : 97.7% at 40/sec for M4Construction
+2017-11-18 05:28:41 Friends  : 98% at 28/sec for managertidworth
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+Warning message:
+was built under R version 3.4.1 
+package 'twitteR' was built under R version 3.4.1 

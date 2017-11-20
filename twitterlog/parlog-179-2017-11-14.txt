@@ -1,0 +1,168 @@
+starting worker pid=1932 on localhost:11271 at 15:59:41.536
+starting worker pid=10988 on localhost:11271 at 15:59:41.706
+starting worker pid=11868 on localhost:11271 at 15:59:41.879
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-14 16:00:02 Friends  : 98.9% at 47/sec for Dec_build
+2017-11-14 16:00:28 Favorites: 51.1% at 43/sec for Dec_build
+2017-11-14 16:00:29 Friends  : 98.2% at 50/sec for DevonshireWindo
+2017-11-14 16:00:37 Favorites: 58.1% at 45/sec for DevonshireWindo
+2017-11-14 16:00:41 Tweets   : 97.9% at 46/sec for Dec_build
+2017-11-14 16:00:59 Favorites: 53.6% at 46/sec for DiSylvia2
+2017-11-14 16:01:05 Favorites: 51.1% at 39/sec for DoormaticDoors
+2017-11-14 16:01:18 Tweets   : 99.8% at 48/sec for DevonshireWindo
+2017-11-14 16:01:19 Favorites: 51.4% at 42/sec for DroylsdenGlass
+2017-11-14 16:01:24 Favorites: 67.2% at 45/sec for EconomyWindows
+2017-11-14 16:01:42 Favorites: 49.3% at 43/sec for ElaineSagar
+2017-11-14 16:01:42 Favorites: 93.3% at 23/sec for Elephant_Window
+2017-11-14 16:01:52 Favorites: 50.4% at 41/sec for EnduranceDoors
+2017-11-14 16:01:54 Favorites: 79.4% at 47/sec for EvergladeWindow
+2017-11-14 16:01:56 Favorites: 100% at 41/sec for everroofLtd
+2017-11-14 16:01:58 Friends  : 94.2% at 48/sec for DiSylvia2
+2017-11-14 16:02:15 Favorites: Waiting for 11.8 minutes due to : Used up allowance in a loop
+2017-11-14 16:02:21 Tweets   : 97.9% at 51/sec for DiSylvia2
+2017-11-14 16:02:24 Friends  : 99.9% at 50/sec for DoormaticDoors
+2017-11-14 16:02:31 Friends  : 96% at 45/sec for DroylsdenGlass
+2017-11-14 16:03:14 Friends  : 92.4% at 48/sec for EconomyWindows
+2017-11-14 16:03:20 Tweets   : 38.1% at 54/sec for DoormaticDoors
+2017-11-14 16:03:21 Friends  : 99.4% at 45/sec for ElaineSagar
+2017-11-14 16:03:28 Friends  : 99.7% at 55/sec for Elephant_Window
+2017-11-14 16:04:07 Tweets   : 99.9% at 47/sec for DroylsdenGlass
+2017-11-14 16:04:19 Friends  : 98.4% at 53/sec for EnduranceDoors
+2017-11-14 16:04:30 Friends  : 100% at 55/sec for EvergladeWindow
+2017-11-14 16:04:39 Friends  : 99.8% at 54/sec for everroofLtd
+2017-11-14 16:04:43 Tweets   : 99.9% at 51/sec for EconomyWindows
+2017-11-14 16:05:40 Tweets   : 96.8% at 56/sec for ElaineSagar
+2017-11-14 16:06:00 Tweets   : 99.9% at 41/sec for Elephant_Window
+2017-11-14 16:06:11 Friends  : 96.2% at 48/sec for EvoqueHeating
+2017-11-14 16:06:26 Friends  : 100% at 47/sec for ExovaBMTRADA
+2017-11-14 16:06:43 Tweets   : 100% at 55/sec for EnduranceDoors
+2017-11-14 16:06:52 Friends  : 95.2% at 54/sec for fasterplastics
+2017-11-14 16:07:36 Tweets   : 100% at 56/sec for EvergladeWindow
+2017-11-14 16:07:42 Friends  : 98.6% at 51/sec for financialombuds
+2017-11-14 16:07:42 Friends  : Waiting for 7.2 minutes
+2017-11-14 16:07:46 Tweets   : 100% at 25/sec for everroofLtd
+2017-11-14 16:08:42 Tweets   : 21.1% at 57/sec for EvoqueHeating
+2017-11-14 16:09:08 Tweets   : 100% at 47/sec for ExovaBMTRADA
+2017-11-14 16:09:25 Tweets   : 100% at 41/sec for fasterplastics
+2017-11-14 16:10:15 Tweets   : 34.2% at 64/sec for financialombuds
+2017-11-14 16:10:45 Tweets   : 99.7% at 57/sec for floormonsteruk
+2017-11-14 16:11:43 Tweets   : 57.5% at 55/sec for glassbasics
+2017-11-14 16:11:49 Tweets   : 100% at 5/sec for Glasscentre1966
+2017-11-14 16:12:42 Tweets   : 29.3% at 61/sec for GlazeLen
+2017-11-14 16:13:44 Tweets   : 98.5% at 51/sec for glazinginsights
+2017-11-14 16:14:37 Tweets   : 6.9% at 61/sec for gmpolice
+2017-11-14 16:14:45 Tweets   : 100% at 11/sec for HartleyGlazing
+2017-11-14 16:14:54 Favorites: 17.9% at 4/sec for EvoqueHeating
+2017-11-14 16:14:56 Favorites: 100% at 37/sec for ExovaBMTRADA
+2017-11-14 16:14:58 Favorites: 98.3% at 38/sec for fasterplastics
+2017-11-14 16:15:04 Favorites: 72% at 48/sec for financialombuds
+2017-11-14 16:15:08 Favorites: 81.4% at 41/sec for floormonsteruk
+2017-11-14 16:15:19 Tweets   : 99.7% at 49/sec for HausglassUK
+2017-11-14 16:15:25 Friends  : 99.8% at 4/sec for floormonsteruk
+2017-11-14 16:15:29 Tweets   : 100% at 25/sec for HBD_Systems
+2017-11-14 16:15:37 Friends  : 97.8% at 54/sec for glassbasics
+2017-11-14 16:15:39 Friends  : 91.3% at 42/sec for Glasscentre1966
+2017-11-14 16:15:53 Friends  : 99.8% at 47/sec for GlazeLen
+2017-11-14 16:16:07 Favorites: 49.3% at 43/sec for glassbasics
+2017-11-14 16:16:08 Tweets   : 100% at 52/sec for HEAssist
+2017-11-14 16:16:08 Favorites: 100% at 19/sec for Glasscentre1966
+2017-11-14 16:16:09 Favorites: 100% at 37/sec for GlazeLen
+2017-11-14 16:16:13 Friends  : 93.2% at 50/sec for glazinginsights
+2017-11-14 16:16:25 Friends  : 99.3% at 49/sec for gmpolice
+2017-11-14 16:16:33 Friends  : 98.9% at 34/sec for HartleyGlazing
+2017-11-14 16:16:34 Favorites: 50.3% at 45/sec for glazinginsights
+2017-11-14 16:16:45 Favorites: Waiting for 12.3 minutes due to : Used up allowance in a loop
+2017-11-14 16:16:57 Friends  : 98.7% at 49/sec for HausglassUK
+2017-11-14 16:17:01 Friends  : 99.5% at 45/sec for HBD_Systems
+2017-11-14 16:17:10 Tweets   : 1.6% at 51/sec for homegardenlist
+2017-11-14 16:18:05 Friends  : 100% at 47/sec for HEAssist
+2017-11-14 16:18:05 Friends  : Waiting for 11.9 minutes
+2017-11-14 16:18:16 Tweets   : 56.7% at 48/sec for HomeSgk
+2017-11-14 16:18:27 Tweets   : 99.4% at 29/sec for Infinity_Glass_
+2017-11-14 16:19:24 Tweets   : 46.8% at 56/sec for InsightData
+2017-11-14 16:19:43 Tweets   : 99.5% at 43/sec for JasonKotowski
+2017-11-14 16:20:03 Tweets   : 99.8% at 40/sec for KF_Windows
+2017-11-14 16:20:10 Tweets   : 100% at 13/sec for KLGGlazing
+2017-11-14 16:21:04 Tweets   : 13.7% at 59/sec for LancsPolice
+2017-11-14 16:21:12 Tweets   : 100% at 9/sec for LeedsGlass
+2017-11-14 16:21:48 Tweets   : 100% at 56/sec for MadeForTrade1
+2017-11-14 16:22:10 Tweets   : 100% at 53/sec for maimprove
+2017-11-14 16:22:21 Tweets   : 100% at 27/sec for ManserRichard
+2017-11-14 16:23:17 Tweets   : 74.3% at 57/sec for MBAAssociates
+2017-11-14 16:23:48 Tweets   : 99.7% at 53/sec for metishr
+2017-11-14 16:24:31 Tweets   : 99.9% at 58/sec for MGPlimited
+2017-11-14 16:24:42 Tweets   : 100% at 31/sec for MGWindows
+2017-11-14 16:24:57 Tweets   : 100% at 37/sec for millwoodenfloor
+2017-11-14 16:25:55 Tweets   : 77.4% at 55/sec for Missy_CMiller
+2017-11-14 16:26:06 Tweets   : 100% at 29/sec for necsolutions
+2017-11-14 16:26:54 Tweets   : 99.4% at 54/sec for New_Wave_Doors
+2017-11-14 16:27:49 Tweets   : 56% at 59/sec for newhomesagency
+2017-11-14 16:28:12 Tweets   : 99.9% at 49/sec for OaklandGlassLtd
+2017-11-14 16:28:24 Tweets   : 100% at 32/sec for OakleyLiving
+2017-11-14 16:28:32 Tweets   : 100% at 9/sec for orangerybuild
+2017-11-14 16:29:19 Favorites: 50.5% at 1/sec for gmpolice
+2017-11-14 16:29:20 Favorites: 95.2% at 23/sec for HartleyGlazing
+2017-11-14 16:29:29 Tweets   : 61.8% at 56/sec for PDSdoorsets
+2017-11-14 16:29:42 Favorites: 49.3% at 47/sec for HausglassUK
+2017-11-14 16:29:44 Favorites: 100% at 47/sec for HBD_Systems
+2017-11-14 16:29:45 Favorites: 100% at 10/sec for HEAssist
+2017-11-14 16:30:24 Favorites: 12% at 29/sec for homegardenlist
+2017-11-14 16:30:59 Favorites: 48.7% at 50/sec for HomeSgk
+2017-11-14 16:31:00 Favorites: 88.7% at 43/sec for Infinity_Glass_
+2017-11-14 16:31:07 Favorites: Waiting for 13 minutes due to : Used up allowance in a loop
+2017-11-14 16:39:35 Friends  : 95.9% at 24/sec for homegardenlist
+2017-11-14 16:39:48 Friends  : 99.4% at 57/sec for HomeSgk
+2017-11-14 16:39:58 Friends  : 100% at 56/sec for Infinity_Glass_
+2017-11-14 16:40:17 Friends  : 97.9% at 57/sec for InsightData
+2017-11-14 16:40:27 Friends  : 99.5% at 58/sec for JasonKotowski
+2017-11-14 16:40:32 Friends  : 88.2% at 57/sec for KF_Windows
+2017-11-14 16:40:34 Friends  : 100% at 16/sec for KLGGlazing
+2017-11-14 16:40:43 Friends  : 97.7% at 55/sec for LancsPolice
+2017-11-14 16:40:46 Friends  : 98.8% at 47/sec for LeedsGlass
+2017-11-14 16:40:46 Friends  : Waiting for 4.3 minutes
+2017-11-14 16:44:13 Favorites: 56.9% at 1/sec for InsightData
+2017-11-14 16:44:17 Favorites: 60% at 50/sec for JasonKotowski
+2017-11-14 16:44:19 Favorites: 53.5% at 44/sec for KF_Windows
+2017-11-14 16:44:20 Favorites: 100% at 5/sec for KLGGlazing
+2017-11-14 16:44:42 Favorites: 48.8% at 49/sec for LancsPolice
+2017-11-14 16:44:42 Favorites: 100% at 8/sec for LeedsGlass
+2017-11-14 16:44:44 Favorites: 59.5% at 50/sec for MadeForTrade1
+2017-11-14 16:44:45 Favorites: 100% at 2/sec for maimprove
+2017-11-14 16:44:49 Favorites: 77.3% at 46/sec for ManserRichard
+2017-11-14 16:44:57 Favorites: 60% at 47/sec for MBAAssociates
+2017-11-14 16:44:59 Favorites: 72.5% at 53/sec for metishr
+2017-11-14 16:45:20 Favorites: 48.5% at 47/sec for MGPlimited
+2017-11-14 16:45:21 Favorites: 100% at 37/sec for MGWindows
+2017-11-14 16:45:27 Favorites: 69.5% at 46/sec for millwoodenfloor
+2017-11-14 16:45:35 Friends  : 97% at 7/sec for MadeForTrade1
+2017-11-14 16:45:38 Friends  : 100% at 33/sec for maimprove
+2017-11-14 16:45:45 Friends  : 95.7% at 51/sec for ManserRichard
+2017-11-14 16:45:55 Friends  : 96.1% at 55/sec for MBAAssociates
+2017-11-14 16:45:59 Favorites: 50.7% at 49/sec for Missy_CMiller
+2017-11-14 16:46:01 Favorites: 100% at 53/sec for necsolutions
+2017-11-14 16:46:03 Favorites: 63.3% at 49/sec for New_Wave_Doors
+2017-11-14 16:46:03 Favorites: User newhomesagency has a protected account or no Favoritess to collect so skipping
+2017-11-14 16:46:09 Favorites: 53.5% at 48/sec for OaklandGlassLtd
+2017-11-14 16:46:11 Favorites: 92.5% at 44/sec for OakleyLiving
+2017-11-14 16:46:11 Favorites: 100% at 5/sec for orangerybuild
+2017-11-14 16:46:16 Favorites: 51% at 46/sec for PDSdoorsets
+2017-11-14 16:46:26 Friends  : 100% at 53/sec for metishr
+2017-11-14 16:46:37 Friends  : 98.9% at 63/sec for MGPlimited
+2017-11-14 16:46:39 Friends  : 100% at 34/sec for MGWindows
+2017-11-14 16:46:56 Friends  : 100% at 55/sec for millwoodenfloor
+2017-11-14 16:47:31 Friends  : 96.1% at 63/sec for Missy_CMiller
+2017-11-14 16:47:38 Friends  : 96% at 58/sec for necsolutions
+2017-11-14 16:47:58 Friends  : 99.4% at 57/sec for New_Wave_Doors
+2017-11-14 16:48:45 Friends  : 95.4% at 56/sec for newhomesagency
+2017-11-14 16:48:52 Friends  : 98.5% at 47/sec for OaklandGlassLtd
+2017-11-14 16:49:00 Friends  : 95.3% at 55/sec for OakleyLiving
+2017-11-14 16:49:04 Friends  : 100% at 47/sec for orangerybuild
+2017-11-14 16:49:04 Friends  : Waiting for 11.1 minutes
+2017-11-14 17:00:32 Friends  : 99.7% at 2/sec for PDSdoorsets
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+package 'twitteR' was built under R version 3.4.1 
+Warning message:
+package 'twitteR' was built under R version 3.4.1 

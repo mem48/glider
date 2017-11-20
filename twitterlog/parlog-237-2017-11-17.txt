@@ -1,0 +1,178 @@
+starting worker pid=10816 on localhost:11271 at 10:54:32.444
+starting worker pid=13852 on localhost:11271 at 10:54:32.606
+starting worker pid=11864 on localhost:11271 at 10:54:32.770
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-17 10:56:18 Friends  : 99.2% at 34/sec for stevenparkerseo
+2017-11-17 10:56:24 Friends  : 100% at 37/sec for SteveRodellCCo
+2017-11-17 10:57:16 Friends  : 99.4% at 38/sec for Sting4r
+2017-11-17 10:57:21 Favorites: 84% at 34/sec for stevenparkerseo
+2017-11-17 10:57:21 Favorites: Waiting for 0.6 minutes due to : Used up allowance in a loop
+2017-11-17 10:57:59 Favorites: 98.1% at 1/sec for SteveRodellCCo
+2017-11-17 10:58:26 Favorites: 52.9% at 29/sec for Sting4r
+2017-11-17 10:58:35 Friends  : 99.3% at 35/sec for StromaGroup
+2017-11-17 10:58:37 Favorites: 61.1% at 36/sec for StromaGroup
+2017-11-17 10:58:37 Friends  : 97.8% at 42/sec for stuarthoggcom
+2017-11-17 10:58:41 Favorites: 93.4% at 42/sec for stuarthoggcom
+2017-11-17 10:58:55 Favorites: 53.1% at 38/sec for surveyassoc
+2017-11-17 10:59:02 Favorites: 66.8% at 28/sec for SurveyorsLondon
+2017-11-17 10:59:02 Friends  : 99.3% at 29/sec for surveyassoc
+2017-11-17 10:59:07 Favorites: 58.9% at 40/sec for susanperdijk
+2017-11-17 10:59:08 Favorites: 92.5% at 38/sec for swilkinson58
+2017-11-17 10:59:13 Favorites: 70.2% at 39/sec for synergyllp
+2017-11-17 10:59:16 Favorites: 100% at 17/sec for TAF_Information
+2017-11-17 10:59:19 Tweets   : 100% at 31/sec for stevenparkerseo
+2017-11-17 10:59:21 Favorites: 52.5% at 40/sec for tamilselvansp
+2017-11-17 10:59:24 Friends  : 96.4% at 37/sec for SurveyorsLondon
+2017-11-17 10:59:34 Tweets   : 100% at 26/sec for SteveRodellCCo
+2017-11-17 10:59:43 Favorites: 54.8% at 39/sec for TanyaHorscroft
+2017-11-17 10:59:45 Friends  : 99.7% at 35/sec for susanperdijk
+2017-11-17 10:59:50 Friends  : 100% at 38/sec for swilkinson58
+2017-11-17 10:59:55 Favorites: 53.3% at 35/sec for TC_Consult
+2017-11-17 11:00:22 Friends  : 99.4% at 33/sec for synergyllp
+2017-11-17 11:00:24 Friends  : 100% at 47/sec for TAF_Information
+2017-11-17 11:00:24 Friends  : Waiting for 2.9 minutes
+2017-11-17 11:00:50 Tweets   : 30.8% at 41/sec for Sting4r
+2017-11-17 11:01:18 Favorites: 49.5% at 35/sec for TGLPEARSON
+2017-11-17 11:01:23 Favorites: Waiting for 11.6 minutes due to : Used up allowance in a loop
+2017-11-17 11:01:57 Tweets   : 98.6% at 40/sec for StromaGroup
+2017-11-17 11:02:16 Tweets   : 100% at 35/sec for stuarthoggcom
+2017-11-17 11:03:03 Tweets   : 99.8% at 42/sec for surveyassoc
+2017-11-17 11:03:23 Friends  : 97.4% at 0/sec for tamilselvansp
+2017-11-17 11:04:27 Tweets   : 97.9% at 38/sec for SurveyorsLondon
+2017-11-17 11:04:34 Friends  : 99.2% at 37/sec for TanyaHorscroft
+2017-11-17 11:05:00 Tweets   : 99.6% at 34/sec for susanperdijk
+2017-11-17 11:05:05 Friends  : 99.8% at 34/sec for TC_Consult
+2017-11-17 11:05:43 Friends  : 98.2% at 35/sec for TGLPEARSON
+2017-11-17 11:05:46 Tweets   : 100% at 34/sec for swilkinson58
+2017-11-17 11:06:17 Friends  : 97.2% at 31/sec for ThatBIMthing
+2017-11-17 11:06:27 Tweets   : 100% at 35/sec for synergyllp
+2017-11-17 11:06:42 Tweets   : 100% at 23/sec for TAF_Information
+2017-11-17 11:07:00 Tweets   : 100% at 23/sec for tamilselvansp
+2017-11-17 11:07:53 Friends  : 99.2% at 35/sec for TheEAUC
+2017-11-17 11:08:29 Friends  : 94.2% at 29/sec for thefundingroom
+2017-11-17 11:08:42 Tweets   : 39.1% at 31/sec for TanyaHorscroft
+2017-11-17 11:08:53 Friends  : 98.7% at 29/sec for thehappycobbler
+2017-11-17 11:09:12 Friends  : 99.8% at 24/sec for thepatronslunch
+2017-11-17 11:09:28 Tweets   : 99.9% at 26/sec for TC_Consult
+2017-11-17 11:10:46 Friends  : 96.5% at 27/sec for ThePPartner
+2017-11-17 11:11:11 Tweets   : 31.5% at 31/sec for TGLPEARSON
+2017-11-17 11:11:15 Friends  : 97.2% at 25/sec for TheRoyalGame
+2017-11-17 11:11:28 Friends  : 98.6% at 39/sec for TheWigleyGroup
+2017-11-17 11:11:57 Tweets   : 99.9% at 39/sec for ThatBIMthing
+2017-11-17 11:12:08 Friends  : 97.1% at 36/sec for theymca_cw
+2017-11-17 11:12:37 Friends  : 97.9% at 34/sec for ThisisMannah
+2017-11-17 11:12:58 Favorites: 10.2% at 0/sec for ThatBIMthing
+2017-11-17 11:12:58 Favorites: Waiting for 0 minutes due to : Used up allowance in a loop
+2017-11-17 11:13:24 Tweets   : 37.1% at 37/sec for TheEAUC
+2017-11-17 11:13:38 Friends  : 98.3% at 34/sec for TimBeachMH
+2017-11-17 11:13:38 Friends  : Waiting for 4.8 minutes
+2017-11-17 11:14:07 Favorites: 51.4% at 36/sec for TheEAUC
+2017-11-17 11:14:36 Favorites: 53.7% at 37/sec for thefundingroom
+2017-11-17 11:15:00 Tweets   : 90.4% at 33/sec for thefundingroom
+2017-11-17 11:16:05 Favorites: 32.7% at 35/sec for thehappycobbler
+2017-11-17 11:16:20 Favorites: 53.5% at 34/sec for thepatronslunch
+2017-11-17 11:16:23 Favorites: Waiting for 11.6 minutes due to : Used up allowance in a loop
+2017-11-17 11:16:37 Tweets   : 37.4% at 33/sec for thehappycobbler
+2017-11-17 11:17:03 Tweets   : 99.2% at 25/sec for thepatronslunch
+2017-11-17 11:18:09 Tweets   : 99.4% at 34/sec for ThePPartner
+2017-11-17 11:18:31 Friends  : 100% at 0/sec for TimCEMvp
+2017-11-17 11:18:32 Tweets   : 99.8% at 28/sec for TheRoyalGame
+2017-11-17 11:18:32 Friends  : 97.8% at 33/sec for tkclimited
+2017-11-17 11:18:37 Friends  : 100% at 33/sec for tmdSurveyors
+2017-11-17 11:18:45 Friends  : 96.4% at 32/sec for TopUpConsultant
+2017-11-17 11:19:22 Friends  : 99.7% at 32/sec for TraceyProudlock
+2017-11-17 11:19:26 Friends  : 100% at 19/sec for trevorjwoods
+2017-11-17 11:19:28 Friends  : 100% at 29/sec for tscott_a
+2017-11-17 11:19:44 Friends  : 99.6% at 30/sec for tullysf
+2017-11-17 11:19:55 Tweets   : 99.9% at 36/sec for TheWigleyGroup
+2017-11-17 11:20:04 Friends  : 99.1% at 32/sec for UKASEAN
+2017-11-17 11:20:37 Friends  : 99.7% at 33/sec for UKIBC
+Error in twInterfaceObj$doAPICall(paste("users", "show", sep = "/"), params = params,  : 
+  Not Found (HTTP 404).
+In addition: Warning message:
+package 'twitteR' was built under R version 3.4.1 
+2017-11-17 11:20:37 Friends: Unable to find account UKTSG moving to next
+2017-11-17 11:20:37 Friends  : % at /sec for UKTSG
+2017-11-17 11:21:06 Friends  : 99% at 31/sec for UNEP_FI
+2017-11-17 11:21:28 Tweets   : 91.1% at 34/sec for theymca_cw
+2017-11-17 11:21:52 Friends  : 99.2% at 31/sec for UniRdg_SustBE
+2017-11-17 11:22:05 Friends  : 98.7% at 23/sec for unitate_fortior
+2017-11-17 11:22:16 Friends  : 98.5% at 31/sec for VGriffiths_KF
+2017-11-17 11:22:24 Tweets   : 99.4% at 32/sec for ThisisMannah
+2017-11-17 11:22:54 Friends  : 98.9% at 30/sec for VictorianAlyson
+2017-11-17 11:22:54 Friends  : Waiting for 10.6 minutes
+2017-11-17 11:23:58 Tweets   : 99.5% at 32/sec for TimBeachMH
+2017-11-17 11:24:13 Tweets   : 99.6% at 17/sec for TimCEMvp
+2017-11-17 11:24:52 Tweets   : 100% at 30/sec for tkclimited
+2017-11-17 11:25:00 Tweets   : 100% at 14/sec for tmdSurveyors
+2017-11-17 11:25:37 Tweets   : 99.9% at 38/sec for TopUpConsultant
+2017-11-17 11:27:09 Tweets   : 17.3% at 35/sec for TraceyProudlock
+2017-11-17 11:27:27 Tweets   : 99.7% at 20/sec for trevorjwoods
+2017-11-17 11:27:37 Tweets   : 100% at 14/sec for tscott_a
+2017-11-17 11:27:49 Tweets   : 100% at 19/sec for tullysf
+2017-11-17 11:28:41 Favorites: 52.2% at 1/sec for ThePPartner
+2017-11-17 11:28:55 Favorites: 60.6% at 28/sec for TheRoyalGame
+2017-11-17 11:29:01 Favorites: 74.3% at 34/sec for TheWigleyGroup
+2017-11-17 11:29:18 Favorites: 50.2% at 28/sec for theymca_cw
+2017-11-17 11:29:35 Tweets   : 81.9% at 30/sec for UKASEAN
+2017-11-17 11:29:42 Favorites: 55.3% at 32/sec for ThisisMannah
+2017-11-17 11:30:06 Favorites: 52.5% at 34/sec for TimBeachMH
+2017-11-17 11:30:06 Favorites: 100% at 35/sec for TimCEMvp
+2017-11-17 11:30:08 Favorites: 68.1% at 58/sec for tkclimited
+2017-11-17 11:30:08 Favorites: 100% at 6/sec for tmdSurveyors
+2017-11-17 11:30:12 Favorites: 69.2% at 25/sec for TopUpConsultant
+2017-11-17 11:30:54 Favorites: 53.3% at 33/sec for TraceyProudlock
+2017-11-17 11:30:55 Favorites: 100% at 36/sec for trevorjwoods
+2017-11-17 11:30:56 Favorites: 100% at 40/sec for tscott_a
+2017-11-17 11:31:01 Favorites: 86.8% at 37/sec for tullysf
+2017-11-17 11:31:05 Favorites: 67.6% at 25/sec for UKASEAN
+2017-11-17 11:31:12 Tweets   : 46.6% at 33/sec for UKIBC
+2017-11-17 11:31:21 Favorites: 59.5% at 36/sec for UKIBC
+2017-11-17 11:31:22 Favorites: 88.2% at 27/sec for UKTSG
+2017-11-17 11:31:25 Tweets   : 100% at 21/sec for UKTSG
+2017-11-17 11:31:38 Favorites: 51.2% at 37/sec for UNEP_FI
+2017-11-17 11:31:47 Favorites: 70.8% at 36/sec for UniRdg_SustBE
+2017-11-17 11:31:52 Favorites: Waiting for 11.1 minutes due to : Used up allowance in a loop
+2017-11-17 11:32:57 Tweets   : 100% at 31/sec for UNEP_FI
+2017-11-17 11:33:53 Friends  : 98.7% at 1/sec for WalkerSime
+2017-11-17 11:34:07 Friends  : 98.8% at 30/sec for WeareGLM_
+2017-11-17 11:34:16 Friends  : 99.6% at 25/sec for WEONeilGladwin
+2017-11-17 11:34:27 Friends  : 97.7% at 26/sec for westbethwest
+2017-11-17 11:34:31 Tweets   : 36.4% at 34/sec for UniRdg_SustBE
+2017-11-17 11:34:59 Friends  : 98.9% at 29/sec for WhybrowProperty
+2017-11-17 11:35:17 Tweets   : 99.9% at 31/sec for unitate_fortior
+2017-11-17 11:35:41 Tweets   : 99.5% at 30/sec for VGriffiths_KF
+2017-11-17 11:36:14 Friends  : 96.4% at 29/sec for WICEAwards
+2017-11-17 11:36:23 Friends  : 95.6% at 29/sec for WilliamsEllisCS
+Error in twInterfaceObj$doAPICall(paste("users", "show", sep = "/"), params = params,  : 
+  Not Found (HTTP 404).
+2017-11-17 11:36:24 Friends: Unable to find account WILPublication moving to next
+2017-11-17 11:36:24 Friends  : % at /sec for WILPublication
+2017-11-17 11:37:08 Tweets   : 99% at 34/sec for VictorianAlyson
+2017-11-17 11:37:34 Tweets   : 100% at 29/sec for WalkerSime
+2017-11-17 11:37:58 Tweets   : 100% at 26/sec for WeareGLM_
+2017-11-17 11:38:15 Tweets   : 100% at 22/sec for WEONeilGladwin
+2017-11-17 11:38:38 Tweets   : 100% at 28/sec for westbethwest
+2017-11-17 11:39:52 Tweets   : 100% at 32/sec for WhybrowProperty
+2017-11-17 11:41:34 Tweets   : 30.2% at 31/sec for WICEAwards
+2017-11-17 11:42:00 Tweets   : 100% at 30/sec for WilliamsEllisCS
+2017-11-17 11:43:11 Favorites: 55.7% at 1/sec for unitate_fortior
+2017-11-17 11:43:16 Favorites: 77.6% at 36/sec for VGriffiths_KF
+2017-11-17 11:43:23 Tweets   : 99.9% at 32/sec for WILPublication
+2017-11-17 11:44:05 Favorites: 49.9% at 36/sec for VictorianAlyson
+2017-11-17 11:44:15 Favorites: 49.9% at 41/sec for WalkerSime
+2017-11-17 11:44:21 Favorites: 65.7% at 32/sec for WeareGLM_
+2017-11-17 11:44:23 Favorites: 100% at 71/sec for WEONeilGladwin
+2017-11-17 11:44:43 Favorites: 54.9% at 38/sec for westbethwest
+2017-11-17 11:45:07 Favorites: 54.1% at 37/sec for WhybrowProperty
+2017-11-17 11:45:42 Favorites: 51% at 34/sec for WICEAwards
+2017-11-17 11:45:50 Favorites: 56.2% at 38/sec for WilliamsEllisCS
+2017-11-17 11:46:24 Favorites: 51.6% at 38/sec for WILPublication
+Warning messages:
+1: package 'twitteR' was built under R version 3.4.1 
+2: In twInterfaceObj$doAPICall(cmd, params, method, ...) :
+  Rate limit encountered & retry limit reached - returning partial results
+Warning message:
+package 'twitteR' was built under R version 3.4.1 

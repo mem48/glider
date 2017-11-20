@@ -1,0 +1,211 @@
+starting worker pid=14360 on localhost:11271 at 08:30:27.748
+starting worker pid=6448 on localhost:11271 at 08:30:27.913
+starting worker pid=9204 on localhost:11271 at 08:30:28.068
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-18 08:32:38 Friends  : 100% at 31/sec for CleanEnergyCash
+2017-11-18 08:33:52 Favorites: User CleanEnergyCash has a protected account or no Favoritess to collect so skipping
+2017-11-18 08:34:00 Friends  : 98.7% at 41/sec for ClimateResolve
+2017-11-18 08:35:23 Favorites: 26.2% at 36/sec for ClimateResolve
+2017-11-18 08:35:24 Favorites: 98.3% at 52/sec for climatesavers
+2017-11-18 08:35:44 Tweets   : 100% at 9/sec for CleanEnergyCash
+2017-11-18 08:36:19 Favorites: 50.1% at 44/sec for CllrSutton
+2017-11-18 08:36:55 Favorites: Waiting for 4.6 minutes due to : Used up allowance in a loop
+2017-11-18 08:37:12 Tweets   : 23% at 37/sec for ClimateResolve
+2017-11-18 08:38:21 Tweets   : 17.8% at 46/sec for climatesavers
+2017-11-18 08:39:30 Tweets   : 28.6% at 46/sec for CllrSutton
+2017-11-18 08:40:00 Friends  : 100% at 38/sec for climatesavers
+2017-11-18 08:40:42 Friends  : 97.5% at 37/sec for CllrSutton
+2017-11-18 08:40:43 Tweets   : 38.7% at 44/sec for Close_the_door
+2017-11-18 08:40:43 Friends  : 0.4% at 7/sec for Close_the_door
+2017-11-18 08:41:22 Friends  : 99.4% at 37/sec for clv101
+2017-11-18 08:41:50 Tweets   : 44.3% at 47/sec for clv101
+2017-11-18 08:42:06 Favorites: 49.9% at 7/sec for Close_the_door
+2017-11-18 08:42:13 Tweets   : 99.8% at 35/sec for CMech_Ind_Doors
+2017-11-18 08:42:15 Friends  : 99.9% at 37/sec for CMech_Ind_Doors
+2017-11-18 08:42:20 Favorites: 51% at 48/sec for clv101
+2017-11-18 08:42:21 Favorites: 97.5% at 53/sec for CMech_Ind_Doors
+2017-11-18 08:43:05 Friends  : 99.4% at 34/sec for CNDuk
+2017-11-18 08:43:13 Friends  : 99.7% at 38/sec for CoHedegaard
+2017-11-18 08:43:24 Tweets   : 17.9% at 45/sec for CNDuk
+2017-11-18 08:43:33 Favorites: 49.1% at 41/sec for CNDuk
+2017-11-18 08:43:33 Favorites: 100% at 11/sec for CoHedegaard
+2017-11-18 08:43:37 Friends  : 99.7% at 32/sec for conradhackett
+2017-11-18 08:43:53 Tweets   : 100% at 40/sec for CoHedegaard
+2017-11-18 08:44:09 Favorites: 50.7% at 46/sec for conradhackett
+2017-11-18 08:44:22 Favorites: Waiting for 12.2 minutes due to : Used up allowance in a loop
+2017-11-18 08:44:58 Tweets   : 26.3% at 49/sec for conradhackett
+2017-11-18 08:46:06 Tweets   : 3.6% at 48/sec for coopukfood
+2017-11-18 08:46:43 Tweets   : 99.6% at 39/sec for CPRE_Hampshire
+2017-11-18 08:46:49 Tweets   : 100% at 7/sec for CRSHArchitects
+2017-11-18 08:47:57 Tweets   : 99.9% at 43/sec for Cuil_Bay
+2017-11-18 08:48:26 Tweets   : 100% at 33/sec for D2EProject
+2017-11-18 08:48:32 Tweets   : 100% at 9/sec for DallmanJohnston
+2017-11-18 08:48:42 Tweets   : 100% at 23/sec for damsondesign
+2017-11-18 08:48:48 Tweets   : 100% at 9/sec for danhayes81
+2017-11-18 08:49:45 Friends  : 99.1% at 36/sec for coopukfood
+2017-11-18 08:49:48 Friends  : 8.9% at 39/sec for CPRE_Hampshire
+2017-11-18 08:49:52 Friends  : 100% at 22/sec for CRSHArchitects
+2017-11-18 08:50:04 Friends  : 99.8% at 35/sec for Cuil_Bay
+2017-11-18 08:50:11 Tweets   : 3.1% at 39/sec for danieldarnold2
+2017-11-18 08:50:21 Friends  : 98.3% at 37/sec for D2EProject
+2017-11-18 08:50:21 Tweets   : 94.6% at 16/sec for DardantGroup
+2017-11-18 08:50:22 Friends  : 100% at 48/sec for DallmanJohnston
+2017-11-18 08:50:33 Friends  : 100% at 35/sec for damsondesign
+2017-11-18 08:50:36 Tweets   : 99.5% at 27/sec for DarntonB3
+2017-11-18 08:50:37 Friends  : 96.2% at 27/sec for danhayes81
+2017-11-18 08:50:39 Friends  : 100% at 22/sec for danieldarnold2
+2017-11-18 08:50:47 Friends  : 98.5% at 44/sec for DardantGroup
+2017-11-18 08:51:06 Friends  : 98.9% at 34/sec for DarntonB3
+2017-11-18 08:51:50 Tweets   : 11.4% at 43/sec for DarrenJohnson66
+2017-11-18 08:52:32 Tweets   : 99.7% at 46/sec for dave_sowden
+2017-11-18 08:52:42 Friends  : 97.4% at 38/sec for DarrenJohnson66
+2017-11-18 08:53:37 Friends  : 99.9% at 36/sec for dave_sowden
+2017-11-18 08:53:43 Tweets   : 11.7% at 45/sec for daveg
+2017-11-18 08:54:06 Friends  : 99.7% at 35/sec for daveg
+2017-11-18 08:54:06 Friends  : Waiting for 10.7 minutes
+2017-11-18 08:54:44 Tweets   : 1.2% at 52/sec for davidh7426
+2017-11-18 08:55:54 Tweets   : 10.3% at 46/sec for davidsteven
+Error in twInterfaceObj$doAPICall(cmd, params, method, ...) : 
+  OAuth authentication error:
+This most likely means that you have incorrectly called setup_twitter_oauth()'
+In addition: Warning message:
+package 'twitteR' was built under R version 3.4.1 
+2017-11-18 08:55:54 Tweets: Unable to find account ddsnorth moving to next
+2017-11-18 08:55:54 Tweets   : % at /sec for ddsnorth
+2017-11-18 08:56:00 Tweets   : 100% at 1/sec for DebonairDesign
+2017-11-18 08:57:05 Tweets   : 5% at 49/sec for DeborahJaneOrr
+2017-11-18 08:57:11 Tweets   : 100% at 1/sec for deedee1280
+2017-11-18 08:57:47 Favorites: 14.8% at 4/sec for coopukfood
+2017-11-18 08:57:59 Favorites: 61% at 42/sec for CPRE_Hampshire
+2017-11-18 08:57:59 Favorites: 100% at 5/sec for CRSHArchitects
+2017-11-18 08:58:06 Favorites: 54.3% at 43/sec for Cuil_Bay
+2017-11-18 08:58:14 Favorites: 57.1% at 51/sec for D2EProject
+2017-11-18 08:58:14 Favorites: 100% at 12/sec for DallmanJohnston
+2017-11-18 08:58:17 Favorites: 100% at 22/sec for damsondesign
+2017-11-18 08:58:18 Tweets   : 4.4% at 48/sec for democracynow
+2017-11-18 08:58:18 Tweets   : User DesignLedRev has a protected account or no Tweetss to collect so skipping
+2017-11-18 08:58:18 Favorites: 100% at 19/sec for danhayes81
+2017-11-18 08:58:18 Favorites: 100% at 3/sec for danieldarnold2
+2017-11-18 08:58:33 Favorites: 54.6% at 49/sec for DardantGroup
+2017-11-18 08:58:36 Favorites: 98.9% at 27/sec for DarntonB3
+2017-11-18 08:59:15 Tweets   : 99.6% at 43/sec for DesignLSM
+2017-11-18 08:59:25 Favorites: Waiting for 12.4 minutes due to : Used up allowance in a loop
+2017-11-18 09:00:20 Tweets   : 56.1% at 49/sec for dorfman_p
+2017-11-18 09:01:36 Tweets   : 68.2% at 42/sec for DouglasPilot
+2017-11-18 09:01:50 Tweets   : 100% at 26/sec for dowainwilliams
+2017-11-18 09:03:07 Tweets   : 3.2% at 42/sec for DrDaveOBrien
+2017-11-18 09:03:29 Tweets   : 56.8% at 46/sec for DrEoinCl
+2017-11-18 09:03:29 Tweets   : User DrEoinClarke has a protected account or no Tweetss to collect so skipping
+2017-11-18 09:04:28 Tweets   : 2% at 54/sec for DrHubaEvaluator
+2017-11-18 09:05:31 Tweets   : 36.6% at 51/sec for DrJackyDavis
+2017-11-18 09:06:35 Tweets   : 8.5% at 50/sec for drjennings
+2017-11-18 09:07:44 Tweets   : 25.3% at 46/sec for DrPaulTeed
+2017-11-18 09:08:59 Tweets   : 9.1% at 42/sec for DrSimEvans
+2017-11-18 09:09:06 Tweets   : 100% at 12/sec for Dryceilsupplies
+2017-11-18 09:10:22 Tweets   : 35.9% at 42/sec for dsmitheconomics
+2017-11-18 09:10:29 Tweets   : 100% at 6/sec for DStrongConsult
+2017-11-18 09:10:35 Tweets   : 95.7% at 11/sec for DU_Greens
+2017-11-18 09:10:49 Tweets   : 99.7% at 24/sec for DuncanJKay
+2017-11-18 09:12:24 Favorites: 44.1% at 4/sec for DarrenJohnson66
+2017-11-18 09:12:25 Favorites: 97.6% at 46/sec for dave_sowden
+2017-11-18 09:13:10 Favorites: 50% at 43/sec for daveg
+2017-11-18 09:13:11 Favorites: 100% at 8/sec for davidh7426
+2017-11-18 09:13:21 Friends  : 87.6% at 16/sec for davidh7426
+2017-11-18 09:14:01 Favorites: 50.1% at 42/sec for davidsteven
+2017-11-18 09:14:01 Favorites: Unable to find account ddsnorth during loop number 1 moving to next loop
+2017-11-18 09:14:02 Favorites: Unable to find account ddsnorth during loop number 2 moving to next loop
+2017-11-18 09:14:02 Favorites: Unable to find account ddsnorth during loop number 3 moving to next loop
+2017-11-18 09:14:02 Favorites: Unable to find account ddsnorth during loop number 4 moving to next loop
+2017-11-18 09:14:03 Favorites: Unable to find account ddsnorth during loop number 5 moving to next loop
+2017-11-18 09:14:03 Favorites: Unable to find account ddsnorth during loop number 6 moving to next loop
+2017-11-18 09:14:03 Favorites: Unable to find account ddsnorth during loop number 7 moving to next loop
+2017-11-18 09:14:04 Favorites: Unable to find account ddsnorth during loop number 8 moving to next loop
+2017-11-18 09:14:04 Favorites: Unable to find account ddsnorth during loop number 9 moving to next loop
+2017-11-18 09:14:04 Favorites: Unable to find account ddsnorth during loop number 10 moving to next loop
+2017-11-18 09:14:05 Favorites: Unable to find account ddsnorth during loop number 11 moving to next loop
+2017-11-18 09:14:05 Favorites: Unable to find account ddsnorth during loop number 12 moving to next loop
+2017-11-18 09:14:05 Favorites: Unable to find account ddsnorth during loop number 13 moving to next loop
+2017-11-18 09:14:06 Favorites: Unable to find account ddsnorth during loop number 14 moving to next loop
+2017-11-18 09:14:06 Favorites: Unable to find account ddsnorth during loop number 15 moving to next loop
+2017-11-18 09:14:06 Favorites: Unable to find account ddsnorth during loop number 16 moving to next loop
+2017-11-18 09:14:07 Favorites: Unable to find account ddsnorth during loop number 17 moving to next loop
+2017-11-18 09:14:07 Favorites: Unable to find account ddsnorth during loop number 18 moving to next loop
+2017-11-18 09:14:07 Favorites: Unable to find account ddsnorth during loop number 19 moving to next loop
+2017-11-18 09:14:08 Favorites: Unable to find account ddsnorth during loop number 20 moving to next loop
+2017-11-18 09:14:08 Favorites: Unable to find account ddsnorth during loop number 21 moving to next loop
+2017-11-18 09:14:08 Favorites: Waiting for 12.9 minutes due to : Used up allowance in a loop
+2017-11-18 09:14:23 Friends  : 99.7% at 35/sec for davidsteven
+Error in !can_access_other_account(user_id) : invalid argument type
+In addition: Warning message:
+package 'twitteR' was built under R version 3.4.1 
+2017-11-18 09:14:24 Friends: Unable to find account ddsnorth moving to next
+2017-11-18 09:14:24 Friends  : % at /sec for ddsnorth
+2017-11-18 09:14:28 Friends  : 100% at 15/sec for DebonairDesign
+2017-11-18 09:15:59 Friends  : 99.5% at 36/sec for DeborahJaneOrr
+2017-11-18 09:16:00 Friends  : 100% at 28/sec for deedee1280
+2017-11-18 09:18:20 Friends  : 99.7% at 43/sec for democracynow
+2017-11-18 09:18:21 Friends  : 100% at 8/sec for DesignLedRev
+2017-11-18 09:18:50 Friends  : 99.8% at 42/sec for DesignLSM
+2017-11-18 09:20:31 Friends  : 97.6% at 42/sec for dorfman_p
+2017-11-18 09:21:49 Friends  : 98.6% at 41/sec for DouglasPilot
+2017-11-18 09:21:54 Friends  : 100% at 30/sec for dowainwilliams
+2017-11-18 09:24:08 Friends  : 99.1% at 39/sec for DrDaveOBrien
+2017-11-18 09:24:08 Friends  : User DrEoinCl has a protected account or no Friendss to collect so skipping
+2017-11-18 09:24:08 Friends  : User DrEoinClarke has a protected account or no Friendss to collect so skipping
+2017-11-18 09:24:09 Friends: Request of 21 exceeds the maximum of 15. Making an attemp
+Waiting will increase the number of results returned
+2017-11-18 09:24:09 Friends  : Waiting for 11.4 minutes
+2017-11-18 09:27:20 Favorites: Unable to find account ddsnorth during loop number 22 moving to next loop
+2017-11-18 09:27:20 Favorites: Unable to find account ddsnorth during loop number 23 moving to next loop
+2017-11-18 09:27:21 Favorites: Unable to find account ddsnorth during loop number 24 moving to next loop
+2017-11-18 09:27:21 Favorites: Unable to find account ddsnorth during loop number 25 moving to next loop
+2017-11-18 09:27:21 Favorites: Unable to find account ddsnorth during loop number 26 moving to next loop
+2017-11-18 09:27:22 Favorites: Unable to find account ddsnorth during loop number 27 moving to next loop
+2017-11-18 09:27:22 Favorites: Unable to find account ddsnorth during loop number 28 moving to next loop
+2017-11-18 09:27:22 Favorites: Unable to find account ddsnorth during loop number 29 moving to next loop
+2017-11-18 09:27:23 Favorites: Unable to find account ddsnorth during loop number 30 moving to next loop
+2017-11-18 09:27:23 Favorites: Unable to find account ddsnorth during loop number 31 moving to next loop
+2017-11-18 09:27:23 Favorites: Unable to find account ddsnorth during loop number 32 moving to next loop
+2017-11-18 09:27:23 Favorites: Unable to find account ddsnorth during loop number 33 moving to next loop
+2017-11-18 09:27:23 Favorites: % at /sec for ddsnorth
+2017-11-18 09:27:23 Favorites: User DebonairDesign has a protected account or no Favoritess to collect so skipping
+2017-11-18 09:27:30 Favorites: 57.6% at 48/sec for DeborahJaneOrr
+2017-11-18 09:27:30 Favorites: User deedee1280 has a protected account or no Favoritess to collect so skipping
+2017-11-18 09:28:14 Favorites: 50.6% at 46/sec for democracynow
+2017-11-18 09:28:14 Favorites: User DesignLedRev has a protected account or no Favoritess to collect so skipping
+2017-11-18 09:28:19 Favorites: 50.3% at 42/sec for DesignLSM
+2017-11-18 09:28:31 Favorites: 51.6% at 48/sec for dorfman_p
+2017-11-18 09:29:26 Favorites: 50.5% at 47/sec for DouglasPilot
+2017-11-18 09:29:27 Favorites: 100% at 11/sec for dowainwilliams
+2017-11-18 09:29:27 Favorites: User DrDaveOBrien has a protected account or no Favoritess to collect so skipping
+2017-11-18 09:29:27 Favorites: % at /sec for DrEoinCl
+2017-11-18 09:29:27 Favorites: User DrEoinClarke has a protected account or no Favoritess to collect so skipping
+2017-11-18 09:29:34 Favorites: Waiting for 12.8 minutes due to : Used up allowance in a loop
+2017-11-18 09:42:40 Favorites: 49.7% at 1/sec for DrHubaEvaluator
+2017-11-18 09:42:43 Favorites: 63.1% at 66/sec for DrJackyDavis
+2017-11-18 09:43:54 Favorites: 26.7% at 45/sec for drjennings
+2017-11-18 09:45:03 Favorites: 8.6% at 47/sec for DrPaulTeed
+2017-11-18 09:45:13 Favorites: Waiting for 12.4 minutes due to : Used up allowance in a loop
+2017-11-18 09:58:17 Favorites: 51.9% at 2/sec for DrSimEvans
+2017-11-18 09:58:17 Favorites: User Dryceilsupplies has a protected account or no Favoritess to collect so skipping
+2017-11-18 09:58:21 Favorites: 98.6% at 20/sec for dsmitheconomics
+2017-11-18 09:58:21 Favorites: User DStrongConsult has a protected account or no Favoritess to collect so skipping
+2017-11-18 09:58:21 Favorites: 100% at 32/sec for DU_Greens
+2017-11-18 09:58:22 Favorites: 95.8% at 40/sec for DuncanJKay
+2017-11-18 10:05:56 Friends  : 70% at 29/sec for DrHubaEvaluator
+2017-11-18 10:06:19 Friends  : 97.5% at 43/sec for DrJackyDavis
+2017-11-18 10:07:06 Friends  : 785.2% at 45/sec for drjennings
+2017-11-18 10:07:19 Friends  : 98.6% at 43/sec for DrPaulTeed
+2017-11-18 10:07:52 Friends  : 98.6% at 46/sec for DrSimEvans
+2017-11-18 10:08:03 Friends  : 100% at 44/sec for Dryceilsupplies
+2017-11-18 10:08:08 Friends  : 100% at 30/sec for dsmitheconomics
+2017-11-18 10:08:10 Friends  : 100% at 40/sec for DStrongConsult
+2017-11-18 10:08:14 Friends  : 99.3% at 42/sec for DU_Greens
+2017-11-18 10:08:18 Friends  : 100% at 19/sec for DuncanJKay
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+Warning message:
+In twInterfaceObj$doAPICall(cmd, params, method, ...) :
+  Rate limit encountered & retry limit reached - returning partial results

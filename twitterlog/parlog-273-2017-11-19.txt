@@ -1,0 +1,167 @@
+starting worker pid=10216 on localhost:11271 at 04:17:05.565
+starting worker pid=11004 on localhost:11271 at 04:17:05.721
+starting worker pid=5116 on localhost:11271 at 04:17:05.881
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-19 04:19:34 Friends  : 99.6% at 31/sec for ColegMenai
+2017-11-19 04:20:04 Friends  : 98.5% at 26/sec for ColegSirGar
+2017-11-19 04:20:11 Friends  : 96.1% at 32/sec for ColegyCymoedd
+2017-11-19 04:21:20 Friends  : 99.6% at 34/sec for CollegesScot
+2017-11-19 04:21:44 Friends  : 100% at 30/sec for Colric_Tweets
+2017-11-19 04:22:02 Favorites: 57.8% at 33/sec for ColegMenai
+2017-11-19 04:22:04 Friends  : 99.7% at 34/sec for CommonsBBCom
+2017-11-19 04:22:09 Friends  : 98.3% at 12/sec for CommonsHansard
+2017-11-19 04:22:37 Friends  : 99.4% at 32/sec for CommonsHomeAffs
+2017-11-19 04:23:09 Favorites: 49.9% at 30/sec for ColegSirGar
+2017-11-19 04:23:16 Friends  : 99.4% at 32/sec for CommonsPAC
+2017-11-19 04:23:26 Favorites: 50.1% at 29/sec for ColegyCymoedd
+2017-11-19 04:23:30 Favorites: 57.8% at 58/sec for CollegesScot
+2017-11-19 04:23:33 Friends  : 98.7% at 26/sec for CommonsPACAC
+2017-11-19 04:23:34 Favorites: 100% at 17/sec for Colric_Tweets
+2017-11-19 04:23:35 Friends  : 100% at 40/sec for commonsPolCon
+2017-11-19 04:23:36 Favorites: 100% at 65/sec for CommonsBBCom
+2017-11-19 04:23:36 Favorites: 100% at 3/sec for CommonsHansard
+2017-11-19 04:23:36 Favorites: User CommonsHomeAffs has a protected account or no Favoritess to collect so skipping
+2017-11-19 04:23:41 Friends  : 97.5% at 25/sec for CommonsProcCom
+2017-11-19 04:23:42 Favorites: 57.6% at 31/sec for CommonsPAC
+2017-11-19 04:23:43 Favorites: 100% at 36/sec for CommonsPACAC
+2017-11-19 04:23:43 Favorites: 100% at 27/sec for commonsPolCon
+2017-11-19 04:23:47 Favorites: 100% at 11/sec for CommonsProcCom
+2017-11-19 04:23:48 Favorites: 100% at 47/sec for CommonsTrans
+2017-11-19 04:23:57 Favorites: 58.5% at 36/sec for conorfryan
+2017-11-19 04:24:14 Friends  : 99.6% at 26/sec for CommonsTrans
+2017-11-19 04:24:30 Favorites: 51.1% at 30/sec for ConorMcGinn
+2017-11-19 04:24:30 Favorites: 100% at 8/sec for conradwolfram
+2017-11-19 04:24:33 Friends  : 99.3% at 31/sec for conorfryan
+2017-11-19 04:24:44 Favorites: 46.7% at 39/sec for ConroyChristina
+2017-11-19 04:24:50 Favorites: 65.7% at 36/sec for ConservativesWM
+2017-11-19 04:24:55 Favorites: 61.9% at 20/sec for ConUnit_UCL
+2017-11-19 04:25:11 Favorites: 53.9% at 35/sec for ConWayFor
+2017-11-19 04:25:14 Favorites: Waiting for 2 minutes due to : Used up allowance in a loop
+2017-11-19 04:25:29 Friends  : 98.3% at 31/sec for ConorMcGinn
+2017-11-19 04:25:29 Friends  : Waiting for 9 minutes
+2017-11-19 04:25:50 Tweets   : 76.4% at 41/sec for ColegMenai
+2017-11-19 04:26:58 Tweets   : 26.5% at 47/sec for ColegSirGar
+2017-11-19 04:27:46 Favorites: 51.1% at 8/sec for Coop_CollegeUK
+2017-11-19 04:27:52 Favorites: 89.6% at 34/sec for coulsdoncollege
+2017-11-19 04:28:02 Tweets   : 99.1% at 43/sec for ColegyCymoedd
+2017-11-19 04:28:55 Tweets   : 99.9% at 40/sec for CollegesScot
+2017-11-19 04:29:23 Favorites: 49% at 32/sec for coyleneil
+2017-11-19 04:29:23 Favorites: 92.9% at 26/sec for CPhilpOfficial
+2017-11-19 04:29:30 Tweets   : 99.4% at 44/sec for Colric_Tweets
+2017-11-19 04:30:02 Favorites: 52.1% at 36/sec for craig4nwarks
+2017-11-19 04:30:14 Favorites: 51.8% at 33/sec for cravencollege
+2017-11-19 04:30:20 Tweets   : 100% at 40/sec for CommonsBBCom
+2017-11-19 04:30:24 Favorites: 58.6% at 30/sec for cripeswatson
+2017-11-19 04:30:24 Favorites: 97.8% at 49/sec for CrispinBlunt
+2017-11-19 04:30:25 Favorites: 93.8% at 17/sec for CSkidmoreUK
+2017-11-19 04:30:39 Favorites: 21% at 37/sec for CWhittakerMP
+2017-11-19 04:30:44 Favorites: Waiting for 11.5 minutes due to : Used up allowance in a loop
+2017-11-19 04:30:49 Tweets   : 100% at 43/sec for CommonsHansard
+2017-11-19 04:31:35 Tweets   : 99.1% at 48/sec for CommonsHomeAffs
+2017-11-19 04:32:42 Tweets   : 44.8% at 47/sec for CommonsPAC
+2017-11-19 04:33:44 Tweets   : 73% at 51/sec for CommonsPACAC
+2017-11-19 04:34:02 Tweets   : 99.5% at 36/sec for commonsPolCon
+2017-11-19 04:34:13 Tweets   : 100% at 19/sec for CommonsProcCom
+2017-11-19 04:34:44 Friends  : 100% at 0/sec for conradwolfram
+2017-11-19 04:35:17 Tweets   : 60.4% at 50/sec for CommonsTrans
+2017-11-19 04:35:40 Friends  : 99.8% at 34/sec for ConroyChristina
+2017-11-19 04:35:42 Friends  : 96.2% at 37/sec for ConservativesWM
+2017-11-19 04:36:01 Friends  : 99.5% at 32/sec for ConUnit_UCL
+2017-11-19 04:36:32 Tweets   : 48.1% at 43/sec for conorfryan
+2017-11-19 04:37:33 Tweets   : 99.8% at 42/sec for ConorMcGinn
+2017-11-19 04:37:43 Friends  : 99.5% at 31/sec for ConWayFor
+2017-11-19 04:37:47 Tweets   : 100% at 32/sec for conradwolfram
+2017-11-19 04:38:23 Friends  : 96.4% at 34/sec for Coop_CollegeUK
+2017-11-19 04:38:30 Friends  : 97.1% at 30/sec for coulsdoncollege
+2017-11-19 04:38:59 Tweets   : 97.8% at 44/sec for ConroyChristina
+2017-11-19 04:40:16 Tweets   : 59.6% at 41/sec for ConservativesWM
+2017-11-19 04:40:29 Friends  : 98.6% at 28/sec for coyleneil
+2017-11-19 04:41:11 Friends  : 99.5% at 29/sec for CPhilpOfficial
+2017-11-19 04:41:30 Tweets   : 48.2% at 43/sec for ConUnit_UCL
+2017-11-19 04:41:34 Friends  : 99% at 26/sec for craig4nwarks
+2017-11-19 04:42:35 Favorites: 56.8% at 0/sec for cwowomen
+2017-11-19 04:42:49 Tweets   : 18.5% at 40/sec for ConWayFor
+2017-11-19 04:42:50 Favorites: 49.8% at 33/sec for cypnow
+2017-11-19 04:42:57 Favorites: 79.1% at 32/sec for DamianCollins
+Error in twInterfaceObj$doAPICall(cmd, params, method, ...) : 
+  Service Unavailable (HTTP 503).
+In addition: Warning message:
+package 'twitteR' was built under R version 3.4.1 
+2017-11-19 04:43:02 Tweets: Unable to find account Coop_CollegeUK moving to next
+2017-11-19 04:43:02 Tweets   : % at /sec for Coop_CollegeUK
+2017-11-19 04:43:02 Favorites: 92.8% at 33/sec for DamianGreen
+2017-11-19 04:43:04 Favorites: 100% at 59/sec for DamianHinds
+2017-11-19 04:43:05 Favorites: 63.1% at 65/sec for DandGCollege
+2017-11-19 04:43:09 Favorites: 97.9% at 12/sec for DanielBoffey
+2017-11-19 04:43:30 Tweets   : 99.9% at 35/sec for coulsdoncollege
+2017-11-19 04:43:48 Favorites: 50% at 32/sec for DanielZeichner
+2017-11-19 04:43:49 Favorites: 100% at 38/sec for DanMilmo
+2017-11-19 04:43:49 Friends  : 99.6% at 27/sec for cravencollege
+2017-11-19 04:43:50 Favorites: 74.6% at 62/sec for DarrenEvansPR
+2017-11-19 04:43:51 Favorites: 100% at 35/sec for David__Byrne1
+2017-11-19 04:43:55 Favorites: 61.3% at 23/sec for David_Goodhart
+2017-11-19 04:44:07 Favorites: 52.7% at 33/sec for DavidBurrowesUK
+2017-11-19 04:44:09 Favorites: 98.9% at 66/sec for DavidCrausby
+2017-11-19 04:44:09 Favorites: 95% at 29/sec for DavidEvennett
+2017-11-19 04:44:10 Favorites: 100% at 34/sec for DavidJonesMP
+2017-11-19 04:44:29 Favorites: 56.1% at 31/sec for davidmackintosh
+2017-11-19 04:44:34 Favorites: 84% at 21/sec for davidmelville
+2017-11-19 04:44:40 Favorites: 80.7% at 32/sec for davidmorrisml
+2017-11-19 04:44:49 Tweets   : 24.5% at 40/sec for coyleneil
+2017-11-19 04:44:58 Friends  : 99.6% at 39/sec for cripeswatson
+2017-11-19 04:45:05 Friends  : 99.1% at 33/sec for CrispinBlunt
+2017-11-19 04:45:17 Friends  : 99% at 43/sec for CSkidmoreUK
+2017-11-19 04:45:33 Friends  : 99.1% at 39/sec for CWhittakerMP
+2017-11-19 04:45:34 Friends  : Waiting for 4.2 minutes
+2017-11-19 04:46:04 Tweets   : 99.4% at 42/sec for CPhilpOfficial
+2017-11-19 04:47:06 Tweets   : 27% at 51/sec for craig4nwarks
+2017-11-19 04:48:12 Tweets   : 61.9% at 49/sec for cravencollege
+2017-11-19 04:49:18 Tweets   : 95.8% at 48/sec for cripeswatson
+2017-11-19 04:49:43 Tweets   : 100% at 39/sec for CrispinBlunt
+2017-11-19 04:50:14 Friends  : 99% at 3/sec for cwowomen
+2017-11-19 04:50:34 Friends  : 99.4% at 44/sec for cypnow
+2017-11-19 04:50:36 Tweets   : 99.5% at 47/sec for CSkidmoreUK
+2017-11-19 04:51:49 Tweets   : 50.4% at 44/sec for CWhittakerMP
+2017-11-19 04:52:37 Tweets   : 99.4% at 38/sec for cwowomen
+2017-11-19 04:53:02 Friends  : 99% at 39/sec for DamianCollins
+2017-11-19 04:53:25 Friends  : 99.7% at 35/sec for DamianGreen
+2017-11-19 04:53:48 Tweets   : 20.4% at 45/sec for cypnow
+2017-11-19 04:53:57 Friends  : 99.7% at 39/sec for DamianHinds
+2017-11-19 04:54:05 Friends  : 99% at 39/sec for DandGCollege
+2017-11-19 04:54:23 Friends  : 99.2% at 41/sec for DanielBoffey
+2017-11-19 04:55:04 Tweets   : 43.5% at 42/sec for DamianCollins
+2017-11-19 04:56:19 Tweets   : 82% at 42/sec for DamianGreen
+2017-11-19 04:56:22 Friends  : 98.6% at 36/sec for DanielZeichner
+2017-11-19 04:57:00 Friends  : 99.6% at 37/sec for DanMilmo
+2017-11-19 04:57:09 Tweets   : 99.7% at 40/sec for DamianHinds
+2017-11-19 04:57:09 Friends  : 98.5% at 30/sec for DarrenEvansPR
+2017-11-19 04:57:11 Friends  : 100% at 39/sec for David__Byrne1
+2017-11-19 04:57:40 Tweets   : 99.9% at 37/sec for DandGCollege
+2017-11-19 04:58:26 Friends  : 99.1% at 35/sec for David_Goodhart
+2017-11-19 04:58:55 Friends  : 99.2% at 35/sec for DavidBurrowesUK
+2017-11-19 04:58:58 Tweets   : 71.2% at 41/sec for DanielBoffey
+2017-11-19 04:59:02 Friends  : 97.2% at 35/sec for DavidCrausby
+2017-11-19 04:59:02 Friends  : Waiting for 5.9 minutes
+2017-11-19 05:00:12 Tweets   : 49% at 43/sec for DanielZeichner
+2017-11-19 05:01:26 Tweets   : 41.7% at 43/sec for DanMilmo
+2017-11-19 05:01:38 Tweets   : 100% at 29/sec for DarrenEvansPR
+2017-11-19 05:01:59 Tweets   : 100% at 44/sec for David__Byrne1
+2017-11-19 05:03:07 Tweets   : 54.2% at 47/sec for David_Goodhart
+2017-11-19 05:04:01 Tweets   : 99.9% at 47/sec for DavidBurrowesUK
+2017-11-19 05:04:46 Tweets   : 99.7% at 46/sec for DavidCrausby
+2017-11-19 05:05:08 Tweets   : 99.7% at 38/sec for DavidEvennett
+2017-11-19 05:05:17 Friends  : 100% at 1/sec for DavidEvennett
+2017-11-19 05:05:23 Friends  : 100% at 22/sec for DavidJonesMP
+2017-11-19 05:05:30 Friends  : 98.5% at 27/sec for davidmackintosh
+2017-11-19 05:05:31 Tweets   : 97.6% at 42/sec for DavidJonesMP
+2017-11-19 05:05:38 Friends  : 99.3% at 35/sec for davidmelville
+2017-11-19 05:06:09 Friends  : 100% at 33/sec for davidmorrisml
+2017-11-19 05:06:39 Tweets   : 48.6% at 47/sec for davidmackintosh
+2017-11-19 05:07:17 Tweets   : 99.7% at 40/sec for davidmelville
+2017-11-19 05:08:20 Tweets   : 77.4% at 50/sec for davidmorrisml
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+Warning message:
+package 'twitteR' was built under R version 3.4.1 

@@ -1,0 +1,175 @@
+starting worker pid=1536 on localhost:11271 at 07:39:21.967
+starting worker pid=11068 on localhost:11271 at 07:39:22.154
+starting worker pid=8496 on localhost:11271 at 07:39:22.358
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-20 07:43:04 Friends  : 100% at 23/sec for FiredUpHeating
+2017-11-20 07:46:05 Favorites: 100% at 4/sec for FiredUpHeating
+2017-11-20 07:46:09 Favorites: 53.5% at 45/sec for Firstbathroomuk
+2017-11-20 07:46:20 Favorites: 94.2% at 18/sec for fischerfixings
+2017-11-20 07:46:20 Favorites: User FittedInteriors has a protected account or no Favoritess to collect so skipping
+2017-11-20 07:46:29 Favorites: 51.6% at 11/sec for FixedPriceTrade
+2017-11-20 07:47:26 Favorites: 50.9% at 19/sec for Fixmart_Ltd
+2017-11-20 07:47:27 Favorites: 102.8% at 46/sec for flameheatinguk
+2017-11-20 07:47:28 Favorites: 97.7% at 43/sec for Flashrads
+2017-11-20 07:47:28 Favorites: 100% at 18/sec for flowcentre
+2017-11-20 07:47:29 Favorites: 100% at 8/sec for FlowRight_Plumb
+2017-11-20 07:47:29 Favorites: 100% at 29/sec for FondNova
+2017-11-20 07:47:38 Favorites: 82.8% at 23/sec for FoundationsHIA
+2017-11-20 07:47:51 Favorites: 50.6% at 31/sec for FPSEXPO
+2017-11-20 07:48:20 Favorites: 55.2% at 27/sec for FrankeUK
+2017-11-20 07:48:57 Favorites: 54.4% at 27/sec for future_fuels
+2017-11-20 07:49:07 Favorites: 53.7% at 28/sec for FYPlumberparts
+2017-11-20 07:49:09 Friends  : 96.1% at 29/sec for Firstbathroomuk
+2017-11-20 07:49:42 Favorites: 52.1% at 25/sec for GaryMoran1
+2017-11-20 07:49:50 Favorites: 65.2% at 24/sec for gas_kier
+2017-11-20 07:49:50 Favorites: User gas_ln has a protected account or no Favoritess to collect so skipping
+2017-11-20 07:49:50 Favorites: User Gas_Man_Den has a protected account or no Favoritess to collect so skipping
+2017-11-20 07:50:10 Tweets   : 100% at 21/sec for FiredUpHeating
+2017-11-20 07:50:13 Favorites: 60.9% at 21/sec for gasappuk
+2017-11-20 07:50:14 Favorites: 80% at 19/sec for GasCorePlumbing
+2017-11-20 07:50:19 Favorites: 100% at 10/sec for GasPerry
+2017-11-20 07:50:20 Favorites: 90.5% at 29/sec for GASPROJAXON5
+2017-11-20 07:50:37 Friends  : 99.4% at 31/sec for fischerfixings
+2017-11-20 07:50:42 Favorites: Waiting for 10.4 minutes due to : Used up allowance in a loop
+2017-11-20 07:51:01 Friends  : 100% at 33/sec for FittedInteriors
+2017-11-20 07:51:23 Friends  : 96.7% at 31/sec for FixedPriceTrade
+2017-11-20 07:51:39 Friends  : 94.6% at 37/sec for Fixmart_Ltd
+2017-11-20 07:51:56 Tweets   : 80.6% at 30/sec for Firstbathroomuk
+2017-11-20 07:53:05 Friends  : 99.9% at 31/sec for flameheatinguk
+2017-11-20 07:53:19 Tweets   : 86.8% at 38/sec for fischerfixings
+2017-11-20 07:53:37 Tweets   : 100% at 31/sec for FittedInteriors
+2017-11-20 07:53:55 Tweets   : 98.4% at 30/sec for FixedPriceTrade
+2017-11-20 07:54:01 Friends  : 100% at 34/sec for Flashrads
+2017-11-20 07:54:29 Tweets   : 100% at 23/sec for Fixmart_Ltd
+2017-11-20 07:54:57 Friends  : 99.3% at 31/sec for flowcentre
+2017-11-20 07:55:00 Friends  : 100% at 43/sec for FlowRight_Plumb
+2017-11-20 07:55:10 Friends  : 98.3% at 24/sec for FondNova
+2017-11-20 07:55:26 Tweets   : 100% at 40/sec for flameheatinguk
+2017-11-20 07:55:35 Friends  : 99.8% at 34/sec for FoundationsHIA
+2017-11-20 07:56:48 Tweets   : 82% at 39/sec for Flashrads
+2017-11-20 07:56:55 Tweets   : 100% at 19/sec for flowcentre
+2017-11-20 07:57:02 Friends  : 99.8% at 30/sec for FPSEXPO
+2017-11-20 07:57:02 Friends  : Waiting for 0.7 minutes
+2017-11-20 07:57:06 Tweets   : 100% at 4/sec for FlowRight_Plumb
+2017-11-20 07:57:13 Tweets   : 100% at 20/sec for FondNova
+2017-11-20 07:58:36 Tweets   : 94.8% at 39/sec for FoundationsHIA
+2017-11-20 07:59:11 Friends  : 98.2% at 21/sec for FrankeUK
+Error in twInterfaceObj$doAPICall(paste("users", "show", sep = "/"), params = params,  : 
+  Not Found (HTTP 404).
+In addition: Warning message:
+package 'twitteR' was built under R version 3.4.1 
+2017-11-20 07:59:11 Friends: Unable to find account future_fuels moving to next
+2017-11-20 07:59:11 Friends  : % at /sec for future_fuels
+2017-11-20 07:59:57 Tweets   : 82.8% at 39/sec for FPSEXPO
+2017-11-20 08:01:26 Tweets   : 98.1% at 36/sec for FrankeUK
+2017-11-20 08:01:33 Favorites: 50.4% at 1/sec for gassafemark
+2017-11-20 08:01:33 Favorites: User gassafetyuk has a protected account or no Favoritess to collect so skipping
+2017-11-20 08:01:45 Favorites: 55% at 27/sec for GasSaver97
+2017-11-20 08:01:47 Favorites: 74.8% at 49/sec for GaswayLtd
+2017-11-20 08:01:48 Favorites: 98.8% at 48/sec for gavindutton77
+2017-11-20 08:01:49 Favorites: 100% at 7/sec for GDFinanceCo
+2017-11-20 08:01:49 Favorites: User Gdgasheating has a protected account or no Favoritess to collect so skipping
+2017-11-20 08:01:49 Favorites: 100% at 3/sec for GEIInstallers
+2017-11-20 08:01:54 Favorites: 92.9% at 2/sec for GFRLTD
+2017-11-20 08:01:55 Favorites: 100% at 32/sec for GiacominiUK
+2017-11-20 08:01:57 Tweets   : 100% at 31/sec for future_fuels
+2017-11-20 08:02:05 Favorites: 61.4% at 28/sec for gixerboy09
+2017-11-20 08:02:07 Favorites: 100% at 46/sec for GledhillGroup
+2017-11-20 08:02:25 Favorites: 53.5% at 27/sec for Glencoplumbing
+2017-11-20 08:02:33 Favorites: 51.8% at 24/sec for GlobalPayInc
+2017-11-20 08:02:50 Friends  : 98.1% at 29/sec for FYPlumberparts
+2017-11-20 08:03:07 Friends  : 95% at 32/sec for GaryMoran1
+2017-11-20 08:03:28 Tweets   : 8.6% at 35/sec for FYPlumberparts
+2017-11-20 08:04:00 Friends  : 94.7% at 26/sec for gas_kier
+2017-11-20 08:04:00 Tweets   : 99.6% at 32/sec for GaryMoran1
+2017-11-20 08:04:02 Friends  : 100% at 19/sec for gas_ln
+2017-11-20 08:04:05 Friends  : 100% at 33/sec for Gas_Man_Den
+2017-11-20 08:04:26 Tweets   : 99.9% at 29/sec for gas_kier
+2017-11-20 08:04:27 Favorites: 22.3% at 29/sec for gmartinplumbing
+2017-11-20 08:04:27 Favorites: 100% at 5/sec for GMAutoflow
+2017-11-20 08:04:32 Tweets   : 100% at 1/sec for gas_ln
+2017-11-20 08:04:44 Tweets   : 99.1% at 9/sec for Gas_Man_Den
+2017-11-20 08:05:12 Tweets   : 100% at 31/sec for gasappuk
+2017-11-20 08:05:16 Friends  : 90.9% at 28/sec for gasappuk
+2017-11-20 08:05:21 Tweets   : 97.8% at 25/sec for GasCorePlumbing
+2017-11-20 08:05:28 Friends  : 100% at 25/sec for GasCorePlumbing
+2017-11-20 08:05:31 Favorites: Waiting for 10.8 minutes due to : Used up allowance in a loop
+2017-11-20 08:05:33 Tweets   : 100% at 11/sec for GasPerry
+2017-11-20 08:05:38 Friends  : 99.2% at 24/sec for GasPerry
+2017-11-20 08:06:10 Friends  : 99.7% at 30/sec for GASPROJAXON5
+2017-11-20 08:06:23 Friends  : 88.9% at 30/sec for gassafemark
+2017-11-20 08:06:23 Friends  : User gassafetyuk has a protected account or no Friendss to collect so skipping
+2017-11-20 08:06:32 Friends  : 98.9% at 21/sec for GasSaver97
+2017-11-20 08:07:03 Tweets   : 74% at 35/sec for GASPROJAXON5
+2017-11-20 08:07:05 Friends  : 99.9% at 28/sec for GaswayLtd
+2017-11-20 08:07:07 Friends  : 100% at 24/sec for gavindutton77
+2017-11-20 08:07:07 Friends  : Waiting for 5.7 minutes
+2017-11-20 08:07:22 Tweets   : 100% at 35/sec for gassafemark
+2017-11-20 08:07:22 Tweets   : User gassafetyuk has a protected account or no Tweetss to collect so skipping
+2017-11-20 08:07:34 Tweets   : 99.2% at 11/sec for GasSaver97
+2017-11-20 08:09:04 Tweets   : 44.8% at 36/sec for GaswayLtd
+2017-11-20 08:09:18 Tweets   : 99.4% at 22/sec for gavindutton77
+2017-11-20 08:09:26 Tweets   : 98.6% at 18/sec for GDFinanceCo
+2017-11-20 08:09:33 Tweets   : 100% at 9/sec for Gdgasheating
+2017-11-20 08:09:39 Tweets   : 100% at 3/sec for GEIInstallers
+2017-11-20 08:09:59 Tweets   : 90.2% at 23/sec for GFRLTD
+2017-11-20 08:10:19 Tweets   : 100% at 30/sec for GiacominiUK
+2017-11-20 08:11:44 Tweets   : 78.6% at 37/sec for gixerboy09
+2017-11-20 08:12:35 Tweets   : 99.9% at 37/sec for GledhillGroup
+2017-11-20 08:13:10 Friends  : 100% at 1/sec for GDFinanceCo
+2017-11-20 08:13:13 Friends  : 100% at 38/sec for Gdgasheating
+2017-11-20 08:13:25 Friends  : 100% at 28/sec for GEIInstallers
+2017-11-20 08:13:25 Tweets   : 100% at 31/sec for Glencoplumbing
+2017-11-20 08:14:14 Tweets   : 99.9% at 35/sec for GlobalPayInc
+2017-11-20 08:14:15 Friends  : 100% at 26/sec for GFRLTD
+2017-11-20 08:14:40 Friends  : 97.8% at 32/sec for GiacominiUK
+2017-11-20 08:15:19 Friends  : 97.8% at 25/sec for gixerboy09
+2017-11-20 08:15:31 Friends  : 98.7% at 27/sec for GledhillGroup
+2017-11-20 08:15:46 Tweets   : 46.1% at 35/sec for gmartinplumbing
+2017-11-20 08:15:53 Tweets   : 100% at 14/sec for GMAutoflow
+2017-11-20 08:16:54 Favorites: 50% at 3/sec for GoodyerDave
+2017-11-20 08:16:55 Favorites: 100% at 10/sec for GreenDealMentor
+2017-11-20 08:16:55 Favorites: 100% at 5/sec for Grime_Boss
+2017-11-20 08:17:05 Tweets   : 99.9% at 33/sec for GoodyerDave
+2017-11-20 08:17:13 Friends  : 98.4% at 28/sec for Glencoplumbing
+2017-11-20 08:17:16 Favorites: 57.7% at 28/sec for groheating
+2017-11-20 08:17:22 Favorites: 100% at 15/sec for grt_gas
+2017-11-20 08:17:23 Favorites: 93.3% at 33/sec for grundfossteve
+2017-11-20 08:17:24 Favorites: 96.4% at 51/sec for gti_direct
+2017-11-20 08:17:25 Favorites: 94.3% at 33/sec for gtidirect_
+2017-11-20 08:17:26 Favorites: 100% at 13/sec for GWESLtd
+2017-11-20 08:17:27 Favorites: 98.1% at 47/sec for GWS_UK
+2017-11-20 08:17:28 Tweets   : 100% at 23/sec for GreenDealMentor
+2017-11-20 08:17:32 Friends  : 99.5% at 21/sec for GlobalPayInc
+2017-11-20 08:17:35 Tweets   : 100% at 15/sec for Grime_Boss
+2017-11-20 08:18:07 Tweets   : 100% at 27/sec for groheating
+2017-11-20 08:18:16 Tweets   : 100% at 19/sec for grt_gas
+2017-11-20 08:18:22 Tweets   : 100% at 4/sec for grundfossteve
+2017-11-20 08:18:31 Friends  : 93.6% at 27/sec for gmartinplumbing
+2017-11-20 08:18:46 Tweets   : 98.4% at 25/sec for gti_direct
+2017-11-20 08:18:54 Friends  : 100% at 33/sec for GMAutoflow
+2017-11-20 08:19:06 Friends  : 93.8% at 30/sec for GoodyerDave
+2017-11-20 08:19:10 Tweets   : 93.2% at 25/sec for gtidirect_
+2017-11-20 08:19:16 Tweets   : 100% at 3/sec for GWESLtd
+2017-11-20 08:19:26 Tweets   : 100% at 33/sec for GWS_UK
+2017-11-20 08:19:54 Friends  : 100% at 35/sec for GreenDealMentor
+2017-11-20 08:20:28 Friends  : 100% at 34/sec for Grime_Boss
+2017-11-20 08:20:49 Friends  : 92.7% at 30/sec for groheating
+2017-11-20 08:20:49 Friends  : Waiting for 7.2 minutes
+Error in twInterfaceObj$doAPICall(paste("users", "show", sep = "/"), params = params,  : 
+  Not Found (HTTP 404).
+2017-11-20 08:28:14 Friends: Unable to find account grt_gas moving to next
+2017-11-20 08:28:14 Friends  : % at /sec for grt_gas
+2017-11-20 08:28:26 Friends  : 90.5% at 32/sec for grundfossteve
+2017-11-20 08:28:44 Friends  : 97.6% at 39/sec for gti_direct
+2017-11-20 08:29:05 Friends  : 100% at 33/sec for gtidirect_
+2017-11-20 08:29:07 Friends  : 100% at 36/sec for GWESLtd
+2017-11-20 08:29:51 Friends  : 99.6% at 33/sec for GWS_UK
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+Warning messages:
+1: package 'twitteR' was built under R version 3.4.1 
+2: In twInterfaceObj$doAPICall(cmd, params, method, ...) :
+  Rate limit encountered & retry limit reached - returning partial results

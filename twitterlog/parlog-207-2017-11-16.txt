@@ -1,0 +1,172 @@
+starting worker pid=8692 on localhost:11271 at 01:52:31.404
+starting worker pid=8232 on localhost:11271 at 01:52:31.651
+starting worker pid=14384 on localhost:11271 at 01:52:31.810
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-16 01:53:27 Friends  : 100% at 25/sec for AnitaRussell4
+2017-11-16 01:53:31 Friends  : 97.8% at 45/sec for anitawade47
+2017-11-16 01:53:52 Friends  : 99.2% at 42/sec for AnnamDesmond
+2017-11-16 01:54:01 Friends  : 98.3% at 39/sec for AnnaRelph
+2017-11-16 01:54:06 Favorites: 55.1% at 34/sec for AnitaRussell4
+2017-11-16 01:54:14 Favorites: 96.1% at 26/sec for anitawade47
+2017-11-16 01:54:39 Friends  : 99.3% at 40/sec for AnnePBowers
+2017-11-16 01:54:55 Friends  : 100% at 43/sec for annielouisa58
+2017-11-16 01:55:00 Friends  : 99.3% at 33/sec for AntonioIrranca
+2017-11-16 01:55:07 Favorites: 50.3% at 43/sec for AnnamDesmond
+2017-11-16 01:55:10 Tweets   : 99.8% at 26/sec for AnitaRussell4
+2017-11-16 01:55:11 Favorites: 52.9% at 50/sec for AnnaRelph
+2017-11-16 01:55:20 Favorites: Waiting for 9 minutes due to : Used up allowance in a loop
+2017-11-16 01:55:30 Friends  : 97.9% at 42/sec for Antz_Junction
+2017-11-16 01:55:31 Tweets   : 99.8% at 41/sec for anitawade47
+2017-11-16 01:55:42 Friends  : 99.2% at 38/sec for Arawakwalton
+2017-11-16 01:55:54 Friends  : 91.4% at 47/sec for AshleyReece18
+2017-11-16 01:56:01 Friends  : 97.5% at 42/sec for BarbBayton
+2017-11-16 01:56:40 Tweets   : 75.2% at 47/sec for AnnamDesmond
+2017-11-16 01:56:48 Friends  : 99.8% at 43/sec for BBCShropshire
+2017-11-16 01:56:54 Friends  : 99.3% at 46/sec for BCHousingGroup
+2017-11-16 01:57:07 Tweets   : 99.9% at 41/sec for AnnaRelph
+2017-11-16 01:57:08 Friends  : 99.3% at 42/sec for benfowleruk
+2017-11-16 01:57:26 Friends  : 98.1% at 47/sec for bethboorman
+2017-11-16 01:57:33 Friends  : 100% at 37/sec for BhamSHP
+2017-11-16 01:57:53 Friends  : 99.8% at 42/sec for BHT_Sussex
+2017-11-16 01:58:12 Tweets   : 25.2% at 49/sec for AnnePBowers
+2017-11-16 01:58:16 Friends  : 99% at 40/sec for BibiLynch
+2017-11-16 01:58:16 Friends  : Waiting for 10.7 minutes
+2017-11-16 01:58:28 Tweets   : 99.4% at 39/sec for annielouisa58
+2017-11-16 01:58:38 Tweets   : 100% at 19/sec for AntonioIrranca
+2017-11-16 01:59:27 Tweets   : 99.9% at 48/sec for Antz_Junction
+2017-11-16 02:00:00 Tweets   : 100% at 45/sec for Arawakwalton
+2017-11-16 02:00:25 Tweets   : 99.7% at 40/sec for AshleyReece18
+2017-11-16 02:01:00 Tweets   : 99.8% at 47/sec for BarbBayton
+2017-11-16 02:02:10 Tweets   : 12.1% at 46/sec for BBCShropshire
+2017-11-16 02:02:39 Tweets   : 99.9% at 41/sec for BCHousingGroup
+2017-11-16 02:02:53 Tweets   : 99.8% at 33/sec for benfowleruk
+2017-11-16 02:03:46 Tweets   : 99.7% at 49/sec for bethboorman
+2017-11-16 02:03:59 Tweets   : 99.4% at 26/sec for BhamSHP
+2017-11-16 02:04:42 Favorites: 51.9% at 2/sec for AnnePBowers
+2017-11-16 02:04:42 Favorites: 95.8% at 37/sec for annielouisa58
+2017-11-16 02:04:43 Favorites: 100% at 19/sec for AntonioIrranca
+2017-11-16 02:05:01 Favorites: 54.6% at 49/sec for Antz_Junction
+2017-11-16 02:05:05 Tweets   : 71.1% at 48/sec for BHT_Sussex
+2017-11-16 02:05:06 Favorites: 49.6% at 44/sec for Arawakwalton
+2017-11-16 02:05:07 Favorites: 94.1% at 22/sec for AshleyReece18
+2017-11-16 02:05:17 Favorites: 49.6% at 49/sec for BarbBayton
+2017-11-16 02:05:25 Favorites: 50.9% at 50/sec for BBCShropshire
+2017-11-16 02:05:30 Favorites: 50.9% at 42/sec for BCHousingGroup
+2017-11-16 02:05:30 Favorites: 100% at 20/sec for benfowleruk
+2017-11-16 02:05:59 Favorites: 53.2% at 43/sec for bethboorman
+2017-11-16 02:06:01 Favorites: 100% at 34/sec for BhamSHP
+2017-11-16 02:06:06 Favorites: 55.5% at 45/sec for BHT_Sussex
+2017-11-16 02:06:14 Tweets   : 1.5% at 47/sec for BibiLynch
+2017-11-16 02:07:01 Favorites: Waiting for 12.5 minutes due to : Used up allowance in a loop
+2017-11-16 02:07:28 Tweets   : 11.1% at 43/sec for BigIssue
+2017-11-16 02:08:31 Tweets   : 60.7% at 51/sec for BishManchester
+2017-11-16 02:09:33 Friends  : 99.6% at 1/sec for BigIssue
+2017-11-16 02:09:39 Tweets   : 21.9% at 47/sec for blowndes
+2017-11-16 02:09:43 Friends  : 97.6% at 41/sec for BishManchester
+2017-11-16 02:10:55 Tweets   : 15.8% at 42/sec for BobBlackman
+2017-11-16 02:11:18 Tweets   : 100% at 32/sec for bptwpartnership
+2017-11-16 02:11:46 Friends  : 98.8% at 40/sec for blowndes
+2017-11-16 02:12:28 Tweets   : 49.1% at 46/sec for BreckCouncil
+2017-11-16 02:12:48 Tweets   : 99.7% at 38/sec for brianmilli
+2017-11-16 02:13:35 Friends  : 99.1% at 40/sec for BobBlackman
+2017-11-16 02:13:48 Friends  : 98.9% at 43/sec for bptwpartnership
+2017-11-16 02:13:53 Tweets   : 52.2% at 49/sec for BromfordHomes
+2017-11-16 02:13:55 Friends  : 98.6% at 39/sec for BreckCouncil
+2017-11-16 02:14:08 Friends  : 99.6% at 41/sec for brianmilli
+2017-11-16 02:14:20 Friends  : 100% at 42/sec for BromfordHomes
+2017-11-16 02:14:49 Tweets   : 99% at 45/sec for BurnhamForMayor
+2017-11-16 02:15:04 Tweets   : 100% at 31/sec for BushMCR
+2017-11-16 02:15:52 Tweets   : 99.2% at 39/sec for byrnerae
+2017-11-16 02:16:14 Tweets   : 99.9% at 31/sec for cahirstworks
+2017-11-16 02:16:38 Tweets   : 100% at 33/sec for CandCD
+2017-11-16 02:17:49 Tweets   : 41% at 45/sec for carolinenokes
+2017-11-16 02:18:01 Friends  : 99.9% at 38/sec for BurnhamForMayor
+2017-11-16 02:18:03 Tweets   : 100% at 29/sec for Cath_Braun
+2017-11-16 02:18:07 Friends  : 96.5% at 41/sec for BushMCR
+2017-11-16 02:18:29 Friends  : 98.6% at 44/sec for byrnerae
+Error in twInterfaceObj$doAPICall(paste("users", "show", sep = "/"), params = params,  : 
+  Not Found (HTTP 404).
+In addition: Warning message:
+package 'twitteR' was built under R version 3.4.1 
+2017-11-16 02:18:30 Friends: Unable to find account cahirstworks moving to next
+2017-11-16 02:18:30 Friends  : % at /sec for cahirstworks
+2017-11-16 02:18:36 Friends  : 98.4% at 37/sec for CandCD
+2017-11-16 02:18:45 Friends  : 97.9% at 45/sec for carolinenokes
+2017-11-16 02:18:45 Friends  : Waiting for 5.5 minutes
+2017-11-16 02:19:01 Tweets   : 99.8% at 47/sec for CathGreenFCHO
+2017-11-16 02:19:42 Tweets   : 100% at 47/sec for CCBerkshire
+2017-11-16 02:19:51 Tweets   : 100% at 14/sec for CCBRHE
+2017-11-16 02:19:59 Favorites: 26.1% at 4/sec for BibiLynch
+2017-11-16 02:20:10 Tweets   : 100% at 35/sec for Central_Cecil
+2017-11-16 02:21:09 Favorites: 37.7% at 45/sec for BigIssue
+2017-11-16 02:21:19 Favorites: 53.9% at 48/sec for BishManchester
+2017-11-16 02:21:20 Tweets   : 32.7% at 46/sec for centreforlondon
+2017-11-16 02:21:48 Tweets   : 99.9% at 38/sec for ceri_vr
+2017-11-16 02:21:50 Favorites: 52.7% at 45/sec for blowndes
+2017-11-16 02:22:27 Favorites: Waiting for 12.4 minutes due to : Used up allowance in a loop
+2017-11-16 02:22:54 Tweets   : 99.9% at 41/sec for ChacoLeeds
+2017-11-16 02:23:14 Tweets   : 100% at 40/sec for change3c
+2017-11-16 02:24:16 Tweets   : 11.8% at 51/sec for channel5_tv
+2017-11-16 02:24:37 Friends  : 97.6% at 2/sec for Cath_Braun
+2017-11-16 02:24:53 Friends  : 97.3% at 43/sec for CathGreenFCHO
+2017-11-16 02:25:08 Friends  : 99.5% at 43/sec for CCBerkshire
+2017-11-16 02:25:09 Friends  : 100% at 29/sec for CCBRHE
+2017-11-16 02:25:14 Friends  : 98.6% at 35/sec for Central_Cecil
+2017-11-16 02:25:25 Tweets   : 84% at 46/sec for charityworksUK
+2017-11-16 02:25:43 Tweets   : 100% at 31/sec for charlottetroyx
+2017-11-16 02:26:04 Friends  : 99.4% at 46/sec for centreforlondon
+2017-11-16 02:26:20 Friends  : 99.7% at 42/sec for ceri_vr
+2017-11-16 02:26:27 Friends  : 98.4% at 38/sec for ChacoLeeds
+2017-11-16 02:26:29 Friends  : 100% at 29/sec for change3c
+2017-11-16 02:26:53 Tweets   : 27.5% at 45/sec for ChurchHousing
+2017-11-16 02:27:33 Friends  : 99.7% at 42/sec for channel5_tv
+2017-11-16 02:27:53 Friends  : 99.3% at 41/sec for charityworksUK
+2017-11-16 02:27:58 Friends  : 99.5% at 38/sec for charlottetroyx
+2017-11-16 02:27:58 Tweets   : 81.6% at 49/sec for circlehousing
+2017-11-16 02:28:35 Friends  : 99.2% at 40/sec for ChurchHousing
+2017-11-16 02:28:42 Tweets   : 100% at 47/sec for citycait
+2017-11-16 02:29:03 Friends  : 99.8% at 43/sec for circlehousing
+2017-11-16 02:29:21 Friends  : 99.4% at 41/sec for citycait
+2017-11-16 02:29:22 Friends  : Waiting for 10.1 minutes
+2017-11-16 02:29:49 Tweets   : 72.8% at 48/sec for clairemoses
+2017-11-16 02:29:59 Tweets   : 100% at 19/sec for ClaireSims12
+2017-11-16 02:31:09 Tweets   : 16% at 46/sec for CllrBobBarr
+2017-11-16 02:35:43 Favorites: 30.8% at 4/sec for BobBlackman
+2017-11-16 02:35:47 Favorites: 55.7% at 49/sec for bptwpartnership
+2017-11-16 02:35:52 Favorites: 61.4% at 43/sec for BreckCouncil
+2017-11-16 02:35:52 Favorites: 100% at 31/sec for brianmilli
+2017-11-16 02:35:57 Favorites: 80.3% at 46/sec for BromfordHomes
+2017-11-16 02:36:00 Favorites: 83.3% at 53/sec for BurnhamForMayor
+2017-11-16 02:36:03 Favorites: 83.3% at 41/sec for BushMCR
+2017-11-16 02:36:07 Favorites: 64.5% at 51/sec for byrnerae
+2017-11-16 02:36:20 Favorites: 58.7% at 46/sec for cahirstworks
+2017-11-16 02:36:23 Favorites: 99% at 53/sec for CandCD
+2017-11-16 02:36:31 Favorites: 52.5% at 49/sec for carolinenokes
+2017-11-16 02:36:46 Favorites: 50.1% at 48/sec for Cath_Braun
+2017-11-16 02:37:18 Favorites: 50.8% at 43/sec for CathGreenFCHO
+2017-11-16 02:37:20 Favorites: 70% at 46/sec for CCBerkshire
+2017-11-16 02:37:20 Favorites: 100% at 8/sec for CCBRHE
+2017-11-16 02:37:22 Favorites: 94.3% at 70/sec for Central_Cecil
+2017-11-16 02:37:46 Favorites: Waiting for 12.4 minutes due to : Used up allowance in a loop
+2017-11-16 02:40:05 Friends  : 99.8% at 1/sec for clairemoses
+2017-11-16 02:40:20 Friends  : 97.8% at 30/sec for ClaireSims12
+2017-11-16 02:40:35 Friends  : 98.3% at 50/sec for CllrBobBarr
+2017-11-16 02:50:35 Favorites: 51.1% at 2/sec for centreforlondon
+2017-11-16 02:50:39 Favorites: 81.8% at 45/sec for ceri_vr
+2017-11-16 02:50:55 Favorites: 52.9% at 48/sec for ChacoLeeds
+2017-11-16 02:50:58 Favorites: 74.1% at 48/sec for change3c
+2017-11-16 02:51:45 Favorites: 49.8% at 49/sec for channel5_tv
+2017-11-16 02:52:02 Favorites: 52.4% at 48/sec for charityworksUK
+2017-11-16 02:52:04 Favorites: 100% at 43/sec for charlottetroyx
+2017-11-16 02:52:09 Favorites: 69.5% at 51/sec for ChurchHousing
+2017-11-16 02:52:15 Favorites: 52.5% at 49/sec for circlehousing
+2017-11-16 02:52:20 Favorites: 59.6% at 46/sec for citycait
+2017-11-16 02:52:36 Favorites: 55.4% at 48/sec for clairemoses
+2017-11-16 02:52:39 Favorites: 56.2% at 44/sec for ClaireSims12
+2017-11-16 02:52:43 Favorites: 80.2% at 52/sec for CllrBobBarr
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+Warning message:
+package 'twitteR' was built under R version 3.4.1 

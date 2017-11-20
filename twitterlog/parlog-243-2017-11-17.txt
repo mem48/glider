@@ -1,0 +1,172 @@
+starting worker pid=10660 on localhost:11271 at 16:46:00.339
+starting worker pid=7612 on localhost:11271 at 16:46:00.521
+starting worker pid=12788 on localhost:11271 at 16:46:00.695
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-17 16:49:08 Friends  : 99% at 31/sec for ReEnergiseToday
+2017-11-17 16:49:16 Friends  : 98.4% at 43/sec for reidjan
+2017-11-17 16:49:16 Friends  : User renewablescg has a protected account or no Friendss to collect so skipping
+2017-11-17 16:49:25 Favorites: 94.3% at 48/sec for ReEnergiseToday
+2017-11-17 16:49:35 Favorites: 90% at 19/sec for reidjan
+2017-11-17 16:49:35 Favorites: User renewablescg has a protected account or no Favoritess to collect so skipping
+2017-11-17 16:49:50 Friends  : 98.5% at 33/sec for Responsible_Biz
+2017-11-17 16:49:58 Favorites: 48.8% at 26/sec for Responsible_Biz
+2017-11-17 16:50:09 Friends  : 99% at 32/sec for rkyte365
+2017-11-17 16:50:11 Favorites: 61.2% at 24/sec for rkyte365
+2017-11-17 16:50:39 Favorites: Waiting for 4.7 minutes due to : Used up allowance in a loop
+2017-11-17 16:51:09 Friends  : 98.7% at 34/sec for RobinWhitlock66
+2017-11-17 16:51:29 Friends  : 98.9% at 40/sec for SaraStefaninii
+2017-11-17 16:52:15 Friends  : 98.4% at 35/sec for sbul_stephen
+2017-11-17 16:52:22 Tweets   : 100% at 32/sec for ReEnergiseToday
+2017-11-17 16:52:34 Friends  : 98.1% at 37/sec for scarranzatovar
+2017-11-17 16:52:35 Friends  : 100% at 24/sec for schiavegati
+2017-11-17 16:52:40 Friends  : 100% at 27/sec for ScotGovEMT
+2017-11-17 16:52:49 Tweets   : 99.6% at 37/sec for reidjan
+2017-11-17 16:52:55 Tweets   : 100% at 0/sec for renewablescg
+2017-11-17 16:53:59 Friends  : 97.7% at 36/sec for ScotlandB2B
+2017-11-17 16:54:00 Friends  : 100% at 30/sec for scotlandpolicy
+2017-11-17 16:54:02 Friends  : 100% at 22/sec for SCTScourtstribs
+2017-11-17 16:54:20 Tweets   : 58.9% at 38/sec for Responsible_Biz
+2017-11-17 16:54:22 Friends  : 100% at 32/sec for Secdeenergia
+2017-11-17 16:55:38 Friends  : 99.8% at 33/sec for SedexCSR
+2017-11-17 16:55:38 Friends  : Waiting for 7.1 minutes
+2017-11-17 16:55:42 Favorites: 51.2% at 5/sec for RobinWhitlock66
+2017-11-17 16:55:43 Tweets   : 42.7% at 38/sec for rkyte365
+2017-11-17 16:55:48 Favorites: 83.7% at 36/sec for SaraStefaninii
+2017-11-17 16:55:49 Favorites: 74.6% at 54/sec for sbul_stephen
+2017-11-17 16:56:18 Favorites: 51% at 39/sec for scarranzatovar
+2017-11-17 16:56:18 Favorites: 100% at 3/sec for schiavegati
+2017-11-17 16:56:19 Favorites: 100% at 33/sec for ScotGovEMT
+2017-11-17 16:57:07 Tweets   : 14.7% at 38/sec for RobinWhitlock66
+2017-11-17 16:57:21 Favorites: 52% at 34/sec for ScotlandB2B
+2017-11-17 16:57:21 Favorites: User scotlandpolicy has a protected account or no Favoritess to collect so skipping
+2017-11-17 16:57:22 Favorites: 55.6% at 60/sec for SCTScourtstribs
+2017-11-17 16:57:23 Favorites: 84.6% at 18/sec for Secdeenergia
+2017-11-17 16:57:33 Favorites: 60.8% at 31/sec for SedexCSR
+2017-11-17 16:57:42 Favorites: 64.9% at 45/sec for SEforALLorg
+2017-11-17 16:57:54 Tweets   : 99.9% at 36/sec for SaraStefaninii
+2017-11-17 16:58:08 Favorites: 51.3% at 38/sec for SemadetJal
+2017-11-17 16:58:11 Favorites: 100% at 6/sec for SESrenewables
+2017-11-17 16:58:29 Tweets   : 100% at 32/sec for sbul_stephen
+2017-11-17 16:58:42 Favorites: Waiting for 11.7 minutes due to : Used up allowance in a loop
+2017-11-17 16:59:07 Tweets   : 99.9% at 32/sec for scarranzatovar
+2017-11-17 16:59:15 Tweets   : 100% at 7/sec for schiavegati
+2017-11-17 16:59:25 Tweets   : 100% at 18/sec for ScotGovEMT
+2017-11-17 17:00:49 Tweets   : 70.5% at 38/sec for ScotlandB2B
+2017-11-17 17:01:13 Tweets   : 99.8% at 34/sec for scotlandpolicy
+2017-11-17 17:02:33 Tweets   : 47.8% at 40/sec for SCTScourtstribs
+2017-11-17 17:03:11 Tweets   : 99.9% at 32/sec for Secdeenergia
+2017-11-17 17:03:21 Friends  : 98.4% at 2/sec for SEforALLorg
+2017-11-17 17:03:46 Friends  : 99.4% at 34/sec for SemadetJal
+2017-11-17 17:03:51 Friends  : 100% at 20/sec for SESrenewables
+2017-11-17 17:04:39 Tweets   : 69.7% at 36/sec for SedexCSR
+2017-11-17 17:05:45 Friends  : 99.7% at 33/sec for shelllivewireuk
+2017-11-17 17:06:12 Tweets   : 49.1% at 34/sec for SEforALLorg
+2017-11-17 17:06:57 Friends  : 99% at 33/sec for shower_save
+2017-11-17 17:07:05 Friends  : 99% at 34/sec for sofiaherm
+2017-11-17 17:07:11 Friends  : 96.7% at 23/sec for SoutherlyBreeze
+2017-11-17 17:07:31 Tweets   : 9.8% at 41/sec for SemadetJal
+2017-11-17 17:07:38 Tweets   : 100% at 9/sec for SESrenewables
+2017-11-17 17:07:56 Friends  : 99% at 30/sec for SpeakSarahSpeak
+2017-11-17 17:09:02 Tweets   : 16.3% at 38/sec for shelllivewireuk
+2017-11-17 17:09:21 Tweets   : 100% at 25/sec for shower_save
+2017-11-17 17:09:32 Tweets   : 100% at 17/sec for sofiaherm
+2017-11-17 17:10:20 Friends  : 98.1% at 30/sec for SSF_UK
+2017-11-17 17:10:34 Tweets   : 99.9% at 35/sec for SoutherlyBreeze
+2017-11-17 17:11:07 Favorites: 45.2% at 3/sec for shelllivewireuk
+2017-11-17 17:11:09 Favorites: 70.4% at 54/sec for shower_save
+2017-11-17 17:11:13 Favorites: 86.1% at 22/sec for sofiaherm
+2017-11-17 17:11:18 Friends  : 98.5% at 36/sec for susiewood78
+2017-11-17 17:11:29 Friends  : 100% at 26/sec for suzlefb
+2017-11-17 17:11:35 Favorites: 51% at 37/sec for SoutherlyBreeze
+2017-11-17 17:12:01 Favorites: 54.2% at 34/sec for SpeakSarahSpeak
+2017-11-17 17:12:06 Tweets   : 43.4% at 35/sec for SpeakSarahSpeak
+2017-11-17 17:12:23 Friends  : 97.4% at 34/sec for sysdocgroup
+2017-11-17 17:13:32 Favorites: 42.1% at 35/sec for SSF_UK
+2017-11-17 17:13:34 Favorites: 100% at 48/sec for susiewood78
+2017-11-17 17:13:34 Favorites: 100% at 10/sec for suzlefb
+2017-11-17 17:13:38 Tweets   : 28.7% at 35/sec for SSF_UK
+2017-11-17 17:13:42 Favorites: 71.3% at 40/sec for sysdocgroup
+2017-11-17 17:13:49 Friends  : 99.9% at 32/sec for TargetCatering
+2017-11-17 17:13:49 Favorites: 66.4% at 38/sec for TargetCatering
+2017-11-17 17:14:01 Favorites: Waiting for 11.7 minutes due to : Used up allowance in a loop
+2017-11-17 17:14:30 Tweets   : 99.9% at 32/sec for susiewood78
+2017-11-17 17:14:39 Tweets   : 100% at 15/sec for suzlefb
+2017-11-17 17:15:34 Tweets   : 99.8% at 32/sec for sysdocgroup
+2017-11-17 17:16:49 Friends  : 99.3% at 32/sec for the_SRA
+2017-11-17 17:16:49 Friends  : Waiting for 1.2 minutes
+2017-11-17 17:17:06 Tweets   : 79.6% at 35/sec for TargetCatering
+2017-11-17 17:18:36 Tweets   : 27.4% at 36/sec for the_SRA
+2017-11-17 17:19:12 Friends  : 99.6% at 16/sec for thebteamhq
+2017-11-17 17:19:51 Tweets   : 26.2% at 42/sec for thebteamhq
+2017-11-17 17:19:53 Friends  : 98.8% at 32/sec for TheCPDService
+2017-11-17 17:20:14 Friends  : 99.4% at 32/sec for TowerHamletsNow
+2017-11-17 17:21:00 Friends  : 100% at 29/sec for uk_esl
+2017-11-17 17:21:09 Tweets   : 47.9% at 41/sec for TheCPDService
+2017-11-17 17:21:12 Friends  : 97.1% at 31/sec for UKenergyinnov8
+2017-11-17 17:21:56 Friends  : 98.4% at 29/sec for VentureEur
+2017-11-17 17:22:31 Tweets   : 26.7% at 39/sec for TowerHamletsNow
+2017-11-17 17:22:35 Friends  : 98.7% at 24/sec for Vivek_Soundar
+2017-11-17 17:22:44 Tweets   : 100% at 27/sec for uk_esl
+2017-11-17 17:23:18 Tweets   : 100% at 33/sec for UKenergyinnov8
+2017-11-17 17:23:37 Tweets   : 99.8% at 25/sec for VentureEur
+2017-11-17 17:24:05 Tweets   : 100% at 30/sec for Vivek_Soundar
+Error in twInterfaceObj$doAPICall(cmd, params, method, ...) : 
+  Service Unavailable (HTTP 503).
+In addition: Warning message:
+package 'twitteR' was built under R version 3.4.1 
+2017-11-17 17:24:26 Tweets: Unable to find account wearemitie moving to next
+2017-11-17 17:24:26 Tweets   : % at /sec for wearemitie
+2017-11-17 17:24:26 Tweets   : User Whitehouse_NRG has a protected account or no Tweetss to collect so skipping
+2017-11-17 17:25:11 Tweets   : 99.8% at 32/sec for whyrwenotgrnr
+2017-11-17 17:25:14 Friends  : 99.9% at 36/sec for wearemitie
+Error in twInterfaceObj$doAPICall(paste("users", "show", sep = "/"), params = params,  : 
+  Not Found (HTTP 404).
+In addition: Warning message:
+package 'twitteR' was built under R version 3.4.1 
+2017-11-17 17:25:14 Friends: Unable to find account Whitehouse_NRG moving to next
+2017-11-17 17:25:14 Friends  : % at /sec for Whitehouse_NRG
+2017-11-17 17:25:20 Friends  : 97.1% at 29/sec for whyrwenotgrnr
+2017-11-17 17:25:22 Friends  : 100% at 15/sec for wilkinsps
+2017-11-17 17:25:29 Tweets   : 100% at 27/sec for wilkinsps
+2017-11-17 17:26:03 Favorites: 23.3% at 1/sec for the_SRA
+2017-11-17 17:26:16 Friends  : 99.9% at 34/sec for WillStrange
+2017-11-17 17:26:29 Tweets   : 100% at 35/sec for WillStrange
+2017-11-17 17:26:32 Friends  : 97.8% at 29/sec for windpower_m
+2017-11-17 17:26:50 Favorites: 50.5% at 36/sec for thebteamhq
+2017-11-17 17:26:55 Favorites: 77.1% at 37/sec for TheCPDService
+2017-11-17 17:27:10 Favorites: 56.1% at 38/sec for TowerHamletsNow
+2017-11-17 17:27:11 Favorites: 100% at 11/sec for uk_esl
+2017-11-17 17:27:17 Favorites: 53.4% at 33/sec for UKenergyinnov8
+2017-11-17 17:27:19 Favorites: 95.2% at 57/sec for VentureEur
+2017-11-17 17:27:29 Favorites: 53.6% at 30/sec for Vivek_Soundar
+2017-11-17 17:27:31 Favorites: 7.6% at 50/sec for wearemitie
+2017-11-17 17:27:31 Favorites: User Whitehouse_NRG has a protected account or no Favoritess to collect so skipping
+2017-11-17 17:27:42 Favorites: 61.8% at 35/sec for whyrwenotgrnr
+2017-11-17 17:27:43 Favorites: 100% at 53/sec for wilkinsps
+2017-11-17 17:27:47 Favorites: 79.4% at 25/sec for WillStrange
+2017-11-17 17:27:48 Favorites: 100% at 18/sec for windpower_m
+2017-11-17 17:27:59 Tweets   : 42.1% at 36/sec for windpower_m
+2017-11-17 17:28:20 Friends  : 99.4% at 32/sec for Wirral_Chamber
+2017-11-17 17:28:29 Favorites: 49.3% at 38/sec for Wirral_Chamber
+2017-11-17 17:28:40 Favorites: 50.2% at 35/sec for WorldBank
+2017-11-17 17:28:42 Favorites: 50% at 55/sec for WPMEvents
+2017-11-17 17:28:43 Friends  : 99.7% at 27/sec for WorldBank
+2017-11-17 17:28:43 Friends  : Waiting for 4.4 minutes
+2017-11-17 17:28:51 Favorites: 71% at 33/sec for WRAP_Cymru
+2017-11-17 17:29:07 Favorites: Waiting for 11.8 minutes due to : Used up allowance in a loop
+2017-11-17 17:29:34 Tweets   : 20.5% at 34/sec for Wirral_Chamber
+2017-11-17 17:30:40 Tweets   : 9.3% at 48/sec for WorldBank
+2017-11-17 17:31:45 Tweets   : 97.7% at 49/sec for WPMEvents
+2017-11-17 17:32:53 Tweets   : 90.5% at 47/sec for WRAP_Cymru
+2017-11-17 17:33:36 Tweets   : 98.9% at 41/sec for ZacBaynhamHerd
+2017-11-17 17:33:47 Tweets   : 99% at 18/sec for ZoeBronwen
+2017-11-17 17:34:06 Friends  : 99.9% at 6/sec for WPMEvents
+2017-11-17 17:34:36 Friends  : 99% at 38/sec for WRAP_Cymru
+2017-11-17 17:35:03 Friends  : 97.9% at 38/sec for ZacBaynhamHerd
+2017-11-17 17:35:16 Friends  : 98.4% at 34/sec for ZoeBronwen
+2017-11-17 17:41:21 Favorites: 50.6% at 1/sec for ZacBaynhamHerd
+2017-11-17 17:41:24 Favorites: 66.7% at 32/sec for ZoeBronwen
+Warning message:
+package 'twitteR' was built under R version 3.4.1 

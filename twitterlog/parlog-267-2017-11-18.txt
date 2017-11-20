@@ -1,0 +1,173 @@
+starting worker pid=5928 on localhost:11271 at 20:08:43.437
+starting worker pid=8576 on localhost:11271 at 20:08:43.609
+starting worker pid=3684 on localhost:11271 at 20:08:43.768
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-18 20:11:17 Friends  : 99.9% at 25/sec for SoniaPoulton
+2017-11-18 20:12:20 Friends  : 97.4% at 40/sec for SouthwarkGP
+2017-11-18 20:12:33 Friends  : 99.7% at 30/sec for SpaceArchUK
+2017-11-18 20:12:35 Friends  : 98.2% at 47/sec for spreadinggreen
+2017-11-18 20:12:47 Friends  : 99.7% at 30/sec for StarleyGrainger
+2017-11-18 20:13:34 Friends  : 100% at 36/sec for statusdesignltd
+2017-11-18 20:13:40 Friends  : 100% at 29/sec for stefiorazi
+2017-11-18 20:13:51 Favorites: 44.1% at 31/sec for SoniaPoulton
+2017-11-18 20:14:17 Friends  : 100% at 35/sec for stephenpelling
+2017-11-18 20:14:20 Friends  : 100% at 58/sec for stevebattersby
+2017-11-18 20:14:44 Favorites: 50.2% at 35/sec for SouthwarkGP
+2017-11-18 20:14:45 Favorites: 93.3% at 46/sec for SpaceArchUK
+2017-11-18 20:14:50 Favorites: 52.8% at 34/sec for spreadinggreen
+2017-11-18 20:14:51 Favorites: 100% at 5/sec for StarleyGrainger
+2017-11-18 20:14:51 Favorites: User statusdesignltd has a protected account or no Favoritess to collect so skipping
+2017-11-18 20:15:04 Favorites: 48.8% at 36/sec for stefiorazi
+2017-11-18 20:15:04 Favorites: User stephenpelling has a protected account or no Favoritess to collect so skipping
+2017-11-18 20:15:18 Favorites: 55.3% at 37/sec for stevebattersby
+2017-11-18 20:15:24 Favorites: 92.9% at 35/sec for SteveCafeRacer
+2017-11-18 20:15:24 Favorites: User SteveChalke has a protected account or no Favoritess to collect so skipping
+2017-11-18 20:15:24 Favorites: 100% at 22/sec for StevenHarris_
+2017-11-18 20:15:30 Favorites: 87.7% at 35/sec for stiebeleltronuk
+2017-11-18 20:15:30 Favorites: 100% at 7/sec for sTimberFrame
+2017-11-18 20:15:36 Favorites: 98% at 34/sec for STindale
+2017-11-18 20:15:52 Friends  : 98.7% at 33/sec for SteveCafeRacer
+2017-11-18 20:15:52 Friends  : Waiting for 1.3 minutes
+2017-11-18 20:16:12 Favorites: Waiting for 11.8 minutes due to : Used up allowance in a loop
+2017-11-18 20:16:33 Tweets   : 9% at 41/sec for SoniaPoulton
+2017-11-18 20:17:16 Friends  : 100% at 2/sec for SteveChalke
+2017-11-18 20:17:23 Friends  : 99.6% at 34/sec for StevenHarris_
+2017-11-18 20:17:51 Tweets   : 13.9% at 41/sec for SouthwarkGP
+2017-11-18 20:18:16 Friends  : 99.9% at 37/sec for stiebeleltronuk
+2017-11-18 20:18:22 Tweets   : 99% at 36/sec for SpaceArchUK
+2017-11-18 20:18:38 Tweets   : 99.8% at 26/sec for spreadinggreen
+2017-11-18 20:18:53 Tweets   : 100% at 27/sec for StarleyGrainger
+2017-11-18 20:19:05 Tweets   : 100% at 12/sec for statusdesignltd
+2017-11-18 20:20:26 Tweets   : 22.5% at 39/sec for stefiorazi
+2017-11-18 20:20:30 Friends  : 100% at 35/sec for sTimberFrame
+2017-11-18 20:20:42 Tweets   : 100% at 30/sec for stephenpelling
+2017-11-18 20:22:14 Tweets   : 24.7% at 35/sec for stevebattersby
+2017-11-18 20:22:19 Friends  : 98% at 36/sec for STindale
+2017-11-18 20:22:56 Friends  : 94.3% at 34/sec for StollmeyerEU
+2017-11-18 20:23:29 Tweets   : 61.9% at 42/sec for SteveCafeRacer
+2017-11-18 20:23:41 Friends  : 97.4% at 34/sec for Stormsaver
+2017-11-18 20:24:09 Friends  : 99.5% at 33/sec for stuartharker
+2017-11-18 20:24:50 Tweets   : 46% at 40/sec for SteveChalke
+2017-11-18 20:25:13 Tweets   : 99.8% at 29/sec for StevenHarris_
+2017-11-18 20:25:14 Friends  : 99.3% at 32/sec for styrohome
+2017-11-18 20:25:49 Tweets   : 99.7% at 31/sec for stiebeleltronuk
+2017-11-18 20:26:12 Friends  : 100% at 30/sec for sunnforest
+2017-11-18 20:26:26 Tweets   : 99.8% at 37/sec for sTimberFrame
+2017-11-18 20:26:48 Friends  : 98.9% at 31/sec for susanpenhaligon
+2017-11-18 20:27:14 Friends  : 98.4% at 34/sec for SusBuildings
+2017-11-18 20:27:24 Friends  : 100% at 26/sec for SusConUK
+2017-11-18 20:27:24 Friends  : User sussexgardener has a protected account or no Friendss to collect so skipping
+2017-11-18 20:27:54 Tweets   : 23.2% at 36/sec for STindale
+2017-11-18 20:27:57 Friends  : 99.4% at 33/sec for Sustainable2050
+2017-11-18 20:28:12 Friends  : 100% at 26/sec for Sustainables4U
+2017-11-18 20:28:13 Friends  : Waiting for 4 minutes
+2017-11-18 20:29:01 Favorites: 46.1% at 4/sec for StollmeyerEU
+2017-11-18 20:29:11 Favorites: 50.6% at 28/sec for Stormsaver
+2017-11-18 20:29:12 Favorites: 100% at 45/sec for stuartharker
+2017-11-18 20:29:23 Tweets   : 7.1% at 36/sec for StollmeyerEU
+2017-11-18 20:29:51 Favorites: 52.5% at 38/sec for styrohome
+2017-11-18 20:29:52 Favorites: 50% at 5/sec for sunnforest
+2017-11-18 20:30:50 Favorites: 49.2% at 38/sec for susanpenhaligon
+2017-11-18 20:30:52 Tweets   : 29.7% at 36/sec for Stormsaver
+2017-11-18 20:31:20 Tweets   : 99.8% at 29/sec for stuartharker
+2017-11-18 20:31:23 Favorites: Waiting for 11.8 minutes due to : Used up allowance in a loop
+2017-11-18 20:32:36 Friends  : 100% at 2/sec for sustbuild
+2017-11-18 20:32:53 Tweets   : 9% at 34/sec for styrohome
+2017-11-18 20:33:09 Tweets   : 99.4% at 23/sec for sunnforest
+2017-11-18 20:33:10 Friends  : 99.1% at 32/sec for SustransScot
+2017-11-18 20:33:28 Friends  : 99.6% at 31/sec for SvenRufus
+2017-11-18 20:33:39 Friends  : 100% at 29/sec for sw_architects
+2017-11-18 20:33:51 Friends  : 98.8% at 27/sec for SwanseaYGs
+2017-11-18 20:34:07 Friends  : 100% at 27/sec for T16Design
+2017-11-18 20:34:13 Friends  : 100% at 26/sec for Tabskie
+2017-11-18 20:34:41 Tweets   : 6.3% at 35/sec for susanpenhaligon
+2017-11-18 20:35:01 Friends  : 99.2% at 28/sec for tangentfield1
+2017-11-18 20:35:06 Friends  : 100% at 28/sec for taragbolade
+2017-11-18 20:35:36 Tweets   : 99.6% at 38/sec for SusBuildings
+2017-11-18 20:35:46 Friends  : 100% at 40/sec for TCCDailyNews
+2017-11-18 20:35:57 Tweets   : 100% at 33/sec for SusConUK
+2017-11-18 20:35:57 Tweets   : User sussexgardener has a protected account or no Tweetss to collect so skipping
+2017-11-18 20:37:13 Tweets   : 4.9% at 42/sec for Sustainable2050
+2017-11-18 20:37:29 Tweets   : 100% at 25/sec for Sustainables4U
+2017-11-18 20:37:44 Tweets   : 100% at 20/sec for sustbuild
+2017-11-18 20:39:09 Tweets   : 39.3% at 38/sec for SustransScot
+2017-11-18 20:40:35 Tweets   : 19% at 37/sec for SvenRufus
+2017-11-18 20:40:46 Friends  : 99.9% at 33/sec for tcktcktck
+2017-11-18 20:40:49 Tweets   : 100% at 17/sec for sw_architects
+2017-11-18 20:41:06 Tweets   : 100% at 28/sec for SwanseaYGs
+2017-11-18 20:41:26 Tweets   : 99.7% at 29/sec for T16Design
+2017-11-18 20:41:33 Tweets   : 100% at 2/sec for Tabskie
+2017-11-18 20:42:14 Tweets   : 99.9% at 32/sec for tangentfield1
+2017-11-18 20:42:21 Tweets   : 100% at 7/sec for taragbolade
+2017-11-18 20:43:43 Favorites: 51.8% at 2/sec for SusBuildings
+2017-11-18 20:43:43 Favorites: User SusConUK has a protected account or no Favoritess to collect so skipping
+2017-11-18 20:43:43 Favorites: User sussexgardener has a protected account or no Favoritess to collect so skipping
+2017-11-18 20:43:51 Tweets   : 49.3% at 35/sec for TCCDailyNews
+2017-11-18 20:43:57 Favorites: 50.3% at 37/sec for Sustainable2050
+2017-11-18 20:43:57 Favorites: User Sustainables4U has a protected account or no Favoritess to collect so skipping
+2017-11-18 20:43:57 Favorites: 100% at 4/sec for sustbuild
+2017-11-18 20:44:19 Friends  : 99.8% at 29/sec for tepilo
+2017-11-18 20:44:19 Friends  : Waiting for 3.1 minutes
+2017-11-18 20:44:57 Favorites: 49.6% at 35/sec for SustransScot
+2017-11-18 20:45:10 Favorites: 49.2% at 37/sec for SvenRufus
+2017-11-18 20:45:13 Favorites: 100% at 6/sec for sw_architects
+2017-11-18 20:45:15 Favorites: 87.6% at 71/sec for SwanseaYGs
+2017-11-18 20:45:15 Favorites: 96.4% at 38/sec for T16Design
+2017-11-18 20:45:16 Favorites: 100% at 5/sec for Tabskie
+2017-11-18 20:45:17 Favorites: 63.7% at 68/sec for tangentfield1
+2017-11-18 20:45:18 Favorites: 100% at 14/sec for taragbolade
+2017-11-18 20:45:21 Favorites: 100% at 0/sec for TCCDailyNews
+2017-11-18 20:45:23 Tweets   : 13.3% at 35/sec for tcktcktck
+2017-11-18 20:45:24 Favorites: 54.7% at 63/sec for tcktcktck
+2017-11-18 20:45:48 Favorites: 52.4% at 39/sec for tepilo
+2017-11-18 20:45:48 Favorites: User terrapinltd has a protected account or no Favoritess to collect so skipping
+2017-11-18 20:46:06 Favorites: 58% at 34/sec for teymoornabili
+2017-11-18 20:46:06 Favorites: 100% at 24/sec for ThatTittle
+2017-11-18 20:46:06 Favorites: User theneweconomics has a protected account or no Favoritess to collect so skipping
+2017-11-18 20:46:07 Favorites: 100% at 5/sec for TheNextPlace
+2017-11-18 20:46:21 Favorites: 53.3% at 42/sec for TheoPaphitis
+2017-11-18 20:46:28 Favorites: 60.7% at 40/sec for TheRenoCoach
+2017-11-18 20:46:38 Favorites: Waiting for 11.9 minutes due to : Used up allowance in a loop
+2017-11-18 20:46:52 Tweets   : 19.3% at 36/sec for tepilo
+2017-11-18 20:47:03 Tweets   : 100% at 25/sec for terrapinltd
+2017-11-18 20:47:37 Friends  : 100% at 2/sec for terrapinltd
+2017-11-18 20:47:53 Friends  : 99.5% at 34/sec for teymoornabili
+2017-11-18 20:48:13 Friends  : 99.9% at 36/sec for ThatTittle
+2017-11-18 20:48:13 Friends  : User theneweconomics has a protected account or no Friendss to collect so skipping
+2017-11-18 20:48:21 Tweets   : 22.6% at 41/sec for teymoornabili
+2017-11-18 20:49:14 Friends  : 100% at 34/sec for TheNextPlace
+2017-11-18 20:49:16 Tweets   : 99.9% at 37/sec for ThatTittle
+2017-11-18 20:49:16 Tweets   : User theneweconomics has a protected account or no Tweetss to collect so skipping
+2017-11-18 20:49:32 Friends  : 99.5% at 35/sec for TheoPaphitis
+2017-11-18 20:49:40 Tweets   : 99.7% at 32/sec for TheNextPlace
+2017-11-18 20:50:34 Friends  : 100% at 37/sec for TheRenoCoach
+2017-11-18 20:50:34 Friends: Request of 22 exceeds the maximum of 15. Making an attemp
+Waiting will increase the number of results returned
+2017-11-18 20:50:34 Friends  : Waiting for 12 minutes
+2017-11-18 20:51:02 Tweets   : 19.4% at 39/sec for TheoPaphitis
+2017-11-18 20:52:18 Tweets   : 76.5% at 42/sec for TheRenoCoach
+2017-11-18 20:53:41 Tweets   : 22.2% at 39/sec for TheRickyDavila
+2017-11-18 20:55:06 Tweets   : 9% at 38/sec for thewildoutside
+2017-11-18 20:55:13 Tweets   : 99.3% at 19/sec for thomaselsmore
+2017-11-18 21:00:00 Favorites: 34.4% at 4/sec for TheRickyDavila
+2017-11-18 21:00:25 Favorites: 53.1% at 39/sec for thewildoutside
+2017-11-18 21:00:29 Favorites: 63.7% at 26/sec for thomaselsmore
+[1] "Server error: (500) Internal Server Error"
+[1] "This error is likely transient, retrying up to 5 more times ..."
+[1] "Server error: (500) Internal Server Error"
+[1] "This error is likely transient, retrying up to 5 more times ..."
+[1] "Server error: (500) Internal Server Error"
+[1] "This error is likely transient, retrying up to 5 more times ..."
+2017-11-18 21:33:53 Friends  : 63.5% at 27/sec for TheRickyDavila
+2017-11-18 21:35:44 Friends  : 100% at 42/sec for thewildoutside
+2017-11-18 21:35:48 Friends  : 100% at 48/sec for thomaselsmore
+Warning messages:
+1: package 'twitteR' was built under R version 3.4.1 
+2: In twInterfaceObj$doAPICall(cmd, params, method, ...) :
+  Rate limit encountered & retry limit reached - returning partial results
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+Warning message:
+package 'twitteR' was built under R version 3.4.1 

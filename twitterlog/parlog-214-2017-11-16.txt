@@ -1,0 +1,164 @@
+starting worker pid=5852 on localhost:11271 at 09:45:44.336
+starting worker pid=13224 on localhost:11271 at 09:45:44.492
+starting worker pid=552 on localhost:11271 at 09:45:44.660
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-16 09:46:49 Friends  : 100% at 25/sec for HousingInitUK
+2017-11-16 09:47:15 Friends  : 98.7% at 35/sec for JenLon_
+2017-11-16 09:47:41 Favorites: 100% at 51/sec for HousingInitUK
+2017-11-16 09:48:02 Favorites: 50.7% at 28/sec for JenLon_
+2017-11-16 09:48:30 Favorites: 52.9% at 35/sec for John_Pye
+2017-11-16 09:48:49 Favorites: 52.6% at 36/sec for JontyBloombiz
+2017-11-16 09:48:53 Tweets   : 100% at 13/sec for HousingInitUK
+2017-11-16 09:49:00 Favorites: 63.1% at 37/sec for L4Alettings
+2017-11-16 09:49:13 Friends  : 99.8% at 33/sec for John_Pye
+2017-11-16 09:49:34 Friends  : 99.4% at 42/sec for JontyBloombiz
+2017-11-16 09:49:44 Tweets   : 99.8% at 35/sec for JenLon_
+2017-11-16 09:50:28 Favorites: 28.6% at 36/sec for makeurmove
+2017-11-16 09:50:30 Favorites: 76.2% at 37/sec for martinskinner
+2017-11-16 09:50:31 Favorites: Waiting for 7.7 minutes due to : Used up allowance in a loop
+2017-11-16 09:50:32 Friends  : 99.1% at 42/sec for L4Alettings
+2017-11-16 09:51:01 Tweets   : 70.8% at 41/sec for John_Pye
+2017-11-16 09:52:07 Tweets   : 54.6% at 48/sec for JontyBloombiz
+2017-11-16 09:52:52 Tweets   : 99.7% at 46/sec for L4Alettings
+2017-11-16 09:53:43 Friends  : 91.2% at 38/sec for makeurmove
+2017-11-16 09:53:57 Tweets   : 97% at 49/sec for makeurmove
+2017-11-16 09:55:04 Tweets   : 48.9% at 47/sec for martinskinner
+2017-11-16 09:56:14 Friends  : 98.4% at 40/sec for martinskinner
+2017-11-16 09:56:18 Tweets   : 65.7% at 43/sec for mrstevenhilton
+2017-11-16 09:56:45 Tweets   : 100% at 39/sec for mydeposits_scot
+2017-11-16 09:57:04 Friends  : 99.1% at 43/sec for mrstevenhilton
+2017-11-16 09:57:13 Friends  : 100% at 41/sec for mydeposits_scot
+2017-11-16 09:57:54 Tweets   : 75.4% at 46/sec for NicoleBremner
+2017-11-16 09:58:03 Tweets   : 100% at 19/sec for NONDeTCLT
+2017-11-16 09:58:36 Favorites: 59.2% at 1/sec for mrstevenhilton
+2017-11-16 09:58:36 Favorites: 100% at 19/sec for mydeposits_scot
+2017-11-16 09:58:44 Tweets   : 100% at 45/sec for PaulShamplina
+2017-11-16 09:59:15 Tweets   : 99.4% at 38/sec for peplows_uk
+2017-11-16 09:59:22 Favorites: 51% at 37/sec for NicoleBremner
+2017-11-16 09:59:24 Favorites: 75.2% at 39/sec for NONDeTCLT
+2017-11-16 09:59:27 Favorites: 100% at 34/sec for PaulShamplina
+2017-11-16 09:59:33 Favorites: 58.9% at 34/sec for peplows_uk
+2017-11-16 09:59:37 Favorites: 54.4% at 46/sec for PhilHEnviroVent
+2017-11-16 09:59:39 Favorites: 97.4% at 17/sec for pioneerthanet
+2017-11-16 09:59:45 Tweets   : 99.8% at 38/sec for PhilHEnviroVent
+2017-11-16 10:00:00 Tweets   : 100% at 30/sec for pioneerthanet
+2017-11-16 10:00:09 Favorites: 1.4% at 37/sec for property1
+2017-11-16 10:00:09 Favorites: 100% at 6/sec for PropertyMermaid
+2017-11-16 10:00:15 Favorites: 7.5% at 34/sec for RBKingston
+2017-11-16 10:00:24 Favorites: 52.7% at 35/sec for RegentLettings
+2017-11-16 10:00:35 Friends  : 93.6% at 35/sec for NicoleBremner
+2017-11-16 10:00:35 Favorites: 59.9% at 34/sec for serenliving
+2017-11-16 10:00:38 Favorites: 96.8% at 25/sec for Spicerhaart
+2017-11-16 10:00:38 Friends  : 97.9% at 29/sec for NONDeTCLT
+2017-11-16 10:00:43 Favorites: 81.4% at 36/sec for TenantsDreamLtd
+2017-11-16 10:00:43 Favorites: User TheRoomsGroup has a protected account or no Favoritess to collect so skipping
+2017-11-16 10:00:43 Friends  : 97.1% at 40/sec for PaulShamplina
+2017-11-16 10:00:43 Friends  : Waiting for 1.1 minutes
+2017-11-16 10:01:13 Tweets   : 3.6% at 44/sec for property1
+2017-11-16 10:01:19 Favorites: 51.6% at 38/sec for thetvia
+2017-11-16 10:01:23 Favorites: 86.8% at 43/sec for TotalLandlord
+2017-11-16 10:01:28 Favorites: 51.7% at 39/sec for UIPI_EU
+2017-11-16 10:01:31 Favorites: Waiting for 11.8 minutes due to : Used up allowance in a loop
+2017-11-16 10:02:12 Friends  : 98.7% at 11/sec for peplows_uk
+2017-11-16 10:02:17 Tweets   : 50.9% at 50/sec for PropertyMermaid
+2017-11-16 10:02:34 Friends  : 99.2% at 43/sec for PhilHEnviroVent
+2017-11-16 10:02:38 Friends  : 100% at 43/sec for pioneerthanet
+2017-11-16 10:03:23 Tweets   : 22.1% at 48/sec for RBKingston
+2017-11-16 10:04:03 Tweets   : 100% at 39/sec for RegentLettings
+2017-11-16 10:04:48 Tweets   : 100% at 43/sec for serenliving
+2017-11-16 10:05:50 Tweets   : 46.5% at 51/sec for Spicerhaart
+2017-11-16 10:06:04 Friends  : 97.5% at 38/sec for property1
+2017-11-16 10:06:09 Tweets   : 100% at 34/sec for TenantsDreamLtd
+2017-11-16 10:06:15 Tweets   : 100% at 4/sec for TheRoomsGroup
+2017-11-16 10:06:45 Friends  : 100% at 34/sec for PropertyMermaid
+2017-11-16 10:07:09 Friends  : 98.9% at 45/sec for RBKingston
+2017-11-16 10:07:24 Tweets   : 6.3% at 46/sec for thetvia
+2017-11-16 10:07:26 Friends  : 98.3% at 46/sec for RegentLettings
+2017-11-16 10:07:54 Friends  : 98.5% at 43/sec for serenliving
+2017-11-16 10:08:09 Friends  : 100% at 43/sec for Spicerhaart
+2017-11-16 10:08:33 Tweets   : 65.4% at 46/sec for TotalLandlord
+2017-11-16 10:08:59 Friends  : 99% at 44/sec for TenantsDreamLtd
+2017-11-16 10:09:00 Friends  : 100% at 8/sec for TheRoomsGroup
+2017-11-16 10:09:20 Tweets   : 99.9% at 41/sec for UIPI_EU
+2017-11-16 10:10:45 Tweets   : 99.6% at 37/sec for welsh_landlords
+2017-11-16 10:11:51 Tweets   : 43.8% at 49/sec for wisepc
+2017-11-16 10:11:54 Friends  : 99.5% at 37/sec for thetvia
+2017-11-16 10:12:02 Friends  : 99.7% at 39/sec for TotalLandlord
+2017-11-16 10:12:02 Friends  : Waiting for 4.8 minutes
+2017-11-16 10:12:03 Tweets   : 93% at 21/sec for WMLandlordConf
+2017-11-16 10:12:51 Tweets   : 99.8% at 51/sec for yellowoakps
+2017-11-16 10:13:35 Tweets   : 99.4% at 47/sec for _edouglas
+2017-11-16 10:13:56 Tweets   : 98.1% at 41/sec for AcreJoinery
+2017-11-16 10:13:58 Favorites: 51.4% at 1/sec for welsh_landlords
+2017-11-16 10:14:06 Favorites: 56.3% at 39/sec for wisepc
+2017-11-16 10:14:06 Favorites: User WMLandlordConf has a protected account or no Favoritess to collect so skipping
+2017-11-16 10:14:08 Favorites: 85.2% at 39/sec for yellowoakps
+2017-11-16 10:14:28 Tweets   : 100% at 39/sec for AmiriConstruct
+2017-11-16 10:15:15 Favorites: 50.1% at 37/sec for _edouglas
+2017-11-16 10:15:17 Favorites: 97.4% at 17/sec for AcreJoinery
+2017-11-16 10:15:23 Tweets   : 99.8% at 45/sec for avapr
+2017-11-16 10:15:27 Favorites: 50.7% at 38/sec for AmiriConstruct
+2017-11-16 10:15:30 Tweets   : 100% at 6/sec for Axis__Design
+2017-11-16 10:15:32 Favorites: 53.7% at 39/sec for avapr
+2017-11-16 10:15:33 Favorites: 100% at 5/sec for Axis__Design
+2017-11-16 10:15:35 Favorites: 55.6% at 41/sec for B_4_E
+2017-11-16 10:15:36 Favorites: 97.5% at 45/sec for birminghampost
+2017-11-16 10:15:39 Favorites: 68.3% at 39/sec for BlueoakEstates
+2017-11-16 10:15:57 Favorites: 56.5% at 32/sec for Bookatable
+2017-11-16 10:15:57 Favorites: User Boothville_LND has a protected account or no Favoritess to collect so skipping
+2017-11-16 10:15:57 Favorites: 88.9% at 29/sec for BrianPhoenix
+2017-11-16 10:16:02 Favorites: 92.5% at 40/sec for Bristol_CCG
+2017-11-16 10:16:08 Favorites: 78.7% at 39/sec for buildersconf
+2017-11-16 10:16:12 Favorites: 79.6% at 49/sec for CCISYAwards
+2017-11-16 10:16:14 Favorites: 100% at 26/sec for CHAS2013Ltd
+2017-11-16 10:16:16 Favorites: 84% at 38/sec for CIPBooks
+2017-11-16 10:16:22 Favorites: 68.4% at 38/sec for ClaireBullen1
+2017-11-16 10:16:22 Favorites: 100% at 5/sec for CLC_Contractors
+2017-11-16 10:16:33 Favorites: 52.5% at 37/sec for CNAwards18
+2017-11-16 10:16:40 Tweets   : 87% at 46/sec for B_4_E
+2017-11-16 10:17:15 Friends  : 99.2% at 3/sec for UIPI_EU
+2017-11-16 10:17:52 Tweets   : 7.9% at 45/sec for birminghampost
+2017-11-16 10:18:56 Tweets   : 100% at 47/sec for BlueoakEstates
+2017-11-16 10:19:24 Friends  : 97.5% at 38/sec for welsh_landlords
+2017-11-16 10:19:32 Friends  : 100% at 31/sec for wisepc
+2017-11-16 10:19:39 Friends  : 99.6% at 34/sec for WMLandlordConf
+2017-11-16 10:20:05 Tweets   : 31.8% at 46/sec for Bookatable
+2017-11-16 10:20:12 Tweets   : 100% at 0/sec for Boothville_LND
+2017-11-16 10:20:23 Tweets   : 99.4% at 27/sec for BrianPhoenix
+2017-11-16 10:20:24 Friends  : 99.2% at 43/sec for yellowoakps
+2017-11-16 10:20:56 Friends  : 98.7% at 40/sec for _edouglas
+2017-11-16 10:21:03 Friends  : 99.6% at 37/sec for AcreJoinery
+2017-11-16 10:21:06 Friends  : 99% at 31/sec for AmiriConstruct
+2017-11-16 10:21:15 Friends  : 99.4% at 35/sec for avapr
+2017-11-16 10:21:26 Tweets   : 69.3% at 51/sec for Bristol_CCG
+2017-11-16 10:22:00 Friends  : 100% at 39/sec for Axis__Design
+2017-11-16 10:22:31 Tweets   : 56.2% at 49/sec for buildersconf
+2017-11-16 10:22:48 Friends  : 100% at 36/sec for B_4_E
+2017-11-16 10:22:49 Friends  : 96.6% at 20/sec for birminghampost
+2017-11-16 10:22:51 Tweets   : 99.5% at 36/sec for CCISYAwards
+2017-11-16 10:23:00 Friends  : 96.6% at 40/sec for BlueoakEstates
+2017-11-16 10:23:02 Friends  : 100% at 3/sec for Bookatable
+2017-11-16 10:23:02 Friends  : User Boothville_LND has a protected account or no Friendss to collect so skipping
+2017-11-16 10:23:05 Friends  : 100% at 19/sec for BrianPhoenix
+2017-11-16 10:23:05 Friends  : Waiting for 8.8 minutes
+2017-11-16 10:23:16 Tweets   : 100% at 38/sec for CHAS2013Ltd
+2017-11-16 10:23:42 Tweets   : 100% at 41/sec for CIPBooks
+2017-11-16 10:23:55 Tweets   : 99.7% at 28/sec for ClaireBullen1
+2017-11-16 10:24:04 Tweets   : 100% at 24/sec for CLC_Contractors
+2017-11-16 10:25:13 Tweets   : 58.5% at 47/sec for CNAwards18
+2017-11-16 10:32:40 Friends  : 99.4% at 3/sec for Bristol_CCG
+2017-11-16 10:34:44 Friends  : 98% at 39/sec for buildersconf
+2017-11-16 10:35:25 Friends  : 99.3% at 43/sec for CCISYAwards
+2017-11-16 10:35:35 Friends  : 98.2% at 42/sec for CHAS2013Ltd
+2017-11-16 10:35:38 Friends  : 98.9% at 31/sec for CIPBooks
+2017-11-16 10:35:52 Friends  : 99.8% at 41/sec for ClaireBullen1
+2017-11-16 10:35:57 Friends  : 100% at 33/sec for CLC_Contractors
+2017-11-16 10:36:44 Friends  : 100% at 39/sec for CNAwards18
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+Warning message:
+package 'twitteR' was built under R version 3.4.1 

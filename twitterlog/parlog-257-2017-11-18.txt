@@ -1,0 +1,161 @@
+starting worker pid=15120 on localhost:11271 at 07:37:21.936
+starting worker pid=12752 on localhost:11271 at 07:37:22.106
+starting worker pid=12172 on localhost:11271 at 07:37:22.265
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-18 07:39:03 Friends  : 100% at 30/sec for billmeds
+2017-11-18 07:40:39 Friends  : 99.6% at 40/sec for Bioregional
+2017-11-18 07:40:46 Friends  : 100% at 41/sec for BlackRunNoExit
+2017-11-18 07:40:47 Favorites: 100% at 21/sec for billmeds
+2017-11-18 07:41:09 Favorites: 51.8% at 26/sec for Bioregional
+2017-11-18 07:41:10 Favorites: 100% at 3/sec for BlackRunNoExit
+2017-11-18 07:42:35 Friends  : 99.6% at 38/sec for blogdiva
+2017-11-18 07:42:41 Favorites: 2.5% at 35/sec for blogdiva
+2017-11-18 07:42:44 Favorites: 72.3% at 26/sec for BobbyIpsosMORI
+2017-11-18 07:42:50 Friends  : 99.2% at 34/sec for BobbyIpsosMORI
+2017-11-18 07:42:55 Favorites: 2.9% at 36/sec for BoingBoing
+2017-11-18 07:43:05 Tweets   : 100% at 27/sec for billmeds
+2017-11-18 07:43:30 Favorites: 53.4% at 34/sec for bondbryan
+2017-11-18 07:43:37 Friends  : 99.4% at 42/sec for BoingBoing
+2017-11-18 07:43:55 Favorites: 50.5% at 35/sec for bowles_claire
+2017-11-18 07:43:55 Favorites: User BPBuildComply has a protected account or no Favoritess to collect so skipping
+2017-11-18 07:44:13 Friends  : 98.8% at 34/sec for bondbryan
+2017-11-18 07:44:16 Favorites: Waiting for 11.5 minutes due to : Used up allowance in a loop
+2017-11-18 07:44:22 Friends  : 99.7% at 47/sec for bowles_claire
+2017-11-18 07:44:23 Friends  : 100% at 35/sec for BPBuildComply
+2017-11-18 07:44:23 Friends  : Waiting for 0.5 minutes
+2017-11-18 07:44:32 Tweets   : 43.9% at 37/sec for Bioregional
+2017-11-18 07:44:52 Tweets   : 100% at 34/sec for BlackRunNoExit
+2017-11-18 07:45:24 Friends  : 99.4% at 23/sec for bradplumer
+2017-11-18 07:45:48 Friends  : 100% at 39/sec for brecert
+2017-11-18 07:45:55 Friends  : 100% at 36/sec for brianxhughes
+2017-11-18 07:46:05 Tweets   : 0.7% at 43/sec for blogdiva
+2017-11-18 07:46:44 Tweets   : 99.9% at 42/sec for BobbyIpsosMORI
+2017-11-18 07:47:45 Tweets   : 1.6% at 53/sec for BoingBoing
+2017-11-18 07:48:53 Tweets   : 100% at 45/sec for bondbryan
+2017-11-18 07:50:01 Tweets   : 45.6% at 48/sec for bowles_claire
+2017-11-18 07:50:06 Tweets   : 100% at 3/sec for BPBuildComply
+2017-11-18 07:51:14 Tweets   : 13.7% at 47/sec for bradplumer
+2017-11-18 07:51:27 Tweets   : 99.8% at 33/sec for brecert
+2017-11-18 07:51:46 Tweets   : 100% at 37/sec for brianxhughes
+2017-11-18 07:52:55 Tweets   : 10.5% at 46/sec for bricksandbread
+2017-11-18 07:53:51 Tweets   : 100% at 43/sec for BrigitteKnopf
+2017-11-18 07:54:58 Tweets   : 52.3% at 47/sec for Brilliant_Ads
+2017-11-18 07:55:04 Tweets   : 100% at 5/sec for BristolSusBuild
+2017-11-18 07:55:28 Friends  : 99.9% at 36/sec for bricksandbread
+2017-11-18 07:55:39 Friends  : 96.4% at 35/sec for BrigitteKnopf
+2017-11-18 07:55:41 Friends  : 100% at 25/sec for Brilliant_Ads
+2017-11-18 07:55:44 Tweets   : 99.3% at 45/sec for British_Builder
+2017-11-18 07:55:50 Friends  : 98.9% at 10/sec for BristolSusBuild
+2017-11-18 07:56:48 Friends  : 100% at 41/sec for British_Builder
+2017-11-18 07:56:56 Tweets   : 77.8% at 45/sec for BrownfieldBrief
+2017-11-18 07:57:05 Tweets   : 100% at 8/sec for Build_with_CaRe
+2017-11-18 07:57:11 Favorites: 25.9% at 4/sec for bradplumer
+2017-11-18 07:57:11 Tweets   : 100% at 1/sec for BUILDD_UK
+2017-11-18 07:57:12 Favorites: 100% at 52/sec for brecert
+2017-11-18 07:57:12 Favorites: User brianxhughes has a protected account or no Favoritess to collect so skipping
+2017-11-18 07:57:27 Tweets   : 100% at 30/sec for BuildGreenNews
+2017-11-18 07:57:33 Friends  : 98.5% at 41/sec for BrownfieldBrief
+2017-11-18 07:57:34 Favorites: 49.4% at 27/sec for bricksandbread
+2017-11-18 07:57:40 Tweets   : 100% at 34/sec for BuildingUK
+2017-11-18 07:58:03 Favorites: 51.6% at 37/sec for BrigitteKnopf
+2017-11-18 07:58:08 Friends  : 99.9% at 42/sec for Build_with_CaRe
+2017-11-18 07:58:09 Favorites: 98% at 39/sec for Brilliant_Ads
+2017-11-18 07:58:09 Favorites: 100% at 21/sec for BristolSusBuild
+2017-11-18 07:58:10 Favorites: 100% at 36/sec for British_Builder
+2017-11-18 07:58:13 Friends  : 100% at 19/sec for BUILDD_UK
+2017-11-18 07:58:13 Friends  : Waiting for 1.7 minutes
+2017-11-18 07:58:14 Favorites: 88.5% at 27/sec for BrownfieldBrief
+2017-11-18 07:58:14 Favorites: User Build_with_CaRe has a protected account or no Favoritess to collect so skipping
+2017-11-18 07:58:14 Favorites: User BUILDD_UK has a protected account or no Favoritess to collect so skipping
+2017-11-18 07:58:14 Favorites: User BuildGreenNews has a protected account or no Favoritess to collect so skipping
+2017-11-18 07:58:14 Favorites: 100% at 6/sec for BuildingUK
+2017-11-18 07:58:21 Favorites: 57.4% at 45/sec for businessinsider
+2017-11-18 07:58:24 Favorites: 100% at 18/sec for butlerandyoung
+2017-11-18 07:58:29 Favorites: 55.4% at 39/sec for BUXTONBUILDING
+2017-11-18 07:58:36 Favorites: 64.9% at 42/sec for buzhna
+2017-11-18 07:58:39 Favorites: 97.1% at 21/sec for bygonewindows
+2017-11-18 07:58:51 Tweets   : 0.7% at 45/sec for businessinsider
+2017-11-18 07:59:18 Favorites: Waiting for 11.7 minutes due to : Used up allowance in a loop
+2017-11-18 07:59:25 Tweets   : 99.8% at 39/sec for butlerandyoung
+2017-11-18 07:59:50 Tweets   : 99.9% at 35/sec for BUXTONBUILDING
+2017-11-18 08:00:07 Friends  : 100% at 3/sec for BuildGreenNews
+2017-11-18 08:00:28 Friends  : 100% at 42/sec for BuildingUK
+2017-11-18 08:00:34 Friends  : 99% at 33/sec for businessinsider
+2017-11-18 08:00:52 Tweets   : 38.7% at 51/sec for buzhna
+2017-11-18 08:01:14 Tweets   : 100% at 43/sec for bygonewindows
+2017-11-18 08:01:56 Friends  : 99.4% at 43/sec for butlerandyoung
+2017-11-18 08:02:23 Tweets   : 66.8% at 46/sec for c_cerulli
+2017-11-18 08:02:35 Tweets   : 100% at 33/sec for CamfilAsia
+2017-11-18 08:03:41 Tweets   : 83.8% at 48/sec for cantifix
+2017-11-18 08:03:53 Tweets   : 100% at 27/sec for CAPEM_UK
+2017-11-18 08:04:07 Friends  : 98.6% at 42/sec for BUXTONBUILDING
+2017-11-18 08:04:20 Friends  : 98.6% at 39/sec for buzhna
+2017-11-18 08:04:33 Friends  : 100% at 37/sec for bygonewindows
+2017-11-18 08:04:57 Tweets   : 46% at 50/sec for CarbonFixIt
+2017-11-18 08:05:40 Friends  : 98.7% at 40/sec for c_cerulli
+2017-11-18 08:05:53 Friends  : 100% at 38/sec for CamfilAsia
+2017-11-18 08:06:02 Tweets   : 99.5% at 43/sec for care4derby
+2017-11-18 08:06:55 Friends  : 93.2% at 40/sec for cantifix
+2017-11-18 08:07:01 Friends  : 100% at 29/sec for CAPEM_UK
+2017-11-18 08:07:03 Friends  : 97.2% at 17/sec for CarbonFixIt
+2017-11-18 08:07:12 Tweets   : 5.5% at 45/sec for carolinejmolloy
+2017-11-18 08:07:20 Tweets   : 100% at 20/sec for casagest
+2017-11-18 08:07:26 Friends  : 98.9% at 39/sec for care4derby
+2017-11-18 08:07:35 Tweets   : 99.8% at 38/sec for CavForm
+2017-11-18 08:07:35 Tweets   : User caz17st has a protected account or no Tweetss to collect so skipping
+2017-11-18 08:08:46 Tweets   : 99.4% at 45/sec for ce_architects
+2017-11-18 08:09:17 Friends  : 99.1% at 37/sec for carolinejmolloy
+2017-11-18 08:09:17 Friends  : Waiting for 5.8 minutes
+2017-11-18 08:09:52 Tweets   : 56.8% at 48/sec for CEADA
+2017-11-18 08:09:58 Tweets   : 100% at 7/sec for CEPHUS_News
+2017-11-18 08:10:33 Tweets   : 100% at 45/sec for ChangeworksPR
+2017-11-18 08:10:57 Tweets   : 99.8% at 41/sec for ChaunceysOak
+2017-11-18 08:11:12 Tweets   : 99.5% at 27/sec for ChetnaBalla
+2017-11-18 08:11:27 Tweets   : 100% at 30/sec for chrisbrummitt
+2017-11-18 08:12:00 Favorites: 45% at 4/sec for c_cerulli
+2017-11-18 08:12:00 Favorites: 100% at 2/sec for CamfilAsia
+2017-11-18 08:12:06 Favorites: 74.4% at 37/sec for cantifix
+2017-11-18 08:12:06 Favorites: 100% at 5/sec for CAPEM_UK
+2017-11-18 08:12:10 Favorites: 78.1% at 26/sec for CarbonFixIt
+2017-11-18 08:12:19 Favorites: 50.4% at 34/sec for care4derby
+2017-11-18 08:12:45 Tweets   : 12.3% at 41/sec for christackett
+2017-11-18 08:12:53 Favorites: 51.3% at 38/sec for carolinejmolloy
+2017-11-18 08:12:54 Favorites: 100% at 23/sec for casagest
+2017-11-18 08:12:56 Favorites: 100% at 1/sec for CavForm
+2017-11-18 08:12:56 Favorites: User caz17st has a protected account or no Favoritess to collect so skipping
+2017-11-18 08:12:57 Favorites: 100% at 29/sec for ce_architects
+2017-11-18 08:12:57 Favorites: 83.3% at 10/sec for CEADA
+2017-11-18 08:12:57 Favorites: User CEPHUS_News has a protected account or no Favoritess to collect so skipping
+2017-11-18 08:13:12 Tweets   : 100% at 41/sec for CIATCEO
+2017-11-18 08:13:21 Tweets   : 100% at 20/sec for cidercyclist
+2017-11-18 08:13:39 Favorites: 51.9% at 39/sec for ChangeworksPR
+2017-11-18 08:13:45 Favorites: 53.1% at 44/sec for ChaunceysOak
+2017-11-18 08:13:49 Favorites: 39.1% at 31/sec for ChetnaBalla
+2017-11-18 08:13:53 Favorites: 99% at 28/sec for chrisbrummitt
+2017-11-18 08:14:03 Favorites: 49.5% at 39/sec for christackett
+2017-11-18 08:14:07 Tweets   : 99.7% at 47/sec for CiderRuss
+2017-11-18 08:14:16 Favorites: 57% at 38/sec for CIATCEO
+2017-11-18 08:14:16 Favorites: Waiting for 12 minutes due to : Used up allowance in a loop
+2017-11-18 08:15:26 Friends  : 99.4% at 2/sec for casagest
+2017-11-18 08:16:12 Friends  : 100% at 38/sec for CavForm
+2017-11-18 08:16:12 Friends  : User caz17st has a protected account or no Friendss to collect so skipping
+2017-11-18 08:16:35 Friends  : 98.6% at 39/sec for ce_architects
+2017-11-18 08:16:53 Friends  : 100% at 33/sec for CEADA
+2017-11-18 08:16:53 Friends  : User CEPHUS_News has a protected account or no Friendss to collect so skipping
+2017-11-18 08:17:07 Friends  : 99.7% at 45/sec for ChangeworksPR
+2017-11-18 08:18:05 Friends  : 98.4% at 45/sec for ChaunceysOak
+2017-11-18 08:18:12 Friends  : 99.7% at 41/sec for ChetnaBalla
+2017-11-18 08:18:24 Friends  : 99.8% at 42/sec for chrisbrummitt
+2017-11-18 08:19:52 Friends  : 99.7% at 42/sec for christackett
+2017-11-18 08:20:02 Friends  : 98.9% at 48/sec for CIATCEO
+2017-11-18 08:20:07 Friends  : 99.5% at 32/sec for cidercyclist
+2017-11-18 08:20:27 Friends  : 99.4% at 41/sec for CiderRuss
+2017-11-18 08:26:29 Favorites: 100% at 0/sec for cidercyclist
+2017-11-18 08:26:37 Favorites: 53.3% at 37/sec for CiderRuss
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+package 'twitteR' was built under R version 3.4.1 
+Warning message:
+package 'twitteR' was built under R version 3.4.1 

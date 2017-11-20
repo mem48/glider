@@ -1,0 +1,176 @@
+starting worker pid=12568 on localhost:11271 at 19:03:12.124
+starting worker pid=8752 on localhost:11271 at 19:03:12.307
+starting worker pid=11968 on localhost:11271 at 19:03:12.484
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-14 19:03:39 Favorites: 83.3% at 22/sec for FinHealthEx
+2017-11-14 19:03:40 Friends  : 98% at 34/sec for FinHealthEx
+2017-11-14 19:03:47 Favorites: 51.8% at 37/sec for FleetManager_UK
+2017-11-14 19:03:50 Favorites: 100% at 41/sec for FleetSummit
+2017-11-14 19:04:14 Favorites: 51.2% at 37/sec for GeoffreyLean
+2017-11-14 19:04:23 Tweets   : 99.9% at 34/sec for FinHealthEx
+2017-11-14 19:04:39 Favorites: 51.4% at 35/sec for GinnyBuckley
+2017-11-14 19:04:42 Favorites: 51.8% at 40/sec for GLH_tweets
+2017-11-14 19:04:43 Favorites: 100% at 19/sec for GlobalOfficeUK
+2017-11-14 19:04:53 Favorites: 49.6% at 37/sec for GoUltraLowNottm
+2017-11-14 19:04:56 Favorites: 100% at 34/sec for GovKnow
+2017-11-14 19:05:01 Favorites: Waiting for 11.2 minutes due to : Used up allowance in a loop
+2017-11-14 19:05:34 Friends  : 95.3% at 37/sec for FleetManager_UK
+2017-11-14 19:05:52 Tweets   : 62.7% at 36/sec for FleetManager_UK
+2017-11-14 19:06:01 Friends  : 96.5% at 35/sec for FleetSummit
+2017-11-14 19:06:06 Tweets   : 100% at 25/sec for FleetSummit
+2017-11-14 19:06:57 Friends  : 99% at 42/sec for GeoffreyLean
+2017-11-14 19:07:05 Friends  : 99.6% at 33/sec for GinnyBuckley
+2017-11-14 19:07:29 Friends  : 97.6% at 36/sec for GLH_tweets
+2017-11-14 19:07:35 Tweets   : 67.9% at 36/sec for GeoffreyLean
+2017-11-14 19:08:12 Friends  : 100% at 36/sec for GlobalOfficeUK
+Error in twInterfaceObj$doAPICall(paste("users", "show", sep = "/"), params = params,  : 
+  Not Found (HTTP 404).
+In addition: Warning message:
+package 'twitteR' was built under R version 3.4.1 
+2017-11-14 19:08:13 Friends: Unable to find account GoUltraLowNottm moving to next
+2017-11-14 19:08:13 Friends  : % at /sec for GoUltraLowNottm
+2017-11-14 19:08:35 Tweets   : 99.5% at 35/sec for GinnyBuckley
+2017-11-14 19:08:40 Friends  : 99.9% at 41/sec for GovKnow
+2017-11-14 19:09:21 Tweets   : 100% at 38/sec for GLH_tweets
+2017-11-14 19:09:45 Friends  : 99.4% at 36/sec for GrahamEvans
+2017-11-14 19:10:00 Tweets   : 100% at 34/sec for GlobalOfficeUK
+2017-11-14 19:10:17 Friends  : 99% at 41/sec for growingfamilyuk
+2017-11-14 19:10:23 Friends  : 100% at 33/sec for guardianmoney
+2017-11-14 19:10:45 Tweets   : 100% at 32/sec for GoUltraLowNottm
+2017-11-14 19:10:53 Friends  : 98.8% at 41/sec for H2020EE
+2017-11-14 19:10:58 Friends  : 98.8% at 33/sec for HarveyMichaela
+2017-11-14 19:11:24 Friends  : 98.8% at 36/sec for HealthyAirUK
+2017-11-14 19:11:39 Friends  : 99.6% at 33/sec for HelloCosy
+2017-11-14 19:11:39 Friends  : Waiting for 6.8 minutes
+2017-11-14 19:12:09 Tweets   : 65.5% at 38/sec for GovKnow
+2017-11-14 19:13:25 Tweets   : 26.3% at 42/sec for GrahamEvans
+2017-11-14 19:14:36 Tweets   : 50.9% at 45/sec for growingfamilyuk
+2017-11-14 19:15:44 Tweets   : 12.3% at 47/sec for guardianmoney
+2017-11-14 19:16:38 Favorites: 53.8% at 2/sec for GrahamEvans
+2017-11-14 19:16:56 Favorites: 57.1% at 38/sec for growingfamilyuk
+2017-11-14 19:16:57 Favorites: 100% at 3/sec for guardianmoney
+2017-11-14 19:17:05 Tweets   : 36.8% at 40/sec for H2020EE
+2017-11-14 19:17:25 Tweets   : 99.8% at 31/sec for HarveyMichaela
+2017-11-14 19:18:04 Favorites: Unable to find account H2020EE during loop number 26 moving to next loop
+2017-11-14 19:18:17 Favorites: 48.5% at 37/sec for H2020EE
+2017-11-14 19:18:19 Favorites: 68.3% at 44/sec for HarveyMichaela
+Error in twInterfaceObj$doAPICall(paste("users", "show", sep = "/"), params = params,  : 
+  Not Found (HTTP 404).
+2017-11-14 19:18:30 Friends: Unable to find account HFCABservice moving to next
+2017-11-14 19:18:30 Friends  : % at /sec for HFCABservice
+2017-11-14 19:18:35 Favorites: 52.3% at 37/sec for HealthyAirUK
+2017-11-14 19:18:40 Favorites: 55.8% at 40/sec for HelloCosy
+2017-11-14 19:18:41 Favorites: 100% at 3/sec for HFCABservice
+2017-11-14 19:18:44 Tweets   : 51.1% at 41/sec for HealthyAirUK
+2017-11-14 19:19:16 Friends  : 97.7% at 38/sec for HIP_Energy
+2017-11-14 19:19:30 Favorites: Waiting for 11.8 minutes due to : Used up allowance in a loop
+2017-11-14 19:19:33 Friends  : 98.8% at 39/sec for J_K_Bird
+2017-11-14 19:19:34 Friends  : 100% at 6/sec for Jessicabg
+2017-11-14 19:19:59 Friends  : 99.1% at 38/sec for jloistf
+2017-11-14 19:20:00 Tweets   : 76.8% at 42/sec for HelloCosy
+2017-11-14 19:20:07 Tweets   : 100% at 1/sec for HFCABservice
+2017-11-14 19:20:28 Friends  : 99.7% at 33/sec for katedpalmer
+2017-11-14 19:21:24 Tweets   : 28.6% at 42/sec for HIP_Energy
+2017-11-14 19:21:34 Tweets   : 99% at 19/sec for J_K_Bird
+2017-11-14 19:21:34 Tweets   : User Jessicabg has a protected account or no Tweetss to collect so skipping
+2017-11-14 19:21:36 Friends  : 99.5% at 38/sec for Laura_Crombie
+2017-11-14 19:21:38 Friends  : 100% at 29/sec for LEARNprojectEU
+2017-11-14 19:21:48 Friends  : 96% at 39/sec for liemelo
+2017-11-14 19:21:55 Friends  : 98.4% at 34/sec for LiveseyAnna
+2017-11-14 19:22:12 Friends  : 98.4% at 33/sec for LombardAF
+2017-11-14 19:22:28 Tweets   : 99.8% at 40/sec for jloistf
+2017-11-14 19:22:54 Tweets   : 100% at 31/sec for katedpalmer
+2017-11-14 19:23:00 Friends  : 99.2% at 37/sec for LowCarbonEcon
+2017-11-14 19:23:37 Tweets   : 99.4% at 38/sec for Laura_Crombie
+2017-11-14 19:23:45 Tweets   : 100% at 3/sec for LEARNprojectEU
+2017-11-14 19:24:03 Friends  : 98.8% at 38/sec for LSx_News
+2017-11-14 19:24:03 Tweets   : 100% at 30/sec for liemelo
+2017-11-14 19:24:26 Tweets   : 100% at 35/sec for LiveseyAnna
+2017-11-14 19:24:49 Friends  : 96.6% at 35/sec for MariArthur
+2017-11-14 19:25:11 Friends  : 99.3% at 39/sec for MCIATweets
+2017-11-14 19:25:18 Friends  : 99.6% at 37/sec for mikescottgreen
+2017-11-14 19:25:19 Friends  : Waiting for 8.2 minutes
+2017-11-14 19:25:39 Tweets   : 100% at 40/sec for LombardAF
+2017-11-14 19:26:51 Tweets   : 23.8% at 44/sec for LowCarbonEcon
+2017-11-14 19:28:11 Tweets   : 33.5% at 40/sec for LSx_News
+2017-11-14 19:29:29 Tweets   : 27.4% at 41/sec for MariArthur
+2017-11-14 19:30:16 Tweets   : 99.7% at 43/sec for MCIATweets
+2017-11-14 19:31:13 Tweets   : 99.8% at 39/sec for mikescottgreen
+2017-11-14 19:31:22 Tweets   : 100% at 17/sec for mileagecapture
+2017-11-14 19:31:26 Favorites: 50% at 3/sec for HIP_Energy
+2017-11-14 19:31:29 Favorites: 98.9% at 40/sec for J_K_Bird
+2017-11-14 19:31:29 Favorites: 100% at 4/sec for Jessicabg
+2017-11-14 19:31:34 Favorites: 62.7% at 37/sec for jloistf
+2017-11-14 19:31:41 Favorites: 89.8% at 32/sec for katedpalmer
+2017-11-14 19:31:48 Favorites: 69.6% at 39/sec for Laura_Crombie
+2017-11-14 19:31:49 Favorites: 100% at 20/sec for LEARNprojectEU
+2017-11-14 19:31:53 Tweets   : 99.7% at 36/sec for MoixaTechnology
+2017-11-14 19:32:01 Favorites: 52.5% at 40/sec for liemelo
+2017-11-14 19:32:02 Favorites: 100% at 20/sec for LiveseyAnna
+2017-11-14 19:32:07 Favorites: 51.8% at 42/sec for LombardAF
+2017-11-14 19:32:12 Favorites: 62.5% at 39/sec for LowCarbonEcon
+2017-11-14 19:32:55 Favorites: 51.2% at 38/sec for LSx_News
+2017-11-14 19:33:13 Tweets   : 30.1% at 40/sec for Moneywiseonline
+2017-11-14 19:33:41 Friends  : 99.1% at 0/sec for mileagecapture
+2017-11-14 19:34:10 Favorites: 48.9% at 36/sec for MariArthur
+2017-11-14 19:34:26 Tweets   : 9.7% at 44/sec for motor_mouthuk
+2017-11-14 19:34:27 Favorites: 56.7% at 36/sec for MCIATweets
+2017-11-14 19:34:30 Favorites: Waiting for 11.8 minutes due to : Used up allowance in a loop
+2017-11-14 19:34:37 Friends  : 97.3% at 34/sec for MoixaTechnology
+2017-11-14 19:35:47 Tweets   : 25% at 40/sec for MSE_Forum
+2017-11-14 19:35:56 Tweets   : 100% at 13/sec for mwdwales
+2017-11-14 19:35:59 Friends  : 99.8% at 35/sec for Moneywiseonline
+2017-11-14 19:36:03 Tweets   : 100% at 11/sec for NATCONSUMERS
+2017-11-14 19:36:49 Tweets   : 99.8% at 37/sec for Natnotgnats
+2017-11-14 19:36:57 Friends  : 99.9% at 36/sec for motor_mouthuk
+2017-11-14 19:37:46 Tweets   : 99.6% at 38/sec for NEA_Cymru
+2017-11-14 19:37:47 Friends  : 99.7% at 34/sec for MSE_Forum
+2017-11-14 19:37:58 Friends  : 99.7% at 35/sec for mwdwales
+2017-11-14 19:38:07 Friends  : 98.6% at 32/sec for NATCONSUMERS
+2017-11-14 19:38:15 Friends  : 97.6% at 30/sec for Natnotgnats
+2017-11-14 19:38:26 Tweets   : 99.9% at 41/sec for nesltd
+2017-11-14 19:38:36 Friends  : 97.7% at 36/sec for NEA_Cymru
+2017-11-14 19:38:42 Friends  : 100% at 35/sec for nesltd
+2017-11-14 19:38:44 Friends  : 100% at 31/sec for newscientist
+2017-11-14 19:39:04 Friends  : 99.2% at 39/sec for nextgreencar
+2017-11-14 19:39:35 Friends  : 99.5% at 35/sec for officialcalor
+2017-11-14 19:39:45 Tweets   : 7% at 40/sec for newscientist
+2017-11-14 19:39:47 Friends  : 98.2% at 36/sec for onlineHT
+2017-11-14 19:39:48 Friends  : Waiting for 8.8 minutes
+2017-11-14 19:41:08 Tweets   : 62.6% at 39/sec for nextgreencar
+2017-11-14 19:42:16 Tweets   : 99.7% at 44/sec for officialcalor
+2017-11-14 19:43:29 Tweets   : 86.7% at 44/sec for onlineHT
+2017-11-14 19:44:43 Tweets   : 22.1% at 43/sec for Ontap_Group
+2017-11-14 19:45:59 Tweets   : 58.5% at 42/sec for pdpartnership
+2017-11-14 19:46:16 Tweets   : 99.6% at 26/sec for PremiumLightPro
+2017-11-14 19:46:21 Favorites: 64.5% at 0/sec for mikescottgreen
+2017-11-14 19:46:22 Favorites: 100% at 27/sec for mileagecapture
+2017-11-14 19:46:29 Favorites: 69.6% at 40/sec for MoixaTechnology
+2017-11-14 19:46:39 Favorites: 53.8% at 39/sec for Moneywiseonline
+2017-11-14 19:46:40 Favorites: 100% at 27/sec for motor_mouthuk
+2017-11-14 19:47:45 Favorites: 49% at 40/sec for MSE_Forum
+2017-11-14 19:47:46 Favorites: 100% at 7/sec for mwdwales
+2017-11-14 19:47:47 Favorites: 100% at 34/sec for NATCONSUMERS
+2017-11-14 19:47:54 Favorites: 51.3% at 39/sec for Natnotgnats
+2017-11-14 19:47:59 Favorites: 73.3% at 40/sec for NEA_Cymru
+2017-11-14 19:48:04 Favorites: 85.7% at 39/sec for nesltd
+2017-11-14 19:49:15 Favorites: Waiting for 12 minutes due to : Used up allowance in a loop
+2017-11-14 19:53:00 Friends  : 98.3% at 12/sec for Ontap_Group
+2017-11-14 19:54:06 Friends  : 97.7% at 41/sec for pdpartnership
+2017-11-14 19:54:36 Friends  : 100% at 44/sec for PremiumLightPro
+2017-11-14 20:01:16 Favorites: 17.2% at 3/sec for newscientist
+2017-11-14 20:01:16 Favorites: Waiting for 0 minutes due to : Used up allowance in a loop
+2017-11-14 20:01:22 Favorites: 52.2% at 33/sec for nextgreencar
+2017-11-14 20:01:32 Favorites: 55.5% at 38/sec for officialcalor
+2017-11-14 20:01:37 Favorites: 94.7% at 41/sec for onlineHT
+2017-11-14 20:02:04 Favorites: 53.1% at 40/sec for Ontap_Group
+2017-11-14 20:02:16 Favorites: 59.7% at 41/sec for pdpartnership
+2017-11-14 20:02:17 Favorites: 100% at 28/sec for PremiumLightPro
+Warning messages:
+1: package 'twitteR' was built under R version 3.4.1 
+2: In twInterfaceObj$doAPICall(cmd, params, method, ...) :
+  Rate limit encountered & retry limit reached - returning partial results
+Warning message:
+package 'twitteR' was built under R version 3.4.1 

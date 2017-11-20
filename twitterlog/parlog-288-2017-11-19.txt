@@ -1,0 +1,163 @@
+starting worker pid=12756 on localhost:11271 at 23:25:06.761
+starting worker pid=6460 on localhost:11271 at 23:25:06.918
+starting worker pid=13512 on localhost:11271 at 23:25:07.093
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-19 23:28:33 Friends  : 100% at 24/sec for SkillsActive
+2017-11-19 23:29:08 Friends  : 99.6% at 32/sec for SkillsEngland
+2017-11-19 23:29:49 Friends  : 98.8% at 31/sec for SKinnock
+2017-11-19 23:30:21 Friends  : 99% at 33/sec for SLCollege
+2017-11-19 23:30:23 Friends  : 100% at 29/sec for SLCProgramme
+2017-11-19 23:30:30 Friends  : 97.2% at 20/sec for smcblackburn
+2017-11-19 23:30:38 Friends  : 100% at 25/sec for SMcPartland
+2017-11-19 23:30:44 Favorites: 59.1% at 43/sec for SkillsActive
+2017-11-19 23:31:15 Favorites: 55% at 12/sec for SkillsEngland
+2017-11-19 23:31:38 Friends  : 99.9% at 28/sec for smith_institute
+2017-11-19 23:31:46 Favorites: 51.3% at 26/sec for SKinnock
+2017-11-19 23:31:50 Favorites: 57.1% at 47/sec for SLCollege
+2017-11-19 23:31:50 Favorites: User SLCProgramme has a protected account or no Favoritess to collect so skipping
+2017-11-19 23:31:58 Favorites: 52.7% at 24/sec for smcblackburn
+2017-11-19 23:31:58 Favorites: User SMcPartland has a protected account or no Favoritess to collect so skipping
+2017-11-19 23:31:59 Favorites: 102% at 41/sec for smith_institute
+2017-11-19 23:32:01 Favorites: 81.1% at 48/sec for SNewtonUK
+2017-11-19 23:32:10 Favorites: 53.1% at 22/sec for SocialMobilityF
+2017-11-19 23:32:11 Favorites: 100% at 33/sec for SocMobAPPG
+2017-11-19 23:32:28 Friends  : 99.4% at 27/sec for SNewtonUK
+2017-11-19 23:32:31 Favorites: 58.7% at 25/sec for SolihullCollege
+2017-11-19 23:32:48 Friends  : 100% at 25/sec for SocialMobilityF
+2017-11-19 23:32:50 Favorites: 51.8% at 26/sec for SOTCollege
+2017-11-19 23:32:50 Favorites: User Southgate_news has a protected account or no Favoritess to collect so skipping
+2017-11-19 23:33:00 Favorites: 52.3% at 28/sec for southportcoll
+2017-11-19 23:33:24 Favorites: 46.8% at 30/sec for SouthSeftonCol
+2017-11-19 23:33:26 Friends  : 99.9% at 25/sec for SocMobAPPG
+2017-11-19 23:33:49 Friends  : 99.6% at 29/sec for SolihullCollege
+2017-11-19 23:34:26 Favorites: 50.8% at 28/sec for southstaffs
+2017-11-19 23:34:49 Friends  : 99.9% at 24/sec for SOTCollege
+2017-11-19 23:34:50 Friends  : 100% at 1/sec for Southgate_news
+2017-11-19 23:35:21 Friends  : 100% at 26/sec for southportcoll
+2017-11-19 23:35:21 Friends  : Waiting for 7.5 minutes
+2017-11-19 23:35:37 Favorites: 50.9% at 28/sec for Sparsholt_Coll
+2017-11-19 23:35:38 Favorites: 100% at 30/sec for spellar
+2017-11-19 23:35:54 Favorites: 62.3% at 25/sec for spelmanc
+2017-11-19 23:36:00 Tweets   : 99.7% at 26/sec for SkillsActive
+2017-11-19 23:36:04 Favorites: 48.5% at 29/sec for srcinfo
+2017-11-19 23:36:22 Favorites: 55.3% at 32/sec for SSFCShrewsbury
+2017-11-19 23:36:30 Favorites: 91.7% at 25/sec for StaffordCollege
+2017-11-19 23:36:32 Favorites: 100% at 50/sec for StBrendansSFC
+2017-11-19 23:36:33 Favorites: 96% at 31/sec for StDomsSFC
+2017-11-19 23:36:33 Favorites: 100% at 21/sec for stellacreasy
+2017-11-19 23:37:23 Favorites: 51.8% at 28/sec for StellaMbubaegbu
+2017-11-19 23:37:46 Tweets   : 92% at 30/sec for SkillsEngland
+2017-11-19 23:37:51 Favorites: 59% at 21/sec for STEMLearningUK
+2017-11-19 23:37:52 Favorites: 98.6% at 52/sec for stephenctimms
+2017-11-19 23:37:57 Favorites: 96.3% at 15/sec for StephenLloydEBN
+2017-11-19 23:37:57 Favorites: User stephensoncoll has a protected account or no Favoritess to collect so skipping
+2017-11-19 23:38:07 Favorites: Waiting for 10.7 minutes due to : Used up allowance in a loop
+2017-11-19 23:39:27 Tweets   : 65.3% at 31/sec for SKinnock
+2017-11-19 23:41:12 Tweets   : 62.5% at 30/sec for SLCollege
+2017-11-19 23:41:19 Tweets   : 100% at 7/sec for SLCProgramme
+2017-11-19 23:42:52 Tweets   : 81.8% at 34/sec for smcblackburn
+2017-11-19 23:43:46 Tweets   : 99.7% at 28/sec for SMcPartland
+2017-11-19 23:43:54 Friends  : 100% at 3/sec for SouthSeftonCol
+2017-11-19 23:44:14 Friends  : 98% at 28/sec for southstaffs
+2017-11-19 23:44:47 Tweets   : 99.9% at 28/sec for smith_institute
+2017-11-19 23:46:01 Friends  : 99.6% at 28/sec for Sparsholt_Coll
+2017-11-19 23:46:06 Tweets   : 99.6% at 30/sec for SNewtonUK
+2017-11-19 23:46:11 Friends  : 99.2% at 26/sec for spellar
+2017-11-19 23:46:41 Friends  : 99.2% at 29/sec for spelmanc
+2017-11-19 23:47:36 Friends  : 99.9% at 27/sec for srcinfo
+2017-11-19 23:47:51 Tweets   : 99% at 29/sec for SocialMobilityF
+2017-11-19 23:47:52 Friends  : 99.3% at 19/sec for SSFCShrewsbury
+2017-11-19 23:48:02 Friends  : 100% at 24/sec for StaffordCollege
+2017-11-19 23:48:13 Friends  : 98.4% at 26/sec for StBrendansSFC
+2017-11-19 23:48:15 Friends  : 100% at 30/sec for StDomsSFC
+2017-11-19 23:48:17 Tweets   : 98.9% at 26/sec for SocMobAPPG
+2017-11-19 23:49:31 Favorites: 51.9% at 2/sec for SteveBakerHW
+2017-11-19 23:49:37 Favorites: 98.1% at 9/sec for SteveBesley
+2017-11-19 23:49:51 Favorites: 56.2% at 34/sec for stevedouble
+2017-11-19 23:49:57 Favorites: 94.1% at 8/sec for steveevo
+2017-11-19 23:50:08 Tweets   : 65.3% at 29/sec for SolihullCollege
+2017-11-19 23:50:21 Favorites: 54.7% at 33/sec for SteveGibsonNCEA
+2017-11-19 23:50:27 Favorites: 84% at 16/sec for SteveHewittMIS
+2017-11-19 23:50:27 Favorites: 100% at 4/sec for stevehook1
+2017-11-19 23:50:38 Favorites: 50.3% at 29/sec for SteveJHyland
+2017-11-19 23:50:50 Favorites: 57.3% at 29/sec for Steven4Stirling
+2017-11-19 23:52:04 Tweets   : 32.9% at 27/sec for SOTCollege
+2017-11-19 23:52:13 Favorites: 49.2% at 27/sec for SteveReedMP
+2017-11-19 23:52:16 Tweets   : 100% at 6/sec for Southgate_news
+2017-11-19 23:53:26 Favorites: Waiting for 10.7 minutes due to : Used up allowance in a loop
+2017-11-19 23:53:40 Tweets   : 99.7% at 27/sec for southportcoll
+2017-11-19 23:54:08 Friends  : 99.7% at 24/sec for stellacreasy
+2017-11-19 23:54:25 Friends  : 97.5% at 23/sec for StellaMbubaegbu
+2017-11-19 23:55:01 Friends  : 99.2% at 22/sec for STEMLearningUK
+2017-11-19 23:55:35 Tweets   : 30.9% at 28/sec for SouthSeftonCol
+2017-11-19 23:55:41 Friends  : 98.5% at 23/sec for stephenctimms
+2017-11-19 23:55:41 Friends  : Waiting for 2.4 minutes
+2017-11-19 23:57:26 Tweets   : 29.1% at 29/sec for southstaffs
+2017-11-19 23:59:09 Friends  : 99.3% at 7/sec for StephenLloydEBN
+2017-11-19 23:59:31 Friends  : 100% at 20/sec for stephensoncoll
+2017-11-19 23:59:33 Tweets   : 30.3% at 25/sec for Sparsholt_Coll
+2017-11-20 00:00:52 Friends  : 98.9% at 23/sec for SteveBakerHW
+2017-11-20 00:01:17 Tweets   : 24.7% at 30/sec for spellar
+2017-11-20 00:01:44 Friends  : 99.9% at 23/sec for SteveBesley
+2017-11-20 00:02:34 Tweets   : 99.4% at 29/sec for spelmanc
+2017-11-20 00:02:41 Friends  : 99.4% at 22/sec for stevedouble
+2017-11-20 00:03:45 Friends  : 99.8% at 22/sec for steveevo
+2017-11-20 00:04:03 Friends  : 98.9% at 24/sec for SteveGibsonNCEA
+2017-11-20 00:04:13 Friends  : 99.2% at 24/sec for SteveHewittMIS
+2017-11-20 00:04:19 Tweets   : 75.2% at 30/sec for srcinfo
+2017-11-20 00:04:53 Friends  : 100% at 28/sec for stevehook1
+2017-11-20 00:05:05 Favorites: 22.4% at 4/sec for StewartMcDonald
+2017-11-20 00:05:14 Friends  : 98.5% at 25/sec for SteveJHyland
+2017-11-20 00:05:42 Favorites: 51.1% at 27/sec for StHelensCollege
+2017-11-20 00:05:54 Favorites: 51.6% at 31/sec for SthTyneCollege
+2017-11-20 00:06:16 Tweets   : 94.1% at 27/sec for SSFCShrewsbury
+2017-11-20 00:06:29 Friends  : 99.9% at 26/sec for Steven4Stirling
+2017-11-20 00:06:29 Friends  : Waiting for 6.7 minutes
+2017-11-20 00:06:42 Favorites: 53.1% at 29/sec for StJohnRigby
+2017-11-20 00:06:53 Favorites: 59.6% at 33/sec for StocktonSFC
+2017-11-20 00:06:54 Favorites: 100% at 19/sec for StowCollege
+2017-11-20 00:07:24 Favorites: 51% at 29/sec for StratfordColl
+2017-11-20 00:07:32 Favorites: 59.9% at 25/sec for StrodeCollege
+2017-11-20 00:08:08 Tweets   : 86.2% at 28/sec for StaffordCollege
+2017-11-20 00:08:31 Tweets   : 99.8% at 24/sec for StBrendansSFC
+2017-11-20 00:08:58 Tweets   : 99.4% at 25/sec for StDomsSFC
+2017-11-20 00:10:49 Tweets   : 4.3% at 29/sec for stellacreasy
+2017-11-20 00:12:47 Tweets   : 47.1% at 27/sec for StellaMbubaegbu
+2017-11-20 00:14:43 Tweets   : 39.8% at 28/sec for STEMLearningUK
+2017-11-20 00:16:50 Tweets   : 62.2% at 25/sec for stephenctimms
+2017-11-20 00:17:23 Tweets   : 99.8% at 28/sec for StephenLloydEBN
+2017-11-20 00:18:47 Tweets   : 99.9% at 31/sec for stephensoncoll
+2017-11-20 00:20:38 Tweets   : 12% at 29/sec for SteveBakerHW
+2017-11-20 00:22:17 Tweets   : 99.9% at 30/sec for SteveBesley
+2017-11-20 00:24:01 Tweets   : 42.7% at 30/sec for stevedouble
+2017-11-20 00:25:18 Tweets   : 99.6% at 27/sec for steveevo
+2017-11-20 00:26:18 Tweets   : 99.5% at 27/sec for SteveGibsonNCEA
+2017-11-20 00:26:40 Friends  : 99.6% at 17/sec for SteveReedMP
+2017-11-20 00:28:12 Tweets   : 59.1% at 28/sec for SteveHewittMIS
+2017-11-20 00:28:26 Tweets   : 98.7% at 16/sec for stevehook1
+2017-11-20 00:28:47 Friends  : 98.8% at 30/sec for StewartMcDonald
+2017-11-20 00:28:50 Tweets   : 100% at 25/sec for SteveJHyland
+2017-11-20 00:29:30 Friends  : 99.7% at 28/sec for StHelensCollege
+2017-11-20 00:29:57 Friends  : 99.8% at 30/sec for SthTyneCollege
+2017-11-20 00:30:08 Tweets   : 98.1% at 25/sec for Steven4Stirling
+2017-11-20 00:30:21 Friends  : 99% at 30/sec for StJohnRigby
+2017-11-20 00:30:55 Friends  : 99.6% at 27/sec for StocktonSFC
+2017-11-20 00:31:30 Friends  : 100% at 29/sec for StowCollege
+2017-11-20 00:32:00 Friends  : 98.1% at 25/sec for StratfordColl
+2017-11-20 00:32:02 Friends  : 100% at 34/sec for StrodeCollege
+2017-11-20 00:32:04 Tweets   : 22.4% at 27/sec for SteveReedMP
+2017-11-20 00:33:59 Tweets   : 8.9% at 28/sec for StewartMcDonald
+2017-11-20 00:35:56 Tweets   : 53.7% at 27/sec for StHelensCollege
+2017-11-20 00:37:34 Tweets   : 74.6% at 33/sec for SthTyneCollege
+2017-11-20 00:39:19 Tweets   : 88.9% at 30/sec for StJohnRigby
+2017-11-20 00:40:57 Tweets   : 78% at 32/sec for StocktonSFC
+2017-11-20 00:42:08 Tweets   : 100% at 28/sec for StowCollege
+2017-11-20 00:43:54 Tweets   : 20% at 30/sec for StratfordColl
+2017-11-20 00:44:58 Tweets   : 99.6% at 28/sec for StrodeCollege
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+package 'twitteR' was built under R version 3.4.1 
+Warning message:
+package 'twitteR' was built under R version 3.4.1 

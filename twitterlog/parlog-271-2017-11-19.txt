@@ -1,0 +1,164 @@
+starting worker pid=5496 on localhost:11271 at 01:48:27.973
+starting worker pid=15152 on localhost:11271 at 01:48:28.129
+starting worker pid=10636 on localhost:11271 at 01:48:28.301
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-19 01:51:37 Friends  : 100% at 31/sec for BictonCollege
+2017-11-19 01:52:06 Friends  : 97% at 34/sec for bigacademy
+2017-11-19 01:52:24 Friends  : 99% at 34/sec for BilboroughCol
+2017-11-19 01:53:13 Friends  : 98.9% at 29/sec for Bill_Esterson
+2017-11-19 01:53:13 Friends  : User BillCashMP has a protected account or no Friendss to collect so skipping
+2017-11-19 01:53:27 Favorites: 51.7% at 27/sec for BictonCollege
+2017-11-19 01:53:53 Favorites: 52.6% at 30/sec for bigacademy
+2017-11-19 01:53:58 Friends  : 99.2% at 32/sec for birkettsllp
+2017-11-19 01:54:13 Friends  : 98.7% at 31/sec for BishopBurton
+2017-11-19 01:54:15 Favorites: 50.1% at 35/sec for BilboroughCol
+2017-11-19 01:54:27 Friends  : 99.8% at 32/sec for bishopcollege
+2017-11-19 01:54:28 Favorites: 49.4% at 31/sec for Bill_Esterson
+2017-11-19 01:54:28 Favorites: User BillCashMP has a protected account or no Favoritess to collect so skipping
+2017-11-19 01:54:39 Favorites: 54.8% at 34/sec for birkettsllp
+2017-11-19 01:54:57 Favorites: 54% at 32/sec for BishopBurton
+2017-11-19 01:55:00 Favorites: 67% at 67/sec for bishopcollege
+2017-11-19 01:55:38 Favorites: 52% at 34/sec for BitebackPub
+2017-11-19 01:56:25 Favorites: 52.6% at 29/sec for BlackpoolSixth
+2017-11-19 01:56:30 Favorites: 83.8% at 21/sec for BlaenauGwentMP
+2017-11-19 01:56:31 Favorites: 100% at 40/sec for BlogApprentice
+2017-11-19 01:56:39 Favorites: Waiting for 11.1 minutes due to : Used up allowance in a loop
+2017-11-19 01:56:46 Tweets   : 76% at 32/sec for BictonCollege
+2017-11-19 01:57:14 Friends  : 99.1% at 31/sec for BitebackPub
+2017-11-19 01:57:42 Friends  : 98.5% at 28/sec for BlackpoolSixth
+2017-11-19 01:58:19 Tweets   : 84.1% at 35/sec for bigacademy
+2017-11-19 01:58:29 Friends  : 98.3% at 33/sec for BlaenauGwentMP
+2017-11-19 01:59:19 Friends  : 99.8% at 29/sec for BlogApprentice
+2017-11-19 01:59:45 Tweets   : 39.5% at 37/sec for BilboroughCol
+2017-11-19 02:00:33 Friends  : 99% at 31/sec for BMetC
+2017-11-19 02:01:16 Tweets   : 17.4% at 35/sec for Bill_Esterson
+2017-11-19 02:01:25 Tweets   : 100% at 11/sec for BillCashMP
+2017-11-19 02:01:30 Friends  : 99.9% at 29/sec for Bournville
+2017-11-19 02:01:47 Friends  : 99.2% at 29/sec for BPCollege
+2017-11-19 02:01:47 Friends  : Waiting for 3.9 minutes
+2017-11-19 02:02:38 Tweets   : 99.7% at 38/sec for birkettsllp
+2017-11-19 02:04:06 Tweets   : 55.1% at 36/sec for BishopBurton
+2017-11-19 02:04:47 Tweets   : 99.5% at 34/sec for bishopcollege
+2017-11-19 02:06:29 Tweets   : 28.1% at 31/sec for BitebackPub
+2017-11-19 02:06:51 Friends  : 99.3% at 6/sec for bphillipsonMP
+2017-11-19 02:07:35 Friends  : 99.5% at 26/sec for BracWokCollege
+2017-11-19 02:08:06 Friends  : 97.7% at 28/sec for BrendanOHaraSNP
+2017-11-19 02:08:13 Tweets   : 33.7% at 30/sec for BlackpoolSixth
+2017-11-19 02:08:26 Favorites: 49.6% at 1/sec for BMetC
+2017-11-19 02:08:29 Friends  : 98.6% at 25/sec for brianpaddick
+2017-11-19 02:08:48 Favorites: 50.4% at 35/sec for Bournville
+2017-11-19 02:08:55 Tweets   : 99.6% at 34/sec for BlaenauGwentMP
+2017-11-19 02:08:59 Friends  : 98.8% at 26/sec for BridgendCollege
+2017-11-19 02:09:02 Favorites: 53.4% at 37/sec for BPCollege
+2017-11-19 02:09:07 Favorites: 86.6% at 34/sec for bphillipsonMP
+2017-11-19 02:09:20 Favorites: 63.4% at 30/sec for BracWokCollege
+2017-11-19 02:09:22 Friends  : 99.3% at 25/sec for Bridgwater_Coll
+2017-11-19 02:09:48 Friends  : 100% at 19/sec for BringBkEMA
+2017-11-19 02:09:55 Favorites: 51.8% at 33/sec for BrendanOHaraSNP
+2017-11-19 02:09:55 Friends  : 100% at 32/sec for BritishCouncil
+2017-11-19 02:10:03 Favorites: 63.6% at 38/sec for brianpaddick
+2017-11-19 02:10:15 Friends  : 99.7% at 32/sec for brockcollege
+2017-11-19 02:10:20 Favorites: 57% at 28/sec for BridgendCollege
+2017-11-19 02:10:22 Tweets   : 9.7% at 37/sec for BlogApprentice
+2017-11-19 02:10:25 Friends  : 98% at 39/sec for BromleyAdultEd
+2017-11-19 02:10:31 Friends  : 100% at 31/sec for BrooksbyMelton
+2017-11-19 02:10:38 Friends  : 99.1% at 33/sec for BSDCofficial
+2017-11-19 02:10:46 Favorites: 52.8% at 38/sec for Bridgwater_Coll
+2017-11-19 02:10:47 Favorites: 87.5% at 29/sec for BringBkEMA
+2017-11-19 02:10:50 Friends  : 100% at 31/sec for BSixCollege
+2017-11-19 02:11:30 Friends  : 98.1% at 31/sec for BTECStudents
+2017-11-19 02:11:30 Friends  : Waiting for 9.3 minutes
+2017-11-19 02:11:40 Favorites: Waiting for 11.4 minutes due to : Used up allowance in a loop
+2017-11-19 02:11:55 Tweets   : 35.7% at 34/sec for BMetC
+2017-11-19 02:13:22 Tweets   : 43.4% at 37/sec for Bournville
+2017-11-19 02:14:49 Tweets   : 99% at 36/sec for BPCollege
+2017-11-19 02:16:15 Tweets   : 78.9% at 37/sec for bphillipsonMP
+2017-11-19 02:17:18 Tweets   : 99.7% at 33/sec for BracWokCollege
+2017-11-19 02:18:19 Tweets   : 99.5% at 28/sec for BrendanOHaraSNP
+2017-11-19 02:19:41 Tweets   : 41.8% at 39/sec for brianpaddick
+2017-11-19 02:21:03 Tweets   : 51.2% at 39/sec for BridgendCollege
+2017-11-19 02:22:26 Tweets   : 75.3% at 39/sec for Bridgwater_Coll
+2017-11-19 02:22:46 Tweets   : 97.9% at 28/sec for BringBkEMA
+2017-11-19 02:23:31 Favorites: 49.7% at 3/sec for BritishCouncil
+2017-11-19 02:23:46 Favorites: 50.3% at 38/sec for brockcollege
+2017-11-19 02:23:50 Favorites: 87.7% at 15/sec for BromleyAdultEd
+2017-11-19 02:23:52 Favorites: 100% at 65/sec for BrooksbyMelton
+2017-11-19 02:24:05 Favorites: 52.1% at 36/sec for BSDCofficial
+2017-11-19 02:24:10 Favorites: 58.8% at 23/sec for BSixCollege
+2017-11-19 02:24:12 Tweets   : 22.5% at 37/sec for BritishCouncil
+2017-11-19 02:24:22 Favorites: 50.3% at 39/sec for BTECStudents
+2017-11-19 02:25:25 Favorites: 50.1% at 33/sec for bullyinguk
+2017-11-19 02:25:36 Tweets   : 99.2% at 32/sec for brockcollege
+2017-11-19 02:25:38 Favorites: 53.5% at 30/sec for BurnleyCollege
+2017-11-19 02:25:44 Favorites: 51.8% at 33/sec for Bury_College
+2017-11-19 02:25:52 Favorites: 71.1% at 37/sec for BuxtonLeek
+2017-11-19 02:25:57 Tweets   : 97.5% at 22/sec for BromleyAdultEd
+2017-11-19 02:25:59 Favorites: 70.5% at 29/sec for BWallaceMP
+2017-11-19 02:25:59 Favorites: 100% at 17/sec for byameliahill
+2017-11-19 02:26:32 Tweets   : 99.9% at 28/sec for BrooksbyMelton
+2017-11-19 02:26:52 Favorites: Waiting for 11.4 minutes due to : Used up allowance in a loop
+2017-11-19 02:28:11 Tweets   : 24.8% at 32/sec for BSDCofficial
+2017-11-19 02:29:50 Tweets   : 25.5% at 32/sec for BSixCollege
+2017-11-19 02:30:52 Tweets   : 99.7% at 32/sec for BTECStudents
+2017-11-19 02:32:18 Tweets   : 7.5% at 37/sec for bullyinguk
+2017-11-19 02:33:06 Friends  : 99.9% at 17/sec for bullyinguk
+2017-11-19 02:33:29 Friends  : 99.4% at 34/sec for BurnleyCollege
+2017-11-19 02:33:37 Friends  : 98.9% at 35/sec for Bury_College
+2017-11-19 02:33:42 Tweets   : 37.6% at 38/sec for BurnleyCollege
+2017-11-19 02:33:57 Friends  : 99.2% at 37/sec for BuxtonLeek
+2017-11-19 02:34:05 Friends  : 98.8% at 31/sec for BWallaceMP
+2017-11-19 02:34:21 Friends  : 100% at 38/sec for byameliahill
+2017-11-19 02:34:45 Tweets   : 99.9% at 39/sec for Bury_College
+2017-11-19 02:35:43 Tweets   : 99.8% at 34/sec for BuxtonLeek
+2017-11-19 02:35:44 Friends  : 99.6% at 34/sec for bycLIVE
+2017-11-19 02:36:19 Friends  : 99.9% at 34/sec for cadburycollege
+2017-11-19 02:36:20 Friends  : 100% at 21/sec for CambridgeRegCol
+2017-11-19 02:36:58 Tweets   : 99.7% at 38/sec for BWallaceMP
+2017-11-19 02:37:38 Tweets   : 99.8% at 36/sec for byameliahill
+2017-11-19 02:39:17 Favorites: 24.1% at 4/sec for bycLIVE
+2017-11-19 02:39:20 Tweets   : 19% at 31/sec for bycLIVE
+2017-11-19 02:39:28 Favorites: 53.1% at 27/sec for cadburycollege
+2017-11-19 02:39:28 Favorites: User CambridgeRegCol has a protected account or no Favoritess to collect so skipping
+2017-11-19 02:39:29 Favorites: 100% at 48/sec for campbellclaret
+2017-11-19 02:39:42 Favorites: 57.7% at 32/sec for canterburycoll
+2017-11-19 02:39:43 Favorites: 65.4% at 53/sec for capelmanor
+2017-11-19 02:40:29 Favorites: 51.9% at 30/sec for CareersWeek
+2017-11-19 02:40:35 Favorites: 72.4% at 30/sec for CarmelCollege
+2017-11-19 02:40:36 Favorites: 100% at 20/sec for carolewalkercw
+2017-11-19 02:40:40 Friends  : 99.7% at 31/sec for campbellclaret
+2017-11-19 02:41:00 Favorites: 53.8% at 28/sec for Caroline_Ansell
+2017-11-19 02:41:06 Tweets   : 71.6% at 30/sec for cadburycollege
+2017-11-19 02:41:09 Friends  : 99.1% at 31/sec for canterburycoll
+2017-11-19 02:41:12 Tweets   : 100% at 3/sec for CambridgeRegCol
+2017-11-19 02:41:21 Friends  : 98.2% at 27/sec for capelmanor
+2017-11-19 02:41:27 Friends  : 98.4% at 29/sec for CareersWeek
+2017-11-19 02:41:31 Friends  : 97.6% at 43/sec for CarmelCollege
+2017-11-19 02:42:11 Friends  : 99.5% at 29/sec for carolewalkercw
+2017-11-19 02:42:21 Favorites: Waiting for 11.2 minutes due to : Used up allowance in a loop
+2017-11-19 02:42:55 Tweets   : 6.9% at 31/sec for campbellclaret
+2017-11-19 02:43:23 Friends  : 100% at 29/sec for Caroline_Ansell
+2017-11-19 02:44:11 Friends  : 97.2% at 28/sec for carolynharris24
+2017-11-19 02:44:21 Tweets   : 73.7% at 37/sec for canterburycoll
+2017-11-19 02:45:05 Friends  : 98.9% at 30/sec for CarshaltonAC
+2017-11-19 02:45:07 Friends  : 100% at 19/sec for CastleCollege
+2017-11-19 02:45:49 Tweets   : 83.3% at 36/sec for capelmanor
+2017-11-19 02:46:53 Friends  : 99.3% at 32/sec for CatherineWest1
+2017-11-19 02:47:23 Tweets   : 14% at 34/sec for CareersWeek
+2017-11-19 02:47:55 Tweets   : 99.8% at 32/sec for CarmelCollege
+2017-11-19 02:48:59 Tweets   : 100% at 39/sec for carolewalkercw
+2017-11-19 02:49:45 Tweets   : 99.1% at 32/sec for Caroline_Ansell
+2017-11-19 02:51:20 Tweets   : 25.1% at 34/sec for carolynharris24
+2017-11-19 02:52:35 Tweets   : 99.9% at 36/sec for CarshaltonAC
+2017-11-19 02:52:44 Tweets   : 100% at 3/sec for CastleCollege
+2017-11-19 02:54:04 Favorites: 11% at 4/sec for carolynharris24
+2017-11-19 02:54:06 Tweets   : 18.1% at 39/sec for CatherineWest1
+2017-11-19 02:54:16 Favorites: 61% at 40/sec for CarshaltonAC
+2017-11-19 02:54:17 Favorites: % at /sec for CastleCollege
+2017-11-19 02:55:48 Favorites: 43.5% at 35/sec for CatherineWest1
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+package 'twitteR' was built under R version 3.4.1 
+Warning message:
+package 'twitteR' was built under R version 3.4.1 

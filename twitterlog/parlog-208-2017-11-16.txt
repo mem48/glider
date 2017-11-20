@@ -1,0 +1,171 @@
+starting worker pid=12304 on localhost:11271 at 02:54:35.047
+starting worker pid=13012 on localhost:11271 at 02:54:35.284
+starting worker pid=10568 on localhost:11271 at 02:54:35.452
+[1] "Using direct authentication"
+Using direct authentication"
+2017-11-16 02:55:54 Friends  : 99.3% at 39/sec for CommFirstYorks
+2017-11-16 02:55:57 Friends  : 99.1% at 34/sec for CommonsWorkPen
+2017-11-16 02:56:22 Favorites: 55.7% at 28/sec for CommFirstYorks
+2017-11-16 02:56:22 Favorites: 100% at 11/sec for CommonsWorkPen
+2017-11-16 02:56:23 Friends  : 99.5% at 41/sec for CommonwealTweet
+2017-11-16 02:56:27 Favorites: 89.2% at 38/sec for CommonwealTweet
+2017-11-16 02:56:29 Favorites: Waiting for 9 minutes due to : Used up allowance in a loop
+2017-11-16 02:56:32 Friends  : 97.1% at 42/sec for connolamc
+2017-11-16 02:56:55 Friends  : 98% at 40/sec for ContactConsult
+2017-11-16 02:57:33 Friends  : 99.1% at 41/sec for coxey
+2017-11-16 02:57:48 Friends  : 99.8% at 37/sec for CP_Policy
+2017-11-16 02:58:03 Tweets   : 53.7% at 48/sec for CommFirstYorks
+2017-11-16 02:58:17 Tweets   : 100% at 28/sec for CommonsWorkPen
+2017-11-16 02:58:22 Friends  : 99% at 45/sec for crazzzylegs
+2017-11-16 02:58:42 Tweets   : 99.9% at 41/sec for CommonwealTweet
+2017-11-16 02:58:56 Friends  : 98.9% at 45/sec for crtvspprt
+2017-11-16 02:58:57 Tweets   : 99.8% at 32/sec for connolamc
+2017-11-16 02:59:03 Friends  : 97.3% at 40/sec for cwalker_hh
+2017-11-16 03:00:05 Tweets   : 35.4% at 48/sec for ContactConsult
+2017-11-16 03:00:07 Friends  : 99.5% at 42/sec for dalewood
+2017-11-16 03:00:34 Friends  : 98% at 39/sec for daniellesharp1
+2017-11-16 03:01:12 Tweets   : 67.1% at 47/sec for coxey
+2017-11-16 03:01:23 Tweets   : 100% at 25/sec for CP_Policy
+2017-11-16 03:01:26 Friends  : 99.8% at 39/sec for david_cowans
+2017-11-16 03:01:56 Friends  : 99.4% at 36/sec for DavidEDrew
+2017-11-16 03:02:06 Friends  : 98.7% at 31/sec for DavidRigby5
+2017-11-16 03:02:06 Friends  : Waiting for 8.3 minutes
+2017-11-16 03:02:31 Tweets   : 49.5% at 47/sec for crazzzylegs
+2017-11-16 03:03:20 Tweets   : 99.5% at 45/sec for crtvspprt
+2017-11-16 03:03:55 Tweets   : 99.6% at 39/sec for cwalker_hh
+2017-11-16 03:05:03 Tweets   : 12.9% at 46/sec for dalewood
+2017-11-16 03:05:43 Favorites: 71.4% at 0/sec for connolamc
+2017-11-16 03:06:08 Tweets   : 29.6% at 50/sec for daniellesharp1
+2017-11-16 03:06:43 Favorites: 50.3% at 45/sec for ContactConsult
+2017-11-16 03:06:49 Favorites: 60.6% at 44/sec for coxey
+2017-11-16 03:06:50 Favorites: 100% at 59/sec for CP_Policy
+2017-11-16 03:07:02 Tweets   : 99.7% at 41/sec for david_cowans
+2017-11-16 03:07:47 Favorites: 48.6% at 43/sec for crazzzylegs
+2017-11-16 03:07:55 Favorites: 53.8% at 41/sec for crtvspprt
+2017-11-16 03:08:13 Favorites: 54.4% at 44/sec for cwalker_hh
+2017-11-16 03:08:15 Tweets   : 40.2% at 43/sec for DavidEDrew
+2017-11-16 03:08:24 Favorites: Waiting for 12.3 minutes due to : Used up allowance in a loop
+2017-11-16 03:09:23 Tweets   : 27.3% at 47/sec for DavidRigby5
+2017-11-16 03:10:28 Tweets   : 13.3% at 49/sec for DavidWinsper
+2017-11-16 03:10:55 Friends  : 95% at 1/sec for DavidWinsper
+2017-11-16 03:11:40 Tweets   : 11.5% at 45/sec for Debbie_abrahams
+2017-11-16 03:11:56 Tweets   : 100% at 24/sec for Dementia_Hub
+2017-11-16 03:12:47 Tweets   : 99.6% at 39/sec for Devonshires
+2017-11-16 03:13:19 Friends  : 98.9% at 39/sec for Debbie_abrahams
+2017-11-16 03:13:29 Tweets   : 99.9% at 31/sec for DhruvSookhoo
+2017-11-16 03:13:34 Friends  : 93.9% at 40/sec for Dementia_Hub
+2017-11-16 03:13:36 Tweets   : 100% at 7/sec for Diane_westkent
+2017-11-16 03:13:53 Friends  : 99.1% at 39/sec for Devonshires
+2017-11-16 03:14:10 Tweets   : 99.8% at 46/sec for donald_lockhart
+2017-11-16 03:14:25 Friends  : 99.6% at 39/sec for DhruvSookhoo
+2017-11-16 03:14:28 Friends  : 96.5% at 34/sec for Diane_westkent
+2017-11-16 03:14:38 Friends  : 97.6% at 37/sec for donald_lockhart
+2017-11-16 03:15:15 Tweets   : 35.6% at 49/sec for drugactivist
+2017-11-16 03:15:30 Tweets   : 100% at 29/sec for du_suz
+2017-11-16 03:15:45 Tweets   : 99.6% at 29/sec for DurhamAMHA
+2017-11-16 03:15:49 Friends  : 98.7% at 35/sec for drugactivist
+2017-11-16 03:15:55 Friends  : 100% at 40/sec for du_suz
+2017-11-16 03:16:08 Friends  : 99.6% at 42/sec for DurhamAMHA
+2017-11-16 03:16:12 Friends  : 100% at 32/sec for duttonrt
+2017-11-16 03:16:14 Tweets   : 100% at 39/sec for duttonrt
+2017-11-16 03:16:15 Friends  : 99.1% at 36/sec for dwstokes440
+2017-11-16 03:16:16 Friends  : 85.7% at 12/sec for Ed_Tytherleigh
+2017-11-16 03:16:25 Friends  : 99.4% at 42/sec for Edwards_TJE
+2017-11-16 03:16:25 Friends  : Waiting for 9.3 minutes
+2017-11-16 03:16:30 Tweets   : 100% at 28/sec for dwstokes440
+2017-11-16 03:16:40 Tweets   : 100% at 19/sec for Ed_Tytherleigh
+[1] "Server error: (500) Internal Server Error"
+[1] "This error is likely transient, retrying up to 5 more times ..."
+2017-11-16 03:17:34 Tweets   : 99.8% at 43/sec for Edwards_TJE
+2017-11-16 03:18:26 Tweets   : 99.5% at 46/sec for efoody
+2017-11-16 03:19:33 Tweets   : 98% at 48/sec for eleanorbeer
+2017-11-16 03:20:35 Tweets   : 83% at 51/sec for ElectoralCommUK
+2017-11-16 03:21:06 Tweets   : 99.6% at 43/sec for ElimHousing
+2017-11-16 03:21:14 Tweets   : 100% at 11/sec for emhgroupkathryn
+2017-11-16 03:21:48 Favorites: 50.4% at 3/sec for dalewood
+2017-11-16 03:21:51 Favorites: 2.4% at 36/sec for daniellesharp1
+2017-11-16 03:22:00 Favorites: 63% at 46/sec for david_cowans
+2017-11-16 03:22:09 Favorites: 55.6% at 44/sec for DavidEDrew
+2017-11-16 03:22:11 Favorites: 68.5% at 41/sec for DavidRigby5
+2017-11-16 03:22:31 Tweets   : 99.6% at 41/sec for EmilydeCatalyst
+2017-11-16 03:22:45 Tweets   : 97.9% at 24/sec for emjmidge
+2017-11-16 03:23:08 Favorites: 50.8% at 45/sec for DavidWinsper
+2017-11-16 03:23:15 Tweets   : 99.5% at 34/sec for entitledto
+2017-11-16 03:23:25 Tweets   : 100% at 17/sec for ericapopplewell
+2017-11-16 03:23:40 Favorites: Waiting for 12.3 minutes due to : Used up allowance in a loop
+2017-11-16 03:24:38 Tweets   : 56.6% at 44/sec for ersa_news
+2017-11-16 03:24:47 Tweets   : 100% at 20/sec for EvinoxLtd
+2017-11-16 03:25:50 Tweets   : 68.2% at 50/sec for FamilyOptima
+2017-11-16 03:26:20 Friends  : 99.2% at 2/sec for efoody
+2017-11-16 03:26:37 Friends  : 98.1% at 40/sec for eleanorbeer
+2017-11-16 03:27:04 Tweets   : 9.5% at 43/sec for FezReports
+2017-11-16 03:27:18 Friends  : 99.9% at 43/sec for ElectoralCommUK
+2017-11-16 03:27:32 Friends  : 99.2% at 37/sec for ElimHousing
+2017-11-16 03:27:33 Friends  : 100% at 36/sec for emhgroupkathryn
+2017-11-16 03:28:15 Friends  : 98.9% at 40/sec for EmilydeCatalyst
+2017-11-16 03:28:21 Friends  : 97.1% at 25/sec for emjmidge
+2017-11-16 03:28:24 Tweets   : 79.5% at 40/sec for FortisLiving
+2017-11-16 03:28:34 Friends  : 99.4% at 39/sec for entitledto
+2017-11-16 03:28:37 Friends  : 100% at 30/sec for ericapopplewell
+2017-11-16 03:28:53 Friends  : 99.5% at 36/sec for ersa_news
+2017-11-16 03:28:59 Friends  : 99.2% at 38/sec for EvinoxLtd
+2017-11-16 03:29:15 Tweets   : 99.8% at 47/sec for freebridge
+2017-11-16 03:30:23 Friends  : 99.9% at 35/sec for FamilyOptima
+2017-11-16 03:30:26 Tweets   : 27.9% at 45/sec for FRNUK
+2017-11-16 03:30:49 Friends  : 99.9% at 36/sec for FezReports
+2017-11-16 03:30:53 Tweets   : 100% at 35/sec for GarethHolmesPR
+2017-11-16 03:30:59 Friends  : 98.3% at 41/sec for FortisLiving
+2017-11-16 03:31:08 Tweets   : 100% at 25/sec for Georgeseba13
+2017-11-16 03:31:09 Friends  : 100% at 40/sec for freebridge
+2017-11-16 03:31:10 Friends  : Waiting for 9.8 minutes
+2017-11-16 03:32:17 Tweets   : 69.7% at 47/sec for GeorgieBarrat
+2017-11-16 03:32:54 Tweets   : 99.6% at 39/sec for GleesonHomes
+2017-11-16 03:33:55 Tweets   : 88.4% at 52/sec for GlosCityHomes
+2017-11-16 03:36:44 Favorites: 49.3% at 3/sec for Debbie_abrahams
+2017-11-16 03:36:47 Favorites: 69.1% at 52/sec for Dementia_Hub
+2017-11-16 03:36:50 Favorites: 64.5% at 43/sec for Devonshires
+2017-11-16 03:36:58 Favorites: 62.6% at 48/sec for DhruvSookhoo
+2017-11-16 03:36:59 Favorites: 100% at 50/sec for Diane_westkent
+2017-11-16 03:37:09 Favorites: 52% at 39/sec for donald_lockhart
+2017-11-16 03:37:55 Favorites: 50.1% at 46/sec for drugactivist
+2017-11-16 03:37:56 Favorites: 98% at 53/sec for du_suz
+2017-11-16 03:37:57 Favorites: 100% at 38/sec for DurhamAMHA
+2017-11-16 03:38:13 Favorites: 56.7% at 45/sec for duttonrt
+2017-11-16 03:38:15 Favorites: 100% at 43/sec for dwstokes440
+2017-11-16 03:38:17 Favorites: 55.2% at 63/sec for Ed_Tytherleigh
+2017-11-16 03:38:23 Favorites: 74.3% at 45/sec for Edwards_TJE
+2017-11-16 03:38:34 Favorites: 53.8% at 45/sec for efoody
+2017-11-16 03:38:57 Favorites: Waiting for 12.3 minutes due to : Used up allowance in a loop
+2017-11-16 03:42:07 Friends  : 99.6% at 3/sec for FRNUK
+2017-11-16 03:42:26 Friends  : 99.7% at 41/sec for GarethHolmesPR
+2017-11-16 03:42:28 Friends  : 96.2% at 12/sec for Georgeseba13
+2017-11-16 03:42:52 Friends  : 99.8% at 41/sec for GeorgieBarrat
+2017-11-16 03:42:56 Friends  : 98.5% at 36/sec for GleesonHomes
+2017-11-16 03:43:04 Friends  : 97.7% at 36/sec for GlosCityHomes
+2017-11-16 03:52:24 Favorites: 44.8% at 4/sec for eleanorbeer
+2017-11-16 03:52:27 Favorites: 65.8% at 51/sec for ElectoralCommUK
+2017-11-16 03:52:34 Favorites: 60.5% at 44/sec for ElimHousing
+2017-11-16 03:52:35 Favorites: 100% at 62/sec for emhgroupkathryn
+2017-11-16 03:53:14 Favorites: 50.9% at 46/sec for EmilydeCatalyst
+2017-11-16 03:53:19 Favorites: 68% at 45/sec for emjmidge
+2017-11-16 03:53:22 Favorites: 69.7% at 54/sec for entitledto
+2017-11-16 03:53:23 Favorites: 100% at 15/sec for ericapopplewell
+2017-11-16 03:53:33 Favorites: 58.4% at 47/sec for ersa_news
+2017-11-16 03:53:36 Favorites: 100% at 44/sec for EvinoxLtd
+2017-11-16 03:53:39 Favorites: 57.1% at 55/sec for FamilyOptima
+2017-11-16 03:54:11 Favorites: Waiting for 12.4 minutes due to : Used up allowance in a loop
+2017-11-16 04:07:14 Favorites: 49.5% at 3/sec for FezReports
+2017-11-16 04:07:27 Favorites: 54.9% at 48/sec for FortisLiving
+2017-11-16 04:07:31 Favorites: 82.6% at 52/sec for freebridge
+2017-11-16 04:07:50 Favorites: 50.5% at 46/sec for FRNUK
+2017-11-16 04:07:57 Favorites: 50.1% at 42/sec for GarethHolmesPR
+2017-11-16 04:08:04 Favorites: 61.5% at 45/sec for Georgeseba13
+2017-11-16 04:08:49 Favorites: 50.7% at 48/sec for GeorgieBarrat
+2017-11-16 04:08:49 Favorites: 96.9% at 42/sec for GleesonHomes
+2017-11-16 04:08:53 Favorites: 57.1% at 44/sec for GlosCityHomes
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+Warning message:
+package 'twitteR' was built under R version 3.4.1 

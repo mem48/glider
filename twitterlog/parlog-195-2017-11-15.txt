@@ -1,0 +1,176 @@
+starting worker pid=5392 on localhost:11271 at 10:04:13.468
+starting worker pid=5328 on localhost:11271 at 10:04:13.695
+starting worker pid=3152 on localhost:11271 at 10:04:13.944
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-15 10:05:01 Friends  : 99.3% at 25/sec for EYnews
+2017-11-15 10:05:31 Friends  : 99.7% at 30/sec for faiselr
+2017-11-15 10:05:56 Favorites: Waiting for 9 minutes due to : Used up allowance in a loop
+2017-11-15 10:06:23 Friends  : 98.1% at 34/sec for FamilyFund
+2017-11-15 10:07:12 Tweets   : 28.7% at 46/sec for EYnews
+2017-11-15 10:07:20 Friends  : 99.7% at 46/sec for fawcettsociety
+2017-11-15 10:07:53 Friends  : 99.4% at 47/sec for Fee_King
+2017-11-15 10:08:08 Friends  : 99% at 45/sec for FelicityHannah
+2017-11-15 10:08:12 Tweets   : 19.4% at 53/sec for faiselr
+2017-11-15 10:09:18 Tweets   : 66.9% at 48/sec for FamilyFund
+2017-11-15 10:09:41 Friends  : 99.3% at 41/sec for FestivalofIdeas
+2017-11-15 10:09:48 Friends  : 98.6% at 48/sec for FiJRHT
+2017-11-15 10:09:55 Friends  : 100% at 43/sec for Fincan_ne
+2017-11-15 10:10:02 Friends  : 99.7% at 45/sec for fionalexander
+2017-11-15 10:10:26 Tweets   : 22% at 47/sec for fawcettsociety
+2017-11-15 10:10:39 Friends  : 100% at 45/sec for foundationnews
+2017-11-15 10:11:06 Friends  : 99% at 47/sec for FrameWorksInst
+2017-11-15 10:11:28 Tweets   : 61.8% at 52/sec for Fee_King
+2017-11-15 10:11:31 Friends  : 98.4% at 44/sec for francesparry
+2017-11-15 10:12:31 Tweets   : 20.8% at 50/sec for FelicityHannah
+2017-11-15 10:13:27 Friends  : 99.4% at 43/sec for FreefromTorture
+2017-11-15 10:13:28 Friends  : Waiting for 6.4 minutes
+2017-11-15 10:13:41 Tweets   : 8.9% at 46/sec for FestivalofIdeas
+2017-11-15 10:13:51 Tweets   : 98.6% at 21/sec for FiJRHT
+2017-11-15 10:14:14 Tweets   : 99.9% at 49/sec for Fincan_ne
+2017-11-15 10:14:57 Favorites: 28.2% at 2/sec for EYnews
+2017-11-15 10:14:57 Favorites: Waiting for 0 minutes due to : Used up allowance in a loop
+2017-11-15 10:15:14 Tweets   : 44.4% at 53/sec for fionalexander
+2017-11-15 10:15:14 Favorites: 47.4% at 38/sec for faiselr
+2017-11-15 10:15:36 Favorites: 54.1% at 45/sec for FamilyFund
+2017-11-15 10:16:12 Favorites: 51.8% at 41/sec for fawcettsociety
+2017-11-15 10:16:15 Tweets   : 4.5% at 53/sec for foundationnews
+2017-11-15 10:16:36 Favorites: 49.7% at 38/sec for Fee_King
+2017-11-15 10:17:24 Tweets   : 91.2% at 46/sec for FrameWorksInst
+2017-11-15 10:17:51 Favorites: 27.7% at 43/sec for FelicityHannah
+2017-11-15 10:17:54 Favorites: Waiting for 12.1 minutes due to : Used up allowance in a loop
+2017-11-15 10:18:31 Tweets   : 17.3% at 48/sec for francesparry
+2017-11-15 10:19:40 Tweets   : 19.9% at 46/sec for FreefromTorture
+2017-11-15 10:19:58 Friends  : 99.4% at 0/sec for ftmoney
+2017-11-15 10:20:08 Friends  : 100% at 43/sec for ftwestminster
+2017-11-15 10:20:31 Friends  : 99.6% at 45/sec for fundcentral
+2017-11-15 10:20:42 Tweets   : 40.7% at 52/sec for ftmoney
+2017-11-15 10:21:38 Tweets   : 14.6% at 57/sec for ftwestminster
+2017-11-15 10:22:22 Tweets   : 99.8% at 42/sec for fundcentral
+2017-11-15 10:23:21 Friends  : 99.8% at 40/sec for FutureGov
+2017-11-15 10:23:35 Tweets   : 32.6% at 44/sec for FutureGov
+2017-11-15 10:24:22 Tweets   : 99.6% at 45/sec for GarethJYoung
+2017-11-15 10:24:23 Friends  : 98.4% at 38/sec for GarethJYoung
+2017-11-15 10:25:02 Friends  : 98.3% at 47/sec for garydunion
+2017-11-15 10:25:30 Tweets   : 6.9% at 47/sec for garydunion
+2017-11-15 10:26:45 Tweets   : 27.3% at 42/sec for GavAitchison
+2017-11-15 10:26:52 Tweets   : 100% at 8/sec for GayleNewberry
+2017-11-15 10:27:54 Tweets   : 6% at 51/sec for GdnPolitics
+2017-11-15 10:28:30 Tweets   : 99.9% at 41/sec for gemmacatney
+2017-11-15 10:28:40 Friends  : 99.3% at 42/sec for GavAitchison
+2017-11-15 10:28:42 Friends  : 100% at 45/sec for GayleNewberry
+2017-11-15 10:29:35 Friends  : 99.9% at 46/sec for GdnPolitics
+2017-11-15 10:29:35 Tweets   : 3.6% at 49/sec for GeorgeJulian
+2017-11-15 10:29:47 Friends  : 98.4% at 45/sec for gemmacatney
+2017-11-15 10:29:49 Friends  : 100% at 33/sec for GeorgeJulian
+2017-11-15 10:29:57 Friends  : 99.4% at 41/sec for GEspiau
+[1] "Server error: (500) Internal Server Error"
+[1] "This error is likely transient, retrying up to 5 more times ..."
+2017-11-15 10:30:37 Friends  : 99.2% at 29/sec for gfletchworthgc
+2017-11-15 10:30:37 Friends  : Waiting for 4.3 minutes
+2017-11-15 10:31:12 Tweets   : 87.2% at 33/sec for GEspiau
+2017-11-15 10:31:44 Favorites: 8.3% at 4/sec for FestivalofIdeas
+2017-11-15 10:31:50 Favorites: 93.7% at 32/sec for FiJRHT
+2017-11-15 10:31:50 Favorites: 100% at 5/sec for Fincan_ne
+2017-11-15 10:31:56 Favorites: 73.8% at 33/sec for fionalexander
+2017-11-15 10:31:56 Favorites: User foundationnews has a protected account or no Favoritess to collect so skipping
+2017-11-15 10:32:24 Favorites: 52.1% at 32/sec for FrameWorksInst
+2017-11-15 10:32:44 Tweets   : 72.4% at 34/sec for gfletchworthgc
+2017-11-15 10:33:11 Favorites: 51% at 29/sec for francesparry
+2017-11-15 10:33:55 Favorites: 49.6% at 29/sec for FreefromTorture
+2017-11-15 10:34:02 Favorites: Waiting for 10.9 minutes due to : Used up allowance in a loop
+2017-11-15 10:34:34 Tweets   : 62.8% at 29/sec for Gibb6781
+2017-11-15 10:34:52 Tweets   : 99.7% at 20/sec for gjrslater
+2017-11-15 10:35:08 Friends  : 98.5% at 1/sec for Gibb6781
+2017-11-15 10:35:15 Friends  : 97% at 29/sec for gjrslater
+2017-11-15 10:35:41 Friends  : 99.9% at 30/sec for GlasgowENF
+2017-11-15 10:36:05 Tweets   : 100% at 36/sec for GlasgowENF
+2017-11-15 10:36:15 Friends  : 98.3% at 30/sec for GLKik
+2017-11-15 10:36:23 Tweets   : 99.5% at 30/sec for GLKik
+2017-11-15 10:37:50 Tweets   : 24.1% at 37/sec for GMBCouncillors
+2017-11-15 10:39:25 Tweets   : 28.7% at 33/sec for Go_ON_UK
+2017-11-15 10:39:38 Tweets   : 100% at 17/sec for GoodmanAlissa
+2017-11-15 10:40:07 Friends  : 97.4% at 33/sec for GMBCouncillors
+2017-11-15 10:41:06 Tweets   : 13.8% at 36/sec for GPIBritain
+2017-11-15 10:41:50 Tweets   : 97.1% at 38/sec for GraemeAH
+2017-11-15 10:41:52 Friends  : 100% at 34/sec for Go_ON_UK
+2017-11-15 10:41:59 Friends  : 98.5% at 36/sec for GoodmanAlissa
+2017-11-15 10:42:10 Tweets   : 99.8% at 33/sec for grant_roy
+2017-11-15 10:42:10 Friends  : 100% at 31/sec for GPIBritain
+2017-11-15 10:42:51 Friends  : 100% at 34/sec for GraemeAH
+2017-11-15 10:43:01 Friends  : 98.8% at 26/sec for grant_roy
+2017-11-15 10:43:20 Friends  : 99.4% at 42/sec for GREJanet
+2017-11-15 10:43:30 Tweets   : 46.7% at 40/sec for GREJanet
+2017-11-15 10:43:56 Friends  : 98.9% at 49/sec for growingupinscot
+2017-11-15 10:44:19 Friends  : 100% at 40/sec for Guardian_local
+2017-11-15 10:44:24 Friends  : 99.5% at 39/sec for GuardianData
+2017-11-15 10:44:25 Friends  : Waiting for 5.7 minutes
+2017-11-15 10:44:48 Tweets   : 91.2% at 41/sec for growingupinscot
+2017-11-15 10:45:02 Favorites: 54.1% at 0/sec for ftmoney
+2017-11-15 10:45:02 Favorites: 100% at 3/sec for ftwestminster
+2017-11-15 10:45:12 Favorites: 59.1% at 41/sec for fundcentral
+2017-11-15 10:45:51 Tweets   : 14.3% at 51/sec for Guardian_local
+2017-11-15 10:45:58 Favorites: 51.3% at 41/sec for FutureGov
+2017-11-15 10:46:15 Favorites: 57.4% at 40/sec for GarethJYoung
+2017-11-15 10:46:31 Favorites: 17.7% at 36/sec for garydunion
+2017-11-15 10:46:36 Favorites: 52.4% at 43/sec for GavAitchison
+2017-11-15 10:46:37 Favorites: 100% at 21/sec for GayleNewberry
+2017-11-15 10:46:39 Favorites: 54.2% at 46/sec for GdnPolitics
+2017-11-15 10:46:47 Favorites: 55.6% at 40/sec for gemmacatney
+2017-11-15 10:47:00 Tweets   : 44.1% at 46/sec for GuardianData
+2017-11-15 10:48:05 Favorites: Waiting for 11.9 minutes due to : Used up allowance in a loop
+2017-11-15 10:48:16 Tweets   : 13.3% at 42/sec for Guardianpublic
+2017-11-15 10:49:18 Tweets   : 10.5% at 52/sec for guardiantech
+2017-11-15 10:50:21 Tweets   : 85.4% at 51/sec for guardianwork
+2017-11-15 10:51:02 Friends  : 99.7% at 7/sec for Guardianpublic
+2017-11-15 10:51:29 Tweets   : 3.3% at 47/sec for GuidoFawkes
+2017-11-15 10:52:36 Tweets   : 3.2% at 47/sec for Guy_Stallard
+2017-11-15 10:53:52 Tweets   : 24.8% at 42/sec for h_kippin
+2017-11-15 10:54:49 Tweets   : 99.9% at 50/sec for HACThousing
+2017-11-15 10:55:59 Tweets   : 24.1% at 46/sec for haighclaire
+2017-11-15 11:00:11 Favorites: 20.3% at 4/sec for GeorgeJulian
+2017-11-15 11:00:28 Friends  : 100% at 40/sec for guardiantech
+2017-11-15 11:00:30 Friends  : 100% at 8/sec for guardianwork
+2017-11-15 11:00:31 Friends  : 97.1% at 25/sec for GuidoFawkes
+2017-11-15 11:01:04 Friends  : 99% at 32/sec for Guy_Stallard
+2017-11-15 11:01:04 Favorites: 49.9% at 32/sec for GEspiau
+2017-11-15 11:01:09 Favorites: 73.2% at 36/sec for gfletchworthgc
+2017-11-15 11:01:43 Favorites: 50.6% at 32/sec for Gibb6781
+2017-11-15 11:01:44 Favorites: 100% at 11/sec for gjrslater
+2017-11-15 11:01:45 Favorites: 100% at 44/sec for GlasgowENF
+2017-11-15 11:01:49 Favorites: 67.6% at 29/sec for GLKik
+2017-11-15 11:02:28 Friends  : 99.2% at 32/sec for h_kippin
+2017-11-15 11:02:43 Favorites: 49.2% at 31/sec for GMBCouncillors
+2017-11-15 11:02:55 Favorites: 59.8% at 34/sec for Go_ON_UK
+2017-11-15 11:02:55 Friends  : 99.7% at 30/sec for HACThousing
+2017-11-15 11:03:00 Favorites: 89.3% at 34/sec for GoodmanAlissa
+2017-11-15 11:03:02 Favorites: 100% at 31/sec for GPIBritain
+2017-11-15 11:03:04 Favorites: 84.6% at 28/sec for GraemeAH
+2017-11-15 11:03:13 Favorites: 65.9% at 33/sec for grant_roy
+2017-11-15 11:03:42 Favorites: Waiting for 11.3 minutes due to : Used up allowance in a loop
+2017-11-15 11:07:49 Friends  : 92.1% at 43/sec for haighclaire
+2017-11-15 11:15:06 Favorites: 51.6% at 2/sec for GREJanet
+2017-11-15 11:15:23 Favorites: 53.4% at 42/sec for growingupinscot
+2017-11-15 11:15:23 Favorites: 97.1% at 46/sec for Guardian_local
+2017-11-15 11:15:24 Favorites: 92.3% at 26/sec for GuardianData
+2017-11-15 11:15:38 Favorites: 55.2% at 42/sec for Guardianpublic
+2017-11-15 11:15:40 Favorites: 54.9% at 44/sec for guardiantech
+2017-11-15 11:15:40 Favorites: User guardianwork has a protected account or no Favoritess to collect so skipping
+2017-11-15 11:15:49 Favorites: 59.5% at 43/sec for GuidoFawkes
+2017-11-15 11:17:03 Favorites: 26.9% at 44/sec for Guy_Stallard
+2017-11-15 11:17:48 Favorites: Waiting for 12.2 minutes due to : Used up allowance in a loop
+2017-11-15 11:30:00 Favorites: 49.4% at 2/sec for h_kippin
+2017-11-15 11:30:00 Favorites: Waiting for 0 minutes due to : Used up allowance in a loop
+2017-11-15 11:30:08 Favorites: 71.5% at 36/sec for HACThousing
+2017-11-15 11:31:21 Favorites: 40% at 44/sec for haighclaire
+Warning messages:
+1: package 'twitteR' was built under R version 3.4.1 
+2: In twInterfaceObj$doAPICall(cmd, params, method, ...) :
+  Rate limit encountered & retry limit reached - returning partial results
+3: In twInterfaceObj$doAPICall(cmd, params, method, ...) :
+  Rate limit encountered & retry limit reached - returning partial results
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+Warning message:
+package 'twitteR' was built under R version 3.4.1 

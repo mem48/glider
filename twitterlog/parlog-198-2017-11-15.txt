@@ -1,0 +1,172 @@
+starting worker pid=9696 on localhost:11271 at 14:33:20.864
+starting worker pid=13768 on localhost:11271 at 14:33:21.036
+starting worker pid=15312 on localhost:11271 at 14:33:21.213
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-15 14:34:34 Friends  : 99.2% at 37/sec for LaylaTheiner
+2017-11-15 14:35:07 Friends  : 99.4% at 37/sec for lborouniPR
+2017-11-15 14:35:43 Favorites: Waiting for 9.4 minutes due to : Used up allowance in a loop
+2017-11-15 14:35:57 Friends  : 99.7% at 41/sec for LearnWorkUK
+2017-11-15 14:36:28 Tweets   : 33.6% at 38/sec for LaylaTheiner
+2017-11-15 14:37:51 Tweets   : 65.8% at 38/sec for lborouniPR
+2017-11-15 14:39:17 Friends  : 99.9% at 42/sec for LegatumInst
+2017-11-15 14:39:17 Tweets   : 20.6% at 37/sec for LearnWorkUK
+2017-11-15 14:39:50 Friends  : 99.7% at 49/sec for leicesterliz
+2017-11-15 14:40:10 Friends  : 99.2% at 42/sec for leighmarshall
+2017-11-15 14:40:17 Friends  : 96.7% at 38/sec for LesleyPenton
+2017-11-15 14:40:36 Tweets   : 26.5% at 41/sec for LegatumInst
+2017-11-15 14:40:38 Friends  : 99.8% at 40/sec for LesleyRiddoch
+2017-11-15 14:41:04 Friends  : 98.1% at 41/sec for LewistoryMary
+2017-11-15 14:41:30 Friends  : 99.3% at 39/sec for LGANews
+2017-11-15 14:41:58 Tweets   : 22.8% at 39/sec for leicesterliz
+2017-11-15 14:42:14 Friends  : 99.4% at 40/sec for LiannaBrinded
+2017-11-15 14:42:16 Friends  : 100% at 29/sec for libcon
+2017-11-15 14:42:16 Friends  : User libdemstogether has a protected account or no Friendss to collect so skipping
+2017-11-15 14:42:26 Friends  : 96.1% at 44/sec for LifeChangesTrst
+2017-11-15 14:43:00 Friends  : 97.4% at 47/sec for LindsayGrahamUK
+2017-11-15 14:43:00 Friends  : Waiting for 6 minutes
+2017-11-15 14:43:15 Tweets   : 93.4% at 42/sec for leighmarshall
+2017-11-15 14:43:57 Tweets   : 99.7% at 39/sec for LesleyPenton
+2017-11-15 14:45:14 Tweets   : 11% at 41/sec for LesleyRiddoch
+2017-11-15 14:45:21 Favorites: 23.4% at 5/sec for LaylaTheiner
+2017-11-15 14:45:36 Favorites: 55.3% at 44/sec for lborouniPR
+2017-11-15 14:45:56 Favorites: 53.1% at 39/sec for LearnWorkUK
+2017-11-15 14:46:06 Favorites: 49.8% at 43/sec for LegatumInst
+2017-11-15 14:46:08 Favorites: 50% at 48/sec for leicesterliz
+2017-11-15 14:46:10 Favorites: 80% at 41/sec for leighmarshall
+2017-11-15 14:46:21 Favorites: 52.1% at 44/sec for LesleyPenton
+2017-11-15 14:46:26 Favorites: 52.7% at 39/sec for LesleyRiddoch
+2017-11-15 14:46:30 Tweets   : 46.6% at 42/sec for LewistoryMary
+2017-11-15 14:46:31 Favorites: 64.9% at 45/sec for LewistoryMary
+2017-11-15 14:46:32 Favorites: 98.4% at 39/sec for LGANews
+2017-11-15 14:47:39 Favorites: 50.4% at 43/sec for LiannaBrinded
+2017-11-15 14:47:39 Favorites: 100% at 8/sec for libcon
+2017-11-15 14:47:39 Favorites: User libdemstogether has a protected account or no Favoritess to collect so skipping
+2017-11-15 14:47:50 Tweets   : 47.8% at 40/sec for LGANews
+2017-11-15 14:47:51 Favorites: 55.8% at 42/sec for LifeChangesTrst
+2017-11-15 14:47:58 Favorites: Waiting for 12.2 minutes due to : Used up allowance in a loop
+2017-11-15 14:49:03 Tweets   : 4.9% at 44/sec for LiannaBrinded
+2017-11-15 14:50:08 Friends  : 98.7% at 7/sec for Lisamcelherron
+2017-11-15 14:50:16 Tweets   : 35.5% at 44/sec for libcon
+2017-11-15 14:50:36 Friends  : 99.4% at 41/sec for LisaMcIlvenna
+2017-11-15 14:51:02 Friends  : 98.9% at 40/sec for livuniheseltine
+2017-11-15 14:51:29 Tweets   : 20.1% at 44/sec for libdemstogether
+2017-11-15 14:51:29 Friends  : 97.9% at 40/sec for LizB1964
+2017-11-15 14:52:51 Tweets   : 31.6% at 39/sec for LifeChangesTrst
+2017-11-15 14:53:33 Friends  : 99.8% at 41/sec for LlamauUK
+2017-11-15 14:54:09 Tweets   : 10.3% at 41/sec for LindsayGrahamUK
+2017-11-15 14:54:15 Friends  : 99.6% at 40/sec for Lola__McEvoy
+2017-11-15 14:54:38 Friends  : 98.9% at 44/sec for LondonFunders
+2017-11-15 14:55:25 Friends  : 99.1% at 40/sec for LOS_Fisher
+2017-11-15 14:55:28 Tweets   : 43.8% at 40/sec for Lisamcelherron
+2017-11-15 14:56:16 Tweets   : 99.8% at 33/sec for LisaMcIlvenna
+2017-11-15 14:56:43 Friends  : 98.5% at 37/sec for LouHaigh
+2017-11-15 14:57:15 Friends  : 99.9% at 44/sec for louisvillemayor
+2017-11-15 14:57:28 Tweets   : 61.9% at 44/sec for livuniheseltine
+2017-11-15 14:57:30 Friends  : 99.5% at 42/sec for LSEFoundations
+2017-11-15 14:57:38 Friends  : 97.3% at 47/sec for LSEGeography
+2017-11-15 14:58:53 Tweets   : 98.5% at 38/sec for LizB1964
+2017-11-15 14:59:46 Friends  : 99.2% at 39/sec for Lucinday
+2017-11-15 14:59:46 Friends  : Waiting for 4.3 minutes
+2017-11-15 15:00:09 Tweets   : 14% at 42/sec for LlamauUK
+2017-11-15 15:00:26 Tweets   : 98.9% at 26/sec for Lola__McEvoy
+2017-11-15 15:01:22 Favorites: 24.4% at 4/sec for LindsayGrahamUK
+2017-11-15 15:01:51 Tweets   : 75% at 37/sec for LondonFunders
+2017-11-15 15:01:52 Favorites: 51.7% at 40/sec for Lisamcelherron
+2017-11-15 15:02:10 Favorites: 49.4% at 37/sec for LisaMcIlvenna
+2017-11-15 15:02:22 Favorites: 49.9% at 42/sec for livuniheseltine
+2017-11-15 15:02:34 Favorites: 53.4% at 43/sec for LizB1964
+2017-11-15 15:03:07 Tweets   : 50.3% at 42/sec for LOS_Fisher
+2017-11-15 15:03:12 Favorites: Waiting for 12 minutes due to : Used up allowance in a loop
+2017-11-15 15:04:12 Friends  : 98.2% at 1/sec for MakeLunch
+2017-11-15 15:04:29 Tweets   : 28.2% at 39/sec for LouHaigh
+2017-11-15 15:04:31 Friends  : 98.7% at 36/sec for MandaBrookman
+2017-11-15 15:05:02 Friends  : 97.1% at 38/sec for MariVeroUK
+2017-11-15 15:05:49 Tweets   : 26.4% at 40/sec for louisvillemayor
+2017-11-15 15:06:05 Friends  : 99.2% at 37/sec for Mark_Goldstone
+2017-11-15 15:06:27 Friends  : 99.1% at 41/sec for marklyonette
+2017-11-15 15:07:15 Tweets   : 80.5% at 37/sec for LSEFoundations
+2017-11-15 15:08:11 Tweets   : 99.7% at 38/sec for LSEGeography
+2017-11-15 15:08:52 Friends  : 99% at 37/sec for markrusselluk
+2017-11-15 15:08:57 Friends  : 99% at 39/sec for MarkShucksmith
+2017-11-15 15:09:32 Tweets   : 41.8% at 39/sec for Lucinday
+2017-11-15 15:09:59 Friends  : 99.3% at 36/sec for MartinBarrow
+2017-11-15 15:10:21 Friends  : 99.2% at 32/sec for MartinJohnston8
+2017-11-15 15:10:43 Tweets   : 99.8% at 37/sec for MakeLunch
+2017-11-15 15:11:04 Friends  : 99% at 40/sec for MaryCreaghMP
+2017-11-15 15:11:17 Friends  : 100% at 42/sec for MasonClarkCIC
+2017-11-15 15:12:07 Tweets   : 39.4% at 38/sec for MandaBrookman
+2017-11-15 15:12:08 Friends  : 99.5% at 43/sec for MattGilfeather
+2017-11-15 15:12:45 Friends  : 99.3% at 40/sec for matthew_downie
+2017-11-15 15:12:55 Tweets   : 100% at 34/sec for MariVeroUK
+2017-11-15 15:13:29 Friends  : 99.9% at 41/sec for matthewfoster
+2017-11-15 15:13:30 Friends  : Waiting for 5.6 minutes
+2017-11-15 15:14:02 Tweets   : 99.5% at 42/sec for Mark_Goldstone
+2017-11-15 15:15:19 Tweets   : 88% at 42/sec for marklyonette
+2017-11-15 15:15:38 Favorites: 49.6% at 3/sec for LlamauUK
+2017-11-15 15:15:54 Favorites: 55.5% at 41/sec for Lola__McEvoy
+2017-11-15 15:15:56 Favorites: 100% at 38/sec for LondonFunders
+2017-11-15 15:16:28 Favorites: 49.7% at 39/sec for LOS_Fisher
+2017-11-15 15:16:37 Tweets   : 5.4% at 41/sec for markrusselluk
+2017-11-15 15:17:18 Favorites: 50.3% at 39/sec for LouHaigh
+2017-11-15 15:17:31 Favorites: 58.5% at 38/sec for louisvillemayor
+2017-11-15 15:17:41 Favorites: 50.6% at 40/sec for LSEFoundations
+2017-11-15 15:17:50 Favorites: 50.2% at 42/sec for LSEGeography
+2017-11-15 15:17:53 Tweets   : 11.6% at 42/sec for MarkShucksmith
+2017-11-15 15:18:15 Favorites: Waiting for 11.9 minutes due to : Used up allowance in a loop
+2017-11-15 15:18:59 Tweets   : 11.2% at 49/sec for MartinBarrow
+2017-11-15 15:20:13 Tweets   : 20.1% at 43/sec for MartinJohnston8
+2017-11-15 15:20:54 Friends  : 99.2% at 9/sec for mattholehouse
+2017-11-15 15:21:29 Tweets   : 23.4% at 42/sec for MaryCreaghMP
+2017-11-15 15:21:46 Tweets   : 100% at 32/sec for MasonClarkCIC
+2017-11-15 15:22:10 Friends  : 98.8% at 39/sec for maxine_craig
+2017-11-15 15:22:39 Friends  : 99% at 38/sec for MEAMcoalition
+2017-11-15 15:22:47 Tweets   : 99.3% at 52/sec for MattGilfeather
+2017-11-15 15:23:58 Tweets   : 65.5% at 45/sec for matthew_downie
+2017-11-15 15:24:49 Friends  : 99% at 37/sec for Media_Trust
+2017-11-15 15:25:08 Tweets   : 72.3% at 46/sec for matthewfoster
+2017-11-15 15:26:07 Friends  : 99.5% at 39/sec for meralhece
+2017-11-15 15:26:20 Tweets   : 15.1% at 44/sec for mattholehouse
+2017-11-15 15:27:03 Friends  : 98.9% at 40/sec for michaelsavage
+2017-11-15 15:27:25 Friends  : 98.8% at 38/sec for michaelsheen
+2017-11-15 15:27:29 Tweets   : 25.7% at 46/sec for maxine_craig
+2017-11-15 15:27:33 Friends  : 99.4% at 38/sec for michelleong_jrf
+2017-11-15 15:28:03 Tweets   : 99.9% at 43/sec for MEAMcoalition
+2017-11-15 15:29:13 Tweets   : 15% at 46/sec for Media_Trust
+2017-11-15 15:30:23 Favorites: 50.8% at 2/sec for Lucinday
+2017-11-15 15:30:27 Favorites: 59.9% at 47/sec for MakeLunch
+2017-11-15 15:30:28 Tweets   : 6.2% at 42/sec for meralhece
+2017-11-15 15:31:29 Tweets   : 17.6% at 52/sec for michaelsavage
+2017-11-15 15:31:42 Favorites: 43.8% at 43/sec for MandaBrookman
+2017-11-15 15:32:12 Favorites: 50.6% at 41/sec for MariVeroUK
+2017-11-15 15:32:24 Favorites: 49.8% at 40/sec for Mark_Goldstone
+2017-11-15 15:32:36 Favorites: 55.8% at 42/sec for marklyonette
+2017-11-15 15:32:36 Tweets   : 41.9% at 48/sec for michaelsheen
+2017-11-15 15:33:05 Favorites: Waiting for 12.1 minutes due to : Used up allowance in a loop
+2017-11-15 15:33:22 Tweets   : 99.9% at 43/sec for michelleong_jrf
+2017-11-15 15:45:55 Favorites: 8.8% at 4/sec for markrusselluk
+2017-11-15 15:46:02 Favorites: 53.1% at 43/sec for MarkShucksmith
+2017-11-15 15:47:05 Favorites: 50.2% at 43/sec for MartinBarrow
+2017-11-15 15:47:25 Favorites: 52.1% at 44/sec for MartinJohnston8
+2017-11-15 15:47:34 Favorites: 52.6% at 44/sec for MaryCreaghMP
+2017-11-15 15:47:35 Favorites: 100% at 47/sec for MasonClarkCIC
+2017-11-15 15:47:41 Favorites: 65.2% at 46/sec for MattGilfeather
+2017-11-15 15:47:56 Favorites: 56% at 46/sec for matthew_downie
+2017-11-15 15:47:56 Favorites: Waiting for 12.3 minutes due to : Used up allowance in a loop
+2017-11-15 16:00:16 Favorites: 77.6% at 0/sec for matthewfoster
+2017-11-15 16:00:47 Favorites: 49.5% at 39/sec for mattholehouse
+2017-11-15 16:01:09 Favorites: 49.7% at 40/sec for maxine_craig
+2017-11-15 16:01:12 Favorites: 76.6% at 31/sec for MEAMcoalition
+2017-11-15 16:02:20 Favorites: 51.5% at 41/sec for Media_Trust
+2017-11-15 16:03:17 Favorites: Waiting for 11.9 minutes due to : Used up allowance in a loop
+2017-11-15 16:15:34 Favorites: 19.5% at 4/sec for meralhece
+2017-11-15 16:15:50 Favorites: 55.5% at 43/sec for michaelsavage
+2017-11-15 16:15:52 Favorites: 100% at 43/sec for michaelsheen
+2017-11-15 16:15:54 Favorites: 70.2% at 44/sec for michelleong_jrf
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+Warning message:
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+package 'twitteR' was built under R version 3.4.1 

@@ -1,0 +1,170 @@
+starting worker pid=3328 on localhost:11271 at 03:17:48.677
+starting worker pid=15056 on localhost:11271 at 03:17:48.839
+starting worker pid=11032 on localhost:11271 at 03:17:49.000
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-17 03:19:04 Friends  : 99.3% at 27/sec for ALennoxMartin
+2017-11-17 03:19:15 Friends  : 98.7% at 25/sec for AlexEvans121
+2017-11-17 03:20:15 Favorites: Waiting for 7.5 minutes due to : Used up allowance in a loop
+2017-11-17 03:20:17 Friends  : 98.1% at 41/sec for alexfrancisnet
+2017-11-17 03:20:32 Friends  : 100% at 42/sec for alisonbeech
+2017-11-17 03:20:55 Friends  : 98.2% at 40/sec for alisonchardy
+2017-11-17 03:21:13 Friends  : 99.9% at 41/sec for AllsopLLP
+2017-11-17 03:21:22 Friends  : 99% at 40/sec for AlwaysGallo
+2017-11-17 03:21:38 Friends  : 99.4% at 40/sec for amesbelgravia
+2017-11-17 03:21:46 Friends  : 97.1% at 32/sec for AMS1924
+2017-11-17 03:21:54 Friends  : 100% at 37/sec for AnaBajri
+2017-11-17 03:21:57 Friends  : 100% at 43/sec for Andrew_Bulmer
+2017-11-17 03:22:20 Tweets   : 99.8% at 41/sec for ALennoxMartin
+2017-11-17 03:23:28 Tweets   : 80.8% at 47/sec for AlexEvans121
+2017-11-17 03:23:36 Friends  : 98.7% at 42/sec for AndrewBooton
+2017-11-17 03:23:44 Friends  : 100% at 40/sec for AndrewMcGuigan1
+2017-11-17 03:24:01 Friends  : 97.9% at 39/sec for andrewscreen
+2017-11-17 03:24:18 Friends  : 99.4% at 38/sec for andy_uhler
+2017-11-17 03:24:18 Friends  : Waiting for 9.8 minutes
+2017-11-17 03:24:27 Tweets   : 99.8% at 41/sec for alexfrancisnet
+2017-11-17 03:25:27 Tweets   : 55.7% at 53/sec for alisonbeech
+2017-11-17 03:25:54 Tweets   : 99.8% at 40/sec for alisonchardy
+2017-11-17 03:26:31 Tweets   : 99.4% at 45/sec for AllsopLLP
+2017-11-17 03:27:33 Tweets   : 49% at 52/sec for AlwaysGallo
+2017-11-17 03:28:09 Favorites: 53.6% at 2/sec for ALennoxMartin
+2017-11-17 03:28:22 Tweets   : 99.9% at 44/sec for amesbelgravia
+2017-11-17 03:28:35 Tweets   : 100% at 27/sec for AMS1924
+2017-11-17 03:28:51 Tweets   : 99.8% at 27/sec for AnaBajri
+2017-11-17 03:29:04 Tweets   : 100% at 28/sec for Andrew_Bulmer
+2017-11-17 03:29:05 Favorites: 41.2% at 46/sec for AlexEvans121
+2017-11-17 03:29:23 Favorites: 52% at 43/sec for alexfrancisnet
+2017-11-17 03:29:24 Favorites: 100% at 44/sec for alisonbeech
+2017-11-17 03:29:25 Favorites: 61.8% at 66/sec for alisonchardy
+2017-11-17 03:29:28 Favorites: 86.8% at 33/sec for AllsopLLP
+2017-11-17 03:29:49 Favorites: 53.3% at 47/sec for AlwaysGallo
+2017-11-17 03:30:16 Tweets   : 10.3% at 44/sec for AndrewBooton
+2017-11-17 03:30:21 Favorites: Waiting for 12.4 minutes due to : Used up allowance in a loop
+2017-11-17 03:30:27 Tweets   : 100% at 22/sec for AndrewMcGuigan1
+2017-11-17 03:31:01 Tweets   : 99.9% at 41/sec for andrewscreen
+2017-11-17 03:31:56 Tweets   : 99.7% at 41/sec for andy_uhler
+2017-11-17 03:33:04 Tweets   : 99.1% at 46/sec for andydlgray
+2017-11-17 03:33:13 Tweets   : 100% at 20/sec for AndyR_CEDR
+2017-11-17 03:33:21 Tweets   : 100% at 14/sec for ANG9B15
+2017-11-17 03:34:09 Tweets   : 100% at 50/sec for AngelaWangCo
+2017-11-17 03:34:16 Friends  : 99.4% at 1/sec for andydlgray
+2017-11-17 03:34:20 Friends  : 100% at 29/sec for AndyR_CEDR
+2017-11-17 03:34:24 Friends  : 98.9% at 41/sec for ANG9B15
+2017-11-17 03:34:54 Tweets   : 99.8% at 44/sec for AngelikiG22
+2017-11-17 03:35:30 Friends  : 94.4% at 39/sec for AngelaWangCo
+2017-11-17 03:35:48 Friends  : 99.1% at 35/sec for AngelikiG22
+2017-11-17 03:36:01 Tweets   : 83.3% at 46/sec for AnnabelBlackett
+2017-11-17 03:36:09 Friends  : 99% at 38/sec for AnnabelBlackett
+2017-11-17 03:36:16 Friends  : 99.6% at 33/sec for AnnGray_
+2017-11-17 03:36:21 Tweets   : 100% at 34/sec for AnnGray_
+2017-11-17 03:36:40 Friends  : 99% at 38/sec for AnnieCricket
+2017-11-17 03:37:15 Friends  : 97.5% at 36/sec for AnnMemmott
+2017-11-17 03:37:19 Friends  : 99.3% at 32/sec for APSeccull
+2017-11-17 03:37:30 Tweets   : 9.1% at 46/sec for AnnieCricket
+2017-11-17 03:38:25 Friends  : 99.2% at 37/sec for ArlingfordBS
+2017-11-17 03:38:32 Friends  : 99.5% at 31/sec for ASHDANCONSULT
+2017-11-17 03:38:45 Tweets   : 68.5% at 43/sec for AnnMemmott
+2017-11-17 03:38:57 Friends  : 99.4% at 37/sec for Ballantynes_
+2017-11-17 03:39:03 Tweets   : 99.8% at 32/sec for APSeccull
+2017-11-17 03:39:16 Tweets   : 99.7% at 25/sec for ArlingfordBS
+2017-11-17 03:39:30 Tweets   : 100% at 23/sec for ASHDANCONSULT
+2017-11-17 03:39:51 Tweets   : 100% at 31/sec for Ballantynes_
+2017-11-17 03:40:00 Friends  : 99.5% at 35/sec for BambooAuctions
+2017-11-17 03:40:21 Friends  : 98.5% at 32/sec for BarfordandCo
+2017-11-17 03:40:21 Friends  : Waiting for 8.8 minutes
+2017-11-17 03:40:43 Tweets   : 99.9% at 36/sec for BambooAuctions
+2017-11-17 03:41:25 Tweets   : 99.9% at 49/sec for BarfordandCo
+2017-11-17 03:42:29 Tweets   : 76.8% at 50/sec for Barnsdales
+2017-11-17 03:42:43 Favorites: 33% at 2/sec for amesbelgravia
+2017-11-17 03:42:43 Favorites: Waiting for 0 minutes due to : Used up allowance in a loop
+2017-11-17 03:42:47 Tweets   : 99.8% at 33/sec for bbankssydney
+2017-11-17 03:42:48 Favorites: 66.1% at 37/sec for AMS1924
+2017-11-17 03:42:51 Favorites: 100% at 26/sec for AnaBajri
+2017-11-17 03:42:51 Favorites: 100% at 20/sec for Andrew_Bulmer
+2017-11-17 03:43:59 Tweets   : 18.2% at 45/sec for bbcstories
+2017-11-17 03:44:06 Favorites: 14.4% at 41/sec for AndrewBooton
+2017-11-17 03:44:08 Favorites: 63.4% at 75/sec for AndrewMcGuigan1
+2017-11-17 03:44:15 Favorites: 72.4% at 42/sec for andrewscreen
+2017-11-17 03:44:24 Favorites: 55.7% at 41/sec for andy_uhler
+2017-11-17 03:44:28 Favorites: 55.1% at 44/sec for andydlgray
+2017-11-17 03:44:29 Favorites: 100% at 11/sec for AndyR_CEDR
+2017-11-17 03:44:30 Favorites: 100% at 55/sec for ANG9B15
+2017-11-17 03:44:37 Favorites: 71.6% at 41/sec for AngelaWangCo
+2017-11-17 03:44:41 Favorites: 49.9% at 47/sec for AngelikiG22
+2017-11-17 03:44:54 Favorites: 47.2% at 43/sec for AnnabelBlackett
+2017-11-17 03:44:55 Favorites: 100% at 56/sec for AnnGray_
+2017-11-17 03:45:12 Tweets   : 28.9% at 44/sec for be_remarkable
+2017-11-17 03:45:24 Favorites: Waiting for 12.3 minutes due to : Used up allowance in a loop
+2017-11-17 03:45:50 Tweets   : 100% at 39/sec for BedfordSonya
+2017-11-17 03:46:06 Tweets   : 100% at 32/sec for Ben_Wilkinson
+2017-11-17 03:46:27 Tweets   : 99.7% at 32/sec for BenaK2551
+2017-11-17 03:47:45 Tweets   : 99.5% at 40/sec for BentleyUKI
+2017-11-17 03:48:55 Tweets   : 69.7% at 45/sec for Bermygreen
+2017-11-17 03:49:40 Tweets   : 99.8% at 45/sec for BethGoodyear
+2017-11-17 03:50:11 Friends  : 97.7% at 5/sec for Barnsdales
+2017-11-17 03:50:16 Friends  : 97.5% at 33/sec for bbankssydney
+2017-11-17 03:50:17 Friends  : 0.7% at 15/sec for bbcstories
+2017-11-17 03:50:48 Tweets   : 39.1% at 47/sec for bexby28
+2017-11-17 03:50:54 Tweets   : 100% at 1/sec for BH_Leee
+2017-11-17 03:51:16 Tweets   : 100% at 32/sec for BIFM_PeterB
+2017-11-17 03:51:20 Friends  : 99.9% at 44/sec for be_remarkable
+2017-11-17 03:51:26 Tweets   : 100% at 26/sec for BIMRegions
+2017-11-17 03:51:34 Tweets   : 100% at 6/sec for BIMUKLTD
+2017-11-17 03:51:35 Friends  : 97.8% at 41/sec for BedfordSonya
+2017-11-17 03:52:04 Friends  : 99% at 43/sec for Ben_Wilkinson
+2017-11-17 03:52:14 Friends  : 98.5% at 45/sec for BenaK2551
+2017-11-17 03:52:46 Tweets   : 65% at 44/sec for bizdebate
+2017-11-17 03:52:52 Friends  : 98% at 40/sec for BentleyUKI
+2017-11-17 03:53:59 Tweets   : 53.7% at 43/sec for bowenqs
+2017-11-17 03:54:04 Friends  : 98.7% at 39/sec for Bermygreen
+2017-11-17 03:54:40 Tweets   : 99.7% at 40/sec for brasierfreeth
+2017-11-17 03:54:40 Friends  : 98.7% at 37/sec for BethGoodyear
+2017-11-17 03:54:47 Tweets   : 100% at 6/sec for Bren_Shildrick
+2017-11-17 03:54:57 Friends  : 98.5% at 41/sec for bexby28
+2017-11-17 03:55:00 Friends  : 100% at 13/sec for BH_Leee
+2017-11-17 03:55:04 Friends  : 98.8% at 35/sec for BIFM_PeterB
+2017-11-17 03:55:07 Friends  : 96.6% at 48/sec for BIMRegions
+2017-11-17 03:55:10 Friends  : 97.3% at 24/sec for BIMUKLTD
+2017-11-17 03:55:11 Friends  : Waiting for 9 minutes
+2017-11-17 03:58:21 Favorites: 6% at 4/sec for AnnieCricket
+2017-11-17 03:59:12 Favorites: 49.1% at 46/sec for AnnMemmott
+2017-11-17 03:59:13 Favorites: 95.1% at 63/sec for APSeccull
+2017-11-17 03:59:14 Favorites: 100% at 26/sec for ArlingfordBS
+2017-11-17 03:59:16 Favorites: 70.9% at 38/sec for ASHDANCONSULT
+2017-11-17 03:59:18 Favorites: 55.6% at 63/sec for Ballantynes_
+2017-11-17 03:59:27 Favorites: 63.6% at 41/sec for BambooAuctions
+2017-11-17 03:59:40 Favorites: 53.8% at 49/sec for BarfordandCo
+2017-11-17 03:59:59 Favorites: 54.2% at 50/sec for Barnsdales
+2017-11-17 04:00:16 Favorites: 56.2% at 47/sec for bbankssydney
+2017-11-17 04:00:17 Favorites: Waiting for 12.5 minutes due to : Used up allowance in a loop
+2017-11-17 04:05:43 Friends  : 100% at 6/sec for bizdebate
+2017-11-17 04:06:07 Friends  : 98.2% at 38/sec for bowenqs
+2017-11-17 04:06:36 Friends  : 99.7% at 33/sec for brasierfreeth
+2017-11-17 04:06:38 Friends  : 100% at 47/sec for Bren_Shildrick
+2017-11-17 04:13:02 Favorites: 48.9% at 1/sec for bbcstories
+2017-11-17 04:13:18 Favorites: 55.9% at 48/sec for be_remarkable
+2017-11-17 04:13:51 Favorites: 50.8% at 45/sec for BedfordSonya
+2017-11-17 04:13:57 Favorites: 65% at 35/sec for Ben_Wilkinson
+2017-11-17 04:13:58 Favorites: 80.6% at 69/sec for BenaK2551
+2017-11-17 04:14:05 Favorites: 58.6% at 41/sec for BentleyUKI
+2017-11-17 04:14:14 Favorites: 60.8% at 46/sec for Bermygreen
+2017-11-17 04:14:20 Favorites: 55.2% at 51/sec for BethGoodyear
+2017-11-17 04:14:55 Favorites: 49.4% at 46/sec for bexby28
+2017-11-17 04:14:56 Favorites: 100% at 6/sec for BH_Leee
+2017-11-17 04:15:07 Favorites: 55.5% at 46/sec for BIFM_PeterB
+2017-11-17 04:15:08 Favorites: 76.3% at 68/sec for BIMRegions
+2017-11-17 04:15:08 Favorites: 100% at 17/sec for BIMUKLTD
+2017-11-17 04:15:22 Favorites: Waiting for 12.4 minutes due to : Used up allowance in a loop
+2017-11-17 04:27:55 Favorites: 49.4% at 1/sec for bizdebate
+2017-11-17 04:28:30 Favorites: 51.4% at 46/sec for bowenqs
+2017-11-17 04:28:31 Favorites: 72.5% at 69/sec for brasierfreeth
+2017-11-17 04:28:32 Favorites: 100% at 32/sec for Bren_Shildrick
+Warning message:
+
+1: package 'twitteR' was built under R version 3.4.1 
+2: Warning message:
+was built under R version 3.4.1 
+In twInterfaceObj$doAPICall(cmd, params, method, ...) :package 'twitteR' was built under R version 3.4.1 
+
+  Rate limit encountered & retry limit reached - returning partial results
