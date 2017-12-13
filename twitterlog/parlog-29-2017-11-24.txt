@@ -1,0 +1,192 @@
+starting worker pid=12844 on localhost:11271 at 05:45:24.951
+starting worker pid=10192 on localhost:11271 at 05:45:25.157
+starting worker pid=7400 on localhost:11271 at 05:45:25.361
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-24 05:45:55 Friends  : 100% at 25/sec for socialmedia2day
+2017-11-24 05:46:18 Favorites: Waiting for 9.9 minutes due to : Used up allowance in a loop
+2017-11-24 05:46:51 Friends  : 98.6% at 29/sec for cliodiaspora
+2017-11-24 05:47:13 Friends  : 97.9% at 38/sec for ed_hawkins
+2017-11-24 05:47:45 Tweets   : 2.2% at 42/sec for socialmedia2day
+2017-11-24 05:49:11 Tweets   : 10.2% at 37/sec for cliodiaspora
+2017-11-24 05:50:08 Friends  : 99.6% at 34/sec for MKMRogers
+2017-11-24 05:50:37 Tweets   : 54.1% at 37/sec for ed_hawkins
+2017-11-24 05:52:01 Tweets   : 12% at 38/sec for MKMRogers
+2017-11-24 05:53:25 Tweets   : 4.1% at 38/sec for RogerFrancis1
+2017-11-24 05:54:53 Tweets   : 26.2% at 36/sec for ChrisHallamLaw
+2017-11-24 05:56:17 Tweets   : 2.1% at 38/sec for scienmag
+2017-11-24 05:56:43 Friends  : 98.8% at 34/sec for RogerFrancis1
+2017-11-24 05:57:17 Friends  : 97.5% at 36/sec for ChrisHallamLaw
+2017-11-24 05:57:30 Favorites: 50.1% at 3/sec for socialmedia2day
+2017-11-24 05:57:45 Tweets   : 19.8% at 36/sec for hertscc
+2017-11-24 05:59:06 Tweets   : 7.1% at 39/sec for nickreeves9876
+2017-11-24 05:59:06 Favorites: 16.1% at 33/sec for cliodiaspora
+2017-11-24 05:59:59 Favorites: 50.4% at 32/sec for ed_hawkins
+2017-11-24 06:00:15 Favorites: Waiting for 11.2 minutes due to : Used up allowance in a loop
+2017-11-24 06:00:41 Tweets   : 10.4% at 34/sec for EngineerComm
+2017-11-24 06:02:02 Tweets   : 25.3% at 40/sec for UniofReading
+2017-11-24 06:03:29 Tweets   : 4.8% at 37/sec for SagaUK
+2017-11-24 06:04:53 Tweets   : 21.5% at 38/sec for ruth_hunt
+2017-11-24 06:06:23 Tweets   : 9.1% at 35/sec for LeightonAndrews
+2017-11-24 06:07:51 Tweets   : 52.7% at 36/sec for SiobhanFenton
+2017-11-24 06:09:11 Tweets   : 6.5% at 40/sec for PinkNews
+2017-11-24 06:10:43 Tweets   : 11.4% at 35/sec for businessdeskwm
+2017-11-24 06:12:09 Tweets   : 20.7% at 37/sec for ArchiloversCom
+2017-11-24 06:13:08 Favorites: 17.7% at 4/sec for MKMRogers
+2017-11-24 06:13:15 Favorites: 72.1% at 32/sec for RogerFrancis1
+2017-11-24 06:13:43 Tweets   : 17.9% at 34/sec for HuddersfieldUni
+2017-11-24 06:14:26 Favorites: 49% at 30/sec for ChrisHallamLaw
+2017-11-24 06:14:41 Favorites: 58.4% at 31/sec for scienmag
+2017-11-24 06:15:06 Favorites: 51.7% at 32/sec for hertscc
+2017-11-24 06:15:10 Tweets   : 99.9% at 35/sec for mcrMIPIM
+2017-11-24 06:15:37 Favorites: Waiting for 11.1 minutes due to : Used up allowance in a loop
+2017-11-24 06:16:35 Tweets   : 12.4% at 38/sec for WiganCouncil
+2017-11-24 06:18:10 Tweets   : 54.5% at 34/sec for WildLondon
+2017-11-24 06:18:53 Tweets   : 100% at 37/sec for UKGBCPinpoint
+2017-11-24 06:20:24 Tweets   : 13.6% at 35/sec for damocrat
+2017-11-24 06:20:42 Friends  : 97% at 36/sec for scienmag
+2017-11-24 06:20:56 Tweets   : 100% at 31/sec for ConexBanninger
+2017-11-24 06:21:09 Friends  : 99.4% at 39/sec for hertscc
+2017-11-24 06:22:16 Tweets   : 4.3% at 40/sec for ddale8
+2017-11-24 06:23:10 Friends  : 91.5% at 43/sec for nickreeves9876
+2017-11-24 06:23:43 Tweets   : 6.2% at 36/sec for eliistender10
+2017-11-24 06:25:08 Tweets   : 28.1% at 38/sec for SianGriffiths6
+2017-11-24 06:26:36 Tweets   : 13.2% at 36/sec for Sporf
+2017-11-24 06:27:57 Friends  : 94.7% at 40/sec for EngineerComm
+2017-11-24 06:28:05 Tweets   : 3.2% at 36/sec for thisisamy_
+2017-11-24 06:28:12 Favorites: 3.1% at 4/sec for nickreeves9876
+2017-11-24 06:28:19 Friends  : 98.1% at 39/sec for UniofReading
+2017-11-24 06:28:59 Tweets   : 99.6% at 36/sec for CharleyOrbitGrp
+2017-11-24 06:29:05 Friends  : 98.8% at 38/sec for SagaUK
+2017-11-24 06:29:43 Friends  : 99.4% at 38/sec for ruth_hunt
+2017-11-24 06:29:53 Favorites: 17% at 32/sec for EngineerComm
+2017-11-24 06:30:36 Tweets   : 17.2% at 33/sec for John_A_Wade
+2017-11-24 06:30:51 Favorites: Waiting for 11.2 minutes due to : Used up allowance in a loop
+2017-11-24 06:31:54 Tweets   : 6.4% at 41/sec for techreview
+2017-11-24 06:33:20 Tweets   : 6.4% at 37/sec for patrick_kidd
+2017-11-24 06:33:30 Friends  : 99% at 38/sec for LeightonAndrews
+2017-11-24 06:34:45 Tweets   : 44.9% at 38/sec for EmmausUK
+2017-11-24 06:34:47 Friends  : 98.9% at 38/sec for SiobhanFenton
+2017-11-24 06:35:14 Friends  : 99.7% at 39/sec for PinkNews
+2017-11-24 06:36:02 Tweets   : 7.6% at 42/sec for BizGrowthHub
+2017-11-24 06:37:19 Tweets   : 76.1% at 41/sec for udlondon
+2017-11-24 06:38:13 Friends  : 93.6% at 44/sec for businessdeskwm
+2017-11-24 06:38:33 Tweets   : 6.3% at 43/sec for andrewdunning
+2017-11-24 06:38:53 Friends  : 99.9% at 49/sec for ArchiloversCom
+2017-11-24 06:39:39 Tweets   : 3.8% at 48/sec for edinburghpaper
+2017-11-24 06:40:53 Tweets   : 30% at 43/sec for residence9
+2017-11-24 06:40:54 Friends  : 99.8% at 44/sec for HuddersfieldUni
+2017-11-24 06:41:06 Friends  : 99.6% at 45/sec for mcrMIPIM
+2017-11-24 06:41:38 Friends  : 98.4% at 44/sec for WiganCouncil
+2017-11-24 06:41:59 Friends  : 99.7% at 47/sec for WildLondon
+2017-11-24 06:42:02 Tweets   : 6.8% at 46/sec for ClaireLYoung
+2017-11-24 06:42:03 Friends  : 100% at 41/sec for UKGBCPinpoint
+2017-11-24 06:42:23 Friends  : 95.3% at 45/sec for damocrat
+2017-11-24 06:42:51 Favorites: 26.8% at 4/sec for UniofReading
+2017-11-24 06:43:10 Friends  : 94.6% at 40/sec for ConexBanninger
+2017-11-24 06:43:18 Tweets   : 20.6% at 42/sec for newsthump
+2017-11-24 06:43:30 Friends  : 99.2% at 45/sec for ddale8
+2017-11-24 06:43:30 Friends: Request of 43 exceeds the maximum of 15. Making an attemp
+Waiting will increase the number of results returned
+2017-11-24 06:43:30 Friends  : Waiting for 9.8 minutes
+2017-11-24 06:44:08 Favorites: 4% at 41/sec for SagaUK
+2017-11-24 06:44:23 Tweets   : 82.4% at 49/sec for JSchifferes
+2017-11-24 06:44:25 Favorites: 54.5% at 38/sec for ruth_hunt
+2017-11-24 06:45:22 Favorites: Waiting for 11.9 minutes due to : Used up allowance in a loop
+2017-11-24 06:45:44 Tweets   : 3.5% at 39/sec for WMNNews
+2017-11-24 06:47:02 Tweets   : 1.4% at 41/sec for marieclaireuk
+2017-11-24 06:48:24 Tweets   : 8.2% at 39/sec for MrTCHarris
+2017-11-24 06:49:47 Tweets   : 80.7% at 38/sec for FEInsights
+2017-11-24 06:51:04 Tweets   : 12.5% at 42/sec for McLarenF1
+2017-11-24 06:52:25 Tweets   : 2.5% at 40/sec for GlamourMagUK
+2017-11-24 06:53:48 Tweets   : 24.1% at 38/sec for D2N2LEP
+2017-11-24 06:58:06 Favorites: 25.7% at 4/sec for LeightonAndrews
+2017-11-24 06:59:04 Favorites: 48.7% at 33/sec for SiobhanFenton
+2017-11-24 06:59:18 Favorites: 60% at 35/sec for PinkNews
+2017-11-24 06:59:31 Favorites: 60.1% at 37/sec for businessdeskwm
+2017-11-24 07:00:12 Favorites: 51.4% at 34/sec for ArchiloversCom
+2017-11-24 07:01:08 Favorites: Waiting for 11.4 minutes due to : Used up allowance in a loop
+2017-11-24 07:12:54 Favorites: 27.2% at 3/sec for HuddersfieldUni
+2017-11-24 07:13:03 Favorites: 60% at 32/sec for mcrMIPIM
+2017-11-24 07:14:07 Favorites: 50.4% at 34/sec for WiganCouncil
+2017-11-24 07:15:30 Favorites: 50.5% at 32/sec for WildLondon
+2017-11-24 07:15:31 Favorites: 100% at 26/sec for UKGBCPinpoint
+2017-11-24 07:16:31 Favorites: Waiting for 11.3 minutes due to : Used up allowance in a loop
+2017-11-24 07:27:22 Friends  : 33.4% at 27/sec for eliistender10
+2017-11-24 07:28:45 Favorites: 10.8% at 4/sec for damocrat
+2017-11-24 07:28:50 Favorites: 71.1% at 34/sec for ConexBanninger
+2017-11-24 07:29:32 Friends  : 96.8% at 33/sec for SianGriffiths6
+2017-11-24 07:30:03 Friends  : 99.3% at 36/sec for Sporf
+2017-11-24 07:30:28 Favorites: 18.3% at 33/sec for ddale8
+2017-11-24 07:31:47 Favorites: Waiting for 11.3 minutes due to : Used up allowance in a loop
+2017-11-24 07:32:04 Friends  : 99.8% at 34/sec for thisisamy_
+2017-11-24 07:32:28 Friends  : 98.5% at 36/sec for CharleyOrbitGrp
+2017-11-24 07:32:59 Friends  : 98.4% at 36/sec for John_A_Wade
+2017-11-24 07:34:30 Friends  : 99.9% at 37/sec for techreview
+2017-11-24 07:35:26 Friends  : 99.5% at 37/sec for patrick_kidd
+2017-11-24 07:35:57 Friends  : 100% at 35/sec for EmmausUK
+2017-11-24 07:38:34 Friends  : 98.8% at 35/sec for BizGrowthHub
+2017-11-24 07:38:43 Friends  : 99.3% at 33/sec for udlondon
+2017-11-24 07:39:35 Friends  : 99.4% at 35/sec for andrewdunning
+2017-11-24 07:41:32 Friends  : 100% at 33/sec for edinburghpaper
+2017-11-24 07:43:14 Friends  : 95.7% at 34/sec for residence9
+2017-11-24 07:43:39 Favorites: 1.7% at 4/sec for eliistender10
+2017-11-24 07:44:00 Favorites: 53.4% at 37/sec for SianGriffiths6
+2017-11-24 07:44:45 Favorites: 49.6% at 39/sec for Sporf
+2017-11-24 07:45:28 Friends  : 99.4% at 31/sec for ClaireLYoung
+2017-11-24 07:46:02 Favorites: 31.3% at 40/sec for thisisamy_
+2017-11-24 07:46:15 Favorites: 57.4% at 39/sec for CharleyOrbitGrp
+2017-11-24 07:46:28 Favorites: Waiting for 11.9 minutes due to : Used up allowance in a loop
+2017-11-24 07:47:27 Friends  : 99.9% at 31/sec for newsthump
+2017-11-24 07:48:18 Friends  : 98.6% at 32/sec for JSchifferes
+2017-11-24 07:48:50 Friends  : 99.7% at 32/sec for WMNNews
+2017-11-24 07:50:34 Friends  : 99.9% at 32/sec for marieclaireuk
+2017-11-24 07:51:07 Friends  : 98% at 34/sec for MrTCHarris
+2017-11-24 07:51:49 Friends  : 97.9% at 34/sec for FEInsights
+2017-11-24 07:59:55 Favorites: 37.1% at 4/sec for John_A_Wade
+2017-11-24 08:00:29 Favorites: Unable to find account techreview during loop number 14 moving to next loop
+[1] "Server error: (500) Internal Server Error"
+[1] "This error is likely transient, retrying up to 5 more times ..."
+2017-11-24 08:00:32 Favorites: Unable to find account techreview during loop number 15 moving to next loop
+2017-11-24 08:00:33 Favorites: Unable to find account techreview during loop number 16 moving to next loop
+2017-11-24 08:00:33 Favorites: Unable to find account techreview during loop number 17 moving to next loop
+2017-11-24 08:00:33 Favorites: Unable to find account techreview during loop number 18 moving to next loop
+2017-11-24 08:00:34 Favorites: Unable to find account techreview during loop number 19 moving to next loop
+2017-11-24 08:00:34 Favorites: Unable to find account techreview during loop number 20 moving to next loop
+2017-11-24 08:00:35 Favorites: Unable to find account techreview during loop number 21 moving to next loop
+2017-11-24 08:00:35 Favorites: Unable to find account techreview during loop number 22 moving to next loop
+[1] "Server error: (500) Internal Server Error"
+[1] "This error is likely transient, retrying up to 5 more times ..."
+2017-11-24 08:01:05 Favorites: 29.7% at 34/sec for techreview
+2017-11-24 08:01:07 Favorites: 59.5% at 37/sec for patrick_kidd
+2017-11-24 08:01:31 Favorites: 53.2% at 38/sec for EmmausUK
+2017-11-24 08:02:05 Favorites: Waiting for 11.6 minutes due to : Used up allowance in a loop
+2017-11-24 08:08:58 Friends  : 100% at 31/sec for McLarenF1
+2017-11-24 08:12:24 Friends  : 100% at 31/sec for GlamourMagUK
+2017-11-24 08:13:07 Friends  : 98.7% at 34/sec for D2N2LEP
+2017-11-24 08:14:44 Favorites: 31.8% at 4/sec for BizGrowthHub
+2017-11-24 08:14:45 Favorites: 100% at 43/sec for udlondon
+2017-11-24 08:14:50 Favorites: 57.3% at 43/sec for andrewdunning
+2017-11-24 08:15:44 Favorites: 49.1% at 42/sec for edinburghpaper
+2017-11-24 08:16:48 Favorites: Waiting for 12.2 minutes due to : Used up allowance in a loop
+2017-11-24 08:29:25 Favorites: 50.6% at 4/sec for residence9
+2017-11-24 08:29:52 Favorites: 51.2% at 46/sec for ClaireLYoung
+2017-11-24 08:29:54 Favorites: 81.1% at 54/sec for newsthump
+2017-11-24 08:30:12 Favorites: 54.2% at 44/sec for JSchifferes
+2017-11-24 08:30:16 Favorites: 56.1% at 49/sec for WMNNews
+2017-11-24 08:30:33 Favorites: 53.5% at 48/sec for marieclaireuk
+2017-11-24 08:31:02 Favorites: 52.5% at 50/sec for MrTCHarris
+2017-11-24 08:31:09 Favorites: 63.8% at 45/sec for FEInsights
+2017-11-24 08:31:51 Favorites: Waiting for 12.4 minutes due to : Used up allowance in a loop
+2017-11-24 08:44:46 Favorites: 38.4% at 4/sec for McLarenF1
+2017-11-24 08:45:06 Favorites: 49.6% at 48/sec for GlamourMagUK
+2017-11-24 08:45:21 Favorites: 55.1% at 46/sec for D2N2LEP
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+Warning messages:
+1: package 'twitteR' was built under R version 3.4.1 
+2: In twInterfaceObj$doAPICall(cmd, params, method, ...) :
+  Rate limit encountered & retry limit reached - returning partial results

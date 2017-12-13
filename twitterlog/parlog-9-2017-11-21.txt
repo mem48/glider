@@ -1,0 +1,196 @@
+starting worker pid=9960 on localhost:11271 at 20:01:26.378
+starting worker pid=5604 on localhost:11271 at 20:01:26.565
+starting worker pid=12248 on localhost:11271 at 20:01:26.740
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-21 20:01:55 Friends  : 100% at 37/sec for BloombergNEF
+2017-11-21 20:02:02 Favorites: 64.2% at 31/sec for BloombergNEF
+2017-11-21 20:02:03 Friends  : 99.2% at 30/sec for _youhadonejob1
+2017-11-21 20:02:07 Favorites: 79.9% at 41/sec for _youhadonejob1
+2017-11-21 20:02:21 Friends  : 99.5% at 35/sec for GeneralBoles
+2017-11-21 20:03:18 Tweets   : 31.4% at 47/sec for BloombergNEF
+2017-11-21 20:03:19 Friends  : 99.5% at 41/sec for alstewitn
+2017-11-21 20:03:26 Favorites: 18.8% at 38/sec for GeneralBoles
+2017-11-21 20:03:31 Favorites: Waiting for 10.8 minutes due to : Used up allowance in a loop
+2017-11-21 20:03:43 Tweets   : 25.2% at 42/sec for _youhadonejob1
+2017-11-21 20:03:49 Friends  : 98.5% at 42/sec for MichaelRosenYes
+2017-11-21 20:04:30 Friends  : 99.6% at 41/sec for MazzucatoM
+2017-11-21 20:04:30 Friends: Request of 18 exceeds the maximum of 15. Making an attemp
+Waiting will increase the number of results returned
+2017-11-21 20:04:30 Friends  : Waiting for 12.3 minutes
+2017-11-21 20:04:56 Tweets   : 7.7% at 44/sec for GeneralBoles
+2017-11-21 20:05:58 Tweets   : 1.8% at 52/sec for alstewitn
+2017-11-21 20:07:07 Tweets   : 3.1% at 46/sec for MichaelRosenYes
+2017-11-21 20:08:18 Tweets   : 21% at 45/sec for MazzucatoM
+2017-11-21 20:09:20 Tweets   : 61.1% at 52/sec for tradeshour
+2017-11-21 20:10:22 Tweets   : 1.9% at 52/sec for LivEchonews
+2017-11-21 20:11:29 Tweets   : 34.2% at 47/sec for ChathamHouse
+2017-11-21 20:12:34 Tweets   : 33.6% at 49/sec for autodesk
+2017-11-21 20:13:39 Tweets   : 5.8% at 50/sec for Sathnam
+2017-11-21 20:14:39 Favorites: 0.4% at 0/sec for alstewitn
+2017-11-21 20:14:41 Tweets   : 2.9% at 52/sec for AldiUK
+2017-11-21 20:15:11 Tweets   : 100% at 40/sec for mjparchitects
+2017-11-21 20:16:00 Favorites: 37.3% at 40/sec for MichaelRosenYes
+2017-11-21 20:16:24 Tweets   : 23.2% at 44/sec for antanddec
+2017-11-21 20:16:31 Favorites: 51.4% at 41/sec for MazzucatoM
+2017-11-21 20:16:40 Favorites: 56.5% at 45/sec for tradeshour
+2017-11-21 20:17:04 Favorites: 46.4% at 38/sec for LivEchonews
+2017-11-21 20:17:12 Favorites: 71.8% at 38/sec for ChathamHouse
+2017-11-21 20:17:41 Favorites: Waiting for 12 minutes due to : Used up allowance in a loop
+2017-11-21 20:17:41 Tweets   : 54.5% at 42/sec for CushWake
+2017-11-21 20:18:36 Tweets   : 99.8% at 49/sec for ameliagentleman
+2017-11-21 20:19:43 Tweets   : 11.4% at 48/sec for JenWilliamsMEN
+2017-11-21 20:20:50 Tweets   : 19.2% at 48/sec for KateEMcCann
+2017-11-21 20:21:51 Tweets   : 10.1% at 52/sec for Veritas_Tweets
+2017-11-21 20:22:55 Tweets   : 99.8% at 48/sec for InstituteGC
+2017-11-21 20:23:24 Tweets   : 99.9% at 39/sec for uandiplc
+2017-11-21 20:24:31 Tweets   : 20.7% at 47/sec for BarristerSecret
+2017-11-21 20:25:40 Tweets   : 1.8% at 47/sec for ukbusinessnet
+2017-11-21 20:26:45 Tweets   : 11.5% at 49/sec for LondonEconomic
+2017-11-21 20:27:56 Tweets   : 43.4% at 45/sec for SteveHilditch
+2017-11-21 20:29:09 Tweets   : 12% at 44/sec for wmdarchitecture
+2017-11-21 20:30:23 Tweets   : 78.4% at 43/sec for HyndburnHomes
+2017-11-21 20:30:27 Favorites: 51% at 3/sec for autodesk
+2017-11-21 20:31:30 Tweets   : 0.3% at 47/sec for O2
+2017-11-21 20:31:49 Favorites: 8.8% at 39/sec for Sathnam
+2017-11-21 20:32:43 Tweets   : 25.1% at 44/sec for electoralreform
+2017-11-21 20:33:05 Favorites: Waiting for 11.9 minutes due to : Used up allowance in a loop
+2017-11-21 20:33:53 Tweets   : 3.3% at 46/sec for MartinBelam
+2017-11-21 20:35:03 Tweets   : 6.9% at 46/sec for alextomo
+2017-11-21 20:35:03 Tweets   : User gallifordtryplc has a protected account or no Tweetss to collect so skipping
+2017-11-21 20:36:08 Tweets   : 68.6% at 49/sec for AnnaWinston
+2017-11-21 20:37:35 Tweets   : 20.5% at 37/sec for NPGLondon
+2017-11-21 20:38:12 Tweets   : 98.8% at 34/sec for SheppardRobson
+2017-11-21 20:39:38 Tweets   : 20.4% at 37/sec for KPMG
+2017-11-21 20:40:43 Tweets   : 99.8% at 39/sec for TritonShowers
+2017-11-21 20:42:12 Tweets   : 4.8% at 36/sec for alexmassie
+2017-11-21 20:42:32 Friends  : 83.3% at 32/sec for tradeshour
+2017-11-21 20:43:05 Friends  : 99.8% at 40/sec for LivEchonews
+2017-11-21 20:43:23 Friends  : 99.5% at 44/sec for ChathamHouse
+2017-11-21 20:43:42 Tweets   : 2.9% at 36/sec for fleetstreetfox
+2017-11-21 20:45:07 Tweets   : 25.5% at 37/sec for Nigel_Farage
+2017-11-21 20:45:13 Friends  : 100% at 40/sec for autodesk
+2017-11-21 20:45:23 Favorites: 5.5% at 4/sec for AldiUK
+2017-11-21 20:45:52 Favorites: 54.8% at 30/sec for mjparchitects
+2017-11-21 20:45:58 Favorites: 75.1% at 34/sec for antanddec
+2017-11-21 20:46:03 Friends  : 99.6% at 40/sec for Sathnam
+2017-11-21 20:46:24 Favorites: 54.1% at 34/sec for CushWake
+2017-11-21 20:46:26 Favorites: 100% at 33/sec for ameliagentleman
+2017-11-21 20:46:30 Tweets   : 2.6% at 39/sec for indiaknight
+2017-11-21 20:47:41 Favorites: 49.5% at 33/sec for JenWilliamsMEN
+2017-11-21 20:47:44 Friends  : 99.9% at 37/sec for AldiUK
+2017-11-21 20:47:59 Tweets   : 23.3% at 36/sec for benrileysmith
+2017-11-21 20:48:04 Friends  : 98.5% at 39/sec for mjparchitects
+2017-11-21 20:48:12 Favorites: 52.4% at 32/sec for KateEMcCann
+2017-11-21 20:48:22 Friends  : 99.2% at 36/sec for antanddec
+2017-11-21 20:48:36 Friends  : 99.6% at 36/sec for CushWake
+2017-11-21 20:49:02 Favorites: Waiting for 11.3 minutes due to : Used up allowance in a loop
+2017-11-21 20:49:31 Tweets   : 9.4% at 35/sec for susieclapham
+2017-11-21 20:49:39 Friends  : 99.5% at 40/sec for ameliagentleman
+2017-11-21 20:50:06 Tweets   : 100% at 36/sec for housingnet
+2017-11-21 20:50:13 Friends  : 99.3% at 39/sec for JenWilliamsMEN
+2017-11-21 20:50:52 Friends  : 99.5% at 38/sec for KateEMcCann
+2017-11-21 20:51:29 Tweets   : 8.1% at 39/sec for GeorgeAylett
+2017-11-21 20:52:52 Tweets   : 18.4% at 39/sec for StephenMangan
+2017-11-21 20:54:20 Tweets   : 22.5% at 36/sec for DementiaUK
+2017-11-21 20:55:22 Tweets   : 99.6% at 35/sec for Knauf_UK
+2017-11-21 20:55:35 Friends  : 99.6% at 38/sec for Veritas_Tweets
+2017-11-21 20:55:41 Friends  : 98.6% at 43/sec for InstituteGC
+2017-11-21 20:55:42 Friends  : Waiting for 1.9 minutes
+2017-11-21 20:56:42 Tweets   : 13.2% at 40/sec for richardpbacon
+2017-11-21 20:58:06 Tweets   : 2.1% at 38/sec for paul_steele
+2017-11-21 20:59:10 Friends  : 97.1% at 20/sec for uandiplc
+2017-11-21 20:59:32 Friends  : 98.8% at 44/sec for BarristerSecret
+2017-11-21 20:59:33 Friends: Request of 22 exceeds the maximum of 15. Making an attemp
+Waiting will increase the number of results returned
+2017-11-21 20:59:33 Friends  : Waiting for 13.2 minutes
+2017-11-21 21:01:19 Favorites: 35.6% at 4/sec for Veritas_Tweets
+2017-11-21 21:01:25 Favorites: 92.1% at 34/sec for InstituteGC
+2017-11-21 21:01:37 Favorites: 50.8% at 33/sec for uandiplc
+2017-11-21 21:03:07 Favorites: 19.3% at 36/sec for BarristerSecret
+2017-11-21 21:03:13 Favorites: 63.1% at 33/sec for ukbusinessnet
+2017-11-21 21:04:03 Favorites: Waiting for 11.6 minutes due to : Used up allowance in a loop
+2017-11-21 21:16:37 Favorites: 43.3% at 4/sec for LondonEconomic
+2017-11-21 21:16:58 Favorites: 53.5% at 34/sec for SteveHilditch
+2017-11-21 21:18:04 Favorites: 50.6% at 34/sec for wmdarchitecture
+2017-11-21 21:18:18 Favorites: 58.3% at 36/sec for HyndburnHomes
+2017-11-21 21:19:31 Favorites: Waiting for 11.4 minutes due to : Used up allowance in a loop
+2017-11-21 21:31:35 Favorites: 43% at 4/sec for O2
+2017-11-21 21:32:11 Favorites: 50.2% at 33/sec for electoralreform
+2017-11-21 21:33:47 Favorites: 6.7% at 32/sec for MartinBelam
+2017-11-21 21:33:50 Favorites: 54.3% at 34/sec for alextomo
+2017-11-21 21:33:50 Favorites: User gallifordtryplc has a protected account or no Favoritess to collect so skipping
+2017-11-21 21:33:56 Favorites: 69% at 34/sec for AnnaWinston
+2017-11-21 21:34:43 Favorites: 48.8% at 33/sec for NPGLondon
+2017-11-21 21:34:49 Favorites: 67.9% at 33/sec for SheppardRobson
+2017-11-21 21:34:52 Favorites: Waiting for 11.4 minutes due to : Used up allowance in a loop
+2017-11-21 21:44:24 Friends  : 67.7% at 27/sec for ukbusinessnet
+2017-11-21 21:47:10 Favorites: 51.4% at 2/sec for KPMG
+2017-11-21 21:47:22 Favorites: 65.2% at 34/sec for TritonShowers
+2017-11-21 21:48:05 Favorites: 49.7% at 34/sec for alexmassie
+2017-11-21 21:48:06 Favorites: 100% at 8/sec for fleetstreetfox
+2017-11-21 21:48:07 Favorites: 92.1% at 23/sec for Nigel_Farage
+2017-11-21 21:49:44 Favorites: 22.7% at 33/sec for indiaknight
+2017-11-21 21:49:53 Favorites: 52.8% at 32/sec for benrileysmith
+2017-11-21 21:50:12 Favorites: 19.2% at 31/sec for susieclapham
+2017-11-21 21:50:12 Favorites: % at /sec for housingnet
+2017-11-21 21:50:13 Favorites: % at /sec for GeorgeAylett
+2017-11-21 21:50:13 Favorites: Waiting for 11.3 minutes due to : Used up allowance in a loop
+2017-11-21 22:02:11 Favorites: 55.4% at 1/sec for StephenMangan
+2017-11-21 22:03:35 Favorites: 49.9% at 29/sec for DementiaUK
+2017-11-21 22:03:45 Favorites: 72.1% at 30/sec for Knauf_UK
+2017-11-21 22:03:48 Favorites: 80.2% at 28/sec for richardpbacon
+2017-11-21 22:05:32 Favorites: 6.5% at 30/sec for paul_steele
+2017-11-21 22:09:27 Friends  : 96.7% at 32/sec for LondonEconomic
+2017-11-21 22:09:39 Friends  : 98.4% at 30/sec for SteveHilditch
+2017-11-21 22:10:06 Friends  : 99.9% at 32/sec for wmdarchitecture
+2017-11-21 22:10:40 Friends  : 99.6% at 32/sec for HyndburnHomes
+2017-11-21 22:43:16 Friends  : 99.8% at 30/sec for O2
+2017-11-21 22:51:09 Friends  : 99.3% at 40/sec for electoralreform
+2017-11-21 22:56:40 Friends  : 99.3% at 42/sec for MartinBelam
+2017-11-21 22:57:34 Friends  : 99.7% at 40/sec for alextomo
+2017-11-21 22:57:34 Friends  : User gallifordtryplc has a protected account or no Friendss to collect so skipping
+2017-11-21 22:57:51 Friends  : 100% at 39/sec for AnnaWinston
+2017-11-21 22:58:52 Friends  : 100% at 37/sec for NPGLondon
+2017-11-21 22:59:16 Friends  : 99.7% at 42/sec for SheppardRobson
+2017-11-21 23:00:21 Friends  : 99.9% at 43/sec for KPMG
+2017-11-21 23:00:43 Friends  : 99.2% at 42/sec for TritonShowers
+2017-11-21 23:01:11 Friends  : 99.1% at 41/sec for alexmassie
+2017-11-21 23:01:45 Friends  : 99.6% at 42/sec for fleetstreetfox
+2017-11-21 23:01:54 Friends  : 99.7% at 41/sec for Nigel_Farage
+2017-11-21 23:02:57 Friends  : 99.4% at 40/sec for indiaknight
+2017-11-21 23:04:13 Friends  : 99.1% at 41/sec for benrileysmith
+2017-11-21 23:06:26 Friends  : 100% at 38/sec for susieclapham
+2017-11-21 23:06:37 Friends  : 100% at 41/sec for housingnet
+2017-11-21 23:06:38 Friends: Request of 58 exceeds the maximum of 15. Making an attemp
+Waiting will increase the number of results returned
+2017-11-21 23:06:38 Friends  : Waiting for 7.3 minutes
+2017-11-21 23:55:49 Friends  : 24.4% at 24/sec for GeorgeAylett
+2017-11-21 23:56:14 Friends  : 99.6% at 29/sec for StephenMangan
+2017-11-21 23:57:20 Friends  : 99.9% at 28/sec for DementiaUK
+2017-11-21 23:59:33 Friends  : 97.6% at 28/sec for Knauf_UK
+2017-11-22 00:00:16 Friends  : 99.8% at 28/sec for richardpbacon
+2017-11-22 00:00:16 Friends: Request of 63 exceeds the maximum of 15. Making an attemp
+Waiting will increase the number of results returned
+2017-11-22 00:00:16 Friends  : Waiting for 10.6 minutes
+2017-11-22 00:53:46 Friends  : 22.2% at 22/sec for paul_steele
+Warning messages:
+1: package 'twitteR' was built under R version 3.4.1 
+2: Warning messages:
+1: package 'twitteR' was built under R version 3.4.1 
+In twInterfaceObj$doAPICall(cmd, params, method, ...) :
+ Warning message:
+tered & retry limit reached - returning partial results
+3: In twInterfaceObj$doAPICall(cmd, params, method, ...) :2: kage 'twitteR' was built under R version 3.4.1 
+ Rate limit encountered & retry limit reached - returning partial results
+4: In twInterfaceObj$doAPICall(cmd, params, method, ...) :
+  Rate limit encountered & retry limit reached - returning partial results
+In twInterfaceObj$doAPICall(cmd, params, method, ...) :
+  Rate limit encountered & retry limit reached - returning partial results
+3: In twInterfaceObj$doAPICall(cmd, params, method, ...) :
+  Rate limit encountered & retry limit reached - returning partial results
+4: In twInterfaceObj$doAPICall(cmd, params, method, ...) :
+  Rate limit encountered & retry limit reached - returning partial results
+5: In twInterfaceObj$doAPICall(cmd, params, method, ...) :
+  Rate limit encountered & retry limit reached - returning partial results

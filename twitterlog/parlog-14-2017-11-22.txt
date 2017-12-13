@@ -1,0 +1,173 @@
+starting worker pid=14312 on localhost:11271 at 13:13:35.731
+starting worker pid=5504 on localhost:11271 at 13:13:35.987
+starting worker pid=10724 on localhost:11271 at 13:13:36.241
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-22 13:15:14 Friends  : 99.8% at 25/sec for TeachFirst
+2017-11-22 13:15:36 Favorites: 50.2% at 24/sec for TeachFirst
+2017-11-22 13:15:38 Favorites: 100% at 15/sec for thehill
+2017-11-22 13:15:46 Friends  : 99.9% at 27/sec for thehill
+2017-11-22 13:17:07 Friends  : 99.5% at 28/sec for hansmollman
+2017-11-22 13:17:16 Friends  : 97.7% at 24/sec for julianhuppert
+2017-11-22 13:17:19 Favorites: 5.4% at 30/sec for hansmollman
+2017-11-22 13:17:22 Favorites: 98% at 38/sec for julianhuppert
+2017-11-22 13:17:33 Tweets   : 27% at 30/sec for TeachFirst
+2017-11-22 13:17:34 Favorites: 59.9% at 32/sec for esmeefairbairn
+2017-11-22 13:17:53 Favorites: 55.5% at 31/sec for SimonFParker
+2017-11-22 13:17:56 Favorites: 101.7% at 23/sec for JBeattieMirror
+2017-11-22 13:17:57 Friends  : 99.8% at 29/sec for esmeefairbairn
+2017-11-22 13:19:06 Favorites: Waiting for 10.9 minutes due to : Used up allowance in a loop
+2017-11-22 13:19:14 Tweets   : 0.9% at 32/sec for thehill
+2017-11-22 13:19:32 Friends  : 99.3% at 30/sec for SimonFParker
+2017-11-22 13:19:55 Friends  : 99.3% at 37/sec for JBeattieMirror
+2017-11-22 13:20:39 Tweets   : 2.9% at 38/sec for hansmollman
+2017-11-22 13:21:12 Friends  : 96.2% at 36/sec for PeterStefanovi2
+2017-11-22 13:21:59 Tweets   : 3.8% at 40/sec for julianhuppert
+2017-11-22 13:22:39 Friends  : 100% at 35/sec for HSJnews
+2017-11-22 13:23:23 Tweets   : 99.8% at 36/sec for esmeefairbairn
+2017-11-22 13:24:56 Tweets   : 10% at 34/sec for SimonFParker
+2017-11-22 13:26:13 Tweets   : 34.9% at 41/sec for JBeattieMirror
+2017-11-22 13:27:31 Tweets   : 27% at 41/sec for PeterStefanovi2
+2017-11-22 13:28:53 Tweets   : 6.2% at 39/sec for HSJnews
+2017-11-22 13:28:57 Friends  : 100% at 33/sec for nowthisnews
+2017-11-22 13:30:09 Tweets   : 3.7% at 42/sec for nowthisnews
+2017-11-22 13:30:39 Favorites: 49% at 4/sec for PeterStefanovi2
+2017-11-22 13:30:42 Favorites: 78.1% at 36/sec for HSJnews
+2017-11-22 13:31:23 Tweets   : 6.7% at 44/sec for wikileaks
+2017-11-22 13:32:08 Tweets   : 99.6% at 42/sec for BIM4SME
+2017-11-22 13:32:09 Friends  : 99.9% at 39/sec for wikileaks
+2017-11-22 13:32:09 Favorites: 25.2% at 35/sec for nowthisnews
+2017-11-22 13:32:11 Favorites: 102.2% at 33/sec for wikileaks
+2017-11-22 13:32:23 Favorites: 53.2% at 39/sec for BIM4SME
+2017-11-22 13:32:26 Friends  : 97.8% at 44/sec for BIM4SME
+2017-11-22 13:32:53 Friends  : 99.5% at 42/sec for unitedutilities
+2017-11-22 13:33:13 Favorites: 50.4% at 37/sec for unitedutilities
+2017-11-22 13:33:14 Friends  : 99.1% at 41/sec for vicderbyshire
+2017-11-22 13:33:18 Tweets   : 5.9% at 46/sec for unitedutilities
+2017-11-22 13:33:22 Favorites: Waiting for 11.7 minutes due to : Used up allowance in a loop
+2017-11-22 13:34:11 Friends  : 99.6% at 44/sec for craigawoodhouse
+2017-11-22 13:34:30 Tweets   : 17.6% at 44/sec for vicderbyshire
+2017-11-22 13:35:32 Tweets   : 18.8% at 51/sec for craigawoodhouse
+2017-11-22 13:36:39 Tweets   : 22.7% at 48/sec for DickKingSmith
+2017-11-22 13:38:15 Tweets   : 63.5% at 33/sec for TheLastLeg
+2017-11-22 13:39:41 Tweets   : 30.9% at 37/sec for johannhari101
+2017-11-22 13:41:00 Tweets   : 3.9% at 41/sec for indy100
+2017-11-22 13:42:33 Tweets   : 43.5% at 34/sec for JonL_BaH
+2017-11-22 13:44:12 Tweets   : 37% at 32/sec for Silva
+2017-11-22 13:45:39 Tweets   : 46.4% at 37/sec for TheSocialInvest
+2017-11-22 13:45:55 Favorites: 26.5% at 3/sec for vicderbyshire
+2017-11-22 13:46:16 Favorites: 56.3% at 29/sec for craigawoodhouse
+2017-11-22 13:46:37 Friends  : 98.6% at 33/sec for DickKingSmith
+2017-11-22 13:47:12 Tweets   : 67.5% at 34/sec for Colliers_UK
+2017-11-22 13:47:18 Friends  : 99% at 33/sec for TheLastLeg
+2017-11-22 13:48:05 Favorites: 10.3% at 29/sec for DickKingSmith
+2017-11-22 13:48:11 Friends  : 99.7% at 33/sec for johannhari101
+2017-11-22 13:48:25 Friends  : 99.5% at 31/sec for indy100
+2017-11-22 13:48:53 Tweets   : 20.7% at 32/sec for AndrewBloch
+2017-11-22 13:49:07 Friends  : 98.8% at 31/sec for JonL_BaH
+2017-11-22 13:49:10 Favorites: Waiting for 10.9 minutes due to : Used up allowance in a loop
+2017-11-22 13:49:52 Friends  : 99.7% at 34/sec for Silva
+2017-11-22 13:50:28 Tweets   : 54.8% at 33/sec for Avaaz
+2017-11-22 13:51:50 Friends  : 100% at 39/sec for TheSocialInvest
+2017-11-22 13:51:54 Tweets   : 25.4% at 38/sec for jon_bartley
+2017-11-22 13:52:17 Friends  : 99.7% at 43/sec for Colliers_UK
+2017-11-22 13:52:42 Friends  : 99.3% at 38/sec for AndrewBloch
+2017-11-22 13:53:32 Tweets   : 23.5% at 32/sec for volansjohn
+2017-11-22 13:55:21 Tweets   : 4.3% at 29/sec for naomitimperley
+2017-11-22 13:56:02 Tweets   : 99.7% at 37/sec for LeeEvansArchs
+2017-11-22 13:56:48 Friends  : 99.8% at 40/sec for Avaaz
+2017-11-22 13:57:19 Tweets   : 27.3% at 41/sec for alantravis40
+2017-11-22 13:58:07 Tweets   : 99.9% at 38/sec for Amazing_Maps
+2017-11-22 13:58:38 Friends  : 99.2% at 39/sec for jon_bartley
+2017-11-22 13:59:04 Friends  : 99.6% at 43/sec for volansjohn
+2017-11-22 13:59:04 Friends  : Waiting for 3.3 minutes
+2017-11-22 13:59:22 Tweets   : 71.3% at 43/sec for PHHSl
+2017-11-22 14:00:32 Tweets   : 37.6% at 46/sec for KTNUK
+2017-11-22 14:00:36 Favorites: 30.1% at 4/sec for TheLastLeg
+2017-11-22 14:00:39 Favorites: 80.1% at 50/sec for johannhari101
+2017-11-22 14:00:41 Favorites: 95.7% at 36/sec for indy100
+2017-11-22 14:01:11 Favorites: 49.8% at 40/sec for JonL_BaH
+2017-11-22 14:01:24 Favorites: 52.2% at 38/sec for Silva
+2017-11-22 14:01:29 Favorites: 72.5% at 36/sec for TheSocialInvest
+2017-11-22 14:01:33 Tweets   : 7.9% at 52/sec for CampaignBrands
+2017-11-22 14:01:34 Favorites: 59.6% at 45/sec for Colliers_UK
+2017-11-22 14:02:33 Favorites: 49.7% at 39/sec for AndrewBloch
+2017-11-22 14:02:40 Tweets   : 2.5% at 48/sec for holland_tom
+2017-11-22 14:03:04 Favorites: Waiting for 12 minutes due to : Used up allowance in a loop
+2017-11-22 14:03:51 Tweets   : 1.7% at 45/sec for almurray
+2017-11-22 14:04:52 Tweets   : 18.6% at 52/sec for Autism
+2017-11-22 14:05:59 Tweets   : 55.4% at 48/sec for GeorgianGroup
+2017-11-22 14:07:11 Tweets   : 38.7% at 44/sec for NICEcomms
+2017-11-22 14:08:22 Tweets   : 6.8% at 45/sec for mrdanwalker
+2017-11-22 14:09:23 Tweets   : 2.5% at 52/sec for Pandamoanimum
+2017-11-22 14:10:32 Tweets   : 24.6% at 46/sec for Oakmasters
+2017-11-22 14:10:56 Friends  : 98.6% at 33/sec for naomitimperley
+2017-11-22 14:11:01 Friends  : 99.5% at 43/sec for LeeEvansArchs
+2017-11-22 14:11:36 Tweets   : 84.1% at 42/sec for bldgblog
+2017-11-22 14:11:44 Friends  : 99.4% at 44/sec for alantravis40
+2017-11-22 14:11:44 Friends  : User Amazing_Maps has a protected account or no Friendss to collect so skipping
+2017-11-22 14:11:44 Friends  : Waiting for 5.7 minutes
+2017-11-22 14:12:40 Tweets   : 9.9% at 50/sec for OliverKamm
+2017-11-22 14:13:40 Tweets   : 8.3% at 54/sec for energyenviro
+2017-11-22 14:14:48 Tweets   : 27.1% at 47/sec for GNev2
+2017-11-22 14:15:12 Favorites: 50.6% at 2/sec for Avaaz
+2017-11-22 14:15:36 Favorites: 49.6% at 43/sec for jon_bartley
+2017-11-22 14:15:50 Favorites: 57.1% at 37/sec for volansjohn
+2017-11-22 14:15:58 Tweets   : 17.1% at 46/sec for theAliceRoberts
+Error in twInterfaceObj$doAPICall(cmd, params, method, ...) : 
+  Service Unavailable (HTTP 503).
+In addition: Warning message:
+package 'twitteR' was built under R version 3.4.1 
+2017-11-22 14:16:05 Tweets: Unable to find account PaulPolman moving to next
+2017-11-22 14:16:05 Tweets   : % at /sec for PaulPolman
+2017-11-22 14:17:07 Tweets   : 6.6% at 52/sec for antoniabance
+2017-11-22 14:17:07 Favorites: 10% at 42/sec for naomitimperley
+2017-11-22 14:17:13 Favorites: 58.8% at 36/sec for LeeEvansArchs
+2017-11-22 14:17:15 Favorites: 63.4% at 49/sec for alantravis40
+2017-11-22 14:17:58 Favorites: Waiting for 12.1 minutes due to : Used up allowance in a loop
+2017-11-22 14:30:28 Favorites: 48.9% at 4/sec for Amazing_Maps
+2017-11-22 14:30:57 Favorites: 50.5% at 34/sec for PHHSl
+2017-11-22 14:31:05 Favorites: 58.1% at 38/sec for KTNUK
+2017-11-22 14:31:29 Favorites: 50.7% at 37/sec for CampaignBrands
+2017-11-22 14:32:26 Favorites: 50.2% at 38/sec for holland_tom
+2017-11-22 14:32:43 Favorites: 50.2% at 39/sec for almurray
+2017-11-22 14:33:20 Favorites: Waiting for 11.8 minutes due to : Used up allowance in a loop
+2017-11-22 14:33:48 Friends  : 96.4% at 32/sec for PHHSl
+2017-11-22 14:35:20 Friends  : 99.7% at 46/sec for KTNUK
+2017-11-22 14:38:01 Friends  : 100% at 41/sec for CampaignBrands
+2017-11-22 14:38:26 Friends  : 98.9% at 40/sec for holland_tom
+2017-11-22 14:38:58 Friends  : 99% at 40/sec for almurray
+2017-11-22 14:40:10 Friends  : 99.9% at 46/sec for Autism
+2017-11-22 14:41:18 Friends  : 99% at 47/sec for GeorgianGroup
+2017-11-22 14:41:39 Friends  : 99.4% at 45/sec for NICEcomms
+2017-11-22 14:42:03 Friends  : 99.8% at 44/sec for mrdanwalker
+2017-11-22 14:42:21 Friends  : 99.4% at 44/sec for Pandamoanimum
+2017-11-22 14:44:00 Friends  : 97.5% at 45/sec for Oakmasters
+2017-11-22 14:44:14 Friends  : 99.6% at 43/sec for bldgblog
+2017-11-22 14:44:37 Friends  : 99.6% at 42/sec for OliverKamm
+2017-11-22 14:44:37 Friends  : Waiting for 4.3 minutes
+2017-11-22 14:45:23 Favorites: 31.4% at 3/sec for Autism
+2017-11-22 14:45:27 Favorites: 89.3% at 43/sec for GeorgianGroup
+2017-11-22 14:45:31 Favorites: 61.3% at 50/sec for NICEcomms
+2017-11-22 14:45:56 Favorites: 49.3% at 41/sec for mrdanwalker
+2017-11-22 14:47:12 Favorites: 24.4% at 41/sec for Pandamoanimum
+2017-11-22 14:48:01 Favorites: 50.6% at 40/sec for Oakmasters
+2017-11-22 14:48:01 Favorites: Waiting for 12.1 minutes due to : Used up allowance in a loop
+2017-11-22 15:01:38 Favorites: 11.7% at 4/sec for bldgblog
+2017-11-22 15:02:00 Favorites: 55.1% at 35/sec for OliverKamm
+2017-11-22 15:02:41 Favorites: 50.5% at 34/sec for energyenviro
+2017-11-22 15:02:55 Favorites: 60.8% at 35/sec for GNev2
+2017-11-22 15:03:32 Friends  : 95% at 28/sec for energyenviro
+2017-11-22 15:03:37 Favorites: Waiting for 11.5 minutes due to : Used up allowance in a loop
+2017-11-22 15:03:52 Friends  : 98.6% at 33/sec for GNev2
+2017-11-22 15:04:17 Friends  : 98.8% at 38/sec for theAliceRoberts
+2017-11-22 15:04:23 Friends  : 98.8% at 31/sec for PaulPolman
+2017-11-22 15:05:03 Friends  : 99.4% at 33/sec for antoniabance
+2017-11-22 15:15:52 Favorites: 18.2% at 4/sec for theAliceRoberts
+2017-11-22 15:15:55 Favorites: 89% at 31/sec for PaulPolman
+2017-11-22 15:17:16 Favorites: 49.7% at 36/sec for antoniabance
+Warning message:
+Warning message:
+was built under R version 3.4.1 
+package 'twitteR' was built under R version 3.4.1 

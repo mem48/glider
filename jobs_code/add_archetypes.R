@@ -1,11 +1,11 @@
 #Add Archteypes
 
-combined_2013 <- readRDS("data/combined_2013_base.Rds")
+combined_2013 <- readRDS("../jobs_data/combined_2013_base.Rds")
 
 
 
 #Asign Energy Architype
-energy_arch <- read.csv("data/energy_archetype_13.csv", stringsAsFactors = FALSE)
+energy_arch <- read.csv("../jobs_data/energy_archetype_13.csv", stringsAsFactors = FALSE)
 
 combined_2013$energytyp <- NA
 combined_2013$Finchtyp <- as.character(combined_2013$Finchtyp)
@@ -21,7 +21,7 @@ combined_2013$energytyp <- as.factor(combined_2013$energytyp)
 summary(combined_2013$energytyp)
 
 #General Architype
-general_arch <- read.csv("data/general_archetypes_13.csv", stringsAsFactors = FALSE)
+general_arch <- read.csv("../jobs_data/general_archetypes_13.csv", stringsAsFactors = FALSE)
 
 combined_2013$generaltyp <- NA
 combined_2013$type <- as.character(combined_2013$type)
@@ -40,7 +40,7 @@ combined_2013$generaltyp <- as.factor(combined_2013$generaltyp)
 summary(combined_2013$generaltyp)
 
 #Roof Architype
-roof_arch <- read.csv("data/roof_archetypes_13.csv", stringsAsFactors = FALSE)
+roof_arch <- read.csv("../jobs_data/roof_archetypes_13.csv", stringsAsFactors = FALSE)
 
 combined_2013$rooftyp <- NA
 combined_2013$typerstr <- as.character(combined_2013$typerstr)
@@ -55,7 +55,7 @@ combined_2013$rooftyp <- as.factor(combined_2013$rooftyp)
 summary(combined_2013$rooftyp)
 
 #Solar Architype
-solar_arch <- read.csv("data/solar_archetypes_13.csv", stringsAsFactors = FALSE)
+solar_arch <- read.csv("../jobs_data/solar_archetypes_13.csv", stringsAsFactors = FALSE)
 
 combined_2013$solartyp <- NA
 combined_2013$SolarSuit <- as.character(combined_2013$SolarSuit)
@@ -70,7 +70,7 @@ combined_2013$solartyp <- as.factor(combined_2013$solartyp)
 summary(combined_2013$solartyp)
 
 #Wall Architype
-wall_arch <- read.csv("data/wall_archetypes_13.csv", stringsAsFactors = FALSE)
+wall_arch <- read.csv("../jobs_data/wall_archetypes_13.csv", stringsAsFactors = FALSE)
 
 combined_2013$walltyp <- NA
 combined_2013$typewstr2 <- as.character(combined_2013$typewstr2)
@@ -85,7 +85,7 @@ combined_2013$walltyp <- as.factor(combined_2013$walltyp)
 summary(combined_2013$walltyp)
 
 #Window Architype
-win_arch <- read.csv("data/window_archetypes_13.csv", stringsAsFactors = FALSE)
+win_arch <- read.csv("../jobs_data/window_archetypes_13.csv", stringsAsFactors = FALSE)
 
 combined_2013$wintyp <- NA
 combined_2013$dblglaz4 <- as.character(combined_2013$dblglaz4)
@@ -100,7 +100,7 @@ combined_2013$wintyp <- as.factor(combined_2013$wintyp)
 summary(combined_2013$wintyp)
 
 #Floor Architype
-floor_arch <- read.csv("data/floor_archetypes_13.csv", stringsAsFactors = FALSE)
+floor_arch <- read.csv("../jobs_data/floor_archetypes_13.csv", stringsAsFactors = FALSE)
 
 combined_2013$floortyp <- NA
 combined_2013$floorcons <- as.character(combined_2013$floorcons)
@@ -146,4 +146,4 @@ plot(sel$count[order(-sel$count)])
 sum(sel$count)
 
 
-saveRDS(combined_2013,"data/combined_2013_arch.Rds")
+saveRDS(combined_2013,"../jobs_data/combined_2013_arch.Rds")

@@ -1,0 +1,189 @@
+starting worker pid=7868 on localhost:11271 at 06:52:17.001
+starting worker pid=13388 on localhost:11271 at 06:52:17.173
+starting worker pid=14296 on localhost:11271 at 06:52:17.341
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-22 06:53:07 Favorites: 100% at 38/sec for LGALocalism
+2017-11-22 06:54:19 Friends  : 99.8% at 38/sec for LGALocalism
+2017-11-22 06:54:19 Friends  : User womensart1 has a protected account or no Friendss to collect so skipping
+2017-11-22 06:54:31 Favorites: 22.1% at 38/sec for womensart1
+2017-11-22 06:54:45 Tweets   : 68.5% at 43/sec for LGALocalism
+2017-11-22 06:54:46 Friends  : 99.3% at 45/sec for HuntArchitects
+2017-11-22 06:55:21 Favorites: 50.6% at 39/sec for HuntArchitects
+2017-11-22 06:55:34 Friends  : 97.9% at 39/sec for owenhatherley
+2017-11-22 06:55:45 Friends  : 98.8% at 40/sec for PhilCoffey
+2017-11-22 06:55:56 Tweets   : 20.1% at 45/sec for womensart1
+2017-11-22 06:56:06 Favorites: Waiting for 12 minutes due to : Used up allowance in a loop
+2017-11-22 06:56:07 Friends  : 100% at 41/sec for Davos
+2017-11-22 06:56:08 Friends  : Waiting for 5.5 minutes
+2017-11-22 06:57:10 Tweets   : 53.9% at 43/sec for HuntArchitects
+2017-11-22 06:58:18 Tweets   : 8.1% at 46/sec for owenhatherley
+2017-11-22 06:59:31 Tweets   : 75.8% at 44/sec for PhilCoffey
+2017-11-22 07:00:32 Tweets   : 9.8% at 53/sec for Davos
+2017-11-22 07:01:14 Tweets   : 100% at 46/sec for UKSupremeCourt
+2017-11-22 07:01:51 Friends  : 100% at 0/sec for UKSupremeCourt
+2017-11-22 07:02:21 Tweets   : 4.3% at 47/sec for gracedent
+2017-11-22 07:03:16 Friends  : 98.9% at 40/sec for gracedent
+2017-11-22 07:03:22 Friends  : 91.8% at 26/sec for IOSH_tweets
+2017-11-22 07:03:23 Friends: Request of 17 exceeds the maximum of 15. Making an attemp
+Waiting will increase the number of results returned
+2017-11-22 07:03:23 Friends  : Waiting for 13.5 minutes
+2017-11-22 07:03:23 Tweets   : 24.5% at 51/sec for IOSH_tweets
+2017-11-22 07:04:27 Tweets   : 3.5% at 50/sec for Red_Web_Design
+2017-11-22 07:05:22 Tweets   : 99.3% at 41/sec for dhsspares
+2017-11-22 07:06:26 Tweets   : 3.4% at 49/sec for robfordmancs
+2017-11-22 07:07:29 Tweets   : 7% at 51/sec for GreenBizWorld
+2017-11-22 07:08:10 Tweets   : 99.5% at 45/sec for dannydorling
+2017-11-22 07:08:48 Favorites: 12.9% at 3/sec for owenhatherley
+2017-11-22 07:09:07 Favorites: 50.3% at 40/sec for PhilCoffey
+2017-11-22 07:09:20 Tweets   : 72.3% at 45/sec for SAVEBrit
+2017-11-22 07:10:18 Favorites: 21.8% at 44/sec for Davos
+2017-11-22 07:10:18 Favorites: User UKSupremeCourt has a protected account or no Favoritess to collect so skipping
+2017-11-22 07:10:24 Tweets   : 21.3% at 50/sec for NSoames
+2017-11-22 07:11:11 Favorites: Waiting for 12.2 minutes due to : Used up allowance in a loop
+2017-11-22 07:11:30 Tweets   : 41.2% at 48/sec for EnergistUK
+2017-11-22 07:12:41 Tweets   : 15.3% at 45/sec for SchSocEnt
+2017-11-22 07:13:48 Tweets   : 45.3% at 48/sec for AndrewCities
+2017-11-22 07:14:53 Tweets   : 37.7% at 49/sec for WYeates
+2017-11-22 07:16:07 Tweets   : 58.8% at 43/sec for CEMEX_UK
+2017-11-22 07:17:05 Tweets   : 7.6% at 55/sec for journalismnews
+2017-11-22 07:18:08 Tweets   : 9.4% at 51/sec for SamiraAhmedUK
+2017-11-22 07:19:20 Tweets   : 6.9% at 44/sec for alicebell
+2017-11-22 07:20:20 Tweets   : 34.1% at 53/sec for BritSafe
+2017-11-22 07:21:28 Tweets   : 7.4% at 47/sec for SophiaCannon
+2017-11-22 07:22:41 Tweets   : 40.5% at 44/sec for StopFundingHate
+2017-11-22 07:23:41 Tweets   : 99.7% at 53/sec for CALAHOMES
+2017-11-22 07:24:08 Favorites: 37.8% at 4/sec for gracedent
+2017-11-22 07:24:23 Favorites: 52.7% at 40/sec for IOSH_tweets
+2017-11-22 07:24:44 Tweets   : 98.7% at 50/sec for ProtecDirect
+2017-11-22 07:25:43 Favorites: 10.2% at 41/sec for Red_Web_Design
+2017-11-22 07:25:52 Favorites: 65.8% at 40/sec for dhsspares
+2017-11-22 07:26:02 Tweets   : 26.7% at 41/sec for ChrisMBowes
+2017-11-22 07:26:43 Favorites: Waiting for 12 minutes due to : Used up allowance in a loop
+2017-11-22 07:27:05 Tweets   : 38.2% at 51/sec for LichfieldsUK
+2017-11-22 07:27:38 Tweets   : 99.7% at 43/sec for ThamesmeadLDN
+2017-11-22 07:28:41 Tweets   : 1.6% at 51/sec for Inc
+2017-11-22 07:29:47 Tweets   : 31.6% at 49/sec for macmillancoffee
+2017-11-22 07:30:49 Tweets   : 20.6% at 52/sec for Caroline_Torus
+2017-11-22 07:31:54 Tweets   : 25.7% at 49/sec for ChrisMoyles
+2017-11-22 07:33:08 Tweets   : 34.6% at 43/sec for ChildrensComm
+2017-11-22 07:34:11 Tweets   : 10.2% at 50/sec for RichardDawkins
+2017-11-22 07:35:25 Tweets   : 8.1% at 44/sec for asabenn
+2017-11-22 07:36:14 Tweets   : 99.9% at 36/sec for WiPUK
+2017-11-22 07:37:17 Tweets   : 25.2% at 51/sec for mrjohnofarrell
+2017-11-22 07:38:23 Tweets   : 7.5% at 48/sec for WikiGuido
+2017-11-22 07:39:18 Tweets   : 99.9% at 44/sec for GreenSpecUK
+2017-11-22 07:39:33 Favorites: 45.8% at 4/sec for robfordmancs
+2017-11-22 07:39:33 Favorites: User GreenBizWorld has a protected account or no Favoritess to collect so skipping
+2017-11-22 07:39:35 Favorites: 98.6% at 40/sec for dannydorling
+2017-11-22 07:39:55 Favorites: 51.1% at 38/sec for SAVEBrit
+2017-11-22 07:40:15 Favorites: 54.5% at 39/sec for NSoames
+2017-11-22 07:40:24 Tweets   : 3.6% at 49/sec for ReutersUK
+2017-11-22 07:41:27 Tweets   : 1.6% at 51/sec for TNLUK
+2017-11-22 07:42:02 Favorites: 38.3% at 30/sec for EnergistUK
+2017-11-22 07:42:37 Favorites: Waiting for 11.4 minutes due to : Used up allowance in a loop
+2017-11-22 07:42:57 Tweets   : 11.7% at 35/sec for Real_Business
+2017-11-22 07:44:05 Friends  : 87.5% at 30/sec for Red_Web_Design
+2017-11-22 07:44:10 Tweets   : 15.3% at 44/sec for LeedsCC_News
+2017-11-22 07:45:08 Tweets   : 44.9% at 55/sec for manwhohasitall
+2017-11-22 07:46:22 Tweets   : 7.6% at 44/sec for GranadaReports
+2017-11-22 07:46:38 Friends  : 95.9% at 44/sec for dhsspares
+2017-11-22 07:47:18 Friends  : 99% at 43/sec for robfordmancs
+2017-11-22 07:47:18 Friends: Request of 16 exceeds the maximum of 15. Making an attemp
+Waiting will increase the number of results returned
+2017-11-22 07:47:18 Friends  : Waiting for 11.8 minutes
+2017-11-22 07:47:38 Tweets   : 26.3% at 42/sec for arikring
+2017-11-22 07:55:03 Favorites: 50.4% at 4/sec for SchSocEnt
+2017-11-22 07:55:04 Favorites: 107.1% at 25/sec for AndrewCities
+2017-11-22 07:55:31 Favorites: 52.4% at 43/sec for WYeates
+2017-11-22 07:56:23 Favorites: 50.6% at 42/sec for CEMEX_UK
+2017-11-22 07:56:42 Favorites: 52.1% at 42/sec for journalismnews
+2017-11-22 07:57:21 Favorites: Waiting for 12 minutes due to : Used up allowance in a loop
+2017-11-22 08:09:45 Favorites: 50.6% at 2/sec for SamiraAhmedUK
+2017-11-22 08:10:41 Favorites: 50.7% at 39/sec for alicebell
+2017-11-22 08:11:38 Favorites: 49.8% at 42/sec for BritSafe
+2017-11-22 08:12:00 Favorites: 0.2% at 41/sec for SophiaCannon
+2017-11-22 08:12:40 Favorites: Waiting for 12 minutes due to : Used up allowance in a loop
+2017-11-22 08:25:25 Favorites: 50.3% at 3/sec for StopFundingHate
+2017-11-22 08:25:40 Favorites: 53.9% at 40/sec for CALAHOMES
+2017-11-22 08:25:45 Favorites: 65.7% at 39/sec for ProtecDirect
+2017-11-22 08:26:08 Favorites: 52.8% at 39/sec for ChrisMBowes
+2017-11-22 08:26:22 Favorites: 58.1% at 42/sec for LichfieldsUK
+2017-11-22 08:26:30 Favorites: 62.8% at 38/sec for ThamesmeadLDN
+2017-11-22 08:26:48 Favorites: 55.3% at 40/sec for Inc
+2017-11-22 08:27:36 Friends  : 97.9% at 31/sec for GreenBizWorld
+2017-11-22 08:27:39 Friends  : 100% at 33/sec for dannydorling
+2017-11-22 08:28:09 Favorites: Waiting for 11.9 minutes due to : Used up allowance in a loop
+2017-11-22 08:28:12 Friends  : 99.1% at 41/sec for SAVEBrit
+2017-11-22 08:28:45 Friends  : 99.4% at 49/sec for NSoames
+2017-11-22 08:29:18 Friends  : 99.3% at 50/sec for EnergistUK
+2017-11-22 08:31:36 Friends  : 99.8% at 47/sec for SchSocEnt
+2017-11-22 08:31:50 Friends  : 99.4% at 50/sec for AndrewCities
+2017-11-22 08:35:06 Friends  : 98.4% at 49/sec for WYeates
+2017-11-22 08:35:34 Friends  : 99.6% at 47/sec for CEMEX_UK
+2017-11-22 08:35:34 Friends: Request of 18 exceeds the maximum of 15. Making an attemp
+Waiting will increase the number of results returned
+2017-11-22 08:35:34 Friends  : Waiting for 7.1 minutes
+2017-11-22 08:40:21 Favorites: 13.1% at 4/sec for macmillancoffee
+2017-11-22 08:41:39 Favorites: 23.1% at 40/sec for Caroline_Torus
+2017-11-22 08:41:44 Favorites: 65.8% at 39/sec for ChrisMoyles
+2017-11-22 08:42:19 Favorites: 52.9% at 40/sec for ChildrensComm
+2017-11-22 08:42:21 Favorites: 97% at 45/sec for RichardDawkins
+2017-11-22 08:43:32 Favorites: 49% at 34/sec for asabenn
+2017-11-22 08:43:34 Favorites: 100% at 34/sec for WiPUK
+2017-11-22 08:44:28 Favorites: 46.5% at 33/sec for mrjohnofarrell
+2017-11-22 08:44:28 Favorites: Waiting for 10.9 minutes due to : Used up allowance in a loop
+2017-11-22 08:56:22 Favorites: 50.1% at 2/sec for WikiGuido
+2017-11-22 08:56:25 Favorites: 83.9% at 41/sec for GreenSpecUK
+2017-11-22 08:56:25 Favorites: 87.5% at 13/sec for ReutersUK
+2017-11-22 08:57:44 Favorites: 48.6% at 32/sec for TNLUK
+2017-11-22 08:58:58 Favorites: 50.5% at 32/sec for Real_Business
+2017-11-22 08:59:14 Favorites: 52% at 32/sec for LeedsCC_News
+2017-11-22 09:00:41 Favorites: Waiting for 10 minutes due to : Used up allowance in a loop
+2017-11-22 09:11:11 Favorites: 13.5% at 4/sec for manwhohasitall
+2017-11-22 09:11:37 Favorites: 49.6% at 31/sec for GranadaReports
+2017-11-22 09:13:17 Favorites: 2.5% at 32/sec for arikring
+2017-11-22 09:28:36 Friends  : 99.9% at 28/sec for journalismnews
+2017-11-22 09:32:14 Friends  : 99.2% at 32/sec for SamiraAhmedUK
+2017-11-22 09:32:49 Friends  : 99.6% at 31/sec for alicebell
+2017-11-22 09:33:30 Friends  : 99.4% at 31/sec for BritSafe
+2017-11-22 09:39:07 Friends  : 99.2% at 29/sec for SophiaCannon
+2017-11-22 09:40:25 Friends  : 97.6% at 32/sec for StopFundingHate
+2017-11-22 09:40:48 Friends  : 99.9% at 31/sec for CALAHOMES
+2017-11-22 09:45:33 Friends  : 99.7% at 31/sec for ProtecDirect
+2017-11-22 09:48:01 Friends  : 98.6% at 32/sec for ChrisMBowes
+2017-11-22 09:49:02 Friends  : 99.4% at 32/sec for LichfieldsUK
+2017-11-22 09:49:15 Friends  : 99.2% at 30/sec for ThamesmeadLDN
+2017-11-22 09:50:08 Friends  : 100% at 32/sec for Inc
+2017-11-22 09:50:28 Friends  : 99.8% at 28/sec for macmillancoffee
+2017-11-22 09:51:39 Friends  : 99.1% at 30/sec for Caroline_Torus
+2017-11-22 09:51:46 Friends  : 100% at 31/sec for ChrisMoyles
+2017-11-22 09:52:26 Friends  : 99.7% at 30/sec for ChildrensComm
+2017-11-22 09:52:39 Friends  : 100% at 29/sec for RichardDawkins
+2017-11-22 09:54:12 Friends  : 99.4% at 34/sec for asabenn
+2017-11-22 09:54:23 Friends  : 99.5% at 35/sec for WiPUK
+2017-11-22 09:55:04 Friends  : 99.4% at 38/sec for mrjohnofarrell
+2017-11-22 09:56:05 Friends  : 99.1% at 35/sec for WikiGuido
+2017-11-22 09:56:30 Friends  : 99.9% at 38/sec for GreenSpecUK
+2017-11-22 09:56:42 Friends  : 100% at 39/sec for ReutersUK
+2017-11-22 09:56:42 Friends  : Waiting for 3.9 minutes
+2017-11-22 10:01:52 Friends  : 100% at 6/sec for TNLUK
+2017-11-22 10:03:50 Friends  : 99.7% at 30/sec for Real_Business
+2017-11-22 10:04:02 Friends  : 97.7% at 29/sec for LeedsCC_News
+2017-11-22 10:04:26 Friends  : 99.4% at 30/sec for manwhohasitall
+2017-11-22 10:11:40 Friends  : 99.9% at 28/sec for GranadaReports
+2017-11-22 10:11:40 Friends  : Waiting for 4.2 minutes
+2017-11-22 10:50:26 Friends  : 96.1% at 25/sec for arikring
+Warning messages:
+1: package 'twitteR' was built under R version 3.4.1 
+2: In twInterfaceObj$doAPICall(cmd, params, method, ...) :
+  Rate limit encountered & retry limit reached - returning partial results
+3: In twInterfaceObj$doAPICall(cmd, params, method, ...) :
+  Rate limit encountered & retry limit reached - returning partial results
+Warning messages:
+1: package 'twitteR' was built under R version 3.4.1 
+2: In twInterfaceObj$doAPICall(cmd, params, method, ...) :
+  Rate limit encountered & retry limit reached - returning partial results
+Warning message:
+package 'twitteR' was built under R version 3.4.1 

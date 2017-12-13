@@ -1480,3 +1480,343 @@ Error in rbind(deparse.level, ...) :
 2017-11-20 12:47:35 Doing batch 300: Getting account details
 2017-11-20 12:47:45 50/50 users  @ 5.2 users/second
 2017-11-20 12:47:50 Doing batch 300: Starting Cluster
+2017-11-20 13:38:46 Doing batch 300: Cleaning Results
+2017-11-20 13:46:06 Doing batch 301: Getting account details
+2017-11-20 13:46:16 50/50 users  @ 4.9 users/second
+2017-11-20 13:46:17 Doing batch 301: Starting Cluster
+
+Warning message:
+package ‘twitteR’ was built under R version 3.4.1 
+
+
+> accounts <- read.csv("../twitter_data/parRerun/round3_accounts.csv", stringsAsFactors = F)
+> View(accounts)
+> accounts <- accounts$x
+> source("secrets.R")
+[1] "Using direct authentication"
+> source("functions.R")
+> results <- get.SNAdata(accounts, temp.fld = "F:/Twitter/ThirdRound", batch.start = 1, trim = TRUE)
+2017-11-20 15:26:18 To get 2739 accounts will require 55 batches of up to 50
+2017-11-20 15:26:18 Doing batch 1: Getting account details
+2017-11-20 15:26:22 Users: Unable to find account bisgovuk moving to next account
+2017-11-20 15:26:26 Users: Unable to find account 1010 moving to next account
+2017-11-20 15:26:28 48/50 users  @ 4.7 users/second
+2017-11-20 15:26:29 Doing batch 1: Starting Cluster
+2017-11-20 17:10:28 Doing batch 1: Cleaning Results
+2017-11-20 17:10:38 Doing batch 2: Getting account details
+2017-11-20 17:10:49 50/50 users  @ 4.7 users/second
+2017-11-20 17:10:50 Doing batch 2: Starting Cluster
+2017-11-20 20:02:49 Doing batch 2: Cleaning Results
+2017-11-20 20:03:08 Doing batch 3: Getting account details
+2017-11-20 20:03:19 50/50 users  @ 4.6 users/second
+2017-11-20 20:03:19 Doing batch 3: Starting Cluster
+2017-11-20 23:41:40 Doing batch 3: Cleaning Results
+2017-11-20 23:42:21 Doing batch 4: Getting account details
+2017-11-20 23:42:31 50/50 users  @ 5.1 users/second
+2017-11-20 23:42:31 Doing batch 4: Starting Cluster
+2017-11-21 02:55:28 Doing batch 4: Cleaning Results
+2017-11-21 02:56:15 Doing batch 5: Getting account details
+2017-11-21 02:56:25 50/50 users  @ 5.2 users/second
+2017-11-21 02:56:25 Doing batch 5: Starting Cluster
+2017-11-21 05:53:33 Doing batch 5: Cleaning Results
+2017-11-21 05:54:22 Doing batch 6: Getting account details
+2017-11-21 05:54:31 50/50 users  @ 5.3 users/second
+2017-11-21 05:54:32 Doing batch 6: Starting Cluster
+ Hide Traceback
+ 
+ Rerun with Debug
+ Error in checkForRemoteErrors(val) : 
+  one node produced an error: Send failure: Connection was reset 
+5.
+stop("one node produced an error: ", firstmsg, domain = NA) 
+4.
+checkForRemoteErrors(val) 
+3.
+staticClusterApply(cl, fun, length(x), argfun) 
+2.
+clusterApply(cl, tasks, function(f) f()) at functions.R#439
+1.
+get.SNAdata(accounts, temp.fld = "F:/Twitter/ThirdRound", batch.start = 1, 
+    trim = TRUE) 
+> source("secrets.R")
+[1] "Using direct authentication"
+> source("functions.R")
+> accounts <- read.csv("../twitter_data/parRerun/round3_accounts.csv", stringsAsFactors = F)
+> accounts <- accounts$x
+> results <- get.SNAdata(accounts, temp.fld = "F:/Twitter/ThirdRound", batch.start = 6, trim = TRUE)
+2017-11-21 12:24:11 To get 2739 accounts will require 55 batches of up to 50
+2017-11-21 12:24:11 Doing batch 6: Getting account details
+2017-11-21 12:24:22 50/50 users  @ 4.9 users/second
+2017-11-21 12:24:22 Doing batch 6: Starting Cluster
+2017-11-21 15:38:24 Doing batch 6: Cleaning Results
+2017-11-21 15:38:36 Doing batch 7: Getting account details
+2017-11-21 15:39:04 50/50 users  @ 1.8 users/second
+2017-11-21 15:39:04 Doing batch 7: Starting Cluster
+2017-11-21 17:40:31 Doing batch 7: Cleaning Results
+2017-11-21 17:40:50 Doing batch 8: Getting account details
+2017-11-21 17:40:51 Users: Unable to find account nickatkin_hht moving to next account
+2017-11-21 17:41:00 49/50 users  @ 5.2 users/second
+2017-11-21 17:41:00 Doing batch 8: Starting Cluster
+2017-11-21 20:00:49 Doing batch 8: Cleaning Results
+2017-11-21 20:01:16 Doing batch 9: Getting account details
+2017-11-21 20:01:26 50/50 users  @ 5.1 users/second
+2017-11-21 20:01:26 Doing batch 9: Starting Cluster
+2017-11-22 00:53:49 Doing batch 9: Cleaning Results
+2017-11-22 00:54:33 Doing batch 10: Getting account details
+2017-11-22 00:54:43 50/50 users  @ 5.2 users/second
+2017-11-22 00:54:43 Doing batch 10: Starting Cluster
+2017-11-22 04:25:36 Doing batch 10: Cleaning Results
+Error in rbind(deparse.level, ...) : 
+  numbers of columns of arguments do not match
+In addition: Warning messages:
+1: In .getClassesFromCache(Class) :
+  closing unused connection 8 (<-LIDA-PC-104667.ds.leeds.ac.uk:11271)
+2: In .getClassesFromCache(Class) :
+  closing unused connection 7 (<-LIDA-PC-104667.ds.leeds.ac.uk:11271)
+3: In .getClassesFromCache(Class) :
+  closing unused connection 6 (<-LIDA-PC-104667.ds.leeds.ac.uk:11271)
+4: In .getClassesFromCache(Class) :
+  closing unused connection 5 (<-LIDA-PC-104667.ds.leeds.ac.uk:11271)
+5: In .getClassesFromCache(Class) :
+  closing unused connection 4 (<-LIDA-PC-104667.ds.leeds.ac.uk:11271)
+6: In .getClassesFromCache(Class) :
+  closing unused connection 3 (<-LIDA-PC-104667.ds.leeds.ac.uk:11271)
+2017-11-22 04:25:36 Out1 Rbind Fail saving result
+2017-11-22 04:26:36 Doing batch 11: Getting account details
+2017-11-22 04:26:48 50/50 users  @ 4.2 users/second
+2017-11-22 04:26:48 Doing batch 11: Starting Cluster
+2017-11-22 06:51:18 Doing batch 11: Cleaning Results
+2017-11-22 06:52:04 Doing batch 12: Getting account details
+2017-11-22 06:52:16 50/50 users  @ 4.1 users/second
+2017-11-22 06:52:16 Doing batch 12: Starting Cluster
+2017-11-22 10:50:37 Doing batch 12: Cleaning Results
+2017-11-22 10:51:58 Doing batch 13: Getting account details
+2017-11-22 10:52:10 50/50 users  @ 4.1 users/second
+2017-11-22 10:52:10 Doing batch 13: Starting Cluster
+2017-11-22 13:12:04 Doing batch 13: Cleaning Results
+2017-11-22 13:13:24 Doing batch 14: Getting account details
+2017-11-22 13:13:30 Users: Unable to find account _DanCaesar moving to next account
+2017-11-22 13:13:34 49/50 users  @ 4.7 users/second
+2017-11-22 13:13:35 Doing batch 14: Starting Cluster
+2017-11-22 15:17:18 Doing batch 14: Cleaning Results
+2017-11-22 15:18:34 Doing batch 15: Getting account details
+2017-11-22 15:18:45 50/50 users  @ 4.7 users/second
+2017-11-22 15:18:45 Doing batch 15: Starting Cluster
+2017-11-22 17:46:42 Doing batch 15: Cleaning Results
+2017-11-22 17:48:03 Doing batch 16: Getting account details
+2017-11-22 17:48:13 50/50 users  @ 4.8 users/second
+2017-11-22 17:48:13 Doing batch 16: Starting Cluster
+2017-11-22 20:43:16 Doing batch 16: Cleaning Results
+2017-11-22 20:45:13 Doing batch 17: Getting account details
+2017-11-22 20:45:23 50/50 users  @ 5 users/second
+2017-11-22 20:45:23 Doing batch 17: Starting Cluster
+2017-11-22 23:22:13 Doing batch 17: Cleaning Results
+2017-11-22 23:23:44 Doing batch 18: Getting account details
+2017-11-22 23:23:53 50/50 users  @ 5.1 users/second
+2017-11-22 23:23:54 Doing batch 18: Starting Cluster
+2017-11-23 01:40:48 Doing batch 18: Cleaning Results
+2017-11-23 01:42:27 Doing batch 19: Getting account details
+2017-11-23 01:42:37 50/50 users  @ 5 users/second
+2017-11-23 01:42:37 Doing batch 19: Starting Cluster
+2017-11-23 04:49:38 Doing batch 19: Cleaning Results
+2017-11-23 04:51:29 Doing batch 20: Getting account details
+2017-11-23 04:51:38 50/50 users  @ 5.4 users/second
+2017-11-23 04:51:38 Doing batch 20: Starting Cluster
+2017-11-23 07:54:06 Doing batch 20: Cleaning Results
+2017-11-23 07:56:00 Doing batch 21: Getting account details
+2017-11-23 07:56:14 50/50 users  @ 3.7 users/second
+2017-11-23 07:56:14 Doing batch 21: Starting Cluster
+2017-11-23 10:28:09 Doing batch 21: Cleaning Results
+2017-11-23 10:30:13 Doing batch 22: Getting account details
+2017-11-23 10:30:22 50/50 users  @ 5.4 users/second
+2017-11-23 10:30:22 Doing batch 22: Starting Cluster
+2017-11-23 12:57:48 Doing batch 22: Cleaning Results
+2017-11-23 13:00:37 Doing batch 23: Getting account details
+2017-11-23 13:00:47 50/50 users  @ 4.9 users/second
+2017-11-23 13:00:47 Doing batch 23: Starting Cluster
+2017-11-23 15:12:58 Doing batch 23: Cleaning Results
+2017-11-23 15:15:47 Doing batch 24: Getting account details
+2017-11-23 15:15:57 50/50 users  @ 4.9 users/second
+2017-11-23 15:15:58 Doing batch 24: Starting Cluster
+ Hide Traceback
+ 
+ Rerun with Debug
+ Error in unserialize(node$con) : error reading from connection 
+8.
+unserialize(node$con) 
+7.
+recvData.SOCKnode(con) 
+6.
+recvData(con) 
+5.
+FUN(X[[i]], ...) 
+4.
+lapply(cl[1:jobs], recvResult) 
+3.
+staticClusterApply(cl, fun, length(x), argfun) 
+2.
+clusterApply(cl, tasks, function(f) f()) at functions.R#439
+1.
+get.SNAdata(accounts, temp.fld = "F:/Twitter/ThirdRound", batch.start = 6, 
+    trim = TRUE) 
+> results <- get.SNAdata(accounts, temp.fld = "F:/Twitter/ThirdRound", batch.start = 24, trim = TRUE)
+2017-11-23 17:24:21 To get 2739 accounts will require 55 batches of up to 50
+2017-11-23 17:24:21 Doing batch 24: Getting account details
+2017-11-23 17:24:32 50/50 users  @ 4.7 users/second
+2017-11-23 17:24:46 Doing batch 24: Starting Cluster
+2017-11-23 19:45:55 Doing batch 24: Cleaning Results
+2017-11-23 19:46:02 Doing batch 25: Getting account details
+2017-11-23 19:46:03 Users: Unable to find account andyburnhammp moving to next account
+2017-11-23 19:46:12 49/50 users  @ 4.9 users/second
+2017-11-23 19:46:13 Doing batch 25: Starting Cluster
+2017-11-23 22:03:42 Doing batch 25: Cleaning Results
+2017-11-23 22:04:02 Doing batch 26: Getting account details
+2017-11-23 22:04:13 50/50 users  @ 4.5 users/second
+2017-11-23 22:04:14 Doing batch 26: Starting Cluster
+2017-11-24 00:37:09 Doing batch 26: Cleaning Results
+2017-11-24 00:37:30 Doing batch 27: Getting account details
+2017-11-24 00:37:32 Users: Unable to find account GregBarkerMP moving to next account
+2017-11-24 00:37:40 49/50 users  @ 5 users/second
+2017-11-24 00:37:40 Doing batch 27: Starting Cluster
+2017-11-24 02:39:15 Doing batch 27: Cleaning Results
+2017-11-24 02:39:51 Doing batch 28: Getting account details
+2017-11-24 02:40:01 50/50 users  @ 5.4 users/second
+2017-11-24 02:40:01 Doing batch 28: Starting Cluster
+2017-11-24 05:44:33 Doing batch 28: Cleaning Results
+2017-11-24 05:45:15 Doing batch 29: Getting account details
+2017-11-24 05:45:24 50/50 users  @ 5.4 users/second
+2017-11-24 05:45:24 Doing batch 29: Starting Cluster
+2017-11-24 08:45:22 Doing batch 29: Cleaning Results
+2017-11-24 08:46:03 Doing batch 30: Getting account details
+2017-11-24 08:46:12 50/50 users  @ 5.6 users/second
+2017-11-24 08:46:12 Doing batch 30: Starting Cluster
+2017-11-24 11:34:13 Doing batch 30: Cleaning Results
+2017-11-24 11:35:10 Doing batch 31: Getting account details
+2017-11-24 11:35:20 50/50 users  @ 5.3 users/second
+2017-11-24 11:35:20 Doing batch 31: Starting Cluster
+2017-11-24 14:03:22 Doing batch 31: Cleaning Results
+2017-11-24 14:04:31 Doing batch 32: Getting account details
+2017-11-24 14:04:41 50/50 users  @ 4.8 users/second
+2017-11-24 14:04:42 Doing batch 32: Starting Cluster
+2017-11-24 16:49:10 Doing batch 32: Cleaning Results
+2017-11-24 16:50:21 Doing batch 33: Getting account details
+2017-11-24 16:50:28 Users: Unable to find account BritishMonarchy moving to next account
+2017-11-24 16:50:33 49/50 users  @ 4.2 users/second
+2017-11-24 16:50:38 Doing batch 33: Starting Cluster
+2017-11-24 19:31:52 Doing batch 33: Cleaning Results
+2017-11-24 19:32:57 Doing batch 34: Getting account details
+2017-11-24 19:32:59 Users: Unable to find account JonLand24 moving to next account
+2017-11-24 19:33:07 49/50 users  @ 5 users/second
+2017-11-24 19:33:07 Doing batch 34: Starting Cluster
+2017-11-24 22:19:33 Doing batch 34: Cleaning Results
+2017-11-24 22:20:48 Doing batch 35: Getting account details
+2017-11-24 22:20:50 Users: Unable to find account CNRebeccaEvans moving to next account
+2017-11-24 22:20:58 49/50 users  @ 4.9 users/second
+2017-11-24 22:20:58 Doing batch 35: Starting Cluster
+2017-11-25 01:21:29 Doing batch 35: Cleaning Results
+2017-11-25 01:22:53 Doing batch 36: Getting account details
+2017-11-25 01:23:03 50/50 users  @ 5.2 users/second
+2017-11-25 01:23:03 Doing batch 36: Starting Cluster
+2017-11-25 03:38:55 Doing batch 36: Cleaning Results
+2017-11-25 03:40:21 Doing batch 37: Getting account details
+2017-11-25 03:40:26 Users: Unable to find account matthancockmp moving to next account
+2017-11-25 03:40:30 49/50 users  @ 5.5 users/second
+2017-11-25 03:40:30 Doing batch 37: Starting Cluster
+2017-11-25 06:37:35 Doing batch 37: Cleaning Results
+2017-11-25 06:39:12 Doing batch 38: Getting account details
+2017-11-25 06:39:16 Users: Unable to find account KevinW_Wulvern moving to next account
+2017-11-25 06:39:20 49/50 users  @ 5.5 users/second
+2017-11-25 06:39:21 Doing batch 38: Starting Cluster
+2017-11-25 08:52:04 Doing batch 38: Cleaning Results
+2017-11-25 08:53:43 Doing batch 39: Getting account details
+2017-11-25 08:53:45 Users: Unable to find account CMBIMPLUS moving to next account
+2017-11-25 08:53:45 Users: Unable to find account GordonPatAccent moving to next account
+2017-11-25 08:53:47 Users: Unable to find account BorisOrbitGroup moving to next account
+2017-11-25 08:53:51 47/50 users  @ 5.5 users/second
+2017-11-25 08:53:55 Doing batch 39: Starting Cluster
+2017-11-25 11:36:39 Doing batch 39: Cleaning Results
+2017-11-25 11:38:22 Doing batch 40: Getting account details
+2017-11-25 11:38:32 50/50 users  @ 5.3 users/second
+2017-11-25 11:38:32 Doing batch 40: Starting Cluster
+2017-11-25 13:53:07 Doing batch 40: Cleaning Results
+2017-11-25 13:54:56 Doing batch 41: Getting account details
+2017-11-25 13:54:58 Users: Unable to find account natfedClaire moving to next account
+2017-11-25 13:55:10 49/50 users  @ 3.6 users/second
+2017-11-25 13:55:10 Doing batch 41: Starting Cluster
+2017-11-25 16:51:40 Doing batch 41: Cleaning Results
+2017-11-25 16:53:34 Doing batch 42: Getting account details
+2017-11-25 16:53:42 Users: Unable to find account RichardHowardPX moving to next account
+2017-11-25 16:53:44 49/50 users  @ 5.1 users/second
+2017-11-25 16:53:44 Doing batch 42: Starting Cluster
+2017-11-25 19:41:40 Doing batch 42: Cleaning Results
+2017-11-25 19:43:45 Doing batch 43: Getting account details
+2017-11-25 19:43:54 50/50 users  @ 5.4 users/second
+2017-11-25 19:43:55 Doing batch 43: Starting Cluster
+2017-11-25 21:43:03 Doing batch 43: Cleaning Results
+2017-11-25 21:45:20 Doing batch 44: Getting account details
+2017-11-25 21:45:42 Users: Unable to find account PRHullltd moving to next account
+2017-11-25 21:45:45 49/50 users  @ 1.9 users/second
+2017-11-25 21:45:45 Doing batch 44: Starting Cluster
+2017-11-26 00:26:13 Doing batch 44: Cleaning Results
+2017-11-26 00:28:24 Doing batch 45: Getting account details
+2017-11-26 00:28:33 50/50 users  @ 5.6 users/second
+2017-11-26 00:28:46 Doing batch 45: Starting Cluster
+2017-11-26 02:43:25 Doing batch 45: Cleaning Results
+2017-11-26 02:45:44 Doing batch 46: Getting account details
+2017-11-26 02:45:53 50/50 users  @ 5.6 users/second
+2017-11-26 02:45:53 Doing batch 46: Starting Cluster
+2017-11-26 05:56:34 Doing batch 46: Cleaning Results
+2017-11-26 05:58:57 Doing batch 47: Getting account details
+2017-11-26 05:59:06 Users: Unable to find account App4England moving to next account
+2017-11-26 05:59:07 49/50 users  @ 5 users/second
+2017-11-26 05:59:07 Doing batch 47: Starting Cluster
+2017-11-26 08:26:18 Doing batch 47: Cleaning Results
+2017-11-26 08:28:45 Doing batch 48: Getting account details
+2017-11-26 08:28:49 Users: Unable to find account shadestation moving to next account
+2017-11-26 08:28:52 Users: Unable to find account BRUFMA moving to next account
+2017-11-26 08:28:54 48/50 users  @ 5.2 users/second
+2017-11-26 08:28:54 Doing batch 48: Starting Cluster
+2017-11-26 10:47:33 Doing batch 48: Cleaning Results
+2017-11-26 10:50:06 Doing batch 49: Getting account details
+2017-11-26 10:50:16 50/50 users  @ 5.3 users/second
+2017-11-26 10:50:16 Doing batch 49: Starting Cluster
+2017-11-26 13:03:27 Doing batch 49: Cleaning Results
+2017-11-26 13:06:03 Doing batch 50: Getting account details
+2017-11-26 13:06:10 Users: Unable to find account bshf moving to next account
+2017-11-26 13:06:12 49/50 users  @ 5.4 users/second
+2017-11-26 13:06:13 Doing batch 50: Starting Cluster
+2017-11-26 15:47:18 Doing batch 50: Cleaning Results
+2017-11-26 15:50:00 Doing batch 51: Getting account details
+2017-11-26 15:50:03 Users: Unable to find account Alix_Riverside moving to next account
+2017-11-26 15:50:06 Users: Unable to find account wgcs_community moving to next account
+2017-11-26 15:50:10 48/50 users  @ 4.4 users/second
+2017-11-26 15:50:11 Doing batch 51: Starting Cluster
+2017-11-26 18:18:33 Doing batch 51: Cleaning Results
+2017-11-26 18:21:20 Doing batch 52: Getting account details
+2017-11-26 18:21:30 50/50 users  @ 5.1 users/second
+2017-11-26 18:21:30 Doing batch 52: Starting Cluster
+2017-11-26 20:34:06 Doing batch 52: Cleaning Results
+2017-11-26 20:36:57 Doing batch 53: Getting account details
+2017-11-26 20:37:07 Users: Unable to find account The_Envist moving to next account
+2017-11-26 20:37:10 49/50 users  @ 3.7 users/second
+2017-11-26 20:37:10 Doing batch 53: Starting Cluster
+2017-11-26 23:32:56 Doing batch 53: Cleaning Results
+2017-11-26 23:36:03 Doing batch 54: Getting account details
+2017-11-26 23:36:10 Users: Unable to find account NIACEhq moving to next account
+2017-11-26 23:36:13 49/50 users  @ 5.1 users/second
+2017-11-26 23:36:13 Doing batch 54: Starting Cluster
+2017-11-27 02:17:11 Doing batch 54: Cleaning Results
+2017-11-27 02:20:12 Doing batch 55: Getting account details
+2017-11-27 02:20:19 Users: Unable to find account AndyWilliamsLHT moving to next account
+2017-11-27 02:20:19 38/39 users  @ 5 users/second
+2017-11-27 02:20:20 Doing batch 55: Starting Cluster
+2017-11-27 03:49:47 Doing batch 55: Cleaning Results
+2017-11-27 03:52:50 data gathered for 2739 users 
+Warning messages:
+1: In if (is.character(class2)) class2Def <- getClassDef(class2, .classDefEnv(class1Def)) else { :
+  closing unused connection 5 (<-LIDA-PC-104667.ds.leeds.ac.uk:11271)
+2: In if (is.character(class2)) class2Def <- getClassDef(class2, .classDefEnv(class1Def)) else { :
+  closing unused connection 4 (<-LIDA-PC-104667.ds.leeds.ac.uk:11271)
+3: In if (is.character(class2)) class2Def <- getClassDef(class2, .classDefEnv(class1Def)) else { :
+  closing unused connection 3 (<-LIDA-PC-104667.ds.leeds.ac.uk:11271)
+> 

@@ -1,0 +1,6 @@
+starting worker pid=8312 on localhost:11271 at 13:46:17.430
+starting worker pid=5280 on localhost:11271 at 13:46:17.674
+starting worker pid=9700 on localhost:11271 at 13:46:17.916
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"

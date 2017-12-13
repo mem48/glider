@@ -1,0 +1,172 @@
+starting worker pid=8744 on localhost:11271 at 12:47:50.323
+starting worker pid=12236 on localhost:11271 at 12:47:50.526
+starting worker pid=12240 on localhost:11271 at 12:47:50.717
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-20 12:52:16 Friends  : 92.1% at 35/sec for smartgassurrey
+2017-11-20 12:52:18 Friends  : 100% at 41/sec for SmartHeaterEu
+2017-11-20 12:52:37 Friends  : 99.6% at 12/sec for SmartPlumbLdn
+2017-11-20 12:55:02 Friends  : 94.2% at 32/sec for SmithsEP_UK
+2017-11-20 12:55:07 Friends  : 98.8% at 43/sec for solargeouk
+2017-11-20 12:55:32 Friends  : 100% at 31/sec for solarwallyork
+2017-11-20 12:55:48 Friends  : 97.6% at 32/sec for SomersetGas
+2017-11-20 12:56:15 Favorites: 54.5% at 35/sec for smartgassurrey
+2017-11-20 12:56:21 Favorites: 100% at 5/sec for SmartHeaterEu
+2017-11-20 12:56:22 Favorites: 100% at 37/sec for SmartPlumbLdn
+2017-11-20 12:56:24 Friends  : 88.4% at 25/sec for SpirotechFranS
+2017-11-20 12:56:45 Friends  : 88.7% at 31/sec for SpirotechUK
+2017-11-20 12:56:51 Favorites: 54.3% at 24/sec for SmithsEP_UK
+2017-11-20 12:56:51 Favorites: 100% at 12/sec for solargeouk
+2017-11-20 12:56:58 Favorites: 51.9% at 14/sec for solarwallyork
+2017-11-20 12:56:59 Favorites: 100% at 43/sec for SomersetGas
+2017-11-20 12:57:05 Favorites: 72% at 49/sec for SpirotechFranS
+2017-11-20 12:57:30 Favorites: 54.4% at 32/sec for SpirotechUK
+2017-11-20 12:57:31 Favorites: 100% at 40/sec for SPTaylor2
+2017-11-20 12:57:38 Favorites: 100% at 10/sec for SSB787
+2017-11-20 12:57:38 Favorites: 100% at 20/sec for SSRIB
+2017-11-20 12:57:42 Favorites: 71.3% at 51/sec for StagPete
+2017-11-20 12:57:42 Favorites: User statusheating has a protected account or no Favoritess to collect so skipping
+2017-11-20 12:57:42 Favorites: User StaunchandFlow has a protected account or no Favoritess to collect so skipping
+2017-11-20 12:57:45 Favorites: 61.6% at 43/sec for StaxTradeCentrs
+2017-11-20 12:57:52 Favorites: 61.5% at 14/sec for stewart007
+2017-11-20 12:57:53 Favorites: 100% at 41/sec for SthStaffsWater
+2017-11-20 12:57:53 Favorites: 100% at 7/sec for StreetlyGas
+2017-11-20 12:57:57 Favorites: 88.8% at 49/sec for StructureHaus
+2017-11-20 12:57:58 Favorites: 100% at 16/sec for stuartmac_PHG
+2017-11-20 12:57:59 Favorites: 100% at 36/sec for StuartTurnerLtd
+2017-11-20 12:58:00 Favorites: 90.9% at 35/sec for suttonboilers
+2017-11-20 12:58:01 Favorites: 95.6% at 49/sec for SwaleHeating
+2017-11-20 12:58:36 Friends  : 100% at 28/sec for SPTaylor2
+2017-11-20 12:58:40 Friends  : 100% at 39/sec for SSB787
+2017-11-20 12:59:07 Favorites: 50.3% at 31/sec for SwannPlumbing
+2017-11-20 12:59:07 Favorites: User swindgaservices has a protected account or no Favoritess to collect so skipping
+2017-11-20 12:59:08 Favorites: 100% at 47/sec for SWSolutions1
+2017-11-20 12:59:14 Favorites: 100% at 0/sec for Sylvadale
+2017-11-20 12:59:15 Favorites: 100% at 25/sec for t_heating
+2017-11-20 12:59:15 Favorites: User TapworksUK has a protected account or no Favoritess to collect so skipping
+2017-11-20 12:59:17 Favorites: 84% at 45/sec for TCPlumbingGas
+2017-11-20 12:59:18 Favorites: 100% at 18/sec for TecSupplies
+2017-11-20 12:59:19 Favorites: 100% at 43/sec for teesvalleyph
+2017-11-20 12:59:20 Favorites: 97.8% at 51/sec for TeslaUK
+2017-11-20 12:59:23 Favorites: Waiting for 11.5 minutes due to : Used up allowance in a loop
+2017-11-20 12:59:45 Friends  : 100% at 30/sec for SSRIB
+2017-11-20 13:00:08 Friends  : 99.3% at 26/sec for StagPete
+2017-11-20 13:00:09 Friends  : 100% at 12/sec for statusheating
+2017-11-20 13:00:17 Friends  : 100% at 23/sec for StaunchandFlow
+2017-11-20 13:00:17 Friends  : Waiting for 6.5 minutes
+2017-11-20 13:00:36 Tweets   : 100.1% at 30/sec for smartgassurrey
+2017-11-20 13:00:46 Tweets   : 100% at 25/sec for SmartHeaterEu
+2017-11-20 13:00:53 Tweets   : 100% at 10/sec for SmartPlumbLdn
+2017-11-20 13:02:28 Tweets   : 49.7% at 34/sec for SmithsEP_UK
+2017-11-20 13:02:41 Tweets   : 100% at 16/sec for solargeouk
+2017-11-20 13:03:17 Tweets   : 99.1% at 36/sec for solarwallyork
+2017-11-20 13:03:26 Tweets   : 100% at 23/sec for SomersetGas
+2017-11-20 13:03:40 Tweets   : 100% at 17/sec for SpirotechFranS
+2017-11-20 13:04:18 Tweets   : 99.9% at 36/sec for SpirotechUK
+2017-11-20 13:04:42 Tweets   : 100% at 25/sec for SPTaylor2
+2017-11-20 13:04:50 Tweets   : 100% at 17/sec for SSB787
+2017-11-20 13:05:15 Tweets   : 100% at 29/sec for SSRIB
+2017-11-20 13:06:21 Tweets   : 99.6% at 37/sec for StagPete
+2017-11-20 13:06:37 Tweets   : 100% at 22/sec for statusheating
+2017-11-20 13:06:44 Tweets   : 100% at 14/sec for StaunchandFlow
+2017-11-20 13:07:22 Tweets   : 99.6% at 28/sec for StaxTradeCentrs
+2017-11-20 13:07:41 Friends  : 99.7% at 3/sec for StaxTradeCentrs
+2017-11-20 13:07:52 Friends  : 95.5% at 27/sec for stewart007
+2017-11-20 13:08:01 Tweets   : 99.4% at 32/sec for stewart007
+2017-11-20 13:08:04 Friends  : 99.4% at 29/sec for SthStaffsWater
+2017-11-20 13:08:13 Friends  : 100% at 26/sec for StreetlyGas
+2017-11-20 13:08:51 Friends  : 96% at 34/sec for StructureHaus
+2017-11-20 13:08:51 Tweets   : 99.8% at 37/sec for SthStaffsWater
+2017-11-20 13:08:54 Friends  : 100% at 39/sec for stuartmac_PHG
+2017-11-20 13:08:56 Friends  : 100% at 44/sec for StuartTurnerLtd
+2017-11-20 13:09:11 Tweets   : 100% at 3/sec for StreetlyGas
+2017-11-20 13:09:17 Tweets   : 100% at 4/sec for StructureHaus
+2017-11-20 13:09:24 Tweets   : 100% at 5/sec for stuartmac_PHG
+2017-11-20 13:09:31 Friends  : 100% at 35/sec for suttonboilers
+2017-11-20 13:09:39 Tweets   : 100% at 20/sec for StuartTurnerLtd
+2017-11-20 13:09:48 Tweets   : 98% at 22/sec for suttonboilers
+2017-11-20 13:09:49 Friends  : 98.7% at 25/sec for SwaleHeating
+2017-11-20 13:10:36 Tweets   : 99.8% at 37/sec for SwaleHeating
+2017-11-20 13:10:40 Friends  : 98.7% at 33/sec for SwannPlumbing
+2017-11-20 13:10:42 Friends  : 100% at 34/sec for swindgaservices
+2017-11-20 13:10:45 Friends  : 100% at 40/sec for SWSolutions1
+2017-11-20 13:10:53 Friends  : 100% at 22/sec for Sylvadale
+2017-11-20 13:10:56 Friends  : 100% at 41/sec for t_heating
+2017-11-20 13:11:06 Friends  : 100% at 23/sec for TapworksUK
+2017-11-20 13:11:07 Friends  : Waiting for 10.8 minutes
+2017-11-20 13:12:04 Tweets   : 23.7% at 36/sec for SwannPlumbing
+2017-11-20 13:12:04 Favorites: 49.7% at 3/sec for TetraFlow
+2017-11-20 13:12:10 Tweets   : 100% at 1/sec for swindgaservices
+2017-11-20 13:12:56 Favorites: 49.7% at 33/sec for Thames21
+2017-11-20 13:13:05 Tweets   : 99.8% at 34/sec for SWSolutions1
+2017-11-20 13:13:13 Tweets   : 100% at 12/sec for Sylvadale
+2017-11-20 13:13:16 Tweets   : 100% at 27/sec for t_heating
+2017-11-20 13:13:16 Tweets   : Waiting for 1.9 minutes
+2017-11-20 13:13:24 Favorites: 50.4% at 34/sec for thameswater
+2017-11-20 13:13:34 Favorites: 51.4% at 32/sec for the_rentr_app
+2017-11-20 13:13:34 Favorites: 100% at 3/sec for theblueplumber
+2017-11-20 13:13:38 Favorites: 46.4% at 50/sec for thehvacrshow
+2017-11-20 13:13:38 Favorites: 100% at 22/sec for TheRadiatorCo
+2017-11-20 13:13:39 Favorites: 100% at 32/sec for theresa_may
+2017-11-20 13:13:46 Favorites: 55.4% at 26/sec for TheWaterLabel
+2017-11-20 13:13:47 Favorites: 100% at 10/sec for ThickettsPlumb
+2017-11-20 13:13:47 Favorites: 100% at 2/sec for TKIengineers
+2017-11-20 13:14:08 Favorites: 49.2% at 33/sec for toolfair
+2017-11-20 13:14:09 Favorites: 100% at 31/sec for TplPlumbing
+2017-11-20 13:14:09 Favorites: User Trade_parts has a protected account or no Favoritess to collect so skipping
+2017-11-20 13:14:14 Favorites: 54.6% at 55/sec for tradechemuk
+2017-11-20 13:14:19 Favorites: 100% at 7/sec for TradesmenLondon
+2017-11-20 13:15:18 Tweets   : 100% at 1/sec for TapworksUK
+2017-11-20 13:15:35 Tweets   : 100% at 23/sec for TCPlumbingGas
+2017-11-20 13:15:59 Tweets   : 100% at 22/sec for TecSupplies
+2017-11-20 13:16:07 Tweets   : 100% at 13/sec for teesvalleyph
+2017-11-20 13:16:15 Tweets   : 100% at 20/sec for TeslaUK
+2017-11-20 13:17:03 Tweets   : 99.8% at 35/sec for TetraFlow
+2017-11-20 13:18:29 Tweets   : 35.7% at 37/sec for Thames21
+2017-11-20 13:19:49 Tweets   : 5.2% at 40/sec for thameswater
+2017-11-20 13:20:48 Tweets   : 100% at 37/sec for the_rentr_app
+2017-11-20 13:20:59 Tweets   : 100% at 2/sec for theblueplumber
+2017-11-20 13:21:33 Tweets   : 99.7% at 34/sec for thehvacrshow
+2017-11-20 13:21:50 Tweets   : 99.4% at 22/sec for TheRadiatorCo
+2017-11-20 13:22:07 Friends  : 99.7% at 0/sec for TCPlumbingGas
+2017-11-20 13:22:07 Tweets   : 99.7% at 22/sec for theresa_may
+2017-11-20 13:22:12 Friends  : 100% at 42/sec for TecSupplies
+Error in twInterfaceObj$doAPICall(paste("users", "show", sep = "/"), params = params,  : 
+  Not Found (HTTP 404).
+In addition: Warning message:
+package 'twitteR' was built under R version 3.4.1 
+2017-11-20 13:22:13 Friends: Unable to find account teesvalleyph moving to next
+2017-11-20 13:22:13 Friends  : % at /sec for teesvalleyph
+2017-11-20 13:22:44 Tweets   : 100% at 27/sec for TheWaterLabel
+2017-11-20 13:22:46 Friends  : 93.9% at 28/sec for TeslaUK
+2017-11-20 13:22:50 Tweets   : 100% at 5/sec for ThickettsPlumb
+2017-11-20 13:22:50 Tweets   : User TKIengineers has a protected account or no Tweetss to collect so skipping
+2017-11-20 13:24:27 Tweets   : 66.2% at 33/sec for toolfair
+2017-11-20 13:24:33 Tweets   : 100% at 7/sec for TplPlumbing
+2017-11-20 13:24:40 Tweets   : 100% at 6/sec for Trade_parts
+2017-11-20 13:25:21 Friends  : 99.2% at 32/sec for TetraFlow
+2017-11-20 13:25:28 Tweets   : 99.5% at 32/sec for tradechemuk
+2017-11-20 13:26:20 Tweets   : 100% at 32/sec for TradesmenLondon
+2017-11-20 13:26:50 Friends  : 99% at 32/sec for Thames21
+2017-11-20 13:26:57 Friends  : 99.1% at 15/sec for thameswater
+2017-11-20 13:27:15 Friends  : 96% at 36/sec for the_rentr_app
+2017-11-20 13:27:16 Friends  : 100% at 25/sec for theblueplumber
+2017-11-20 13:27:52 Friends  : 100% at 32/sec for thehvacrshow
+2017-11-20 13:29:13 Friends  : 99.8% at 30/sec for TheRadiatorCo
+2017-11-20 13:29:13 Friends  : User theresa_may has a protected account or no Friendss to collect so skipping
+2017-11-20 13:29:26 Friends  : 98.7% at 32/sec for TheWaterLabel
+2017-11-20 13:29:36 Friends  : 100% at 22/sec for ThickettsPlumb
+2017-11-20 13:29:40 Friends  : 99.4% at 42/sec for TKIengineers
+2017-11-20 13:30:24 Friends  : 94.7% at 29/sec for toolfair
+2017-11-20 13:30:27 Friends  : 96.7% at 39/sec for TplPlumbing
+2017-11-20 13:30:27 Friends  : Waiting for 6.5 minutes
+2017-11-20 13:37:16 Friends  : 100% at 1/sec for Trade_parts
+2017-11-20 13:38:14 Friends  : 99.7% at 30/sec for tradechemuk
+2017-11-20 13:38:45 Friends  : 98.7% at 29/sec for TradesmenLondon
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+Warning messages:
+1: package 'twitteR' was built under R version 3.4.1 
+2: In twInterfaceObj$doAPICall(cmd, params, method, ...) :
+  Rate limit encountered & retry limit reached - returning partial results

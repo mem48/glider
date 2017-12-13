@@ -1,0 +1,180 @@
+starting worker pid=14688 on localhost:11271 at 19:33:07.437
+starting worker pid=4516 on localhost:11271 at 19:33:07.599
+starting worker pid=5508 on localhost:11271 at 19:33:07.760
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-24 19:34:01 Friends  : 98.5% at 37/sec for carolvorders
+2017-11-24 19:34:51 Favorites: 51.4% at 41/sec for carolvorders
+2017-11-24 19:35:53 Tweets   : 9.4% at 51/sec for carolvorders
+2017-11-24 19:36:05 Favorites: 1.1% at 43/sec for UKRunChat
+2017-11-24 19:36:31 Favorites: 49.5% at 42/sec for YSPsculpture
+2017-11-24 19:36:55 Tweets   : 2.1% at 51/sec for UKRunChat
+2017-11-24 19:37:09 Favorites: Waiting for 12.1 minutes due to : Used up allowance in a loop
+2017-11-24 19:37:57 Tweets   : 24.4% at 52/sec for YSPsculpture
+2017-11-24 19:39:04 Tweets   : 43.9% at 48/sec for sricketts1
+2017-11-24 19:40:13 Tweets   : 13.4% at 46/sec for redrumlisa
+2017-11-24 19:41:14 Tweets   : 19.9% at 53/sec for everywomanUK
+2017-11-24 19:41:25 Friends  : 98.8% at 44/sec for UKRunChat
+2017-11-24 19:42:04 Tweets   : 99.7% at 53/sec for Place_chat
+2017-11-24 19:42:13 Friends  : 99.8% at 54/sec for YSPsculpture
+2017-11-24 19:42:40 Friends  : 98.7% at 47/sec for sricketts1
+2017-11-24 19:42:50 Tweets   : 100% at 50/sec for FirstBathroom
+2017-11-24 19:43:44 Friends  : 98.6% at 44/sec for redrumlisa
+2017-11-24 19:43:54 Tweets   : 86.5% at 50/sec for kings_of_heat
+2017-11-24 19:44:58 Tweets   : 40.6% at 50/sec for wessexwater
+2017-11-24 19:46:04 Tweets   : 50.4% at 49/sec for rafredarrows
+2017-11-24 19:46:24 Friends  : 99.9% at 50/sec for everywomanUK
+2017-11-24 19:46:59 Friends  : 100% at 56/sec for Place_chat
+2017-11-24 19:47:07 Tweets   : 1% at 50/sec for jeffbullas
+2017-11-24 19:48:20 Tweets   : 24.3% at 44/sec for EnvAgencyMids
+2017-11-24 19:49:23 Tweets   : 71.8% at 50/sec for Mon_Housing
+2017-11-24 19:49:39 Friends  : 94.7% at 49/sec for FirstBathroom
+2017-11-24 19:49:40 Favorites: 48.5% at 3/sec for sricketts1
+2017-11-24 19:50:03 Friends  : 96.3% at 45/sec for kings_of_heat
+2017-11-24 19:50:27 Friends  : 99.6% at 43/sec for wessexwater
+2017-11-24 19:50:31 Tweets   : 4.2% at 47/sec for thebodycoach
+2017-11-24 19:50:37 Friends  : 97.7% at 46/sec for rafredarrows
+2017-11-24 19:50:38 Friends: Request of 48 exceeds the maximum of 15. Making an attemp
+Waiting will increase the number of results returned
+2017-11-24 19:50:38 Friends  : Waiting for 14.1 minutes
+2017-11-24 19:50:55 Favorites: 38.9% at 41/sec for redrumlisa
+2017-11-24 19:51:19 Favorites: 53.6% at 41/sec for everywomanUK
+2017-11-24 19:51:21 Favorites: 98.9% at 48/sec for Place_chat
+2017-11-24 19:51:26 Favorites: 74% at 42/sec for FirstBathroom
+2017-11-24 19:51:36 Favorites: 54.3% at 37/sec for kings_of_heat
+2017-11-24 19:51:41 Favorites: 52.5% at 48/sec for wessexwater
+2017-11-24 19:51:41 Tweets   : 15.5% at 46/sec for manchesterfire
+2017-11-24 19:52:09 Favorites: Waiting for 12.1 minutes due to : Used up allowance in a loop
+2017-11-24 19:52:39 Tweets   : 6% at 55/sec for KenRoth
+2017-11-24 19:53:40 Tweets   : 33.8% at 53/sec for vickyford
+2017-11-24 19:54:47 Tweets   : 7.5% at 47/sec for Bob__Hudson
+2017-11-24 19:55:54 Tweets   : 20.7% at 47/sec for MsHelicat
+2017-11-24 19:56:57 Tweets   : 29.9% at 51/sec for JG_THE
+2017-11-24 19:57:59 Tweets   : 27.6% at 52/sec for harrow_council
+2017-11-24 19:59:09 Tweets   : 30.2% at 45/sec for sjwrenlewis
+2017-11-24 20:00:13 Tweets   : 6.6% at 49/sec for colinrtalbot
+2017-11-24 20:01:17 Tweets   : 4% at 50/sec for KeithOlbermann
+2017-11-24 20:02:28 Tweets   : 58.4% at 45/sec for MayaGoodfellow
+2017-11-24 20:03:40 Tweets   : 21.4% at 44/sec for hayfestival
+2017-11-24 20:04:48 Tweets   : 5.4% at 47/sec for Louisemac
+2017-11-24 20:05:05 Favorites: 42.5% at 4/sec for rafredarrows
+2017-11-24 20:05:41 Favorites: 49.2% at 40/sec for jeffbullas
+2017-11-24 20:05:54 Favorites: 53% at 40/sec for EnvAgencyMids
+2017-11-24 20:05:58 Tweets   : 13.9% at 45/sec for YoungScot
+2017-11-24 20:06:21 Favorites: 49.8% at 40/sec for Mon_Housing
+2017-11-24 20:07:13 Tweets   : 15.7% at 43/sec for NatWestBusiness
+2017-11-24 20:07:21 Favorites: Waiting for 11.9 minutes due to : Used up allowance in a loop
+2017-11-24 20:08:18 Tweets   : 27.7% at 50/sec for stodgeblog
+2017-11-24 20:09:27 Tweets   : 16.5% at 46/sec for andy_woodfield
+2017-11-24 20:10:42 Tweets   : 32.8% at 43/sec for FionaHyslop
+2017-11-24 20:11:46 Tweets   : 55.8% at 50/sec for ashcowburn
+2017-11-24 20:12:50 Tweets   : 5.9% at 50/sec for NimkoAli
+2017-11-24 20:14:03 Tweets   : 17.5% at 44/sec for JonnyEcology
+2017-11-24 20:15:11 Tweets   : 28.3% at 47/sec for rights_info
+2017-11-24 20:15:45 Tweets   : 100% at 41/sec for RuthMcKernan
+2017-11-24 20:16:55 Tweets   : 62.4% at 45/sec for ApprovedInsp
+2017-11-24 20:18:07 Tweets   : 3.7% at 45/sec for KarlreMarks
+2017-11-24 20:19:13 Tweets   : 14.7% at 48/sec for davies_will
+2017-11-24 20:19:38 Favorites: 3.3% at 4/sec for thebodycoach
+2017-11-24 20:20:23 Tweets   : 10.7% at 46/sec for zoeamar
+2017-11-24 20:20:59 Favorites: 43% at 39/sec for manchesterfire
+2017-11-24 20:20:59 Favorites: User KenRoth has a protected account or no Favoritess to collect so skipping
+2017-11-24 20:21:36 Tweets   : 9.3% at 44/sec for ChristopherNFox
+2017-11-24 20:21:51 Favorites: 50.5% at 40/sec for vickyford
+2017-11-24 20:21:54 Favorites: 85.8% at 45/sec for Bob__Hudson
+2017-11-24 20:22:20 Favorites: Waiting for 12 minutes due to : Used up allowance in a loop
+2017-11-24 20:22:51 Tweets   : 12.1% at 42/sec for grescoe
+2017-11-24 20:23:51 Tweets   : 10.4% at 53/sec for ProfChalmers
+2017-11-24 20:24:56 Tweets   : 37.1% at 49/sec for UKScouting
+2017-11-24 20:26:06 Tweets   : 12.2% at 45/sec for rtmnews
+2017-11-24 20:27:09 Tweets   : 100% at 49/sec for Energy4Europe
+2017-11-24 20:28:12 Tweets   : 19.3% at 51/sec for ClimateOfGavin
+2017-11-24 20:30:57 Friends  : 30.1% at 30/sec for jeffbullas
+2017-11-24 20:31:20 Friends  : 99.3% at 52/sec for EnvAgencyMids
+2017-11-24 20:31:31 Friends  : 98.5% at 54/sec for Mon_Housing
+2017-11-24 20:34:40 Favorites: 49.5% at 3/sec for MsHelicat
+2017-11-24 20:34:49 Favorites: 51.2% at 44/sec for JG_THE
+2017-11-24 20:35:11 Favorites: 53.4% at 41/sec for harrow_council
+2017-11-24 20:35:11 Favorites: 100% at 29/sec for sjwrenlewis
+2017-11-24 20:36:27 Favorites: 43.4% at 42/sec for colinrtalbot
+2017-11-24 20:36:28 Favorites: 93.8% at 29/sec for KeithOlbermann
+2017-11-24 20:37:00 Favorites: 51% at 41/sec for MayaGoodfellow
+2017-11-24 20:37:10 Favorites: Waiting for 12.2 minutes due to : Used up allowance in a loop
+2017-11-24 20:38:49 Friends  : 99.8% at 47/sec for thebodycoach
+2017-11-24 20:38:54 Friends  : 95.5% at 46/sec for manchesterfire
+2017-11-24 20:39:09 Friends  : 99.4% at 60/sec for KenRoth
+2017-11-24 20:39:35 Friends  : 99.6% at 50/sec for vickyford
+2017-11-24 20:40:12 Friends  : 99.3% at 53/sec for Bob__Hudson
+2017-11-24 20:40:53 Friends  : 99.7% at 51/sec for MsHelicat
+2017-11-24 20:41:19 Friends  : 99.9% at 50/sec for JG_THE
+2017-11-24 20:41:39 Friends  : 97.3% at 51/sec for harrow_council
+2017-11-24 20:41:42 Friends  : 99.3% at 42/sec for sjwrenlewis
+2017-11-24 20:41:42 Friends  : Waiting for 4.3 minutes
+2017-11-24 20:46:24 Friends  : 98.5% at 4/sec for colinrtalbot
+2017-11-24 20:46:43 Friends  : 99% at 52/sec for KeithOlbermann
+2017-11-24 20:47:06 Friends  : 99.7% at 48/sec for MayaGoodfellow
+2017-11-24 20:47:10 Friends  : 100% at 32/sec for hayfestival
+2017-11-24 20:47:53 Friends  : 95.9% at 47/sec for Louisemac
+2017-11-24 20:50:28 Favorites: 49.5% at 4/sec for hayfestival
+2017-11-24 20:50:34 Friends  : 99.4% at 43/sec for YoungScot
+2017-11-24 20:51:38 Friends  : 99.3% at 43/sec for NatWestBusiness
+2017-11-24 20:51:47 Favorites: 9.7% at 40/sec for Louisemac
+2017-11-24 20:51:52 Friends  : 98.6% at 41/sec for stodgeblog
+2017-11-24 20:52:23 Favorites: Waiting for 11.9 minutes due to : Used up allowance in a loop
+2017-11-24 20:56:24 Friends  : 99.3% at 45/sec for andy_woodfield
+2017-11-24 20:56:36 Friends  : 98.3% at 50/sec for FionaHyslop
+2017-11-24 20:57:06 Friends  : 99% at 46/sec for ashcowburn
+2017-11-24 20:57:23 Friends  : 99.9% at 44/sec for NimkoAli
+2017-11-24 20:57:23 Friends  : Waiting for 3.7 minutes
+2017-11-24 21:03:49 Friends  : 98.9% at 20/sec for JonnyEcology
+2017-11-24 21:04:06 Friends  : 98.6% at 43/sec for rights_info
+2017-11-24 21:04:43 Favorites: 49.3% at 3/sec for YoungScot
+2017-11-24 21:04:54 Favorites: 48.7% at 35/sec for NatWestBusiness
+2017-11-24 21:05:04 Favorites: 55.4% at 40/sec for stodgeblog
+2017-11-24 21:05:09 Friends  : 98.9% at 44/sec for RuthMcKernan
+2017-11-24 21:06:24 Favorites: 7.2% at 40/sec for andy_woodfield
+2017-11-24 21:06:33 Friends  : 98.9% at 46/sec for ApprovedInsp
+2017-11-24 21:06:48 Favorites: 50.2% at 38/sec for FionaHyslop
+2017-11-24 21:06:56 Friends  : 99.9% at 45/sec for KarlreMarks
+2017-11-24 21:07:16 Friends  : 98.3% at 42/sec for davies_will
+2017-11-24 21:07:21 Favorites: 51% at 41/sec for ashcowburn
+2017-11-24 21:07:26 Favorites: Waiting for 11.9 minutes due to : Used up allowance in a loop
+2017-11-24 21:09:47 Friends  : 99.1% at 46/sec for zoeamar
+2017-11-24 21:15:16 Friends  : 98.9% at 43/sec for ChristopherNFox
+2017-11-24 21:15:36 Friends  : 99.7% at 50/sec for grescoe
+2017-11-24 21:16:20 Friends  : 97.5% at 46/sec for ProfChalmers
+2017-11-24 21:17:11 Friends  : 100% at 46/sec for UKScouting
+2017-11-24 21:17:29 Friends  : 87.3% at 42/sec for rtmnews
+2017-11-24 21:17:35 Friends  : 98.8% at 42/sec for Energy4Europe
+2017-11-24 21:17:45 Friends  : 98.7% at 46/sec for ClimateOfGavin
+2017-11-24 21:19:27 Favorites: 58.3% at 1/sec for NimkoAli
+2017-11-24 21:20:43 Favorites: 43.5% at 42/sec for JonnyEcology
+2017-11-24 21:21:30 Favorites: 50.8% at 42/sec for rights_info
+2017-11-24 21:21:48 Favorites: 51.2% at 42/sec for RuthMcKernan
+2017-11-24 21:22:08 Favorites: 52.6% at 40/sec for ApprovedInsp
+2017-11-24 21:22:15 Favorites: Waiting for 12.1 minutes due to : Used up allowance in a loop
+2017-11-24 21:35:03 Favorites: 49.1% at 3/sec for KarlreMarks
+2017-11-24 21:36:16 Favorites: 25% at 44/sec for davies_will
+2017-11-24 21:37:09 Favorites: Waiting for 12.2 minutes due to : Used up allowance in a loop
+2017-11-24 21:49:20 Favorites: 30% at 3/sec for zoeamar
+2017-11-24 21:49:20 Favorites: Waiting for 0 minutes due to : Used up allowance in a loop
+2017-11-24 21:49:38 Favorites: 14.3% at 40/sec for ChristopherNFox
+2017-11-24 21:50:30 Favorites: 49.3% at 41/sec for grescoe
+2017-11-24 21:51:43 Favorites: 17.4% at 42/sec for ProfChalmers
+2017-11-24 21:52:11 Favorites: Waiting for 12.2 minutes due to : Used up allowance in a loop
+2017-11-24 22:04:44 Favorites: 51.8% at 3/sec for UKScouting
+2017-11-24 22:04:52 Favorites: 53.9% at 46/sec for rtmnews
+2017-11-24 22:06:08 Favorites: 40.9% at 43/sec for Energy4Europe
+2017-11-24 22:07:16 Favorites: Waiting for 12.1 minutes due to : Used up allowance in a loop
+2017-11-24 22:19:31 Favorites: 30.9% at 4/sec for ClimateOfGavin
+Warning messages:
+1: package 'twitteR' was built under R version 3.4.1 
+2: In twInterfaceObj$doAPICall(cmd, params, method, ...) :
+  Rate limit encountered & retry limit reached - returning partial results
+Warning messages:
+1: package 'twitteR' was built under R version 3.4.1 
+2: In twInterfaceObj$doAPICall(cmd, params, method, ...) :
+  Rate limit encountered & retry limit reached - returning partial results
+Warning message:
+package 'twitteR' was built under R version 3.4.1 

@@ -1,0 +1,172 @@
+starting worker pid=7956 on localhost:11271 at 19:46:13.188
+starting worker pid=2064 on localhost:11271 at 19:46:13.356
+starting worker pid=14772 on localhost:11271 at 19:46:13.504
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-23 19:46:59 Friends  : 99.7% at 51/sec for jen_keesmaat
+2017-11-23 19:47:10 Friends  : 97.1% at 49/sec for HomesNickW
+2017-11-23 19:47:18 Tweets   : 16.9% at 58/sec for jen_keesmaat
+2017-11-23 19:47:24 Favorites: 29.3% at 49/sec for jen_keesmaat
+2017-11-23 19:47:28 Favorites: 55.8% at 50/sec for HomesNickW
+2017-11-23 19:47:29 Friends  : 98.2% at 54/sec for UniofNewcastle
+2017-11-23 19:47:31 Tweets   : 100% at 33/sec for HomesNickW
+2017-11-23 19:47:49 Favorites: 54.6% at 48/sec for UniofNewcastle
+2017-11-23 19:48:01 Favorites: Waiting for 12.3 minutes due to : Used up allowance in a loop
+2017-11-23 19:48:27 Tweets   : 48.6% at 58/sec for UniofNewcastle
+2017-11-23 19:49:23 Tweets   : 25.3% at 57/sec for ianfordham
+2017-11-23 19:49:59 Friends  : 99.3% at 57/sec for ianfordham
+2017-11-23 19:50:08 Friends  : 99.2% at 56/sec for globalcompact
+2017-11-23 19:50:12 Tweets   : 28.7% at 65/sec for globalcompact
+2017-11-23 19:51:06 Tweets   : 6.8% at 60/sec for MarieAnnUK
+2017-11-23 19:52:01 Tweets   : 12.6% at 57/sec for Jefferson_MFG
+2017-11-23 19:52:49 Friends  : 1548.2% at 55/sec for MarieAnnUK
+2017-11-23 19:52:56 Tweets   : 2.9% at 59/sec for jonworth
+2017-11-23 19:53:51 Tweets   : 12.5% at 58/sec for patrickharvie
+2017-11-23 19:54:44 Tweets   : 68% at 61/sec for CarbonConnectUK
+2017-11-23 19:55:40 Tweets   : 12.1% at 57/sec for MrJohnNicolson
+2017-11-23 19:56:32 Tweets   : 50.3% at 62/sec for EmmaEHoward
+2017-11-23 19:57:22 Tweets   : 14.5% at 63/sec for ProfCaryCooper
+2017-11-23 19:58:16 Tweets   : 51.4% at 60/sec for profchrisham
+2017-11-23 19:59:11 Tweets   : 15.4% at 58/sec for tomstannard
+2017-11-23 19:59:57 Friends  : 91.5% at 58/sec for Jefferson_MFG
+2017-11-23 19:59:57 Friends  : Waiting for 1.4 minutes
+2017-11-23 20:00:06 Tweets   : 9.4% at 58/sec for goldengateblond
+2017-11-23 20:01:00 Tweets   : 3.3% at 59/sec for Argos_Online
+2017-11-23 20:01:00 Tweets   : User LeePeakHeating has a protected account or no Tweetss to collect so skipping
+2017-11-23 20:01:18 Favorites: 50% at 4/sec for ianfordham
+2017-11-23 20:01:33 Favorites: 52.8% at 51/sec for globalcompact
+2017-11-23 20:02:00 Tweets   : 43.1% at 53/sec for AlixJohnson_PR
+2017-11-23 20:02:39 Favorites: 19.8% at 47/sec for MarieAnnUK
+2017-11-23 20:02:58 Favorites: Waiting for 12.5 minutes due to : Used up allowance in a loop
+2017-11-23 20:02:59 Tweets   : 11.8% at 55/sec for BraddJaffy
+2017-11-23 20:03:36 Friends  : 98.7% at 36/sec for jonworth
+2017-11-23 20:03:57 Tweets   : 27.9% at 55/sec for anneapplebaum
+2017-11-23 20:04:04 Friends  : 99.1% at 62/sec for patrickharvie
+2017-11-23 20:04:24 Friends  : 99.6% at 64/sec for CarbonConnectUK
+2017-11-23 20:04:33 Friends  : 99.1% at 56/sec for MrJohnNicolson
+2017-11-23 20:04:53 Tweets   : 8.5% at 57/sec for ACLU
+2017-11-23 20:05:33 Friends  : 99.5% at 60/sec for EmmaEHoward
+2017-11-23 20:05:37 Friends  : 99.6% at 55/sec for ProfCaryCooper
+2017-11-23 20:05:48 Tweets   : 26.2% at 58/sec for ThePlanetMark
+2017-11-23 20:05:58 Friends  : 99.8% at 62/sec for profchrisham
+2017-11-23 20:06:13 Friends  : 99.6% at 55/sec for tomstannard
+2017-11-23 20:06:36 Friends  : 99.2% at 58/sec for goldengateblond
+2017-11-23 20:06:43 Tweets   : 73.1% at 58/sec for WindEurope
+2017-11-23 20:07:17 Friends  : 99.9% at 51/sec for Argos_Online
+2017-11-23 20:07:17 Friends  : User LeePeakHeating has a protected account or no Friendss to collect so skipping
+2017-11-23 20:07:38 Tweets   : 57.4% at 58/sec for CLAtweets
+2017-11-23 20:07:44 Friends  : 98.2% at 56/sec for AlixJohnson_PR
+2017-11-23 20:08:01 Friends  : 99.8% at 69/sec for BraddJaffy
+2017-11-23 20:08:05 Friends  : 99.5% at 51/sec for anneapplebaum
+2017-11-23 20:08:05 Friends  : Waiting for 8.4 minutes
+2017-11-23 20:08:34 Tweets   : 25% at 57/sec for britac_news
+2017-11-23 20:09:26 Tweets   : 51.9% at 61/sec for SCIE_socialcare
+2017-11-23 20:10:19 Tweets   : 7.4% at 61/sec for ezraklein
+2017-11-23 20:11:12 Tweets   : 8% at 60/sec for ShellyAsquith
+2017-11-23 20:12:04 Tweets   : 2.1% at 62/sec for ExpressandStar
+2017-11-23 20:13:01 Tweets   : 33.7% at 56/sec for edmayo1
+2017-11-23 20:13:56 Tweets   : 36.8% at 58/sec for ralph_arcdox
+2017-11-23 20:14:46 Tweets   : 39% at 64/sec for davidaxelrod
+2017-11-23 20:15:35 Tweets   : 7.9% at 65/sec for SkintLondon
+2017-11-23 20:16:18 Tweets   : 99.7% at 60/sec for ThamesReach
+2017-11-23 20:16:26 Favorites: 5.7% at 4/sec for Jefferson_MFG
+2017-11-23 20:16:54 Favorites: 51.3% at 50/sec for jonworth
+2017-11-23 20:17:10 Favorites: 51.7% at 48/sec for patrickharvie
+2017-11-23 20:17:11 Tweets   : 8.3% at 60/sec for Girlguiding
+2017-11-23 20:17:12 Favorites: 78.7% at 49/sec for CarbonConnectUK
+2017-11-23 20:18:04 Favorites: Waiting for 12.6 minutes due to : Used up allowance in a loop
+2017-11-23 20:18:07 Tweets   : 11.8% at 58/sec for ShareActionUK
+2017-11-23 20:18:08 Friends  : 99.3% at 9/sec for ACLU
+2017-11-23 20:18:54 Tweets   : 2.7% at 68/sec for ChronicleLive
+2017-11-23 20:19:31 Friends  : 99.7% at 56/sec for ThePlanetMark
+2017-11-23 20:19:44 Tweets   : 62.4% at 64/sec for TalkTrafford
+2017-11-23 20:20:04 Friends  : 99.8% at 63/sec for WindEurope
+2017-11-23 20:20:23 Friends  : 98.6% at 62/sec for CLAtweets
+2017-11-23 20:20:35 Tweets   : 43.6% at 62/sec for RBKC
+2017-11-23 20:20:52 Friends  : 99.3% at 62/sec for britac_news
+2017-11-23 20:21:24 Tweets   : 17.3% at 64/sec for cityofsound
+2017-11-23 20:22:12 Tweets   : 40.4% at 67/sec for Benfogle
+2017-11-23 20:23:05 Tweets   : 78.5% at 61/sec for PhinHarper
+2017-11-23 20:23:59 Tweets   : 14.1% at 59/sec for mcashmanCBE
+2017-11-23 20:24:04 Friends  : 99% at 54/sec for SCIE_socialcare
+2017-11-23 20:24:05 Tweets   : 100% at 0/sec for UKTI
+2017-11-23 20:24:25 Friends  : 99.8% at 53/sec for ezraklein
+2017-11-23 20:24:56 Tweets   : 20.8% at 64/sec for Joe_Dromey
+2017-11-23 20:25:48 Tweets   : 14% at 61/sec for JamieJBartlett
+2017-11-23 20:26:17 Friends  : 98.1% at 50/sec for ShellyAsquith
+2017-11-23 20:26:41 Tweets   : 73% at 60/sec for BatterseaPwrStn
+2017-11-23 20:27:36 Friends  : 99.8% at 52/sec for ExpressandStar
+2017-11-23 20:27:37 Tweets   : 30.7% at 57/sec for FutureofPlaces
+2017-11-23 20:28:36 Friends  : 97.5% at 56/sec for edmayo1
+2017-11-23 20:28:36 Friends  : Waiting for 3 minutes
+2017-11-23 20:30:59 Favorites: 10.3% at 4/sec for MrJohnNicolson
+2017-11-23 20:31:07 Favorites: 58.3% at 56/sec for EmmaEHoward
+2017-11-23 20:31:21 Favorites: 50.6% at 59/sec for ProfCaryCooper
+2017-11-23 20:31:21 Favorites: 100% at 37/sec for profchrisham
+2017-11-23 20:31:23 Favorites: 78.1% at 61/sec for tomstannard
+2017-11-23 20:32:21 Favorites: 1.5% at 56/sec for goldengateblond
+2017-11-23 20:32:42 Favorites: 49.4% at 55/sec for Argos_Online
+2017-11-23 20:32:42 Favorites: User LeePeakHeating has a protected account or no Favoritess to collect so skipping
+2017-11-23 20:33:00 Favorites: Waiting for 12.8 minutes due to : Used up allowance in a loop
+2017-11-23 20:33:13 Friends  : 99.9% at 18/sec for ralph_arcdox
+2017-11-23 20:33:25 Friends  : 99.1% at 48/sec for davidaxelrod
+2017-11-23 20:34:24 Friends  : 99.3% at 51/sec for SkintLondon
+2017-11-23 20:35:15 Friends  : 99.2% at 48/sec for ThamesReach
+2017-11-23 20:36:35 Friends  : 97% at 49/sec for Girlguiding
+2017-11-23 20:37:56 Friends  : 99.1% at 47/sec for ShareActionUK
+2017-11-23 20:38:26 Friends  : 100% at 45/sec for ChronicleLive
+2017-11-23 20:38:41 Friends  : 99.6% at 49/sec for TalkTrafford
+2017-11-23 20:38:59 Friends  : 99.6% at 50/sec for RBKC
+2017-11-23 20:39:19 Friends  : 100% at 45/sec for cityofsound
+2017-11-23 20:39:30 Friends  : 99% at 47/sec for Benfogle
+2017-11-23 20:39:57 Friends  : 98.8% at 46/sec for PhinHarper
+2017-11-23 20:40:25 Friends  : 98.7% at 43/sec for mcashmanCBE
+2017-11-23 20:40:26 Friends  : 100% at 1/sec for UKTI
+2017-11-23 20:40:26 Friends  : Waiting for 6.3 minutes
+2017-11-23 20:46:20 Favorites: 51.4% at 3/sec for AlixJohnson_PR
+2017-11-23 20:47:19 Favorites: 41.3% at 55/sec for BraddJaffy
+2017-11-23 20:47:21 Favorites: 62.3% at 60/sec for anneapplebaum
+2017-11-23 20:47:44 Friends  : 98.6% at 6/sec for Joe_Dromey
+2017-11-23 20:48:03 Friends  : 100% at 52/sec for JamieJBartlett
+2017-11-23 20:48:16 Favorites: Waiting for 12.8 minutes due to : Used up allowance in a loop
+2017-11-23 20:48:17 Friends  : 99.7% at 55/sec for BatterseaPwrStn
+2017-11-23 20:50:03 Friends  : 98.7% at 51/sec for FutureofPlaces
+2017-11-23 21:01:17 Favorites: 20% at 4/sec for ACLU
+2017-11-23 21:01:27 Favorites: 57.4% at 56/sec for ThePlanetMark
+2017-11-23 21:01:33 Favorites: 73.8% at 56/sec for WindEurope
+2017-11-23 21:01:52 Favorites: 51.5% at 56/sec for CLAtweets
+2017-11-23 21:01:58 Favorites: 52.3% at 55/sec for britac_news
+2017-11-23 21:02:10 Favorites: 56.7% at 55/sec for SCIE_socialcare
+2017-11-23 21:02:25 Favorites: 54.8% at 54/sec for ezraklein
+2017-11-23 21:03:22 Favorites: 14.1% at 54/sec for ShellyAsquith
+2017-11-23 21:03:24 Favorites: Waiting for 12.8 minutes due to : Used up allowance in a loop
+2017-11-23 21:16:21 Favorites: 53.6% at 0/sec for ExpressandStar
+2017-11-23 21:16:46 Favorites: 52.1% at 52/sec for edmayo1
+2017-11-23 21:16:51 Favorites: 53.9% at 55/sec for ralph_arcdox
+2017-11-23 21:16:53 Favorites: 98.9% at 47/sec for davidaxelrod
+2017-11-23 21:16:54 Favorites: 100% at 18/sec for SkintLondon
+2017-11-23 21:17:09 Favorites: 54.6% at 53/sec for ThamesReach
+2017-11-23 21:18:08 Favorites: 16.7% at 53/sec for Girlguiding
+2017-11-23 21:18:34 Favorites: Waiting for 12.7 minutes due to : Used up allowance in a loop
+2017-11-23 21:32:09 Favorites: 41.9% at 4/sec for ShareActionUK
+2017-11-23 21:32:34 Favorites: 50.2% at 53/sec for ChronicleLive
+2017-11-23 21:32:41 Favorites: 56.2% at 56/sec for TalkTrafford
+2017-11-23 21:32:45 Favorites: 93% at 52/sec for RBKC
+2017-11-23 21:33:40 Favorites: 49.1% at 53/sec for cityofsound
+2017-11-23 21:33:41 Favorites: 100% at 41/sec for Benfogle
+2017-11-23 21:33:50 Favorites: Waiting for 12.8 minutes due to : Used up allowance in a loop
+2017-11-23 21:47:08 Favorites: 51.9% at 2/sec for PhinHarper
+2017-11-23 21:48:06 Favorites: 20.2% at 54/sec for mcashmanCBE
+2017-11-23 21:48:06 Favorites: User UKTI has a protected account or no Favoritess to collect so skipping
+2017-11-23 21:48:15 Favorites: 50.9% at 53/sec for Joe_Dromey
+2017-11-23 21:49:09 Favorites: Waiting for 12.7 minutes due to : Used up allowance in a loop
+2017-11-23 22:02:19 Favorites: 19.3% at 4/sec for JamieJBartlett
+2017-11-23 22:02:31 Favorites: 56.8% at 44/sec for BatterseaPwrStn
+2017-11-23 22:03:35 Favorites: 50% at 44/sec for FutureofPlaces
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+Warning message:
+package 'twitteR' was built under R version 3.4.1 

@@ -1,0 +1,193 @@
+starting worker pid=11464 on localhost:11271 at 02:40:01.833
+starting worker pid=13384 on localhost:11271 at 02:40:02.052
+starting worker pid=10984 on localhost:11271 at 02:40:02.290
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-24 02:40:51 Friends  : 98.2% at 32/sec for alanbeattie
+2017-11-24 02:41:04 Friends  : 99.3% at 33/sec for POLITICOEurope
+2017-11-24 02:42:09 Favorites: 28.7% at 33/sec for alanbeattie
+2017-11-24 02:42:18 Favorites: 57.5% at 34/sec for POLITICOEurope
+2017-11-24 02:42:18 Tweets   : 7.1% at 38/sec for alanbeattie
+2017-11-24 02:42:27 Favorites: 73.7% at 34/sec for PaulJRChappell
+2017-11-24 02:42:36 Favorites: Waiting for 10.3 minutes due to : Used up allowance in a loop
+2017-11-24 02:43:03 Friends  : 99% at 34/sec for PaulJRChappell
+Error in twInterfaceObj$doAPICall(paste("users", "show", sep = "/"), params = params,  : 
+  Not Found (HTTP 404).
+In addition: Warning message:
+package 'twitteR' was built under R version 3.4.1 
+2017-11-24 02:43:04 Friends: Unable to find account urbanthoughts11 moving to next
+2017-11-24 02:43:04 Friends  : % at /sec for urbanthoughts11
+2017-11-24 02:43:37 Tweets   : 10.7% at 41/sec for POLITICOEurope
+2017-11-24 02:44:03 Friends  : 99.4% at 37/sec for architectming
+2017-11-24 02:44:09 Friends  : 97.9% at 33/sec for Lucy_Worsley
+2017-11-24 02:44:54 Tweets   : 94.3% at 41/sec for PaulJRChappell
+2017-11-24 02:45:10 Friends  : 99.6% at 34/sec for krispykremeUK
+2017-11-24 02:46:20 Tweets   : 99.6% at 37/sec for urbanthoughts11
+2017-11-24 02:47:40 Tweets   : 30.7% at 40/sec for architectming
+2017-11-24 02:47:57 Friends  : 98.6% at 34/sec for LondonLGBTPride
+2017-11-24 02:48:24 Friends  : 98.9% at 37/sec for UniOfHull
+2017-11-24 02:49:01 Tweets   : 84.9% at 39/sec for Lucy_Worsley
+2017-11-24 02:49:29 Friends  : 99.2% at 37/sec for Living_North
+2017-11-24 02:49:47 Friends  : 99.1% at 32/sec for RedbridgeLive
+2017-11-24 02:50:21 Tweets   : 10.5% at 40/sec for krispykremeUK
+2017-11-24 02:50:38 Friends  : 99.4% at 37/sec for scottygb
+2017-11-24 02:51:41 Tweets   : 11.1% at 40/sec for LondonLGBTPride
+2017-11-24 02:52:29 Friends  : 94.1% at 37/sec for N22XON
+2017-11-24 02:52:29 Friends: Request of 48 exceeds the maximum of 15. Making an attemp
+Waiting will increase the number of results returned
+2017-11-24 02:52:29 Friends  : Waiting for 2.9 minutes
+2017-11-24 02:53:00 Tweets   : 20.6% at 40/sec for UniOfHull
+2017-11-24 02:53:16 Favorites: 51.8% at 1/sec for urbanthoughts11
+2017-11-24 02:53:42 Favorites: 21.9% at 33/sec for architectming
+2017-11-24 02:54:21 Tweets   : 26.3% at 40/sec for Living_North
+2017-11-24 02:54:54 Favorites: 49.5% at 36/sec for Lucy_Worsley
+2017-11-24 02:55:38 Tweets   : 15.4% at 41/sec for RedbridgeLive
+2017-11-24 02:56:25 Favorites: 12.6% at 35/sec for krispykremeUK
+2017-11-24 02:56:31 Favorites: Waiting for 11.6 minutes due to : Used up allowance in a loop
+2017-11-24 02:56:58 Tweets   : 5.6% at 40/sec for scottygb
+2017-11-24 02:58:13 Tweets   : 34.3% at 42/sec for N22XON
+2017-11-24 02:59:31 Tweets   : 32% at 41/sec for Mr_Mike_Clarke
+2017-11-24 03:00:53 Tweets   : 3.9% at 39/sec for WipeHomophobia
+2017-11-24 03:02:10 Tweets   : 14.9% at 42/sec for solarimpulse
+2017-11-24 03:03:34 Tweets   : 6.1% at 38/sec for SmithTonyD
+2017-11-24 03:04:52 Tweets   : 3% at 41/sec for qz
+2017-11-24 03:06:07 Tweets   : 6.9% at 43/sec for FXMC1957
+2017-11-24 03:07:28 Tweets   : 8.5% at 40/sec for LoveWilko
+2017-11-24 03:08:51 Tweets   : 28.5% at 38/sec for stjohnambulance
+2017-11-24 03:09:55 Favorites: 11.4% at 4/sec for LondonLGBTPride
+2017-11-24 03:10:17 Tweets   : 5.8% at 37/sec for EllieCumbo
+2017-11-24 03:11:32 Favorites: 38.2% at 32/sec for UniOfHull
+2017-11-24 03:11:48 Tweets   : 32.6% at 35/sec for HouzzUK
+2017-11-24 03:12:04 Favorites: Waiting for 11.3 minutes due to : Used up allowance in a loop
+2017-11-24 03:13:12 Tweets   : 31.5% at 38/sec for NAVCA
+2017-11-24 03:14:38 Tweets   : 14.2% at 37/sec for GraemeDemianyk
+2017-11-24 03:16:09 Tweets   : 12.8% at 35/sec for FarmingUK
+2017-11-24 03:17:32 Tweets   : 21.4% at 39/sec for Climate_Action_
+2017-11-24 03:18:53 Tweets   : 7.8% at 39/sec for TheJournalNews
+2017-11-24 03:20:27 Tweets   : 45.1% at 34/sec for usociety
+2017-11-24 03:21:51 Tweets   : 49.1% at 38/sec for GeorgeMokhtar
+2017-11-24 03:23:16 Tweets   : 29% at 37/sec for MovingOn_mag
+2017-11-24 03:24:17 Favorites: 49.9% at 3/sec for Living_North
+2017-11-24 03:24:26 Favorites: 61.9% at 31/sec for RedbridgeLive
+2017-11-24 03:24:49 Tweets   : 10.3% at 35/sec for RealGeoffBarton
+2017-11-24 03:26:04 Favorites: 17.8% at 33/sec for scottygb
+2017-11-24 03:26:19 Tweets   : 88.4% at 35/sec for LowCarbonSW
+2017-11-24 03:27:06 Friends  : 30.6% at 35/sec for Mr_Mike_Clarke
+2017-11-24 03:27:06 Friends: Request of 182 exceeds the maximum of 15. Making an attemp
+Waiting will increase the number of results returned
+2017-11-24 03:27:06 Friends  : Waiting for 15.1 minutes
+2017-11-24 03:27:06 Favorites: 48.8% at 33/sec for N22XON
+2017-11-24 03:27:23 Favorites: Waiting for 11.3 minutes due to : Used up allowance in a loop
+2017-11-24 03:27:34 Tweets   : 99.7% at 36/sec for bencaldecott
+2017-11-24 03:29:00 Tweets   : 38% at 37/sec for AndyBounds
+2017-11-24 03:29:21 Tweets   : 0.5% at 28/sec for twlldun
+2017-11-24 03:30:40 Tweets   : 66.1% at 40/sec for weratoolsuk
+2017-11-24 03:31:58 Tweets   : 74.8% at 41/sec for AcademicsSay
+2017-11-24 03:33:19 Tweets   : 7.9% at 39/sec for climatehawk1
+2017-11-24 03:34:35 Tweets   : 16.2% at 42/sec for newint
+2017-11-24 03:35:53 Tweets   : 10% at 41/sec for Connect4Climate
+2017-11-24 03:37:26 Tweets   : 11.9% at 35/sec for aardvarknsefce
+2017-11-24 03:38:45 Tweets   : 9.9% at 40/sec for entschwindet
+2017-11-24 03:40:09 Favorites: 2.9% at 4/sec for Mr_Mike_Clarke
+2017-11-24 03:40:13 Tweets   : 18.6% at 37/sec for RochdaleCouncil
+2017-11-24 03:41:38 Favorites: 2.5% at 35/sec for WipeHomophobia
+2017-11-24 03:41:46 Tweets   : 25.2% at 34/sec for UK_SIC
+2017-11-24 03:42:19 Favorites: Waiting for 11.6 minutes due to : Used up allowance in a loop
+2017-11-24 03:43:08 Tweets   : 12.1% at 39/sec for gransnet
+2017-11-24 03:43:14 Tweets   : 100% at 0/sec for strongerin
+2017-11-24 03:44:36 Tweets   : 45.9% at 39/sec for CloreSocial
+2017-11-24 03:45:38 Tweets   : 99.2% at 34/sec for epictools
+2017-11-24 03:46:53 Tweets   : 23.4% at 43/sec for actionfrauduk
+2017-11-24 03:55:07 Favorites: 18.2% at 4/sec for solarimpulse
+2017-11-24 03:56:41 Favorites: 10.7% at 34/sec for SmithTonyD
+2017-11-24 03:56:58 Favorites: 55.8% at 35/sec for qz
+2017-11-24 03:57:35 Favorites: 49.1% at 34/sec for FXMC1957
+2017-11-24 03:57:50 Favorites: Waiting for 11.4 minutes due to : Used up allowance in a loop
+2017-11-24 04:10:48 Favorites: 17.7% at 4/sec for LoveWilko
+2017-11-24 04:11:35 Friends  : 7.2% at 24/sec for WipeHomophobia
+2017-11-24 04:12:09 Friends  : 99.4% at 36/sec for solarimpulse
+2017-11-24 04:12:22 Favorites: 36.6% at 33/sec for stjohnambulance
+2017-11-24 04:13:00 Favorites: Waiting for 11.5 minutes due to : Used up allowance in a loop
+2017-11-24 04:13:48 Friends  : 98.7% at 36/sec for SmithTonyD
+2017-11-24 04:13:53 Friends  : 96.6% at 33/sec for qz
+2017-11-24 04:15:57 Friends  : 99.8% at 35/sec for FXMC1957
+2017-11-24 04:21:47 Friends  : 93.9% at 33/sec for LoveWilko
+2017-11-24 04:23:51 Friends  : 99.5% at 35/sec for stjohnambulance
+2017-11-24 04:25:24 Friends  : 99.2% at 35/sec for EllieCumbo
+2017-11-24 04:25:38 Favorites: 29% at 4/sec for EllieCumbo
+2017-11-24 04:25:57 Favorites: 53.2% at 32/sec for HouzzUK
+2017-11-24 04:25:57 Friends  : 99.9% at 36/sec for HouzzUK
+2017-11-24 04:26:11 Favorites: 60% at 35/sec for NAVCA
+2017-11-24 04:26:28 Favorites: 57.2% at 35/sec for GraemeDemianyk
+2017-11-24 04:26:32 Friends  : 99.5% at 36/sec for NAVCA
+2017-11-24 04:26:57 Favorites: 52.4% at 34/sec for FarmingUK
+2017-11-24 04:27:12 Friends  : 99.4% at 36/sec for GraemeDemianyk
+2017-11-24 04:27:12 Favorites: 3.9% at 34/sec for Climate_Action_
+2017-11-24 04:27:15 Favorites: 81.7% at 33/sec for TheJournalNews
+2017-11-24 04:27:24 Friends  : 99% at 34/sec for FarmingUK
+2017-11-24 04:27:38 Favorites: 53.8% at 35/sec for usociety
+2017-11-24 04:28:18 Favorites: Unable to find account GeorgeMokhtar during loop number 14 moving to next loop
+2017-11-24 04:28:21 Favorites: Waiting for 11.4 minutes due to : Used up allowance in a loop
+2017-11-24 04:28:36 Friends  : 99% at 36/sec for Climate_Action_
+2017-11-24 04:29:27 Friends  : 100% at 36/sec for TheJournalNews
+2017-11-24 04:30:29 Friends  : 99.7% at 36/sec for usociety
+2017-11-24 04:31:22 Friends  : 99.4% at 35/sec for GeorgeMokhtar
+2017-11-24 04:35:17 Friends  : 97.6% at 34/sec for MovingOn_mag
+2017-11-24 04:37:55 Friends  : 99.4% at 34/sec for RealGeoffBarton
+2017-11-24 04:38:31 Friends  : 98.9% at 35/sec for LowCarbonSW
+2017-11-24 04:38:47 Friends  : 98.3% at 34/sec for bencaldecott
+2017-11-24 04:39:08 Friends  : 99.3% at 33/sec for AndyBounds
+2017-11-24 04:40:00 Friends  : 99% at 33/sec for twlldun
+2017-11-24 04:40:38 Friends  : 97.7% at 30/sec for weratoolsuk
+2017-11-24 04:40:38 Friends  : User AcademicsSay has a protected account or no Friendss to collect so skipping
+2017-11-24 04:40:39 Friends: Request of 17 exceeds the maximum of 15. Making an attemp
+Waiting will increase the number of results returned
+2017-11-24 04:40:39 Friends  : Waiting for 1.6 minutes
+2017-11-24 04:40:55 Favorites: 35.1% at 4/sec for GeorgeMokhtar
+2017-11-24 04:41:11 Favorites: 52.1% at 34/sec for MovingOn_mag
+2017-11-24 04:42:03 Favorites: 50.8% at 35/sec for RealGeoffBarton
+2017-11-24 04:42:14 Favorites: 56.1% at 34/sec for LowCarbonSW
+2017-11-24 04:42:20 Favorites: 78.4% at 38/sec for bencaldecott
+2017-11-24 04:42:28 Favorites: 57.8% at 37/sec for AndyBounds
+2017-11-24 04:43:30 Favorites: Waiting for 11.6 minutes due to : Used up allowance in a loop
+2017-11-24 04:55:45 Favorites: 1.7% at 4/sec for twlldun
+2017-11-24 04:57:05 Favorites: 49.5% at 34/sec for weratoolsuk
+2017-11-24 04:58:42 Favorites: 17% at 32/sec for AcademicsSay
+2017-11-24 04:58:57 Favorites: Waiting for 11.4 minutes due to : Used up allowance in a loop
+2017-11-24 05:11:59 Favorites: 19.6% at 4/sec for climatehawk1
+2017-11-24 05:12:44 Favorites: 49.4% at 33/sec for newint
+2017-11-24 05:14:18 Favorites: Waiting for 11.3 minutes due to : Used up allowance in a loop
+2017-11-24 05:19:00 Friends  : 83.3% at 30/sec for climatehawk1
+2017-11-24 05:25:57 Favorites: 15.8% at 4/sec for Connect4Climate
+2017-11-24 05:27:33 Favorites: 10.4% at 33/sec for aardvarknsefce
+2017-11-24 05:28:32 Friends  : 99.9% at 28/sec for newint
+2017-11-24 05:28:55 Favorites: 44.6% at 33/sec for entschwindet
+2017-11-24 05:29:20 Favorites: 53.2% at 35/sec for RochdaleCouncil
+2017-11-24 05:29:26 Favorites: Waiting for 11.5 minutes due to : Used up allowance in a loop
+2017-11-24 05:31:59 Friends  : 99.8% at 30/sec for Connect4Climate
+2017-11-24 05:33:18 Friends  : 98.6% at 31/sec for aardvarknsefce
+2017-11-24 05:33:36 Friends  : 98.1% at 29/sec for entschwindet
+2017-11-24 05:33:50 Friends  : 96% at 28/sec for RochdaleCouncil
+2017-11-24 05:35:04 Friends  : 98.4% at 30/sec for UK_SIC
+2017-11-24 05:35:53 Friends  : 99.7% at 30/sec for gransnet
+2017-11-24 05:35:54 Friends  : 100% at 2/sec for strongerin
+2017-11-24 05:37:39 Friends  : 99.3% at 30/sec for CloreSocial
+2017-11-24 05:39:07 Friends  : 98.5% at 29/sec for epictools
+2017-11-24 05:39:54 Friends  : 99.2% at 29/sec for actionfrauduk
+2017-11-24 05:42:40 Favorites: 42.5% at 4/sec for UK_SIC
+2017-11-24 05:42:51 Favorites: 56.5% at 35/sec for gransnet
+2017-11-24 05:42:51 Favorites: User strongerin has a protected account or no Favoritess to collect so skipping
+2017-11-24 05:43:28 Favorites: 50.8% at 35/sec for CloreSocial
+2017-11-24 05:44:20 Favorites: 47% at 35/sec for epictools
+2017-11-24 05:44:32 Favorites: 56.7% at 34/sec for actionfrauduk
+Warning messages:
+ackage 'twitteR' was built under R version 3.4.1 
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+1: In twInterfaceObj$doAPICall(cmd, params, method, ...) :
+  Rate limit encountered & retry limit reached - returning partial results
+2: In twInterfaceObj$doAPICall(cmd, params, method, ...) :
+  Rate limit encountered & retry limit reached - returning partial results
+3: In twInterfaceObj$doAPICall(cmd, params, method, ...) :
+  Rate limit encountered & retry limit reached - returning partial results

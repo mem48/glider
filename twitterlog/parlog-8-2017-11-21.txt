@@ -1,0 +1,178 @@
+starting worker pid=14740 on localhost:11271 at 17:41:00.435
+starting worker pid=15208 on localhost:11271 at 17:41:00.591
+starting worker pid=5012 on localhost:11271 at 17:41:00.766
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-21 17:41:12 Friends  : 100% at 20/sec for mrmarksteel
+2017-11-21 17:41:24 Friends  : 100% at 39/sec for ADPArchitecture
+2017-11-21 17:41:27 Friends  : 99.2% at 42/sec for Tesla
+2017-11-21 17:41:32 Favorites: 48.9% at 42/sec for mrmarksteel
+2017-11-21 17:41:36 Favorites: 93.6% at 51/sec for ADPArchitecture
+2017-11-21 17:41:57 Favorites: 53.2% at 42/sec for Tesla
+2017-11-21 17:42:10 Friends  : 99.6% at 46/sec for GroomB
+2017-11-21 17:42:24 Tweets   : 34.3% at 54/sec for mrmarksteel
+2017-11-21 17:42:41 Friends  : 99.7% at 48/sec for mearsgroup
+2017-11-21 17:42:54 Favorites: 50.8% at 43/sec for GroomB
+2017-11-21 17:43:10 Tweets   : 99.8% at 50/sec for ADPArchitecture
+2017-11-21 17:43:11 Favorites: 49.3% at 41/sec for mearsgroup
+2017-11-21 17:43:37 Friends  : 98.4% at 46/sec for BuildbaseUK
+2017-11-21 17:44:05 Tweets   : 49.8% at 58/sec for Tesla
+2017-11-21 17:44:14 Favorites: 50.9% at 43/sec for BuildbaseUK
+2017-11-21 17:44:14 Favorites: Waiting for 12.2 minutes due to : Used up allowance in a loop
+2017-11-21 17:44:22 Friends  : 98.9% at 42/sec for miss_mcinerney
+2017-11-21 17:45:03 Tweets   : 12.5% at 55/sec for GroomB
+2017-11-21 17:46:05 Tweets   : 61.9% at 51/sec for mearsgroup
+2017-11-21 17:47:06 Tweets   : 68.3% at 52/sec for BuildbaseUK
+2017-11-21 17:48:03 Tweets   : 4% at 57/sec for miss_mcinerney
+2017-11-21 17:49:03 Tweets   : 7.5% at 53/sec for landandnewhomes
+2017-11-21 17:50:03 Tweets   : 2.5% at 53/sec for EAUKNetworking
+2017-11-21 17:51:06 Tweets   : 17% at 51/sec for DesignObserver
+2017-11-21 17:52:14 Tweets   : 93.5% at 46/sec for Mo_Farah
+2017-11-21 17:53:25 Tweets   : 9.2% at 45/sec for architecturelab
+2017-11-21 17:54:09 Friends  : 97.8% at 46/sec for landandnewhomes
+2017-11-21 17:54:43 Tweets   : 51.6% at 41/sec for womensday
+2017-11-21 17:55:57 Tweets   : 50.8% at 43/sec for Alan_Measles
+2017-11-21 17:55:57 Friends  : 95.8% at 47/sec for EAUKNetworking
+2017-11-21 17:55:57 Friends  : Waiting for 0.3 minutes
+2017-11-21 17:56:30 Friends  : 100% at 21/sec for DesignObserver
+2017-11-21 17:56:39 Friends  : 100% at 42/sec for Mo_Farah
+2017-11-21 17:57:03 Friends  : 100% at 40/sec for architecturelab
+2017-11-21 17:57:07 Tweets   : 16.4% at 45/sec for lambeth_council
+2017-11-21 17:57:21 Friends  : 98.7% at 44/sec for womensday
+2017-11-21 17:57:29 Friends  : 99.7% at 39/sec for Alan_Measles
+2017-11-21 17:58:09 Favorites: 21% at 4/sec for miss_mcinerney
+2017-11-21 17:58:11 Favorites: 72.4% at 38/sec for landandnewhomes
+2017-11-21 17:58:23 Tweets   : 10.7% at 42/sec for GeorgeTakei
+2017-11-21 17:59:20 Tweets   : 99.3% at 36/sec for GKRLtd
+2017-11-21 17:59:38 Favorites: 22% at 37/sec for EAUKNetworking
+2017-11-21 17:59:51 Favorites: 52.8% at 38/sec for DesignObserver
+2017-11-21 17:59:54 Favorites: 61% at 36/sec for Mo_Farah
+2017-11-21 17:59:54 Favorites: 100% at 4/sec for architecturelab
+2017-11-21 17:59:57 Favorites: Waiting for 11.8 minutes due to : Used up allowance in a loop
+2017-11-21 18:00:31 Tweets   : 50% at 45/sec for mermhart
+2017-11-21 18:00:53 Friends  : 99.8% at 41/sec for lambeth_council
+2017-11-21 18:01:07 Friends  : 98.6% at 45/sec for GeorgeTakei
+2017-11-21 18:01:43 Tweets   : 21.7% at 44/sec for asda
+2017-11-21 18:03:03 Tweets   : 6.1% at 40/sec for aljwhite
+2017-11-21 18:03:48 Tweets   : 100% at 41/sec for GaryGibbonBlog
+2017-11-21 18:04:59 Tweets   : 3.1% at 45/sec for imajsaclaimant
+2017-11-21 18:05:08 Friends  : 90% at 41/sec for GKRLtd
+2017-11-21 18:05:15 Friends  : 99.7% at 43/sec for mermhart
+2017-11-21 18:05:44 Friends  : 99.4% at 40/sec for asda
+2017-11-21 18:06:14 Tweets   : 50.7% at 43/sec for EUEnvironment
+2017-11-21 18:07:05 Friends  : 99.3% at 42/sec for aljwhite
+2017-11-21 18:07:09 Friends  : 100% at 24/sec for GaryGibbonBlog
+2017-11-21 18:07:09 Friends  : Waiting for 4.2 minutes
+2017-11-21 18:07:30 Tweets   : 87.6% at 42/sec for withbricks
+2017-11-21 18:08:43 Tweets   : 57.7% at 44/sec for StockportHomes
+2017-11-21 18:09:53 Tweets   : 25% at 45/sec for DanielJHannan
+2017-11-21 18:11:09 Tweets   : 19% at 42/sec for CitizensUK
+2017-11-21 18:11:21 Tweets   : 100% at 24/sec for williamnhutton
+2017-11-21 18:11:28 Tweets   : 100% at 0/sec for 24Dash
+2017-11-21 18:12:36 Favorites: 52.4% at 2/sec for womensday
+2017-11-21 18:12:40 Tweets   : 17.2% at 45/sec for triodosuk
+2017-11-21 18:13:01 Favorites: 51.1% at 39/sec for Alan_Measles
+2017-11-21 18:13:54 Favorites: 51.2% at 38/sec for lambeth_council
+2017-11-21 18:13:55 Tweets   : 3.4% at 43/sec for StylistMagazine
+2017-11-21 18:14:02 Tweets   : 100% at 3/sec for jamesmurray_ldn
+2017-11-21 18:14:18 Favorites: 51.4% at 40/sec for GeorgeTakei
+2017-11-21 18:14:56 Favorites: 50.6% at 36/sec for GKRLtd
+2017-11-21 18:15:01 Favorites: 54.3% at 41/sec for mermhart
+2017-11-21 18:15:20 Favorites: Waiting for 11.8 minutes due to : Used up allowance in a loop
+2017-11-21 18:15:27 Tweets   : 13.9% at 38/sec for iioannoulbs
+2017-11-21 18:16:44 Tweets   : 28.2% at 41/sec for World_Wildlife
+2017-11-21 18:18:03 Tweets   : 18.4% at 40/sec for BritishBakeOff
+2017-11-21 18:19:16 Tweets   : 61% at 43/sec for eucopresident
+2017-11-21 18:19:29 Friends  : 94.3% at 24/sec for imajsaclaimant
+2017-11-21 18:20:09 Friends  : 99.8% at 39/sec for EUEnvironment
+2017-11-21 18:20:27 Tweets   : 6.7% at 45/sec for ParlyApp
+2017-11-21 18:21:13 Friends  : 99.8% at 39/sec for withbricks
+2017-11-21 18:21:47 Tweets   : 63.3% at 40/sec for MoversShakersUK
+2017-11-21 18:22:09 Friends  : 99.4% at 43/sec for StockportHomes
+2017-11-21 18:22:21 Friends  : 99.2% at 40/sec for DanielJHannan
+2017-11-21 18:23:03 Tweets   : 9.6% at 42/sec for unibirmingham
+2017-11-21 18:23:16 Friends  : 98.9% at 42/sec for CitizensUK
+2017-11-21 18:23:19 Friends  : 100% at 34/sec for williamnhutton
+Error in twInterfaceObj$doAPICall(paste("users", "show", sep = "/"), params = params,  : 
+  Not Found (HTTP 404).
+In addition: Warning message:
+package 'twitteR' was built under R version 3.4.1 
+2017-11-21 18:23:19 Friends: Unable to find account 24Dash moving to next
+2017-11-21 18:23:19 Friends  : % at /sec for 24Dash
+2017-11-21 18:24:01 Friends  : 99.7% at 41/sec for triodosuk
+2017-11-21 18:24:16 Tweets   : 12.3% at 44/sec for MurrayNewlands
+2017-11-21 18:25:35 Tweets   : 10.9% at 41/sec for vinspired
+2017-11-21 18:26:52 Tweets   : 14.4% at 41/sec for CareQualityComm
+2017-11-21 18:28:14 Friends  : 100% at 36/sec for StylistMagazine
+2017-11-21 18:28:17 Tweets   : 20.1% at 38/sec for SomersetHouse
+2017-11-21 18:28:31 Friends  : 99.4% at 37/sec for jamesmurray_ldn
+2017-11-21 18:28:33 Favorites: 28.6% at 4/sec for asda
+2017-11-21 18:29:34 Tweets   : 8.1% at 41/sec for OrdnanceSurvey
+2017-11-21 18:29:51 Favorites: 47.6% at 38/sec for aljwhite
+2017-11-21 18:29:51 Favorites: User GaryGibbonBlog has a protected account or no Favoritess to collect so skipping
+2017-11-21 18:30:38 Favorites: Waiting for 11.8 minutes due to : Used up allowance in a loop
+2017-11-21 18:30:52 Tweets   : 7.8% at 41/sec for thestudentroom
+2017-11-21 18:31:48 Tweets   : 99.8% at 43/sec for ukstanleytools
+2017-11-21 18:33:06 Tweets   : 5.6% at 41/sec for KayBurley
+2017-11-21 18:34:23 Tweets   : 13.7% at 42/sec for Wimbledon
+2017-11-21 18:35:43 Tweets   : 15.2% at 40/sec for Sport_England
+2017-11-21 18:39:59 Friends  : 99.7% at 37/sec for iioannoulbs
+2017-11-21 18:40:18 Friends  : 100% at 39/sec for World_Wildlife
+2017-11-21 18:40:48 Friends  : 99.7% at 38/sec for BritishBakeOff
+2017-11-21 18:40:58 Friends  : 99.7% at 39/sec for eucopresident
+2017-11-21 18:41:24 Friends  : 98% at 41/sec for ParlyApp
+2017-11-21 18:41:33 Friends  : 100% at 36/sec for MoversShakersUK
+2017-11-21 18:41:54 Friends  : 98.5% at 40/sec for unibirmingham
+2017-11-21 18:41:54 Friends: Request of 338 exceeds the maximum of 15. Making an attemp
+Waiting will increase the number of results returned
+2017-11-21 18:41:54 Friends  : Waiting for 1.4 minutes
+2017-11-21 18:43:17 Favorites: 10.5% at 4/sec for imajsaclaimant
+2017-11-21 18:43:24 Favorites: 58.3% at 41/sec for EUEnvironment
+2017-11-21 18:43:31 Favorites: 51.9% at 41/sec for withbricks
+2017-11-21 18:44:02 Favorites: 53.2% at 38/sec for StockportHomes
+2017-11-21 18:44:03 Favorites: 20% at 5/sec for DanielJHannan
+2017-11-21 18:45:12 Favorites: 50% at 40/sec for CitizensUK
+2017-11-21 18:45:14 Favorites: 100% at 29/sec for williamnhutton
+2017-11-21 18:45:14 Favorites: User 24Dash has a protected account or no Favoritess to collect so skipping
+2017-11-21 18:45:45 Favorites: Waiting for 12 minutes due to : Used up allowance in a loop
+2017-11-21 18:58:11 Favorites: 49.9% at 2/sec for triodosuk
+2017-11-21 18:58:54 Favorites: 51.2% at 38/sec for StylistMagazine
+2017-11-21 18:58:59 Favorites: 58.9% at 39/sec for jamesmurray_ldn
+2017-11-21 18:59:10 Favorites: 56.2% at 38/sec for iioannoulbs
+2017-11-21 18:59:15 Favorites: 94.2% at 38/sec for World_Wildlife
+2017-11-21 19:00:09 Favorites: 48.2% at 37/sec for BritishBakeOff
+2017-11-21 19:00:10 Favorites: 98.1% at 31/sec for eucopresident
+2017-11-21 19:00:41 Favorites: 50.9% at 38/sec for ParlyApp
+2017-11-21 19:00:57 Favorites: 58% at 40/sec for MoversShakersUK
+2017-11-21 19:01:17 Favorites: Waiting for 11.8 minutes due to : Used up allowance in a loop
+2017-11-21 19:14:12 Friends  : 4.3% at 37/sec for MurrayNewlands
+2017-11-21 19:14:29 Favorites: 20.4% at 4/sec for unibirmingham
+2017-11-21 19:15:48 Favorites: 3% at 40/sec for MurrayNewlands
+2017-11-21 19:16:29 Favorites: Waiting for 11.9 minutes due to : Used up allowance in a loop
+2017-11-21 19:21:25 Friends  : 99.4% at 35/sec for vinspired
+2017-11-21 19:23:11 Friends  : 98.6% at 38/sec for CareQualityComm
+2017-11-21 19:24:55 Friends  : 99.7% at 37/sec for SomersetHouse
+2017-11-21 19:26:33 Friends  : 99.7% at 36/sec for OrdnanceSurvey
+2017-11-21 19:29:00 Friends  : 26% at 34/sec for thestudentroom
+2017-11-21 19:29:02 Favorites: 51.2% at 3/sec for vinspired
+2017-11-21 19:29:27 Friends  : 99.9% at 32/sec for ukstanleytools
+2017-11-21 19:29:36 Friends  : 100% at 31/sec for KayBurley
+2017-11-21 19:29:47 Friends  : 99.5% at 32/sec for Wimbledon
+2017-11-21 19:30:01 Favorites: 49.7% at 39/sec for CareQualityComm
+2017-11-21 19:30:20 Favorites: 50.2% at 37/sec for SomersetHouse
+2017-11-21 19:30:41 Friends  : 99.2% at 34/sec for Sport_England
+2017-11-21 19:31:43 Favorites: 9.6% at 39/sec for OrdnanceSurvey
+2017-11-21 19:31:53 Favorites: Waiting for 11.8 minutes due to : Used up allowance in a loop
+2017-11-21 19:44:52 Favorites: 48% at 3/sec for thestudentroom
+2017-11-21 19:45:01 Favorites: 60.7% at 41/sec for ukstanleytools
+2017-11-21 19:46:17 Favorites: 12.4% at 41/sec for KayBurley
+2017-11-21 19:46:52 Favorites: Waiting for 12.2 minutes due to : Used up allowance in a loop
+2017-11-21 19:59:27 Favorites: 48.7% at 2/sec for Wimbledon
+2017-11-21 20:00:48 Favorites: 23.6% at 40/sec for Sport_England
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+In twInterfaceObj$doAPICall(cmd, params, method, ...) :
+  Rate limit encountered & retry limit reached - returning partial results
+Warning message:
+package 'twitteR' was built under R version 3.4.1 

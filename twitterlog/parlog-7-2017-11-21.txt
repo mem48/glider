@@ -1,0 +1,174 @@
+starting worker pid=12396 on localhost:11271 at 15:39:04.648
+starting worker pid=14496 on localhost:11271 at 15:39:04.903
+starting worker pid=6296 on localhost:11271 at 15:39:05.135
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+[1] "Using direct authentication"
+2017-11-21 15:39:23 Favorites: 55.2% at 30/sec for TyndallCentre
+2017-11-21 15:39:24 Friends  : 99.7% at 34/sec for TyndallCentre
+2017-11-21 15:39:49 Favorites: 49.2% at 37/sec for prodnose
+2017-11-21 15:39:54 Friends  : 99.1% at 38/sec for prodnose
+2017-11-21 15:40:09 Tweets   : 99.8% at 41/sec for TyndallCentre
+2017-11-21 15:40:49 Favorites: 51.2% at 35/sec for SebastianEPayne
+2017-11-21 15:40:51 Friends  : 99.3% at 36/sec for SebastianEPayne
+2017-11-21 15:41:18 Friends  : 99.9% at 35/sec for sportrelief
+2017-11-21 15:41:24 Tweets   : 7.8% at 42/sec for prodnose
+2017-11-21 15:41:30 Favorites: 49.2% at 36/sec for sportrelief
+2017-11-21 15:41:44 Favorites: 49.9% at 35/sec for PlanetGreen
+2017-11-21 15:41:55 Friends  : 99.9% at 37/sec for PlanetGreen
+2017-11-21 15:42:04 Favorites: 49.9% at 34/sec for BIFM_UK
+2017-11-21 15:42:13 Favorites: 62.1% at 34/sec for worldarchfest
+2017-11-21 15:42:24 Favorites: 58.1% at 35/sec for peterwalker99
+2017-11-21 15:42:26 Favorites: 100% at 26/sec for FactCheck
+2017-11-21 15:42:30 Friends  : 99.6% at 35/sec for BIFM_UK
+2017-11-21 15:42:34 Favorites: 50.8% at 38/sec for MarkHarris1863
+2017-11-21 15:42:39 Tweets   : 12.5% at 43/sec for SebastianEPayne
+2017-11-21 15:42:45 Favorites: Waiting for 11.6 minutes due to : Used up allowance in a loop
+2017-11-21 15:43:53 Tweets   : 21.2% at 44/sec for sportrelief
+2017-11-21 15:44:08 Friends  : 99.9% at 38/sec for worldarchfest
+2017-11-21 15:44:23 Friends  : 99.7% at 39/sec for peterwalker99
+2017-11-21 15:44:42 Friends  : 100% at 39/sec for FactCheck
+2017-11-21 15:45:00 Tweets   : 10.3% at 48/sec for PlanetGreen
+2017-11-21 15:46:13 Tweets   : 22.1% at 44/sec for BIFM_UK
+2017-11-21 15:46:17 Friends  : 96.6% at 40/sec for MarkHarris1863
+2017-11-21 15:47:20 Friends  : 99.2% at 39/sec for MunicipalDreams
+2017-11-21 15:47:24 Tweets   : 72.6% at 45/sec for worldarchfest
+2017-11-21 15:47:49 Friends  : 99.6% at 39/sec for suzanne_moore
+2017-11-21 15:48:03 Friends  : 99.8% at 38/sec for SustAbility
+2017-11-21 15:48:28 Tweets   : 9.1% at 50/sec for peterwalker99
+2017-11-21 15:49:13 Friends  : 98.2% at 41/sec for charlotteh_hsg
+2017-11-21 15:49:13 Friends  : Waiting for 4 minutes
+2017-11-21 15:49:33 Tweets   : 64.1% at 50/sec for FactCheck
+2017-11-21 15:50:41 Tweets   : 80% at 47/sec for MarkHarris1863
+2017-11-21 15:51:51 Tweets   : 30.8% at 46/sec for MunicipalDreams
+2017-11-21 15:52:56 Tweets   : 5.3% at 49/sec for suzanne_moore
+2017-11-21 15:53:54 Friends  : 99.7% at 5/sec for UE
+2017-11-21 15:54:08 Tweets   : 44.9% at 45/sec for SustAbility
+2017-11-21 15:55:13 Friends  : 99.6% at 39/sec for loubgray
+2017-11-21 15:55:22 Tweets   : 47.9% at 43/sec for charlotteh_hsg
+2017-11-21 15:55:27 Favorites: 49.9% at 3/sec for MunicipalDreams
+2017-11-21 15:55:35 Friends  : 99.9% at 38/sec for RealHomes
+2017-11-21 15:56:36 Tweets   : 11.4% at 43/sec for UE
+2017-11-21 15:56:42 Favorites: 48.6% at 37/sec for suzanne_moore
+2017-11-21 15:56:52 Favorites: 62.2% at 39/sec for SustAbility
+2017-11-21 15:57:06 Favorites: 53.2% at 36/sec for charlotteh_hsg
+2017-11-21 15:57:17 Favorites: 50.3% at 35/sec for UE
+2017-11-21 15:57:51 Tweets   : 31.9% at 43/sec for loubgray
+2017-11-21 15:58:02 Favorites: Waiting for 11.6 minutes due to : Used up allowance in a loop
+2017-11-21 15:59:05 Tweets   : 32.4% at 43/sec for RealHomes
+2017-11-21 16:00:13 Tweets   : 9.5% at 47/sec for pressgazette
+2017-11-21 16:00:58 Friends  : 100% at 38/sec for pressgazette
+2017-11-21 16:01:22 Tweets   : 22.1% at 44/sec for ACEVO
+2017-11-21 16:02:25 Friends  : 99.8% at 39/sec for ACEVO
+2017-11-21 16:02:35 Tweets   : 67.3% at 44/sec for EmilyW_9
+2017-11-21 16:03:00 Tweets   : 100% at 36/sec for PJTheEconomist
+2017-11-21 16:03:01 Friends  : 99.4% at 43/sec for EmilyW_9
+2017-11-21 16:03:07 Friends  : 99.5% at 36/sec for PJTheEconomist
+2017-11-21 16:03:35 Friends  : 99.7% at 46/sec for Hanover_Housing
+2017-11-21 16:04:08 Tweets   : 99.8% at 45/sec for Hanover_Housing
+2017-11-21 16:05:20 Tweets   : 4.2% at 44/sec for Tanni_GT
+2017-11-21 16:06:23 Friends  : 99.1% at 42/sec for Tanni_GT
+2017-11-21 16:06:33 Tweets   : 26.7% at 44/sec for Dorian_Belvoir
+2017-11-21 16:07:46 Tweets   : 28.2% at 44/sec for davidwalliams
+2017-11-21 16:08:09 Friends  : 99.4% at 41/sec for Dorian_Belvoir
+2017-11-21 16:08:10 Friends  : Waiting for 0.2 minutes
+2017-11-21 16:08:56 Tweets   : 20.9% at 46/sec for UKYP
+2017-11-21 16:10:03 Tweets   : 94.3% at 48/sec for CitiesResearch
+2017-11-21 16:10:41 Favorites: 38.3% at 4/sec for loubgray
+2017-11-21 16:11:07 Favorites: 54.2% at 35/sec for RealHomes
+2017-11-21 16:11:09 Favorites: 65.4% at 34/sec for pressgazette
+2017-11-21 16:11:19 Tweets   : 22.5% at 42/sec for homesandgardens
+2017-11-21 16:11:21 Favorites: 56.3% at 35/sec for ACEVO
+2017-11-21 16:11:26 Favorites: 73.9% at 38/sec for EmilyW_9
+2017-11-21 16:11:27 Favorites: 100% at 28/sec for PJTheEconomist
+2017-11-21 16:11:38 Favorites: 58.2% at 36/sec for Hanover_Housing
+2017-11-21 16:11:41 Favorites: 92.4% at 34/sec for Tanni_GT
+2017-11-21 16:12:39 Tweets   : 12.2% at 40/sec for PaulGoodmanCH
+2017-11-21 16:13:12 Favorites: 7% at 35/sec for Dorian_Belvoir
+2017-11-21 16:13:20 Favorites: Waiting for 11.6 minutes due to : Used up allowance in a loop
+2017-11-21 16:13:59 Tweets   : 7% at 39/sec for EverydaySexism
+2017-11-21 16:15:04 Friends  : 99.5% at 38/sec for davidwalliams
+2017-11-21 16:15:11 Tweets   : 2.7% at 45/sec for brainpicker
+2017-11-21 16:16:23 Tweets   : 16.3% at 44/sec for NationalGallery
+2017-11-21 16:16:40 Friends  : 99.6% at 37/sec for UKYP
+2017-11-21 16:16:57 Friends  : 98.6% at 37/sec for CitiesResearch
+2017-11-21 16:17:08 Friends  : 100% at 36/sec for homesandgardens
+2017-11-21 16:17:35 Tweets   : 24.9% at 44/sec for TheEngineerUK
+2017-11-21 16:17:41 Friends  : 98.8% at 35/sec for PaulGoodmanCH
+2017-11-21 16:18:47 Tweets   : 56.2% at 45/sec for wallbarn
+2017-11-21 16:19:58 Tweets   : 9.2% at 45/sec for jayrayner1
+2017-11-21 16:20:35 Friends  : 99.8% at 39/sec for EverydaySexism
+2017-11-21 16:20:43 Friends  : 99.7% at 37/sec for brainpicker
+2017-11-21 16:21:07 Tweets   : 13.3% at 46/sec for WaterAidUK
+2017-11-21 16:22:04 Friends  : 99.9% at 39/sec for NationalGallery
+2017-11-21 16:22:06 Friends  : 98.1% at 27/sec for TheEngineerUK
+2017-11-21 16:22:07 Friends  : Waiting for 1.4 minutes
+2017-11-21 16:22:19 Tweets   : 6.3% at 45/sec for RNLI
+2017-11-21 16:23:27 Tweets   : 37.7% at 47/sec for lucymanning
+2017-11-21 16:24:40 Tweets   : 20.7% at 44/sec for sheffielduni
+2017-11-21 16:25:56 Tweets   : 2.6% at 42/sec for Dr_Black
+2017-11-21 16:26:32 Favorites: 26.5% at 4/sec for davidwalliams
+2017-11-21 16:27:11 Tweets   : 5.8% at 43/sec for EnergyCollectiv
+2017-11-21 16:28:05 Favorites: 28.2% at 34/sec for UKYP
+2017-11-21 16:28:06 Favorites: 93.1% at 24/sec for CitiesResearch
+2017-11-21 16:28:16 Tweets   : 99.6% at 43/sec for knowsleyhousing
+2017-11-21 16:28:30 Favorites: 52.6% at 34/sec for homesandgardens
+2017-11-21 16:28:38 Favorites: Waiting for 11.6 minutes due to : Used up allowance in a loop
+2017-11-21 16:29:28 Tweets   : 62.5% at 45/sec for EmmanuelMacron
+2017-11-21 16:30:41 Tweets   : 1% at 44/sec for TheSun
+2017-11-21 16:31:54 Tweets   : 5.2% at 44/sec for EcoWatch
+2017-11-21 16:32:37 Tweets   : 99.5% at 36/sec for FrancesOGrady
+2017-11-21 16:33:56 Tweets   : 6.9% at 40/sec for StevePeers
+2017-11-21 16:35:05 Friends  : 99.6% at 33/sec for wallbarn
+2017-11-21 16:35:09 Friends  : 98.7% at 32/sec for jayrayner1
+2017-11-21 16:35:15 Tweets   : 20% at 41/sec for AlanCarr
+2017-11-21 16:36:30 Tweets   : 94% at 42/sec for IPCC_CH
+2017-11-21 16:37:39 Tweets   : 34.6% at 46/sec for PropMatters_
+2017-11-21 16:40:37 Favorites: 49.9% at 1/sec for PaulGoodmanCH
+2017-11-21 16:42:05 Favorites: 18.1% at 35/sec for EverydaySexism
+2017-11-21 16:42:25 Favorites: 50.6% at 36/sec for brainpicker
+2017-11-21 16:43:55 Favorites: 47.8% at 35/sec for NationalGallery
+2017-11-21 16:43:55 Favorites: Waiting for 11.6 minutes due to : Used up allowance in a loop
+2017-11-21 16:44:23 Friends  : 99.8% at 37/sec for WaterAidUK
+2017-11-21 16:49:44 Friends  : 99.8% at 37/sec for RNLI
+2017-11-21 16:50:13 Friends  : 99.6% at 41/sec for lucymanning
+2017-11-21 16:55:50 Favorites: 83.3% at 0/sec for TheEngineerUK
+2017-11-21 16:55:55 Friends  : 100% at 36/sec for sheffielduni
+2017-11-21 16:56:06 Favorites: 51.2% at 36/sec for wallbarn
+2017-11-21 16:56:09 Favorites: 51.8% at 37/sec for jayrayner1
+2017-11-21 16:57:36 Favorites: 9.6% at 37/sec for WaterAidUK
+2017-11-21 16:59:02 Favorites: 5.5% at 37/sec for RNLI
+2017-11-21 16:59:03 Favorites: 100% at 23/sec for lucymanning
+2017-11-21 16:59:03 Favorites: Waiting for 11.8 minutes due to : Used up allowance in a loop
+2017-11-21 17:09:22 Friends  : 98.3% at 36/sec for Dr_Black
+2017-11-21 17:10:35 Friends  : 99.9% at 37/sec for EnergyCollectiv
+2017-11-21 17:10:46 Friends  : 99% at 35/sec for knowsleyhousing
+2017-11-21 17:11:04 Friends  : 99.1% at 36/sec for EmmanuelMacron
+2017-11-21 17:11:16 Friends  : 99.7% at 31/sec for TheSun
+2017-11-21 17:12:30 Favorites: 45% at 4/sec for sheffielduni
+2017-11-21 17:13:41 Favorites: 51% at 36/sec for Dr_Black
+2017-11-21 17:13:49 Favorites: 55.7% at 41/sec for EnergyCollectiv
+2017-11-21 17:13:51 Favorites: 56% at 43/sec for knowsleyhousing
+2017-11-21 17:13:51 Favorites: 100% at 7/sec for EmmanuelMacron
+2017-11-21 17:14:00 Favorites: 51.2% at 42/sec for TheSun
+2017-11-21 17:14:16 Favorites: Waiting for 11.8 minutes due to : Used up allowance in a loop
+2017-11-21 17:22:13 Friends  : 100% at 39/sec for EcoWatch
+2017-11-21 17:22:21 Friends  : 100% at 43/sec for FrancesOGrady
+2017-11-21 17:22:21 Friends  : Waiting for 2.1 minutes
+2017-11-21 17:26:44 Favorites: Unable to find account EcoWatch during loop number 10 moving to next loop
+2017-11-21 17:26:48 Favorites: 46% at 1/sec for EcoWatch
+2017-11-21 17:26:50 Favorites: 70.7% at 53/sec for FrancesOGrady
+2017-11-21 17:27:53 Favorites: 13.7% at 51/sec for StevePeers
+2017-11-21 17:27:59 Favorites: 65.2% at 50/sec for AlanCarr
+2017-11-21 17:28:02 Favorites: 50.6% at 54/sec for IPCC_CH
+2017-11-21 17:28:03 Favorites: 100% at 4/sec for PropMatters_
+2017-11-21 17:37:48 Friends  : 94.7% at 38/sec for StevePeers
+2017-11-21 17:38:02 Friends  : 99.6% at 48/sec for AlanCarr
+2017-11-21 17:38:12 Friends  : 98.5% at 44/sec for IPCC_CH
+2017-11-21 17:40:29 Friends  : 98.1% at 42/sec for PropMatters_
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+Warning message:
+package 'twitteR' was built under R version 3.4.1 
+Warning message:
+package 'twitteR' was built under R version 3.4.1 

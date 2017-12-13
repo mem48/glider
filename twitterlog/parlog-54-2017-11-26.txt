@@ -1,0 +1,186 @@
+starting worker pid=2728 on localhost:11271 at 23:36:13.706
+starting worker pid=620 on localhost:11271 at 23:36:13.919
+starting worker pid=4480 on localhost:11271 at 23:36:14.080
+[1][1] "Using direct authentication"
+Using direct authentication"
+Error in twInterfaceObj$doAPICall(paste("users", "show", sep = "/"), params = params,  : 
+  Not Found (HTTP 404).
+In addition: Warning message:
+package 'twitteR' was built under R version 3.4.1 
+2017-11-26 23:37:37 Friends: Unable to find account PastPostcard moving to next
+2017-11-26 23:37:37 Friends  : % at /sec for PastPostcard
+2017-11-26 23:37:56 Friends  : 99.4% at 26/sec for MartinGilbert83
+2017-11-26 23:40:30 Favorites: 7.5% at 34/sec for PastPostcard
+2017-11-26 23:40:56 Favorites: 53.6% at 41/sec for MartinGilbert83
+2017-11-26 23:41:07 Friends  : 100% at 37/sec for BusinessMoney
+2017-11-26 23:41:09 Favorites: 59.1% at 39/sec for BusinessMoney
+2017-11-26 23:41:09 Favorites: Waiting for 5.8 minutes due to : Used up allowance in a loop
+2017-11-26 23:41:13 Friends  : 99.6% at 40/sec for AgenceDeParfume
+2017-11-26 23:41:47 Tweets   : 47.5% at 40/sec for PastPostcard
+2017-11-26 23:42:17 Friends  : 100% at 38/sec for OnlineBingoBon
+2017-11-26 23:42:36 Friends  : 2657.1% at 39/sec for MatthewRycroft1
+2017-11-26 23:42:36 Friends  : User 157group has a protected account or no Friendss to collect so skipping
+2017-11-26 23:42:43 Tweets   : 100% at 42/sec for MartinGilbert83
+2017-11-26 23:43:03 Friends  : 98.6% at 42/sec for NFYFC
+2017-11-26 23:43:15 Friends  : 99.8% at 46/sec for LandRoverBAR
+2017-11-26 23:43:35 Friends  : 94.3% at 41/sec for TruFit_it
+2017-11-26 23:43:49 Tweets   : 8.6% at 48/sec for BusinessMoney
+2017-11-26 23:43:50 Friends  : 97.7% at 39/sec for SocialBusiness9
+2017-11-26 23:44:11 Tweets   : 100% at 27/sec for AgenceDeParfume
+2017-11-26 23:44:30 Friends  : 94.8% at 36/sec for xtrons_ug
+2017-11-26 23:45:15 Tweets   : 46.7% at 50/sec for OnlineBingoBon
+2017-11-26 23:46:30 Tweets   : 85.1% at 43/sec for MatthewRycroft1
+2017-11-26 23:46:30 Tweets   : User 157group has a protected account or no Tweetss to collect so skipping
+2017-11-26 23:47:01 Favorites: 97.4% at 0/sec for AgenceDeParfume
+2017-11-26 23:47:18 Friends  : 95.9% at 37/sec for PocketOffers
+2017-11-26 23:47:26 Favorites: 52.1% at 43/sec for OnlineBingoBon
+2017-11-26 23:47:45 Tweets   : 13.5% at 43/sec for NFYFC
+2017-11-26 23:48:26 Favorites: 49.9% at 41/sec for MatthewRycroft1
+2017-11-26 23:48:26 Favorites: User 157group has a protected account or no Favoritess to collect so skipping
+2017-11-26 23:49:02 Tweets   : 69.6% at 41/sec for LandRoverBAR
+2017-11-26 23:49:33 Friends  : 100% at 32/sec for RagingBullLtd
+2017-11-26 23:49:50 Favorites: 40.6% at 38/sec for NFYFC
+2017-11-26 23:49:58 Tweets   : 100% at 41/sec for TruFit_it
+2017-11-26 23:50:01 Favorites: Waiting for 11.9 minutes due to : Used up allowance in a loop
+2017-11-26 23:51:18 Tweets   : 13.6% at 40/sec for SocialBusiness9
+2017-11-26 23:51:44 Friends  : 98.3% at 37/sec for JonasHaberkorn
+2017-11-26 23:51:44 Friends  : Waiting for 1 minutes
+2017-11-26 23:52:36 Tweets   : 82% at 41/sec for xtrons_ug
+2017-11-26 23:53:14 Friends  : 96.8% at 14/sec for stracma
+2017-11-26 23:53:20 Friends  : 98.3% at 44/sec for Solretail
+2017-11-26 23:53:38 Tweets   : 99.9% at 38/sec for PocketOffers
+2017-11-26 23:53:47 Friends  : 99.7% at 37/sec for SimplySupps
+2017-11-26 23:54:21 Friends  : 91.1% at 36/sec for ScaffoldingNews
+2017-11-26 23:54:42 Tweets   : 97.3% at 45/sec for RagingBullLtd
+2017-11-26 23:54:54 Friends  : 99.4% at 37/sec for Danielhopwood
+2017-11-26 23:55:35 Friends  : 97.7% at 36/sec for ArtGuideAlex
+2017-11-26 23:55:45 Friends  : 98.9% at 34/sec for SimonHeath1
+2017-11-26 23:55:54 Tweets   : 28.1% at 44/sec for JonasHaberkorn
+2017-11-26 23:56:05 Friends  : 99.6% at 37/sec for FableticsEU
+2017-11-26 23:56:53 Friends  : 99.2% at 35/sec for blackscheese
+2017-11-26 23:57:12 Tweets   : 17.7% at 41/sec for stracma
+2017-11-26 23:57:30 Friends  : 98.5% at 35/sec for sccscot
+2017-11-26 23:57:30 Friends  : User WSP_PB_UK has a protected account or no Friendss to collect so skipping
+2017-11-26 23:58:18 Friends  : 96.7% at 33/sec for ExeterCX
+2017-11-26 23:58:25 Tweets   : 74.3% at 44/sec for Solretail
+2017-11-26 23:58:57 Friends  : 97.6% at 34/sec for JordanClearview
+2017-11-26 23:59:37 Friends  : 98.4% at 34/sec for ZSTaUK
+2017-11-26 23:59:42 Tweets   : 47.4% at 42/sec for SimplySupps
+2017-11-27 00:00:57 Friends  : 99% at 32/sec for ChicGeekDiary
+2017-11-27 00:01:02 Tweets   : 31.3% at 40/sec for ScaffoldingNews
+2017-11-27 00:01:09 Friends  : 95.9% at 37/sec for LailaLondon1
+2017-11-27 00:01:09 Friends  : Waiting for 6.6 minutes
+2017-11-27 00:01:59 Favorites: 52.4% at 1/sec for LandRoverBAR
+2017-11-27 00:02:04 Favorites: 88.4% at 41/sec for TruFit_it
+2017-11-27 00:02:23 Tweets   : 28.3% at 39/sec for Danielhopwood
+2017-11-27 00:03:20 Favorites: 12.2% at 42/sec for SocialBusiness9
+2017-11-27 00:03:30 Favorites: 53% at 40/sec for xtrons_ug
+2017-11-27 00:03:35 Favorites: 78.5% at 36/sec for PocketOffers
+2017-11-27 00:03:35 Tweets   : 28.7% at 44/sec for ArtGuideAlex
+2017-11-27 00:04:02 Favorites: 51.6% at 46/sec for RagingBullLtd
+2017-11-27 00:04:45 Tweets   : 7.2% at 46/sec for SimonHeath1
+2017-11-27 00:04:51 Favorites: Waiting for 12.1 minutes due to : Used up allowance in a loop
+2017-11-27 00:05:51 Tweets   : 61.5% at 49/sec for FableticsEU
+2017-11-27 00:06:46 Tweets   : 99.6% at 43/sec for blackscheese
+2017-11-27 00:08:03 Tweets   : 74.5% at 42/sec for sccscot
+2017-11-27 00:08:09 Tweets   : 100% at 0/sec for WSP_PB_UK
+2017-11-27 00:09:34 Tweets   : 84.1% at 38/sec for ExeterCX
+2017-11-27 00:09:51 Friends  : 92.8% at 9/sec for online4baby
+2017-11-27 00:10:14 Friends  : 99.1% at 36/sec for CareerCollegesT
+2017-11-27 00:10:56 Tweets   : 99.9% at 39/sec for JordanClearview
+2017-11-27 00:11:01 Friends  : 98.1% at 39/sec for GoodMoneyGirl
+2017-11-27 00:11:25 Friends  : 98.6% at 35/sec for CultureLPool
+2017-11-27 00:11:38 Tweets   : 99.6% at 30/sec for ZSTaUK
+2017-11-27 00:12:00 Friends  : 98% at 38/sec for PaulStreets_
+2017-11-27 00:12:44 Tweets   : 9.3% at 49/sec for ChicGeekDiary
+2017-11-27 00:12:49 Friends  : 99.9% at 35/sec for Expo2015Milano
+2017-11-27 00:12:57 Friends  : 108.3% at 30/sec for GallTryBIM
+2017-11-27 00:12:57 Friends  : Waiting for 9.9 minutes
+2017-11-27 00:13:07 Tweets   : 100% at 40/sec for LailaLondon1
+2017-11-27 00:13:51 Tweets   : 99.9% at 46/sec for online4baby
+2017-11-27 00:14:59 Tweets   : 98.7% at 44/sec for CareerCollegesT
+2017-11-27 00:16:09 Tweets   : 46.7% at 46/sec for GoodMoneyGirl
+2017-11-27 00:16:58 Favorites: 8.5% at 3/sec for JonasHaberkorn
+2017-11-27 00:16:58 Favorites: Waiting for 0 minutes due to : Used up allowance in a loop
+2017-11-27 00:17:22 Tweets   : 24.8% at 43/sec for CultureLPool
+2017-11-27 00:18:15 Favorites: 11.7% at 42/sec for stracma
+2017-11-27 00:18:42 Tweets   : 85.5% at 40/sec for PaulStreets_
+2017-11-27 00:19:27 Favorites: 48.1% at 44/sec for Solretail
+2017-11-27 00:19:48 Favorites: Waiting for 12.2 minutes due to : Used up allowance in a loop
+2017-11-27 00:20:03 Tweets   : 6.1% at 39/sec for Expo2015Milano
+2017-11-27 00:20:47 Tweets   : 99.9% at 37/sec for GallTryBIM
+2017-11-27 00:21:58 Tweets   : 47.8% at 45/sec for MarshallJulius
+2017-11-27 00:23:11 Tweets   : 13.3% at 44/sec for EmmaJ70
+2017-11-27 00:23:30 Tweets   : 100% at 35/sec for AgeofDad
+2017-11-27 00:24:15 Tweets   : 99.9% at 42/sec for we_are_soak
+2017-11-27 00:25:27 Tweets   : 70.2% at 44/sec for Eternal_Collect
+2017-11-27 00:26:42 Tweets   : 46.3% at 42/sec for Dunlopman
+2017-11-27 00:28:02 Tweets   : 31.4% at 40/sec for DrSueOosthuizen
+2017-11-27 00:29:20 Tweets   : 7.5% at 41/sec for ExeterChiefs
+2017-11-27 00:30:32 Tweets   : 74.7% at 44/sec for macaronsandmore
+2017-11-27 00:31:37 Tweets   : 67.2% at 49/sec for SchoolsWeekLive
+2017-11-27 00:31:58 Tweets   : 100% at 31/sec for REAL_Aluminium
+2017-11-27 00:31:59 Favorites: 8.2% at 1/sec for SimplySupps
+2017-11-27 00:31:59 Favorites: Waiting for 0 minutes due to : Used up allowance in a loop
+2017-11-27 00:32:15 Favorites: 51.4% at 38/sec for ScaffoldingNews
+2017-11-27 00:32:50 Favorites: 50.4% at 43/sec for Danielhopwood
+2017-11-27 00:34:12 Favorites: 28.1% at 40/sec for ArtGuideAlex
+2017-11-27 00:34:59 Favorites: Waiting for 12 minutes due to : Used up allowance in a loop
+2017-11-27 00:47:29 Favorites: 30.1% at 4/sec for SimonHeath1
+2017-11-27 00:48:51 Favorites: 15.2% at 38/sec for FableticsEU
+2017-11-27 00:49:07 Favorites: 56.7% at 43/sec for blackscheese
+2017-11-27 00:49:29 Favorites: 54.3% at 41/sec for sccscot
+2017-11-27 00:49:29 Favorites: User WSP_PB_UK has a protected account or no Favoritess to collect so skipping
+2017-11-27 00:49:49 Favorites: 51.8% at 39/sec for ExeterCX
+2017-11-27 00:50:00 Favorites: Waiting for 12 minutes due to : Used up allowance in a loop
+2017-11-27 00:50:50 Friends  : 95.9% at 30/sec for MarshallJulius
+2017-11-27 00:51:31 Friends  : 98.6% at 48/sec for EmmaJ70
+2017-11-27 00:51:45 Friends  : 90.5% at 43/sec for AgeofDad
+Error in twInterfaceObj$doAPICall(paste("users", "show", sep = "/"), params = params,  : 
+  Not Found (HTTP 404).
+2017-11-27 00:51:46 Friends: Unable to find account we_are_soak moving to next
+2017-11-27 00:51:46 Friends  : % at /sec for we_are_soak
+2017-11-27 00:52:08 Friends  : 98.3% at 50/sec for Eternal_Collect
+2017-11-27 00:52:30 Friends  : 96.3% at 44/sec for Dunlopman
+2017-11-27 00:53:32 Friends  : 96.7% at 48/sec for DrSueOosthuizen
+2017-11-27 00:53:52 Friends  : 99.3% at 41/sec for ExeterChiefs
+2017-11-27 00:55:53 Friends  : 99.8% at 42/sec for macaronsandmore
+2017-11-27 00:55:57 Friends  : 100% at 41/sec for SchoolsWeekLive
+2017-11-27 00:56:16 Friends  : 95% at 42/sec for REAL_Aluminium
+2017-11-27 01:02:04 Favorites: 56.1% at 1/sec for JordanClearview
+2017-11-27 01:02:12 Favorites: 51.2% at 52/sec for ZSTaUK
+2017-11-27 01:02:52 Favorites: 51.1% at 46/sec for ChicGeekDiary
+2017-11-27 01:02:58 Favorites: 66.5% at 48/sec for LailaLondon1
+2017-11-27 01:03:17 Favorites: 50.1% at 43/sec for online4baby
+2017-11-27 01:03:32 Favorites: 56.4% at 45/sec for CareerCollegesT
+2017-11-27 01:04:09 Favorites: 49.9% at 43/sec for GoodMoneyGirl
+2017-11-27 01:04:47 Favorites: Waiting for 12.2 minutes due to : Used up allowance in a loop
+2017-11-27 01:17:36 Favorites: 35.3% at 4/sec for CultureLPool
+2017-11-27 01:18:20 Favorites: 43.5% at 43/sec for PaulStreets_
+2017-11-27 01:19:36 Favorites: 17.6% at 41/sec for Expo2015Milano
+2017-11-27 01:19:50 Favorites: Waiting for 12.2 minutes due to : Used up allowance in a loop
+2017-11-27 01:32:02 Favorites: 26% at 1/sec for GallTryBIM
+2017-11-27 01:32:02 Favorites: Waiting for 0 minutes due to : Used up allowance in a loop
+2017-11-27 01:33:16 Favorites: 11.4% at 43/sec for MarshallJulius
+2017-11-27 01:34:31 Favorites: 37.9% at 43/sec for EmmaJ70
+2017-11-27 01:34:33 Favorites: 52.6% at 67/sec for AgeofDad
+2017-11-27 01:34:40 Favorites: 71.7% at 41/sec for we_are_soak
+2017-11-27 01:34:51 Favorites: Waiting for 12.2 minutes due to : Used up allowance in a loop
+2017-11-27 01:48:05 Favorites: 26.1% at 4/sec for Eternal_Collect
+2017-11-27 01:49:15 Favorites: 41.1% at 45/sec for Dunlopman
+2017-11-27 01:49:45 Favorites: Waiting for 12.3 minutes due to : Used up allowance in a loop
+2017-11-27 02:02:47 Favorites: 17.9% at 4/sec for DrSueOosthuizen
+2017-11-27 02:03:37 Favorites: 49% at 44/sec for ExeterChiefs
+2017-11-27 02:04:48 Favorites: 38.4% at 45/sec for macaronsandmore
+2017-11-27 02:04:48 Favorites: Waiting for 12.3 minutes due to : Used up allowance in a loop
+2017-11-27 02:17:05 Favorites: 100% at 0/sec for SchoolsWeekLive
+2017-11-27 02:17:10 Favorites: 62.6% at 44/sec for REAL_Aluminium
+Warning messages:
+1: package 'twitteR' was built under R version 3.4.1 
+2: In twInterfaceObj$doAPICall(cmd, params, method, ...) :
+  Rate limit encountered & retry limit reached - returning partial results
+3: In twInterfaceObj$doAPICall(cmd, params, method, ...) :
+  Rate limit encountered & retry limit reached - returning partial results
+4: In twInterfaceObj$doAPICall(cmd, params, method, ...) :Warning message:
+ountered & retry limit reached - returning partial results
+package 'twitteR' was built under R version 3.4.1 
