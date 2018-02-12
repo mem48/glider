@@ -4,6 +4,15 @@ library(dplyr)
 g <- readRDS("../twitter_data/parRerun/All_Data.Rds")
 gorder(g)
 
+#List top missing accounts
+
+V(g)$degree.in <- degree(g, mode = "in")
+V(g)$degree.out <- degree(g, mode = "out")
+
+g.miss <- delete.vertices(g, which(V(g)$degree.out != 0))
+gorder(g.miss)
+verts.miss <- igraph::as_data_frame(g.miss, what="vertices")
+
 #Remove the Junk Accounts
 common <- readxl::read_xlsx("../twitter_data/accounts_fulldata_trim.xlsx", sheet =  "accounts_fulldata")
 common <- common[,c("name","Account Category","Account Type")]
@@ -40,15 +49,22 @@ V(g.trim)$strength.out <- strength(g.trim, mode = "out")
 #V(g.trim)$PageRank <- page_rank(g.trim, directed = TRUE, damping = 0.85, weights = E(g.trim)$weight)$vector
 V(g.trim)$between <- betweenness(g.trim)
 
-clus.info = cluster_infomap(g.trim, e.weights = E(g.trim)$weight, modularity = FALSE, nb.trials = 3) # Used both directed and weight info
-clus.between = cluster_edge_betweenness(g.trim, weights = E(g.trim)$weight, directed = TRUE)
+#clus.info = cluster_infomap(g.trim, e.weights = E(g.trim)$weight, modularity = FALSE, nb.trials = 3) # Used both directed and weight info
+#clus.between = cluster_edge_betweenness(g.trim, weights = E(g.trim)$weight, directed = TRUE)
 #https://bommaritollc.com/2012/06/17/summary-community-detection-algorithms-igraph-0-6/
-clus.walk = cluster_walktrap(g.trim, weights = E(g.trim)$weight, steps = 4, merges = TRUE, modularity = TRUE, membership = TRUE)
+#clus.walk = cluster_walktrap(g.trim, weights = E(g.trim)$weight, steps = 4, merges = TRUE, modularity = TRUE, membership = TRUE)
 
 
-V(g.trim)$member.info <- membership(clus.info)
-V(g.trim)$member.between <- membership(clus.between)
-V(g.trim)$member.walk <- membership(clus.walk)
+
+g.trim <- as.undirected(g.trim, mode = "collapse")
+clus.louvain = cluster_louvain(g.trim, weights = E(g.trim)$weight)
+clus.greedy = cluster_fast_greedy(g.trim, weights = E(g.trim)$weight)
+
+#V(g.trim)$member.info <- membership(clus.info)
+#V(g.trim)$member.between <- membership(clus.between)
+#V(g.trim)$member.walk <- membership(clus.walk)
+V(g.trim)$member.louvain <- membership(clus.louvain)
+V(g.trim)$member.greedy <- membership(clus.greedy)
 
 #Produce Summary Table
 verts <- igraph::as_data_frame(g.trim, what="vertices")
@@ -65,13 +81,13 @@ gorder(g.plot)
 
 layout =  layout_with_drl(g.plot, weights = E(g.plot)$weight, options=list(simmer.attraction=0), dim = 2)
 
-colours = sample ( rainbow ( max ( V(g.plot)$member.between, na.rm= T )  + 1) )
+colours = sample ( rainbow ( max ( V(g.plot)$member.louvain, na.rm= T )  + 1) )
 barplot(rep(1,length(colours)), col= colours)
-V(g.plot)$color = colours[V(g.plot)$member.between +1]
+V(g.plot)$color = colours[V(g.plot)$member.louvain +1]
 
 
 #svg(filename="../twitter_plots/MidParReRun-Clusters3.svg", width=30, height=15, pointsize=4)
-png(filename="../twitter_plots/All_removenewJunk.png", width=15, height=15, units = 'in', res = 1200, pointsize=2)   
+png(filename="../twitter_plots/All_removenewJunk_louvain.png", width=15, height=15, units = 'in', res = 1200, pointsize=2)   
 par(mar = c(0.01,0.01,0.01,0.01)); plot(g.plot,
      edge.width = E(g.plot)$weight/ 100,
      vertex.size = ifelse((V(g.plot)$strength.total / 2000) < 5, (V(g.plot)$strength.total / 2000) ,5 ),
@@ -89,18 +105,18 @@ par(mar = c(0.01,0.01,0.01,0.01)); plot(g.plot,
 
 
 # summarise the clusters
-clus_summ <- as.data.frame(table(V(g.trim)$member))
+clus_summ <- as.data.frame(table(V(g.trim)$member.louvain))
 clus_summ <- clus_summ[order(-clus_summ$Freq),]
 
 
-g.clus1 <- delete.vertices(g.trim, which(V(g.trim)$member != clus_summ$Var1[1]))
+g.clus1 <- delete.vertices(g.trim, which(V(g.trim)$member.louvain != clus_summ$Var1[1]))
 gorder(g.clus1)
 layout.clus1 =  layout_with_drl(g.clus1, weights = E(g.clus1)$weight, options=list(simmer.attraction=0), dim = 2)
 #colours.clus1 = sample ( rainbow ( max ( V(g.clus1)$member, na.rm= T )  + 1) )
 #V(g.clus1)$color = colours[V(g.clus1)$member +1]
 
 
-png(filename="../twitter_plots/All_LargestCluster.png", width=15, height=15, units = 'in', res = 1200, pointsize=2)   
+png(filename="../twitter_plots/All_LargestCluster_louvain.png", width=15, height=15, units = 'in', res = 1200, pointsize=2)   
 par(mar = c(0.01,0.01,0.01,0.01)); plot(g.clus1,
                                         edge.width = E(g.clus1)$weight/ 100,
                                         vertex.size = ifelse((V(g.clus1)$strength.total / 2000) < 5, (V(g.clus1)$strength.total / 2000) ,5 ),
@@ -127,7 +143,7 @@ layout.clus2 =  layout_with_drl(g.clus2, weights = E(g.clus2)$weight, options=li
 #V(g.clus2)$color = colours[V(g.clus2)$member +1]
 
 
-png(filename="../twitter_plots/All_2ndLargestCluster.png", width=15, height=15, units = 'in', res = 1200, pointsize=2)   
+png(filename="../twitter_plots/All_2ndLargestCluster_louvain.png", width=15, height=15, units = 'in', res = 1200, pointsize=2)   
 par(mar = c(0.01,0.01,0.01,0.01)); plot(g.clus2,
                                         edge.width = E(g.clus2)$weight/ 100,
                                         vertex.size = ifelse((V(g.clus2)$strength.total / 2000) < 5, (V(g.clus2)$strength.total / 2000) ,5 ),
@@ -213,7 +229,7 @@ c_scale <- colorRamp(c('white','red','yellow','cyan','blue'))
 V(g.nokeep)$color = apply(c_scale(V(g.nokeep)$between01), 1, function(x) rgb(x[1]/255,x[2]/255,x[3]/255) )
 
 #svg(filename="../twitter_plots/MidParReRun-Clusters3.svg", width=30, height=15, pointsize=4)
-png(filename="../twitter_plots/NonConstructionAccounts.png", width=15, height=15, units = 'in', res = 1200, pointsize=2)   
+png(filename="../twitter_plots/NonConstructionAccounts_infoclus.png", width=15, height=15, units = 'in', res = 1200, pointsize=2)   
 par(mar = c(0.01,0.01,0.01,0.01)); plot(g.nokeep,
                                         edge.width = E(g.nokeep)$weight/ 100,
                                         vertex.size = V(g.nokeep)$strength.total / 2000 ,
