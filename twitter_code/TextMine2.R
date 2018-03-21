@@ -26,26 +26,30 @@ likes <- likes[,c("text","favorited","favoriteCount", "replyToSN","created","tru
 
 keywords.retrofit <-      c("eco-renovation", "eco-retrofit",
                             "greendeal","greenbuilding",
+                            "heatpump",
                             "insulation",
                             "passivhaus","passivehouse",
-                            "retrofit","rennovation","refurbishment")
+                            "retrofit","renovation","refurbishment")
 keywords.eco <-           c("carbon","climate change","climatechange" ,"climate","co2","cleanenergy",
                             "eco","energy", "environmental","environment","emissions","energyefficiency","efficiency",
                             "green",
+                            "heat",
                             "lowcarbon","lowenergy",
                             "renewables", "renewable",
                             "smart","sustainable","solar","sustainability",
+                            "pv","photovoltaic",
                             "zerocarbon")
 keywords.construction <- c("architecture","architects", "architect", "architectural",
                            "building", "builder","built", "buildings","buildingcontrol","builders",
                            "construction",
                            "design",
                            "electrician","electricity","engineering","engineers",
+                           "joiner",
                            "glazing",
                            "infrastructure",
-                           "plumber","plumbing","plumbers",
+                           "plumber","plumbing","plumbers","plaster","plasterer",
                            "windows",
-                           "roofing","roof")
+                           "roofing","roof","repair","rmi")
 keywords.housing <-      c("housing", "homes","home", "house","heating","homeowner","housingcrisis",
                            "carbonmonoxide",
                            "property", "planning",
@@ -106,7 +110,7 @@ start <- Sys.time()
 fun <- function(cl){
   parLapply(cl, tweets$text ,scan.tweet)
 }
-cl <- makeCluster(7) #make clusert and set number of cores
+cl <- makeCluster(6) #make clusert and set number of cores
 clusterExport(cl=cl, varlist=c("keywords.retrofit", "keywords.eco","keywords.construction","keywords.housing"))
 #clusterExport(cl=cl, c('download.region') )
 clusterEvalQ(cl, {library(stringr)})
@@ -120,6 +124,7 @@ tweets.summary <- bind_rows(tweets.summary)
 
 saveRDS(tweets.summary,"../twitter_data/all/tweets_keywordsearch.Rds")
 
+tweets.summary <- readRDS("../twitter_data/all/tweets_keywordsearch.Rds")
 tweets.summary$all.keywords <- tweets.summary$retrofit + tweets.summary$eco + tweets.summary$construction + tweets.summary$housing
 
 tweets <- cbind.data.frame(tweets, tweets.summary)
@@ -176,7 +181,7 @@ likes <- likes[,c("favOf","screenName")]
 likes$type <- "likes"
 names(likes) <- c("from","to","type")
 
-friends <- friends[friends$screenName %in% accounts.tokeep,]
+friends <- friends[friends$friendof %in% accounts.tokeep,]
 friends <- friends[,c("friendof","screenName")]
 friends$type <- "friends"
 names(friends) <- c("from","to","type")
@@ -248,7 +253,7 @@ summary(is.na(conn.simple$from))
 summary(is.na(conn.simple$to))
 
 conn.simple <- conn.simple[!is.na(conn.simple$from) & !is.na(conn.simple$to),]
-conn.simple$friends <- as.character(conn.simple$friends)
+#conn.simple$friends <- as.character(conn.simple$friends)
 conn.simple <- as.data.frame(conn.simple)
 
 saveRDS(conn.simple,"../twitter_data/all/conn_simple_types_textanal.Rds")

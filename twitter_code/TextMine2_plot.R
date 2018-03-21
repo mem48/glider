@@ -12,12 +12,14 @@ g <- delete.vertices(g, which(degree(g, mode = "out") == 0))
 g <- delete.vertices(g, which(degree(g, mode = "out") == 0))
 gorder(g)
 
-g.trim <- delete.vertices(g, which(degree(g) < 200))
+#g.trim <- delete.vertices(g, which(degree(g) < 200))
+g.trim <- g
 gorder(g.trim)
 
 #g.trim <- as.undirected(g.trim, mode = "collapse")
 
 layout =  layout_with_drl(g.trim, weights = E(g.trim)$weight, options=list(simmer.attraction=0.001), dim = 2)
+layout.nosimmer =  layout_with_drl(g.trim, weights = E(g.trim)$weight, options=list(simmer.attraction=0), dim = 2)
 
 ecount(g.trim)
 g.friends <- delete.edges(g.trim, which(E(g.trim)$friends == 0))
@@ -31,11 +33,11 @@ ecount(g.retweets)
 g.weight <- delete.edges(g.trim, which(E(g.trim)$weight == 0))
 ecount(g.weight)
 
-clus.friends = cluster_infomap(g.friends, e.weights = E(g.friends)$friends)
-clus.likes = cluster_infomap(g.likes, e.weights = E(g.likes)$likes)
-clus.mentions = cluster_infomap(g.mentions, e.weights = E(g.mentions)$mentions)
-clus.retweets = cluster_infomap(g.retweets, e.weights = E(g.retweets)$retweets)
-clus.weight = cluster_infomap(g.weight, e.weights = E(g.weight)$weight)
+clus.friends = cluster_infomap(g.friends, e.weights = E(g.friends)$friends, nb.trials = 20)
+clus.likes = cluster_infomap(g.likes, e.weights = E(g.likes)$likes, nb.trials = 20)
+clus.mentions = cluster_infomap(g.mentions, e.weights = E(g.mentions)$mentions, nb.trials = 20)
+clus.retweets = cluster_infomap(g.retweets, e.weights = E(g.retweets)$retweets, nb.trials = 20)
+clus.weight = cluster_infomap(g.weight, e.weights = E(g.weight)$weight, nb.trials = 20)
 
 V(g.friends)$clus.friends <- membership(clus.friends)
 V(g.likes)$clus.likes <- membership(clus.likes)
@@ -65,7 +67,7 @@ V(g.retweets)$strength.retweets <- strength(g.retweets, mode = "total" , weights
 V(g.likes)$strength.likes <- strength(g.likes, mode = "total" , weights = E(g.likes)$likes)
 
 
-png(filename=paste0("../twitter_plots/connect_types/","weight",".png"), width=10, height=10, units = 'in', res = 600, pointsize=4)   
+png(filename=paste0("../twitter_plots/connect_types/","weight_nosimmer",".png"), width=10, height=10, units = 'in', res = 600, pointsize=4)   
 par(mar = c(0.01,0.01,0.01,0.01));   plot(g.weight,
                                             edge.width = E(g.weight)$weight/ 500,
                                             vertex.size = ifelse((V(g.weight)$strength.weight / 2000) < 5, (V(g.weight)$strength.weight / 2000) ,5 ),
@@ -76,12 +78,12 @@ par(mar = c(0.01,0.01,0.01,0.01));   plot(g.weight,
                                             vertex.label.family= "Arial",
                                             vertex.label.color = "black",
                                             vertex.frame.color = V(g.weight)$colours.weight,
-                                            layout = layout, 
+                                            layout = layout.nosimmer, 
                                             rescale = T, 
                                             axes = F); dev.off()
 
 
-png(filename=paste0("../twitter_plots/connect_types/","friends",".png"), width=10, height=10, units = 'in', res = 600, pointsize=4)   
+png(filename=paste0("../twitter_plots/connect_types/","friends_nosimmer",".png"), width=10, height=10, units = 'in', res = 600, pointsize=4)   
 par(mar = c(0.01,0.01,0.01,0.01));   plot(g.friends,
                                           edge.width = E(g.friends)$friends/ 500,
                                           vertex.size = ifelse((V(g.friends)$strength.friends / 2000) < 5, (V(g.friends)$strength.friends / 2000) ,5 ),
@@ -92,11 +94,11 @@ par(mar = c(0.01,0.01,0.01,0.01));   plot(g.friends,
                                           vertex.label.family= "Arial",
                                           vertex.label.color = "black",
                                           vertex.frame.color = V(g.friends)$colours.friends,
-                                          layout = layout, 
+                                          layout = layout.nosimmer, 
                                           rescale = T, 
                                           axes = F); dev.off()
 
-png(filename=paste0("../twitter_plots/connect_types/","likes",".png"), width=10, height=10, units = 'in', res = 600, pointsize=4)   
+png(filename=paste0("../twitter_plots/connect_types/","likes_nosimmer",".png"), width=10, height=10, units = 'in', res = 600, pointsize=4)   
 par(mar = c(0.01,0.01,0.01,0.01));   plot(g.likes,
                                           edge.width = E(g.likes)$likes/ 500,
                                           vertex.size = ifelse((V(g.likes)$strength.likes / 2000) < 5, (V(g.likes)$strength.likes / 2000) ,5 ),
@@ -107,11 +109,11 @@ par(mar = c(0.01,0.01,0.01,0.01));   plot(g.likes,
                                           vertex.label.family= "Arial",
                                           vertex.label.color = "black",
                                           vertex.frame.color = V(g.likes)$colours.likes,
-                                          layout = layout, 
+                                          layout = layout.nosimmer, 
                                           rescale = T, 
                                           axes = F); dev.off()
 
-png(filename=paste0("../twitter_plots/connect_types/","retweets",".png"), width=10, height=10, units = 'in', res = 600, pointsize=4)   
+png(filename=paste0("../twitter_plots/connect_types/","retweets_nosimmer",".png"), width=10, height=10, units = 'in', res = 600, pointsize=4)   
 par(mar = c(0.01,0.01,0.01,0.01));   plot(g.retweets,
                                           edge.width = E(g.retweets)$retweets/ 500,
                                           vertex.size = ifelse((V(g.retweets)$strength.retweets / 2000) < 5, (V(g.retweets)$strength.retweets / 2000) ,5 ),
@@ -122,12 +124,12 @@ par(mar = c(0.01,0.01,0.01,0.01));   plot(g.retweets,
                                           vertex.label.family= "Arial",
                                           vertex.label.color = "black",
                                           vertex.frame.color = V(g.retweets)$colours.retweets,
-                                          layout = layout, 
+                                          layout = layout.nosimmer, 
                                           rescale = T, 
                                           axes = F); dev.off()
 
 
-png(filename=paste0("../twitter_plots/connect_types/","mentions",".png"), width=10, height=10, units = 'in', res = 600, pointsize=4)   
+png(filename=paste0("../twitter_plots/connect_types/","mentions_nosimmer",".png"), width=10, height=10, units = 'in', res = 600, pointsize=4)   
 par(mar = c(0.01,0.01,0.01,0.01));   plot(g.mentions,
                                           edge.width = E(g.mentions)$mentions/ 500,
                                           vertex.size = ifelse((V(g.mentions)$strength.mentions / 2000) < 5, (V(g.mentions)$strength.mentions / 2000) ,5 ),
@@ -138,7 +140,7 @@ par(mar = c(0.01,0.01,0.01,0.01));   plot(g.mentions,
                                           vertex.label.family= "Arial",
                                           vertex.label.color = "black",
                                           vertex.frame.color = V(g.mentions)$colours.mentions,
-                                          layout = layout, 
+                                          layout = layout.nosimmer, 
                                           rescale = T, 
                                           axes = F); dev.off()
 

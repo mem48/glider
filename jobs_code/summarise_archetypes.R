@@ -2,7 +2,7 @@ library(Hmisc)
 #library(Hmisc, lib.loc = "M:/R/R-3.3.1/library")
 # Summaries Architypes othe characteristcs
 
-comb <- readRDS("data/combined_2013_arch.Rds")
+comb <- readRDS("../jobs_data/combined_2013_arch.Rds")
 comb$archcode <- as.character(comb$archcode)
 
 arsum_type <- data.frame(id = c("A","B","C","F","G","H","I"), desc = c("Semi Detached/End Terrace",
@@ -29,6 +29,14 @@ arsum_solar <- data.frame(id = c("A","B"), desc = c("Yes","No"), stringsAsFactor
 arsum_floor <- data.frame(id = c("A","B","C"), desc = c("Concrete Floors","Suspended Timber Floor","Historic"), stringsAsFactors = F)
 
 
+#estimate the ground floor area
+comb$groundfloorarea <- comb$floorx / comb$storeyx
+comb$est.extwallarea <- comb$dpc.perim * comb$cheight0 * comb$storeyx
+
+plot(comb$est.extwallarea, comb$wall.area.ext)
+
+summary(comb$groundfloorarea)
+abline(a = 1, b = 1, col = "red")
 
 arch <- data.frame(archcode = unique(comb$archcode), 
                    arch_type = "",
@@ -65,6 +73,9 @@ arch <- data.frame(archcode = unique(comb$archcode),
                    floorarea.Q1 = 0,
                    floorarea.Q2 = 0,
                    floorarea.Q3 = 0,
+                   groundfloorarea.Q1 = 0,
+                   groundfloorarea.Q2 = 0,
+                   groundfloorarea.Q3 = 0,
                    intwallarea.Q1 = 0,
                    intwallarea.Q2 = 0,
                    intwallarea.Q3 = 0,
@@ -193,6 +204,20 @@ for(a in 1:nrow(arch)){
   arch$floorarea.Q2[a] <- round(wtd.quantile(x = foo$val, weights = foo$ndwel, probs = 0.5))
   arch$floorarea.Q3[a] <- round(wtd.quantile(x = foo$val, weights = foo$ndwel, probs = 0.75))
 }
+
+
+#Get ground floor area
+for(a in 1:nrow(arch)){
+  code <- arch$archcode[a]
+  foo <- data.frame(val = unique(comb$groundfloorarea[comb$archcode == code]), ndwel = 0)
+  for(c in 1:nrow(foo)){
+    foo$ndwel[c] <- sum(comb$aagpd1213[comb$archcode == code & comb$floorx == foo$val[c]])
+  }
+  arch$groundfloorarea.Q1[a] <- round(wtd.quantile(x = foo$val, weights = foo$ndwel, probs = 0.25))
+  arch$groundfloorarea.Q2[a] <- round(wtd.quantile(x = foo$val, weights = foo$ndwel, probs = 0.5))
+  arch$groundfloorarea.Q3[a] <- round(wtd.quantile(x = foo$val, weights = foo$ndwel, probs = 0.75))
+}
+
 
 
 #Get control
@@ -326,6 +351,19 @@ for(a in 1:nrow(arch)){
 }
 
 #Get ExternalWall area
+for(a in 1:nrow(arch)){
+  code <- arch$archcode[a]
+  foo <- data.frame(val = unique(comb$wall.area.ext[comb$archcode == code]), ndwel = 0)
+  for(c in 1:nrow(foo)){
+    foo$ndwel[c] <- sum(comb$aagpd1213[comb$archcode == code & comb$wall.area.ext == foo$val[c]])
+  }
+  arch$extwallarea.Q1[a] <- round(wtd.quantile(x = foo$val, weights = foo$ndwel, probs = 0.25))
+  arch$extwallarea.Q2[a] <- round(wtd.quantile(x = foo$val, weights = foo$ndwel, probs = 0.5))
+  arch$extwallarea.Q3[a] <- round(wtd.quantile(x = foo$val, weights = foo$ndwel, probs = 0.75))
+}
+
+
+#Get Internal Wall area of external walls
 for(a in 1:nrow(arch)){
   code <- arch$archcode[a]
   foo <- data.frame(val = unique(comb$wall.area.ext[comb$archcode == code]), ndwel = 0)

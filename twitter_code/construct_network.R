@@ -101,13 +101,13 @@ rm(accounts.first, likes.first, friends.first, tweets.first, accounts.second, fr
 message(paste0("We have ",nrow(accounts)," Accounts, ",nrow(friends)," friends, ",nrow(likes)," likes, and ",nrow(tweets)," tweets"))
 
 saveRDS(accounts,"../twitter_data/all/accounts.Rds")
-saveRDS(friends,"../twitter_data/all/friends")
-saveRDS(likes,"../twitter_data/all/likes")
+saveRDS(friends,"../twitter_data/all/friends.Rds")
+saveRDS(likes,"../twitter_data/all/likes.Rds")
 saveRDS(tweets,"../twitter_data/all/tweets.Rds")
 
 accounts <- readRDS("../twitter_data/all/accounts.Rds")
-friends <- readRDS("../twitter_data/all/friends")
-likes <- readRDS("../twitter_data/all/likes")
+friends <- readRDS("../twitter_data/all/friends.Rds")
+likes <- readRDS("../twitter_data/all/likes.Rds")
 tweets <- readRDS("../twitter_data/all/tweets.Rds")
 
 # trim tweets to just retweets

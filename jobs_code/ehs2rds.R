@@ -1,17 +1,49 @@
 #Read in EHS and convert to RDS
 library(foreign)
-library(dplyr, lib.loc = "M:/R/R-3.3.1/library")
-library(lazyeval, lib.loc = "M:/R/R-3.3.1/library")
-#library(dplyr)
-#library(lazyeval)
+#library(dplyr, lib.loc = "M:/R/R-3.3.1/library")
+#library(lazyeval, lib.loc = "M:/R/R-3.3.1/library")
+library(dplyr)
+library(lazyeval)
 current_year <- 2013
 
-#infld <- "E:/OneDrive - University of Leeds/Glider - Private/WP2/Data/EHS/EHS-2013-SPSS/UKDA-7802-spss/spss/spss19/"
-infld <- "C:/Users/earmmor/OneDrive/OD/Glider - Private/WP2/Data/EHS/EHS-2013-SPSS/UKDA-7802-spss/spss/spss19/"
+Int2Factor <- function(x){
+  if(!is.null(attr(x, "value.labels"))){
+    #Has labels
+    vlab <- attr(x, "value.labels")
+    
+    if(length(unique(x)) > (length(names(vlab)) + 1)){
+      #More unique values than lables so might be values in diguise
+      message(paste0("Values = ",length(unique(x))," Lables = ",length(names(vlab))," returning number" ))
+      x <- as.numeric(x)
+    }else{
+      #Same of less values than lables so probably lookup
+      message(paste0("Values = ",length(unique(x))," Lables = ",length(names(vlab))," returning factor" ))
+      if(sum(duplicated(vlab)) > 0){
+        cat("Duplicated levels:", vlab, "\n")
+      }else if(sum(duplicated(names(vlab))) > 0){
+        cat("Duplicated labels:", names(vlab)[duplicated(names(vlab))], "\n")
+      }else{
+        x <- factor(x, levels = as.numeric(vlab), labels = names(vlab))
+        x <- as.character(x)
+      }
+    }
+    
+  }else{
+    message(paste0("Values = ",length(unique(x))," Lables = None reurning number"))
+    # No lables so just return the values  
+  }
+  return(x)
+}
+
+
+infld <- "D:/Users/earmmor/OneDrive - University of Leeds/Glider - Private/WP2/Data/EHS/EHS-2013-SPSS/UKDA-7802-spss/spss/spss19/"
+#infld <- "C:/Users/earmmor/OneDrive/OD/Glider - Private/WP2/Data/EHS/EHS-2013-SPSS/UKDA-7802-spss/spss/spss19/"
 ###############################################################################
 #Physical Table
 ##############################################################################
-physical <- read.spss(paste0(infld,"derived/physical_12and13.sav"),to.data.frame=TRUE)
+physical <- read.spss(paste0(infld,"derived/physical_12and13.sav"),to.data.frame=TRUE, use.value.labels = FALSE)
+physical <- lapply(physical, Int2Factor)
+physical <- as.data.frame(physical, stringsAsFactors = FALSE)
 physical <- physical[,c("aacode","dwtypenx","dwage9x","floorx","floor5x","storeyx","typerstr",
                         "typewstr2","constx","typewfin","typewin","dblglaz4","arnatx","attic",
                         "basement","heat7x","sysage","mainfuel","watersys","boiler",
@@ -20,14 +52,18 @@ physical$aacode <- as.character(physical$aacode)
 #############################################################################
 #General Table
 ###########################################################################
-general <- read.spss(paste0(infld,"derived/general_12and13.sav"),to.data.frame=TRUE)
+general <- read.spss(paste0(infld,"derived/general_12and13.sav"),to.data.frame=TRUE, use.value.labels = FALSE)
+general <- lapply(general, Int2Factor)
+general <- as.data.frame(general, stringsAsFactors = FALSE)
 general <- general[,c("aacode","aagpd1213","tenure4x","GorEHCS","imd1010")]
 names(general) <- c("aacode","aagpd1213","tenure4x","GorEHCS","imd")
 general$aacode <- as.character(general$aacode)
 ##########################################################################
 #elevate Table
 ####################################################################
-elevate <- read.spss(paste0(infld,"physical/elevate.sav"),to.data.frame=TRUE)
+elevate <- read.spss(paste0(infld,"physical/elevate.sav"),to.data.frame=TRUE, use.value.labels = FALSE)
+elevate <- lapply(elevate, Int2Factor)
+elevate <- as.data.frame(elevate, stringsAsFactors = FALSE)
 elevate <- elevate[,c( "aacode","Felsolff","Felpvff",
                                 "Felsollf","Felpvlf",
                                 "Felsolrf","Felpvrf",
@@ -37,7 +73,9 @@ elevate$aacode <- as.character(elevate$aacode)
 ############################################################################
 #Services Table
 ############################################################################
-services <- read.spss(paste0(infld,"physical/services.sav"),to.data.frame=TRUE)
+services <- read.spss(paste0(infld,"physical/services.sav"),to.data.frame=TRUE, use.value.labels = FALSE)
+services <- lapply(services, Int2Factor)
+services <- as.data.frame(services, stringsAsFactors = FALSE)
 services <- services[,c("aacode","Finchtyp","Finmhfue","Finmhboi","Finchbag",
                         "Finchoff","Finchthe","Finchtim","Finchove","Finchrom","Finchcon","Finchtrv","Finchtzc","Finchdst",
                         "Finoheat","Finohtyp",
@@ -54,14 +92,18 @@ services$aacode <- as.character(services$aacode)
 #dimensions table
 #######################################################################
 
-dimensions <- read.spss(paste0(infld,"derived/detailed/dimensions_12and13.sav"),to.data.frame=TRUE)
+dimensions <- read.spss(paste0(infld,"derived/detailed/dimensions_12and13.sav"),to.data.frame=TRUE, use.value.labels = FALSE)
+dimensions <- lapply(dimensions, Int2Factor)
+dimensions <- as.data.frame(dimensions, stringsAsFactors = FALSE)
+
+
 dimensions$wall.area.ext <- round(dimensions$efwalar +  dimensions$ebwalar, 2)
 dimensions$window.area.ext <- round(dimensions$efwinar +  dimensions$ebwinar, 2)
 dimensions$dpc.perim <- round(dimensions$efdpcpe +  dimensions$ebdpcpe, 2)
 dimensions$roof.area.plan <- round(dimensions$efrfpar +  dimensions$ebrfpar, 2)
 dimensions$roof.area.slope <- round(dimensions$efrfsar +  dimensions$ebrfsar, 2)
-dimensions <- dimensions[,c("Aacode","IntWalAr","wall.area.ext","window.area.ext","dpc.perim","NFlorm","roof.area.plan","roof.area.slope","cheight0","cheight1","cheight2","AvWallThick")]
-names(dimensions) <- c("aacode","IntWalAr","wall.area.ext","window.area.ext","dpc.perim","NFlorm","roof.area.plan","roof.area.slope","cheight0","cheight1","cheight2","AvWallThick")
+dimensions <- dimensions[,c("Aacode","FloorArea","IntWalAr","wall.area.ext","window.area.ext","dpc.perim","NFlorm","roof.area.plan","roof.area.slope","cheight0","cheight1","cheight2","AvWallThick","efwalar","ebwalar","efwinar","ebwinar","lowarea")]
+names(dimensions) <- c("aacode","FloorAreaTotal","InternalWallArea","wall.area.ext","window.area.ext","dpc.perim","NumberofFloors","roof.area.plan","roof.area.slope","cheight0","cheight1","cheight2","AvWallThick","ExternalFrontWallArea","ExternalBackWallArea","ExternalFrontWindowArea ","ExternalBackWindowArea ","AreaOfLowestLevel")
 
 #########################################################################
 #Combine
@@ -70,7 +112,7 @@ combined <- left_join(physical,general, by = "aacode")
 combined <- left_join(combined,services, by = "aacode")
 combined <- left_join(combined,elevate, by = "aacode")
 
-#remove(physical,general,services,elevate)
+remove(physical,general,services,elevate,dimensions)
 
 #######################################################################
 #roof table
@@ -169,8 +211,8 @@ for(e in 1:nrow(roof)){
   }
 }
 
-hist(roof$roofarea, c(0,30,50,80,100,115,450))
-solfacts <- read.csv("data/solarrooffactors.csv", row.names = c("end terrace","mid terrace","semi detached","detached","bungalow","converted flat","purpose built flat, low rise","purpose built flat, high rise"), col.names = c("mixed types","pitched",	"mansard",	"flat",	"chalet"), header = F)
+hist(roof$roofarea, c(0,20,40,60,80,100,120,450))
+solfacts <- read.csv("../jobs_data/solarrooffactors.csv", row.names = c("end terrace","mid terrace","semi detached","detached","bungalow","converted flat","purpose built flat, low rise","purpose built flat, high rise"), col.names = c("mixed types","pitched",	"mansard",	"flat",	"chalet"), header = F)
 
 #Calcualte Useable Area for solar
 roof$solfactor <- NA
