@@ -48,6 +48,19 @@ clusters.table <- as.data.frame(table(verts$cluster))
 clusters.table$Var1 <- as.integer(as.character(clusters.table$Var1))
 largeclusters <- clusters.table[clusters.table$Freq >= 50,]
 
+largeclus <- function(type, size){
+  largeclusters.tmp <- as.data.frame(table(verts[,paste0("cluster.",type)]))
+  largeclusters.tmp$Var1 <- as.integer(as.character(largeclusters.tmp$Var1))
+  largeclusters.tmp <- largeclusters.tmp[largeclusters.tmp$Freq >= size,]
+  return(largeclusters.tmp$Var1)
+}
+
+largeclusters.friends <- largeclus("friends",50)
+largeclusters.likes <- largeclus("likes",50)
+largeclusters.retweets <- largeclus("retweets",50)
+largeclusters.mentions <- largeclus("mentions",50)
+
+
 #assign colours
 colours.all = grDevices::colors()[grep('gr(a|e)y', grDevices::colors(), invert = T)]
 #colours = sample ( rainbow ( max ( V(g.trim)$cluster, na.rm= T )  + 1) )
@@ -69,8 +82,10 @@ V(g.trim)$colours.likes = colours[V(g.trim)$cluster.likes]
 
 #make small clusters black
 V(g.trim)$colours[!V(g.trim)$cluster %in% largeclusters$Var1] <- "#000000"
-V(g.trim)$colours.likes[V(g.trim)$cluster.likes %in% largeclusters$Var1] <- "#000000"
-
+V(g.trim)$colours.likes[!V(g.trim)$cluster.likes %in% largeclusters.likes] <- "#000000"
+V(g.trim)$colours.friends[!V(g.trim)$cluster.friends %in% largeclusters.friends] <- "#000000"
+V(g.trim)$colours.retweets[!V(g.trim)$cluster.retweets %in% largeclusters.retweets] <- "#000000"
+V(g.trim)$colours.mentions[!V(g.trim)$cluster.mentions %in% largeclusters.mentions] <- "#000000"
 
 layout.nosimmer =  layout_with_drl(g.trim, weights = E(g.trim)$weight, options=list(simmer.attraction=0), dim = 2)
 g.plot <- delete.edges(g.trim, (which(E(g.trim)$weight < 50) ))
@@ -96,7 +111,7 @@ par(mar = c(0.01,0.01,0.01,0.01));   plot(g.plot,
 
 g.plot <- delete.edges(g.trim, (which(E(g.trim)$likes < 50) ))
 
-png(filename=paste0("../twitter_plots/connect_types/","likes_reciprocal_nosimmer",".png"), width=10, height=10, units = 'in', res = 600, pointsize=6)   
+png(filename=paste0("../twitter_plots/connect_types/","likes_reciprocal_nosimmer2",".png"), width=10, height=10, units = 'in', res = 600, pointsize=6)   
 par(mar = c(0.01,0.01,0.01,0.01));   plot(g.plot,
                                           edge.width =  E(g.plot)$likes/ 200,
                                           vertex.size = ifelse((V(g.plot)$strength.total / 3000) < 15, (V(g.plot)$strength.total / 3000) ,15 ),
@@ -114,7 +129,7 @@ par(mar = c(0.01,0.01,0.01,0.01));   plot(g.plot,
 
 g.plot <- delete.edges(g.trim, (which(E(g.trim)$retweets < 50) ))
 
-png(filename=paste0("../twitter_plots/connect_types/","retweets_reciprocal_nosimmer",".png"), width=10, height=10, units = 'in', res = 600, pointsize=6)   
+png(filename=paste0("../twitter_plots/connect_types/","retweets_reciprocal_nosimmer2",".png"), width=10, height=10, units = 'in', res = 600, pointsize=6)   
 par(mar = c(0.01,0.01,0.01,0.01));   plot(g.plot,
                                           edge.width =  E(g.plot)$retweets/ 200,
                                           vertex.size = ifelse((V(g.plot)$strength.total / 3000) < 15, (V(g.plot)$strength.total / 3000) ,15 ),
@@ -133,7 +148,7 @@ par(mar = c(0.01,0.01,0.01,0.01));   plot(g.plot,
 
 g.plot <- delete.edges(g.trim, (which(E(g.trim)$mentions < 50) ))
 
-png(filename=paste0("../twitter_plots/connect_types/","mentions_reciprocal_nosimmer",".png"), width=10, height=10, units = 'in', res = 600, pointsize=6)   
+png(filename=paste0("../twitter_plots/connect_types/","mentions_reciprocal_nosimmer2",".png"), width=10, height=10, units = 'in', res = 600, pointsize=6)   
 par(mar = c(0.01,0.01,0.01,0.01));   plot(g.plot,
                                           edge.width =  E(g.plot)$mentions/ 200,
                                           vertex.size = ifelse((V(g.plot)$strength.total / 3000) < 15, (V(g.plot)$strength.total / 3000) ,15 ),
@@ -152,7 +167,7 @@ par(mar = c(0.01,0.01,0.01,0.01));   plot(g.plot,
 
 g.plot <- delete.edges(g.trim, (which(E(g.trim)$friends < 50) ))
 
-png(filename=paste0("../twitter_plots/connect_types/","friends_reciprocal_nosimmer",".png"), width=10, height=10, units = 'in', res = 600, pointsize=6)   
+png(filename=paste0("../twitter_plots/connect_types/","friends_reciprocal_nosimmer2",".png"), width=10, height=10, units = 'in', res = 600, pointsize=6)   
 par(mar = c(0.01,0.01,0.01,0.01));   plot(g.plot,
                                           edge.width =  E(g.plot)$friends/ 200,
                                           vertex.size = ifelse((V(g.plot)$strength.total / 3000) < 15, (V(g.plot)$strength.total / 3000) ,15 ),
@@ -289,7 +304,7 @@ for(i in V(g.contract)$cluster){
 
 verts.contract <- igraph::as_data_frame(g.contract, what="vertices")
 
-foo <- igraph::as_data_frame(g.contract, what="edges")
+edges.contract <- igraph::as_data_frame(g.contract, what="edges")
 #colours.contract = sample ( rainbow ( max ( V(g.contract)$clus.likes, na.rm= T )  + 1) )
 #V(g.likes)$colours.likes = colours.likes[V(g.likes)$clus.likes +1]
 
@@ -298,20 +313,20 @@ V(g.contract)$strength.in <- strength(g.contract, mode = "in")
 V(g.contract)$strength.out <- strength(g.contract, mode = "out")
 
 
-layout.contract <- layout_with_drl(g.contract, weights = E(g.contract)$weight, options=list(simmer.attraction=0), dim = 2)
+layout.contract <- layout_with_fr(g.contract, weights = E(g.contract)$weight, niter = 10000, dim = 2)
 
-png(filename=paste0("../twitter_plots/connect_types/","contracted_cluster",".png"), width=10, height=10, units = 'in', res = 600, pointsize=4)   
+png(filename=paste0("../twitter_plots/connect_types/","contracted_cluster3n",".png"), width=10, height=10, units = 'in', res = 600, pointsize=4)   
 par(mar = c(0.01,0.01,0.01,0.01));   plot(g.contract,
                                           edge.width = E(g.contract)$weight/ 1000,
-                                          vertex.size = V(g.contract)$strength.total / 10000 ,
+                                          vertex.size = V(g.contract)$strength.total / 8000 ,
                                           edge.arrow.size = 0.5,
                                           edge.curved=0.1,
                                           vertex.color = V(g.contract)$colours,
                                           vertex.label = V(g.contract)$name ,
                                           vertex.label.family= "Arial",
                                           vertex.label.color = "black",
-                                          vertex.frame.color = "grey",
-                                          layout = layout_nicely, 
+                                          vertex.frame.color = V(g.contract)$colours,
+                                          layout = layout.contract, 
                                           rescale = T, 
                                           axes = F); dev.off()
 
@@ -322,15 +337,176 @@ library(dplyr)
 cluster.summary <- list()
 for(i in largeclusters$Var1){
   clus.names <- clusterres[[i]][[1]]
-  clus.names <- clus.names$name[1:5]
+  clus.members <- nrow(clus.names)
+  clus.names <- clus.names$name[1:10]
   clus.names <- paste(clus.names, collapse = " ")
   clus.keyword <- clusterres[[i]][[2]]
-  clus.keyword <- names(clus.keyword)[1:5]
+  clus.keyword <- names(clus.keyword)[1:10]
   clus.keyword <- paste(clus.keyword, collapse = " ")
   
-  result <- data.frame(clusNo = i, accounts = clus.names, keywords = clus.keyword)
+  result <- data.frame(clusNo = i, accounts = clus.names, keywords = clus.keyword, members = clus.members)
   cluster.summary[[i]] <- result
   rm(result,clus.names,clus.keyword)
 }
 cluster.summary <- bind_rows(cluster.summary)
 
+verts <- igraph::as_data_frame(g.trim, what="vertices")
+
+cluster.summary.colours <- verts[,c("cluster","colours")]
+cluster.summary.colours <- unique(cluster.summary.colours)
+cluster.summary <- left_join(cluster.summary, cluster.summary.colours, by = c("clusNo" = "cluster"))
+
+write.csv(cluster.summary,"../twitter_data/cluster_summaries_table.csv")
+
+g.undriected <- as.undirected(g.trim, mode = "collapse")
+clus.mod <- modularity(x = g.undriected, membership = V(g.undriected)$cluster, weights = E(g.undriected)$weight)
+clus.transitivity <- transitivity(graph = g.trim, type = "global")
+
+
+
+#####
+# Plot the use of keywords
+accounts.keywords <- readRDS("../twitter_data/all/accounts_keywords.Rds")
+
+verts <- left_join(verts,accounts.keywords, by = c("name" = "screenName"))
+verts$all.keywords[is.na(verts$all.keywords)] <- 0
+
+summary(V(g.trim)$name == verts$name)
+
+V(g.trim)$keyword.all <- verts$all.keywords / verts$tweetscount
+V(g.trim)$keyword.retrofit <- verts$retrofit / verts$tweetscount
+V(g.trim)$keyword.eco <- verts$eco / verts$tweetscount
+V(g.trim)$keyword.construction <- verts$construction / verts$tweetscount
+V(g.trim)$keyword.housing <- verts$housing / verts$tweetscount
+
+map2color<-function(x,pal,limits=NULL){
+  if(is.null(limits)) limits=range(x)
+  pal[findInterval(x,seq(limits[1],limits[2],length.out=length(pal)+1), all.inside=TRUE)]
+}
+
+
+pal <- colorRampPalette( c("red","yellow","springgreen","royalblue"))( 10 )
+
+plot(V(g.trim)$keyword.retrofit,col= map2color(V(g.trim)$keyword.retrofit, pal, c(0,0.6)) , pch=19,cex=2)
+
+g.plot <- delete.edges(g.trim, (which(E(g.trim)$weight < 50) ))
+
+png(filename=paste0("../twitter_plots/connect_types/","all_kewords",".png"), width=10, height=10, units = 'in', res = 600, pointsize=6)   
+par(mar = c(0.01,0.01,0.01,0.01));   plot(g.plot,
+                                          edge.width =  E(g.plot)$weight/ 200,
+                                          vertex.size = ifelse((V(g.plot)$strength.total / 3000) < 15, (V(g.plot)$strength.total / 3000) ,15 ),
+                                          edge.arrow.size = 0.1,
+                                          edge.curved=0.2,
+                                          vertex.color = map2color(V(g.trim)$keyword.all, pal, c(0,0.6)),
+                                          #vertex.label = ifelse(V(g.plot)$strength.total > 9000, V(g.plot)$name, NA),
+                                          vertex.label = NA,
+                                          vertex.label.family= "arial",
+                                          vertex.label.color = "black",
+                                          vertex.frame.color = map2color(V(g.trim)$keyword.all, pal, c(0,0.6)),
+                                          layout = layout.nosimmer, 
+                                          rescale = T, 
+                                          axes = F); dev.off()
+
+
+g.plot <- delete.edges(g.trim, (which(E(g.trim)$weight < 50) ))
+
+png(filename=paste0("../twitter_plots/connect_types/","all_retrofit",".png"), width=10, height=10, units = 'in', res = 600, pointsize=6)   
+par(mar = c(0.01,0.01,0.01,0.01));   plot(g.plot,
+                                          edge.width =  E(g.plot)$weight/ 200,
+                                          vertex.size = ifelse((V(g.plot)$strength.total / 3000) < 15, (V(g.plot)$strength.total / 3000) ,15 ),
+                                          edge.arrow.size = 0.1,
+                                          edge.curved=0.2,
+                                          vertex.color = map2color(V(g.trim)$keyword.retrofit, pal, c(0,0.6)),
+                                          #vertex.label = ifelse(V(g.plot)$strength.total > 9000, V(g.plot)$name, NA),
+                                          vertex.label = NA,
+                                          vertex.label.family= "arial",
+                                          vertex.label.color = "black",
+                                          vertex.frame.color = map2color(V(g.trim)$keyword.retrofit, pal, c(0,0.6)),
+                                          layout = layout.nosimmer, 
+                                          rescale = T, 
+                                          axes = F); dev.off()
+
+
+g.plot <- delete.edges(g.trim, (which(E(g.trim)$weight < 50) ))
+
+png(filename=paste0("../twitter_plots/connect_types/","all_eco",".png"), width=10, height=10, units = 'in', res = 600, pointsize=6)   
+par(mar = c(0.01,0.01,0.01,0.01));   plot(g.plot,
+                                          edge.width =  E(g.plot)$weight/ 200,
+                                          vertex.size = ifelse((V(g.plot)$strength.total / 3000) < 15, (V(g.plot)$strength.total / 3000) ,15 ),
+                                          edge.arrow.size = 0.1,
+                                          edge.curved=0.2,
+                                          vertex.color = map2color(V(g.trim)$keyword.eco, pal, c(0,0.6)),
+                                          #vertex.label = ifelse(V(g.plot)$strength.total > 9000, V(g.plot)$name, NA),
+                                          vertex.label = NA,
+                                          vertex.label.family= "arial",
+                                          vertex.label.color = "black",
+                                          vertex.frame.color = map2color(V(g.trim)$keyword.eco, pal, c(0,0.6)),
+                                          layout = layout.nosimmer, 
+                                          rescale = T, 
+                                          axes = F); dev.off()
+
+
+g.plot <- delete.edges(g.trim, (which(E(g.trim)$weight < 50) ))
+
+png(filename=paste0("../twitter_plots/connect_types/","all_housing",".png"), width=10, height=10, units = 'in', res = 600, pointsize=6)   
+par(mar = c(0.01,0.01,0.01,0.01));   plot(g.plot,
+                                          edge.width =  E(g.plot)$weight/ 200,
+                                          vertex.size = ifelse((V(g.plot)$strength.total / 3000) < 15, (V(g.plot)$strength.total / 3000) ,15 ),
+                                          edge.arrow.size = 0.1,
+                                          edge.curved=0.2,
+                                          vertex.color = map2color(V(g.trim)$keyword.housing, pal, c(0,0.6)),
+                                          #vertex.label = ifelse(V(g.plot)$strength.total > 9000, V(g.plot)$name, NA),
+                                          vertex.label = NA,
+                                          vertex.label.family= "arial",
+                                          vertex.label.color = "black",
+                                          vertex.frame.color = map2color(V(g.trim)$keyword.housing, pal, c(0,0.6)),
+                                          layout = layout.nosimmer, 
+                                          rescale = T, 
+                                          axes = F); dev.off()
+
+g.plot <- delete.edges(g.trim, (which(E(g.trim)$weight < 50) ))
+
+png(filename=paste0("../twitter_plots/connect_types/","all_construction",".png"), width=10, height=10, units = 'in', res = 600, pointsize=6)   
+par(mar = c(0.01,0.01,0.01,0.01));   plot(g.plot,
+                                          edge.width =  E(g.plot)$weight/ 200,
+                                          vertex.size = ifelse((V(g.plot)$strength.total / 3000) < 15, (V(g.plot)$strength.total / 3000) ,15 ),
+                                          edge.arrow.size = 0.1,
+                                          edge.curved=0.2,
+                                          vertex.color = map2color(V(g.trim)$keyword.construction, pal, c(0,0.6)),
+                                          #vertex.label = ifelse(V(g.plot)$strength.total > 9000, V(g.plot)$name, NA),
+                                          vertex.label = NA,
+                                          vertex.label.family= "arial",
+                                          vertex.label.color = "black",
+                                          vertex.frame.color = map2color(V(g.trim)$keyword.construction, pal, c(0,0.6)),
+                                          layout = layout.nosimmer, 
+                                          rescale = T, 
+                                          axes = F); dev.off()
+
+
+#centrality
+
+central.between <- betweenness(g.trim)
+V(g.trim)$between <- central.between
+
+plot(V(g.trim)$between,col= map2color(V(g.trim)$between, pal, c(0,5e6)) , pch=19,cex=2)
+
+g.plot <- delete.edges(g.trim, (which(E(g.trim)$weight < 50) ))
+
+png(filename=paste0("../twitter_plots/connect_types/","all_betweenness",".png"), width=10, height=10, units = 'in', res = 600, pointsize=6)   
+par(mar = c(0.01,0.01,0.01,0.01));   plot(g.plot,
+                                          edge.width =  E(g.plot)$weight/ 200,
+                                          vertex.size = ifelse((V(g.plot)$strength.total / 3000) < 15, (V(g.plot)$strength.total / 3000) ,15 ),
+                                          edge.arrow.size = 0.1,
+                                          edge.curved=0.2,
+                                          vertex.color = map2color(V(g.trim)$between, pal, c(0,5e6)),
+                                          vertex.label = ifelse(V(g.plot)$between > 1e6, V(g.plot)$name, NA),
+                                          vertex.label = NA,
+                                          vertex.label.family= "arial",
+                                          vertex.label.color = "black",
+                                          vertex.frame.color = map2color(V(g.trim)$between, pal, c(0,5e6)),
+                                          layout = layout.nosimmer, 
+                                          rescale = T, 
+                                          axes = F); dev.off()
+
+verts <- igraph::as_data_frame(g.trim, "vertices")
+verts.between <- verts[verts$between > 1e6,]

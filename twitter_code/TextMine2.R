@@ -145,6 +145,8 @@ accounts.keywords <- accounts.keywords %>%
                                 housing = sum(housing),
                                 tweetscount = length(screenName))
 
+saveRDS(accounts.keywords,"../twitter_data/all/accounts_keywords.Rds")
+
 # Load in the categories
 common <- readxl::read_xlsx("../twitter_data/accounts_fulldata_trim.xlsx", sheet =  "accounts_fulldata")
 common <- common[,c("name","Account Category")]
