@@ -102,8 +102,9 @@ dimensions$window.area.ext <- round(dimensions$efwinar +  dimensions$ebwinar, 2)
 dimensions$dpc.perim <- round(dimensions$efdpcpe +  dimensions$ebdpcpe, 2)
 dimensions$roof.area.plan <- round(dimensions$efrfpar +  dimensions$ebrfpar, 2)
 dimensions$roof.area.slope <- round(dimensions$efrfsar +  dimensions$ebrfsar, 2)
-dimensions <- dimensions[,c("Aacode","FloorArea","IntWalAr","wall.area.ext","window.area.ext","dpc.perim","NFlorm","roof.area.plan","roof.area.slope","cheight0","cheight1","cheight2","AvWallThick","efwalar","ebwalar","efwinar","ebwinar","lowarea")]
-names(dimensions) <- c("aacode","FloorAreaTotal","InternalWallArea","wall.area.ext","window.area.ext","dpc.perim","NumberofFloors","roof.area.plan","roof.area.slope","cheight0","cheight1","cheight2","AvWallThick","ExternalFrontWallArea","ExternalBackWallArea","ExternalFrontWindowArea ","ExternalBackWindowArea ","AreaOfLowestLevel")
+#dimensions$floor.area.ground <- round(lowarea, 2)
+dimensions <- dimensions[,c("Aacode","FloorArea","FloorPar","IntWalAr","wall.area.ext","window.area.ext","dpc.perim","NFlorm","roof.area.plan","roof.area.slope","cheight0","cheight1","cheight2","AvWallThick","efwalar","ebwalar","efwinar","ebwinar","lowarea")]
+names(dimensions) <- c("aacode","FloorAreaTotal","FloorAreaPartitionWalls","InternalWallArea","wall.area.ext","window.area.ext","dpc.perim","NumberofFloors","roof.area.plan","roof.area.slope","cheight0","cheight1","cheight2","AvWallThick","ExternalFrontWallArea","ExternalBackWallArea","ExternalFrontWindowArea ","ExternalBackWindowArea ","AreaOfLowestLevel")
 
 #########################################################################
 #Combine
@@ -112,7 +113,7 @@ combined <- left_join(physical,general, by = "aacode")
 combined <- left_join(combined,services, by = "aacode")
 combined <- left_join(combined,elevate, by = "aacode")
 
-remove(physical,general,services,elevate,dimensions)
+remove(general,services,elevate)
 
 #######################################################################
 #roof table
@@ -213,6 +214,7 @@ for(e in 1:nrow(roof)){
 
 hist(roof$roofarea, c(0,20,40,60,80,100,120,450))
 solfacts <- read.csv("../jobs_data/solarrooffactors.csv", row.names = c("end terrace","mid terrace","semi detached","detached","bungalow","converted flat","purpose built flat, low rise","purpose built flat, high rise"), col.names = c("mixed types","pitched",	"mansard",	"flat",	"chalet"), header = F)
+names(solfacts) <- c("mixed types","pitched",	"mansard",	"flat",	"chalet")
 
 #Calcualte Useable Area for solar
 roof$solfactor <- NA
@@ -518,7 +520,13 @@ barplot(counts, main="Heater Fuel", ylab="Number of Dwellings")
 ######################################################################
 #Doors Table
 ######################################################################
-doors <- read.spss(paste0(infld,"physical/doors.sav"),to.data.frame=TRUE)
+#doors <- read.spss(paste0(infld,"physical/doors.sav"),to.data.frame=TRUE)
+doors <- read.spss(paste0(infld,"physical/doors.sav"),to.data.frame=TRUE, use.value.labels = FALSE)
+doors <- lapply(doors, Int2Factor)
+doors <- as.data.frame(doors, stringsAsFactors = FALSE)
+
+
+
 doors <- doors[,c("aacode","type","Fexdf1no","Fexdf1ag",
                                   "Fexdf2no","Fexdf2ag")]
 doors <- doors[doors$Fexdf1no > 0 | doors$Fexdf2no > 0 ,]
@@ -557,7 +565,13 @@ doors <- doors[,c("aacode","doornumb","doorage")]
 ################################################################################
 #Windows Table
 #############################################################################
-windows <- read.spss(paste0(infld,"physical/windows.sav"),to.data.frame=TRUE)
+#windows <- read.spss(paste0(infld,"physical/windows.sav"),to.data.frame=TRUE)
+windows <- read.spss(paste0(infld,"physical/windows.sav"),to.data.frame=TRUE, use.value.labels = FALSE)
+windows <- lapply(windows, Int2Factor)
+windows <- as.data.frame(windows, stringsAsFactors = FALSE)
+
+
+
 windows <- windows[,c("aacode","type","Fexwn1no","Fexwn1ag",
                                       "Fexwn2no","Fexwn2ag")]
 windows <- windows[windows$Fexwn1no > 0 | windows$Fexwn2no > 0,]
@@ -608,7 +622,11 @@ windows2 <- physical[,c("aacode","dblglaz4")]
 ###############################################################
 # Rooms Table
 ##############################################################
-rooms <- read.spss(paste0(infld,"interview/rooms.sav"),to.data.frame=TRUE)
+#rooms <- read.spss(paste0(infld,"interview/rooms.sav"),to.data.frame=TRUE)
+rooms <- read.spss(paste0(infld,"interview/rooms.sav"),to.data.frame=TRUE, use.value.labels = FALSE)
+rooms <- lapply(rooms, Int2Factor)
+rooms <- as.data.frame(rooms, stringsAsFactors = FALSE)
+
 rooms <- rooms[,c("aacode","NRmsEHS","NRms4","NRms5")]
 names(rooms) <- c("aacode","NBedrooms","NLivingRooms","NBathrooms")
 
@@ -629,7 +647,7 @@ combined_2013 <- left_join(combined_2013,dimensions, by = "aacode")
 
 combined_2013$LoftIns <- as.factor(combined_2013$LoftIns)
 
-remove(context,doors,elevate,general,physical,roof,services,shape, walls, windows)
+remove(context,doors,roof,shape, walls, windows)
 
 #Gas Available
 
@@ -705,7 +723,7 @@ combined_2013$imd <- as.integer(combined_2013$imd)
 
 #Save Out
 
-saveRDS(combined_2013,"data/combined_2013_base.Rds")
+saveRDS(combined_2013,"../jobs_data/combined_2013_base.Rds")
 
 
 

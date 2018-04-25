@@ -1,4 +1,4 @@
-combined_2013 <- readRDS("data/combined_2013_base.Rds")
+combined_2013 <- readRDS("../jobs_data/combined_2013_base.Rds")
 
 
 ###########################################################################
