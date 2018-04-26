@@ -38,6 +38,5 @@ twitter_plots/removejunkmediagov-drl_2.svg
 twitter_plots/removejunkmediagov.svg
 twitter_code/.Rhistory
 jobs_code/.Rhistory
-*.png
 *.Rds
 *.zip
