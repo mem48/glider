@@ -2,6 +2,8 @@
 library(igraph)
 library(dplyr)
 library(parallel)
+library(tidyr)
+library(ggplot2)
 
 g.trim <- readRDS("../twitter_data/all/graph_advanced.Rds")
 tweets.summary <- readRDS("../twitter_data/all/tweets_keywordsearch_advanced.Rds")
@@ -802,11 +804,11 @@ plot.keywords.contracted <- function(keyword,limit){
   par(mar = c(0.01,0.01,0.01,0.01));   plot(g.contract,
                                             edge.width = E(g.contract)$retweets / 2000,
                                             vertex.size = V(g.contract)$strength.total / 20000 ,
-                                            edge.arrow.size = 0.5,
+                                            edge.arrow.size = 1,
                                             edge.curved = 0.2,
-                                            vertex.label = V(g.contract)$name,
+                                            vertex.label = ifelse(V(g.contract)$name %in% as.character(1:26),V(g.contract)$name,NA),
                                             vertex.color = map2color( vertex_attr(graph = g.contract, name = keyword, index = V(g.contract)) , pal, c(0,limit)),
-                                            edge.color = map2color( edge_attr(graph = g.contract, name = keyword, index = V(g.contract)) , pal, c(0,limit)),
+                                            edge.color = map2color( edge_attr(graph = g.contract, name = keyword, index = E(g.contract)) , pal, c(0,limit)),
                                             vertex.label.family= "Arial",
                                             vertex.label.color = "black",
                                             vertex.frame.color = "black",
@@ -837,8 +839,8 @@ plot.keywords.contracted <- function(keyword,limit){
                                             edge.arrow.size = 0.5,
                                             edge.curved = 0.2,
                                             vertex.color = map2color( vertex_attr(graph = g.contract, name = keyword, index = V(g.contract)) , pal, c(0,limit)),
-                                            edge.color = map2color( edge_attr(graph = g.contract, name = keyword, index = V(g.contract)) , pal, c(0,limit)),
-                                            vertex.label = V(g.contract)$name,
+                                            edge.color = map2color( edge_attr(graph = g.contract, name = keyword, index = E(g.contract)) , pal, c(0,limit)),
+                                            vertex.label = ifelse(V(g.contract)$name %in% as.character(1:26),V(g.contract)$name,NA),
                                             vertex.label.family= "Arial",
                                             vertex.label.color = "black",
                                             vertex.frame.color = "black",
@@ -856,6 +858,7 @@ for(i in 1:length(keyword.types)){
   plot.keywords.contracted(keyword.types[i], 0.05)
 }
 
+plot.keywords.contracted("mnkeywords.all", 1)
 
 keyword.types <- names(likes.keywords.external)
 keyword.types <- keyword.types[!keyword.types %in% c("lkcluster.from","lkcluster.to","lkkeywords.all","lkmentionsCount")]
@@ -865,11 +868,11 @@ plot.keywords.contracted <- function(keyword,limit){
   par(mar = c(0.01,0.01,0.01,0.01));   plot(g.contract,
                                             edge.width = E(g.contract)$likes / 2000,
                                             vertex.size = V(g.contract)$strength.total / 20000 ,
-                                            edge.arrow.size = 0.5,
+                                            edge.arrow.size = 1,
                                             edge.curved = 0.2,
                                             vertex.color = map2color( vertex_attr(graph = g.contract, name = keyword, index = V(g.contract)) , pal, c(0,limit)),
-                                            edge.color = map2color( edge_attr(graph = g.contract, name = keyword, index = V(g.contract)) , pal, c(0,limit)),
-                                            vertex.label = V(g.contract)$name,
+                                            edge.color = map2color( edge_attr(graph = g.contract, name = keyword, index = E(g.contract)) , pal, c(0,limit)),
+                                            vertex.label = ifelse(V(g.contract)$name %in% as.character(1:26),V(g.contract)$name,NA),
                                             vertex.label.family= "Arial",
                                             vertex.label.color = "black",
                                             vertex.frame.color = "black",
@@ -887,10 +890,34 @@ for(i in 1:length(keyword.types)){
   plot.keywords.contracted(keyword.types[i], 0.05)
 }
 
-
+plot.keywords.contracted("lkkeywords.all", 1)
 
 saveRDS(g.contract,"../twitter_data/all/graph_contract_advanced_keywords.Rds")
 
+## plot a master graph of allkeyword usuage
+
+E(g.contract)$allkewords    <- E(g.contract)$lkkeywords.all + E(g.contract)$mnkeywords.all + E(g.contract)$rtkeywords.all
+V(g.contract)$allkewords    <- V(g.contract)$lkkeywords.all + V(g.contract)$mnkeywords.all + V(g.contract)$rtkeywords.all
+
+png(filename=paste0("../twitter_plots/advanced/contracted/allkeyword_alltypes.png"), width=4, height=4, units = 'in', res = 600, pointsize=4)   
+par(mar = c(0.01,0.01,0.01,0.01));   plot(g.contract,
+                                          edge.width = E(g.contract)$weight / 10000,
+                                          vertex.size = V(g.contract)$strength.total / 20000 ,
+                                          edge.arrow.size = 1,
+                                          edge.curved = 0.2,
+                                          vertex.color = map2color( vertex_attr(graph = g.contract, name = "allkewords", index = V(g.contract)) , pal, c(0,2)),
+                                          edge.color = map2color( edge_attr(graph = g.contract, name = "allkewords", index = E(g.contract)) , pal, c(0,2)),
+                                          vertex.label = NA,
+                                          vertex.label.family= "Arial",
+                                          vertex.label.color = "black",
+                                          vertex.frame.color = "black",
+                                          layout = layout.contract, 
+                                          rescale = T, 
+                                          axes = F); dev.off()
+
+
+
+#g.contract <- readRDS("../twitter_data/all/graph_contract_advanced_keywords.Rds")
 
 # export the cluster summaries for internal vers external communications
 
@@ -947,8 +974,8 @@ saveRDS(internal.external,"../twitter_data/all/internal_external.Rds")
 for(i in 3:55){
   intval = internal.external[,i]
   extval = internal.external[,i + 55]
-  maxval = max(c(extval,intval,0.3))
-  maxval = ceiling(maxval/0.1)*0.1
+  maxval = max(c(extval,intval))
+  maxval = ceiling(maxval/0.01)*0.01
   
   jpeg(filename=paste0("../twitter_plots/advanced/internalexternal/",names(internal.external)[i],".jpg"), width=4, height=4, units = 'in', res = 600, pointsize=8)
   plot(intval, 
@@ -966,3 +993,212 @@ for(i in 3:55){
 
 
 
+#### make matirx of what people are talking about
+verts.contrat = igraph::as_data_frame(g.contract, what = "vertices")
+verts.contrat = verts.contrat[verts.contrat$name %in% as.character(1:26),]
+edges.contrat = igraph::as_data_frame(g.contract, what = "edges")
+edges.contrat = edges.contrat[edges.contrat$from %in% as.character(1:26),]
+edges.contrat = edges.contrat[edges.contrat$to %in% as.character(1:26),]
+
+top_keyword = function(data,type,value = F){
+  data = data[,names(data)[grepl(type,substr(names(data),1,2))]]
+  data = data[,names(data)[!grepl("keywords.all",names(data))]]
+  data = data[,names(data)[!grepl("house",names(data))]]
+  if(value){
+    colMax <- apply(data, 1, function(x) max(x))
+    attributes(colMax) = NULL
+    return(colMax)
+  }else{
+    top_name = colnames(data)[max.col(data,ties.method="first")]
+    top_name = substring(top_name,3)
+    return(top_name)
+  }
+}
+
+edges.contrat$toprt       = top_keyword(edges.contrat,"rt",F)
+edges.contrat$toprt.value = top_keyword(edges.contrat,"rt",T)
+edges.contrat$topmn       = top_keyword(edges.contrat,"mn",F)
+edges.contrat$topmn.value = top_keyword(edges.contrat,"mn",T)
+edges.contrat$toplk       = top_keyword(edges.contrat,"lk",F)
+edges.contrat$toplk.value = top_keyword(edges.contrat,"lk",T)
+
+edges.contrat = edges.contrat[,c("from","to","friends","likes","mentions","retweets","weight","toprt","toprt.value","topmn","topmn.value","toplk","toplk.value")]
+
+verts.contrat$toprt       = top_keyword(verts.contrat,"rt",F)
+verts.contrat$toprt.value = top_keyword(verts.contrat,"rt",T)
+verts.contrat$topmn       = top_keyword(verts.contrat,"mn",F)
+verts.contrat$topmn.value = top_keyword(verts.contrat,"mn",T)
+verts.contrat$toplk       = top_keyword(verts.contrat,"lk",F)
+verts.contrat$toplk.value = top_keyword(verts.contrat,"lk",T)
+
+verts.contrat$from = verts.contrat$name
+verts.contrat$to = verts.contrat$name
+verts.contrat = verts.contrat[,c("from","to","toprt","toprt.value","topmn","topmn.value","toplk","toplk.value")]
+
+verts.contrat$friends = NA
+verts.contrat$likes = NA
+verts.contrat$mentions = NA
+verts.contrat$retweets = NA
+verts.contrat$weight = NA
+
+verts.contrat = verts.contrat[,c("from","to","friends","likes","mentions","retweets","weight","toprt","toprt.value","topmn","topmn.value","toplk","toplk.value")]
+
+
+cluster.names = read.csv("../twitter_data/cluster_summaries_advanced.csv", stringsAsFactors = F)
+cluster.names = cluster.names[,c("id","name")]
+
+top_keywords = rbind(verts.contrat,edges.contrat)
+#make interaction matrixes
+# make_matrix = function(type, value = FALSE){
+#   if(value){
+#     field = paste0(type,".value")
+#   }else{
+#     field = type
+#   }
+#   
+#   top = top_keywords[,c("from","to",field)] %>%
+#     spread(key = "to", value = field)
+#   rownames(top) = top$from
+#   top$from = NULL
+#   top = top[order(as.numeric(rownames(top))),]
+#   top = top[,order(as.numeric(names(top)))]
+#   names(top) = cluster.names$name
+#   rownames(top) = cluster.names$name
+#   
+#   return(top)
+# }
+# 
+# 
+# top_rt = make_matrix("toprt", value = FALSE)
+# top_rt.value = make_matrix("toprt", value = TRUE)
+# top_mn = make_matrix("topmn", value = FALSE)
+# top_mn.value = make_matrix("topmn", value = TRUE)
+# top_lk = make_matrix("toplk", value = FALSE)
+# top_lk.value = make_matrix("toplk", value = TRUE)
+# 
+# write.csv(top_rt, "../twitter_data/interaction_matrix_rt.csv")
+# write.csv(top_rt.value, "../twitter_data/interaction_matrix_rtvalue.csv")
+# write.csv(top_mn, "../twitter_data/interaction_matrix_mn.csv")
+# write.csv(top_mn.value, "../twitter_data/interaction_matrix_mnvalue.csv")
+# write.csv(top_lk, "../twitter_data/interaction_matrix_lk.csv")
+# write.csv(top_lk.value, "../twitter_data/interaction_matrix_lkvalue.csv")
+
+#plot
+library(reshape2)
+top_keywords$from = as.integer(top_keywords$from)
+top_keywords$to = as.integer(top_keywords$to)
+top_keywords = left_join(top_keywords, cluster.names, by = c("to" = "id"))
+top_keywords = left_join(top_keywords, cluster.names, by = c("from" = "id"))
+names(top_keywords) = c("from","to","fr","lk","mn","rt","weight","toprt","toprt.value", "topmn","topmn.value", "toplk","toplk.value","name.to","name.from")
+
+#to get the internal communciations counts
+g.trim <- readRDS("../twitter_data/all/graph_advanced.Rds")
+verts.trim = igraph::as_data_frame(g.trim, "vertices")
+verts.trim = verts.trim[,c("name","cluster.friends")]
+edge.trim = igraph::as_data_frame(g.trim, "edges")
+names(verts.trim) = c("name","cluster.from")
+edge.trim = left_join(edge.trim, verts.trim, by = c("from" = "name"))
+names(verts.trim) = c("name","cluster.to")
+edge.trim = left_join(edge.trim, verts.trim, by = c("to" = "name"))
+#foo = top_keywords[,c("name.from","name.to","toprt","toprt.value")]
+internal.summary = edge.trim[edge.trim$cluster.from == edge.trim$cluster.to,]
+internal.summary = internal.summary[internal.summary$cluster.from <= 26 & internal.summary$cluster.to <= 26,]
+internal.summary = internal.summary %>%
+                    group_by(cluster.from, cluster.to) %>%
+                    summarise(friends = sum(friends),
+                              likes  = sum(likes),
+                              mentions = sum (mentions),
+                              retweets = sum (retweets), 
+                              weight = sum(weight))
+
+names(internal.summary) = c("from", "to","fr","lk","mn","rt","weight")
+
+for(i in 1:26){
+  top_keywords[i,"fr"] <- as.integer(internal.summary[i,"fr"])
+  top_keywords[i,"lk"] <- as.integer(internal.summary[i,"lk"])
+  top_keywords[i,"mn"] <- as.integer(internal.summary[i,"mn"])
+  top_keywords[i,"rt"] <- as.integer(internal.summary[i,"rt"])
+  top_keywords[i,"weight"] <- as.integer(internal.summary[i,"weight"])
+}
+
+#mat = as.matrix(top_rt.value)
+
+#reorder_mat <- function(mat){
+#  # Use correlation between variables as distance
+#  rowsms  = rowSums(mat, na.rm = T)
+#  #colsms = colSums(mat, na.rm = T)
+#  mat = mat[order(-rowsms),order(-rowsms)]
+#  return(mat)
+#}
+#mat = reorder_mat(mat)
+#foo = melt(mat, na.rm = T)
+
+
+plot_matrix = function(type){
+  # get data
+  data = top_keywords[,c("name.from", "name.to", type ,paste0("top",type),paste0("top",type,".value"))]
+  data$score = round(data[,3] * data[,5],2)
+  names(data) = c("from","to","count","lable","rate","value")
+  
+  datacolours = c("#a50026",
+    "#d73027",
+    "#f46d43",
+    "#fdae61",
+    "#fee090",
+    "#ffffbf",
+    "#e0f3f8",
+    "#abd9e9",
+    "#74add1",
+    "#4575b4",
+    "#313695")
+  
+  #datacolours = c("#D3D3D3", "#FF0000", "#FF5500", "#FFAA00", "#FFFF00", "#AAFF2A", "#54FF54", "#00FF7F", "#15CD9F", "#2B9BC0", "#4169E1")
+  
+  datamax = max(data$value, na.rm = T)
+  
+  datavalues = c(0,
+                 quantile(data$value, probs = 0.10, na.rm = T)/datamax,
+                 quantile(data$value, probs = 0.20, na.rm = T)/datamax,
+                 quantile(data$value, probs = 0.30, na.rm = T)/datamax,
+                 quantile(data$value, probs = 0.40, na.rm = T)/datamax,
+                 quantile(data$value, probs = 0.50, na.rm = T)/datamax,
+                 quantile(data$value, probs = 0.60, na.rm = T)/datamax,
+                 quantile(data$value, probs = 0.70, na.rm = T)/datamax,
+                 quantile(data$value, probs = 0.80, na.rm = T)/datamax,
+                 quantile(data$value, probs = 0.90, na.rm = T)/datamax,
+                 1)
+  attributes(datavalues) = NULL
+  
+  
+  png(filename=paste0("../twitter_plots/advanced/interactions/type_",type,"_2.png"), width=4, height=4, units = 'in', res = 600, pointsize=1)   
+  par(mar = c(0.01,0.01,0.01,0.01));
+    #Create a ggheatmap
+  ggheatmap <- ggplot(data, aes(from, to, fill = value))+
+    geom_tile(color = "white")+
+    #scale_fill_gradient2(low = "#a50026", mid = "#ffffbf", high = "#4575b4", 
+    #                     midpoint = quantile(data$value, probs = 0.90, na.rm = T), limit = c(1,max(data$value, na.rm = T)), space = "Lab", 
+    #                     name="Keyword Frequency") +
+    scale_fill_gradientn(colours = datacolours, values = datavalues, space = "Lab", na.value = "grey50", guide = "colourbar") +
+    theme_minimal()+ # minimal theme
+    theme(axis.title = element_text(size = 4)) +
+    theme(axis.text.y = element_text(size = 4)) +
+    theme(axis.text.x = element_text(angle = 90, vjust = 0, size = 4, hjust = 1) ) +
+    theme(legend.position=c(-0.15, -0.1),legend.title=element_text(size=4), legend.key.size = unit(0.35,"cm"), legend.text = element_text(size=4)) +
+    geom_text(aes(from, to, label = lable), color = "black", size = 1, angle = 30, hjust = 0.3) +
+    coord_fixed()
+  # Print the heatmap
+  print(ggheatmap)
+  
+  #ggheatmap + 
+    
+
+  dev.off()
+}
+
+plot_matrix("rt")
+plot_matrix("mn")
+plot_matrix("lk")
+  
+
+
+#### 

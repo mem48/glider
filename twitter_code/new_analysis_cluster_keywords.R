@@ -119,3 +119,20 @@ par(mar = c(0.01,0.01,0.01,0.01));   plot(g.contract,
                                           layout = layout.contract, 
                                           rescale = T, 
                                           axes = F); dev.off()
+
+
+png(filename=paste0("../twitter_plots/advanced/","contracted_cluster",".png"), width=10, height=10, units = 'in', res = 600, pointsize=8)   
+par(mar = c(0.01,0.01,0.01,0.01));   plot(g.contract,
+                                          edge.width = E(g.contract)$weight/ 10000,
+                                          vertex.size = V(g.contract)$strength.total / 20000 ,
+                                          edge.arrow.size = 0.5,
+                                          edge.curved=0.2,
+                                          vertex.color = V(g.contract)$colours.friends,
+                                          vertex.label = ifelse((V(g.contract)$cluster.friends %in% c(as.character(1:26))), (V(g.contract)$name ) ,NA ),
+                                          vertex.label.family= "Arial",
+                                          vertex.label.color = "black",
+                                          vertex.frame.color = V(g.contract)$colours.friends,
+                                          layout = layout.contract, 
+                                          rescale = T, 
+                                          axes = F); dev.off()
+
