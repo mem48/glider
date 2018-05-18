@@ -1,0 +1,27 @@
+"","Construction","Politics 1","Housing","Environmental","Architecture","Heating & Plumbing","Passive house","Skills & Apprenticeships","Property Management","Windows & Doors","Politics 2","RICS","Engineering","Urban Planning","Scotland","Flooding","Heritage","Building Control","Management","CITB & Skills","Wales","New Urbanism","CIBSE","Facilities Management","Health & Safety","Livery Companies"
+"Construction","construction","construction","construction","sustainability","architect","construction","build","skills","construction","doorsandwindows","skills","construction","engineering","build","construction","flood","architect","build","construction","construction","construction",NA,"build","construction","construction","installer"
+"Politics 1","build","economy","homeless","energy","build","gas","build","skills","build",NA,"economy","build","skills","build","poverty","flood","build",NA,NA,NA,"build","build",NA,NA,"build","skills"
+"Housing","build","homeless","rent","energy","build","gas","build","skills","rent",NA,"homeless","homeless","rent","build","homeless",NA,NA,"build",NA,NA,"build",NA,NA,NA,"doorsandwindows",NA
+"Environmental","build","energy","energy","energy","build","energy","energy","skills","build","energy","energy","energy","energy","carbonandclimate","sustainability","flood",NA,NA,NA,NA,"energy","carbonandclimate","energy",NA,NA,NA
+"Architecture","architect","build","build","build","architect","design","architect","architect","build",NA,NA,"architect","design","build","build",NA,"architect",NA,NA,NA,"architect","architect","build","design",NA,NA
+"Heating & Plumbing","trades","plumbing","gas","energy","plumbing","gas","heating","skills","gas","trades",NA,NA,"heating",NA,NA,"plumbing",NA,NA,NA,NA,NA,NA,"build",NA,"gas",NA
+"Passive house","build","build","build","build","build","build","build",NA,"build","doorsandwindows",NA,"build","build","build","build",NA,"retrofit",NA,NA,NA,NA,"build","build",NA,NA,NA
+"Skills & Apprenticeships","skills","skills","skills","skills","skills","skills",NA,"skills",NA,NA,"skills",NA,"skills",NA,"skills",NA,NA,NA,NA,NA,"skills",NA,NA,NA,NA,NA
+"Property Management","build","build","landlord","sustainability","build","gas","build",NA,"landlord",NA,"build","RICS",NA,"build","landlord",NA,NA,NA,NA,NA,"rent",NA,NA,"build",NA,NA
+"Windows & Doors","doorsandwindows","doorsandwindows",NA,"doorsandwindows","architect","skills","doorsandwindows",NA,"doorsandwindows","doorsandwindows",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Politics 2","build","economy","homeless","energy",NA,NA,NA,"skills",NA,NA,"economy",NA,"skills",NA,NA,"flood",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"RICS","RICS","RICS","RICS","RICS","RICS",NA,NA,NA,"RICS",NA,NA,"RICS","RICS","RICS","RICS",NA,NA,NA,NA,NA,"RICS",NA,NA,"RICS",NA,NA
+"Engineering","engineering","engineering",NA,"energy","engineering","engineering","engineering","engineering",NA,NA,"engineering",NA,"engineering",NA,NA,"engineering",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Urban Planning","build","build","build","green","build",NA,"build",NA,"build",NA,NA,"build",NA,"build","build",NA,"build",NA,NA,NA,NA,"build",NA,NA,NA,NA
+"Scotland","build","poverty","rent","energy","architect",NA,NA,"skills","rent",NA,"economy",NA,NA,"build","skills",NA,"build",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Flooding","flood","flood",NA,"flood",NA,"flood",NA,NA,NA,NA,"flood",NA,"flood",NA,NA,"flood",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Heritage","build","build",NA,NA,"build",NA,"build",NA,NA,NA,NA,NA,NA,"build","build",NA,"build",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Building Control","build","build",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"build",NA,NA,NA,NA,NA,NA,NA,NA
+"Management","skills","skills",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"skills",NA,NA,NA,NA,NA,NA,NA
+"CITB & Skills","skills",NA,"skills",NA,NA,NA,NA,"skills",NA,NA,NA,NA,NA,NA,"skills",NA,NA,NA,NA,"skills","construction",NA,NA,NA,NA,NA
+"Wales","construction","economy","skills","sustainability","architect",NA,NA,"skills","build",NA,NA,"RICS",NA,NA,NA,NA,NA,NA,NA,"construction","construction",NA,NA,NA,NA,NA
+"New Urbanism",NA,"build",NA,"carbonandclimate","design",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"design",NA,NA,NA,NA
+"CIBSE","build",NA,NA,"build","build","build","build",NA,NA,NA,NA,NA,"engineering",NA,NA,NA,NA,NA,NA,NA,NA,NA,"build",NA,NA,NA
+"Facilities Management","construction",NA,"bim","sustainability","build",NA,NA,NA,"rent",NA,NA,"RICS",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"build","skills",NA,NA
+"Health & Safety","construction","electric",NA,NA,NA,"gas",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"electric",NA
+"Livery Companies","skills","skills",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"skills"

@@ -40,3 +40,5 @@ twitter_code/.Rhistory
 jobs_code/.Rhistory
 *.Rds
 *.zip
+twitter_data/all/friends
+twitter_data/all/likes
