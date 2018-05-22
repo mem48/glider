@@ -1,19 +1,19 @@
 # Readin in gavins new data
+file.path = "D:/Users/earmmor/OneDrive - University of Leeds/GLIDER/03 Work Packages/WP2 Economic risks/Retrofit_specs_unit_costs_machine_readable_v3.xlsx"
 
-retrofit.options <- readxl::read_xlsx("D:/Users/earmmor/OneDrive - University of Leeds/GLIDER/03 Work Packages/WP2 Economic risks/Retrofit_specs_unit_costs_machine_readable_v2.xlsx", sheet = "by_retrofit_option")
-names(retrofit.options) <- c("cost £","ID","sub-project","variations","options","compatible standard","materials","hired plant","labour","wall",	"floor",	"roof",	"solar",	"window",	"energy",	"type")
+retrofit.options <- readxl::read_xlsx(file.path, sheet = "by_retrofit_option")
+names(retrofit.options) <- c("ID","sub-project","variations","options","compatible standard","materials","hired plant","labour","wall",	"floor",	"roof",	"solar",	"window",	"energy",	"type")
 retrofit.options <- retrofit.options[3:nrow(retrofit.options),]
-retrofit.options$`cost £` <- NULL
 retrofit.options <- retrofit.options[!is.na(retrofit.options$ID),]
 
-materials <- readxl::read_xlsx("D:/Users/earmmor/OneDrive - University of Leeds/GLIDER/03 Work Packages/WP2 Economic risks/Retrofit_specs_unit_costs_machine_readable_v2.xlsx", sheet = "materials_list")
-names(materials) <- c("ID",	"sub-project",	"variations",	"options",	"compatible standard",	"materials",	"cost",	"unit","variaible",	"notes",	"sources")
+materials <- readxl::read_xlsx(file.path, sheet = "materials_list")
+names(materials) <- c("ID",	"sub-project",	"variations",	"options",	"compatible standard",	"materials",	"cost",	"unit","variable",	"notes",	"sources")
 materials <- materials[3:nrow(materials),]
 materials <- materials[materials$ID != "NONE",]
 materials <- as.data.frame(materials)
 
 
-arch <- readRDS("../jobs_data/archetype_summary_retrofitopts.Rds")
+arch <- read.csv("../jobs_data/archetype_summary.csv", stringsAsFactors = F)
 
 #Propose Retrofit Options
 
@@ -26,9 +26,9 @@ retrofit.options$window <- strsplit(gsub(" ","",retrofit.options$window), ",")
 retrofit.options$energy <- strsplit(gsub(" ","",retrofit.options$energy), ",")
 retrofit.options$type <- strsplit(gsub(" ","",retrofit.options$type), ",")
 
-retrofit.options.x <- retrofit.options[retrofit.options$`compatible standard` %in% c("X","ALL"),]
-retrofit.options.y <- retrofit.options[retrofit.options$`compatible standard` %in% c("Y","ALL"),]
-retrofit.options.z <- retrofit.options[retrofit.options$`compatible standard` %in% c("Z","ALL"),]
+retrofit.options.x <- retrofit.options[grepl("X",retrofit.options$`compatible standard`),]
+retrofit.options.y <- retrofit.options[grepl("Y",retrofit.options$`compatible standard`),]
+retrofit.options.z <- retrofit.options[grepl("Z",retrofit.options$`compatible standard`),]
 
 #Get Retrofit Options
 get.options <- function(a, data){
@@ -74,6 +74,8 @@ cost.options <- function(x){
   options <- unlist(arch$retrofit.options.x[x])
   materials.sub <- materials[materials$ID %in% options, ]
   materials.sub <- materials.sub[,c("ID","compatible standard",	"materials",	"cost",	"unit","variable")]
+  
+  
 }
 
 foo <- unique(materials$variaible)

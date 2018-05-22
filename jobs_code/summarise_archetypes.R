@@ -29,6 +29,9 @@ arsum_solar <- data.frame(id = c("A","B"), desc = c("Yes","No"), stringsAsFactor
 arsum_floor <- data.frame(id = c("A","B","C"), desc = c("Concrete Floors","Suspended Timber Floor","Historic"), stringsAsFactors = F)
 
 
+#fill in missing cieling heights
+comb$cheight0[is.na(comb$cheight0)] = median(comb$cheight0, na.rm = T )
+
 #estimate the ground floor area
 comb$groundfloorarea <- comb$floorx / comb$storeyx
 comb$est.extwallarea <- comb$dpc.perim * comb$cheight0 * comb$storeyx
@@ -37,6 +40,31 @@ plot(comb$est.extwallarea, comb$wall.area.ext)
 
 summary(comb$groundfloorarea)
 abline(a = 1, b = 1, col = "red")
+
+# estinmate the number of external walls
+external.walls <- function(x){
+  if(x %in% c("detached","bungalow")){
+    return(4)
+  }else if(x %in% c("semi detached","end terrace")){
+    return(3)
+  }else{
+    return(2)
+  }
+}
+
+comb$externalwalls = sapply(comb$type,external.walls)
+
+# estimate external wall areas
+comb$est.extwallarea.front = comb$est.extwallarea / comb$externalwalls
+comb$est.extwallarea.exceptfront = comb$est.extwallarea - comb$est.extwallarea.front
+
+# estimate internal wall areas
+# assumking a 300mm wall thickness 
+comb$est.intwallarea.extwalls = comb$wall.area.ext - ((comb$cheight0 * comb$storeyx) * 2 * comb$externalwalls * 0.3 )
+plot(comb$wall.area.ext, comb$est.intwallarea.extwalls)
+abline(a = 1, b = 1, col = "red")
+comb$est.intwallarea.frontwall = comb$est.intwallarea.extwalls / comb$externalwalls
+comb$est.intwallarea.extpartywalls = comb$wall.area.ext - ((comb$cheight0 * comb$storeyx) * 2 * 4 * 0.3 )
 
 arch <- data.frame(archcode = unique(comb$archcode), 
                    arch_type = "",

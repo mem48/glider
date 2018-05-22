@@ -2,8 +2,8 @@
 
 #Get list of Archetyes
 
-arch <- read.csv("data/archetype_summary.csv", stringsAsFactors = F)
-ropt <- read.csv("data/retrofit_options.csv", stringsAsFactors = F)
+arch <- read.csv("../jobs_data/archetype_summary.csv", stringsAsFactors = F)
+ropt <- read.csv("../jobs_data/retrofit_options.csv", stringsAsFactors = F)
 
 # convert options to lists
 ropt$wall <- strsplit(gsub(" ","",ropt$wall), ",")
