@@ -10,6 +10,13 @@ conn.simple <- readRDS("../twitter_data/parReRun/FirstRoundConnections.Rds")
 #sort by importance
 conn.simple <- conn.simple[order(-conn.simple$weight),]
 
+#cnts = conn.simple %>% group_by(to) %>% summarise(count = sum(weight))
+# cnts = cnts[order(-cnts$count),]
+# cnts$cum = cumsum(cnts$count)
+# cnts[15000,]
+
+
+
 #make  a list of the accounts to check
 accounts <- unique(conn.simple$to)
 
