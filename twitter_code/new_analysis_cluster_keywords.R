@@ -78,9 +78,11 @@ clusterres.summary <- data.frame(id = largeclusters$Var1)
 
 clusterres.summary$keywords <- NA
 clusterres.summary$accounts <- NA
+clusterres.summary$members  <- NA
 
 for(i in largeclusters$Var1){
   acc <- clusterres[[i]][[1]]
+  memb <- nrow(acc)
   acc <- acc$name[1:20]
   acc <- paste(acc, collapse = " ")
   keywds <- clusterres[[i]][[2]]
@@ -88,6 +90,7 @@ for(i in largeclusters$Var1){
   keywds <- paste(keywds, collapse = " ")
   clusterres.summary$keywords[i] <- keywds
   clusterres.summary$accounts[i] <- acc
+  clusterres.summary$members[i]  <- memb
 }
 
 #write.csv(clusterres.summary,"../twitter_data/cluster_summaries_advanced.csv", row.names = F)
